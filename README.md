@@ -1,2 +1,3 @@
-# FreeODday
-FreeODwiki,基于overdose.day数据创建的开源药物百科
+# FreeODwiki
+FreeODwiki, 自由的OD百科全书
+本站尚在建设中
