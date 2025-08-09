@@ -1,4 +1,3 @@
-![FreeODwiki图标](./FreeODwiki.png)
 
 # FreeODwiki，自由的OD百科全书
 
@@ -33,3 +32,5 @@
 
 
 本项目在X上有一个账号，此账号的唯一目的是预防本项目被冒名顶替，请勿过度关注。
+
+![FreeODwiki图标](./FreeODwiki.png)
