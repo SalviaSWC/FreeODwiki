@@ -1,3 +1,13 @@
+---
+title: anti-卡西酮类
+description: 
+published: true
+date: 2025-12-17T08:54:04.204Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-17T08:54:01.827Z
+---
+
 # 卡西酮类
 
 **作用机理**：卡西酮与安非他命的化学结构相似，因此具有安非他命的特征（特指拟交感神经症和血清素综合症），从而拥有明显的精神活性
