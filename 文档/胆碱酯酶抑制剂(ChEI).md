@@ -1,3 +1,13 @@
+---
+title: 胆碱酯酶抑制剂(ChEI)
+description: 
+published: true
+date: 2025-12-17T08:54:56.587Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-17T08:54:54.344Z
+---
+
 # 胆碱酯酶抑制剂(ChEI)
 
 胆碱酯酶抑制剂（Cholinesterase inhibitor，ChEI）是一类治疗阿尔茨海默病或重症肌无力的药物，也用于化学武器和杀虫剂，属于抗谵妄剂。

@@ -1,3 +1,13 @@
+---
+title: 抗抑郁潜力的NMDA拮抗剂
+description: 
+published: true
+date: 2025-12-17T08:54:43.568Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-17T08:54:41.326Z
+---
+
 下列这些NMDA拮抗剂用于抗抑郁，早在2019年6月[1]之前就已投入研究，然而至今（2024年6月）五年时间过去了，只有S氯胺酮和Auvelity批准上市。
 
  
