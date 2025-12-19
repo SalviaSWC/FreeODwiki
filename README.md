@@ -3,7 +3,9 @@
 
 本站尚在建设中
 
-强烈建议手机端使用者打开浏览器内置的"桌面版网站"，否则浏览体验较差。
+本站的Github网址: https://github.com/SalviaSWC/FreeODwiki
+
+本站的官方网址: https://freeod.wiki/
 
 本站现在接受药物报告投稿，[点击这里查看投稿指南](./关于本站/药物报告投稿指南.md)
 
