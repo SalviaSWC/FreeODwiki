@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2025-12-26T08:09:35.758Z
+date: 2025-12-26T08:10:04.501Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T13:24:33.547Z
@@ -28,7 +28,7 @@ dateCreated: 2025-12-25T13:24:33.547Z
 [兴奋剂](/物质/兴奋剂/home)
 [抑制剂](/物质/抑制剂/home)
 [致幻剂](/物质/致幻剂/home)
-[解离剂](/物质/解离剂解离剂/home)
+[解离剂](/物质/解离剂/home)
 [谵妄剂](/物质/谵妄剂/home)
 
 
