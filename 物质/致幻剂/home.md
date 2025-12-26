@@ -2,7 +2,7 @@
 title: 致幻剂
 description: 
 published: true
-date: 2025-12-26T08:21:11.281Z
+date: 2025-12-26T08:21:33.376Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T14:02:15.623Z
@@ -24,5 +24,5 @@ dateCreated: 2025-12-25T14:02:15.623Z
 **常见实例**： 
 [DMT](/物质/致幻剂/DMT.md)
 [DPT](/物质/致幻剂/DPT.md)
-[LSD](/物质/致幻剂/LSD/md)
-[lsa](/物质/致幻剂/lsa/md)
+[LSD](/物质/致幻剂/LSD.md)
+[lsa](/物质/致幻剂/lsa.md)
