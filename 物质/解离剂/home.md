@@ -2,7 +2,7 @@
 title: 解离剂
 description: 
 published: true
-date: 2025-12-26T08:23:03.339Z
+date: 2025-12-26T12:47:31.748Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T14:02:46.650Z
@@ -25,3 +25,4 @@ dateCreated: 2025-12-25T14:02:46.650Z
 [右美沙芬](/物质/解离剂/右美沙芬.md)
 [氯胺酮](/物质/解离剂/氯胺酮.md)
 [金刚烷胺（Amantadine）](/物质/解离剂/金刚烷胺（Amantadine）.md)
+[MK-801](/物质/解离剂/MK-801.md)
