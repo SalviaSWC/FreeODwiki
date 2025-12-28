@@ -2,7 +2,7 @@
 title: FOW main
 description: 
 published: true
-date: 2025-12-26T05:54:28.418Z
+date: 2025-12-28T15:24:59.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T13:24:38.152Z
@@ -10,7 +10,32 @@ dateCreated: 2025-12-25T13:24:38.152Z
 
 # FreeODwiki，自由的OD百科全书
 
-本站尚在建设中
+本站的Github网址: https://github.com/SalviaSWC/FreeODwiki
+
+本站的官方网址: https://freeod.wiki/
+
+本站现在接受药物报告投稿，[药物报告投稿指南](/文档/关于本站/药物报告投稿指南.md)
+
+## 站点索引
+
+**!进站必读!**[关于本站](/文档/关于本站/关于本站.md) 本站建站精神、贡献指南、内容方针、药物报告投稿指南
+精神药物的索引
+[兴奋剂](/物质/兴奋剂/home.md)
+[抑制剂](/物质/抑制剂/home.md)
+[致幻剂](/物质/致幻剂/home.md)
+[解离剂](/物质/解离剂/home.md)
+[谵妄剂](/物质/谵妄剂/home.md)
+
+
+
+[报告](/报告/home.md)使用精神药物的报告索引
+
+[药物应对措施](/文档/药物应对措施/home.md) 如何减少使用精神药物造成的伤害索引
+
+[精神药理学](/文档/精神药理学/home.md) 精神药物的作用理论索引
+
+[关于本站](/文档/关于本站/关于本站.md) FreeODwiki的公告索引
+
 
 
 ![FreeODwiki图标](./FreeODwiki.png)
