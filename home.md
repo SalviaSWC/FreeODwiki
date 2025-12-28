@@ -2,7 +2,7 @@
 title: FOW main
 description: 
 published: true
-date: 2025-12-28T15:24:59.042Z
+date: 2025-12-28T15:26:25.635Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T13:24:38.152Z
@@ -30,9 +30,13 @@ dateCreated: 2025-12-25T13:24:38.152Z
 
 [报告](/报告/home.md)使用精神药物的报告索引
 
+[社会学](/文档/社会学/home)
+
 [药物应对措施](/文档/药物应对措施/home.md) 如何减少使用精神药物造成的伤害索引
 
 [精神药理学](/文档/精神药理学/home.md) 精神药物的作用理论索引
+
+[其他企划](/文档/home)
 
 [关于本站](/文档/关于本站/关于本站.md) FreeODwiki的公告索引
 
