@@ -2,8 +2,8 @@
 title: 4-HO-MET – 15 mg Insufflated
 description: 
 published: true
-date: 2025-12-26T06:33:09.918Z
-tags: 
+date: 2025-12-29T10:00:24.529Z
+tags: translated from psywiki, ai trasnlation
 editor: markdown
 dateCreated: 2025-12-26T06:33:09.918Z
 ---
