@@ -2,15 +2,15 @@
 title: 3-MeO-PCE（18 mg总剂量；舌下含服）
 description: 
 published: true
-date: 2025-12-26T06:30:57.670Z
-tags: 
+date: 2025-12-29T09:59:43.063Z
+tags: translated from psywiki, ai trasnlation
 editor: markdown
 dateCreated: 2025-12-26T06:30:57.670Z
 ---
 
-# 事件记录：3-MeO-PCE（18 mg，总剂量；舌下含服）
+# 记录：3-MeO-PCE（18 mg，总剂量；舌下含服）
 
-**受试者编号**：D-5293（代号KTDA）  
+
 **年龄**：24岁  
 **性别**：MtF  
 **身高**：173 cm  
