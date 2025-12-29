@@ -2,8 +2,8 @@
 title: 3-MeO-PCE (20-30 mg, insufflated)
 description: 
 published: true
-date: 2025-12-26T06:27:39.809Z
-tags: 
+date: 2025-12-29T09:58:22.303Z
+tags: translated from psywiki
 editor: markdown
 dateCreated: 2025-12-26T06:27:39.809Z
 ---
