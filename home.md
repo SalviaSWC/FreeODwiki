@@ -22,7 +22,7 @@
 
 - [🧬精神药理学](/文档/精神药理学/home.md) 精神药物的作用机理索引
 
-- [🤝贡献指南](/CONTRIBUTING.md) 如何为FreeODwiki贡献你的知识？
+- [🤝贡献指南](/CONTRIBUTING.md) 如何为FreeODwiki做出贡献？
 
 
 
