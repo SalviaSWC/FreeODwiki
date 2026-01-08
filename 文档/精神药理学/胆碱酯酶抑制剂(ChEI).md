@@ -1,12 +1,3 @@
----
-title: 胆碱酯酶抑制剂(ChEI)
-description: 
-published: true
-date: 2025-12-17T08:54:56.587Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-17T08:54:54.344Z
----
 
 # 胆碱酯酶抑制剂(ChEI)
 

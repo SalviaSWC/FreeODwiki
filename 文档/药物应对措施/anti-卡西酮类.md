@@ -1,12 +1,3 @@
----
-title: anti-卡西酮类
-description: 
-published: true
-date: 2025-12-17T08:54:04.204Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-17T08:54:01.827Z
----
 
 # 卡西酮类
 

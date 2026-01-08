@@ -1,12 +1,3 @@
----
-title: DMT
-description: 
-published: true
-date: 2025-12-29T10:00:56.385Z
-tags: translated from psywiki, ai trasnlation
-editor: markdown
-dateCreated: 2025-12-26T12:37:47.380Z
----
 
 # 事件报告：N,N-二甲基色胺（DMT）暴露记录
 

@@ -1,12 +1,3 @@
----
-title: 氯硝西泮（Clonazepam）
-description: 
-published: true
-date: 2025-12-18T21:03:14.846Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-18T21:03:14.846Z
----
 
 # 氯硝西泮（Clonazepam）
 

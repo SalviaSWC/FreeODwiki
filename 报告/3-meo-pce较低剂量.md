@@ -1,12 +1,3 @@
----
-title: 3-MeO-PCE（18 mg总剂量；舌下含服）
-description: 
-published: true
-date: 2025-12-29T09:59:43.063Z
-tags: translated from psywiki, ai trasnlation
-editor: markdown
-dateCreated: 2025-12-26T06:30:57.670Z
----
 
 # 记录：3-MeO-PCE（18 mg，总剂量；舌下含服）
 

@@ -1,12 +1,3 @@
----
-title: LSD
-description: 
-published: true
-date: 2025-12-25T16:25:32.789Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-25T16:25:13.109Z
----
 
 # LSD（Lysergic Acid Diethylamide）
 
