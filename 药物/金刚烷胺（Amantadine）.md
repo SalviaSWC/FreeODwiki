@@ -1,12 +1,3 @@
----
-title: 金刚烷胺（Amantadine）
-description: 
-published: true
-date: 2025-12-18T21:06:20.889Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-18T21:06:20.889Z
----
 
 # 金刚烷胺（Amantadine）
 

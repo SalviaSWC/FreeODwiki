@@ -1,12 +1,3 @@
----
-title: 非标准药物
-description: 
-published: true
-date: 2025-12-25T15:51:24.066Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-25T15:51:24.066Z
----
 # 精神药物[^1]
 
 [^1]: 请勿混淆"精神药物"与"精神病药物"。前者注重服药效果，后者注重医学用途。

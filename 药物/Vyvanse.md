@@ -1,12 +1,3 @@
----
-title: Vyvanse
-description: 
-published: true
-date: 2025-12-25T16:14:42.909Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-25T16:14:42.909Z
----
 
 # Vyvanse（Lisdexamfetamine Dimesylate）
 

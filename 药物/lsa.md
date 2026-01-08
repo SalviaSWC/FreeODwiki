@@ -1,12 +1,3 @@
----
-title: lsa
-description: 
-published: true
-date: 2025-12-25T16:26:50.173Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-25T16:26:50.173Z
----
 
 # LSA（Lysergic Acid Amide）
 
