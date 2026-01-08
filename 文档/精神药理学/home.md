@@ -1,12 +1,3 @@
----
-title: 精神药理学
-description: 
-published: true
-date: 2025-12-26T06:37:59.066Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-26T06:11:30.757Z
----
 
 # 生命科学
 

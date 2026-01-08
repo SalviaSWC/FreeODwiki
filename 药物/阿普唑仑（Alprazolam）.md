@@ -1,12 +1,3 @@
----
-title: 阿普唑仑（Alprazolam）
-description: 
-published: true
-date: 2025-12-18T21:12:25.858Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-18T21:12:25.858Z
----
 
 # 阿普唑仑（Alprazolam）
 

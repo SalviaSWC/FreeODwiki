@@ -1,12 +1,3 @@
----
-title: 3-MeO-PCE (20-30 mg, insufflated)
-description: 
-published: true
-date: 2025-12-29T09:58:53.355Z
-tags: translated from psywiki, ai trasnlation
-editor: markdown
-dateCreated: 2025-12-26T06:27:39.809Z
----
 
 # 事件记录：3-MeO-PCE（20-30 mg，鼻腔吸入）
 

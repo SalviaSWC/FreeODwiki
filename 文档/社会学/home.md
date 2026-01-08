@@ -1,12 +1,3 @@
----
-title: 社会学
-description: 
-published: true
-date: 2025-12-26T08:25:15.933Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-26T06:08:04.233Z
----
 
 ## 内在的威胁固然存在，但也须防范外来之威胁
 这里将会存放有关法，有关社会的内容

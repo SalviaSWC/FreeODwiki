@@ -1,12 +1,3 @@
----
-title: anti-苯二氮卓类药物
-description: 
-published: true
-date: 2025-12-17T08:54:07.298Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-17T08:54:05.178Z
----
 
 # 苯二氮卓类药物反制
 *苯二氮卓类药物过量可导致意识丧失，呼吸抑制和低血压*
