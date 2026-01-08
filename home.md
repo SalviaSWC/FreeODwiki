@@ -1,12 +1,3 @@
----
-title: FOW main
-description: 
-published: true
-date: 2025-12-28T15:26:25.635Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-25T13:24:38.152Z
----
 
 # FreeODwiki，自由的OD百科全书
 
