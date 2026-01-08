@@ -1,23 +1,11 @@
----
-title: README
-description: 
-published: true
-date: 2025-12-29T10:01:56.309Z
-tags: 仅用于github
-editor: markdown
-dateCreated: 2025-12-25T13:24:33.547Z
----
-
-
-
 
 # FreeODwiki，自由的OD百科全书
 
 本站尚在建设中
 
-由于本站被设计成方便使用`wikijs`部署的方式，而`wikijs`要求使用`home.md`作为主页，而Github自动使用`README.md`，会产生冲突。
+由于本站的设计要求所有文档方便用wikijs部署，而wikijs要求使用`home.md`作为主页，但是Github自动使用`README.md`作为主页，会产生冲突。
 
-请点击[这里](home.md)进入主页！
+因此，请点击[这里](home.md)进入主页！
 
 本站的Github网址: https://github.com/SalviaSWC/FreeODwiki
 
