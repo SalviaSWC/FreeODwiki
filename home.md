@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2026-01-11T13:56:50.842Z
+date: 2026-01-11T14:51:20.091Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:45:31.166Z
@@ -10,12 +10,8 @@ dateCreated: 2026-01-11T13:45:31.166Z
 
 
 # FreeODwiki，自由的OD百科全书
-
-本站的Github网址: https://github.com/SalviaSWC/FreeODwiki
-
-本站的Wikijs渲染网址(不一定是最新的): https://freeod.wiki/
-2026.1.11updated
-
+https://freeod.wiki/
+点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki)
 ## 站点索引
 
 - **!进站必读!：**[🤝AboutUS](/文档/关于本站/home.md) 本站建站精神、贡献指南、内容方针、药物报告投稿指南
