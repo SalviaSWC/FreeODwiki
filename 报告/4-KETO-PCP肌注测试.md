@@ -1,3 +1,13 @@
+---
+title: 4-KETO-PCP肌注测试
+description: 
+published: true
+date: 2026-01-11T15:09:52.796Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T15:09:50.510Z
+---
+
 01.10 23:23
 蝶尘（4-KETO-PCP）肌注测试
 22:21 解离 轻微麻醉感

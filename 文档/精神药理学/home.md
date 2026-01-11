@@ -2,7 +2,7 @@
 title: 精神药理学
 description: 
 published: true
-date: 2026-01-11T14:22:57.005Z
+date: 2026-01-11T14:22:59.235Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T14:22:57.005Z

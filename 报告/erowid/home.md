@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2026-01-11T13:47:56.539Z
+date: 2026-01-11T13:52:16.880Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:47:54.306Z
