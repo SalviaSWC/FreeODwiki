@@ -1,13 +1,12 @@
 ---
-title: home
+title: 生命科学
 description: 
 published: true
-date: 2026-01-11T13:48:15.858Z
+date: 2026-01-11T14:19:08.842Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:48:13.584Z
 ---
-
 
 # 生命科学
 
