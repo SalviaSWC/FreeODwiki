@@ -2,11 +2,12 @@
 title: home
 description: 
 published: true
-date: 2026-01-11T14:18:17.917Z
+date: 2026-01-11T15:19:36.654Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:46:35.367Z
 ---
+
 <!-- 老子用的网页端解析器和你他妈的github解析器不一样，以后在前面加-前缀好了  -->
 <!-- 以后每个单独分类都放到独自的页面里面，不要搞的长到看不完  -->
 # 精神药物

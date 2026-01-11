@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2026-01-11T15:19:34.175Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:45:27.698Z
+---
+
 <!-- 老子用的网页端解析器和你他妈的github解析器不一样，以后在前面加-前缀好了  -->
 
 # FreeODwiki，自由的OD百科全书

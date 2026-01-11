@@ -2,12 +2,11 @@
 title: anti-迷幻剂
 description: 
 published: true
-date: 2026-01-11T13:49:48.073Z
+date: 2026-01-11T13:53:33.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:49:45.529Z
 ---
-
 
 # 血清素能致幻剂（典型色胺类）过量应急方案 - 赛庚啶
 **物质分类**：经典血清素能致幻剂（LSD、psilocybin、DMT、mescaline等5-HT2A受体部分激动剂）。本补充针对急性心理危机阶段引入5-HT2A拮抗剂赛庚啶（cyproheptadine）作为潜在逆转干预。

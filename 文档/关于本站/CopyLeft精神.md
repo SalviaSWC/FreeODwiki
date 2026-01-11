@@ -2,7 +2,7 @@
 title: CopyLeft精神
 description: 
 published: true
-date: 2026-01-11T14:40:57.213Z
+date: 2026-01-11T14:40:59.548Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T14:40:57.213Z
