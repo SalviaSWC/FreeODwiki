@@ -1,3 +1,13 @@
+---
+title: home
+description: 
+published: true
+date: 2026-01-11T13:50:58.983Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:45:52.284Z
+---
+
 <!-- 操你妈爱德华你知道Markdown要怎么换行吗？一个个报告全都连在一起要我帮你打Enter吗？ -->
 
 # 我就是最後一塊零件。他正等著我。

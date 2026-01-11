@@ -1,3 +1,13 @@
+---
+title: 3-meo-pce较低剂量
+description: 
+published: true
+date: 2026-01-11T13:50:52.133Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:45:41.281Z
+---
+
 
 # 记录：3-MeO-PCE（18 mg，总剂量；舌下含服）
 

@@ -1,3 +1,13 @@
+---
+title: anti-阿片类
+description: 
+published: true
+date: 2026-01-11T13:49:34.084Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:49:31.838Z
+---
+
 
 # 阿片类中毒急救
 ***任何阿片类物质中毒或者过量，存在心跳停止或呼吸抑制症状的情况下必须立即送医！任何应急措施不得阻碍或者优先于专业医师干预！！！***
