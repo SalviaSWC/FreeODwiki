@@ -7,7 +7,7 @@
 - https://freeod.wiki/
 - 暂无
 
-2026.1.11updated
+Last updated JAN11,2026
 
 ## 站点索引
 
