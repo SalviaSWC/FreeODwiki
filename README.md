@@ -3,7 +3,9 @@
 
 本站的Github网址: https://github.com/SalviaSWC/FreeODwiki
 
-本站的Wikijs渲染网址(不一定是最新的): https://freeod.wiki/
+代表FOW-main的网址列表：
+- https://freeod.wiki/
+- 
 2026.1.11updated
 
 ## 站点索引
