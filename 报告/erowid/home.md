@@ -1,3 +1,13 @@
+---
+title: home
+description: 
+published: true
+date: 2026-01-11T13:47:56.539Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:47:54.306Z
+---
+
 # Erowid 报告汉化版[^1]
 
 <!-- 话说人家说搬运他们的报告必须征得同意，我们这样实在是有点不好啊。不过还是得搬运啊 -->

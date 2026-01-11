@@ -1,3 +1,13 @@
+---
+title: BLS（基本生命维持术）
+description: 
+published: true
+date: 2026-01-11T13:49:23.417Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:49:20.899Z
+---
+
 
 
 # 程序手册：异常精神活性物质暴露后基本生命维持术

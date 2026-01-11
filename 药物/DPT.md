@@ -1,3 +1,13 @@
+---
+title: DPT
+description: 
+published: true
+date: 2026-01-11T13:46:14.482Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:46:12.136Z
+---
+
 
 # DPT（N,N-Dipropyltryptamine）
 ## 药物历史：

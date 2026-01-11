@@ -1,3 +1,13 @@
+---
+title: CONTRIBUTING
+description: 
+published: true
+date: 2026-01-11T13:50:42.506Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:45:24.117Z
+---
+
 # 贡献指南
 
 欢迎来到 FreeODwiki！本项目致力于以科学、客观、无道德偏见的方式，整理和分享药物相关知识与体验报告。我们鼓励所有对药物话题有兴趣的朋友参与贡献，无论是修正错别字、补充内容，还是分享个人经验。

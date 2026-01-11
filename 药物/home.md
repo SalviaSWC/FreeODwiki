@@ -1,3 +1,13 @@
+---
+title: home
+description: 
+published: true
+date: 2026-01-11T13:46:37.688Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:46:35.367Z
+---
+
 # 精神药物 [^1]
 
 [^1]: 请勿混淆"精神药物"与"精神病药物"。前者注重服药效果，后者注重医学用途。

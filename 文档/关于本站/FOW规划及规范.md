@@ -1,3 +1,13 @@
+---
+title: FOW规划及规范
+description: 
+published: true
+date: 2026-01-11T13:47:59.775Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T13:47:57.499Z
+---
+
 # FreeODWiki规划及规范
 
 为了统一文件夹格式，明确本站结构，使编辑者可以轻松地找到自己可以投稿的位置，免于担心自己的文件被移动或删除，现编写*FreeODWiki文档规划及规范*。本文件将讲解目前第一级目录下存在的每一个文件和文件夹的作用。
