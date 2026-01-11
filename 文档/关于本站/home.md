@@ -2,7 +2,7 @@
 title: 站点介绍
 description: 
 published: true
-date: 2026-01-11T14:01:05.580Z
+date: 2026-01-11T14:41:30.605Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T14:01:05.580Z
@@ -16,3 +16,4 @@ dateCreated: 2026-01-11T14:01:05.580Z
 - [观前提醒](/文档/关于本站/观前提醒.md)
 - [FOW规划及规范](/文档/关于本站/FOW规划及规范.md)
 - [ 参与我们](/CONTRIBUTING.md)
+- [CopyLeft精神](/文档/关于本站/CopyLeft精神.md)
