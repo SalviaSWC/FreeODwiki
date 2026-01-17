@@ -9,7 +9,7 @@ dateCreated: 2026-01-11T13:45:31.166Z
 ---
 
 
-# FreeODwiki，FOW-main的忠实显示助理
+# FOW-web——FOW_main的忠实助理
 点此前往[freeodwiki](https://freeod.wiki/) <br>
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki)
 ## 站点索引
