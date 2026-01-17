@@ -36,6 +36,6 @@ Last updated JAN11,2026
 
 - [🧬精神药理学](/文档/精神药理学/home.md) 精神药物的作用机理索引（需remake，计划为一个主导论加上多篇有关论述形式）
 
-
+- [贡献者个人主页](/个人文件夹/home)关于我们的贡献者和他们的临时稿件<br>
 
 ![FreeODwiki图标](./FreeODwiki.png)
