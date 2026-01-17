@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2026-01-11T15:36:38.576Z
+date: 2026-01-17T21:43:01.053Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:46:35.367Z
@@ -72,3 +72,4 @@ dateCreated: 2026-01-11T13:46:35.367Z
 ##### Z
 - [(右)佐匹克隆](/药物/(右)佐匹克隆.md)
 ##### NUM
+- [4-取代药物综合](/文档/精神药理学/药物亲和力表格)
