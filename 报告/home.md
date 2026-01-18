@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2026-01-12T21:05:25.423Z
+date: 2026-01-18T06:44:45.363Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:45:52.284Z
@@ -16,7 +16,7 @@ dateCreated: 2026-01-11T13:45:52.284Z
 先人的经验让我们走到了这里，我们也该留下些什么让后来者安好
 
 报告列表:
-
+[1200mg普瑞巴林+20mg巴氯芬](/报告/1200mg普瑞巴林+20mg巴氯芬.md)<br>
 [3-MeO-PCE高剂量](/报告/3-MeO-PCE高剂量.md) <br>
 [3-meo-pce较低剂量](/报告/3-meo-pce较低剂量.md) <br>
 [4-HO-MET15mgInsufflated](/报告/4-HO-MET15mgInsufflated.md) <br>
