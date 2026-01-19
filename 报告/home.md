@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2026-01-18T06:44:45.363Z
+date: 2026-01-19T15:26:14.922Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T13:45:52.284Z
@@ -29,4 +29,5 @@ dateCreated: 2026-01-11T13:45:52.284Z
 [司美格鲁肽个人使用记录参考](/报告/司美格鲁肽个人使用记录参考.md) <br>
 ## 国外的报告的翻译
 
-[Erowid报告汉化版](./erowid/home.md) Erowid的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid上的报告基本不会出现前言不搭后语的情况。
+[Erowid报告汉化版](./erowid/home.md) Erowid的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid上的报告基本不会出现前言不搭后语的情况。<br>
+[红迪报告汉化版](/报告/reddit/home)
