@@ -9,9 +9,28 @@ dateCreated: 2026-01-19T15:24:53.463Z
 ---
 
 # 来自reddit的翻译文档
-[兴奋剂七段道观王](/报告/reddit/the_7_stages_of_stim_fap.md) <br>
 
-## α-PiHP
+## B
+
+### 苯丙胺
+
+[兴奋剂七段道观王(苯丙胺&大麻)](./the_7_stages_of_stim_fap.md) <br>
+
+## D
+
+### 大麻
+
+[兴奋剂七段道观王(苯丙胺&大麻)](./the_7_stages_of_stim_fap.md) <br>
+
+## P
+
+### 哌乙酯
+
+[走进兴奋剂精神病的世界](./inside_the_world_of_stimulant_psychosis.md)
+
+## \#
+
+### α-PiHP
 
 [8 小时的兴奋剂手冲、伪娘肛交拳交、ChatGPT，还有一个屌丝男的精神崩溃](./8_hours_of_stimfapping_femboy_anal_fisting.md)<br>
 
