@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2026-01-21T10:08:06.706Z
+date: 2026-01-21T10:09:43.001Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-21T09:03:14.142Z
@@ -35,9 +35,9 @@ dateCreated: 2026-01-21T09:03:14.142Z
 
 ## 其他网站报告
 
-[Erowid报告汉化版](./erowid/home.md) Erowid的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid上的报告基本不会出现前言不搭后语的情况。<br>
-[Reddit报告汉化版](./reddit/home.md)<br>
+[Erowid报告汉化版](./erowid/home.md) *Erowid的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid上的报告基本不会出现前言不搭后语的情况。*<br>
+[Reddit报告汉化版](./reddit/home.md)*我又能说啥，红迪上老哥真逆天*
+<br>
 [OverspeedWiki报告](./overspeedwiki/home.md) *感谢OSW wiki主misaki 慷慨地开源了这些数据* <br>
-[OverdoseWiki报告](./overdosewiki/home.md)
-*感谢每一位曾经参与ODW的先辈，纪念已经离开或者从网络上离开的先辈，致瞬息万变之物，及亘古不变之物*
+[OverdoseWiki报告](./overdosewiki/home.md)*感谢每一位曾经参与ODW的先辈，纪念已经离开或者从网络上离开的先辈，致瞬息万变之物，及亘古不变之物*
 <br>
