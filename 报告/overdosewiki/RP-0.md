@@ -1,17 +1,12 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 散装报告
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Report/RP-0
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 散装报告 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-21T09:06:42.555Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:06:38.823Z
 ---
-
 
 谁又知道这里会有些什么呢？先放个[索引](../index.html)
 

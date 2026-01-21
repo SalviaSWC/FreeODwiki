@@ -1,17 +1,12 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 报告6-一次普瑞巴林，一次金刚烷胺
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Report/RP-6
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 报告6-一次普瑞巴林，一次金刚烷胺 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-21T09:10:13.737Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:10:11.438Z
 ---
-
 
 [¶](#报告6-一次普瑞巴林一次金刚烷胺) 报告6\-一次普瑞巴林，一次金刚烷胺
 ----------------------------------------------------------------------------------------------------

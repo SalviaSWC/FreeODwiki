@@ -1,17 +1,12 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 报告9-在苯海拉明死亡前
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Report/RP-9
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 报告9-在苯海拉明死亡前 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-21T09:12:07.929Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:12:05.435Z
 ---
-
 
 转载自 1004\-5619(2007\)02\-0152\-01
 

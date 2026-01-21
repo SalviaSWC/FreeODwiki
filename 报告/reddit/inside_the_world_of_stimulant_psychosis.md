@@ -1,3 +1,13 @@
+---
+title: inside_the_world_of_stimulant_psychosis
+description: 
+published: true
+date: 2026-01-21T09:06:08.520Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:06:06.108Z
+---
+
 # 走进兴奋剂精神病的世界
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/3h6d28/inside_the_world_of_stimulant_psychosis/](https://www.reddit.com/r/Drugs/comments/3h6d28/inside_the_world_of_stimulant_psychosis/)

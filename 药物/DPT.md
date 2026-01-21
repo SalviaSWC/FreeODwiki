@@ -2,10 +2,10 @@
 title: DPT
 description: 
 published: true
-date: 2026-01-11T13:51:13.197Z
+date: 2026-01-21T09:03:51.046Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-11T13:46:12.136Z
+dateCreated: 2026-01-21T09:03:48.783Z
 ---
 
 # DPT（N,N-Dipropyltryptamine）

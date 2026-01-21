@@ -2,10 +2,10 @@
 title: LSD
 description: 
 published: true
-date: 2026-01-11T13:51:15.463Z
+date: 2026-01-21T09:03:54.359Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-11T13:46:15.529Z
+dateCreated: 2026-01-21T09:03:52.095Z
 ---
 
 # LSD（Lysergic Acid Diethylamide）

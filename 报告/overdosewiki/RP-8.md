@@ -1,17 +1,12 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 报告8-过量利培酮的噩梦
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Report/RP-8
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 报告8-过量利培酮的噩梦 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-21T09:11:28.528Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:11:26.067Z
 ---
-
 
 [¶](#报告8-过量利培酮的噩梦) 报告8\-过量利培酮的噩梦
 -------------------------------------------------------------------------

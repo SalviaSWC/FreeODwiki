@@ -1,16 +1,13 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: _assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 报告
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Report
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 报告 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-21T09:12:52.889Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:12:50.466Z
 ---
+
 # Overdose Wiki的报告
 
 <mark> 因为是从Overdose Wiki获取的，所以很多报告内的内链坏了，大家如果看到了可以帮我们修复一下喵！</mark>

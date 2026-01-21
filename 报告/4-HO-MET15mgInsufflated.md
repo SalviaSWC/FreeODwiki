@@ -2,12 +2,11 @@
 title: 4-HO-MET15mgInsufflated
 description: 
 published: true
-date: 2026-01-11T13:50:54.442Z
+date: 2026-01-21T09:03:05.997Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-11T13:45:45.006Z
+dateCreated: 2026-01-21T09:03:03.342Z
 ---
-
 
 # 事件记录：4-HO-MET（15 mg，鼻腔吸入）
 

@@ -1,17 +1,12 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 报告2-右美沙芬第五高原
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Report/RP-2
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 报告2-右美沙芬第五高原 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-21T09:07:21.480Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:07:18.525Z
 ---
-
 
 [¶](#rp-2-dxm) RP\-2\-DXM
 --------------------------

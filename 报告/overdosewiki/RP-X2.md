@@ -1,17 +1,12 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 报告X2-酒精联用下没有幻觉的的普瑞巴林
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Report/RP-X2
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 报告X2-酒精联用下没有幻觉的的普瑞巴林 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-21T09:12:49.359Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:12:46.964Z
 ---
-
 
 报告者：鸿哎彬 [@hongaibin](https://x.com/hongaibin)  
 处理报告者：Administrator  

@@ -1,3 +1,13 @@
+---
+title: 8_hours_of_stimfapping_femboy_anal_fisting
+description: 
+published: true
+date: 2026-01-21T09:06:01.233Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-21T09:05:58.845Z
+---
+
 # 8 小时的兴奋剂手冲、伪娘肛交拳交、ChatGPT，还有一个屌丝男的精神崩溃  
 
 原文网址：[https://www.reddit.com/r/Stims/comments/1j5io6z/8_hours_of_stimfapping_femboy_anal_fisting/](https://www.reddit.com/r/Stims/comments/1j5io6z/8_hours_of_stimfapping_femboy_anal_fisting/)
