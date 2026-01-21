@@ -15,6 +15,8 @@ dateCreated: 2026-01-11T13:45:52.284Z
 
 先人的经验让我们走到了这里，我们也该留下些什么让后来者安好
 
+本索引里既有原创报告，也有转载报告
+
 ## FreeODwiki报告列表:
 - [加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测](/报告/加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测.md)^药物百科的最后遗留文档^
 *在此，Edward以个人身份悼念前同事、化学极乐百科前wiki主、药物百科wiki主†沐雨†*
@@ -35,3 +37,4 @@ dateCreated: 2026-01-11T13:45:52.284Z
 [Erowid报告汉化版](./erowid/home.md) Erowid的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid上的报告基本不会出现前言不搭后语的情况。<br>
 [Reddit报告汉化版](./reddit/home.md)<br>
 [OverspeedWiki报告](./overspeedwiki/home.md)<br>
+[OverdoseWiki报告](./overdosewiki/home.md)<br>
