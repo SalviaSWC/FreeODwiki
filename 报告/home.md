@@ -18,7 +18,7 @@ dateCreated: 2026-01-21T09:03:14.142Z
 本索引里既有原创报告，也有转载报告
 
 ## FreeODwiki报告列表:
-- [RP-74内容保存](./overdosewiki/RP-74.md)^春风不再临^
+- [RP-74内容保存](../文档/补档/Overdosewiki/Report/RP-74.md)^春风不再临^
 - [加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测](/报告/加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测.md)^药物百科的最后遗留文档^
 *在此，Edward以个人身份悼念前同事、化学极乐百科前wiki主、药物百科wiki主†沐雨†*
 - [1200mg普瑞巴林+20mg巴氯芬](/报告/1200mg普瑞巴林+20mg巴氯芬.md)
@@ -39,5 +39,5 @@ dateCreated: 2026-01-21T09:03:14.142Z
 [Reddit报告汉化版](./reddit/home.md)*我又能说啥，红迪上老哥真逆天*
 <br>
 [OverspeedWiki报告](./overspeedwiki/home.md) *感谢OSW wiki主misaki 慷慨地开源了这些数据* <br>
-[OverdoseWiki报告](./overdosewiki/home.md)*感谢每一位曾经参与ODW的先辈，纪念已经离开或者从网络上离开的先辈，致瞬息万变之物，及亘古不变之物*
+[OverdoseWiki报告](../文档/补档/Overdosewiki/Report/home.md)*感谢每一位曾经参与ODW的先辈，纪念已经离开或者从网络上离开的先辈，致瞬息万变之物，及亘古不变之物*
 <br>
