@@ -1,0 +1,74 @@
+---
+meta-description: 全体兴奋递质抑制剂/无法滥用
+meta-msapplication-TileColor: #1976d2
+meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
+meta-og:description: 全体兴奋递质抑制剂/无法滥用
+meta-og:site_name: OverdoseWiki
+meta-og:title: 奥氮平
+meta-og:type: website
+meta-og:url: https://www.od-wiki.com/Drugs/OZP
+meta-theme-color: #1976d2
+meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
+title: 奥氮平 | OverdoseWiki
+---
+# 奥氮平^*全体兴奋递质抑制剂/无法滥用*^
+
+
+[¶](#奥氮平) 奥氮平
+==========================
+> **比他妈[喹硫平](QTP.md)还他妈罄竹难书的毒药！去他妈的奥氮平！！！**
+
+**奥氮平(Olanzapine, OZP)** 是一种旧年的非典型抗精神病药，属于多种神经递质受体拮抗剂，目前已逐渐弃用。化学上是二苯并噻氮卓类衍生物。**无法滥用**
+
+[¶](#药理作用) 药理作用
+--------------------------------
+> **罄竹难书**
+
+#### [¶](#作用机理1你没看错就是这么多) 作用机理[\[1\]](#fn1)你没看错，就是这么多！
+
+* 拮抗受体：α1A, α1B, α2A, α2B, α2C
+* 拮抗受体：多巴胺/DA1, DA2, DA2L, DA2S, DA3, DA4, DA4\.2, DA4\.4, DA5,
+* 拮抗受体：血清素/5\-HT1A, 5\-HT3, 5\-HT6, 5\-HT7
+* 反向激动：血清素/5\-HT2A, 5\-HT2B, 5\-HT2C
+* 拮抗受体：组胺/H2, H3, H4,
+* 反向激动：组胺/H1
+* 拮抗受体：毒蕈碱乙酰胆碱/mAChR/M1, M2, M3, M4, M5
+* 阻断通道：hERG
+* 完全激动：5\-HT5A
+
+
+#### [¶](#药物作用) 药物作用
+
+* **主要的副作用：抑郁、增肥增重、谵妄、抗胆碱能综合征、阿兹海默症、认知衰退**
+* 主要的主作用：抗精神分裂、反幻觉、镇静
+
+
+#### [¶](#药代动力学) 药代动力学
+
+奥氮平主要通过CYP1D6同工酶代谢，另外CYP2D6酶也参与其代谢。[\[2\]](#fn2)半衰期与达峰时间不明。
+
+[¶](#药物使用) 药物使用
+--------------------------------
+> 你敢吃这啊？**这不是能od的药物！** 因此，**无法提供任何滥用剂量与期间的数据！**
+
+医学剂量：就算是医用，现在也逐步弃用了。因此写入医学剂量是毫无意义的
+
+[¶](#一些事项) 一些事项
+--------------------------------
+
+奥氮平就是坨屎，脏死了
+
+奥氮平反制一切由兴奋引起的精神疾病
+
+奥氮平已经正在被逐步弃用？
+
+奥氮平的副作用略微次于[美金刚](MMT.md)
+
+奥氮平的副作用比[喹硫平](QTP.md)这个臭味相投的好兄弟要小
+
+---
+
+
+1. [Wikipedia](https://en.wikipedia.org/wiki/Olanzapine) [↩︎](#fnref1)
+
+2. [Wikipedia](https://en.wikipedia.org/wiki/Olanzapine) [↩︎](#fnref2)

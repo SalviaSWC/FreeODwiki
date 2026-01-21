@@ -10,7 +10,7 @@ dateCreated: 2026-01-21T09:25:42.015Z
 
 # Overspeed Wiki报告合集
 
-本索引下所有报告来自Overspeed Wiki，仅供参考。
+本索引下所有报告来自Overspeed Wiki，仅供参考。报告换行问题已经解决。
 
 <mark> 因为是从Overspeed Wiki获取下来的，所以很多报告内的内链坏了，大家如果看到了可以帮我们修复一下喵</mark>
 
