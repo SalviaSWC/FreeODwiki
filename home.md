@@ -2,7 +2,7 @@
 title: FreeODWiki-WEB主页
 description: 
 published: true
-date: 2026-01-21T09:02:45.664Z
+date: 2026-01-22T04:50:30.890Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-21T09:02:42.295Z
@@ -19,5 +19,5 @@ dateCreated: 2026-01-21T09:02:42.295Z
 - [❤药物应对措施](/文档/药物应对措施/home.md) 较安全地使用精神药物的索引<br>
 - [🧬精神药理学](/文档/精神药理学/home.md) 精神药物的作用机理索引<br>
 - [🗒️贡献者个人主页及临时稿件们](/个人文件夹/home.md)关于我们的贡献者和临时稿件们<br>
-- [📚文档](/文档/home.md) 各类与药物相关的文档索引<br>
+- [📚文档](/文档/home.md) 各类与药物相关的文档索引,以及可能存在谬误的历史文献^ODW全复活在这里^<br>
 ![FreeODwiki图标](./FreeODwiki.png)
