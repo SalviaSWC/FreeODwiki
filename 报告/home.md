@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2026-01-22T09:54:31.673Z
+date: 2026-01-22T09:54:58.472Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-21T09:03:14.142Z
@@ -18,7 +18,7 @@ dateCreated: 2026-01-21T09:03:14.142Z
 本索引里既有原创报告，也有转载报告
 
 ## FreeODwiki报告列表:
-- [40t金刚烷胺](/报告/40t金刚烷胺.MD)
+- [40t金刚烷胺](/报告/40t金刚烷胺.md)
 - [RP-74内容保存](../文档/补档/Overdosewiki/Report/RP-74.md)^春风不再临^
 - [加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测](/报告/加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测.md)^药物百科的最后遗留文档^
 *在此，Edward以个人身份悼念前同事、化学极乐百科前wiki主、药物百科wiki主†沐雨†*
