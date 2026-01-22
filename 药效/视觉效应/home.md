@@ -2,7 +2,7 @@
 title: 视觉效应
 description: 
 published: true
-date: 2026-01-22T16:34:59.363Z
+date: 2026-01-22T16:48:35.518Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T16:34:59.363Z
@@ -228,3 +228,6 @@ dateCreated: 2026-01-22T16:34:59.363Z
 以下为描述视觉效应的部分轶事报告：
 
 
+
+---
+https://psychonautwiki.org/wiki/Visual_effects
