@@ -2,14 +2,14 @@
 title: 主观效应索引
 description: 
 published: true
-date: 2026-01-23T14:17:09.899Z
+date: 2026-01-23T14:18:57.394Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T16:41:38.345Z
 ---
 
 # 主观效应索引（SEI）
-
+*TRANSLATED FROM PSYWIKI*
 主观效应索引（Subjective Effect Index，简称SEI）是一套维基式条目集合，旨在作为全面参考资料，用于系统描述在非普通意识状态（altered or non-ordinary state of consciousness）期间可能出现的各种主观效应。该索引主要针对精神活性物质（尤其是致幻类物质）所诱发的效应，但其描述框架亦可扩展至其他心理航行领域，包括冥想、感官剥夺、清醒梦等。
 
 
