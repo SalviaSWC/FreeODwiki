@@ -58,7 +58,7 @@ TBD:把上面这一段的错误的链接给换掉，同上-->
 
 
 
-◆◆◆ [LSD](/药物/LSD.md), [DMT](/药物/DMT.md), [DPT](/药物/DPT.md) <br>
+◆◆◆ [LSD](/药物/LSD.md), [DMT](/药物/DMT.md), [DPT](/药物/DPT.md), [DiPT](/药物/DiPT.md) <br>
 
 ### 解离剂
 
