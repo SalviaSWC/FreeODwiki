@@ -8,9 +8,14 @@ editor: markdown
 dateCreated: 2026-01-21T09:02:42.295Z
 ---
 
-# FOW-web——FOW_main的显示助理
+FreeODWiki，可以自由编辑的OD知识百科全书
+=====
+
 点此前往[freeodwiki](https://freeod.wiki/) <br>
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki)
+
+*喜欢的朋友们欢迎来Github给我们的项目点个star哦，你们的鼓励就是我们的动力！*
+
 ## 站点索引
 - **!进站必读!：**[🤝关于本站](/文档/关于本站/home.md) 本站建站精神、贡献指南、内容方针、药物报告投稿指南 <br>
 - **药物索引：** [💊药物索引](/药物/home.md) 你想要的精品神药都在这里！<br>
