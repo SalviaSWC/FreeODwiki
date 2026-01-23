@@ -1,8 +1,8 @@
 ---
-title: LSD
+title: LSD-PSYWIKI
 description: 
 published: true
-date: 2026-01-23T21:03:48.232Z
+date: 2026-01-23T21:04:27.028Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-21T09:03:52.095Z
