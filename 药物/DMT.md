@@ -16,6 +16,8 @@ dateCreated: 2026-01-21T09:03:45.156Z
 
 <mark> 未经核查，初步看下来很尴尬，请慎用！ </mark>
 
+[◀返回药物](./home.md)
+
 | *[DMT 摘要表](./DMT/摘要.md "DMT/Summary")* |
 | --- |
 
