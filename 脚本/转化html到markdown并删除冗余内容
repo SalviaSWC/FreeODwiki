@@ -1,8 +1,15 @@
 import tkinter as tk
+import re
 from tkinter import scrolledtext
 from tkinter import messagebox
 from html_to_markdown import convert_to_markdown
 # 如果提示包缺失，（由于tkinter一般是自带的），请通过运行pip install html-to-markdown安装这个包
+
+# 将输入的html文本转化为markdown的工具
+
+# 由于写作时我们正在处理psywiki的翻译，因此含有一个特判psywiki的菜单并将其去除的部分
+
+
 
 def process_html():
     try:
@@ -12,15 +19,25 @@ def process_html():
             messagebox.showinfo("提示", "请输入 HTML 文本")
             return
         
-        # 转换为 Markdown
+        # 先转换为 Markdown
         markdown_text = convert_to_markdown(html_text)
         
-        # 清空并写入结果
+        # 去除从 "Retrieved from ‘<https..." 这一行及之后的内容
+        # 匹配任意开头，直到遇到 Retrieved from ‘<http...>’ （允许 http/https，允许前后空白/换行）
+        pattern = r'^(.*?)(?:Retrieved\s+from\s*‘<https?://[^>]+>’\s*(?:\n|$))'
+        match = re.match(pattern, markdown_text, re.DOTALL | re.IGNORECASE)
+        
+        if match:
+            cleaned_text = match.group(1).rstrip()
+        else:
+            cleaned_text = markdown_text.rstrip()  # 没匹配到就保留原样（去除末尾空白）
+        
+        # 清空并写入处理后的结果
         text_widget.delete("1.0", "end")
-        text_widget.insert("1.0", markdown_text)
+        text_widget.insert("1.0", cleaned_text)
         
     except Exception as e:
-        messagebox.showerror("错误", f"转换失败：{str(e)}")
+        messagebox.showerror("错误", f"处理失败：{str(e)}")
 
 def exit_app():
     root.destroy()
