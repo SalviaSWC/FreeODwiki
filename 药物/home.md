@@ -2,7 +2,7 @@
 title: home
 description: 药物快速索引
 published: true
-date: 2026-01-24T22:04:53.612Z
+date: 2026-01-24T22:07:17.359Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T19:39:06.779Z
@@ -66,7 +66,7 @@ TBD:把上面这一段的错误的链接给换掉，同上-->
 
 ◆ [氧化亚氮](/药物/氧化亚氮.md), [右美沙芬](/药物/右美沙芬.md)(复方制剂), [美金刚](/药物/美金刚.md) <br>
 ◆◆ [氯胺酮](/药物/氯胺酮.md) <br>
-◆◆◆ [3-MeO-PCE](/药物/3-MeO-PCE.md) <br>
+◆◆◆ [3-MeO-PCE](/药物/3-MeO-PCE.md) ,[PCP](/药物/PCP.md),[PCE](/药物/PCE.md),[MK-801](/药物/MK-801.md)<br>
 
 ### 谵妄剂
 
