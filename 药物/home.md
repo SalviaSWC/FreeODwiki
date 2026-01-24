@@ -2,7 +2,7 @@
 title: home
 description: 药物快速索引
 published: true
-date: 2026-01-24T19:39:45.976Z
+date: 2026-01-24T22:01:11.365Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T19:39:06.779Z
@@ -23,7 +23,7 @@ dateCreated: 2026-01-24T19:39:06.779Z
 
 ## 兴奋剂
 
-主条目:[兴奋剂](文档/药物分类/兴奋剂.md)
+主条目:[兴奋剂](/文档/药物分类/兴奋剂.md)
 
 
 <!-- 
