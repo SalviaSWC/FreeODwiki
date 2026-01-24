@@ -2,8 +2,8 @@
 title: 主观效应索引
 description: 
 published: true
-date: 2026-01-24T21:56:19.399Z
-tags: 
+date: 2026-01-24T22:21:47.378Z
+tags: translated_from_psychonautwiki
 editor: markdown
 dateCreated: 2026-01-24T21:56:19.399Z
 ---
