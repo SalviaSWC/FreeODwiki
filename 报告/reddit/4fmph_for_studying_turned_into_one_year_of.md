@@ -1,6 +1,8 @@
 # 4F-Mph本来是为了学习用的，结果变成了一整年的兴奋剂撸管噩梦
 
+[◀返回Reddit报告](./home.md)
 
+###### [◀返回报告](../home.md)
 
 原文网址：[https://www.reddit.com/r/researchchemicals/comments/1q4ux4y/4fmph_for_studying_turned_into_one_year_of/](https://www.reddit.com/r/researchchemicals/comments/1q4ux4y/4fmph_for_studying_turned_into_one_year_of/)
 

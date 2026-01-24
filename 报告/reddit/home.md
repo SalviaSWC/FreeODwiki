@@ -28,6 +28,12 @@ dateCreated: 2026-01-21T09:06:02.439Z
 
 [走进兴奋剂精神病的世界](./inside_the_world_of_stimulant_psychosis.md)
 
+## 0-9
+
+### 4
+
+[4F-Mph本来是为了学习用的，结果变成了一整年的兴奋剂撸管噩梦](./4fmph_for_studying_turned_into_one_year_of.md)
+
 ## \#
 
 ### α-PiHP
