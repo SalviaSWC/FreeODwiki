@@ -10,6 +10,12 @@ dateCreated: 2026-01-21T09:06:06.108Z
 
 # 走进兴奋剂精神病的世界
 
+
+[◀返回报告](../home.md)
+
+**[◀返回Reddit报告](./home.md)** 
+
+
 原文网址：[https://www.reddit.com/r/Drugs/comments/3h6d28/inside_the_world_of_stimulant_psychosis/](https://www.reddit.com/r/Drugs/comments/3h6d28/inside_the_world_of_stimulant_psychosis/)
 
 这是几个月前发生的破事儿。我好像没咋见过有人详细描述过兴奋剂精神病（stimulant psychosis）到底是种啥感觉，寻思着把我的经历分享出来应该挺有意思。

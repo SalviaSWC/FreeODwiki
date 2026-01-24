@@ -10,6 +10,12 @@ dateCreated: 2026-01-21T09:06:09.545Z
 
 # 兴奋剂自慰的7个阶段
 
+
+[◀返回报告](../home.md)
+
+**[◀返回Reddit报告](./home.md)** 
+
+
 原文网址:[https://www.reddit.com/r/Drugs/comments/avw7pa/the_7_stages_of_stim_fap/](https://www.reddit.com/r/Drugs/comments/avw7pa/the_7_stages_of_stim_fap/)
 
 20 毫克 Adderall，大麻，再加 50 毫克Vyvanse
