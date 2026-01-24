@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2026-01-21T09:06:13.019Z
 ---
 
+[◀返回](./home.md)
+
 # 什么是Copyleft？
 引用自 https://www.gnu.org/licenses/copyleft.zh-cn.html
 Copyleft是一种让程序或其它作品保持自由（是言论自由的自由，而不是“零价格”）的通用方法，并要求对Copyleft程序的任何修改和扩展都保持自由。
