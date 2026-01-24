@@ -2,10 +2,10 @@
 title: home
 description: 
 published: true
-date: 2026-01-21T09:27:07.767Z
+date: 2026-01-24T19:41:14.078Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:05:55.462Z
+dateCreated: 2026-01-24T19:41:11.691Z
 ---
 
 # Erowid 报告汉化版[^1]

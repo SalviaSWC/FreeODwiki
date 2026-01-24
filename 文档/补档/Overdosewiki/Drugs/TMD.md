@@ -1,16 +1,13 @@
 ---
-meta-description: 阿片类麻醉、战斗兴奋
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 阿片类麻醉、战斗兴奋
-meta-og:site_name: OverdoseWiki
-meta-og:title: 曲马多
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/TMD
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 曲马多 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T21:00:04.854Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T21:00:02.431Z
 ---
+
 # 曲马多^*阿片类麻醉、战斗兴奋*^
 
 

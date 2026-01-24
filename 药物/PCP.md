@@ -2,10 +2,10 @@
 title: PCP
 description: 
 published: true
-date: 2026-01-21T09:04:05.322Z
+date: 2026-01-24T19:38:58.798Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:04:02.800Z
+dateCreated: 2026-01-24T19:38:56.351Z
 ---
 
 # PCP（Phencyclidine）

@@ -1,16 +1,13 @@
 ---
-meta-description: 抗ADHD、兴奋
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 抗ADHD、兴奋
-meta-og:site_name: OverdoseWiki
-meta-og:title: 托莫西汀
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/TXT
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 托莫西汀 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T21:00:08.913Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T21:00:06.444Z
 ---
+
 # 托莫西汀^*抗ADHD、兴奋*^
 
 

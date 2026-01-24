@@ -2,10 +2,10 @@
 title: 精神药理学
 description: 
 published: true
-date: 2026-01-21T09:07:16.557Z
+date: 2026-01-24T19:55:50.234Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:06:44.002Z
+dateCreated: 2026-01-24T19:55:22.673Z
 ---
 
 # 有关精神药理学的文章将存于此处

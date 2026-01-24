@@ -1,16 +1,13 @@
 ---
-meta-description: 焦虑去除、解离、抗躁狂、GABA镇静
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 焦虑去除、解离、抗躁狂、GABA镇静
-meta-og:site_name: OverdoseWiki
-meta-og:title: 巴氯芬
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/BCF
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 巴氯芬 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:58:04.706Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:58:02.324Z
 ---
+
 # 巴氯芬^*焦虑去除、解离、抗躁狂、GABA镇静*^
 
 

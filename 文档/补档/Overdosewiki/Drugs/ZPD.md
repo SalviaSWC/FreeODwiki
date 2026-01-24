@@ -1,16 +1,13 @@
 ---
-meta-description: 内部幻觉、镇静、梦游
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 内部幻觉、镇静、梦游
-meta-og:site_name: OverdoseWiki
-meta-og:title: 唑吡坦
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/ZPD
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 唑吡坦 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T21:00:24.457Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T21:00:22.062Z
 ---
+
 # 唑吡坦^*内部幻觉、镇静、梦游*^
 
 

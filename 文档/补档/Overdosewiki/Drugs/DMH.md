@@ -1,16 +1,13 @@
 ---
-meta-description: 谵妄、止吐
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 谵妄、止吐
-meta-og:site_name: OverdoseWiki
-meta-og:title: 茶苯海明
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/DMH
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 茶苯海明 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:58:27.470Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:58:25.246Z
 ---
+
 # 茶苯海明^*谵妄、止吐*^
 
 

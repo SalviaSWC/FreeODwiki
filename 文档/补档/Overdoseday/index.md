@@ -1,11 +1,12 @@
 ---
-base: .
-meta-description:
-meta-keywords: 太空极乐,overdose,药物滥用,od,化工原料,药物过量
-meta-viewport: width=device-width, initial-scale=1, shrink-to-fit=no
 title: 太空极乐百科
+description: 
+published: true
+date: 2026-01-24T20:00:17.315Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:00:13.181Z
 ---
-
 
 ×
 

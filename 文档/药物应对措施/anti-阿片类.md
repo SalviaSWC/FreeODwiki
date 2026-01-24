@@ -2,10 +2,10 @@
 title: anti-阿片类
 description: 
 published: true
-date: 2026-01-21T09:08:25.521Z
+date: 2026-01-24T19:56:48.495Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:08:22.670Z
+dateCreated: 2026-01-24T19:56:46.138Z
 ---
 
 # 阿片类中毒急救

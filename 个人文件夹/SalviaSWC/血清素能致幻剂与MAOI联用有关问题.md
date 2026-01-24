@@ -2,10 +2,10 @@
 title: 血清素能致幻剂与MAOI联用有关问题
 description: 
 published: true
-date: 2026-01-21T09:05:37.233Z
+date: 2026-01-24T19:41:03.389Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:05:34.916Z
+dateCreated: 2026-01-24T19:41:00.861Z
 ---
 
 这需要考虑致幻剂自身是否被MAO代谢阿，如果会被代谢(DMT之类的)，那很可能是有效的

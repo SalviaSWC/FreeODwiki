@@ -2,10 +2,10 @@
 title: Vyvanse
 description: 
 published: true
-date: 2026-01-21T09:04:08.907Z
+date: 2026-01-24T19:39:02.318Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:04:06.453Z
+dateCreated: 2026-01-24T19:38:59.864Z
 ---
 
 # Vyvanse（Lisdexamfetamine Dimesylate）

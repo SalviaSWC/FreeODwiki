@@ -1,16 +1,13 @@
 ---
-meta-description: 谵妄、解离、抗精神分裂/无法滥用
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 谵妄、解离、抗精神分裂/无法滥用
-meta-og:site_name: OverdoseWiki
-meta-og:title: 异丙嗪
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/PMZ
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 异丙嗪 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:59:30.323Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:59:28.014Z
 ---
+
 # 异丙嗪^*谵妄、解离、抗精神分裂/无法滥用*^
 
 

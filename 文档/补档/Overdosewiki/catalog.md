@@ -1,16 +1,13 @@
 ---
-meta-description: 找到你要想的内容
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: _assets/favicons/mstile-150x150.png
-meta-og:description: 找到你要想的内容
-meta-og:site_name: OverdoseWiki
-meta-og:title: 索引
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/catalog
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 索引 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:00:39.365Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:00:36.416Z
 ---
+
 # 索引^*找到你要想的内容*^
 
 

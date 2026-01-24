@@ -2,10 +2,10 @@
 title: lsa
 description: 
 published: true
-date: 2026-01-21T09:04:20.463Z
+date: 2026-01-24T19:39:12.574Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:04:17.660Z
+dateCreated: 2026-01-24T19:39:10.376Z
 ---
 
 # LSA（Lysergic Acid Amide）

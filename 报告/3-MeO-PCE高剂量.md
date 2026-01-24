@@ -2,10 +2,10 @@
 title: 3-MeO-PCE高剂量
 description: 
 published: true
-date: 2026-01-21T09:02:58.495Z
+date: 2026-01-24T21:40:51.670Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:02:56.185Z
+dateCreated: 2026-01-24T19:31:43.537Z
 ---
 
 # 事件记录：3-MeO-PCE（20-30 mg，鼻腔吸入）

@@ -1,16 +1,13 @@
 ---
-meta-description: 镇静、安眠
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 镇静、安眠
-meta-og:site_name: OverdoseWiki
-meta-og:title: 苯二氮卓类药物
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/BZD
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 苯二氮卓类药物 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:58:08.628Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:58:06.154Z
 ---
+
 # 苯二氮卓类药物^*镇静、安眠*^
 
 

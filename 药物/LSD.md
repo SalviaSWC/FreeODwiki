@@ -2,13 +2,11 @@
 title: LSD-PSYWIKI
 description: 
 published: true
-date: 2026-01-23T21:04:27.028Z
+date: 2026-01-24T19:38:47.400Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:03:52.095Z
+dateCreated: 2026-01-24T19:38:44.853Z
 ---
-
-
 
 >
 > 似乎在o圈有至少一个已确认的击杀记录

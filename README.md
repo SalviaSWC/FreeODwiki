@@ -2,15 +2,15 @@
 title: FreeODWiki-WEB主页
 description: 
 published: true
-date: 2026-01-23T18:46:40.382Z
+date: 2026-01-24T21:40:39.524Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:02:42.295Z
+dateCreated: 2026-01-24T19:31:24.481Z
 ---
 
 FreeODWiki，可以自由编辑的OD知识百科全书
 =====
-## FOW现已开通用户注册，支持邮箱和GitHub
+
 点此前往[freeodwiki](https://freeod.wiki/) <br>
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki)
 
