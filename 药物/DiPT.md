@@ -1,9 +1,9 @@
 ---
-title: DiPT - PsychonautWiki
+title: DiPT
 description: N,N-二异丙基色胺（也称为 DiPT）是色胺类物质中一种较冷门的致幻剂。它是 DMT 的结构类似物，与多种致幻色胺类物质有关，如 4-HO-DiPT、5-MeO-DiPT 和 MiPT。
 published: true
-date: 2026-01-24T19:38:43.380Z
-tags: 
+date: 2026-01-24T22:11:37.258Z
+tags: translated_from_psychonautwiki
 editor: markdown
 dateCreated: 2026-01-24T19:38:40.643Z
 ---
