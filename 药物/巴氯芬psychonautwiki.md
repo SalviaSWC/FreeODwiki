@@ -2,8 +2,8 @@
 title: 巴氯芬
 description: 
 published: true
-date: 2026-01-24T19:39:41.233Z
-tags: 
+date: 2026-01-24T22:14:09.252Z
+tags: translated_from_psychonautwiki
 editor: markdown
 dateCreated: 2026-01-24T19:39:38.784Z
 ---
