@@ -1,16 +1,13 @@
 ---
-meta-description: 开始的一切
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: _assets/favicons/mstile-150x150.png
-meta-og:description: 开始的一切
-meta-og:site_name: OverdoseWiki
-meta-og:title: Overdose引论
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Introduction_to_Overdose
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: Overdose引论 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:00:25.997Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:00:23.161Z
 ---
+
 # Overdose引论^*开始的一切*^
 
 > 本篇将介绍**od**，以帮助读者开始了解一切

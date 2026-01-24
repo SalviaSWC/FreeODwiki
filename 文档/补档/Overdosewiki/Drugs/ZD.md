@@ -1,16 +1,13 @@
 ---
-meta-description: 镇静、安眠
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 镇静、安眠
-meta-og:site_name: OverdoseWiki
-meta-og:title: Z药物
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/ZD
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: Z药物 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T21:00:16.932Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T21:00:14.529Z
 ---
+
 # Z药物^*镇静、安眠*^
 
 

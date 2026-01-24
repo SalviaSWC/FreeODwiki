@@ -1,16 +1,13 @@
 ---
-meta-description:
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../../_assets/favicons/mstile-150x150.png
-meta-og:description:
-meta-og:site_name: OverdoseWiki
-meta-og:title: 苏糖酸镁-杂项与报告
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/MGT/OAR
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 苏糖酸镁-杂项与报告 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T21:07:35.748Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T21:07:33.492Z
 ---
+
 # 苏糖酸镁-杂项与报告
 
 

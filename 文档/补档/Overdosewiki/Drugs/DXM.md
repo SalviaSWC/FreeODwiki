@@ -1,16 +1,13 @@
 ---
-meta-description: 解离、抗抑郁
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 解离、抗抑郁
-meta-og:site_name: OverdoseWiki
-meta-og:title: 右美沙芬
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/DXM
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 右美沙芬 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:58:42.733Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:58:40.171Z
 ---
+
 # 右美沙芬^*解离、抗抑郁*^
 
 

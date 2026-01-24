@@ -2,10 +2,10 @@
 title: anti-迷幻剂
 description: 
 published: true
-date: 2026-01-21T09:08:45.152Z
+date: 2026-01-24T19:57:09.171Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:08:42.363Z
+dateCreated: 2026-01-24T19:57:06.958Z
 ---
 
 # 血清素能致幻剂（典型色胺类）过量应急方案 - 赛庚啶

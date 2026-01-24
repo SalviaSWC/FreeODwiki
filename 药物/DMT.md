@@ -2,10 +2,10 @@
 title: DMT
 description: 
 published: true
-date: 2026-01-23T20:48:05.707Z
+date: 2026-01-24T19:38:33.845Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:03:45.156Z
+dateCreated: 2026-01-24T19:38:31.291Z
 ---
 
 # DMT

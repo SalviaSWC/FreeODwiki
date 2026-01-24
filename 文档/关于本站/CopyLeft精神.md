@@ -2,10 +2,10 @@
 title: CopyLeft精神
 description: 
 published: true
-date: 2026-01-21T09:06:15.597Z
+date: 2026-01-24T19:54:53.180Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:06:13.019Z
+dateCreated: 2026-01-24T19:54:50.802Z
 ---
 
 [◀返回](./home.md)

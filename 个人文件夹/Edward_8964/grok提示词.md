@@ -1,3 +1,13 @@
+---
+title: grok提示词
+description: 
+published: true
+date: 2026-01-24T19:40:38.046Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T19:40:35.494Z
+---
+
 翻译文档为中文
 不要保留图片，注释
 将原文中链接转换为绝对本地形式，指向对应的md文件，若没有，删除链接

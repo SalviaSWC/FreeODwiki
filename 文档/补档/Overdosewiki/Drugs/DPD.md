@@ -1,16 +1,13 @@
 ---
-meta-description: 谵妄
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 谵妄
-meta-og:site_name: OverdoseWiki
-meta-og:title: 地芬尼多
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/DPD
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 地芬尼多 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:58:31.374Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:58:28.928Z
 ---
+
 # 地芬尼多^*谵妄*^
 
 

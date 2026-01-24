@@ -2,10 +2,10 @@
 title: 4-HO-MET - PsychonautWiki
 description: 
 published: true
-date: 2026-01-23T20:54:21.236Z
+date: 2026-01-24T19:38:30.217Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-23T20:00:40.102Z
+dateCreated: 2026-01-24T19:38:27.760Z
 ---
 
 <mark>质量意外的高，不错！但是仍需谨慎点击不明链接</mark>

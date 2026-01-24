@@ -1,16 +1,13 @@
 ---
-meta-description: 抗抑郁、（部分）抗焦虑
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 抗抑郁、（部分）抗焦虑
-meta-og:site_name: OverdoseWiki
-meta-og:title: 血清素再摄取抑制剂
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/SRIs
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 血清素再摄取抑制剂 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:59:52.829Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:59:50.428Z
 ---
+
 # 血清素再摄取抑制剂^*抗抑郁、（部分）抗焦虑*^
 
 

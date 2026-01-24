@@ -1,16 +1,13 @@
 ---
-meta-description: 外部幻觉、解离、谵妄
-meta-msapplication-TileColor: #1976d2
-meta-msapplication-TileImage: ../_assets/favicons/mstile-150x150.png
-meta-og:description: 外部幻觉、解离、谵妄
-meta-og:site_name: OverdoseWiki
-meta-og:title: 金刚烷胺
-meta-og:type: website
-meta-og:url: https://www.od-wiki.com/Drugs/ATD
-meta-theme-color: #1976d2
-meta-viewport: user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5
 title: 金刚烷胺 | OverdoseWiki
+description: 
+published: true
+date: 2026-01-24T20:58:00.786Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T20:57:58.280Z
 ---
+
 # 金刚烷胺^*外部幻觉、解离、谵妄*^
 
 

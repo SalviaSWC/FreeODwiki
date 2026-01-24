@@ -2,10 +2,10 @@
 title: DMTFreeBase
 description: 
 published: true
-date: 2026-01-21T09:03:13.065Z
+date: 2026-01-24T21:51:37.075Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:03:10.674Z
+dateCreated: 2026-01-24T19:32:00.950Z
 ---
 
 # 事件报告：N,N-二甲基色胺（DMT）暴露记录

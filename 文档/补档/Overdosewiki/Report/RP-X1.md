@@ -2,11 +2,12 @@
 title: 报告X1-50t氯硝西泮带来的长效镇静 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-21T09:12:45.831Z
+date: 2026-01-24T21:07:16.613Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:12:43.564Z
+dateCreated: 2026-01-24T21:07:14.352Z
 ---
+
 # 报告X1-50t氯硝西泮带来的长效镇静 | OverdoseWiki
 
 报告者：【未获得署名授权】  

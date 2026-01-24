@@ -2,10 +2,10 @@
 title: inside_the_world_of_stimulant_psychosis
 description: 
 published: true
-date: 2026-01-21T09:06:08.520Z
+date: 2026-01-24T19:54:46.376Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-21T09:06:06.108Z
+dateCreated: 2026-01-24T19:54:44.191Z
 ---
 
 # 走进兴奋剂精神病的世界
