@@ -1,9 +1,9 @@
 ---
-title: LSD-PSYWIKI
+title: LSD
 description: 
 published: true
-date: 2026-01-24T19:38:47.400Z
-tags: 
+date: 2026-01-24T22:13:25.788Z
+tags: translated_from_psychonautwiki
 editor: markdown
 dateCreated: 2026-01-24T19:38:44.853Z
 ---
