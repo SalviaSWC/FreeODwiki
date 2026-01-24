@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3-MeO-PCE
 
 [◀返回](./home.md)
@@ -319,3 +320,16 @@
 13. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_13-0) [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
 14. [↑](#cite_ref-List_of_illegal_substances_for_law_14-0) <https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf>
 15. [↑](#cite_ref-15) [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)
+=======
+---
+title: 3-MeO-PCE
+description: 
+published: true
+date: 2026-01-24T22:09:10.901Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T22:08:35.349Z
+---
+
+> # 月尘，绝对绝对没有副作用（troll）
+>>>>>>> be7f1227f8b86b2718836593be945c31e708f355
