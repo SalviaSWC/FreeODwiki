@@ -2,7 +2,7 @@
 title: CONTRIBUTING
 description: 
 published: true
-date: 2026-01-25T22:10:13.605Z
+date: 2026-01-25T22:11:24.513Z
 tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 editor: markdown
 dateCreated: 2026-01-24T19:31:19.613Z
@@ -175,7 +175,7 @@ dateCreated: 2026-01-24T19:31:19.613Z
 {.is-danger}
 
 $支持内嵌\TeX$
-<p style="color:#CB5CFE">支持内嵌HTML</p>
+<p style="color:#456789">支持内嵌HTML</p>
 
 ```markdown
 **加粗**  
