@@ -2,10 +2,12 @@
 title: 欢迎来到 od-wiki.com | OverdoseWiki
 description: 
 published: true
-date: 2026-01-24T20:00:43.439Z
-tags:  FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+date: 2026-01-25T22:33:50.042Z
+tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+editor: markdown
 dateCreated: 2026-01-24T20:00:40.909Z
 ---
+
 # 欢迎来到 od-wiki.com^*引言*^
 
 
@@ -25,5 +27,5 @@ dateCreated: 2026-01-24T20:00:40.909Z
 
 另外提醒，我们的唯一X官号为[@OVERDOSE\_Wiki](https://x.com/OVERDOSE_Wiki)，OverSpeed Wiki是独立于我们的其他站点，overdose.wiki不由我们控制且与我们无关
 
-od\-wiki的Telegram群组貌似被封禁  
 [从这里](https://t.me/od_wiki_cn)加入od\-wiki的最新Telegram群组
+*^od\-wiki的Telegram群组貌似被封禁^*
