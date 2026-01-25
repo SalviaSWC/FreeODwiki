@@ -3,7 +3,7 @@ title: prompt和效果
 description: 
 published: true
 date: 2026-01-24T19:40:56.171Z
-tags: editor: markdown, FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+tags:  FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 dateCreated: 2026-01-24T19:40:53.572Z
 ---
 我正在为一个减害网站翻译条目。这是一个Markdown网站，我给你的文本已经被转化为Markdown格式了，但是还没有翻译。请把它们翻译了给我，翻译的过程中注意术语的规范使用，见术语表。翻译的结果应该是一个格式不变(除非以下任务明确要求改变)的。

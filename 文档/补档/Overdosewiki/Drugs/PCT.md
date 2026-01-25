@@ -3,7 +3,7 @@ title: 吡拉西坦 | OverdoseWiki
 description: 
 published: true
 date: 2026-01-24T20:59:26.484Z
-tags: editor: markdown, FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+tags:  FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 dateCreated: 2026-01-24T20:59:23.986Z
 ---
 # 吡拉西坦^*脑改善、反解离*^

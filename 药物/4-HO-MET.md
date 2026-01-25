@@ -3,7 +3,7 @@ title: 4-HO-MET - PsychonautWiki
 description: 
 published: true
 date: 2026-01-24T19:38:30.217Z
-tags: editor: markdown, FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+tags:  FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 dateCreated: 2026-01-24T19:38:27.760Z
 ---
 <mark>质量意外的高，不错！但是仍需谨慎点击不明链接</mark>

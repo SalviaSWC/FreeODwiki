@@ -3,7 +3,7 @@ title: 奈福泮 | OverdoseWiki
 description: 
 published: true
 date: 2026-01-24T20:59:13.556Z
-tags: editor: markdown, FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+tags:  FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 dateCreated: 2026-01-24T20:59:11.300Z
 ---
 # 奈福泮^*抗低血压、镇痛、致幻、解离*^
