@@ -3,7 +3,7 @@ title: home
 description: 药物快速索引
 published: true
 date: 2026-01-24T22:07:17.359Z
-tags: editor: FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+tags: editor: markdown, FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 dateCreated: 2026-01-24T19:39:06.779Z
 ---
 <!-- 老子用的网页端解析器和你他妈的github解析器不一样，以后在前面加-前缀好了  -->
