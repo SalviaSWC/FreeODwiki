@@ -3,11 +3,9 @@ title: 报告9-在苯海拉明死亡前 | OverdoseWiki
 description: 
 published: true
 date: 2026-01-24T21:06:34.892Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T21:06:32.404Z
 ---
-
 # 报告9-在苯海拉明死亡前 | OverdoseWiki
 
 转载自 1004\-5619(2007\)02\-0152\-01

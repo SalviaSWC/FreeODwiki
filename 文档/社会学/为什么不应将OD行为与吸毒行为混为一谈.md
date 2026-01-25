@@ -3,11 +3,9 @@ title: 为什么不应将OD行为与吸毒行为混为一谈
 description: 
 published: true
 date: 2026-01-24T19:55:16.851Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T19:55:14.589Z
 ---
-
 # 为什么不应将OD行为与吸毒行为混为一谈？
 
 一大重要原因：

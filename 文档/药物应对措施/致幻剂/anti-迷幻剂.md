@@ -3,11 +3,9 @@ title: anti-迷幻剂
 description: 
 published: true
 date: 2026-01-24T19:57:09.171Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T19:57:06.958Z
 ---
-
 # 血清素能致幻剂（典型色胺类）过量应急方案 - 赛庚啶
 **物质分类**：经典血清素能致幻剂（LSD、psilocybin、DMT、mescaline等5-HT2A受体部分激动剂）。本补充针对急性心理危机阶段引入5-HT2A拮抗剂赛庚啶（cyproheptadine）作为潜在逆转干预。
 

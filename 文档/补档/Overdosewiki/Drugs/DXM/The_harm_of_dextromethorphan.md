@@ -3,11 +3,9 @@ title: 右美沙芬的危害专题 | OverdoseWiki
 description: 
 published: true
 date: 2026-01-24T21:07:32.057Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T21:07:29.611Z
 ---
-
 # 右美沙芬的危害专题
 
 > 请读者先看[右美沙芬](../DXM.md)、[解离](../../Effects/Dissociation.md)、[反解离](../../Effects/Antidissociation.md)

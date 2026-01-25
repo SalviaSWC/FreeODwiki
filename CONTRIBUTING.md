@@ -3,11 +3,9 @@ title: CONTRIBUTING
 description: 
 published: true
 date: 2026-01-24T21:51:10.539Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T19:31:19.613Z
 ---
-
 # 贡献指南
 
 欢迎来到 FreeODwiki！本项目致力于以科学、客观、无道德偏见的方式，整理和分享药物相关知识与体验报告。我们鼓励所有对药物话题有兴趣的朋友参与贡献，无论是修正错别字、补充内容，还是分享个人经验。

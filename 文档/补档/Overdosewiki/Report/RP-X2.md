@@ -3,11 +3,9 @@ title: 报告X2-酒精联用下没有幻觉的的普瑞巴林 | OverdoseWiki
 description: 
 published: true
 date: 2026-01-24T21:07:20.404Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T21:07:17.996Z
 ---
-
 # 报告X2-酒精联用下没有幻觉的的普瑞巴林 | OverdoseWiki
 
 报告者：鸿哎彬 [@hongaibin](https://x.com/hongaibin)  

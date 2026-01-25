@@ -3,11 +3,9 @@ title: PCE
 description: 
 published: true
 date: 2026-01-24T19:38:55.018Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T19:38:52.553Z
 ---
-
 # PCE（Eticyclidine）
 [◀返回药物](./home.md)
 **药物历史**：  

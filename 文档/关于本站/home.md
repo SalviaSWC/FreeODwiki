@@ -3,11 +3,9 @@ title: 站点介绍
 description: 
 published: true
 date: 2026-01-24T19:55:02.175Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T19:54:59.746Z
 ---
-
 请看有关我站信息
 ### 首要内容
 - [关于FreeODwiki](/文档/关于本站/关于FreeODwiki.md)

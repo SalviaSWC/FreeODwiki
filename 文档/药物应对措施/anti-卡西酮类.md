@@ -3,11 +3,9 @@ title: anti-卡西酮类
 description: 
 published: true
 date: 2026-01-24T19:56:41.233Z
-tags: 
-editor: markdown
+tags: editor: markdown,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
 dateCreated: 2026-01-24T19:56:38.678Z
 ---
-
 # 卡西酮类
 
 **作用机理**：卡西酮与安非他命的化学结构相似，因此具有安非他命的特征（特指拟交感神经症和血清素综合症），从而拥有明显的精神活性
