@@ -3,7 +3,7 @@ title: bron
 description: 
 published: true
 date: 2026-01-24T19:39:05.705Z
-tags:  FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 dateCreated: 2026-01-24T19:39:03.465Z
 ---
 # 白兔BRON（SS Pharmaceuticals Bron Tablets）

@@ -3,7 +3,7 @@ title: 负责的药物使用
 description: 
 published: true
 date: 2026-01-24T22:18:39.297Z
-tags:  FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
+tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 dateCreated: 2026-01-24T19:56:49.754Z
 ---
 # 为了安全 ，这将会是不可或缺的
