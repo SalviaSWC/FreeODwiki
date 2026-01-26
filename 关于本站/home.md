@@ -8,10 +8,10 @@ dateCreated: 2026-01-24T19:54:59.746Z
 ---
 请看有关我站信息
 ### 首要内容
-- [关于FreeODwiki](/文档/关于本站/关于FreeODwiki.md)
+- [关于FreeODwiki](/关于本站/关于FreeODwiki.md)
 
 - #### 其他
-- [观前提醒](/文档/关于本站/观前提醒.md)
-- [FOW规划及规范](/CONTRIBUTING.md)
+- [观前提醒](/关于本站/观前提醒.md)
+- [CONTRIBUTING](/CONTRIBUTING.md)
 - [ 参与我们](/CONTRIBUTING.md)
-- [CopyLeft精神](/文档/关于本站/CopyLeft精神.md)
+- [CopyLeft精神](/关于本站/CopyLeft精神.md)
