@@ -49,5 +49,5 @@ def update_tags_in_yaml_headers(folder_path, target_tag):
 
 if __name__ == "__main__":
     folder_path = r"d:\Projects\FreeODwiki"  # 修改为你的目标文件夹
-    target_tag = "FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。"  # 修改为你要添加的标签
+    target_tag = "FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。"  # 修改为你要添加的标签
     update_tags_in_yaml_headers(folder_path, target_tag)
