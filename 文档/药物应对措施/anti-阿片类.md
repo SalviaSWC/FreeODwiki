@@ -2,10 +2,12 @@
 title: anti-阿片类
 description: 
 published: true
-date: 2026-01-24T19:56:48.495Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:32:22.605Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:56:46.138Z
 ---
+
 # 阿片类中毒急救
 ***任何阿片类物质中毒或者过量，存在心跳停止或呼吸抑制症状的情况下必须立即送医！任何应急措施不得阻碍或者优先于专业医师干预！！！***
 ### 识别阿片类药物过量

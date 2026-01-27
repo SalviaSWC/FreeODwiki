@@ -2,10 +2,12 @@
 title: 恢复术 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-24T20:00:30.723Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:35:20.399Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T20:00:27.450Z
 ---
+
 # 恢复术
 
 

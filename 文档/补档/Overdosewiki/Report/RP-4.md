@@ -2,10 +2,12 @@
 title: 报告4-金刚烷胺 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-24T21:02:56.640Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:36:39.902Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T21:02:54.336Z
 ---
+
 # 报告4-金刚烷胺 | OverdoseWiki
 
 报告者：OLAIYA  

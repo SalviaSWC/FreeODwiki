@@ -2,10 +2,12 @@
 title: 胆碱酯酶抑制剂(ChEI)
 description: 
 published: true
-date: 2026-01-24T19:55:52.498Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:31:44.829Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:55:50.249Z
 ---
+
 # 胆碱酯酶抑制剂(ChEI)
 
 胆碱酯酶抑制剂（Cholinesterase inhibitor，ChEI）是一类治疗阿尔茨海默病或重症肌无力的药物，也用于化学武器和杀虫剂，属于抗谵妄剂。

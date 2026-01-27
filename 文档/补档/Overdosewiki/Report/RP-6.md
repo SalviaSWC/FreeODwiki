@@ -2,10 +2,12 @@
 title: 报告6-一次普瑞巴林，一次金刚烷胺 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-24T21:04:24.630Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:37:39.806Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T21:04:22.460Z
 ---
+
 # 报告6-一次普瑞巴林，一次金刚烷胺 | OverdoseWiki
 
 [¶](#报告6-一次普瑞巴林一次金刚烷胺) 报告6\-一次普瑞巴林，一次金刚烷胺

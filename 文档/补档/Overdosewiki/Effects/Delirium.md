@@ -2,10 +2,12 @@
 title: 谵妄 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-24T21:00:43.292Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:35:06.481Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T21:00:40.883Z
 ---
+
 # 谵妄^*抑制*^
 
 

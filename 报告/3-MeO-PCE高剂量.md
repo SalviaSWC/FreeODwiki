@@ -2,10 +2,12 @@
 title: 3-MeO-PCE高剂量
 description: 
 published: true
-date: 2026-01-24T21:51:27.171Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:20:43.189Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:31:43.537Z
 ---
+
 # 事件记录：3-MeO-PCE（20-30 mg，鼻腔吸入）
 **[◀返回报告](./home.md)** 
 

@@ -1,3 +1,13 @@
+---
+title: MDMA
+description: 
+published: true
+date: 2026-01-26T06:56:23.059Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-25T08:07:43.228Z
+---
+
 [◀返回](./home.md)
 
 # MDMA

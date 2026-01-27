@@ -1,3 +1,13 @@
+---
+title: GHB
+description: 
+published: true
+date: 2026-01-27T07:15:20.142Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-27T07:15:16.934Z
+---
+
 
 
 [◀返回](./home.md)

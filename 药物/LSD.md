@@ -2,11 +2,10 @@
 title: LSD
 description: 
 published: true
-date: 2026-01-24T22:13:25.788Z
-tags: translated_from_psychonautwiki,FreeODwiki是一个以开源共享为宗旨，提供有关OD、Overdose、药物滥用、吸毒、毒品等话题的项目。
-
+date: 2026-01-26T06:56:17.877Z
+tags: translated_from_psychonautwiki,freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、吸毒、毒品等话题的项目。
+editor: markdown
 dateCreated: 2026-01-24T19:38:44.853Z
-
 ---
 
 [◀返回](./home.md)

@@ -2,10 +2,12 @@
 title: anti-苯二氮卓类药物
 description: 
 published: true
-date: 2026-01-24T19:56:45.001Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:32:17.403Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:56:42.587Z
 ---
+
 # 苯二氮卓类药物反制
 *苯二氮卓类药物过量可导致意识丧失，呼吸抑制和低血压*
 

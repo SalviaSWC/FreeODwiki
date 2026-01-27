@@ -1,3 +1,13 @@
+---
+title: Alpha-GPC
+description: 
+published: true
+date: 2026-01-27T07:30:09.100Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-27T07:30:06.505Z
+---
+
 
 
 [◀返回](./home.md)

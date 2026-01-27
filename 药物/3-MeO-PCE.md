@@ -2,10 +2,12 @@
 title: 3-MeO-PCE
 description: 
 published: true
-date: 2026-01-24T22:28:15.265Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:43:34.865Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T22:08:35.349Z
 ---
+
 # 3-MeO-PCE
 
 [◀返回](./home.md)
@@ -107,9 +109,9 @@ dateCreated: 2026-01-24T22:08:35.349Z
 
 ## 药理学
 
-更多信息：[NMDA受体拮抗剂](/精神药理学/anti-NMDA受体受体拮抗剂)
+更多信息：[NMDA受体拮抗剂](/精神药理学/anti-NMDA受体拮抗剂.md)
 
-3-MeO-PCE 主要作为[NMDA受体拮抗剂](/精神药理学/anti-NMDA受体受体拮抗剂)起作用。NMDA 受体允许电信号在通过大脑和脊柱的神经元之间传递；为了传递信号，受体必须是开放的。解离剂通过阻断 NMDA 受体来关闭它们。这种神经元的断连导致感觉丧失、运动困难，最终导致与著名的“[K洞](https://zh.wikipedia.org/wiki/K-hole)”几乎相同的状态。
+3-MeO-PCE 主要作为[NMDA受体拮抗剂](/精神药理学/anti-NMDA受体拮抗剂.md)起作用。NMDA 受体允许电信号在通过大脑和脊柱的神经元之间传递；为了传递信号，受体必须是开放的。解离剂通过阻断 NMDA 受体来关闭它们。这种神经元的断连导致感觉丧失、运动困难，最终导致与著名的“[K洞](https://zh.wikipedia.org/wiki/K-hole)”几乎相同的状态。
 
 3-MeO-PCE 对 NMDA 受体的 Ki 值为 61 nM，对多巴胺转运体为 743 nM，对组胺 H2 受体为 2097 nM，对 Alpha-2A 肾上腺素受体为 964 nM，对血清素转运体为 115 nM，对 σ1 受体为 4519 nM，对 σ2 受体为 525 nM。[6]
 

@@ -2,10 +2,12 @@
 title: home
 description: 
 published: true
-date: 2026-01-24T19:32:30.545Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-27T07:30:03.955Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:32:28.219Z
 ---
+
 若您有新的文档，请在github上投稿，或者发送邮件到contact@freeod.wiki
 
 现在文档不建议新增文件夹，若要建立一个层级结构，请善用文件内超链接作为索引，而非依赖方可自行点击文件列表。现存的文件夹建议保留，但不要往其中新增文件(除了药物分类)。

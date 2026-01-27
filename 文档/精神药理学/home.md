@@ -2,10 +2,12 @@
 title: 精神药理学
 description: 
 published: true
-date: 2026-01-24T19:55:50.234Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:31:24.546Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:55:22.673Z
 ---
+
 # 有关精神药理学的文章将存于此处
 - [生命科学纲要](/文档/精神药理学/生命科学纲要.md)
 ### 请先掌握上述文本

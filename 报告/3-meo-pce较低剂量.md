@@ -2,10 +2,12 @@
 title: 3-meo-pce较低剂量
 description: 
 published: true
-date: 2026-01-24T21:51:30.006Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:20:45.757Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:31:47.103Z
 ---
+
 # 记录：3-MeO-PCE（18 mg，总剂量；舌下含服）
 
 **[◀返回报告](./home.md)** 

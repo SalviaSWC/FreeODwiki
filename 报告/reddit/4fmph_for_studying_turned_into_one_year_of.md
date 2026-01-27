@@ -2,10 +2,12 @@
 title: 4fmph_for_studying_turned_into_one_year_of
 description: 
 published: true
-date: 2026-01-24T19:54:36.117Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:30:34.491Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:54:33.721Z
 ---
+
 # 4F-Mph本来是为了学习用的，结果变成了一整年的兴奋剂撸管噩梦
 
 [◀返回报告](../home.md)

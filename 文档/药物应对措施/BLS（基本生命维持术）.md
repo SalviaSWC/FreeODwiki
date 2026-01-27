@@ -2,10 +2,12 @@
 title: BLS（基本生命维持术）
 description: 
 published: true
-date: 2026-01-24T19:56:37.503Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:32:12.462Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:56:35.193Z
 ---
+
 # 程序手册：异常精神活性物质暴露后基本生命维持术
  
 **适用范围**：所有现场人员。针对中枢抑制剂类异常物质（阿片类、苯二氮卓类、巴比妥类、乙醇、GHB/GBL及其他GABA能增强剂）诱发急性呼吸抑制、心脏功能紊乱及混合暴露场景的详细干预流程。  

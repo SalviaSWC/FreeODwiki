@@ -2,10 +2,12 @@
 title: 4-KETO-PCP肌注测试
 description: 
 published: true
-date: 2026-01-24T21:51:34.777Z
-tags:  FreeODwiki是一个开源项目，提供有关OD、Overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+date: 2026-01-26T04:20:50.723Z
+tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
+editor: markdown
 dateCreated: 2026-01-24T19:31:53.953Z
 ---
+
 **[◀返回报告](./home.md)** 
 
 01.10 23:23<br>
