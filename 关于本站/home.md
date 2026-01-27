@@ -2,7 +2,7 @@
 title: 站点介绍
 description: 
 published: true
-date: 2026-01-27T13:30:57.944Z
+date: 2026-01-27T16:52:04.920Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-24T19:54:59.746Z
@@ -20,6 +20,8 @@ dateCreated: 2026-01-24T19:54:59.746Z
 ## 本站是什么?
 
 本站是一个非盈利性的知识站点，旨在通过基于事实、无道德立场地提供精神药物的信息，提倡以合理的方式使用精神药物，减少人们因使用精神药物受到的伤害。
+## 我们是谁？
+请看页面[😇FOW的贡献者](/关于本站/个人文件夹/home.md)
 
 ## 本站不是什么?
 
@@ -47,3 +49,4 @@ dateCreated: 2026-01-24T19:54:59.746Z
 ## 其他
 - [参与我们](/CONTRIBUTING.md)
 - [CopyLeft精神](/关于本站/CopyLeft精神.md)
+- [FOW的贡献者](/关于本站/个人文件夹/home.md)
