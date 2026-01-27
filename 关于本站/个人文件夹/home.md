@@ -2,7 +2,7 @@
 title: 个人主页
 description: 
 published: true
-date: 2026-01-27T16:23:55.896Z
+date: 2026-01-27T16:26:38.690Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-27T13:56:24.376Z
@@ -11,8 +11,10 @@ dateCreated: 2026-01-27T13:56:24.376Z
 # 贡献者的个人主页
 ***一個理念。一場行動。一位英雄。***
 ##### [贡献者列表](https://github.com/SalviaSWC/FreeODwiki/graphs/contributors)（GitHub）
+这是记录有贡献者的文档
 - [CB5CFE](https://x.com/Cbscfe)  协作者
 - [Edward](https://x.com/Edward_8964)  协作者 **WEB管理者**
+- [Jahseh](https://x.com/Jahseh14138)  WEB写作者
 - [Kagamine](https://x.com/Kagamine_8964)  WEB写作者
 - [Parish-Von](https://x.com/Paris1Von)  协作者
 - [Rinko](https://x.com/Rinko_zero8964)  WEB写作者
