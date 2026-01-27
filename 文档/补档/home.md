@@ -2,7 +2,7 @@
 title: 补档主页
 description: 
 published: true
-date: 2026-01-27T14:22:23.535Z
+date: 2026-01-27T14:34:39.114Z
 tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 editor: markdown
 dateCreated: 2026-01-24T19:57:03.548Z
@@ -12,5 +12,6 @@ dateCreated: 2026-01-24T19:57:03.548Z
 > ***补档内容不代表本站观点，仅作为参考文献使用***
 {.is-warning}
 
+**这不是你第一次来到这里**
 [OverdoseWiki补档](./Overdosewiki/index.md)<br>
 [OverdoseDay补档](./Overdoseday/index.md)
