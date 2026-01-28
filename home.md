@@ -35,14 +35,6 @@ dateCreated: 2026-01-24T19:31:28.372Z
     + [🧪教学索引](文档/教学索引页.md) 沃·兹基·硕德曾经说过:*无化学，不极乐* 。<br> 
     + [🧮药物分类索引](/文档/药物分类/home.md) 知识管理者堕落的原因：他们尝试索引所有精神药物，想不到精神药物无穷无尽。
     + [🗑️补档](/文档/补档/home.md)*致瞬息万变之物，及亘古不变之物。文档虽或有谬误，但仍是引路之灯塔。致敬每一位在药圈中和已经离开药圈的先辈——Edward*<br>
-    
-
-
-
-![FreeODwiki图标](https://github.com/SalviaSWC/FreeODwiki/blob/main/FreeODwiki.png?raw=true)
-![FreeODwiki星标](https://starchart.cc/SalviaSWC/FreeODwiki.svg?variant=adaptive)
-
-    
 
 
 
