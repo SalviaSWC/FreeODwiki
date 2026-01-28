@@ -2,7 +2,7 @@
 title: 个人主页
 description: 
 published: true
-date: 2026-01-28T05:03:34.922Z
+date: 2026-01-28T11:05:28.028Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-27T13:56:24.376Z
@@ -14,6 +14,7 @@ dateCreated: 2026-01-27T13:56:24.376Z
 这是记录有贡献者的文档
 - [Cbscfe](https://x.com/Cbscfe)  协作者
 - [Edward](https://x.com/Edward_8964)  协作者 **WEB管理者**
+- [Hachimi](https://x.com/hach0721)  WEB写作者
 - [Jahseh](https://x.com/Jahseh14138)  WEB写作者
 - [Kagamine](https://x.com/Kagamine_8964)  WEB写作者
 - [mizuame](https://x.com/mizuame19953?s=21)  WEB写作者
