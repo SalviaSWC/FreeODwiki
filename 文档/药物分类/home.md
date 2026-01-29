@@ -1,3 +1,13 @@
+---
+title: home
+description: 
+published: true
+date: 2026-01-29T05:45:45.944Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-24T22:08:06.288Z
+---
+
 # 药物分类
 
 [◀返回主索引](/药物/home.md)

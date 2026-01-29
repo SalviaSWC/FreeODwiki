@@ -1,3 +1,13 @@
+---
+title: GBL
+description: 
+published: true
+date: 2026-01-29T04:25:32.043Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-29T04:25:29.437Z
+---
+
 
 
 [◀返回](../home.md)

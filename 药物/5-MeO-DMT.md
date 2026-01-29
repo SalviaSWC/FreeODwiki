@@ -1,3 +1,13 @@
+---
+title: 5-MeO-DMT
+description: 
+published: true
+date: 2026-01-29T08:53:57.199Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-29T08:53:53.162Z
+---
+
 
 
 [◀返回](./home.md)

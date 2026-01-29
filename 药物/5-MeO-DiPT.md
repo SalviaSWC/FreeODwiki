@@ -1,3 +1,13 @@
+---
+title: 5-MeO-DiPT
+description: 
+published: true
+date: 2026-01-27T13:52:22.303Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-27T13:52:18.943Z
+---
+
 
 [◀返回](./home.md)
 
