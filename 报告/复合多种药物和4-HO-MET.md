@@ -2,7 +2,7 @@
 title: 复合多种药物和4-HO-MET
 description: 
 published: true
-date: 2026-01-27T13:46:02.035Z
+date: 2026-01-29T17:23:07.763Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-24T19:32:21.520Z
