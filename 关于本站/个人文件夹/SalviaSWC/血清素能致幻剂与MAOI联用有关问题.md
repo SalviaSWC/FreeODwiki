@@ -2,7 +2,7 @@
 title: 血清素能致幻剂与MAOI联用有关问题
 description: 
 published: true
-date: 2026-01-29T15:48:21.996Z
+date: 2026-01-29T16:49:06.061Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-27T14:10:11.883Z

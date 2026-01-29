@@ -2,7 +2,7 @@
 title: 报告X1-50t氯硝西泮带来的长效镇静 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-27T14:17:40.004Z
+date: 2026-01-29T16:56:42.040Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-24T21:07:14.352Z

@@ -2,7 +2,7 @@
 title: 喹硫平 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-27T14:12:20.106Z
+date: 2026-01-29T16:51:17.634Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-24T20:59:35.382Z
