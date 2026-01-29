@@ -52,7 +52,7 @@
 | [右美沙芬](../药物/右美沙芬.md) | 💔 联用危险 |
 | [MDMA](../药物/MDMA.md) | 💔 联用危险 |
 | [兴奋剂](../文档/药物分类/兴奋剂.md) | 💔 联用危险 |
-| [25x-NBOMe](../药物/25x-NBOMe.md) | 💔 联用危险 |
+| [25x-NBOMe](../文档/药物分类/N-苄基苯乙胺类物质.md) | 💔 联用危险 |
 | [25x-NBOH](../药物/25x-NBOH.md) | 💔 联用危险 |
 | [曲马多](../药物/曲马多.md) | 💔 联用危险 |
 | [MAOIs](../药物/MAOIs.md) | 💔 联用危险 |
@@ -193,7 +193,7 @@ IPPH 与[乙哌醋甲酯](../药物/EPH.md "Ethylphenidate")和[哌甲酯](../�
 
 *务必进行独立研究（例如 [Google](https://www.google.com)、[DuckDuckGo](https://www.duckduckgo.com)、[PubMed](https://pubmed.ncbi.nlm.nih.gov/)）以确保两种或多种物质的组合是安全的。部分列出的相互作用来自 [TripSit](https://combo.tripsit.me)。*
 
-* **[25x\-NBOMe](../药物/25x-NBOMe.md "25x-NBOMe") \& [25x\-NBOH](../药物/25x-NBOH.md "25x-NBOH")** \- 25x 化合物具有高度刺激性并造成身体压力。应严格避免与 IPPH 联用，因为存在过度[刺激](../药效/刺激.md "Stimulation")和心脏压力的风险。这可能导致[血压升高](../药效/血压升高.md "Increased blood pressure")、[血管收缩](../药效/血管收缩.md "Vasoconstriction")、恐慌发作、[思维循环](../药效/认知效应.md "Thought loops")、[癫痫发作](../药效/癫痫发作.md "Seizures")，极端情况下甚至导致心力衰竭。
+* **[25x\-NBOMe](../文档/药物分类/N-苄基苯乙胺类物质.md "25x-NBOMe") \& [25x\-NBOH](../药物/25x-NBOH.md "25x-NBOH")** \- 25x 化合物具有高度刺激性并造成身体压力。应严格避免与 IPPH 联用，因为存在过度[刺激](../药效/刺激.md "Stimulation")和心脏压力的风险。这可能导致[血压升高](../药效/血压升高.md "Increased blood pressure")、[血管收缩](../药效/血管收缩.md "Vasoconstriction")、恐慌发作、[思维循环](../药效/认知效应.md "Thought loops")、[癫痫发作](../药效/癫痫发作.md "Seizures")，极端情况下甚至导致心力衰竭。
 * **[酒精](../药物/酒精.md "Alcohol")** \- 将酒精与[兴奋剂](../文档/药物分类/兴奋剂.md "Stimulants")结合使用可能很危险，因为存在意外过度中毒的风险。兴奋剂掩盖了酒精的[抑制](../文档/药物分类/抑制剂.md "Depressant")作用，而大多数人利用这种作用来评估自己的中毒程度。一旦兴奋剂失效，[抑制](../文档/药物分类/抑制剂.md "Depressant")作用将不受对抗，这可能导致断片和严重的[呼吸抑制](../药效/呼吸抑制.md "Respiratory depression")。如果混合使用，使用者应严格限制每小时饮用的酒精量。
 * **[右美沙芬](../药物/右美沙芬.md "DXM")** \- 应避免与 DXM 联用，因为它对[血清素](../文档/血清素.md "Serotonin")和[去甲肾上腺素](../文档/去甲肾上腺素.md "Norepinephrine")再摄取有抑制作用。存在[恐慌发作](../药效/认知效应.md "Panic attacks")和高血压危象的风险增加，或与血清素释放剂（[MDMA](../药物/MDMA.md "MDMA")、[甲酮](../药物/甲酮.md "Methylone")、[甲卡西酮](../药物/甲卡西酮.md "Mephedrone")等）联用时出现[血清素综合征](../文档/血清素综合征.md "Serotonin syndrome")的风险。仔细监测血压并避免剧烈运动。
 * **[MDMA](../药物/MDMA.md "MDMA")** \- 当存在其他[兴奋剂](../文档/药物分类/兴奋剂.md "Stimulants")时，MDMA 的任何神经毒性作用都可能增加。还存在血压过高和心脏压力（心脏毒性）的风险。
