@@ -1,3 +1,13 @@
+---
+title: 25I-NBOMe
+description: 
+published: true
+date: 2026-01-29T05:45:51.415Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-29T05:45:48.429Z
+---
+
 [◀返回](./home.md)
 
 # 25I-NBOMe

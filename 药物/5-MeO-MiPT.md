@@ -1,3 +1,13 @@
+---
+title: 5-MeO-MiPT
+description: 
+published: true
+date: 2026-01-29T07:37:28.833Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-29T07:37:26.192Z
+---
+
 FreeODwiki/
 
 # 5-MeO-MiPT

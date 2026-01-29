@@ -1,3 +1,13 @@
+---
+title: D-柠檬烯食醋DMT提取术
+description: 
+published: true
+date: 2026-01-28T12:44:34.466Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-28T12:44:31.984Z
+---
+
 
 [◀返回](./home.md)
 

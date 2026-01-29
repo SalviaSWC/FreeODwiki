@@ -1,3 +1,13 @@
+---
+title: 氢氧化钠石脑油法DMT提取术
+description: 
+published: true
+date: 2026-01-28T12:17:40.670Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-28T12:17:38.510Z
+---
+
 
 ---
 

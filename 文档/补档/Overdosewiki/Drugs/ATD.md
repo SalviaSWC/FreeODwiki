@@ -2,7 +2,7 @@
 title: 金刚烷胺 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-26T04:33:07.047Z
+date: 2026-01-27T14:11:12.336Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-24T20:57:58.280Z

@@ -1,3 +1,13 @@
+---
+title: GABA
+description: 
+published: true
+date: 2026-01-29T04:56:50.553Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-29T04:56:48.448Z
+---
+
 [◀返回](./home.md)
 
 # GABA

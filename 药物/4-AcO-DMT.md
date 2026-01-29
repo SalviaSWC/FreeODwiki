@@ -1,3 +1,13 @@
+---
+title: 4-AcO-DMT
+description: 
+published: true
+date: 2026-01-29T08:53:51.729Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-29T08:53:48.722Z
+---
+
 
 [◀返回](./home.md)
 
