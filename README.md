@@ -38,20 +38,6 @@ dateCreated: 2026-01-30T05:35:54.899Z
 {.is-info}
 
 
-<<<<<<< Updated upstream
-=======
-强烈建议初次了解者先看[FreeOverdose引论-进站先看](/关于本站/FreeOD引论.md)
 
-若需要该网站账号以编辑内容，请在右上角注册，支持Google和GitHub以及邮箱登录或进入本项目的Github仓库
-
-若认为该网站出现内容错误，请直接在Github上新建Issue 
-
-若想找人哔哔叭叭，可以直接在Github的Discussion页面新建讨论串
-
-    Freeodwiki从未被任何人收购
-    Freeodwiki过去从未有，目前没有，未来也不会有被收购的计划
-    {.is-info}
-
->>>>>>> Stashed changes
 ![FreeODwiki图标](https://github.com/SalviaSWC/FreeODwiki/blob/main/FreeODwiki.png?raw=true)
 ![FreeODwiki星标](https://starchart.cc/SalviaSWC/FreeODwiki.svg?variant=adaptive)
