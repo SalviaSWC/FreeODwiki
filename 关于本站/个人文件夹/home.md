@@ -10,7 +10,7 @@ dateCreated: 2026-01-30T06:01:40.565Z
 
 # 贡献者的个人主页
 ***一個理念。一場行動。一位英雄。***
-##### [贡献者列表](https://github.com/SalviaSWC/FreeODwiki/graphs/contributors)（GitHub）
+##### [贡献者列表](https://github.com/SalviaSWC/FreeODwiki/graphs/contributors)（转至GitHub）
 这是记录有贡献者的文档
 - [Cbscfe](https://x.com/Cbscfe)  协作者
 - [Edward](https://x.com/Edward_8964)  协作者 **WEB管理者**
