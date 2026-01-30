@@ -2,7 +2,7 @@
 title: 唑吡坦 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-30T06:21:09.234Z
+date: 2026-01-30T10:43:15.453Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-30T06:21:07.139Z

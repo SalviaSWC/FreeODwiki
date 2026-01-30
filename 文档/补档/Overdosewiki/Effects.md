@@ -2,7 +2,7 @@
 title: 药物效果 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-30T06:18:22.518Z
+date: 2026-01-30T10:39:34.635Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
 dateCreated: 2026-01-30T06:18:20.326Z

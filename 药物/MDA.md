@@ -2,7 +2,7 @@
 title: MDA
 description: 
 published: true
-date: 2026-01-30T05:55:46.476Z
+date: 2026-01-30T09:32:40.602Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-30T05:55:42.443Z

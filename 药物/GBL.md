@@ -2,7 +2,7 @@
 title: GBL
 description: 
 published: true
-date: 2026-01-30T05:55:22.256Z
+date: 2026-01-30T09:29:33.694Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-30T05:55:19.343Z
