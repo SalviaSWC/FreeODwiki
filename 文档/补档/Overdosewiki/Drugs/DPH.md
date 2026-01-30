@@ -2,10 +2,10 @@
 title: 苯海拉明 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:50:34.030Z
+date: 2026-01-30T06:19:34.970Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T20:58:32.787Z
+dateCreated: 2026-01-30T06:19:32.936Z
 ---
 
 # 苯海拉明^*谵妄、抗过敏*^

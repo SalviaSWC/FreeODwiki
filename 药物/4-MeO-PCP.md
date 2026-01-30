@@ -2,10 +2,10 @@
 title: 4-MeO-PCP
 description: 
 published: true
-date: 2026-01-29T16:28:29.343Z
+date: 2026-01-30T05:54:14.063Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-29T05:45:52.916Z
+dateCreated: 2026-01-30T05:54:11.474Z
 ---
 
 [◀返回](./home.md)

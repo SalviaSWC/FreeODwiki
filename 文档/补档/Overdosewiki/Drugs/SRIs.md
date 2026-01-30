@@ -2,10 +2,10 @@
 title: 血清素再摄取抑制剂 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:51:28.533Z
+date: 2026-01-30T06:20:42.643Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T20:59:50.428Z
+dateCreated: 2026-01-30T06:20:40.020Z
 ---
 
 # 血清素再摄取抑制剂^*抗抑郁、（部分）抗焦虑*^

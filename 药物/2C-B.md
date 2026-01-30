@@ -2,10 +2,10 @@
 title: 2C-B
 description: 
 published: true
-date: 2026-01-29T16:28:04.447Z
+date: 2026-01-30T05:53:31.886Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-27T13:52:06.584Z
+dateCreated: 2026-01-30T05:53:28.786Z
 ---
 
 [◀返回](./home.md)

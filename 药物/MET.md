@@ -2,10 +2,10 @@
 title: MET
 description: 
 published: true
-date: 2026-01-29T04:57:54.755Z
+date: 2026-01-30T05:56:06.237Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-24T22:32:06.270Z
+dateCreated: 2026-01-30T05:56:03.626Z
 ---
 
 MET

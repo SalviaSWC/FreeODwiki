@@ -2,10 +2,10 @@
 title: 苯二氮卓类药物 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:50:15.067Z
+date: 2026-01-30T06:19:11.932Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T20:58:06.154Z
+dateCreated: 2026-01-30T06:19:09.596Z
 ---
 
 # 苯二氮卓类药物^*镇静、安眠*^

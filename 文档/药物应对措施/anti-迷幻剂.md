@@ -2,10 +2,10 @@
 title: anti-迷幻剂
 description: 
 published: true
-date: 2026-01-29T16:48:34.007Z
+date: 2026-01-30T06:17:23.400Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-25T10:03:08.972Z
+dateCreated: 2026-01-30T06:17:21.309Z
 ---
 
 # 血清素能致幻剂（典型色胺类）过量应急方案 - 赛庚啶

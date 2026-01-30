@@ -2,10 +2,10 @@
 title: od
 description: 
 published: true
-date: 2026-01-29T16:18:35.706Z
+date: 2026-01-30T05:44:08.999Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-29T15:01:38.691Z
+dateCreated: 2026-01-30T05:44:07.062Z
 ---
 
 # OD

@@ -2,10 +2,10 @@
 title: Alpha-GPC
 description: 
 published: true
-date: 2026-01-29T16:28:51.219Z
+date: 2026-01-30T05:54:47.452Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-27T07:30:06.505Z
+dateCreated: 2026-01-30T05:54:44.853Z
 ---
 
 [◀返回](./home.md)

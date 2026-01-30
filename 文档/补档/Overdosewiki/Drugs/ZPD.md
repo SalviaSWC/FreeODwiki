@@ -2,10 +2,10 @@
 title: 唑吡坦 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:51:48.751Z
+date: 2026-01-30T06:21:09.234Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T21:00:22.062Z
+dateCreated: 2026-01-30T06:21:07.139Z
 ---
 
 # 唑吡坦^*内部幻觉、镇静、梦游*^

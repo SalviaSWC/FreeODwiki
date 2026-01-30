@@ -2,10 +2,10 @@
 title: 25I-NBOMe
 description: 
 published: true
-date: 2026-01-29T16:27:59.495Z
+date: 2026-01-30T05:53:23.994Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-29T05:45:48.429Z
+dateCreated: 2026-01-30T05:53:20.967Z
 ---
 
 [◀返回](./home.md)

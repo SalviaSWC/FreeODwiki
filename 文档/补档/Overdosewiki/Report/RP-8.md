@@ -2,10 +2,10 @@
 title: 报告8-过量利培酮的噩梦 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:55:39.769Z
+date: 2026-01-30T06:25:50.549Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T21:05:46.257Z
+dateCreated: 2026-01-30T06:25:48.465Z
 ---
 
 # 报告8-过量利培酮的噩梦 | OverdoseWiki

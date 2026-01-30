@@ -2,10 +2,10 @@
 title: 3-MeO-PCP
 description: 
 published: true
-date: 2026-01-29T16:28:12.900Z
+date: 2026-01-30T05:53:55.095Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-29T04:57:32.316Z
+dateCreated: 2026-01-30T05:53:51.918Z
 ---
 
 [◀返回](./home.md)

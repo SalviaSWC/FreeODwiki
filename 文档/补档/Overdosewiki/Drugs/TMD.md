@@ -2,10 +2,10 @@
 title: 曲马多 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:51:36.294Z
+date: 2026-01-30T06:20:52.840Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T21:00:02.431Z
+dateCreated: 2026-01-30T06:20:50.518Z
 ---
 
 # 曲马多^*阿片类麻醉、战斗兴奋*^

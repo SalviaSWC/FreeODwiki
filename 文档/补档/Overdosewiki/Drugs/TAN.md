@@ -2,10 +2,10 @@
 title: 茶氨酸 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:51:31.186Z
+date: 2026-01-30T06:20:46.074Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T20:59:54.331Z
+dateCreated: 2026-01-30T06:20:43.879Z
 ---
 
 # 茶氨酸^*镇静*^

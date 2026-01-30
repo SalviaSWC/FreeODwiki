@@ -2,10 +2,10 @@
 title: anti-苯二氮卓类药物
 description: 
 published: true
-date: 2026-01-29T16:48:31.404Z
+date: 2026-01-30T06:17:20.146Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T19:56:42.587Z
+dateCreated: 2026-01-30T06:17:18.185Z
 ---
 
 # 苯二氮卓类药物反制

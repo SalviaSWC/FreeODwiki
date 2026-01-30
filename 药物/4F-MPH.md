@@ -1,3 +1,13 @@
+---
+title: 4F-MPH
+description: 
+published: true
+date: 2026-01-30T05:54:18.040Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-30T05:54:15.107Z
+---
+
 [◀返回](./home.md)
 
 # 4F-MPH

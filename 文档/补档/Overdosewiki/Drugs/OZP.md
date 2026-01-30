@@ -2,10 +2,10 @@
 title: 奥氮平 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:51:03.563Z
+date: 2026-01-30T06:20:12.725Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T20:59:15.187Z
+dateCreated: 2026-01-30T06:20:10.602Z
 ---
 
 # 奥氮平^*全体兴奋递质抑制剂/无法滥用*^

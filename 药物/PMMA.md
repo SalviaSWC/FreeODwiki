@@ -1,3 +1,13 @@
+---
+title: PMMA
+description: 
+published: true
+date: 2026-01-30T05:56:26.569Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-30T05:56:24.133Z
+---
+
 [◀返回](./home.md)
 
 # PMMA

@@ -1,3 +1,13 @@
+---
+title: 5-HTP
+description: 
+published: true
+date: 2026-01-30T05:54:26.745Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-30T05:54:24.027Z
+---
+
 
 
 [◀返回](./home.md)

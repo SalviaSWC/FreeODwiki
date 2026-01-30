@@ -2,10 +2,10 @@
 title: 负责的药物使用
 description: 
 published: true
-date: 2026-01-29T16:48:39.640Z
+date: 2026-01-30T06:17:29.442Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T19:56:49.754Z
+dateCreated: 2026-01-30T06:17:27.463Z
 ---
 
 # 为了安全 ，这将会是不可或缺的

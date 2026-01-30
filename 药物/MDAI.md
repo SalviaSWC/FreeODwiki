@@ -1,3 +1,13 @@
+---
+title: MDAI
+description: 
+published: true
+date: 2026-01-30T05:55:51.619Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-30T05:55:47.645Z
+---
+
 [◀返回](./home.md)
 
 # MDAI

@@ -2,10 +2,10 @@
 title: GABA
 description: 
 published: true
-date: 2026-01-29T16:18:30.181Z
+date: 2026-01-30T05:44:02.962Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-29T04:56:48.448Z
+dateCreated: 2026-01-30T05:44:00.377Z
 ---
 
 [◀返回](./home.md)

@@ -2,10 +2,10 @@
 title: 二氢可待因-杂项与报告 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:56:50.492Z
+date: 2026-01-30T06:27:15.983Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T21:07:25.796Z
+dateCreated: 2026-01-30T06:27:13.908Z
 ---
 
 # 二氢可待因-杂项与报告

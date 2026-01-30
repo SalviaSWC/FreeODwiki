@@ -1,3 +1,13 @@
+---
+title: 3-FA
+description: 
+published: true
+date: 2026-01-30T05:53:46.794Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-30T05:53:44.130Z
+---
+
 [◀返回](./home.md)
 
 # 3-FA

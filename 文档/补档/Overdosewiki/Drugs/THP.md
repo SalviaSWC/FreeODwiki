@@ -2,10 +2,10 @@
 title: 苯海索 | OverdoseWiki
 description: 
 published: true
-date: 2026-01-29T16:51:33.743Z
+date: 2026-01-30T06:20:49.358Z
 tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
 editor: markdown
-dateCreated: 2026-01-24T20:59:58.271Z
+dateCreated: 2026-01-30T06:20:47.165Z
 ---
 
 # 苯海索^*谵妄、致幻*^

@@ -2,10 +2,10 @@
 title: MDMA
 description: 
 published: true
-date: 2026-01-29T16:29:49.925Z
+date: 2026-01-30T05:55:57.396Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-25T08:07:43.228Z
+dateCreated: 2026-01-30T05:55:52.810Z
 ---
 
 [◀返回](./home.md)
