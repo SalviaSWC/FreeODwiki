@@ -50,7 +50,7 @@
 
 MDAI 是由美国药物化学家和药理学家 [David E. Nichols](/wiki/David_E._Nichols "David E. Nichols") 在 1990 年代于普渡大学开发的哦。\[*[来源请求](/wiki/Citation_needed "Citation needed")*\] 在 2010 年代，MDAI 与像 [5-MAPB](/药物/5-MAPB.md "5-MAPB")、[5-APB](/药物/5-APB.md "5-APB") 和 [6-APB](/药物/6-APB.md "6-APB") 这样的新型[共情剂](/文档/药物分类/共情剂.md "Entactogens")一起作为 [MDMA](/药物/MDMA.md "MDMA") 的合法灰色市场替代品在在线[研究用化学品](/文档/研究用化学品.md "Research chemical")市场上销售。目前正在研究将其作为传统共情剂的潜在替代品，用于治疗焦虑和抑郁等心理健康状况呢。\[*[来源请求](/wiki/Citation_needed "Citation needed")*\]
 
-[主观效应](/文档/主观效应索引.md "Subjective effects")包括[镇静](/药效/镇静.md "Sedation")、[肌肉松弛](/药效/肌肉松弛.md "Muscle relaxation")、[触觉增强](/药效/触觉效应.md "Tactile enhancement")、[焦虑抑制](/药效/镇静.md "Anxiety suppression")、[共情、情感和社交能力增强](/药效/认知效应.md "Empathy, affection, and sociability enhancement")以及[欣快感](/药效/认知效应.md "Euphoria")。据说它产生的效果类似于典型的共情剂如 [MDMA](/药物/MDMA.md "MDMA") 和 [MDA](/药物/MDA.md "MDA")，但不具有刺激性。有人认为，缺乏多巴胺和去甲肾上腺素的活性限制了它产生明显的振奋、亲社会或[欣快](/药效/认知效应.md "Euphoria")效果的能力，但好处是减少了神经毒性和副作用呢。不过嘛，还需要更多的研究来验证这些说法哦。
+[主观效应](/药效/home.md "Subjective effects")包括[镇静](/药效/镇静.md "Sedation")、[肌肉松弛](/药效/肌肉松弛.md "Muscle relaxation")、[触觉增强](/药效/触觉效应.md "Tactile enhancement")、[焦虑抑制](/药效/镇静.md "Anxiety suppression")、[共情、情感和社交能力增强](/药效/认知效应.md "Empathy, affection, and sociability enhancement")以及[欣快感](/药效/认知效应.md "Euphoria")。据说它产生的效果类似于典型的共情剂如 [MDMA](/药物/MDMA.md "MDMA") 和 [MDA](/药物/MDA.md "MDA")，但不具有刺激性。有人认为，缺乏多巴胺和去甲肾上腺素的活性限制了它产生明显的振奋、亲社会或[欣快](/药效/认知效应.md "Euphoria")效果的能力，但好处是减少了神经毒性和副作用呢。不过嘛，还需要更多的研究来验证这些说法哦。
 
 关于 MDAI 的药理特性、代谢和毒性的数据非常少，而且它的人类使用历史也很有限。如果使用这种物质，强烈建议采取[伤害减少措施](/文档/负责任的用药索引页.md "Harm reduction practices")喵。
 
@@ -98,7 +98,7 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
 主观效应
 ------------------
 
-***免责声明：** 下列效应引用自[**主观效应索引**](/文档/主观效应索引.md "Subjective effect index") (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/文档/关于本站/关于FreeODwiki.md "PsychonautWiki") [贡献者](/wiki/Special:TopUsers "Special:TopUsers")个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
+***免责声明：** 下列效应引用自[**主观效应索引**](/药效/home.md "Subjective effect index") (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/文档/关于本站/关于FreeODwiki.md "PsychonautWiki") [贡献者](/wiki/Special:TopUsers "Special:TopUsers")个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
 
 *值得注意的是，这些效应不一定会以可预测或可靠的方式发生，虽然高剂量更可能诱发全方位的效应。同样，**不良反应**也会随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡*** ☠。
 

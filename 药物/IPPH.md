@@ -69,7 +69,7 @@ dateCreated: 2026-01-27T13:52:49.831Z
 
 人们已经研究了 IPPH 替代[哌甲酯](../药物/哌甲酯.md "Methylphenidate")用于治疗 ADHD 及相关障碍的潜力。[\[1\]](#cite_note-IPPHadhd-1) 一项研究发现，它表现出作为[去甲肾上腺素](../文档/去甲肾上腺素.md "Norepinephrine")\-[多巴胺](../文档/多巴胺.md "Dopamine") [再摄取抑制剂](../文档/药物分类/抑制剂.md "Reuptake inhibitor") (**NDRI**) 的基本活性，与[哌甲酯](../药物/哌甲酯.md "Methylphenidate")和[乙哌醋甲酯](../药物/EPH.md "Ethylphenidate")一样，对多巴胺转运体具有相当高的亲和力，并对其细胞再摄取有影响。然而，它对[去甲肾上腺素](../文档/去甲肾上腺素.md "Norepinephrine")的影响相对较小，理论上这意味着它可能具有更理想的安全性和毒性特征。[\[2\]](#cite_note-IPPH-2)
 
-[主观效应](../文档/主观效应索引.md "Subjective effects")包括[刺激](../药效/刺激.md "Stimulation")、[动机增强](../药效/认知效应.md "Motivation enhancement")、[食欲抑制](../药效/食欲抑制.md "Appetite suppression")和[欣快感](../药效/认知效应.md "Euphoria")。据报道，其认知和身体效应类似于哌甲酯，但[欣快](../药效/认知效应.md "Euphoria")的“冲击感”（rush）成分较少，且[药效时长](../文档/药效时长.md "Duration")更长。这些特性使得一些人声称它可能更适合用作学习辅助或生产力增强剂。[\[2\]](#cite_note-IPPH-2)[\[1\]](#cite_note-IPPHadhd-1)
+[主观效应](/药效/home.md "Subjective effects")包括[刺激](../药效/刺激.md "Stimulation")、[动机增强](../药效/认知效应.md "Motivation enhancement")、[食欲抑制](../药效/食欲抑制.md "Appetite suppression")和[欣快感](../药效/认知效应.md "Euphoria")。据报道，其认知和身体效应类似于哌甲酯，但[欣快](../药效/认知效应.md "Euphoria")的“冲击感”（rush）成分较少，且[药效时长](../文档/药效时长.md "Duration")更长。这些特性使得一些人声称它可能更适合用作学习辅助或生产力增强剂。[\[2\]](#cite_note-IPPH-2)[\[1\]](#cite_note-IPPHadhd-1)
 
 IPPH 在人类中的[娱乐性用药](../文档/娱乐性用药.md "Recreational drug use")历史极短。它最初是在[乙哌醋甲酯](../药物/EPH.md "Ethylphenidate")被禁后发布的（乙哌醋甲酯于 2015 年 4 月在临时禁令后转为永久全面禁令而在英国变为非法）。不久之后，它作为[研究用化学品](../文档/研究用化学品.md "Research chemical")在在线灰色市场上出售并分销全球。截至 2022 年，IPPH 在世界许多地方仍然可用且法律地位模糊，几乎完全由在线[研究用化学品](../文档/研究用化学品.md "Research chemical")供应商分销。
 
@@ -112,7 +112,7 @@ IPPH 与[乙哌醋甲酯](../药物/EPH.md "Ethylphenidate")和[哌甲酯](../�
 主观效应
 ------------------
 
-***免责声明：** 下列效应参考了[***主观效应索引***](../文档/主观效应索引.md "Subjective effect index") (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](../关于本站/home.md "PsychonautWiki") [贡献者](../关于本站/home.md "Special:TopUsers")个人分析的开放研究文献。因此，应以健康的怀疑态度看待它们。*
+***免责声明：** 下列效应参考了[***主观效应索引***](/药效/home.md "Subjective effect index") (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](../关于本站/home.md "PsychonautWiki") [贡献者](../关于本站/home.md "Special:TopUsers")个人分析的开放研究文献。因此，应以健康的怀疑态度看待它们。*
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管更高剂量更倾向于引发全方位的效应。同样，**不良反应**随着剂量的增加变得越来越可能，可能包括**成瘾、严重伤害或死亡*** ☠。
 
