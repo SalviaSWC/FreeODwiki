@@ -2,14 +2,15 @@
 title: FreeODWiki-WEB主页
 description: 
 published: true
-date: 2026-01-31T16:25:46.940Z
+date: 2026-01-31T16:37:50.444Z
 tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 editor: markdown
 dateCreated: 2026-01-31T16:15:16.121Z
 ---
 
 # FreeODWiki，可以自由编辑的开源OD知识百科全书
-***Liberty or Death***
+<mark>***Liberty or Death***本站为自由而生，为消灭那些信息垄断而生
+  
 点此前往[FreeOD.wiki](https://freeod.wiki/) *FreeODwiki的网络站点，开放邮箱、GitHub、GooGle注册*。
 
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) *我们的源仓库，star一下会支持我们前进*
