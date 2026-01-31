@@ -8,10 +8,11 @@ editor: markdown
 dateCreated: 2026-01-30T05:35:58.108Z
 ---
 
-<mark>该网站账号在右上角注册，支持Google和GitHub以及邮箱登录
+
+
 # FreeODWiki，可以自由编辑的开源OD知识百科全书
-***不自由，毋寧死***
-点此前往[freeodwiki](https://freeod.wiki/) *代表FOW的网络站点，开放邮箱、GitHub、GooGle注册*
+
+点此前往[freeodwiki](https://freeod.wiki/) *代表FOW的网络站点，开放邮箱、GitHub、GooGle注册*。<mark>该网站账号在右上角注册，支持Google和GitHub以及邮箱登录
 
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) *我们的源仓库，star一下会支持我们前进*
 
@@ -23,6 +24,7 @@ dateCreated: 2026-01-30T05:35:58.108Z
 <!-- 你这个网站是给内网看的吗，认清受众群体  -->
 <!-- 但是绝大多数人都不会翻墙阿，我们要认清这个现实——如果要走出去，就只能给内网看  -->
 <!-- 那你否认了FOW的第一个要求，言论自由，我认为小粉红使用这个网站也需要承认不同意见  -->
+<!-- 你知道这种又吸毒又反共的行为叫什么嘛？叫叠甲。你不能单凭嘴上逞强来说服他们，不然为什么要有FOW的剩余界面呢？整个FOW光写这些玩意得了。我们所要的自由是知识共享的自由，不是口头快感的自由。而且，“言论自由”是建立在不侵犯他人权利上；这是一个合作项目，你屡次写这些东西，侵犯了所有其他参与者选择什么内容会在本站上被呈现的权利。最后，我们现在在写这个网站，不是恰恰体现出你所写的“不自由，毋宁死的权利吗，已经无需口头表达了     -->
 
 ## 站点索引
 
@@ -41,7 +43,7 @@ dateCreated: 2026-01-30T05:35:58.108Z
 > "FreeODwiki"中的"Free"的含义**是**"我们站点对于**知识的公开**和**编写知识的权利**持有自由开放的态度"——这是一种开源项目的常见命名法，**不是**叫大家自由随性地去OD
 > {.is-info}
 
-若需要编辑内容，请直接在Github上新建Issue或请求网站权限
+若需要编辑内容，请直接在Github上新建Issue或Pull Request或请求网站权限
 
 ![FreeODwiki图标](https://github.com/SalviaSWC/FreeODwiki/blob/main/FreeODwiki.png?raw=true)
 ![FreeODwiki星标](https://starchart.cc/SalviaSWC/FreeODwiki.svg?variant=adaptive)
