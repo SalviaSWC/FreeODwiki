@@ -2,7 +2,7 @@
 title: FreeODWiki-WEB主页
 description: 
 published: true
-date: 2026-01-31T13:26:15.652Z
+date: 2026-01-31T14:56:19.269Z
 tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 editor: markdown
 dateCreated: 2026-01-30T05:35:58.108Z
@@ -40,7 +40,7 @@ dateCreated: 2026-01-30T05:35:58.108Z
     + [🧮药物分类索引](/文档/药物分类/home.md) 知识管理者堕落的原因：他们尝试索引所有精神药物，想不到精神药物无穷无尽。
     + [🚮补档](/文档/补档/home.md)*致瞬息万变之物，及亘古不变之物。文档虽或有谬误，但仍是引路之灯塔。致敬每一位在药圈中和已经离开药圈的先辈——FOW贡献者们*<br>
 > **特别说明**：
-> "FreeODwiki"中的"Free"修饰ODwiki，指我们这个ODwiki是开源自由的
+> "FreeODwiki"中的"Free"修饰ODwiki，指我们这个ODwiki是开源自由的,非其他含义
 > {.is-info}
 
 若需要编辑内容，请直接在Github上新建Issue或Pull Request或请求网站权限
