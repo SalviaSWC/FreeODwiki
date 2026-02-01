@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:55:27.717Z
 ---
 
-[◀返回](/药物.md)
+[◀返回](/药物/home.md)
 
 # 哌异丙酯 (Isopropylphenidate)
 

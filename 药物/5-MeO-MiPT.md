@@ -14,7 +14,7 @@ FreeODwiki/
 
 <mark> 好</mark>
 
-[◀返回](/药物.md)
+[◀返回](/药物/home.md)
 
 | **[摘要表: 5-MeO-MiPT](#)** |
 | --- |

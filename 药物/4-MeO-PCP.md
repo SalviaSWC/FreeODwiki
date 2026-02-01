@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:54:11.474Z
 ---
 
-[◀返回](/药物.md)
+[◀返回](/药物/home.md)
 
 # 4-MeO-PCP
 

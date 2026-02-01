@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:55:15.540Z
 ---
 
-[◀返回](/药物.md)
+[◀返回](/药物/home.md)
 
 <mark> 链接处理得不错，不愧是gemini<>
 
