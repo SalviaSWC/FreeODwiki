@@ -1,4 +1,3 @@
-@ -1,71 +0,0 @@
 ---
 title: home
 description: 
