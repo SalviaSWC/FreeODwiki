@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:53:44.130Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/药物.md)
 
 # 3-FA
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:56:19.249Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/药物.md)
 
 <mark> ai又不知道文档是另一个文件夹了，唉...修正吧 </mark>
 

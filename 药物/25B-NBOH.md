@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-31T16:31:28.331Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/药物.md)
 
 # 25B-NBOH
 

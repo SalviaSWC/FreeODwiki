@@ -18,7 +18,7 @@ FreeODwiki/
 
 FreeODwiki/药物/6-APB.md
 
-[◀返回](./home.md)
+[◀返回](/药物.md)
 
 # 6-APB
 

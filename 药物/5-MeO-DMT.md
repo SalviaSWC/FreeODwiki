@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:54:27.833Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/药物.md)
 
 # 5-MeO-DMT
 

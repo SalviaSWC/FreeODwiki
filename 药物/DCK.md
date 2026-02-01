@@ -1,4 +1,4 @@
-[◀返回](./home.md)
+[◀返回](/药物.md)
 
 # 去氯氯胺酮 (Deschloroketamine)
 

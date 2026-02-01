@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:53:56.149Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/药物.md)
 
 <mark> 好的喵</mark>
 
