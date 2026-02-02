@@ -9,7 +9,7 @@ dateCreated: 2026-01-31T16:15:16.121Z
 ---
 
 # FreeODWiki——可自由编辑的开源OD知识百科
-<mark>***Liberty or Death***本站为自由而生，为消灭那些信息垄断而生
+<mark>**愿每一个人都能够自由地获取信息和知识、自由地做那些只涉及自己的事情**
   
 点此前往[FreeOD.wiki](https://freeod.wiki/) *FreeODwiki的网络站点，开放邮箱、GitHub、GooGle注册*。
 
