@@ -15,7 +15,7 @@ dateCreated: 2026-01-31T16:15:16.121Z
 
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) *我们的源仓库，star一下会支持我们前进*
 
-
+**最近FreeOD.wiki服务器不稳定，建议前往Github浏览本站**
 
 ## 站点索引
 
