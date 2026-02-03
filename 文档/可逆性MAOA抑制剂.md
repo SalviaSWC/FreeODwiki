@@ -33,7 +33,7 @@ dateCreated: 2026-01-30T05:44:45.806Z
 
 ## 相互作用
 
-| ![](../文件/Commons-emblem-notice.svg.png) | MAOI中毒可是**没有解药**的哦。[\[2\]](#cite_note-2) 而且呢，太多的精神活性物质会和 MAOI 甚至 RIMAs 发生反应，想列出所有会发生相互作用的药物家族简直是不可能的喵。在摄入之前，一定要自己做足独立的功课，确保两种或多种物质混在一起是安全的才能享用哦。 |
+| ![](/文件/Commons-emblem-notice.svg.png) | MAOI中毒可是**没有解药**的哦。[\[2\]](#cite_note-2) 而且呢，太多的精神活性物质会和 MAOI 甚至 RIMAs 发生反应，想列出所有会发生相互作用的药物家族简直是不可能的喵。在摄入之前，一定要自己做足独立的功课，确保两种或多种物质混在一起是安全的才能享用哦。 |
 | --- | --- |
 
 关于精神活性物质与 MAO-A 的相互作用（不包括食物相互作用），请参阅 [单胺氧化酶抑制剂#相互作用](./单胺氧化酶抑制剂.md#相互作用)。
@@ -49,21 +49,21 @@ dateCreated: 2026-01-30T05:44:45.806Z
 *   **2C-T-x** - MAO-B 抑制剂可能会不可预测地增加苯乙胺类物质的效力和持续时间，考虑到 2C-T-x 系列本身的不可预测性，这可能很危险喵。
 *   **[2,5-二甲氧基苯乙胺类物质](./药物分类/2,5-二甲氧基苯乙胺类物质.md) (2C-x)** - MAO-B 抑制剂可能会不可预测地增加苯乙胺类物质的效力和持续时间。
 *   **[2,5-二甲氧基苯丙胺类物质](./药物分类/2,5-二甲氧基苯丙胺类物质.md) (DOx)** - MAO-B 抑制剂可能会不可预测地增加苯乙胺类物质的效力和持续时间。
-*   **[氯胺酮](../药物/氯胺酮.md)** - MAO-B 抑制剂似乎会增加氯胺酮的效力。MAO-A 抑制剂与该组合有一些负面的报告，但目前信息还不多喵。
-*   **[麦斯卡林](../药物/麦斯卡林.md)**
+*   **[氯胺酮](/药物/氯胺酮.md)** - MAO-B 抑制剂似乎会增加氯胺酮的效力。MAO-A 抑制剂与该组合有一些负面的报告，但目前信息还不多喵。
+*   **[麦斯卡林](/药物/麦斯卡林.md)**
 *   **NBOMes** - MAO-B 抑制剂可能会不可预测地增加苯乙胺类物质的效力和持续时间。
 *   **[阿片类药物](./药物分类/阿片类药物.md)** - 单胺氧化酶抑制剂 (MAOIs) 与某些阿片类药物联用曾有罕见的严重和致命不良反应报告。相互作用似乎有两种类型：兴奋型和抑制型。兴奋型反应的症状可能包括激越、头痛、多汗、高热、潮红、颤抖、肌阵挛、僵硬、震颤、腹泻、高血压、心动过速、癫痫发作和昏迷。有些案例甚至导致了死亡，太可怕了喵。
-*   **[酒精](../药物/酒精.md)** - 许多酒精饮料中含有的酪胺会与 MAOIs 发生危险反应，导致血压升高。
+*   **[酒精](/药物/酒精.md)** - 许多酒精饮料中含有的酪胺会与 MAOIs 发生危险反应，导致血压升高。
 *   **MXE** - MAO-B 抑制剂似乎会增加 MXE 的效力。MAO-A 抑制剂与该组合有一些负面的报告，但目前信息还不多。
 *   **5-MeO-xxT**
 *   **[苯丙胺类物质](./药物分类/苯丙胺类物质.md)** - MAO-B 抑制剂可能会不可预测地增加苯乙胺类物质的效力和持续时间。MAO-A 抑制剂与苯丙胺联用可能导致高血压危象。
 *   **aMT** - aMT 本身就是一种 MAOI。使用酶抑制剂会大大降低药效的可预测性喵。
-*   **[可卡因](../药物/可卡因.md)** - 对这种组合的研究很少。
-*   **[右美沙芬](../药物/右美沙芬.md)** - **血清素综合征的高风险！**
-*   **[MDMA](../药物/MDMA.md)** - MAO-B 抑制剂可能会不可预测地增加苯乙胺类物质的效力和持续时间。MAO-A 抑制剂与 MDMA 联用会导致高血压危象。
-*   **[PCP](../药物/PCP.md)** - 对这种组合的研究非常少。
+*   **[可卡因](/药物/可卡因.md)** - 对这种组合的研究很少。
+*   **[右美沙芬](/药物/右美沙芬.md)** - **血清素综合征的高风险！**
+*   **[MDMA](/药物/MDMA.md)** - MAO-B 抑制剂可能会不可预测地增加苯乙胺类物质的效力和持续时间。MAO-A 抑制剂与 MDMA 联用会导致高血压危象。
+*   **[PCP](/药物/PCP.md)** - 对这种组合的研究非常少。
 *   **SSRIs**
-*   **[曲马多](../药物/曲马多.md)**
+*   **[曲马多](/药物/曲马多.md)**
 
 ## RIMA列表
 
@@ -99,7 +99,7 @@ dateCreated: 2026-01-30T05:44:45.806Z
 2. [↑](#cite_ref-2) Garcia, Eddie; Santos, Cynthia (2022). ["Monoamine Oxidase Inhibitor Toxicity"](https://www.ncbi.nlm.nih.gov/books/NBK459386/). *StatPearls*. StatPearls Publishing.
 3. [↑](#cite_ref-3) Massaro, E. J. (2002). [*Handbook of Neurotoxicology*](https://books.google.com/books?id=2c2K-epbCDQC&pg=PA237&lpg=PA237&dq=harmaline+antidepressant). Totowa, NJ: Humana Press. p. 237. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-89603-796-7](http://en.wikipedia.org/wiki/Special:BookSources/0-89603-796-7).
 4. [↑](#cite_ref-4) Kulkarni, SK; Bhutani, AK; Bishnoi, M. (3 September 2008). "Antidepressant activity of curcumin: involvement of serotonin and dopamine system". *Psychopharmacology*. **201** (3): 435–442. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-008-1300-y](//doi.org/10.1007%2Fs00213-008-1300-y). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [18766332](//www.ncbi.nlm.nih.gov/pubmed/18766332).
-5. [↑](#cite_ref-5) Kulkarni, S. K.; Dhir, A. (March 2010). ["An Overview of Curcumin in Neurological Disorders"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771). *Indian Journal of Pharmaceutical Sciences*. **72** (2): 149–154. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.4103/0250-474X.65012](//doi.org/10.4103%2F0250-474X.65012). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [2929771](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771) ![Freely accessible](../文件/Lock-green.svg.png "Freely accessible"). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [20838516](//www.ncbi.nlm.nih.gov/pubmed/20838516).
+5. [↑](#cite_ref-5) Kulkarni, S. K.; Dhir, A. (March 2010). ["An Overview of Curcumin in Neurological Disorders"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771). *Indian Journal of Pharmaceutical Sciences*. **72** (2): 149–154. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.4103/0250-474X.65012](//doi.org/10.4103%2F0250-474X.65012). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [2929771](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771) ![Freely accessible](/文件/Lock-green.svg.png "Freely accessible"). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [20838516](//www.ncbi.nlm.nih.gov/pubmed/20838516).
 6. [↑](#cite_ref-6) ["Curcumin and the MAO Inhibitor "Cheese Effect" from Tyramine Triggered Hypertension"](https://emediahealth.com/2012/01/17/curcumin-and-the-mao-inhibitor-cheese-effect-from-tyramine-triggered-hypertension/). *EmediaHealth*. 17 January 2012. [Archived](https://web.archive.org/web/20170330014040/https://emediahealth.com/2012/01/17/curcumin-and-the-mao-inhibitor-cheese-effect-from-tyramine-triggered-hypertension/) from the original on 30 March 2017. Retrieved 28 March 2017.
 7. [↑](#cite_ref-7) Tomás Herraiz; Simon D. Brandt (July–August 2014). ["5-(2-Aminopropyl)indole (5-IT): a psychoactive substance used for recreational purposes is an inhibitor of human monoamine oxidase (MAO)"](http://onlinelibrary.wiley.com/doi/10.1002/dta.1530/abstract). *Drug Testing and Analysis*. **6** (7–8): 607–613. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1530](//doi.org/10.1002%2Fdta.1530). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [24115740](//www.ncbi.nlm.nih.gov/pubmed/24115740).
 8. [↑](#cite_ref-8) Arai, Y., Toyoshima, Y., Kinemuchi, H. (1986). "Studies of Monoamine Oxidase and Semicarbazide-Sensitive Amine Oxidase II. Inhibition by α-Methylated Substrate-Analogue Monoamines, α-Methyltryptamine, α-Methylbenzylamine and Two Enantiomers of α-Methylbenzylamine". *The Japanese Journal of Pharmacology*. **41** (2): 191–197. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1254/jjp.41.191](//doi.org/10.1254%2Fjjp.41.191).
