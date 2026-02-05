@@ -22,19 +22,28 @@ def process_html():
         # 先转换为 Markdown
         markdown_text = convert_to_markdown(html_text)
         
-        # 去除从 "Retrieved from ‘<https..." 这一行及之后的内容
-        # 匹配任意开头，直到遇到 Retrieved from ‘<http...>’ （允许 http/https，允许前后空白/换行）
-        pattern = r'^(.*?)(?:Retrieved\s+from\s*‘<https?://[^>]+>’\s*(?:\n|$))'
-        match = re.match(pattern, markdown_text, re.DOTALL | re.IGNORECASE)
-        
+        # 第一步：去除常见的页脚 "Retrieved from ..."（你原有的逻辑，保留）
+        pattern_footer = r'^(.*?)(?:Retrieved\s+from\s*‘<https?://[^>]+>’\s*(?:\n|$))'
+        match = re.match(pattern_footer, markdown_text, re.DOTALL | re.IGNORECASE)
         if match:
             cleaned_text = match.group(1).rstrip()
         else:
-            cleaned_text = markdown_text.rstrip()  # 没匹配到就保留原样（去除末尾空白）
+            cleaned_text = markdown_text.rstrip()
+        
+        # 第二步：处理 Psychoactive substances 部分
+        # 匹配从 ### Psychoactive substances 开始，直到下一个 ### 或文件末尾
+        pattern_psych = r'(###\s*Psychoactive substances\b[\s\S]*?)(?=###|\Z)'
+        
+        final_text = re.sub(
+            pattern_psych,
+            "<!-- 请勿删除或修改，这是一个标记，待识别并填坑（药效索引） -->\n\n",
+            cleaned_text,
+            flags=re.IGNORECASE | re.DOTALL
+        )
         
         # 清空并写入处理后的结果
         text_widget.delete("1.0", "end")
-        text_widget.insert("1.0", cleaned_text)
+        text_widget.insert("1.0", final_text.rstrip())  # 最后再去掉多余空行
         
     except Exception as e:
         messagebox.showerror("错误", f"处理失败：{str(e)}")
