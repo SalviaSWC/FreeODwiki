@@ -1,11 +1,11 @@
 import os
 
-def overwrite_readme_with_home(root_dir):
+def overwrite_readme_with_home(root_dir, source_dir, root_name, source_name):
     """
     Overwrites README.md with the content of home.md if both exist in the root directory.
     """
-    home_path = os.path.join(root_dir, 'home.md')
-    readme_path = os.path.join(root_dir, 'README.md')
+    home_path = os.path.join(source_dir, source_name)
+    readme_path = os.path.join(root_dir, root_name)
     
     if os.path.exists(home_path):
         # Read content from home.md
@@ -19,4 +19,10 @@ def overwrite_readme_with_home(root_dir):
     else:
         print(f"home.md not found in {root_dir}. Skipping overwrite.")
 
-overwrite_readme_with_home(r"./")
+    
+
+overwrite_readme_with_home(r"./", "./", "README.md", "home.md")
+overwrite_readme_with_home(r"./", "./药物/", "药物.md", "home.md")
+overwrite_readme_with_home(r"./", "./文档/", "文档.md", "home.md")
+overwrite_readme_with_home(r"./", "./报告/", "报告.md", "home.md")
+overwrite_readme_with_home(r"./", "./药效/", "药效.md", "home.md")
