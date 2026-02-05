@@ -44,6 +44,8 @@ def process_html():
         # 清空并写入处理后的结果
         text_widget.delete("1.0", "end")
         text_widget.insert("1.0", final_text.rstrip())  # 最后再去掉多余空行
+
+        
         
     except Exception as e:
         messagebox.showerror("错误", f"处理失败：{str(e)}")
