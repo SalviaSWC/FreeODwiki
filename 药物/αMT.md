@@ -14,7 +14,7 @@ dateCreated: 2026-01-31T16:34:34.315Z
 
 
 
-![αMT.svg](/文件/αMT.svg)
+![αMT.png](/文件/αMT.png)
 
 | αMT | |
 | --- | --- |

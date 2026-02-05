@@ -112,7 +112,7 @@ dateCreated: 2026-01-30T05:53:56.149Z
 
 ## 历史与文化
 
-| ![History icon.svg](/文件/History_icon.svg) | **这个“历史与文化”部分还是个小苗苗（存根）喵。**<br>所以可能信息不太全或者有错漏哦。你可以通过[扩充它](https://psychonautwiki.org/w/index.php?title=4-AcO-DMT&action=edit)来帮忙喵。 |
+| ![History icon.png](/文件/History_icon.png) | **这个“历史与文化”部分还是个小苗苗（存根）喵。**<br>所以可能信息不太全或者有错漏哦。你可以通过[扩充它](https://psychonautwiki.org/w/index.php?title=4-AcO-DMT&action=edit)来帮忙喵。 |
 | --- | --- |
 
 4-AcO-DMT 和其它几种赛洛辛的酯类衍生物是在1963年1月16日由 Sandoz 公司的 Albert Hofmann 和 Franz Troxler 申请专利的。但是，当时并没有对它的药理学和主观效应进行研究。直到现在，我们也搞不清楚人类第一次探索 4-AcO-DMT 的效果具体是什么时候喵。

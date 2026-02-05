@@ -16,7 +16,7 @@ dateCreated: 2026-01-30T05:54:00.174Z
 
 | **4-FA 摘要表** |
 | --- |
-| [![4-FA.svg](/文件/4-FA.svg)](/文件/4-FA.svg) |
+| [![4-FA.png](/文件/4-FA.png)](/文件/4-FA.png) |
 | **化学命名** |
 | 通俗名称 | *4-FA, 4-FMP, PAL-303, Flux* |
 | 取代名称 | *4-Fluoroamphetamine (4-氟苯丙胺), para-Fluoroamphetamine (对氟苯丙胺)* |

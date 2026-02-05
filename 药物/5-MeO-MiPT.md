@@ -21,7 +21,7 @@ FreeODwiki/
 
 | 5-MeO-MiPT | |
 | --- | --- |
-| [![5-MeO-MiPT.svg](/文件/5-MeO-MiPT.svg)](/文件/5-MeO-MiPT.svg) | |
+| [![5-MeO-MiPT.png](/文件/5-MeO-MiPT.png)](/文件/5-MeO-MiPT.png) | |
 | **化学命名** | |
 | 通用名 | *5-MeO-MiPT, Moxy* |
 | 取代名称 | *5-Methoxy-N-methyl-N-isopropyltryptamine* |

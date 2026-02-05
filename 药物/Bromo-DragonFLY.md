@@ -21,7 +21,7 @@ dateCreated: 2026-01-30T05:54:48.497Z
 | | [总结面板: Bromo-DragonFLY](/药物/Bromo-DragonFLY/Summary.md) | |
 | --- | --- | --- |
 | | **Bromo-DragonFLY** | |
-| | [![Bromo-DragonFLY.svg](/文件/Bromo-DragonFLY.svg)](/文件/Bromo-DragonFLY.svg) | |
+| | [![Bromo-DragonFLY.png](/文件/Bromo-DragonFLY.png)](/文件/Bromo-DragonFLY.png) | |
 | | **化学命名法** | |
 | | 通用名称 | *Bromo-DragonFLY, DOB-DragonFLY, B-DFLY, 蜻蜓 (Dragonfly)* |
 | | [取代名称](/文档/药物前药.md) | *8-bromo-4-(2-aminopropyl)benzodifuran* |
@@ -116,7 +116,7 @@ Bromo-DragonFLY 的 [致幻](/文档/药物分类/致幻剂.md) 作用是由其�
 
 *值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能诱发全方位的效应。同样，**不良反应** 随着剂量的增加会变得越来越可能发生，并且可能包括 **成瘾、严重伤害或死亡** ☠。*
 
-### **躯体效应** ![Child.svg](/文件/Child.svg)
+### **躯体效应** ![Child.png](/文件/Child.png)
 
 *   Bromo-DragonFLY 的躯体效应与传统的 [苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md) 相当，如 [2C-B](/药物/2C-B.md)、[麦斯卡林](/药物/麦斯卡林.md) 和 [2C-E](/药物/2C-E.md)。
 
@@ -144,7 +144,7 @@ Bromo-DragonFLY 的 [致幻](/文档/药物分类/致幻剂.md) 作用是由其�
     *   **[磨牙](/药效/磨牙.md)**
     *   **血管收缩** - Bromo-DragonFLY 是一种强效的血管收缩剂，在药物过量时可能会变得非常危险哦。[\[5\]](#cite_note-5)
 
-### **视觉效应** ![Eye.svg](/文件/Eye.svg)
+### **视觉效应** ![Eye.png](/文件/Eye.png)
 
 *   #### 增强
     *   **[颜色增强](/药效/颜色增强.md)**
@@ -168,7 +168,7 @@ Bromo-DragonFLY 的 [致幻](/文档/药物分类/致幻剂.md) 作用是由其�
     *   **变换**
     *   **[内部幻觉](/药效/视觉效应.md)** (*自主实体*；*设置、风景和景观*；*透视幻觉* 和 *场景与情节*)
 
-### **认知效应** ![User.svg](/文件/User.svg)
+### **认知效应** ![User.png](/文件/User.png)
 
 *   *   **分析增强**
     *   **概念性思维**
@@ -188,18 +188,18 @@ Bromo-DragonFLY 的 [致幻](/文档/药物分类/致幻剂.md) 作用是由其�
     *   **时间扭曲**
     *   **清醒度**
 
-### **听觉效应** ![Volume-up.svg](/文件/Volume-up.svg)
+### **听觉效应** ![Volume-up.png](/文件/Volume-up.png)
 
 *   *   **增强**
     *   **扭曲**
     *   **幻觉**
 
-### **[超个人](/文档/精神探索.md) 效应** ![Infinity4.svg](/文件/Infinity4.svg)
+### **[超个人](/文档/精神探索.md) 效应** ![Infinity4.png](/文件/Infinity4.png)
 
 *   *   **灵性增强**
     *   **统一和互联感**
 
-### **药效残余** ![Aftereffects (3).svg](/文件/Aftereffects_(3).svg)
+### **药效残余** ![Aftereffects (3).png](/文件/Aftereffects_(3).png)
 
 *   在 [药效褪去](/文档/药效时长.md#药效褪去) 期间发生的效应与轻微的 [兴奋剂](/文档/药物分类/兴奋剂.md) 相当。与 [药效达峰](/文档/药效时长.md#药效达峰) 期间发生的效应相比，体验通常感觉消极和不舒服。这通常被称为“下头（comedown）”，可能是因为这种物质的持续时间和物理压力导致的身体和认知疲劳。其效应通常包括：
     *   **[头痛](/药效/头痛.md)**

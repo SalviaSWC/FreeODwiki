@@ -25,7 +25,7 @@ dateCreated: 2026-01-30T05:55:58.444Z
 
 | MDPV | |
 | --- | --- |
-| [![MDPV.svg](/文件/MDPV.svg)](/文件/MDPV.svg) | |
+| [![MDPV.png](/文件/MDPV.png)](/文件/MDPV.png) | |
 | 化学命名 | |
 | 常用名 | *MDPV, Bath Salts (浴盐), NRG\-1* |
 | 取代名称 | *3,4\-亚甲双氧基吡咯戊酮 (3,4\-Methylenedioxypyrovalerone)* |
@@ -119,7 +119,7 @@ MDPV 在结构上与卡西酮（恰特草中发现的一种活性生物碱）、
 
 *同样值得注意的是，这些效应并不一定会以可预测或可靠的方式发生，尽管高剂量更容易引发全方位的效应。* 同样，**不良反应** 随着剂量的增加变得越来越可能发生，并且可能包括 **成瘾、严重伤害或死亡** ☠。
 
-### **躯体效应** ![Child.svg](/文件/Child.svg)
+### **躯体效应** ![Child.png](/文件/Child.png)
 
 *     + **[刺激](/药效/刺激.md)**
     + **[耐力增强](/药效/耐力增强.md)**\[*[来源请求](/关于本站/来源请求.md)*\]
@@ -134,12 +134,12 @@ MDPV 在结构上与卡西酮（恰特草中发现的一种活性生物碱）、
     + **[恶心](/药效/恶心.md)** \- 一些用户报告在 MDPV 药效下经历 [恶心](/药效/恶心.md)，但这似乎是一个相对少见的效应。
     + **[不宁腿综合征](/药效/不宁腿.md)**
 
-### **听觉效应** ![Volume-up.svg](/文件/Volume-up.svg)
+### **听觉效应** ![Volume-up.png](/文件/Volume-up.png)
 
 *     + **[听觉扭曲](/药效/听觉效应.md)**
     + **[幻听](/药效/幻听.md)**
 
-### **药效残余** ![Aftereffects (3).svg](/文件/Aftereffects_(3).svg)
+### **药效残余** ![Aftereffects (3).png](/文件/Aftereffects_(3).png)
 
 * 兴奋剂体验消退期间发生的效果，与高峰期发生的效果相比，通常感觉消极且不舒服。这通常被称为“下头 (comedown)”，是由于神经递质耗尽造成的。其效应通常包括：
     + **[焦虑](/药效/焦虑.md)**
@@ -151,7 +151,7 @@ MDPV 在结构上与卡西酮（恰特草中发现的一种活性生物碱）、
     + **[清醒](/药效/清醒.md)**
 值得注意的是，如果是强迫性地重复用药，许多用户认为 MDPV 的药效残余会明显更加令人不快哦。[\[8\]](#cite_note-8)[\[9\]](#cite_note-9)
 
-### **认知效应** ![User.svg](/文件/User.svg)
+### **认知效应** ![User.png](/文件/User.png)
 
 * MDPV 的一般认知效应可以描述为与其他典型兴奋剂相似。在中等剂量下，MDPV 的快感被描述为具有欣快感和轻微的共情作用，导致动机、社交能力、性欲和注意力增加。然而，较高剂量的 MDPV 会加剧许多负面影响，如焦虑和思维混乱；在极高剂量或持续使用下，妄想和精神病变得很可能发生。[\[10\]](#cite_note-10)
     + **[焦虑](/药效/焦虑.md)**
@@ -297,13 +297,13 @@ MDPV 的确切致死剂量尚不清楚，也没有在人类中进行过正式研
 8. [↑](#cite_ref-8) [*MDPV \- Erowid Exp \- “Personal Research Comedown Guide”*](https://erowid.org/experiences/exp.php?ID=98601) 
 9. [↑](#cite_ref-9) [*MDPV \- Erowid Exp \- “Seemingly Real Paranoid Hallucination Hell”*](https://erowid.org/experiences/exp.php?ID=91741) 
 10. [↑](#cite_ref-10) [*MDPV \- Erowid Exp \- “Psychosis”*](https://www.erowid.org/experiences/exp.php?ID=78382) 
-11. [↑](#cite_ref-11) Watterson LR, Kufahl PR, Nemirovsky NE, Sewalia K, Grabenauer M, Thomas BF, et al. (March 2014\). ["Potent rewarding and reinforcing effects of the synthetic cathinone 3,4\-methylenedioxypyrovalerone (MDPV)"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3473160). *Addiction Biology*. **19** (2\): 165–74\. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10\.1111/j.1369\-1600\.2012\.00474\.x](//doi.org/10.1111%2Fj.1369-1600.2012.00474.x). [PMC](http://en.wikipedia.org/wiki/PubMed_Central "wikipedia:PubMed Central") [3473160](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3473160) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [22784198](//www.ncbi.nlm.nih.gov/pubmed/22784198). 
+11. [↑](#cite_ref-11) Watterson LR, Kufahl PR, Nemirovsky NE, Sewalia K, Grabenauer M, Thomas BF, et al. (March 2014\). ["Potent rewarding and reinforcing effects of the synthetic cathinone 3,4\-methylenedioxypyrovalerone (MDPV)"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3473160). *Addiction Biology*. **19** (2\): 165–74\. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10\.1111/j.1369\-1600\.2012\.00474\.x](//doi.org/10.1111%2Fj.1369-1600.2012.00474.x). [PMC](http://en.wikipedia.org/wiki/PubMed_Central "wikipedia:PubMed Central") [3473160](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3473160) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png "Freely accessible"). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [22784198](//www.ncbi.nlm.nih.gov/pubmed/22784198). 
 12. [↑](#cite_ref-12) Coppola M, Mondola R (January 2012\). "3,4\-methylenedioxypyrovalerone (MDPV): chemistry, pharmacology and toxicology of a new designer drug of abuse marketed online". *Toxicology Letters*. **208** (1\): 12–5\. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10\.1016/j.toxlet.2011\.10\.002](//doi.org/10.1016%2Fj.toxlet.2011.10.002). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [22008731](//www.ncbi.nlm.nih.gov/pubmed/22008731). 
 13. [↑](#cite_ref-13) Studies concerning MDPV hospitalization, pages 19 to 25\. \| <http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1>
 14. [↑](#cite_ref-14) MDPV In\-vivo statistics \| <http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1>
 15. [↑](#cite_ref-15) Wyman, J. F., Lavins, E. S., Engelhart, D., Armstrong, E. J., Snell, K. D., Boggs, P. D., Taylor, S. M., Norris, R. N., Miller, F. P. (1 April 2013\). ["Postmortem Tissue Distribution of MDPV Following Lethal Intoxication by "Bath Salts""](https://academic.oup.com/jat/article-lookup/doi/10.1093/jat/bkt001). *Journal of Analytical Toxicology*. **37** (3\): 182–185\. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10\.1093/jat/bkt001](//doi.org/10.1093%2Fjat%2Fbkt001). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0146\-4760](//www.worldcat.org/issn/0146-4760). 
 16. [↑](#cite_ref-16) Baselt, R. C. (2014\). *Disposition of toxic drugs and chemicals in man* (Tenth edition ed.). Biomedical Publications. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780962652394](http://en.wikipedia.org/wiki/Special:BookSources/9780962652394 "wikipedia:Special:BookSources/9780962652394"). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1 "Category:CS1 maint: Extra text (page does not exist)"))
 17. [↑](#cite_ref-17) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009\). "Dose\-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2\): 63–67\. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10\.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937\-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556\-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183). 
-18. [↑](#cite_ref-18) Gillman, P. K. (2005\). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4\): 434–441\. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10\.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471\-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007\-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
+18. [↑](#cite_ref-18) Gillman, P. K. (2005\). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4\): 434–441\. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10\.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471\-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007\-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
 19. [↑](#cite_ref-19) ["Council Implementing Decision on subjecting 25I\-NBOMe, AH\-7921, MDPV and methoxetamine to control measures"](https://op.europa.eu/o/opportal-service/download-handler?identifier=025bb164-4937-11e4-a0cb-01aa75ed71a1&format=pdfa1a&language=en&productionSystem=cellar&part=). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published October 1, 2014\). September 25, 2014\. pp. 22–26\. [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [52224955](//www.worldcat.org/oclc/52224955). L 287\. 
 20.

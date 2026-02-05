@@ -20,7 +20,7 @@ dateCreated: 2026-01-30T05:56:24.133Z
 
 | PMMA | |
 | --- | --- |
-| [![PMMA.svg](/文件/PMMA.svg)](/文件/PMMA.svg) | |
+| [![PMMA.png](/文件/PMMA.png)](/文件/PMMA.png) | |
 | **化学命名** | |
 | 俗名 | *PMMA* |
 | 取代名称 | *对甲氧基甲基苯丙胺 (para-Methoxymethamphetamine), 4-甲氧基甲基苯丙胺* |
@@ -174,7 +174,7 @@ PMMA 似乎会急剧升高体温；这种特性的原因被怀疑与其抑制 MA
 参考文献
 ----------
 
-| ![Question book-new.svg](/文件/Question_book-new.svg) | **本文引用的参考文献不足。**<br>*您可以帮忙[添加一些](/文档/关于本站/home.md)。* |
+| ![Question book-new.png](/文件/Question_book-new.png) | **本文引用的参考文献不足。**<br>*您可以帮忙[添加一些](/文档/关于本站/home.md)。* |
 | --- | --- |
 
 1.  [↑](#cite_ref-1) ["Council Decision concerning control measures and criminal sanctions in respect of the new synthetic drug PMMA"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:063:0014:0014:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published March 6, 2003). February 28, 2002. p. 14. [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [52224955](//www.worldcat.org/oclc/52224955). L 63.

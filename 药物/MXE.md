@@ -16,7 +16,7 @@ dateCreated: 2026-01-30T05:56:10.310Z
 
 | 概览：甲氧胺酮 |
 | --- |
-| [![MXE.svg](/文件/MXE.svg)](/文件/MXE.svg) |
+| [![MXE.png](/文件/MXE.png)](/文件/MXE.png) |
 | **化学命名** |
 | 俗名 | *甲氧胺酮 (Methoxetamine), MXE, Mexxy* |
 | 取代名称 | *3-MeO-2'-Oxo-PCE* |

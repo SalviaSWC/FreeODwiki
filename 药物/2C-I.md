@@ -296,13 +296,13 @@
 15. [↑](#cite_ref-15) Bakanlar Kurulu Kararı Karar Sayısı : 2013/4827 | <https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf>
 16. [↑](#cite_ref-16) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
 
-[1]: /文件/2C-I.svg
-[2]: /文件/Molecule.svg
+[1]: /文件/2C-I.png
+[2]: /文件/Molecule.png
 [3]: /文件/Pill_bottle-o.png
-[4]: /文件/Child.svg
-[5]: /文件/Eye.svg
-[6]: /文件/User.svg
-[7]: /文件/Volume-up.svg
-[8]: /文件/Gears.svg
-[9]: /文件/Infinity4.svg
+[4]: /文件/Child.png
+[5]: /文件/Eye.png
+[6]: /文件/User.png
+[7]: /文件/Volume-up.png
+[8]: /文件/Gears.png
+[9]: /文件/Infinity4.png
 [10]: /文件/Ambulance2.png

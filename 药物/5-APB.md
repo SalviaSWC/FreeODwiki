@@ -19,7 +19,7 @@ dateCreated: 2026-01-30T05:54:19.257Z
 
 | 5-APB | |
 | --- | --- |
-| [![5-APB.svg](/文件/5-APB.svg)](/文件/5-APB.svg) | |
+| [![5-APB.png](/文件/5-APB.png)](/文件/5-APB.png) | |
 | 化学命名 | |
 | 通用名称 | *5-APB* |
 | 取代名称 | *5-(2-氨基丙基)苯并呋喃* |
@@ -79,7 +79,7 @@ dateCreated: 2026-01-30T05:54:19.257Z
 历史与文化
 -------------------
 
-| ![History icon.svg](/文件/History_icon.svg) | **这个*历史与文化*部分还是个小小的草稿呢。**<br>*所以里面的信息可能不太完整或者是错的哦。你可以帮忙扩充它。* |
+| ![History icon.png](/文件/History_icon.png) | **这个*历史与文化*部分还是个小小的草稿呢。**<br>*所以里面的信息可能不太完整或者是错的哦。你可以帮忙扩充它。* |
 | --- | --- |
 
 5-APB 的合成最早是由普渡大学的药物化学家和迷幻研究员 David E. Nichols 领导的团队报告的。他们当时正在研究 MDA 的二氧杂环结构在与血清素能神经元相互作用中的作用呢。这也部分是为了寻找一种 [MDMA](/药物/MDMA.md) 的替代品，因为虽然 MDMA 被认为是心理治疗中潜在的有益辅助药物，但也与神经毒性效应有关。[\[1\]](#cite_note-Nichols-1)
@@ -91,7 +91,7 @@ dateCreated: 2026-01-30T05:54:19.257Z
 化学
 ---------
 
-| ![Molecule.svg](/文件/Molecule.svg) | **这个化学部分还不完整哦。**<br>*你可以帮忙补充一下吗？* |
+| ![Molecule.png](/文件/Molecule.png) | **这个化学部分还不完整哦。**<br>*你可以帮忙补充一下吗？* |
 | --- | --- |
 
 5-(2-氨基丙基)苯并呋喃，也称为 5-APB，是一种苯并呋喃和[苯乙胺](/文档/药物分类/苯乙胺类物质.md)，这意味着它有一个乙胺链和一个呋喃环连接在其核心苯环上。它也可以被归类为苯丙胺衍生物，因为乙胺链是α-甲基化的。苯丙胺类分子包含一个苯乙胺核心，其特征是苯环通过乙基链与氨基 (NH2) 结合，在 Rα 处有一个额外的甲基取代。呋喃环中的氧原子位于5位，这通常比氧原子位于6位时产生更多的刺激效果，而6位的氧原子通常被描述为具有更多的[迷幻](/文档/药物分类/迷幻剂.md)效果。5-APB 通常以琥珀酸盐和盐酸盐的形式存在。盐酸盐的质量效力高出10%，所以剂量应该相应调整哦。
@@ -116,7 +116,7 @@ dateCreated: 2026-01-30T05:54:19.257Z
 
 *同样值得注意的是，这些效应并不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能引发全方位的效应。*同样，**不良反应**随着剂量的增加而变得越来越可能，可能包括**上瘾、严重伤害甚至死亡** ☠。*
 
-### **躯体效应** ![Child.svg](/文件/Child.svg)
+### **躯体效应** ![Child.png](/文件/Child.png)
 
 *     + **[刺激](/药效/刺激.md)**
     + **[心律异常](/药效/心律异常.md)**
@@ -128,7 +128,7 @@ dateCreated: 2026-01-30T05:54:19.257Z
     + **[恶心](/药效/恶心.md)**
     + **[暂时性勃起功能障碍](/药效/暂时性勃起功能障碍.md)**
 
-### **药效残余** ![Aftereffects (3).svg](/文件/Aftereffects_3.svg)
+### **药效残余** ![Aftereffects (3).png](/文件/Aftereffects_3.png)
 
 * 在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md "Offset")期间发生的效应，通常感觉比[药效达峰](/文档/药效时长.md "Peak")期间发生的效应更消极和不舒服呢。这通常被称为“下头”（comedown），是因为[神经递质](/文档/神经递质.md)耗尽造成的。其效应通常包括：
     + **焦虑**
@@ -139,7 +139,7 @@ dateCreated: 2026-01-30T05:54:19.257Z
     + **思维减速**
     + **清醒**
 
-### **认知效应** ![User.svg](/文件/User.svg)
+### **认知效应** ![User.png](/文件/User.png)
 
 *     + **移情、情感和社交能力增强**
     + **认知欣快**
@@ -270,8 +270,8 @@ dateCreated: 2026-01-30T05:54:19.257Z
 5. [↑](#cite_ref-5) Dawson, P., Opacka-Juffry, J., Moffatt, J. D., Daniju, Y., Dutta, N., Ramsey, J., Davidson, C. (3 January 2014). "The effects of benzofury (5-APB) on the dopamine transporter and 5-HT2-dependent vasoconstriction in the rat". *Progress in Neuro-Psychopharmacology & Biological Psychiatry*. **48**: 57–63. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.pnpbp.2013.08.013](//doi.org/10.1016%2Fj.pnpbp.2013.08.013). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1878-4216](//www.worldcat.org/issn/1878-4216). 
 6. [↑](#cite_ref-6) Iversen, L., Gibbons, S., Treble, R., Setola, V., Huang, X.-P., Roth, B. L. (30 January 2013). ["Neurochemical profiles of some novel psychoactive substances"](https://www.sciencedirect.com/science/article/pii/S0014299912010114). *European Journal of Pharmacology*. **700** (1): 147–151. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2012.12.006](//doi.org/10.1016%2Fj.ejphar.2012.12.006). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999). 
 7. [↑](#cite_ref-7) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183). 
-8. [↑](#cite_ref-8) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
-9. [↑](#cite_ref-9) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
+8. [↑](#cite_ref-8) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
+9. [↑](#cite_ref-9) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
 10. [↑](#cite_ref-10) <http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7>
 11. [↑](#cite_ref-11) ["Article Annexe IV - Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants"](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043529751) (in French). Légifrance. Retrieved September 23, 2022. 
 12. [↑](#cite_ref-12) ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019. 

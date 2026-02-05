@@ -19,7 +19,7 @@ FreeODwiki/药物/6-APB.md
 
 | **6-APB 信息概览** |
 | --- |
-| ![6-APB.svg](/文件/6-APB.svg) |
+| ![6-APB.png](/文件/6-APB.png) |
 | **化学命名** |
 | 通用名称 | *6-APB, Benzofury* |
 | 取代名称 | *6-(2-Aminopropyl)benzofuran* |

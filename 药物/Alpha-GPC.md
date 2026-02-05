@@ -16,7 +16,7 @@ dateCreated: 2026-01-30T05:54:44.853Z
 
 | Alpha-GPC | |
 | --- | --- |
-| [![Alpha-GPC.svg](/文件/Alpha-GPC.svg)](/文件/Alpha-GPC.svg) | |
+| [![Alpha-GPC.png](/文件/Alpha-GPC.png)](/文件/Alpha-GPC.png) | |
 | **化学命名** | |
 | 通用名称 | *Alpha-GPC, 胆碱甘油磷酸酯, L-α-甘油磷酰胆碱* |
 | 系统名称 | *\[(2R)-2,3-Dihydroxypropyl\] 2-trimethylazaniumylethyl phosphate* |

@@ -17,7 +17,7 @@ dateCreated: 2026-01-30T05:54:32.842Z
 
 | 5-MeO-DiPT | |
 | --- | --- |
-| [![5-MeO-DiPT.svg](/文件/5-MeO-DiPT.svg)](/文件/5-MeO-DiPT.svg) | |
+| [![5-MeO-DiPT.png](/文件/5-MeO-DiPT.png)](/文件/5-MeO-DiPT.png) | |
 | **化学命名** | |
 | 俗名 | *5-MeO-DiPT, Foxy Methoxy, Foxy* |
 | 取代名称 | *5-甲氧基-二异丙基色胺* |

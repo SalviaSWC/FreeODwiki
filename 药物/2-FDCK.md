@@ -6,7 +6,7 @@
 
 | 2-氟去氯氯胺酮 (2-Fluorodeschloroketamine) | |
 | --- | --- |
-| ![2-FDCK.svg](/文件/2-FDCK.svg) | |
+| ![2-FDCK.png](/文件/2-FDCK.png) | |
 | **化学命名** | |
 | 常用名 | *2-Fluorodeschloroketamine, Fluoroketamine, 2-FDCK* |
 | 取代名称 | *2-Fl-2'-Oxo-PCM* |

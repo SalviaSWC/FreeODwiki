@@ -21,7 +21,7 @@ dateCreated: 2026-01-30T05:54:24.027Z
 
 | 5-羟基色氨酸 (5-Hydroxytryptophan) | |
 | --- | --- |
-| [![5-HTP.svg](/文件/5-HTP.svg)](/文件/5-HTP.svg) | |
+| [![5-HTP.png](/文件/5-HTP.png)](/文件/5-HTP.png) | |
 | **化学命名** | |
 | 俗名 | *5-HTP, Oxitriptan, Cincofarm, Levothym, Levotonine, Oxyfan, Telesol, Tript-OH, 和 Triptum* |
 | 取代名称 | *5-Hydroxytryptophan* |

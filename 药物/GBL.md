@@ -22,7 +22,7 @@ dateCreated: 2026-01-30T05:55:19.343Z
 
 | GBL | |
 | --- | --- |
-| [![GBL.svg](/文件/GBL.svg)](/文件/GBL.svg) | |
+| [![GBL.png](/文件/GBL.png)](/文件/GBL.png) | |
 | **化学命名** | |
 | 常用名 | *GBL, gamma-Butyrolactone* |
 | 取代名称 | *1,4-lactone, 4-butyrolactone, 4-hydroxybutyric acid lactone, gamma-hydroxybutyric acid lactone, oxolan-2-one* |

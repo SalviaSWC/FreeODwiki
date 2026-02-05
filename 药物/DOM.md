@@ -19,7 +19,7 @@ dateCreated: 2026-01-30T05:54:59.997Z
 
 | DOM | |
 | --- | --- |
-| [![DOM.svg](/文件/DOM.svg)](/文件/DOM.svg) | |
+| [![DOM.png](/文件/DOM.png)](/文件/DOM.png) | |
 | 化学命名 | |
 | 常用名 | *DOM, STP (Serenity, Tranquility, and Peace)* |
 | 取代名称 | *2,5-二甲氧基-4-甲基苯丙胺* |

@@ -35,7 +35,7 @@ dateCreated: 2026-01-30T05:53:28.786Z
 
 | 2C-B | |
 | --- | --- |
-| [![2C-B.svg](/文件/2C-B.svg)](/文件/2C-B.svg) | |
+| [![2C-B.png](/文件/2C-B.png)](/文件/2C-B.png) | |
 | **化学命名** | |
 | 通用名 | *2C-B, Nexus, Bees* |
 | 取代名称 | *4-Bromo-2,5-dimethoxyphenethylamine* |
@@ -182,7 +182,7 @@ dateCreated: 2026-01-30T05:53:28.786Z
 化学
 ---------
 
-| ![Molecule.svg](/文件/Molecule.svg) | **本化学部分[不完整](http://psychonautwiki.org/w/index.php?title=Special%3AWhatLinksHere&target=Template%3AChemistry&namespace=)。**<br>*您可以通过[编辑它](https://psychonautwiki.org/w/index.php?title=2C-B&action=edit&section=)来提供帮助。* |
+| ![Molecule.png](/文件/Molecule.png) | **本化学部分[不完整](http://psychonautwiki.org/w/index.php?title=Special%3AWhatLinksHere&target=Template%3AChemistry&namespace=)。**<br>*您可以通过[编辑它](https://psychonautwiki.org/w/index.php?title=2C-B&action=edit&section=)来提供帮助。* |
 | --- | --- |
 
 2C-B，即 2,5-二甲氧基-4-溴苯乙胺，是一种[取代苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)。取代苯乙胺是一类基于苯乙胺结构的有机化合物，即一个苯环通过乙基链与一个氨基 (NH2) 结合。2C-B 在苯环的 R2 和 R5 碳上连接有甲氧基官能团 CH3O-，以及在 R4 碳上连接有一个溴原子。

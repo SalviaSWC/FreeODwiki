@@ -15,7 +15,7 @@ dateCreated: 2026-01-30T05:53:20.967Z
 
 
 <div align="center">
-    <img src="../文件/25I-NBOMe.svg" width="300" alt="25I-NBOMe结构式">
+    <img src="../文件/25I-NBOMe.png" width="300" alt="25I-NBOMe结构式">
 </div>
 
 **25I-NBOMe在严重剂量下可能是致命的。[\[1\]](#cite_note-25Ifatal-1)**

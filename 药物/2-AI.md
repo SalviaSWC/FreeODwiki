@@ -4,7 +4,7 @@
 
 | **2-氨基茚满 (2-AI) 基本信息** |
 | --- |
-| ![](/文件/2-AI.svg) |
+| ![](/文件/2-AI.png) |
 | **化学命名** |
 | 常用名 | *2-AI* |
 | 系统命名 | *2,3-二氢-1H-茚-2-胺* |
@@ -74,7 +74,7 @@
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管高剂量更容易引发全方位的效应。* *此外，**不良反应** 的可能性随着剂量的增加而增加，可能包括 **成瘾、严重伤害或死亡*** ☠。
 
-### **身体效应** ![](/文件/Child.svg)
+### **身体效应** ![](/文件/Child.png)
 
 *     + **[刺激](/药效/刺激.md)** - 就其对使用者体能水平的影响而言，2-AI通常被认为具有类似[苯丙胺](/药物/苯丙胺.md)的活力和刺激感，但比[莫达菲尼](/药物/莫达菲尼.md)或[咖啡因](/药物/咖啡因.md)更强。它与[MDMA](/药物/MDMA.md)带来的刺激相似但又有所不同，会鼓励进行身体活动，如跳舞、社交、跑步或清洁。2-AI所呈现的特定刺激风格可以被描述为“强迫性的”。这意味着在高剂量下，由于咬紧牙关、不自主的身体颤抖和振动变得明显，你会很难或根本无法保持静止，导致全身剧烈颤抖、双手不稳以及普遍缺乏运动控制能力呢。
     + **[镇痛](/药效/镇痛.md)** - 许多轶事报告表明，这种化合物可能会以某种类似于[阿片类药物](/文档/药物分类/阿片类药物.md)的方式抑制疼痛，但没有那种明显的[躯体欣快感](/药效/躯体欣快感.md)。
@@ -86,11 +86,11 @@
     + **[出汗增加](/药效/出汗增加.md)**
     + **[磨牙](/药效/磨牙.md)** - 与[MDMA](/药物/MDMA.md)相比，这一成分通常被认为不那么强烈。
 
-### **视觉效应** ![](/文件/Eye.svg)
+### **视觉效应** ![](/文件/Eye.png)
 
 *     + **[视觉锐度增强](/药效/视觉锐度增强.md)**
 
-### **认知效应** ![](/文件/User.svg)
+### **认知效应** ![](/文件/User.png)
 
 * 2-AI的认知效应可以分为几个部分，其强度与剂量成正比。许多人描述2-AI的总体精神状态为精神受到刺激、专注力增强和欣快。它包含大量典型的[兴奋剂](/文档/药物分类/兴奋剂.md)认知效应。虽然在低到中等剂量下，负面副作用通常较轻，但在更高剂量或长期使用下，它们显现的可能性会越来越大。这一点在体验的[药效褪去](/文档/药效时长.md)阶段尤为明显哦。
 
@@ -106,7 +106,7 @@
     + **[强迫性补服](/文档/负责任的用药索引页.md)**
     + **[音乐欣赏能力增强](/药效/认知效应.md)**
 
-### **药效残余** ![](/文件/Aftereffects_(3).svg)
+### **药效残余** ![](/文件/Aftereffects_(3).png)
 
 * 在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)阶段发生的效应，通常感觉比在[药效达峰](/文档/药效时长.md)期间发生的效应更消极和不舒服。这通常被称为“下头（comedown）”，是由于[神经递质](/文档/神经递质.md)耗尽造成的。其效应通常包括：
     + **[焦虑](/药效/认知效应.md)**
@@ -195,7 +195,7 @@
 2. ↑ [2.0](#cite_ref-Shoptaw2009_2-0) [2.1](#cite_ref-Shoptaw2009_2-1) [2.2](#cite_ref-Shoptaw2009_2-2) Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1465-1858](//www.worldcat.org/issn/1465-1858). 
 3. [↑](#cite_ref-3) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563 "wikipedia:Special:BookSources/9780195030563"). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1 "Category:CS1 maint: Extra text (page does not exist)"))
 4. [↑](#cite_ref-4) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183). 
-5. [↑](#cite_ref-5) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
+5. [↑](#cite_ref-5) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
 6. [↑](#cite_ref-6) ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170210033939/www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). China Food and Drug Administration. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on February 10, 2017. Retrieved December 28, 2019. 
 7. [↑](#cite_ref-7) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019. 
 8. [↑](#cite_ref-8) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 25, 2019. 

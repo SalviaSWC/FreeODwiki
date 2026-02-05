@@ -16,7 +16,7 @@ dateCreated: 2026-01-30T05:55:15.540Z
 
 | 摘要：EPH (哌乙酯) |
 | --- |
-| [![Ethylphenidate.svg](/文件/Ethylphenidate.svg)](/文件/Ethylphenidate.svg) |
+| [![Ethylphenidate.png](/文件/Ethylphenidate.png)](/文件/Ethylphenidate.png) |
 | **化学命名** |
 | 通用名称 | *Ethylphenidate, EPH* |
 | 取代名称 | *哌乙酯* |

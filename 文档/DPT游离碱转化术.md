@@ -14,12 +14,12 @@ dateCreated: 2026-01-30T05:43:57.180Z
 
 <mark> 还行<mark>
 
-| ![Dialog-warning.svg](/文件/Dialog-warning.svg) | **[免责声明](/文档/关于本站/观前提醒.md):**<br>*本指南仅供参考和教育之用。我们不鼓励您触犯法律，也不能对您的行为承担任何责任。* |
+| ![Dialog-warning.png](/文件/Dialog-warning.png) | **[免责声明](/文档/关于本站/观前提醒.md):**<br>*本指南仅供参考和教育之用。我们不鼓励您触犯法律，也不能对您的行为承担任何责任。* |
 | --- | --- |
 
 | DPT 游离碱转化教程 | |
 | --- | --- |
-| [![DPT.svg](/文件/DPT.svg)](/文件/DPT.svg) | |
+| [![DPT.png](/文件/DPT.png)](/文件/DPT.png) | |
 | 化学命名 | |
 | 常用名 | *DPT, Dipropyltryptamine, The Light* |
 | 取代名称 | *N,N-二丙基色胺* |

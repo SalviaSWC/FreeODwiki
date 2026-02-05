@@ -101,7 +101,7 @@ dateCreated: 2026-01-30T06:20:26.843Z
 ---
 
 
-1. 图源[PsychonautWiki](https://psychonautwiki.org/wiki/File:Quetiapine.svg) [↩︎](#fnref1)
+1. 图源[PsychonautWiki](https://psychonautwiki.org/wiki/File:Quetiapine.png) [↩︎](#fnref1)
 
 2. [Wikipedia](https://en.wikipedia.org/wiki/Quetiapine) [↩︎](#fnref2)
 
