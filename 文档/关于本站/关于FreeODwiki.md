@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T06:13:58.289Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/文档/home.md)
 
 # 关于FreeODwiki
 
