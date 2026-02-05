@@ -1,25 +1,31 @@
 import tkinter as tk
 from tkinter import filedialog, scrolledtext, messagebox
 from pathlib import Path
-from typing import Set
+from typing import Set, List
 
-def generate_file_path_list(
+def generate_bracket_tree(
     startpath: str = ".",
     ignore_dirs: Set[str] = None,
-    ignore_keywords: list[str] = None
+    ignore_keywords: list[str] = None,
+    indent: str = "",
+    show_slash_for_dirs: bool = True
 ) -> str:
     """
-    生成每行一个文件全路径的列表（仅文件，不包括目录本身）。
-    路径相对于起始目录的根目录名开头，例如：my-project/README.md
-    这比树状结构更紧凑，大幅节省 tokens，适合直接复制给 LLM。
+    生成递归括号式文件树（节省 token，结构清晰）
     
-    Args:
-        startpath: 起始目录路径
-        ignore_dirs: 精确匹配忽略的目录/文件名
-        ignore_keywords: 包含任一关键词的路径项将被完全忽略（不进入子目录）
-    
-    Returns:
-        多行字符串，每行一个文件的全路径
+    示例输出:
+    project/
+    (
+      README.md
+      src/
+      (
+        App.tsx
+        components/
+        (
+          Button.tsx
+        )
+      )
+    )
     """
     if ignore_dirs is None:
         ignore_dirs = {".git", "__pycache__", ".venv", "venv", "node_modules", ".idea", ".DS_Store"}
@@ -29,82 +35,85 @@ def generate_file_path_list(
     ignore_keywords = [kw.lower() for kw in ignore_keywords]
 
     def is_ignored(name: str) -> bool:
-        if name in ignore_dirs:
-            return True
-        if any(kw in name.lower() for kw in ignore_keywords):
-            return True
-        return False
+        return name in ignore_dirs or any(kw in name.lower() for kw in ignore_keywords)
 
     path = Path(startpath).resolve()
-    
-    file_paths = []
-    
-    # 根前缀：项目名/
-    root_prefix = f"{path.name}/" if path.name else f"{path}/"
-    
-    def collect(current_path: Path, prefix: str):
+    root_name = path.name if path.name else str(path)
+    root_prefix = f"{root_name}/" if show_slash_for_dirs else root_name
+
+    def build_tree(current: Path, level: int = 0) -> List[str]:
+        lines = []
         try:
-            contents = [p for p in current_path.iterdir() if not is_ignored(p.name)]
+            items = [p for p in current.iterdir() if not is_ignored(p.name)]
         except PermissionError:
-            return  # 跳过无权限目录
-        
-        # 目录在前排序（虽然目录不显示，但影响遍历顺序）
-        contents.sort(key=lambda p: (p.is_file(), p.name.lower()))
-        
-        for item in contents:
-            item_str = prefix + item.name
+            return ["(权限不足，无法读取)"]
+
+        items.sort(key=lambda p: (p.is_file(), p.name.lower()))
+
+        if not items:
+            return []
+
+        # 开括号（除了根以外）
+        if level > 0:
+            lines.append("(")
+
+        for item in items:
+            name = item.name
             if item.is_dir():
-                collect(item, item_str + "/")
+                if show_slash_for_dirs:
+                    name += "/"
+                sub_lines = build_tree(item, level + 1)
+                if sub_lines:
+                    lines.append(indent * level + name)
+                    lines.extend(sub_lines)
             else:
-                file_paths.append(item_str.lstrip(startpath))
-    
-    collect(path, root_prefix)
-    
-    # 按路径字母顺序排序
-    file_paths.sort(key=str.lower)
-    
-    if not file_paths:
-        return "(无文件或所有文件已被忽略)"
-    
-    return "\n".join(file_paths)
+                lines.append(indent * level + name)
+
+        # 闭括号（除了根以外）
+        if level > 0:
+            lines.append(indent * (level - 1) + ")")
+
+        return lines
+
+    tree_lines = [root_prefix]
+    sub = build_tree(path, 1)
+    if sub:
+        tree_lines.extend(sub)
+    else:
+        tree_lines.append(indent + "(空目录或全部忽略)")
+
+    return " ".join(tree_lines)
 
 
 class DirectoryTreeApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("文件路径列表生成器 (节省 tokens，适合 LLM)")
+        self.root.title("括号式文件树生成器 (递归结构 · 节省 tokens)")
         self.root.geometry("800x600")
         self.root.resizable(True, True)
 
-        # === 输入区域 ===
         input_frame = tk.Frame(root)
         input_frame.pack(pady=10, padx=10, fill=tk.X)
 
-        # 起始路径
         tk.Label(input_frame, text="起始目录:").grid(row=0, column=0, sticky=tk.W, pady=5)
         self.path_var = tk.StringVar(value=".")
         tk.Entry(input_frame, textvariable=self.path_var, width=60).grid(row=0, column=1, padx=5)
         tk.Button(input_frame, text="浏览...", command=self.browse_directory).grid(row=0, column=2)
 
-        # 忽略关键词（多个用 & 分隔）
         tk.Label(input_frame, text="忽略关键词（多个用 & 分隔，包含即忽略，忽略大小写）:").grid(row=1, column=0, sticky=tk.W, pady=5)
         self.keyword_var = tk.StringVar()
         tk.Entry(input_frame, textvariable=self.keyword_var, width=60).grid(row=1, column=1, padx=5, columnspan=2, sticky=tk.W+tk.E)
 
-        # 生成按钮
-        tk.Button(input_frame, text="生成文件路径列表", command=self.generate_tree, bg="#4CAF50", fg="white", font=("Arial", 10, "bold")).grid(row=2, column=0, columnspan=3, pady=10)
+        tk.Button(input_frame, text="生成括号式文件树", command=self.generate_tree, bg="#4CAF50", fg="white", font=("Arial", 10, "bold")).grid(row=2, column=0, columnspan=3, pady=10)
 
-        # === 输出区域 ===
         output_frame = tk.Frame(root)
         output_frame.pack(padx=10, pady=5, fill=tk.BOTH, expand=True)
 
         self.text_widget = scrolledtext.ScrolledText(output_frame, font=("Consolas", 10))
         self.text_widget.pack(fill=tk.BOTH, expand=True)
 
-        # 底部说明
-        tk.Label(output_frame, text="输出格式：每行一个文件的全路径（仅文件，不显示空目录），适合直接复制给 LLM 使用", fg="gray").pack(pady=5)
+        tk.Label(output_frame, text="输出格式：递归括号结构，适合大目录、token敏感场景", fg="gray").pack(pady=5)
 
-        # 底部按钮
         bottom_frame = tk.Frame(root)
         bottom_frame.pack(pady=5)
         tk.Button(bottom_frame, text="复制到剪贴板", command=self.copy_to_clipboard).pack(side=tk.LEFT, padx=5)
@@ -126,17 +135,17 @@ class DirectoryTreeApp:
 
         path = Path(startpath)
         if not path.exists() or not path.is_dir():
-            messagebox.showerror("错误", "指定的路径不存在或不是目录")
+            messagebox.showerror("错误", "路径不存在或不是目录")
             return
 
         ignore_keywords = [k.strip() for k in keywords_input.split('&') if k.strip()]
 
         try:
-            file_list = generate_file_path_list(startpath, ignore_keywords=ignore_keywords)
+            tree = generate_bracket_tree(startpath, ignore_keywords=ignore_keywords)
             self.text_widget.delete(1.0, tk.END)
-            self.text_widget.insert(tk.END, file_list)
+            self.text_widget.insert(tk.END, tree)
         except Exception as e:
-            messagebox.showerror("错误", f"生成时出错:\n{str(e)}")
+            messagebox.showerror("错误", f"生成失败:\n{str(e)}")
 
     def copy_to_clipboard(self):
         content = self.text_widget.get(1.0, tk.END).strip()
@@ -154,7 +163,7 @@ class DirectoryTreeApp:
         filepath = filedialog.asksaveasfilename(
             defaultextension=".txt",
             filetypes=[("Text files", "*.txt"), ("All files", "*.*")],
-            initialfile="file_list.txt"
+            initialfile="bracket_tree.txt"
         )
         if filepath:
             try:
