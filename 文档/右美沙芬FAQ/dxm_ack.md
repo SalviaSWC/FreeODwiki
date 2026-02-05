@@ -1,12 +1,10 @@
 
-**右美沙芬 FAQ**
-
 1 致谢
 ==================
 
-本文经作者 William White 许可在 Erowid 使用
 
-[\[ 上一节 \]](dxm_faq.shtml)[\[ 目录 \]](dxm_faq.shtml)[\[ 下一节 \]](dxm_preliminary.shtml)
+
+[\[ 上一节 \]](./dxm_faq.md)[\[ 目录 \]](./dxm_faq.md)[\[ 下一节 \]](./dxm_preliminary.md)
 
 致谢
 ================
@@ -25,7 +23,7 @@
 
 ![](images/ack_s.gif)
 
-- [dxm_faq.shtml](dxm_faq.shtml) [dxm_preliminary.shtml](dxm_preliminary.shtml) [dxm_faq.shtml](dxm_faq.shtml)
+- [dxm_faq.shtml](./dxm_faq.md) [dxm_preliminary.shtml](./dxm_preliminary.md) [dxm_faq.shtml](./dxm_faq.md)
 
 ![](images/ack_s.gif)
 
