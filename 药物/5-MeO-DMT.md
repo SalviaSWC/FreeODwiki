@@ -213,7 +213,7 @@ dateCreated: 2026-01-30T05:54:27.833Z
     + **[自主声音交流](/药效/听觉效应.md "Autonomous voice communication")**
     + **[思维连通性](/药效/认知效应.md "Thought connectivity")**
     + **[时间扭曲](/药效/认知效应.md "Time distortion")**
-    + **[清醒度](/药效/认知效应.md "Wakefulness")**
+    + **[清醒](/药效/认知效应.md "Wakefulness")**
 
 ### **听觉效应**
 

@@ -40,7 +40,7 @@ dateCreated: 2026-01-30T05:54:15.107Z
 
 **4-氟哌甲酯** (通常称为 **4F-MPH**) 是一种新型的合成[兴奋剂](/文档/药物分类/兴奋剂.md "Stimulant")，属于[苄基哌啶类物质](/文档/药物分类/苄基哌啶类物质.md "Phenidate")，在[给药](/文档/给药途径.md "Routes of administration")后会产生持久的[欣快](/药效/躯体欣快感.md "Euphoria")和[刺激](/药效/刺激.md "Stimulant")效果呢。它是常用ADHD处方药[哌甲酯](/药物/哌甲酯.md "Methylphenidate")（品牌名为*利他林 (Ritalin)* 和 *专注达 (Concerta)*）的结构类似物，关系很亲密哦。
 
-这两种物质被认为具有非常相似的药理机制，都是[单胺类](/文档/神经递质.md "Monoamine") [再摄取抑制剂](/文档/神经递质再摄取抑制剂.md "Reuptake inhibitors")，但据报道它们表现出独特的[主观效应](/文档/科学信息索引页.md "Subjective effects index")，4F-MPH 被认为具有更显著的欣快感和娱乐性嘛。轶事报告表明，它的效力要强得多，而且像[焦虑](/药效/焦虑.md "Anxiety")、[肌肉痉挛](/药效/肌肉痉挛.md "Muscle spasms")和[强迫性重复用药](/药效/认知效应.md "Compulsive redosing")这样不舒服的副作用也更少呢。[\[1\]](#cite_note-1) 这可能是因为它已被证明是比母体化合物哌甲酯更高效的[多巴胺](/文档/多巴胺.md "Dopamine")再摄取抑制剂哦。[\[2\]](#cite_note-2)[\[3\]](#cite_note-3)[\[4\]](#cite_note-4)[\[5\]](#cite_note-5)[\[6\]](#cite_note-6)
+这两种物质被认为具有非常相似的药理机制，都是[单胺类](/文档/神经递质.md "Monoamine") [再摄取抑制剂](/文档/神经递质再摄取抑制剂.md "Reuptake inhibitors")，但据报道它们表现出独特的[主观效应](/文档/科学信息索引页.md "Subjective effects index")，4F-MPH 被认为具有更显著的欣快感和娱乐性嘛。轶事报告表明，它的效力要强得多，而且像[焦虑](/药效/焦虑.md "Anxiety")、[肌肉痉挛](/药效/肌肉痉挛.md "Muscle spasms")和[强迫性补量](/药效/认知效应.md "Compulsive redosing")这样不舒服的副作用也更少呢。[\[1\]](#cite_note-1) 这可能是因为它已被证明是比母体化合物哌甲酯更高效的[多巴胺](/文档/多巴胺.md "Dopamine")再摄取抑制剂哦。[\[2\]](#cite_note-2)[\[3\]](#cite_note-3)[\[4\]](#cite_note-4)[\[5\]](#cite_note-5)[\[6\]](#cite_note-6)
 
 4F-MPH 的[娱乐性用药](/文档/娱乐性用药.md "Recreational drug use")历史非常短。它最初是作为[乙基哌甲酯](/药物/4F-EPH.md "Ethylphenidate")的替代品开发的（注：此处原文链接为Ethylphenidate，暂指向EPH相关或相似文档），后者在2015年4月临时全面禁令后在英国变成非法啦。不久之后，它作为一种[研究用化学品](/文档/研究用化学品.md "Research chemical")在全球分销的在线灰色市场上出售了呢。
 
@@ -115,7 +115,7 @@ dateCreated: 2026-01-30T05:54:15.107Z
 + **[易怒](/药效/认知效应.md "Irritability")**
 + **[动机抑制](/药效/认知效应.md "Motivation suppression")**
 + **[思维减速](/药效/认知效应.md "Thought deceleration")**
-+ **[清醒度](/药效/认知效应.md "Wakefulness")**
++ **[清醒](/药效/认知效应.md "Wakefulness")**
 
 ### **认知效应**
 
@@ -123,18 +123,18 @@ dateCreated: 2026-01-30T05:54:15.107Z
 + **[焦虑](/药效/焦虑.md "Anxiety")** - 据报道，与[苯丙胺](/药物/苯丙胺.md "Amphetamine")或[可卡因](/药物/可卡因.md "Cocaine")等其他常用兴奋剂相比，4F-MPH 引起的焦虑更强烈、更常见。这与密切相关的化合物[哌甲酯](/药物/哌甲酯.md "Methylphenidate")相似。
 + **[分析能力增强](/药效/认知效应.md "Analysis enhancement")**
 + **[欣快](/药效/躯体欣快感.md "Cognitive euphoria")** - 与使用 4F-MPH 相关的欣快感冲击（作为[多巴胺](/文档/多巴胺.md "Dopamine") [再摄取抑制](/文档/神经递质再摄取抑制剂.md "Reuptake inhibition")的结果）非常短暂且具有强迫性，类似于[可卡因](/药物/可卡因.md "Cocaine")。尽管这种冲击被认为不如[甲基苯丙胺](/药物/甲基苯丙胺.md "Methamphetamine")产生的那么可靠和强烈。
-+ **[强迫性重复用药](/药效/认知效应.md "Compulsive redosing")** - 据报道有强迫性重复用药的情况，但频率低于其他常见兴奋剂如[苯丙胺](/药物/苯丙胺.md "Amphetamine")或[可卡因](/药物/可卡因.md "Cocaine")，但在高剂量或非口服给药时，据报道比密切相关的化合物[哌甲酯](/药物/哌甲酯.md "Methylphenidate")更常见。建议口服给药或设定限制以避免使用超过所需的量哦。
++ **[强迫性补量](/药效/认知效应.md "Compulsive redosing")** - 据报道有强迫性补量的情况，但频率低于其他常见兴奋剂如[苯丙胺](/药物/苯丙胺.md "Amphetamine")或[可卡因](/药物/可卡因.md "Cocaine")，但在高剂量或非口服给药时，据报道比密切相关的化合物[哌甲酯](/药物/哌甲酯.md "Methylphenidate")更常见。建议口服给药或设定限制以避免使用超过所需的量哦。
 + **[自我膨胀](/药效/认知效应.md "Ego inflation")**
 + **[情绪抑制](/药效/认知效应.md "Emotion suppression")** - 据报道，这个成分比其他兴奋剂更突出，并且与在其他兴奋剂中观察到的情绪抑制效果一致，特别是[哌甲酯](/药物/哌甲酯.md "Methylphenidate")和相关化合物。
 + **[专注力增强](/药效/认知效应.md "Focus enhancement")** - 这个成分在低到中等剂量下最有效，因为任何更高的剂量通常都会损害注意力呢。
 + **[音乐欣赏能力增强](/药效/认知效应.md "Increased music appreciation")**
 + **[时间扭曲](/药效/认知效应.md "Time distortion")** - 这可以描述为体验到时间加速，比清醒时过得快得多。
-+ **[动机增强](/药效/认知效应.md "Motivation enhancement")**
++ **[动机增强](/药效/动机增强.md)**
 + **[记忆增强](/药效/认知效应.md "Memory enhancement")**
 + **[暗示性抑制](/药效/认知效应.md "Suggestibility suppression")**
 + **[思维加速](/药效/认知效应.md "Thought acceleration")**
 + **[思维组织](/药效/认知效应.md "Thought organization")** - 据报道，这个成分比其他兴奋剂更突出，这导致一些用户将其用于生产或功能性目的，而不是享乐目的。
-+ **[清醒度](/药效/认知效应.md "Wakefulness")**
++ **[清醒](/药效/认知效应.md "Wakefulness")**
 
 ### 体验报告
 

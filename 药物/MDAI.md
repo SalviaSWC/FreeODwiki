@@ -140,7 +140,7 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
 
 
     + **[焦虑抑制](/药效/镇静.md "Anxiety suppression")**
-    + **[认知欣快感](/药效/认知效应.md "Cognitive euphoria")** - 强烈的情绪欣快感和幸福感存在于 MDAI 体验中，这是[血清素](/文档/血清素.md "Serotonin")释放的直接结果。
+    + **[认知欣快](/药效/认知欣快.md)** - 强烈的情绪欣快感和幸福感存在于 MDAI 体验中，这是[血清素](/文档/血清素.md "Serotonin")释放的直接结果。
     + **[共情、情感和社交能力增强](/药效/认知效应.md "Empathy, affection, and sociability enhancement")** - 这种特定的效应不像 [MDMA](/药物/MDMA.md "MDMA") 或 [2C-B](/药物/2C-B.md "2C-B") 那样明显、强大和具有治疗作用。它是任何 MDAI 体验中最明显和值得注意的效果，并主导着精神状态。
     + **[音乐欣赏增强](/药效/听觉效应.md "Increased music appreciation")**
     + **[沉浸感增强](/药效/认知效应.md "Immersion enhancement")**
@@ -162,7 +162,7 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
     + **[易怒](/药效/认知效应.md "Irritability")**
     + **[动力抑制](/药效/认知效应.md "Motivation suppression")**
     + **[思维减速](/药效/认知效应.md "Thought deceleration")**
-    + **[清醒度](/药效/认知效应.md "Wakefulness")**
+    + **[清醒](/药效/认知效应.md "Wakefulness")**
 
 ### 体验报告
 
