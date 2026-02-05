@@ -23,7 +23,7 @@
 
 ![](images/ack_s.gif)
 
-- [dxm_faq.shtml](./dxm_faq.md) [dxm_preliminary.shtml](./dxm_preliminary.md) [dxm_faq.shtml](./dxm_faq.md)
+- [上一节](./dxm_faq.md) [dxm_preliminary.shtml](./dxm_preliminary.md) [dxm_faq.shtml](./dxm_faq.md)
 
 ![](images/ack_s.gif)
 

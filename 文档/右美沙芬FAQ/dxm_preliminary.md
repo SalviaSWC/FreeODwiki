@@ -130,8 +130,8 @@ tC5XaWxsaWFtIEUuIFdoaXRlIDxid2hpdGVAb3Vjc2FjZS5jcy5vaGlvdS5lZHU+
 
 ![](/文档/右美沙芬FAQ/preliminary_s.gif)
 
-*   [./dxm_ack.md](/文档/右美沙芬FAQ/dxm_ack.md)
-*   [./dxm_quickfaq.md](/文档/右美沙芬FAQ/dxm_quickfaq.md)
-*   [./dxm_faq.md](/文档/右美沙芬FAQ/dxm_faq.md)
+*   [上一节](/文档/右美沙芬FAQ/dxm_ack.md)
+*   [下一节](/文档/右美沙芬FAQ/dxm_quickfaq.md)
+*   [目录](/文档/右美沙芬FAQ/dxm_faq.md)
 
 ![](/文档/右美沙芬FAQ/preliminary_s.gif)

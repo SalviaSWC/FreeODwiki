@@ -433,8 +433,3 @@
 ---
 
 [\[ 上一节 \]](/文档/右美沙芬FAQ/dxm_general_info.md)[\[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md)[\[ 下一节 \]](/文档/右美沙芬FAQ/dxm_side_effects.md)
-
-Erowid 存档，经作者许可
-修改时间 - 2015年2月10日
-
-设计 © 1995-2025 Erowid.org。内容 © 各自版权所有者。

@@ -2,7 +2,6 @@
 
 # 13 联用右美沙芬和其他药物
 
-经作者 William White 许可，在 Erowid 上使用
 
 [\[ 上一节 \]](/文档/右美沙芬FAQ/dxm_chemistry.md)[\[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md)[\[ 下一节 \]](/文档/右美沙芬FAQ/dxm_culture.md)
 

@@ -1057,4 +1057,4 @@ DXO 与氯胺酮和 PCP 同属一类，据所有说法，可以按此治疗。�
 
 ---
 
-[ \[ 返回上一页 \]](/文档/右美沙芬FAQ/dxm_experience.md) [ \[ 返回目录 \]](/文档/右美沙芬FAQ/dxm_faq.md) [ \[ 下一页 \]](/文档/右美沙芬FAQ/dxm_paranormal.md)
+[ \[上一节\]](/文档/右美沙芬FAQ/dxm_experience.md) [ \[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md) [ \[ 下一节 \]](/文档/右美沙芬FAQ/dxm_paranormal.md)
