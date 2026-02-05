@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:54:24.027Z
 
 # 5-羟基色氨酸 (5-Hydroxytryptophan)
 
-<mark> 好</mark>
+
 
 请不要将本词条与 [血清素](/文档/血清素.md) (**5**-**h**ydroxy**t**ryptamine, **5-HT**) 搞混了喵。
 

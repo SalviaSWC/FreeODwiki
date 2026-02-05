@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:44:00.377Z
 
 # GABA
 
-<mark> 还行</mark>
+
 
 ![Skull and crossbones darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png)
 

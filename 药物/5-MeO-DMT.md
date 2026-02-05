@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:54:27.833Z
 
 # 5-MeO-DMT
 
-<mark> 改了prompt，果然很抽象，下次不干了</mark>
+
 
 [![](/文件/Dialog-warning.svg.png)](/文件/Dialog-warning.svg.png) **警告：5-MeO-DMT *不是* DMT 的有效替代品喵。** 尽管它们的名字看起来很像，但 5-MeO-DMT 和 [DMT](./DMT.md "DMT") 有着截然不同的效应和风险概况，应当被视为完全独立的两种东西喵。请查看[这一部分](#毒性和危害性 "5-MeO-DMT")以获取更多信息。
 

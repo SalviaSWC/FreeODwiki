@@ -12,7 +12,7 @@ dateCreated: 2026-01-31T16:34:34.315Z
 
 [◀返回](/home.md)
 
-<mark>αMT</mark>
+
 
 ![αMT.svg](/文件/αMT.svg)
 

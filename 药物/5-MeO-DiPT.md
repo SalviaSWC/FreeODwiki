@@ -10,7 +10,7 @@ dateCreated: 2026-01-30T05:54:32.842Z
 
 [◀返回](/药物/home.md)
 
-<mark> 还不错哈</mark>
+
 
 
 # 5-MeO-DiPT

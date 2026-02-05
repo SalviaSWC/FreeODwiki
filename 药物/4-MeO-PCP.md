@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:54:11.474Z
 
 # 4-MeO-PCP
 
-<mark> 好，不错</mark>
+
 
 请勿与 [3-MeO-PCP](3-MeO-PCP.md) 混淆。
 

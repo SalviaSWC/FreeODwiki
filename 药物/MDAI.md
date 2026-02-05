@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:55:47.645Z
 
 # MDAI
 
-<mark> 好哦</mark>
+
 
 | MDAI | |
 | --- | --- |

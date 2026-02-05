@@ -11,7 +11,7 @@ dateCreated: 2026-01-30T05:56:03.626Z
 MET
 ===
 
-<mark> X自带的Grok4.1 Thinking,质量明显劣于Gemini,不过蛮聪明的知道不用链接，不过我的返回按钮哪里去了></mark>
+
 
 | MET | |
 | --- | --- |

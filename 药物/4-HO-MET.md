@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:54:04.070Z
 ---
 
-<mark>质量意外的高，不错！但是仍需谨慎点击不明链接</mark>
+
 [◀返回药物](/药物/home.md)
 # 4-HO-MET
 

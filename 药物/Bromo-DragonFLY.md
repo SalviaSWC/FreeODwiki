@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:54:48.497Z
 
 # Bromo-DragonFLY
 
-<mark> 好哦</mark>
+
 
 **Bromo-DragonFLY 与异常大量的住院治疗和死亡案例有关哦。[\[1\]](#cite_note-one-1)**
 

@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:53:20.967Z
 
 # 25I-NBOMe
 
-<mark> 不错喵</mark>
+
 
 <div align="center">
     <img src="../文件/25I-NBOMe.svg" width="300" alt="25I-NBOMe结构式">

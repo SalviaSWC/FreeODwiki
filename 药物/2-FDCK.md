@@ -2,7 +2,7 @@
 
 # 2-氟去氯氯胺酮 (2-Fluorodeschloroketamine)
 
-<mark> 好</mark>
+
 
 | 2-氟去氯氯胺酮 (2-Fluorodeschloroketamine) | |
 | --- | --- |

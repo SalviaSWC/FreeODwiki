@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:55:12.190Z
 ---
 
-<mark>DiPT条目中有很多未核查的部分，特别是链接，请不要随意点击(2026-01-24)</mark>
+
 [◀返回药物](/药物/home.md)
 # DiPT
 

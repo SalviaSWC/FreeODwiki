@@ -12,7 +12,7 @@ FreeODwiki/
 
 # 5-MeO-MiPT
 
-<mark> 好</mark>
+
 
 [◀返回](/药物/home.md)
 

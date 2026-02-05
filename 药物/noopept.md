@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:56:41.086Z
 
 # Omberacetam
 
-<mark> 这就很奇怪的</mark>
+
 
 | **Omberacetam (Noopept)** |
 | --- |

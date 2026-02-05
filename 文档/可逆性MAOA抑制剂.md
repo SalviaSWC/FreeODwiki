@@ -10,7 +10,7 @@ dateCreated: 2026-01-30T05:44:45.806Z
 
 [◀返回](/文档/home.md)
 
-<mark> 好的喵</mark>
+
 
 # 可逆性MAOA抑制剂 (RIMA)
 

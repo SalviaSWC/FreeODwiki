@@ -12,7 +12,7 @@ dateCreated: 2026-01-30T05:55:27.717Z
 
 # 哌异丙酯 (Isopropylphenidate)
 
-<mark> 翻译得不错， 连接处理的也到位，但是有些东西不符合翻译规范</mark>
+
 
 | 哌异丙酯 (Isopropylphenidate) | |
 | --- | --- |
