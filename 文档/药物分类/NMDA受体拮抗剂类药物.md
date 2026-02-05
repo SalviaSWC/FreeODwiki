@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T06:15:13.262Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/文档/药物分类/home.md)
 
 # NMDA受体拮抗剂
 

@@ -8,13 +8,6 @@ editor: markdown
 dateCreated: 2026-01-30T05:54:40.781Z
 ---
 
-FreeODwiki/
-├── 关于本站/
-├── 文档/
-│   ├── 关于本站/
-│   ├── 药物分类/
-├── 药效/
-├── 药物/
 
 FreeODwiki/药物/6-APB.md
 

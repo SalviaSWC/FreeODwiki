@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-01-30T05:43:53.921Z
 ---
 
-[◀返回](./home.md)
+[◀返回](/文档/home.md)
 
 <mark> 还行</mark>
 

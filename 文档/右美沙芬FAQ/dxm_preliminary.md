@@ -3,14 +3,14 @@
 # 2. 预备信息
 
 
-[[ 上一节 ]](./dxm_ack.md)[[ 目录 ]](./dxm_faq.md)[[ 下一节 ]](./dxm_quickfaq.md)
-![](./preliminary_m.gif)
+[[ 上一节 ]](/文档/右美沙芬FAQ/dxm_ack.md)[[ 目录 ]](/文档/右美沙芬FAQ/dxm_faq.md)[[ 下一节 ]](/文档/右美沙芬FAQ/dxm_quickfaq.md)
+![](/文档/右美沙芬FAQ/preliminary_m.gif)
 
 ## 2.1 限制和免责声明
 
 这篇文章涵盖了右美沙芬（Dextromethorphan，简称 DXM）的娱乐和医疗用途哦。右美沙芬是一种在非处方止咳药中很常见的止咳成分。当前版本是 4.0-Y.1 (超文本版) 呢。
 
-![](./preliminary_s.gif)
+![](/文档/右美沙芬FAQ/preliminary_s.gif)
 
 ### 2.1.1 分发限制
 
@@ -28,7 +28,7 @@
 10. 因为我不希望我的动机被误解，所以引用或摘录本文档时，不得显式或隐式地暗示我支持非法使用任何药物（无论合法与否），或任何其他受美国法律管辖的非法活动哦。
 11. 本文档的任何修改版本均不得以任何形式分发。
 
-![](./preliminary_s.gif)
+![](/文档/右美沙芬FAQ/preliminary_s.gif)
 
 ### 2.1.2 一般免责声明
 
@@ -46,7 +46,7 @@
 
 **如果你跳过此免责声明继续阅读，即表示你同意承担你可能采取的任何行动（无论合法与否）的所有责任。如果本免责声明的任何部分被发现无效，则访问和分发此信息的所有权利将被撤销。**
 
-![](./preliminary_s.gif)
+![](/文档/右美沙芬FAQ/preliminary_s.gif)
 
 ### 2.1.3 如何联系作者
 
@@ -78,7 +78,7 @@ tC5XaWxsaWFtIEUuIFdoaXRlIDxid2hpdGVAb3Vjc2FjZS5jcy5vaGlvdS5lZHU+
 
 体验报告和个人数据都是匿名展示的呢。我不会在线上或线下保存发件人的姓名、地址或个人信息，因此我无法提供他们的身份信息。任何以前或现在发给我的关于右美沙芬效果的个人信息、体验报告或反馈，都将被视为轶事，并不特指发件人。我鼓励任何有相关数据的人匿名发送给我。任何 PGP 加密的数据都将在我的私人系统（MS-DOS）上解密，该系统是离线的。解密后，所有关于发件人身份的信息都会被覆盖（200 次随机模式覆盖）。因此，在此操作之后，我就无法将体验报告或信息与发件人联系起来了。注意，我的系统**不具备 TEMPEST 安全级别**（虽然我还没发现家附近有奇怪的面包车就是了）。
 
-![](./preliminary_m.gif)
+![](/文档/右美沙芬FAQ/preliminary_m.gif)
 
 ## 2.2 为什么要写右美沙芬 FAQ？
 
@@ -92,7 +92,7 @@ tC5XaWxsaWFtIEUuIFdoaXRlIDxid2hpdGVAb3Vjc2FjZS5jcy5vaGlvdS5lZHU+
 
 我真诚地希望这类信息能帮助互联网发挥其作为信息源的潜力。我们这些有时间和能力提供好信息的人应该感到有义务这样做；如果我们设定了一个高信噪比的标准，也许其他人也会效仿呢。
 
-![](./preliminary_m.gif)
+![](/文档/右美沙芬FAQ/preliminary_m.gif)
 
 ## 2.3 保持右美沙芬合法
 
@@ -114,7 +114,7 @@ tC5XaWxsaWFtIEUuIFdoaXRlIDxid2hpdGVAb3Vjc2FjZS5jcy5vaGlvdS5lZHU+
 
 最后我想提醒大家，我们可能正行走在薄冰之上。我已经尽了最大努力使这个 FAQ 尽可能准确和学术化，这样如果任何重要人物真的看到它，他们大概会在读到关于细胞色素 P450-2D6 多态性的解释时感到无聊而作罢。即便如此，还是请大家运用常识哟。
 
-![](./preliminary_m.gif)
+![](/文档/右美沙芬FAQ/preliminary_m.gif)
 
 ## 2.4 如何使用本文档
 
@@ -128,10 +128,10 @@ tC5XaWxsaWFtIEUuIFdoaXRlIDxid2hpdGVAb3Vjc2FjZS5jcy5vaGlvdS5lZHU+
 
 如果是通过 Usenet 收到这份文档，请注意 Usenet 版本被分成了几个部分；有些新闻服务器在处理超长文件时会卡住。我**不会**发布关于你可以用右美沙芬合成什么的那部分，因为那主要是专业信息。如果你想要那部分，请发邮件给我。除此之外，发布频率是一个月一次，右美沙芬快速参考页每两周发布一次。如果我占用了你的带宽，我很抱歉；最近有**大量**关于右美沙芬的使用情况，我想确保大家都能获得事实真相。
 
-![](./preliminary_s.gif)
+![](/文档/右美沙芬FAQ/preliminary_s.gif)
 
-*   [./dxm_ack.md](./dxm_ack.md)
-*   [./dxm_quickfaq.md](./dxm_quickfaq.md)
-*   [./dxm_faq.md](./dxm_faq.md)
+*   [./dxm_ack.md](/文档/右美沙芬FAQ/dxm_ack.md)
+*   [./dxm_quickfaq.md](/文档/右美沙芬FAQ/dxm_quickfaq.md)
+*   [./dxm_faq.md](/文档/右美沙芬FAQ/dxm_faq.md)
 
-![](./preliminary_s.gif)
+![](/文档/右美沙芬FAQ/preliminary_s.gif)
