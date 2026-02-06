@@ -10,7 +10,7 @@ dateCreated: 2026-01-30T05:54:07.480Z
 
 [◀返回](/药物/home.md)
 
-# 4-MMC (甲卡西酮)
+# 4-MMC
 
 </mark>好<mark>
 

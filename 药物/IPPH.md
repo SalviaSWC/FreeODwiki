@@ -10,7 +10,7 @@ dateCreated: 2026-01-30T05:55:27.717Z
 
 [◀返回](./home.md)
 
-# 异丙基哌醋甲酯 (Isopropylphenidate)
+# 异丙基哌醋甲酯
 
 | *[总结表：异丙基哌醋甲酯](/wiki/Isopropylphenidate/Summary "Isopropylphenidate/Summary")* |
 | --- |

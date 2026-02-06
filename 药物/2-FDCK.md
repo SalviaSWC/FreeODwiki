@@ -1,6 +1,6 @@
 [◀返回](/药物/home.md)
 
-# 2-氟去氯氯胺酮 (2-Fluorodeschloroketamine)
+# 2-氟去氯氯胺酮
 
 
 

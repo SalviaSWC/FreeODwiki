@@ -10,7 +10,7 @@ dateCreated: 2026-01-30T05:54:24.027Z
 
 [◀返回](/药物/home.md)
 
-# 5-羟基色氨酸 (5-Hydroxytryptophan)
+# 5-羟基色氨酸
 
 
 

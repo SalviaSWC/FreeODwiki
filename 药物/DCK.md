@@ -1,6 +1,6 @@
 [◀返回](/药物/home.md)
 
-# 去氯氯胺酮 (Deschloroketamine)
+# 去氯氯胺酮
 
 
 

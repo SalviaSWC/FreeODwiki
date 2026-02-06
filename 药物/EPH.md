@@ -9,7 +9,7 @@ dateCreated: 2026-01-30T05:55:15.540Z
 ---
 [◀返回](./home.md)
 
-# 乙基哌醋甲酯 (Ethylphenidate)
+# 乙基哌醋甲酯
 
 
 | 乙基哌醋甲酯 | |
