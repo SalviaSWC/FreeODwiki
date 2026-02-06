@@ -114,55 +114,55 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
 
 ### **躯体效应** ![Child.png](/文件/Child.png)
 
-*     + **[镇静](/药效/镇静.md "Sedation")** - MDAI 和 [MDMA](/药物/MDMA.md "MDMA") 之间最大的区别在于，MDAI 主要导致中度镇静，因此可能会阻碍跑步、跳舞或攀爬等体力活动。
-    + **[自发性躯体感觉](/药效/躯体效应.md "Spontaneous physical sensations")** - MDAI 的“躯体快感”可以描述为一种中度到极度的欣快、柔软和温暖的刺痛感，这种感觉会包围全身。在高剂量下，这种感觉可能会变得极度令人愉悦。这种感觉会持续存在，随着药效发作稳步上升，一旦达到[达峰](/文档/药效时长.md#Peak "Peak")就会达到极限。
-        - **[躯体欣快感](/药效/躯体欣快感.md "Physical euphoria")**
-    + **[触觉增强](/药效/触觉效应.md "Tactile enhancement")**
-    + **[视物振动](/药效/视物振动.md "Vibrating vision")** - 在高剂量下，人的眼球可能会开始不由自主地快速来回摆动，导致视力变得模糊并暂时失焦。这是一种被称为[眼球震颤](http://en.wikipedia.org/wiki/Nystagmus)的情况。
-    + **[出汗增加](/药效/出汗增加.md "Increased perspiration")**
-    + **[体温调节抑制](/药效/体温调节抑制.md "Temperature regulation suppression")**
-    + **[脱水](/药效/脱水.md "Dehydration")** - 口干和脱水的感觉是 MDAI 的普遍体验。这种效应是心率增加和从事剧烈体力活动的极端动机的产物。虽然避免脱水很重要（特别是在炎热的环境中跳舞时），但也曾有一些用户因过量饮水而遭受[水中毒](/wiki/Water_intoxication "Water intoxication")，所以建议用户只需啜饮水，千万不要过量饮水哦。
-    + **[排尿困难](/药效/排尿困难.md "Difficulty urinating")** - 就像 MDMA 一样，较高剂量的 MDAI 会导致排尿困难。这种效应是完全暂时和无害的。这很可能是由于促进了[抗利尿激素](https://en.wikipedia.org/wiki/Vasopressin)（ADH）的释放，这也是 MDMA 产生这种副作用的机制。抗利尿激素负责调节排尿。只需放松即可减轻排尿困难，但用热毛巾热敷生殖器以使其变暖并促进血液流动可以显著缓解。有些人报告说，仅仅听流水的声音也有帮助（比如水龙头）。
-    + **[暂时性勃起功能障碍](/药效/暂时性勃起功能障碍.md "Temporary erectile dysfunction")**
++ **[镇静](/药效/镇静.md "Sedation")** - MDAI 和 [MDMA](/药物/MDMA.md "MDMA") 之间最大的区别在于，MDAI 主要导致中度镇静，因此可能会阻碍跑步、跳舞或攀爬等体力活动。
++ **[自发性躯体感觉](/药效/躯体效应.md "Spontaneous physical sensations")** - MDAI 的“躯体快感”可以描述为一种中度到极度的欣快、柔软和温暖的刺痛感，这种感觉会包围全身。在高剂量下，这种感觉可能会变得极度令人愉悦。这种感觉会持续存在，随着药效发作稳步上升，一旦达到[达峰](/文档/药效时长.md#Peak "Peak")就会达到极限。
+    - **[躯体欣快感](/药效/躯体欣快感.md "Physical euphoria")**
++ **[触觉增强](/药效/触觉效应.md "Tactile enhancement")**
++ **[视物振动](/药效/视物振动.md "Vibrating vision")** - 在高剂量下，人的眼球可能会开始不由自主地快速来回摆动，导致视力变得模糊并暂时失焦。这是一种被称为[眼球震颤](http://en.wikipedia.org/wiki/Nystagmus)的情况。
++ **[出汗增加](/药效/出汗增加.md "Increased perspiration")**
++ **[体温调节抑制](/药效/体温调节抑制.md "Temperature regulation suppression")**
++ **[脱水](/药效/脱水.md "Dehydration")** - 口干和脱水的感觉是 MDAI 的普遍体验。这种效应是心率增加和从事剧烈体力活动的极端动机的产物。虽然避免脱水很重要（特别是在炎热的环境中跳舞时），但也曾有一些用户因过量饮水而遭受[水中毒](/wiki/Water_intoxication "Water intoxication")，所以建议用户只需啜饮水，千万不要过量饮水哦。
++ **[排尿困难](/药效/排尿困难.md "Difficulty urinating")** - 就像 MDMA 一样，较高剂量的 MDAI 会导致排尿困难。这种效应是完全暂时和无害的。这很可能是由于促进了[抗利尿激素](https://en.wikipedia.org/wiki/Vasopressin)（ADH）的释放，这也是 MDMA 产生这种副作用的机制。抗利尿激素负责调节排尿。只需放松即可减轻排尿困难，但用热毛巾热敷生殖器以使其变暖并促进血液流动可以显著缓解。有些人报告说，仅仅听流水的声音也有帮助（比如水龙头）。
++ **[暂时性勃起功能障碍](/药效/暂时性勃起功能障碍.md "Temporary erectile dysfunction")**
 
 ### **视觉效应** ![Eye](/文件/Eye.png)
 
-* MDAI 的视觉效应仅在高剂量下发生，据报道其性质只是轻微的迷幻。这些通常包括：
-    + **[视觉锐度增强](/药效/视觉锐度增强.md "Visual acuity enhancement")**
-    + **[颜色增强](/药效/颜色增强.md "Colour enhancement")**
-    + **[残影](/药效/残影.md "Tracers")**
+MDAI 的视觉效应仅在高剂量下发生，据报道其性质只是轻微的迷幻。这些通常包括：
++ **[视觉锐度增强](/药效/视觉锐度增强.md "Visual acuity enhancement")**
++ **[颜色增强](/药效/颜色增强.md "Colour enhancement")**
++ **[残影](/药效/残影.md "Tracers")**
 
 ### **认知效应** ![User.png](/文件/User.png)
 
-* MDAI 的认知效应可以分为几个部分，随着剂量的增加逐渐加强。许多人将 MDAI 的总体精神状态描述为一种欣快感以及爱或共情的感觉。它包含许多典型的[共情](/文档/药物分类/共情剂.md "Entactogens")认知效应。
+MDAI 的认知效应可以分为几个部分，随着剂量的增加逐渐加强。许多人将 MDAI 的总体精神状态描述为一种欣快感以及爱或共情的感觉。它包含许多典型的[共情](/文档/药物分类/共情剂.md "Entactogens")认知效应。
 
-    其中最突出的认知效应通常包括：
+其中最突出的认知效应通常包括：
 
 
-    + **[焦虑抑制](/药效/镇静.md "Anxiety suppression")**
-    + **[认知欣快](/药效/认知欣快.md)** - 强烈的情绪欣快感和幸福感存在于 MDAI 体验中，这是[血清素](/文档/血清素.md "Serotonin")释放的直接结果。
-    + **[共情、情感和社交能力增强](/药效/认知效应.md "Empathy, affection, and sociability enhancement")** - 这种特定的效应不像 [MDMA](/药物/MDMA.md "MDMA") 或 [2C-B](/药物/2C-B.md "2C-B") 那样明显、强大和具有治疗作用。它是任何 MDAI 体验中最明显和值得注意的效果，并主导着精神状态。
-    + **[音乐欣赏增强](/药效/听觉效应.md "Increased music appreciation")**
-    + **[沉浸感增强](/药效/认知效应.md "Immersion enhancement")**
-    + **[思维减速](/药效/认知效应.md "Thought deceleration")**
-    + **[正念](/药效/认知效应.md "Mindfulness")**
-    + **[时间扭曲](/药效/认知效应.md "Time distortion")**
++ **[焦虑抑制](/药效/镇静.md "Anxiety suppression")**
++ **[认知欣快](/药效/认知欣快.md)** - 强烈的情绪欣快感和幸福感存在于 MDAI 体验中，这是[血清素](/文档/血清素.md "Serotonin")释放的直接结果。
++ **[共情、情感和社交能力增强](/药效/认知效应.md "Empathy, affection, and sociability enhancement")** - 这种特定的效应不像 [MDMA](/药物/MDMA.md "MDMA") 或 [2C-B](/药物/2C-B.md "2C-B") 那样明显、强大和具有治疗作用。它是任何 MDAI 体验中最明显和值得注意的效果，并主导着精神状态。
++ **[音乐欣赏增强](/药效/听觉效应.md "Increased music appreciation")**
++ **[沉浸感增强](/药效/认知效应.md "Immersion enhancement")**
++ **[思维减速](/药效/认知效应.md "Thought deceleration")**
++ **[正念](/药效/认知效应.md "Mindfulness")**
++ **[时间扭曲](/药效/认知效应.md "Time distortion")**
 
 ### **听觉效应** ![Volume-up.png](/文件/Volume-up.png)
 
-*     + **[听觉增强](/药效/听觉效应.md "Auditory enhancement")**
-    + **[听觉扭曲](/药效/听觉效应.md "Auditory enhancement")**
++ **[听觉增强](/药效/听觉效应.md "Auditory enhancement")**
++ **[听觉扭曲](/药效/听觉效应.md "Auditory enhancement")**
 
 ### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects_(3).png)
 
-* 在[兴奋剂](/文档/药物分类/兴奋剂.md "Stimulant")体验的[药效褪去](/文档/药效时长.md#Offset "Offset")期间发生的效果，与[药效达峰](/文档/药效时长.md#Peak "Peak")期间发生的效果相比，通常感觉是消极和不舒服的。这通常被称为“下头”（comedown），是因为[神经递质](/文档/神经递质.md "Neurotransmitter")耗尽而发生的。其影响通常包括：
-    + **[焦虑](/药效/焦虑.md "Anxiety")**
-    + **[认知疲劳](/药效/认知效应.md "Cognitive fatigue")**
-    + **[抑郁](/药效/认知效应.md "Depression")**
-    + **[易怒](/药效/认知效应.md "Irritability")**
-    + **[动力抑制](/药效/认知效应.md "Motivation suppression")**
-    + **[思维减速](/药效/认知效应.md "Thought deceleration")**
-    + **[清醒](/药效/认知效应.md "Wakefulness")**
+在[兴奋剂](/文档/药物分类/兴奋剂.md "Stimulant")体验的[药效褪去](/文档/药效时长.md#Offset "Offset")期间发生的效果，与[药效达峰](/文档/药效时长.md#Peak "Peak")期间发生的效果相比，通常感觉是消极和不舒服的。这通常被称为“下头”（comedown），是因为[神经递质](/文档/神经递质.md "Neurotransmitter")耗尽而发生的。其影响通常包括：
++ **[焦虑](/药效/焦虑.md "Anxiety")**
++ **[认知疲劳](/药效/认知效应.md "Cognitive fatigue")**
++ **[抑郁](/药效/认知效应.md "Depression")**
++ **[易怒](/药效/认知效应.md "Irritability")**
++ **[动力抑制](/药效/认知效应.md "Motivation suppression")**
++ **[思维减速](/药效/认知效应.md "Thought deceleration")**
++ **[清醒](/药效/认知效应.md "Wakefulness")**
 
 ### 体验报告
 
