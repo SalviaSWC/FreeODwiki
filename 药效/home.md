@@ -7,8 +7,7 @@ tags: translated_from_psychonautwiki,freeodwiki是一个以开源共享为宗旨
 editor: markdown
 dateCreated: 2026-01-30T05:47:52.071Z
 ---
-
-[◀返回](/home.md)
+[返回主页](/home.md)
 
 # 主观效应索引
 
