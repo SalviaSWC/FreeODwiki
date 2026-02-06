@@ -243,7 +243,7 @@ MXE 与所有[解离剂](/文档/药物分类/解离剂.md)都存在交叉耐受
 
 *务必进行独立研究（例如 [Google](https://www.google.com), [DuckDuckGo](https://www.duckduckgo.com), [PubMed](https://pubmed.ncbi.nlm.nih.gov/)）以确保两种或多种物质的组合是安全的。一些列出的联用来源于 [TripSit](https://combo.tripsit.me)。*
 
-*   **[DOx](/药物分类/2,5-二甲氧基苯丙胺类物质.md)** - 作为一种 NMDA 拮抗剂，MXE 会增强 DOx，这可能会令人不适地强烈。
+*   **[DOx](/文档/药物分类/2,5-二甲氧基苯丙胺类物质.md)** - 作为一种 NMDA 拮抗剂，MXE 会增强 DOx，这可能会令人不适地强烈。
 *   **[25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md)** - 作为一种 NMDA 拮抗剂，MXE 会增强 NBOMes，这可能会令人不适地强烈。
 *   **2C-T-x**
 *   **[PCP](/药物/PCP.md)** - 没有关于这种组合的报告。
