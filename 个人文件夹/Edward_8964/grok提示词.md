@@ -29,7 +29,7 @@ dateCreated: 2026-01-30T06:17:43.905Z
 │  ├─ MK-801.md
 │  ├─ PCE.md
 │  ├─ PCP.md
-│  ├─ Vyvanse.md
+│  ├─ 利右苯丙胺.md
 │  ├─ 右美沙芬.md
 │  ├─ 司来吉兰+苯乙胺.md
 │  ├─ 吗啡.md

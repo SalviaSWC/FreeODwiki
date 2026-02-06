@@ -144,7 +144,7 @@
 
 *同样值得注意的是，这些效应并不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能引发全方位的效应。*同样，**不良反应**随着剂量的增加而变得越来越可能出现，可能包括**成瘾、严重伤害或死亡*** ☠。*
 
-### **身体效应**
+### **躯体效应** ![Child.png](/文件/Child.png)
 
 *   **[刺激](/药效/刺激.md)** - 据报道，3-MMC极具刺激性和活力。它可以鼓励跑步或跳舞等身体活动，这使其在派对和狂欢中很受欢迎。这种刺激的风格可以被描述为“强迫性的”。这意味着在较高剂量下，随着下颌紧咬、不自主的身体抖动和振动出现，很难或不可能保持静止。
 
@@ -202,7 +202,7 @@
 
 *   **[癫痫发作](/药效/癫痫发作.md)** - 这是一种罕见的效应，但在易感人群中很可能发生，特别是在服用大剂量或在身体疲劳的情况下（如脱水、营养不良、过热或疲劳）补量时。
 
-### **认知效应**
+### **认知效应** ![User.png](/文件/User.png)
 
 *   **[焦虑抑制](/药效/焦虑抑制.md) - 3-MMC的多巴胺能效应可能对此有贡献。**
 *   **[去抑制](/药效/去抑制.md)**
@@ -357,7 +357,7 @@
 3.  [↑](#cite_ref-3) Assi, S., Gulyamova, N., Kneller, P., Osselton, D. (May 2017). ["The effects and toxicity of cathinones from the users' perspectives: A qualitative study"](https://onlinelibrary.wiley.com/doi/10.1002/hup.2610). *Human Psychopharmacology: Clinical and Experimental*. **32** (3): e2610. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/hup.2610](//doi.org/10.1002%2Fhup.2610). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0885-6222](//www.worldcat.org/issn/0885-6222).
 4.  [↑](#cite_ref-4) [*Urban Dictionary: gurning*](https://www.urbandictionary.com/define.php?term=gurning)
 5.  [↑](#cite_ref-5) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-6.  [↑](#cite_ref-6) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+6.  [↑](#cite_ref-6) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
 7.  [↑](#cite_ref-7) <http://portal.anvisa.gov.br/documents/33868/3233596/55+-+RDC+N%C2%BA+143-2017-DOU.pdf/de80dc69-acb4-48b3-a6ac-1198993b0c1e>
 8.  [↑](#cite_ref-8) 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | <http://www.sfda.gov.cn/WS01/CL0056/130753.html>
 9.  [↑](#cite_ref-9) <https://www.zakonyprolidi.cz/cs/2013-463>
