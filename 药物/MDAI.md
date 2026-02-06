@@ -125,7 +125,7 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
     + **[排尿困难](/药效/排尿困难.md "Difficulty urinating")** - 就像 MDMA 一样，较高剂量的 MDAI 会导致排尿困难。这种效应是完全暂时和无害的。这很可能是由于促进了[抗利尿激素](https://en.wikipedia.org/wiki/Vasopressin)（ADH）的释放，这也是 MDMA 产生这种副作用的机制。抗利尿激素负责调节排尿。只需放松即可减轻排尿困难，但用热毛巾热敷生殖器以使其变暖并促进血液流动可以显著缓解。有些人报告说，仅仅听流水的声音也有帮助（比如水龙头）。
     + **[暂时性勃起功能障碍](/药效/暂时性勃起功能障碍.md "Temporary erectile dysfunction")**
 
-### **视觉效应**
+### **视觉效应** ![Eye](/文件/Eye.png)
 
 * MDAI 的视觉效应仅在高剂量下发生，据报道其性质只是轻微的迷幻。这些通常包括：
     + **[视觉锐度增强](/药效/视觉锐度增强.md "Visual acuity enhancement")**
@@ -148,12 +148,12 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
     + **[正念](/药效/认知效应.md "Mindfulness")**
     + **[时间扭曲](/药效/认知效应.md "Time distortion")**
 
-### **听觉效应**
+### **听觉效应** ![Volume-up.png](/文件/Volume-up.png)
 
 *     + **[听觉增强](/药效/听觉效应.md "Auditory enhancement")**
     + **[听觉扭曲](/药效/听觉效应.md "Auditory enhancement")**
 
-### **药效残余**
+### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects_(3).png)
 
 * 在[兴奋剂](/文档/药物分类/兴奋剂.md "Stimulant")体验的[药效褪去](/文档/药效时长.md#Offset "Offset")期间发生的效果，与[药效达峰](/文档/药效时长.md#Peak "Peak")期间发生的效果相比，通常感觉是消极和不舒服的。这通常被称为“下头”（comedown），是因为[神经递质](/文档/神经递质.md "Neurotransmitter")耗尽而发生的。其影响通常包括：
     + **[焦虑](/药效/焦虑.md "Anxiety")**

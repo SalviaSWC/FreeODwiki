@@ -184,7 +184,7 @@ dateCreated: 2026-01-30T05:54:27.833Z
     + **[空间定向障碍](/药效/认知效应.md "Spatial disorientation")**
     + **[体温调节抑制](/药效/体温调节抑制.md "Temperature regulation suppression")**
 
-### **视觉效应**
+### **视觉效应** ![Eye](/文件/Eye.png)
 
 * 5-MeO-DMT 的视觉效应可以分为几个部分，这些部分随着剂量的增加而逐渐增强。与其持续压倒性和强烈的伴随认知和躯体效应相比，5-MeO-DMT 似乎具有已知迷幻体验种类中最成比例的微弱的视觉效应。
     + **[视觉锐度增强](/药效/视觉锐度增强.md "Visual acuity enhancement") 或 [视觉锐度抑制](/药效/视觉锐度抑制.md "Visual acuity suppression")** - 5-MeO-DMT 同样能够降低和提高视觉敏锐度。哪种效应会显现似乎几乎完全是随机选择的，并且很大程度上取决于情境。
@@ -215,7 +215,7 @@ dateCreated: 2026-01-30T05:54:27.833Z
     + **[时间扭曲](/药效/认知效应.md "Time distortion")**
     + **[清醒](/药效/认知效应.md "Wakefulness")**
 
-### **听觉效应**
+### **听觉效应** ![Volume-up.png](/文件/Volume-up.png)
 
 *     + **[增强](/药效/听觉效应.md "Auditory enhancement")**
     + **[扭曲](/药效/听觉效应.md "Auditory distortion")**
