@@ -17,11 +17,11 @@ dateCreated: 2026-01-31T16:15:16.121Z
 
 **最近FreeOD.wiki服务器不稳定，建议[前往Github](https://github.com/SalviaSWC/FreeODwiki)浏览本站**——2026年2月7日
 
-    我们站点的内容目前已经相当充实了，但是还有一些欠缺的部分，比如不少站内链接是错误的，以及部分图像资源存在无法加载的问题。
-
-    欢迎大家指出这些问题或者[自行修复](/CONTRIBUTING.md)，也可以联系我们获取权限后自行编辑哦！ (SalviaSWC的推特账号：[x.com/SalviaSWC](https://x.com/SalviaSWC))
-
-    FreeODwiki将持续为大家提供开源自由的[减害信息](/文档/负责任的用药索引页.md)来源。
+>我们站点的内容目前已经相当充实了，但是还有一些欠缺的部分，比如不少站内链接是错误的，以及部分图像资源存在无法加载的问题。
+>
+>欢迎大家指出这些问题或者[自行修复](/CONTRIBUTING.md)，也可以联系我们获取权限后自行编辑哦！ (SalviaSWC的推特账号：[x.com/SalviaSWC](https://x.com/SalviaSWC))
+>
+>FreeODwiki将持续为大家提供开源自由的[减害信息](/文档/负责任的用药索引页.md)来源。
 
 ## 站点索引
 
