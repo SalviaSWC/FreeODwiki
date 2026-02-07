@@ -225,7 +225,7 @@ MDA 作为神经递质[血清素](./../文档/血清素.md "Serotonin")、[多�
     + **[易怒](./../药效/认知效应.md "Irritability")**
     + **[动机抑制](./../药效/认知效应.md "Motivation suppression")**
     + **[思维减速](./../药效/认知效应.md "Thought deceleration")**
-    + **[思维解体](./../药效/认知效应.md "Thought disorganization")**
+    + **[思维混乱](./../药效/认知效应.md "Thought disorganization")**
     + **[自杀意念](./../药效/认知效应.md "Suicidal ideation")** - 众所周知，这种效应发生的频率比 [MDMA](./MDMA.md "MDMA") 略高，但如果用户实行适当的间隔和安全给药实践，通常不会发生。
     + **[清醒](./../药效/认知效应.md "Wakefulness")**
 
