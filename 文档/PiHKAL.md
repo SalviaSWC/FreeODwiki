@@ -6,7 +6,7 @@
 
 | 书籍信息 | |
 | :--- | :--- |
-| **封面** | [![Pihkal.jpg](/文件/Pihkal.jpg)](/文件/Pihkal.jpg) |
+| **封面** | [![Pihkal.jpg](/文件/Pihkal.webp)](/文件/Pihkal.jpg) |
 | **标题** | *Pihkal: A Chemical Love Story* |
 | **ISBN-13** | 9780963009609 |
 | **ISBN-10** | 0963009605 |
