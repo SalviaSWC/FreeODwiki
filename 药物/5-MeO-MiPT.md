@@ -16,8 +16,7 @@ FreeODwiki/
 
 [◀返回](/药物/home.md)
 
-| **[摘要表: 5-MeO-MiPT](#)** |
-| --- |
+
 
 | 5-MeO-MiPT | |
 | --- | --- |
