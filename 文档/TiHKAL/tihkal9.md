@@ -50,4 +50,4 @@ DPT 一个有趣的（也许是理论上的）同系物是 1-丙基对应物，1
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal08.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal10.md)
+[上一个](/文档/TiHKAL/tihkal8.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal10.md)
