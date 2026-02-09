@@ -2,7 +2,7 @@
 
 # 1.[AL-LAD](/药物/AL-LAD.md)
 
-[上一个](/文档/TiHKAL/tihkal0.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal2.md)
+ [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal2.md)
 
 ----------
 **6-去甲麦角酸，6-烯丙基-N,N-二乙酰胺；6-去甲麦角酰胺，6-烯丙基-N,N-二乙基；N,N-二乙基去甲麦角酰胺，6-烯丙基；N-(6)-烯丙基去甲麦角酸，N,N-二乙酰胺；9,10-二去氢-6-烯丙基-N,N-二乙基麦角灵-8b-甲酰胺**  
@@ -37,5 +37,5 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal0.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal2.md)
+ [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal2.md)
 
