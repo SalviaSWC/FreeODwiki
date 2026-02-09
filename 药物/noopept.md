@@ -14,8 +14,8 @@ dateCreated: 2026-01-30T05:56:41.086Z
 
 
 
-| **Omberacetam (Noopept)** |
-| --- |
+| **Omberacetam (Noopept)** | |
+| --- | --- |
 | ![](/文件/Noopept.png) |
 | **化学命名** |
 | 取代名称 | *Noopept, Ноопепт, GVS-111, Omberacetam* |
