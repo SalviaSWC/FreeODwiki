@@ -8,320 +8,241 @@ editor: markdown
 dateCreated: 2026-01-30T05:55:23.475Z
 ---
 
-[◀返回](/药物/home.md)
+GHB
+===
 
-# GHB
-
+[◀返回](./home.md)
 
 | | |
-|--|-- |
-|![Skull and crossbones darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png)|**当[GABA能物质](/文档/药物分类/抑制剂.md#GABA_receptors)（如GHB）与[阿片类药物](/文档/药物分类/阿片类药物.md)、[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)、[巴比妥类物质](/文档/药物分类/巴比妥类物质.md)、[加巴喷丁类物质](/文档/药物分类/加巴喷丁类物质.md)、[噻吩二氮卓类物质](/文档/药物分类/噻吩二氮卓类物质.md)或[酒精](./酒精.md)等其他[抑制剂](/文档/药物分类/抑制剂.md)联用时，可能会发生致命的[药物过量](/文档/药物过量.md)。[\[1\]](#cite_note-tripsit-1)**
-
-强烈不建议联用这些物质，特别是在[中等](/文档/药物剂量分类.md#中等)到[严重](/文档/药物剂量分类.md#严重)剂量下。
+| --- | --- |
+| ![Skull and crossbones darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png) | 当[GABA能物质](/文档/GABA.md#GABA受体)与[阿片类药物](/文档/药物分类/阿片类药物.md)、[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)、[巴比妥类物质](/文档/药物分类/巴比妥类物质.md)、[加巴喷丁类物质](/文档/药物分类/加巴喷丁类物质.md)、[噻吩二氮卓类物质](/文档/药物分类/噻吩二氮卓类物质.md)或[酒精](/药物/酒精.md)等其他[抑制剂](/文档/药物分类/抑制剂.md)联用时，可能会发生致命的[药物过量](/文档/药物过量.md)哦！强烈建议不要将这些物质联用，特别是在[中等](/文档/药物剂量分类.md#中等)到[严重](/文档/药物剂量分类.md#严重)剂量下喵。 |
 
 | GHB | |
 | --- | --- |
-| [![GHB.png](/文件/GHB.png)](/文件/GHB.png) | |
+| ![GHB.png](/文件/GHB.png) | |
 | **化学命名** | |
-| 常见名称 | *GHB, G, Xyrem, Sodium oxybate* |
-| 取代名称 | *gamma-Hydroxybutyric acid* |
-| 系统命名 | *4-Hydroxybutanoic acid* |
-| **分类归属** | |
-| 精神药效分类 | *[抑制剂](/文档/药物分类/抑制剂.md)* |
-| 化学分类 | *[γ-羟基酸](https://en.wikipedia.org/wiki/Gamma-Hydroxy_acid)* |
-| **[给药途径](/文档/给药途径.md)** | |
-| - **警告:** 由于个体体重、耐受性、代谢和个人敏感度的差异，请务必从较低剂量开始。[另见负责任的用药章节](/文档/负责任的用药索引页.md)。 <br>   <br>    | ⇣ [口服](/文档/给药途径.md#Oral) |
-| [剂量](/文档/给药剂量.md) | |
+| 常用名称 | *GHB, G, Xyrem, 羟基丁酸钠* |
+| 取代名称 | *γ-羟基丁酸* |
+| 系统名称 | *4-羟基丁酸* |
+| **类别归属** | |
+| 精神活性类别 | *[抑制剂](/文档/药物分类/抑制剂.md)* |
+| 化学类别 | *γ-羟基酸* |
+| **[给药途径](/文档/给药途径.md)** | **[口服](/文档/给药途径.md#口服)** |
+
+| [给药剂量](/文档/给药剂量.md) | |
+| --- | --- |
 | [阈值](/文档/药物剂量分类.md#阈值) | 0.5 g |
 | [轻微](/文档/药物剂量分类.md#轻微) | 0.5 - 1 g |
 | [中等](/文档/药物剂量分类.md#中等) | 1 - 2.5 g |
 | [强烈](/文档/药物剂量分类.md#强烈) | 2.5 - 4 g |
-| [严重](/文档/药物剂量分类.md#严重) | 4 g + **警告：超过 10 g 有死亡风险[\[2\]](#cite_note-ErowidGHBVault-2)** |
+| [严重](/文档/药物剂量分类.md#严重) | 4 g + **警告：超过 10 g 有死亡风险喵** |
+
 | [药效时长](/文档/药效时长.md) | |
-| [总时长](/文档/药效时长.md#Total) | 1.5 - 2.5 小时 |
-| [药效发作](/文档/药效时长.md#Onset) | 5 - 30 分钟 |
-| [药效上升](/文档/药效时长.md#Come_up) | 10 - 20 分钟 |
-| [药效达峰](/文档/药效时长.md#Peak) | 45 - 90 分钟 |
-| [药效褪去](/文档/药效时长.md#Offset) | 15 - 30 分钟 |
-| [药效残余](/文档/药效时长.md#After_effects) | 2 - 4 小时 |
-| <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>    - **[免责声明](/关于本站/观前提醒.md)：** 本站的[剂量](/文档/给药剂量.md)信息收集自用户和[网络](/文档/科学信息索引页.md)，仅用于教育目的。它不是推荐，应与其他来源核实以确保准确性。 | |
-| **[危险药物联用](#Dangerous_interactions)** | |
-| [氧化亚氮](./氧化亚氮.md) | 💔 联用危险 |
-| [苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md) | ⚠️ 谨慎联用 |
-| [MDMA](./MDMA.md) | ⚠️ 谨慎联用 |
-| [可卡因](./可卡因.md) | ⚠️ 谨慎联用 |
-| [氯胺酮](./氯胺酮.md) | ⛔ 严禁联用 |
-| MXE | ⛔ 严禁联用 |
-| [右美沙芬](./右美沙芬.md) | ⛔ 严禁联用 |
-| [PCP](./PCP.md) | ⛔ 严禁联用 |
-| [酒精](./酒精.md) | ⛔ 严禁联用 |
-| [阿片类药物](/文档/药物分类/阿片类药物.md) | ⛔ 严禁联用 |
-| Tramadol | ⛔ 严禁联用 |
-| [苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md) | ⛔ 严禁联用 |
+| --- | --- |
+| [总时长](/文档/药效时长.md#总时长) | 1.5 - 2.5 小时 |
+| [药效发作](/文档/药效时长.md#药效发作) | 5 - 30 分钟 |
+| [药效上升](/文档/药效时长.md#药效上升) | 10 - 20 分钟 |
+| [药效达峰](/文档/药效时长.md#药效达峰) | 45 - 90 分钟 |
+| [药效褪去](/文档/药效时长.md#药效褪去) | 15 - 30 分钟 |
+| [药效残余](/文档/药效时长.md#药效残余) | 2 - 4 小时 |
 
-**γ-羟基丁酸**（gamma-Hydroxybutyric acid，也称为 **4-羟基丁酸** 和 **GHB**）是一种[抑制剂](/文档/药物分类/抑制剂.md)。它作为一种[神经递质](/文档/科学信息索引页.md)天然存在，并且在大脑某些区域中也是 GABA、谷氨酸和甘氨酸的前体。它作用于 GHB 受体，并且是 GABA<sub>B</sub> 受体的弱激动剂。
+**注意：** 始终从低剂量开始，因为个人体重、耐受性、代谢和敏感性都有差异呢。请参阅[负责任的用药](/文档/负责任的用药索引页.md)部分。本站的剂量信息仅用于教育目的喵。
 
-GHB 的钠盐，商品名为 Xyrem，[\[3\]](#cite_note-3) 是一种处方助眠药，用于治疗各种医疗状况，例如猝倒症[\[4\]](#cite_note-4)和发作性睡病患者的日间过度嗜睡。[\[5\]](#cite_note-5) 它也曾被用于医疗环境作为全身麻醉剂，以治疗失眠、临床抑郁症和酒精中毒，[\[6\]](#cite_note-6) 以及提高运动表现。
+**γ-羟基丁酸**（也称为 **4-羟基丁酸** 或 **GHB**）是一种[抑制剂](/文档/药物分类/抑制剂.md)类物质哦。它在自然界中作为一种[神经递质](/文档/神经递质.md)存在，同时也是某些脑区内 GABA、谷氨酸和甘氨酸的前体呢。它作用于 GHB 受体，并且是 GABA<sub>B</sub> 受体的弱激动剂喵。
 
-GHB 也作为一种娱乐性物质被使用，因其具有类似酒精的效果。虽然常见的娱乐剂量在 1.5 - 2.5 克之间，但 2.5 克到 5 克的剂量很可能导致在 5 - 15 分钟内入睡，而 5 - 10 克的剂量可能导致抽搐、意识丧失（昏迷状状态）和呕吐。超过 10 克的剂量与死亡风险相关。[\[2\]](#cite_note-ErowidGHBVault-2) 请勿混淆克（g）与毫升（ml）（GHB 的密度约为 1.2g/ml [\[7\]](#cite_note-7)）。如果服用已经预混成液体形式的 GHB，需要格外小心，因为无法确切知道溶液的浓度（例如，每毫升溶液中含有多少克 GHB）。因此，建议使用者从低剂量开始，通过小幅度增加剂量慢慢向上调整。然而，保持适当的给药间隔对于避免意外过量至关重要。
+GHB 的钠盐形式商品名为 Xyrem，是一种处方助眠药，用于治疗猝睡症和发作性睡病患者的白天过度嗜睡。在医学领域，它也被用作全身麻醉剂，治疗失眠、临床抑郁症和酒精依赖，甚至被用来提高运动表现呢。
 
-GHB 与 [GBL](./GBL.md) 一起，被称为“迷奸药”，据称是被秘密放入酒精饮料中。\[*来源请求*\] 虽然只有非常有限的证据表明这实际上经常发生，但在接受陌生人的饮料时应始终保持警惕。
+在娱乐用途中，GHB 因其类似于酒精的效果而被使用哦。虽然常见的娱乐剂量在 1.5 到 2.5 克之间，但 2.5 到 5 克的剂量很可能会导致在 5 到 15 分钟内入睡，而 5 到 10 克的剂量则可能导致抽搐、意识丧失（类似昏迷的状态）和呕吐喵。超过 10 克的剂量会有生命危险。千万不要把克（g）和毫升（ml）弄混了，GHB 的密度大约是 1.2g/ml。如果喝的是已经配好的液体 GHB，一定要格外小心，因为你没法确定溶液的浓度呢。所以喵，建议使用者从低剂量开始，一点点增加，而且两次给药之间要有足够的间隔，以免意外过量哦。
 
-## 目录
+GHB 和 [GBL](/药物/GBL.md) 曾被冠以“约会强奸药”的恶名，据说会被偷偷放进含酒精饮料里。虽然实际发生的证据非常有限，但在接受陌生人的饮料时还是要多加小心呢喵。
 
-* [1 化学](#Chemistry)
-* [2 药理学](#Pharmacology)
-* [3 主观效应](#Subjective_effects)
-    * [3.1 **躯体效应**](#Physical_effects)
-    * [3.2 **视觉效应**](#Visual_effects)
-    * [3.3 **认知效应**](#Cognitive_effects)
-    * [3.4 **听觉效应**](#Auditory_effects)
-    * [3.5 **药效残余**](#After_effects)
-    * [3.6 体验报告](#Experience_reports)
-* [4 毒性与伤害潜力](#Toxicity_and_harm_potential)
-    * [4.1 神经毒性](#Neurotoxicity)
-    * [4.2 药物过量](#Overdose)
-    * [4.3 耐受性与成瘾潜力](#Tolerance_and_addiction_potential)
-    * [4.4 危险药物联用](#Dangerous_interactions)
-* [5 法律地位](#Legal_status)
-* [6 另见](#See_also)
-* [7 外部链接](#External_links)
-* [8 参考文献](#References)
+目录
+--------
 
-## 化学 <span id="Chemistry"></span>
+* [1 化学](#化学)
+* [2 药理学](#药理学)
+* [3 主观效应](#主观效应)
+    + [3.1 **躯体效应**](#躯体效应)
+    + [3.2 **视觉效应**](#视觉效应)
+    + [3.3 **认知效应**](#认知效应)
+    + [3.4 **听觉效应**](#听觉效应)
+    + [3.5 **药效残余**](#药效残余)
+    + [3.6 体验报告](#体验报告)
+* [4 毒性与伤害潜力](#毒性与伤害潜力)
+    + [4.1 神经毒性](#神经毒性)
+    + [4.2 药物过量](#药物过量)
+    + [4.3 耐受性与成瘾潜力](#耐受性与成瘾潜力)
+    + [4.4 危险的药物联用](#危险的药物联用)
+* [5 法律地位](#法律地位)
+* [6 另见](#另见)
+* [7 外部链接](#外部链接)
+* [8 参考文献](#参考文献)
 
-GHB，即 γ-羟基丁酸，是一种取代了额外羟基的羧酸。GHB 包含一个四碳链，末端碳原子与羟基（OH-）结合，并双键结合一个氧原子形成羧基单元；这就是丁酸。在四碳链的另一端 Rγ 位置，GHB 被一个羟基取代。
+化学
+---------
 
-GHB 天然存在于人类中枢神经系统以及葡萄酒、牛肉、一些柑橘类水果以及几乎所有动物体内（微量）。[\[8\]](#cite_note-8)
+GHB，即 γ-羟基丁酸，是一种被额外羟基取代的羧酸。GHB 包含一个四碳链，末端碳原子与一个羟基（OH-）相连，并与一个氧原子形成双键构成羧基单元；这就是丁酸喵。在四碳链的另一端 Rγ 位置，GHB 被一个羟基取代了呢。
 
-## 药理学 <span id="Pharmacology"></span>
+GHB 天然存在于人类中枢神经系统，也存在于葡萄酒、牛肉、某些柑橘类水果以及几乎所有动物体内（虽然含量很少）哦。
 
-GHB 在中枢神经系统中至少有两个独特的结合位点。[\[9\]](#cite_note-9) GHB 是新表征的 GHB 受体的[激动剂](/文档/受体激动剂.md)，该受体具有兴奋性。[\[10\]](#cite_note-10)[\[11\]](#cite_note-Maitre2005-11) 它也是 [GABA](/文档/科学信息索引页.md)<sub>B</sub> 受体的弱[激动剂](/文档/受体激动剂.md)，该受体具有抑制性。[\[11\]](#cite_note-Maitre2005-11)
+药理学
+------------
 
-然而，在治疗剂量下，GHB 在大脑中达到更高的浓度并激活 [GABA](/文档/科学信息索引页.md)<sub>B</sub> 受体，这主要负责其镇静作用。[\[12\]](#cite_note-Dimitrijevic2005-12) GHB 的镇静作用会被 GABA<sub>B</sub> [拮抗剂](/文档/受体拮抗剂.md)阻断。由于 [GABA](/文档/科学信息索引页.md) 系统是大脑中最多产的抑制性受体组，其调节导致了 GHB 对神经系统的[镇静](/药效/镇静.md)（或[抗焦虑](/药效/认知效应.md)）作用。虽然对 GHB 受体的研究有限，但有证据表明在某些大脑区域激活 GHB 受体会导致[谷氨酸](/文档/科学信息索引页.md)（主要的兴奋性神经递质）的释放。[\[13\]](#cite_note-Castelli2003-13) 选择性激活 GHB 受体的药物在高剂量下会引起失神发作，GHB 和 [GABA](/文档/科学信息索引页.md)<sub>B</sub> 激动剂也是如此。[\[13\]](#cite_note-Castelli2003-13)
+GHB 在中枢神经系统中至少有两个不同的结合位点喵。它是新发现的 GHB 受体的[受体激动剂](/文档/受体激动剂.md)，该受体具有兴奋作用。它也是 [GABA](/文档/GABA.md)<sub>B</sub> 受体的弱[受体激动剂](/文档/受体激动剂.md)，而该受体具有抑制作用呢。
 
-GHB 受体和 [GABA](/文档/科学信息索引页.md)<sub>B</sub> 受体的激活共同导致了 GHB 的成瘾性特征。GHB 对[多巴胺](/文档/多巴胺.md)释放的影响是双相的。[\[12\]](#cite_note-Dimitrijevic2005-12) 这意味着，虽然低浓度通过 GHB 受体刺激[多巴胺](/文档/多巴胺.md)释放，[\[14\]](#cite_note-14) 但较高浓度通过 [GABA](/文档/科学信息索引页.md)<sub>B</sub> 受体抑制[多巴胺](/文档/多巴胺.md)释放。[\[15\]](#cite_note-15) 在初始抑制阶段之后，[多巴胺](/文档/多巴胺.md)释放随即通过 GHB 受体增加。
+然而，在治疗剂量下，GHB 在脑内的浓度会高得多，并激活 [GABA](/文档/GABA.md)<sub>B</sub> 受体，这正是其镇静效果的主要来源哦。GHB 的镇静作用可以被 GABA<sub>B</sub> [受体拮抗剂](/文档/受体拮抗剂.md)阻断。由于 GABA 系统是脑内最丰富的抑制性受体集，对其的调节会导致 GHB 对神经系统产生[镇静](/药效/镇静.md)（或[焦虑抑制](/药效/焦虑抑制.md)）的效果喵。虽然对 GHB 受体的研究还很有限，但有证据表明，某些脑区的 GHB 受体激活会导致[谷氨酸](/文档/谷氨酸.md)（主要兴奋性神经递质）的释放呢。选择性激活 GHB 受体的药物在高剂量下会引起失神发作，GHB 和 GABA<sub>B</sub> 激动剂也是如此喵。
 
-GHB 诱导色氨酸衍生物或[色氨酸](/文档/科学信息索引页.md)本身的积累，可能是通过增加色氨酸穿过血脑屏障的转运来实现的。GHB 诱导的刺激可能归因于色氨酸向大脑转运及其被血清素能细胞摄取的增加。由于[血清素能](/文档/血清素.md)系统可能涉及睡眠、情绪和焦虑的调节，高剂量 GHB 对该系统的刺激可能涉及 GHB 给药引起某些神经药理学事件。
+GHB 受体和 GABA<sub>B</sub> 的同时激活是 GHB 具有成瘾性的原因。GHB 对[多巴胺](/文档/多巴胺.md)释放的影响是双相的：这意味着低浓度时通过 GHB 受体刺激[多巴胺](/文档/多巴胺.md)释放，而高浓度时则通过 GABA<sub>B</sub> 受体抑制[多巴胺](/文档/多巴胺.md)释放呢。在初始的抑制阶段后，多巴胺释放会再次通过 GHB 受体增加喵。
 
-这些发现可能解释了 GHB 镇静和兴奋特性的矛盾混合，以及使用 GHB 作为助眠剂的人报告的所谓“反弹”效应，即他们在数小时的 GHB 诱导的深度睡眠后突然醒来。随着时间的推移，系统中的 GHB 浓度降低到显著激活 [GABA](/文档/科学信息索引页.md)<sub>B</sub> 受体的阈值以下，并主要激活 GHB 受体，从而导致清醒。
+GHB 还会诱导色氨酸或其衍生物的积累，可能是通过增加色氨酸跨血脑屏障的转运实现的。GHB 引起的这种刺激作用可能与色氨酸向大脑转运的增加以及血清素能细胞对其摄取的增加有关。由于[血清素](/文档/血清素.md)系统可能参与睡眠、情绪和焦虑的调节，高剂量 GHB 对该系统的刺激可能参与了某些神经药理学事件哦。
 
-## 主观效应 <span id="Subjective_effects"></span>
+这些发现或许可以解释 GHB 这种矛盾的镇静与刺激并存的特性，以及所谓的“反弹”效应——即使用 GHB 助眠的人在几小时的深度睡眠后会突然醒来。随着时间的推移，体内的 GHB 浓度降至激活 GABA<sub>B</sub> 受体的阈值以下，主要激活 GHB 受体，从而导致清醒喵。
 
-***免责声明：** 下列效应引用自 [***主观效应索引***](/文档/科学信息索引页.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](https://psychonautwiki.org) 贡献者个人分析的开放研究文献。因此，应以健康的怀疑态度看待这些内容。*
+主观效应
+------------------
 
-*同样值得注意的是，这些效应并不一定会以可预测或可靠的方式发生，尽管高剂量更可能诱发全方位的效应。同样，**不良反应**随着剂量的增加而变得越来越可能，并且可能包括**成瘾、严重伤害或死亡** ☠。*
+***免责声明：** 下面列出的效应引用了[***主观效应索引***](/药效/主观效应索引.md) (**SEI**)。这些效应不一定会以可预测或可靠的方式出现。此外，高剂量更有可能诱发全谱效应，同时**不良反应**的可能性也会增加，可能包括**成瘾、严重伤害或死亡** ☠。*
 
-### **躯体效应** ![Child.png](/文件/Child.png)
+### **躯体效应**
 
-*   **[刺激](/药效/刺激.md)** & **[镇静](/药效/镇静.md)** - 在较低剂量下，GHB 具有躯体兴奋性，鼓励运动和清醒。然而，在较高剂量下，它会产生躯体镇静作用，导致睡眠和嗜睡。
-*   **[呼吸抑制](/药效/呼吸抑制.md)** - 在 GHB 过量的情况下，许多人报告经历异常的呼吸模式，特征是呼吸逐渐加深，有时加快，然后逐渐减慢，导致呼吸暂时停止，称为呼吸暂停。
-*   **[肌肉松弛](/药效/肌肉松弛.md)** - GHB 引起深刻的肌肉松弛，类似于但比[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)和[酒精](./酒精.md)产生的松弛更强烈。这种肌肉松弛伴随着运动控制的普遍丧失，这可能会增加使用者身体受伤的风险。
-*   **[脱水](/药效/脱水.md)**
-*   **[头晕](/药效/头晕.md)** - 头晕是 GHB 的常见副作用，可在正常娱乐剂量下发生。使用者也可能突然感到头晕或晕厥，并有强烈的躺下冲动。俗称“天旋地转（the spins）”。
-*   **[运动控制丧失](/药效/运动控制丧失.md)**
-*   **[恶心](/药效/恶心.md)**
-*   **[流涎增加](/药效/流涎增加.md)** - 流涎增加非常常见。
-*   **[胃痉挛](/药效/胃痉挛.md)**
-*   **[肌肉痉挛](/药效/肌肉痉挛.md)**
-*   **[眼球滑动](/药效/眼球滑动.md)**
-*   **[瞳孔扩大](/药效/瞳孔扩大.md)**
-*   **[血管扩张](/药效/血管扩张.md)**
-*   **[头痛](/药效/头痛.md)**
-*   **[癫痫发作](/药效/癫痫发作.md)** - 极高剂量的 GHB 始终会导致抽搐。
-*   **[性高潮抑制](/药效/性高潮抑制.md)** - 可能在高剂量或多次重复给药时发生。
+* **[刺激](/药效/刺激.md)** 与 **[镇静](/药效/镇静.md)** - 在低剂量时，GHB 具有躯体刺激性，能促进运动和清醒。但在高剂量下，它会变得具有躯体镇静性，诱导睡眠和嗜睡呢。
+* **[呼吸抑制](/药效/呼吸抑制.md)** - 在过量的情况下，据报道会出现异常的呼吸模式，表现为呼吸逐渐加深、有时变快，随后逐渐减弱，导致呼吸暂时停止（呼吸暂停）喵。
+* **[肌肉松弛](/药效/肌肉松弛.md)** - GHB 会诱发深刻的肌肉松弛，类似于但比[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)和[酒精](/药物/酒精.md)产生的效果更强烈。这种肌肉松弛伴随着运动控制的普遍丧失，可能增加受伤风险哦。
+* **[脱水](/药效/脱水.md)**
+* **[头晕](/药效/头晕.md)** - 头晕是常见的副作用，即使是正常的娱乐剂量也可能发生。使用者可能会突然感到头晕目眩或晕厥，并有强烈的躺下冲动，也就是俗称的“天旋地转”喵。
+* **[运动控制丧失](/药效/运动控制丧失.md)**
+* **[恶心](/药效/恶心.md)**
+* **[唾液分泌增加](/药效/唾液分泌增加.md)** - 非常常见呢。
+* **[胃痉挛](/药效/胃痉挛.md)** 与 **[肌肉痉挛](/药效/肌肉痉挛.md)**
+* **[眼球滑动](/药效/眼球滑动.md)**
+* **[瞳孔扩大](/药效/瞳孔扩大.md)**
+* **[血管扩张](/药效/血管扩张.md)**
+* **[头痛](/药效/头痛.md)**
+* **[癫痫发作](/药效/癫痫发作.md)** - 极高剂量的 GHB 经常会引起抽搐喵。
+* **[性高潮抑制](/药效/性高潮抑制.md)** - 可能发生在高剂量或多次补量时。
 
-### **视觉效应** ![Eye](/文件/Eye.png)
+### **视觉效应**
 
-*   **[视觉锐度抑制](/药效/视觉锐度抑制.md)**
-*   **[残影](/药效/残影.md)**
-*   **[透视扭曲](/药效/视觉扭曲.md)**
-*   **[深度感知扭曲](/药效/深度感知扭曲.md)**
-*   **[景色切片](/药效/视觉效应.md)**
+* **[视觉锐度抑制](/药效/视觉锐度抑制.md)**
+* **[残影](/药效/残影.md)**
+* **[视角幻觉](/药效/视角幻觉.md)**
+* **[深度感知扭曲](/药效/深度感知扭曲.md)**
+* **[环境切片](/药效/环境切片.md)**
 
-### **认知效应** ![User.png](/文件/User.png)
+### **认知效应**
 
-*   **[嗜睡](/药效/镇静.md)** & **[清醒](/药效/刺激.md)** - 在极低剂量下，GHB 会让人感到疲倦，而中等剂量主要促进清醒。高剂量会导致极度嗜睡的感觉。
-*   **[分析抑制](/药效/认知效应.md)**
-*   **[焦虑抑制](/药效/认知效应.md)**
-*   **[认知欣快](/药效/认知效应.md)** - GHB 产生强烈的欣快状态，可与[可卡因](./可卡因.md)、[MDMA](./MDMA.md)和[阿片类药物](/文档/药物分类/阿片类药物.md)相媲美。因为这个原因，它有时被称为“液体摇头丸”。它通常被描述为酒精的更欣快和更去抑制的版本。虽然这可能是准确的，但也更容易过量。
-*   **[强迫性补量](/药效/认知效应.md)** - 由于其持续时间短和反弹焦虑，这种情况比较普遍。
-*   **[创造力增强](/药效/认知效应.md)** - 创造力增强在低至中等剂量下最为明显。
-*   **[去抑制](/药效/认知效应.md)** - GHB 的社交和行为去抑制极其强大，或许是其最显著的特征。使用者更容易表现出决策能力受损，并从事危险活动，如无保护性行为或不安全的物质联用。建议使用者仅在安全的环境中，与他们信任且不会利用其脆弱状态的人一起使用 GHB。
-*   **[梦境增强](/文档/药物分类/促梦剂.md)** - GHB 对梦境的回忆和生动性有非常显著的影响。相反，停药可能会导致噩梦。此外，GBL 中毒可能导致人看到自己的梦境显现，类似于[清醒诱导清明梦](/文档/药物分类/促梦剂.md)（WILD）以及清醒和做梦并存的状态。
-*   **[共情、情感和社交能力增强](/药效/认知效应.md)** - GHB 表现出强烈的[共情剂](/文档/药物分类/共情剂.md)效应，虽然比[MDMA](./MDMA.md)弱，但仍然显著且定义明确。
-*   **[沉浸感增强](/药效/认知效应.md)**
-*   **[性欲增强](/药效/性欲增强.md)** - 据报道，GBL 产生的性欲增加少于 GHB。
-*   **[音乐欣赏增强](/药效/听觉效应.md)**
-*   **[内省](/药效/认知效应.md)**
-*   **[回春感](/药效/认知效应.md)**
-*   **[易感性增强](/药效/认知效应.md)**
-*   **[记忆抑制](/药效/认知效应.md)**
-    *   **[健忘](/药效/认知效应.md)**
-*   **[动机增强](/药效/动机增强.md)** & **[动力抑制](/药效/认知效应.md)** - 与其他并存效应一样，中等剂量可导致动力增强，而高剂量通常导致嗜睡。
-*   **[空间迷失](/药效/认知效应.md)** - 在黑暗区域非常常见。
-*   **[思维加速](/药效/认知效应.md)** 或 **[思维减速](/药效/认知效应.md)** - 低至中等剂量主要是刺激性的，让人发现自己不断产生想法。
+* **[困倦](/药效/困倦.md)** 与 **[清醒度](/药效/清醒度.md)** - 极低剂量可能让人疲倦，而中等剂量主要促进清醒。高剂量则会导致极端困倦喵。
+* **[分析能力抑制](/药效/分析能力抑制.md)**
+* **[焦虑抑制](/药效/焦虑抑制.md)**
+* **[认知欣快](/药效/认知欣快.md)** - GHB 会产生强烈的欣快状态，可与[可卡因](/药物/可卡因.md)、[MDMA](/药物/MDMA.md)和[阿片类药物](/文档/药物分类/阿片类药物.md)相媲美。因此它有时被称为“液体迷幻剂”。它通常被描述为更欣快、更去抑制的酒精版本，但也更容易过量呢喵。
+* **[强迫性补量](/药效/强迫性补量.md)** - 由于其持续时间短和反弹焦虑，这种情况比较普遍哦。
+* **[创造力增强](/药效/创造力增强.md)** - 在低到中等剂量时最明显。
+* **[去抑制](/药效/去抑制.md)** - 社会和行为上的去抑制非常强大，是其最显著的特征。使用者更容易做出错误的决策，并参与危险活动。建议只在安全的环境中与信任的人一起使用喵。
+* **[梦境强化](/药效/梦境强化.md)** - GHB 对梦境的回忆和生动程度有显著影响。反之，停药可能导致噩梦呢。
+* **[共情、情感和社交能力增强](/药效/共情、情感和社交能力增强.md)** - GHB 具有很强的共情作用，虽然比 [MDMA](/药物/MDMA.md) 弱一些，但依然很明显哦。
+* **[沉浸感强化](/药效/沉浸感强化.md)**
+* **[性欲增强](/药效/性欲增强.md)**
+* **[音乐欣赏能力增强](/药效/音乐欣赏能力增强.md)**
+* **[内省增强](/药效/内省增强.md)**
+* **[返老还童感](/药效/返老还童感.md)**
+* **[暗示性强化](/药效/暗示性强化.md)**
+* **[记忆抑制](/药效/记忆抑制.md)** 与 **[失忆](/药效/失忆.md)**
+* **[动机增强](/药效/动机增强.md)** 与 **[动力抑制](/药效/动力抑制.md)**
+* **[空间定向障碍](/药效/空间定向障碍.md)**
+* **[思维加速](/药效/思维加速.md)** 或 **[思维减速](/药效/思维减速.md)** - 低到中等剂量主要是刺激性的，会不断产生想法喵。
 
-### **听觉效应** ![Volume-up.png](/文件/Volume-up.png)
+### **听觉效应**
 
-*   **[耳鸣](https://en.wikipedia.org/wiki/Tinnitus)**
-*   **[听觉扭曲](/药效/听觉效应.md)**
+* **耳鸣**
+* **[听觉扭曲](/药效/听觉扭曲.md)**
 
-### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects_(3).png)
+### **药效残余**
 
-*   **[反弹焦虑](/药效/认知效应.md)** - 反弹焦虑是像 GHB 这样的[抗焦虑](/药效/认知效应.md)物质常见的效应。这加上 GHB 作用时间短，可能导致强迫性补量。
+* **反弹[焦虑](/药效/焦虑.md)** - 这是像 GHB 这种[焦虑抑制](/药效/焦虑抑制.md)物质常见的效应。结合其短效性，可能导致强迫性补量呢。
 
-### 体验报告 <span id="Experience_reports"></span>
+### 体验报告
 
-目前我们的[体验索引](/文档/科学信息索引页.md)中没有描述该化合物效应的轶事报告。其他的体验报告可以在这里找到：
+目前我们的[复现索引](/文档/复现索引.md)中还没有关于这种化合物的轶事报告哦。更多的体验报告可以在这里找到：
 
 * [Erowid Experience Vaults: GHB](https://www.erowid.org/experiences/subs/exp_GHB.shtml)
 
-## 毒性与伤害潜力 <span id="Toxicity_and_harm_potential"></span>
+毒性与伤害潜力
+---------------------------
 
-[![](/文件/HarmCausedByDrugsTable.png)](/文件/HarmCausedByDrugsTable.png)
+| | |
+| --- | --- |
+| ![HarmCausedByDrugsTable.png](/文件/HarmCausedByDrugsTable.png) | 2010 年一项对各种药物（合法与非法）的排名研究。GHB 被认为是总体第九大危险药物喵。 |
+| ![Harmchart.png](/文件/Harmchart.png) | 显示 GHB 相对躯体伤害、社会伤害和依赖性的雷达图哦。 |
 
-来自 2010 年 [DrugScience](https://www.drugscience.org.uk/) 研究的表格，根据药物危害专家的陈述对各种药物（合法和非法）进行排名。GHB 被发现是整体危险性第九高的药物。[\[16\]](#cite_note-Nutt_2010-16)
+当负责任地或在医疗用途下使用时，GHB 被认为是安全无毒的。其半数致死量（LD50）远高于活性剂量。然而，作为娱乐药物使用或滥用时，它会变得很危险。有很多关于过量、联用酒精或其他药物导致负面后果的报告呢。
 
-[![](/文件/Harmchart.png)](/文件/Harmchart.png)
+一项研究调查了 226 例归因于 GHB 的死亡：其中 71 例（34%）仅由 GHB 引起，而其他死亡则是由与酒精或其他药物相互作用引起的[呼吸抑制](/药效/呼吸抑制.md)导致的喵。
 
-显示 GHB 相对身体伤害、社会伤害和依赖性的雷达图[\[17\]](#cite_note-17)
+由于储存不当，也发生过误服 GHB 的情况。如果放在透明液体、玻璃杯或瓶子里，很容易被误认为是水。建议给你的 GHB 贴上清晰的标签，并用蓝色食用色素染色，这样它看起来就不再像普通饮料了喵。
 
-当负责任地或在医疗上使用时，GHB 被认为是安全且无毒的物质。[半数致死量（LD50）](/文档/给药剂量.md)高于活性剂量，没有急性毒性的危险。然而，当作为娱乐性药物使用或滥用时，它可能会变得危险。有许多来自娱乐使用者的负面报告，他们经历了药物过量、将 GHB 与酒精或其他药物混合使用，或意外地意外服用了剂量。[\[18\]](#cite_note-18)
+GHB 还具有腐蚀性，建议用非酒精液体以至少 1:100ml 的比例稀释，否则可能导致口腔和肠道灼伤呢。
 
-一份出版物调查了 226 例归因于 GHB 的死亡。[\[19\]](#cite_note-19) 71 例死亡（34%）由单独使用 GHB 引起，而其他死亡是由与酒精或其他药物相互作用引起的[呼吸抑制](/药效/呼吸抑制.md)。
+强烈建议在使用该物质时采取[伤害减少措施](/文档/负责任的用药索引页.md)喵。
 
-作为能量代谢的内源性调节剂和天然神经递质，GHB 为大脑和器官所熟知，这些器官习惯于其效应并拥有高效的系统来安全代谢它。该物质在 2-4 小时内消除（即恢复到基线水平），即使连续一周每日两次给药也是如此。[\[20\]](#cite_note-20) 在一项欧洲研究中，在几年的定期娱乐性使用后未报告不良反应。[\[21\]](#cite_note-21)
+#### 神经毒性
 
-由于储存方法不当，也发生过意外摄入 GHB 的情况。如果将 GHB 放入透明液体、玻璃杯或瓶子中，很容易被误认为是水。建议用书面形式清楚地标记您的 GHB，并用蓝色食用色素将液体染色，使其不再像可饮用的饮料。还建议将您的 GHB 存放在没有人会饮用的容器中。
+2022 年的一项系统评价建议，中度或临床使用可能导致急性认知障碍，但这些影响似乎是暂时的。然而，长期重度使用 GHB，特别是伴随 GHB 引起的昏迷，似乎会导致长期认知障碍，并且很可能具有神经毒性哦。
 
-GHB 还具有腐蚀性，建议用非酒精液体以至少 1:100ml 的比例稀释，如果不这样做，可能会导致肠道和口腔灼伤。[\[1\]](https://sidekicks.berlin/en/ghb-gbl/#beratung)
+在多项研究中，发现长期给大鼠服用 GHB 会损害其空间记忆、工作记忆和学习能力。这些效应与大脑皮层及其他区域的 [NMDA 受体](/文档/受体.md)表达减少有关呢。
 
-强烈建议在使用此物质时采取[伤害减少措施](/文档/负责任的用药索引页.md)。
+### 药物过量
 
-### 神经毒性 <span id="Neurotoxicity"></span>
+为了避免可能的过量，从低剂量开始并缓慢增加非常重要。虽然常见的娱乐剂量是 3g，但 5g 到 10g 就会导致抽搐、意识丧失和呕吐。超过 10g 则有死亡风险。由于非法市场上 GHB 的纯度难以确定，即使是经验丰富的使用者也很难准确给药喵。
 
-2022 年的一项综述[\[22\]](#cite_note-22)比较了 43 项关于 GHB 诱导的人类和动物认知障碍的研究。分析表明，适度或临床使用可能导致急性认知障碍。低至 10mg/kg 的剂量后，工作记忆、短期记忆受损，认知任务表现受损，但这些影响似乎是暂时的。相反，一项研究发现，20mg/kg 的剂量改善了社交和非社交认知，但不影响基础认知功能，如视觉或语言记忆回忆。然而，长期大量使用 GHB，特别是如果伴有 GHB 诱导的昏迷，似乎会导致长期的认知障碍，并且可能具有神经毒性。
+### 耐受性与成瘾潜力
 
-在多项研究中，发现长期给药 GHB 会损害大鼠的空间记忆、工作记忆、学习和记忆。[\[23\]](#cite_note-23)[\[24\]](#cite_note-24)[\[25\]](#cite_note-25)[\[26\]](#cite_note-26) 这些影响与大脑皮层及可能其他区域的 [NMDA 受体](/文档/受体激动剂.md)表达减少有关。[\[27\]](#cite_note-27)
+| | |
+| --- | --- |
+| ![GHBwithdrawal2.png](/文件/GHBwithdrawal2.png) | 该表比较了 GHB、[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)和[酒精](/药物/酒精.md)的戒断症状喵。 |
 
-一项研究发现，对大鼠重复给予 GHB 15 天，海马体和前额叶皮层内的神经元和非神经元细胞数量急剧减少。剂量为 10 mg/kg GHB 时，海马区域减少了 61%，前额叶皮层减少了 32%，而在 100 mg/kg 时，分别减少了 38% 和 9%。该论文展示了关于神经元丢失的矛盾效应，较低剂量（10 mg/kg）产生最大的神经毒性，而较高剂量（100 mg/kg）产生的神经毒性较小。
+GHB 具有中等到高度的身体成瘾性和中等程度的心理成瘾性。频繁使用会导致类似于[酒精](/药物/酒精.md)和[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)的[药物戒断反应](/文档/药物戒断反应.md)哦。轻度使用者常感到焦虑、失眠和震颤，而重度使用则可能导致谵妄、精神病和幻觉等严重症状喵。
 
-### 药物过量 <span id="Overdose"></span>
+连续使用几天内就会对镇静催眠效果产生耐受性。停药后，耐受性会在 7 到 14 天内恢复到基线。突然停用可能会产生戒断症状，可能需要逐渐减量以减少神经毒性呢。
 
-为了避免 GHB 可能的过量，重要的是从低剂量开始，通过小幅度增加剂量慢慢向上调整。虽然常见的娱乐剂量是 3g，但 5g - 10g 的剂量可能导致抽搐、意识丧失和呕吐。超过 10 克的剂量与死亡风险相关。[\[2\]](#cite_note-ErowidGHBVault-2) 还必须考虑到知道产品纯度的额外困难（除了其他问题，如其吸湿性可能会降低溶液中 GHB 的浓度，这是在非法市场上买卖的常见形式）。这使得即使是经验丰富的使用者也很难正确给药。[\[28\]](#cite_note-28)
+GHB 与 [1,4-丁二醇](/药物/1,4-丁二醇.md) 和 [GBL](/药物/GBL.md) 存在交叉耐受，因为它们是 GHB 的[药物前药](/文档/药物前药.md)。与[酒精](/药物/酒精.md)和巴氯芬也存在交叉耐受喵。
 
-### 耐受性与成瘾潜力 <span id="Tolerance_and_addiction_potential"></span>
+### 危险的药物联用
 
-[![](/文件/GHBwithdrawal2.png)](/文件/GHBwithdrawal2.png)
+**警告：** 许多物质联用时会变得极其危险。请务必自行研究喵！
 
-此表比较了 GHB、[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)和[酒精](./酒精.md)的戒断症状。[\[29\]](#cite_note-GHB-29)
+* **氧化亚氮** - 两者都会增强共济失调和镇静，高剂量可能导致意外意识丧失。如果没处于[恢复体位](/文档/恢复体位.md)，呕吐误吸会有生命危险哦。
+* **苯丙胺类物质** - 兴奋剂会增加呼吸频率，让人误以为可以服用更高剂量的抑制剂。如果兴奋剂先失效，GHB 可能会压垮呼吸系统导致停止喵。
+* **MDMA** - 大量的 GHB/GBL 可能会在药效褪去期掩盖 MDMA 的效果。
+* **可卡因** - 与苯丙胺类似，兴奋剂失效后可能导致呼吸抑制。
+* **氯胺酮** - 两者都会导致共济失调，带来呕吐和意识丧失的风险。如果昏迷时没处于[恢复体位](/文档/恢复体位.md)，会有严重的窒息风险喵。
+* **MXE / 右美沙芬** - 类似氯胺酮，联用风险极难预测呢。
+* **酒精** - 即使极低剂量，这种联用也会迅速导致失忆、严重的共济失调和意识丧失。呕吐误吸风险极高喵！
+* **阿片类药物** - 两者会强烈且不可预测地相互增强，迅速导致意识丧失和呼吸抑制。
+* **苯二氮卓类物质** - 同样会产生强烈的相互增强，非常危险哦！
 
-GHB 具有中度到高度的身体成瘾性和中度的心理成瘾性。如果突然停药，频繁使用 GHB 会引起与其他[抑制剂](/文档/药物分类/抑制剂.md)如[酒精](./酒精.md)和[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)相似的戒断症状。[\[30\]](#cite_note-30)[\[31\]](#cite_note-31) 这些症状似乎取决于剂量和使用药物的时间长度。轻度至中度使用者经常经历焦虑、失眠、睡眠相关问题和震颤，而大量使用会导致严重的戒断症状，如谵妄、精神病和幻觉。[\[32\]](#cite_note-32)[\[29\]](#cite_note-GHB-29)
+法律地位
+------------
 
-当医疗使用 GHB（每天两剂药用剂量，间隔四小时）时，几乎不会产生依赖性，而使用 GHB 越频繁，其导致依赖和戒断症状的可能性呈指数级增加。[\[33\]](#cite_note-33)
+2001 年，GHB 被列入 1971 年联合国精神药物公约附表 IV 进行国际管制喵。
 
-虽然有报道称因 GHB 戒断而死亡，但报告尚无定论，需要进一步研究。[\[34\]](#cite_note-34)
+* **澳大利亚：** GHB、1,4-B 和 GBL 都是 B 类非法药物。
+* **加拿大：** 受《受控药物与物质法》附表 I 管制，销售、持有和生产均属非法喵。
+* **德国：** 属于 BtMG 附表 III 受控物质，只能通过麻醉品处方获取。
+* **英国：** 2003 年 6 月被列为 C 类药物。
+* **美国：** 2000 年 3 月被列入《受控物质法》附表 I。但作为羟基丁酸钠销售时，被视为附表 III 物质，但适用附表 I 的贩运处罚呢喵。
 
-连续使用几天后，对镇静催眠作用的耐受性就会产生。停药后，耐受性在 7 - 14 天内恢复到基线水平。在稳定给药几周或更长时间后突然停止使用可能会出现戒断症状或反弹症状，并且可能需要逐渐减少剂量以尽量减少戒断引起的神经毒性。有人提出 GHB，特别是 GBL 可以导致比长效抑制剂快得多的依赖速度。
+另见
+--------
 
-GHB 与 [1,4-丁二醇](/文档/药物前药.md) 和 [GBL](./GBL.md) 表现出交叉耐受性，因为这些物质充当 GHB 的[前药](/文档/药物前药.md)。在大鼠中已显示与[酒精](./酒精.md)和[巴氯芬](./巴氯芬.md)的交叉耐受性，[\[35\]](#cite_note-35)[\[36\]](#cite_note-36) 并且与其他 GABA<sub>B</sub> 激动剂也可能存在交叉耐受性。
+* [负责任的用药](/文档/负责任的用药索引页.md)
+* [1,4-丁二醇](/药物/1,4-丁二醇.md)
+* [抑制剂](/文档/药物分类/抑制剂.md)
+* [酒精](/药物/酒精.md)
+* [GBL](/药物/GBL.md)
 
-### 危险药物联用 <span id="Dangerous_interactions"></span>
+外部链接
+--------------
 
-***警告：*** *许多精神活性物质单独使用时相对安全，但当与某些其他物质结合使用时，可能会突然变得危险甚至危及生命。以下列表提供了一些已知的危险联用（尽管不保证包括所有联用）。*
-
-*务必进行独立研究（例如 [Google](https://www.google.com)、[DuckDuckGo](https://www.duckduckgo.com)、[PubMed](https://pubmed.ncbi.nlm.nih.gov/)）以确保两种或多种物质的组合可以安全食用。部分列出的联用已从 [TripSit](https://combo.tripsit.me) 引用。*
-
-*   **[氧化亚氮](./氧化亚氮.md)** - 两种物质都会增强另一种物质引起的共济失调和镇静作用，高剂量下可能导致意外的意识丧失。在无意识状态下，如果不置于[恢复体位](/文档/恢复体位.md)，呕吐物吸入是一种风险。记忆断片很可能发生。
-*   **[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)** - 兴奋剂会增加呼吸频率，允许摄入更高剂量的镇静剂。如果兴奋剂先失效，GHB 可能会压倒使用者并导致呼吸停止。
-*   **[MDMA](./MDMA.md)** - 大量的 GHB/GBL 可能会在药效消退期压倒 MDMA 的效果。
-*   **[可卡因](./可卡因.md)** - 兴奋剂会增加呼吸频率，允许摄入更高剂量的镇静剂。如果兴奋剂先失效，GHB 可能会压倒使用者并导致呼吸停止。同样，GHB 也可能失效，留下危险浓度的可卡因。
-*   **[氯胺酮](./氯胺酮.md)** - 两种物质都会引起共济失调，并带来呕吐和意识丧失的风险。如果使用者在受影响时失去知觉，如果不置于[恢复体位](/文档/恢复体位.md)，则存在严重的呕吐物吸入风险。
-*   **MXE** - 两种物质都会引起共济失调，并带来呕吐和意识丧失的风险。如果患者在受影响时失去知觉，如果不置于[恢复体位](/文档/恢复体位.md)，则存在严重的呕吐物吸入风险。
-*   **[右美沙芬](./右美沙芬.md)** - 两种物质都会引起共济失调，并带来呕吐和意识丧失的风险。如果患者在受影响时失去知觉，如果不置于[恢复体位](/文档/恢复体位.md)，则存在严重的呕吐物吸入风险。这种组合很难预测。
-*   **[PCP](./PCP.md)** - 关于这种组合的细节尚不清楚，但 PCP 通常以不可预测的方式相互作用。
-*   **[酒精](./酒精.md)** - 即使在极低剂量下，这种组合也会迅速导致记忆丧失、严重的共济失调和意识丧失。在无意识状态下，呕吐物吸入的风险很高。
-*   **[阿片类药物](/文档/药物分类/阿片类药物.md)** - 这两种物质强烈且不可预测地相互增强，非常迅速地导致意识丧失。在无意识状态下，如果不置于[恢复体位](/文档/恢复体位.md)，呕吐物吸入是一种风险。
-*   **Tramadol** - 这种组合的镇静作用可能导致危险的呼吸抑制。
-*   **[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)** - 这两种物质强烈且不可预测地相互增强，非常迅速地导致意识丧失。在无意识状态下，如果不置于[恢复体位](/文档/恢复体位.md)，呕吐物吸入是一种风险。
-
-## 法律地位 <span id="Legal_status"></span>
-
-2001 年，GHB 被置于国际管制之下，列入 1971 年联合国精神药物公约附表 IV。[\[37\]](#cite_note-37)
-
-*   **奥地利：** 根据 SMG（奥地利麻醉品法），拥有、生产和销售 GHB 是非法的。\[*来源请求*\]
-*   **澳大利亚：** GHB、[1,4-B](/文档/药物前药.md) 和 [GBL](./GBL.md) 均为 B 类非法药物，以及任何可能的酯、醚和醛。\[*来源请求*\]
-*   **智利：** GHB 根据“Ley de substancias psicotropicas y estupefacientes”（精神药物和麻醉品法）被列为受控药物。\[*来源请求*\]
-*   **加拿大：** GHB 受《受控药物和物质法》附表 I 管制。除非被授权用于医疗、科学或工业目的，否则销售、拥有和生产 GHB 等活动均属非法。[\[38\]](#cite_note-38)
-*   **德国：** GHB 是 BtMG 附表 III 下的受控物质。只能通过麻醉品处方开具。注射制剂有一个例外，每单位含有高达 20% 或 2g GHB 的制剂被视为常规药物。[\[39\]](#cite_note-39)
-*   **意大利：** GHB 是“Testo unico sulla droga (D.P.R. 309/90)”的附表 IV 药物（Tabella 4）。当用于医疗用途时，它属于药品 B 部分（Tabella medicinali sezione B）。[\[40\]](#cite_note-40)[\[41\]](#cite_note-41)
-*   **香港：** GHB 受香港第 134 章危险药物条例附表 1 管制。\[*来源请求*\]
-*   **新西兰：** GHB、1,4-B 和 GBL 均为 B 类非法药物，以及任何可能的酯、醚和醛。\[*来源请求*\]
-*   **挪威：** GHB 被视为麻醉品，仅能通过处方以商品名 Xyrem 获得。\[*来源请求*\]
-*   **罗马尼亚**：GHB 被视为附表 I 非法药物。[\[42\]](#cite_note-42)
-*   **瑞士：** GHB 是 Verzeichnis A 下特别指明的受控物质。允许医疗使用。[\[43\]](#cite_note-43)
-*   **英国：** GHB 于 2003 年 6 月被列为 C 类药物。\[*来源请求*\]
-*   **美国：** GHB 于 2000 年 3 月被列入《受控物质法》附表 I。然而，当作为羟丁酸钠销售时，它被视为附表 III 物质，但具有附表 I 的贩运处罚。[\[44\]](#cite_note-44) 它是列入多个附表的几种药物之一。
-
-## 另见 <span id="See_also"></span>
-
-*   [负责任的用药](/文档/负责任的用药索引页.md)
-*   [1,4-丁二醇](/文档/药物前药.md)
-*   [抑制剂](/文档/药物分类/抑制剂.md)
-*   [酒精](./酒精.md)
-*   [GBL](./GBL.md)
-
-## 外部链接 <span id="External_links"></span>
-
-*   [GHB (Wikipedia)](http://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid)
-*   [GHB (Erowid Vault)](https://www.erowid.org/chemicals/ghb/ghb.shtml)
-*   [GHB (Isomer Design)](https://isomerdesign.com/PiHKAL/explore.php?id=12265)
-*   [GHB (Drugs-Forum)](https://drugs-forum.com/wiki/GHB)
-
-## 参考文献 <span id="References"></span>
-
-1.  [↑](#cite_ref-tripsit_1-0) [*Risks of Combining Depressants - TripSit*](https://tripsit.me/combining-depressants/)
-2.  ↑ [2.0](#cite_ref-ErowidGHBVault_2-0) [2.1](#cite_ref-ErowidGHBVault_2-1) [2.2](#cite_ref-ErowidGHBVault_2-2) [*Erowid GHB Vault : Dosage*](https://www.erowid.org/chemicals/ghb/ghb_dose.shtml)
-3.  [↑](#cite_ref-3) <http://www.reuters.com/finance/stocks/companyProfile?rpc=66&symbol=JAZZ.O>
-4.  [↑](#cite_ref-4) [*Sodium Oxybate: MedlinePlus Drug Information*](https://medlineplus.gov/druginfo/meds/a605032.html)
-5.  [↑](#cite_ref-5) Kluger, R., Mamelak, M., [*Pharmaceutical composition and treatment of narcolepsy*](https://patents.google.com/patent/US4738985A/en)
-6.  [↑](#cite_ref-6) Gessa, G. L., Fadda, F., Campochiaro, C. M. di, [*Use of gamma-hydroxybutyric acid salts for preparing pharmaceutical compositions for use in the treatment of alcoholism, and the compositions obtained*](https://patents.google.com/patent/US4983632A/en)
-7.  [↑](#cite_ref-7) <https://www.chemspider.com/Chemical-Structure.9984.html>
-8.  [↑](#cite_ref-8) Weil, A., Rosen, W., Weil, A. (1993). *From chocolate to morphine: everything you need to know about mind-altering drugs* (Rev. and updated ed.). Houghton Mifflin. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780395660799](http://en.wikipedia.org/wiki/Special:BookSources/9780395660799 "wikipedia:Special:BookSources/9780395660799").
-9.  [↑](#cite_ref-9) Mamelak, M. (1 December 1989). ["Gammahydroxybutyrate: An endogenous regulator of energy metabolism"](https://www.sciencedirect.com/science/article/pii/S0149763489800533). *Neuroscience & Biobehavioral Reviews*. **13** (4): 187–198. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/S0149-7634(89)80053-3](//doi.org/10.1016%2FS0149-7634%2889%2980053-3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0149-7634](//www.worldcat.org/issn/0149-7634).
-10. [↑](#cite_ref-10) Wu, Y., Ali, S., Ahmadian, G., Liu, C. C., Wang, Y. T., Gibson, K. M., Calver, A. R., Francis, J., Pangalos, M. N., Carter Snead, O. (1 December 2004). ["γ-Hydroxybutyric acid (GHB) and γ-aminobutyric acidB receptor (GABABR) binding sites are distinctive from one another: molecular evidence"](https://www.sciencedirect.com/science/article/pii/S0028390804002527). *Neuropharmacology*. **47** (8): 1146–1156. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.neuropharm.2004.08.019](//doi.org/10.1016%2Fj.neuropharm.2004.08.019). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0028-3908](//www.worldcat.org/issn/0028-3908).
-11. ↑ [11.0](#cite_ref-Maitre2005_11-0) [11.1](#cite_ref-Maitre2005_11-1) Maitre, M., Humbert, J.-P., Kemmel, V., Aunis, D., Andriamampandry, C. (1 March 2005). ["Mécanismes d'action d'un médicament détourné : le γ-hydroxybutyrate"](https://www.medecinesciences.org/articles/medsci/abs/2005/03/medsci2005213p284/medsci2005213p284.html). *médecine/sciences*. **21** (3): 284–289. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1051/medsci/2005213284](//doi.org/10.1051%2Fmedsci%2F2005213284). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0767-0974](//www.worldcat.org/issn/0767-0974).
-12. ↑ [12.0](#cite_ref-Dimitrijevic2005_12-0) [12.1](#cite_ref-Dimitrijevic2005_12-1) Dimitrijevic, N., Dzitoyeva, S., Satta, R., Imbesi, M., Yildiz, S., Manev, H. (20 September 2005). ["Drosophila GABAB receptors are involved in behavioral effects of γ-hydroxybutyric acid (GHB)"](https://www.sciencedirect.com/science/article/pii/S0014299905007442). *European Journal of Pharmacology*. **519** (3): 246–252. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2005.07.016](//doi.org/10.1016%2Fj.ejphar.2005.07.016). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-13. ↑ [13.0](#cite_ref-Castelli2003_13-0) [13.1](#cite_ref-Castelli2003_13-1) Castelli, M. P., Ferraro, L., Mocci, I., Carta, F., Carai, M. A. M., Antonelli, T., Tanganelli, S., Cignarella, G., Gessa, G. L. (19 September 2003). ["Selective γ-hydroxybutyric acid receptor ligands increase extracellular glutamate in the hippocampus, but fail to activate G protein and to produce the sedative/hypnotic effect of γ-hydroxybutyric acid: γ-Hydroxybutyric analogues on glutamate levels"](http://doi.wiley.com/10.1046/j.1471-4159.2003.02037.x). *Journal of Neurochemistry*. **87** (3): 722–732. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1046/j.1471-4159.2003.02037.x](//doi.org/10.1046%2Fj.1471-4159.2003.02037.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-3042](//www.worldcat.org/issn/0022-3042).
-14. [↑](#cite_ref-14) Maitre, M., Hechler, V., Vayer, P., Gobaille, S., Cash, C. D., Schmitt, M., Bourguignon, J. J. (November 1990). "A specific gamma-hydroxybutyrate receptor ligand possesses both antagonistic and anticonvulsant properties". *The Journal of Pharmacology and Experimental Therapeutics*. **255** (2): 657–663. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-3565](//www.worldcat.org/issn/0022-3565).
-15. [↑](#cite_ref-15) Smolders, I., De Klippel, N., Sarre, S., Ebinger, G., Michotte, Y. (15 September 1995). ["Tonic GABA-ergic modulation of striatal dopamine release studied by in vivo microdialysis in the freely moving rat"](https://www.sciencedirect.com/science/article/pii/001429999500369V). *European Journal of Pharmacology*. **284** (1): 83–91. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/0014-2999(95)00369-V](//doi.org/10.1016%2F0014-2999%2895%2900369-V). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-16. [↑](#cite_ref-Nutt_2010_16-0) Nutt DJ, King LA, Phillips LD (November 2010). "Drug harms in the UK: a multicriteria decision analysis". *Lancet*. **376** (9752): 1558–1565. [CiteSeerX](http://en.wikipedia.org/wiki/CiteSeerX "wikipedia:CiteSeerX") [10.1.1.690.1283](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.1283) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png "Freely accessible"). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/S0140-6736(10)61462-6](//doi.org/10.1016%2FS0140-6736%2810%2961462-6). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [21036393](//www.ncbi.nlm.nih.gov/pubmed/21036393).  Unknown parameter `|s2cid=` ignored ([help](/w/index.php?title=Help:CS1_errors&action=edit&redlink=1 "Help:CS1 errors (page does not exist)"))
-17. [↑](#cite_ref-17) Nutt, D., King, L. A., Saulsbury, W., Blakemore, C. (24 March 2007). ["Development of a rational scale to assess the harm of drugs of potential misuse"](https://www.sciencedirect.com/science/article/pii/S0140673607604644). *The Lancet*. **369** (9566): 1047–1053. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/S0140-6736(07)60464-4](//doi.org/10.1016%2FS0140-6736%2807%2960464-4). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0140-6736](//www.worldcat.org/issn/0140-6736).
-18. [↑](#cite_ref-18) [*GHB - Erowid Exp - “GHB Overdoses & Poisonings”*](https://www.erowid.org/experiences/exp.php?ID=1926)
-19. [↑](#cite_ref-19) Zvosec, D. L., Smith, S. W., Porrata, T., Strobl, A. Q., Dyer, J. E. (March 2011). "Case series of 226 γ-hydroxybutyrate-associated deaths: lethal toxicity and trauma". *The American Journal of Emergency Medicine*. **29** (3): 319–332. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ajem.2009.11.008](//doi.org/10.1016%2Fj.ajem.2009.11.008). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1532-8171](//www.worldcat.org/issn/1532-8171).
-20. [↑](#cite_ref-20) Ferrara, S., Zotti, S., Tedeschi, L., Frison, G., Castagna, F., Gallimberti, L., Gessa, G., Palatini, P. (September 1992). ["Pharmacokinetics of gamma-hydroxybutyric acid in alcohol dependent patients after single and repeated oral doses"](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.1992.tb04129.x). *British Journal of Clinical Pharmacology*. **34** (3): 231–235. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1365-2125.1992.tb04129.x](//doi.org/10.1111%2Fj.1365-2125.1992.tb04129.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0306-5251](//www.worldcat.org/issn/0306-5251).
-21. [↑](#cite_ref-21) Laborit, H. (January 1972). "Correlations between protein and serotonin synthesis during various activities of the central nervous system (slow and desynchronized sleep, learning and memory, sexual activity, morphine tolerance, aggressiveness, and pharmacological action of sodium gamma-hydroxybutyrate)". *Research Communications in Chemical Pathology and Pharmacology*. **3** (1): 51–81. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0034-5164](//www.worldcat.org/issn/0034-5164).
-22. [↑](#cite_ref-22) Amsterdam JV, Brunt TM, Pereira FR, Crunelle CL, Brink WVD. [Cognitive Impairment Following Clinical or Recreational Use of Gammahydroxybutyric Acid (GHB): A Systematic Review.](https://web.archive.org/web/20230313103920/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9878963/) Curr Neuropharmacol. 2022;20(4):809-819.
-23. [↑](#cite_ref-23) Sircar, R., Basak, A. (1 December 2004). ["Adolescent γ-hydroxybutyric acid exposure decreases cortical N-methyl-d-aspartate receptor and impairs spatial learning"](https://www.sciencedirect.com/science/article/pii/S009130570400320X). *Pharmacology Biochemistry and Behavior*. **79** (4): 701–708. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.pbb.2004.09.022](//doi.org/10.1016%2Fj.pbb.2004.09.022). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0091-3057](//www.worldcat.org/issn/0091-3057).
-24. [↑](#cite_ref-24) García, F. B., Pedraza, C., Arias, J. L., Navarro, J. F. (August 2006). "[Effects of subchronic administration of gammahydroxybutyrate (GHB) on spatial working memory in rats]". *Psicothema*. **18** (3): 519–524. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0214-9915](//www.worldcat.org/issn/0214-9915).
-25. [↑](#cite_ref-25) Sircar, R., Basak, A., Sircar, D. (October 2008). ["γ-Hydroxybutyric Acid-Induced Cognitive Deficits in the Female Adolescent Rat"](http://doi.wiley.com/10.1196/annals.1432.044). *Annals of the New York Academy of Sciences*. **1139** (1): 386–389. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1196/annals.1432.044](//doi.org/10.1196%2Fannals.1432.044). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0077-8923](//www.worldcat.org/issn/0077-8923).
-26. [↑](#cite_ref-26) Pedraza, C., García, F. B., Navarro, J. F. (October 2009). ["Neurotoxic effects induced by gammahydroxybutyric acid (GHB) in male rats"](https://academic.oup.com/ijnp/article-lookup/doi/10.1017/S1461145709000157). *The International Journal of Neuropsychopharmacology*. **12** (09): 1165. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1017/S1461145709000157](//doi.org/10.1017%2FS1461145709000157). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1461-1457](//www.worldcat.org/issn/1461-1457).
-27. [↑](#cite_ref-27) Sircar, R., Basak, A. (December 2004). "Adolescent gamma-hydroxybutyric acid exposure decreases cortical N-methyl-D-aspartate receptor and impairs spatial learning". *Pharmacology, Biochemistry, and Behavior*. **79** (4): 701–708. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.pbb.2004.09.022](//doi.org/10.1016%2Fj.pbb.2004.09.022). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0091-3057](//www.worldcat.org/issn/0091-3057).
-28. [↑](#cite_ref-28) <https://www.erowid.org/chemicals/ghb/ghb_health.shtml>
-29. ↑ [29.0](#cite_ref-GHB_29-0) [29.1](#cite_ref-GHB_29-1) GHB Withdrawal Syndrome | Texas Commission on Alcohol and Drug Abuse | <https://www.erowid.org/chemicals/ghb/ghb_addiction2.pdf>
-30. [↑](#cite_ref-30) Kim, S. Y., Barker, J. C., Anderson, I. B., Dyer, J. E., Earnest, G., Blanc, P. D. (2008). ["Systematic Assessment of Gamma Hydroxybutyrate (GHB) Effects During and After Acute Intoxication"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759403/). *The American journal on addictions / American Academy of Psychiatrists in Alcoholism and Addictions*. **17** (4): 312–318. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1080/10550490802138988](//doi.org/10.1080%2F10550490802138988). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1055-0496](//www.worldcat.org/issn/1055-0496).
-31. [↑](#cite_ref-31) Carter, L. P., Pardi, D., Gorsline, J., Griffiths, R. R. (1 September 2009). ["Illicit gamma-hydroxybutyrate (GHB) and pharmaceutical sodium oxybate (Xyrem®): differences in characteristics and misuse"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2713368/). *Drug and alcohol dependence*. **104** (1–2): 1–10. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.drugalcdep.2009.04.012](//doi.org/10.1016%2Fj.drugalcdep.2009.04.012). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0376-8716](//www.worldcat.org/issn/0376-8716).
-32. [↑](#cite_ref-32) Dyer, J. E., Roth, B., Hyma, B. A. (February 2001). "Gamma-hydroxybutyrate withdrawal syndrome". *Annals of Emergency Medicine*. **37** (2): 147–153. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1067/mem.2001.112985](//doi.org/10.1067%2Fmem.2001.112985). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0196-0644](//www.worldcat.org/issn/0196-0644).
-33. [↑](#cite_ref-33) <https://drugs-forum.com/threads/important-ghb-gbl-addiction-withdrawal.43390/page-4>
-34. [↑](#cite_ref-34) Galloway, G. P., Frederick, S. L., Staggers, F. E., Gonzales, M., Stalcup, S. A., Smith, D. E. (January 1997). ["Gamma-hydroxybutyrate: an emerging drug of abuse that causes physical dependence"](https://onlinelibrary.wiley.com/doi/10.1111/j.1360-0443.1997.tb03640.x). *Addiction*. **92** (1): 89–96. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1360-0443.1997.tb03640.x](//doi.org/10.1111%2Fj.1360-0443.1997.tb03640.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0965-2140](//www.worldcat.org/issn/0965-2140).
-35. [↑](#cite_ref-35) Colombo, G., Agabio, R., Lobina, C., Reali, R., Fadda, F., Gessa, G. L. (6 February 1995). ["Cross-tolerance to ethanol and γ-hydroxybutyric acid"](https://www.sciencedirect.com/science/article/pii/0014299994006873). *European Journal of Pharmacology*. **273** (3): 235–238. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/0014-2999(94)00687-3](//doi.org/10.1016%2F0014-2999%2894%2900687-3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-36. [↑](#cite_ref-36) Smith, M. A., Gergans, S. R., Lyle, M. A. (15 December 2006). ["The motor-impairing effects of GABAA and GABAB agonists in γ-hydroxybutyrate (GHB)-treated rats: Cross-tolerance to baclofen but not flunitrazepam"](https://www.sciencedirect.com/science/article/pii/S0014299906009964). *European Journal of Pharmacology*. **552** (1): 83–89. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2006.08.080](//doi.org/10.1016%2Fj.ejphar.2006.08.080). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-37. [↑](#cite_ref-37) ["Control measures"](https://www.emcdda.europa.eu/html.cfm/index16783EN.html). European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). Retrieved October 20, 2020.
-38. [↑](#cite_ref-38) Canada, H. (2012), [*GHB*](https://www.canada.ca/en/health-canada/services/substance-use/controlled-illegal-drugs/ghb.html)
-39. [↑](#cite_ref-39) [*Anlage III BtMG - Einzelnorm*](http://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html)
-40. [↑](#cite_ref-40) Tabella IV Sostanze stupefacenti <http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_3_file.pdf>
-41. [↑](#cite_ref-41) Tabella Medicinali D.P.R. 309/90 <http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_4_file.xls>
-42. [↑](#cite_ref-42) <https://legislatie.just.ro/Public/DetaliiDocument/23629>
-43. [↑](#cite_ref-43) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-44. [↑](#cite_ref-44) [*Laws*](http://web.archive.org/web/20100116121252/http://www.projectghb.org/laws.htm), 2010
+* [GHB (Wikipedia)](http://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid)
+* [GHB (Erowid Vault)](https://www.erowid.org/chemicals/ghb/ghb.shtml)
+* [GHB (Isomer Design)](https://isomerdesign.com/PiHKAL/explore.php?id=12265)
