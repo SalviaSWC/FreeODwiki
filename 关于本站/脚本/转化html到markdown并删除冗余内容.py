@@ -29,18 +29,29 @@ def process_html():
             cleaned_text = match.group(1).rstrip()
         else:
             cleaned_text = markdown_text.rstrip()
+
+        pattern = "\s.+!\[\]\(images/tihkal_header\.gif\)"
+        final_text = re.sub(pattern, 
+                            "",
+                            cleaned_text, 
+                            flags=re.IGNORECASE | re.DOTALL)
         
-        # # 第二步：处理 Psychoactive substances 部分
-        # # 匹配从 ### Psychoactive substances 开始，直到下一个 ### 或文件末尾
-        # pattern_psych = r'(###\s*Psychoactive substances\b[\s\S]*?)(?=###|\Z)'
+        pattern = ".+3D \.mol .+"
+        final_text = re.sub(pattern, 
+                            "",
+                            final_text, 
+                            flags=re.IGNORECASE)
         
-        # final_text = re.sub(
-        #     pattern_psych,
-        #     "<!-- 请勿删除或修改，这是一个标记，待识别并填坑（药效索引） -->\n\n",
-        #     cleaned_text,
-        #     flags=re.IGNORECASE | re.DOTALL
-        # )
-        final_text = cleaned_text
+        pattern = "---\n"
+        final_text = re.sub(pattern, 
+                            "",
+                            final_text, 
+                            flags=re.IGNORECASE)
+        
+        pattern = "\n.+Back.+Main Index"
+        match = re.split(pattern, final_text, flags=re.IGNORECASE)
+        final_text = match[0]
+
         # # 清空并写入处理后的结果
         text_widget.delete("1.0", "end")
         text_widget.insert("1.0", final_text.rstrip())  # 最后再去掉多余空行
