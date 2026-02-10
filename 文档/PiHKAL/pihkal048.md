@@ -1,10 +1,10 @@
 # 48.[2C-T-17](/药物/2C-T-17.md)
 
-[上一个](/文档/PiHKAL/PiHKAL047.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL049.md)
+[上一个](/文档/PiHKAL/pihkal047.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal049.md)
 
 **NIMITZ; 2,5-二甲氧基-4-仲丁基硫代苯乙胺**
 
-| ![](/文档/PiHKAL/PiHKAL48.gif) |
+| ![](/文档/PiHKAL/pihkal48.gif) |
 | --- |
 
 **合成：** 将 2.6 g 氢氧化钾（KOH）颗粒溶解于 50 mL 热甲醇（MeOH）中，加入 6.8 g 2,5-二甲氧基苯硫酚（其制备方法见 2C-T-2）和 5.8 g 仲丁基溴的混合物。反应放热，并析出白色固体。在蒸汽浴上加热几小时，真空除去溶剂，将得到的固体溶于 250 mL 水中。加入额外的氢氧化钠水溶液，使广泛 pH 试纸呈全蓝色。用 3x40 mL 二氯甲烷（CH2Cl2）萃取，合并萃取液，真空除去溶剂。残留物为 2,5-二甲氧基苯基仲丁基硫醚，为淡黄色油状物，重 10.12 g。其纯度足以直接用于下一步反应而无需蒸馏。
@@ -37,4 +37,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/PiHKAL047.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL049.md)
+[上一个](/文档/PiHKAL/pihkal047.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal049.md)

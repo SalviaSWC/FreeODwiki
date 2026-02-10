@@ -1,12 +1,12 @@
 # 54 [2,5\-DMA](/药物/2,5-DMA.md)
 
-[上一个](/文档/PiHKAL/PiHKAL053.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL055.md)
+[上一个](/文档/PiHKAL/pihkal053.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal055.md)
 
 ----------
 **DMA; 2,5\-DIMETHOXYAMPHETAMINE**
 **DMA; 2,5\-二甲氧基苯丙胺**
 
-| ![](/文档/PiHKAL/PiHKAL54.gif) |
+| ![](/文档/PiHKAL/pihkal54.gif) |
 | --- |
 
 **合成：** 将 10\.0 g 2,5\-二甲氧基苯甲醛溶于 50 mL 冰醋酸中，加入 6\.8 g 硝基乙烷和 4\.0 g 无水乙酸铵。该混合物在蒸汽浴上加热 3 小时，然后真空除去试剂/溶剂。残留物悬浮在 H2O 中并用 CHCl3 萃取。从合并的萃取液中除去溶剂，得到 11\.2 g 不纯的 1\-(2,5\-二甲氧基苯基)\-2\-硝基丙烯，从 75 mL 沸腾的 MeOH 中重结晶后，得到 6\.7 g 产物，熔点为 73\-75 °C。分析 (C11H13NO4) C,H,N。这种硝基苯乙烯已定期从许多来源商业化获得。
@@ -33,4 +33,4 @@
 
 所有这些后来的材料在人体中均未得到评估。
 
-[上一个](/文档/PiHKAL/PiHKAL053.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL055.md)
+[上一个](/文档/PiHKAL/pihkal053.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal055.md)

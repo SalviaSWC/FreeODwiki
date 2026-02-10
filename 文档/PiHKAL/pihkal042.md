@@ -1,9 +1,9 @@
 # 42 [psi-2C-T-4](/药物/psi-2C-T-4.md)
-[上一个](/文档/PiHKAL/PiHKAL041.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL043.md)
+[上一个](/文档/PiHKAL/pihkal041.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal043.md)
 
 **2,6-二甲氧基-4-(i)-丙基硫基苯乙胺 (2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE)**
 
-| ![](/文档/PiHKAL/PiHKAL42.gif) |
+| ![](/文档/PiHKAL/pihkal42.gif) |
 | --- |
 
 [Erowid 注：Gamma 与 Psi 希腊字母：PiHKAL 的原始数字转录包含一个贯穿始终的错误，即大写希腊字母 Psi 被转录为“Gamma”。希望我们现在已经解决了这些问题。]
@@ -33,4 +33,4 @@
 
 这还还不仅如此。回想一下六种可能的 TMA。TMA 和 TMA-3 相对不活跃。TMA-2 和 TMA-6 是有趣的。前者引发了过去二十年的迷幻化学，而后者（如上推测）将引发未来的十年。但是 TMA-4 和 TMA-5 呢？两者都显示出比 TMA 强但不如 -2 或 -6 异构体的活性。它们有一天会引发其他迷幻药家族吗？也许这两个异构体的 3 位可能是心理活动的杠杆支点。希腊字母表中 y 后面的字母是什么？如果我没记错的话，下一个字母是最后一个字母，omega。所以，我想大自然是在试图告诉我们什么，即 -4 和 -5 异构体不会产生有趣的家族。真遗憾。化学合成难以想象地困难，这将是一个真正的挑战。也许我的下一次投胎？
 
-[上一个](/文档/PiHKAL/PiHKAL041.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL043.md)
+[上一个](/文档/PiHKAL/pihkal041.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal043.md)

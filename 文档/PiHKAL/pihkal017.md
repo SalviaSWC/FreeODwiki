@@ -1,11 +1,11 @@
-[上一个](/文档/PiHKAL/PiHKAL016.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL018.md)
+[上一个](/文档/PiHKAL/pihkal016.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal018.md)
 
 # 17. BOM
 
 **beta-METHOXYMESCALINE; 3,4,5,beta-TETRAMETHOXYPHENETHYLAMINE**
 **β-甲氧基麦司卡林；3,4,5,β-四甲氧基苯乙胺**
 
-| ![](/文档/PiHKAL/PiHKAL17.gif) |
+| ![](/文档/PiHKAL/pihkal17.gif) |
 | --- |
 
 **合成：** 向剧烈搅拌的9.0克β-硝基-3,4,5-三甲氧基苯乙烯（该中间体制备见M的配方）在50毫升无水甲醇中的悬浮液中，加入由2.0克金属钠加入50毫升无水甲醇中获得的溶液。随着硝基苯乙烯溶解，明亮的橙色褪去变成浅奶油色。3分钟后加入30毫升乙酸，产生白色固体，随后用150毫升水进一步稀释。过滤除去形成的固体，用水充分洗涤，并从150毫升沸腾的甲醇中重结晶。过滤除去产物并风干至恒重后，得到6.9克1-甲氧基-2-硝基-1-(3,4,5-三甲氧基苯基)乙烷，为细小的奶油色晶体。熔点为143-144°C，TLC（硅胶板和二氯甲烷作为流动相）的Rf值与起始醛相同。分析 (C12H17NO6) C,H。
@@ -20,4 +20,4 @@
 
 同样，化合物的名称（BOM）来自该家族的RBO-S前缀（来自benzyl + oxy），加上麦司卡林的RMS（它提供了环取代模式）。
 
-[上一个](/文档/PiHKAL/PiHKAL016.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL018.md)
+[上一个](/文档/PiHKAL/pihkal016.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal018.md)

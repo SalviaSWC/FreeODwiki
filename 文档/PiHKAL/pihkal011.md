@@ -1,10 +1,10 @@
 # 11. [BEATRICE](/药物/BEATRICE.md)
 
-[上一个](/文档/PiHKAL/PiHKAL010.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL012.md)
+[上一个](/文档/PiHKAL/pihkal010.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal012.md)
 
 **N-甲基-DOM；2,5-二甲氧基-4,N-二甲基苯丙胺**
 
-| ![](/文档/PiHKAL/PiHKAL11.gif) |
+| ![](/文档/PiHKAL/pihkal11.gif) |
 | --- |
 
 **合成：** 取5.0 g白色结晶状游离碱2,5-二甲氧基-4-甲基苯丙胺（DOM）的熔融样品，用10 mL甲酸乙酯处理，并在蒸汽浴上保持回流数小时。除去溶剂后得到5.5 g白色固体，可用15 mL甲醇（MeOH）重结晶，得到3.8 g 2,5-二甲氧基-N-甲酰基-4-甲基苯丙胺的细微白色结晶。从甲酸乙酯中得到的分析样品呈颗粒状白色结晶。
@@ -25,4 +25,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/PiHKAL010.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL012.md)
+[上一个](/文档/PiHKAL/pihkal010.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal012.md)

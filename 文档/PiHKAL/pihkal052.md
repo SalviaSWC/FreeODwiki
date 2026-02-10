@@ -1,11 +1,11 @@
 # 52 [DESOXY](/药物/DESOXY.md)
-[上一个](/文档/PiHKAL/PiHKAL051.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL053.md)
+[上一个](/文档/PiHKAL/pihkal051.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal053.md)
 
 --------
 **3,5\-DIMETHOXY\-4\-METHYLPHENETHYLAMINE**
 **3,5\-二甲氧基\-4\-甲基苯乙胺**
 
-| ![](/文档/PiHKAL/PiHKAL52.gif) |
+| ![](/文档/PiHKAL/pihkal52.gif) |
 | --- |
 
 **合成：** 向搅拌良好的 31 g 2,6\-二甲氧基甲苯溶于 200 mL CH2Cl2 的溶液中，分批加入 11 mL 元素溴。有大量的 HBr 放出，颜色逐渐从深红色褪为稻草色。将反应混合物倒入 500 mL H2O 中，分离有机层，先用稀 NaOH 洗涤，最后用稀盐酸洗涤。真空除去溶剂，残留物在 0\.4 mm/Hg 下于 85\-90 °C 蒸馏，得到 44 g 3\-溴\-2,6\-二甲氧基甲苯，为白色油状物。
@@ -36,4 +36,4 @@
 
 用溴原子代替 4\-甲氧基的麦司卡林类似物正是麦司卡林的类似物，就像 DOB (一种非常有效的苯丙胺) 是 TMA\-2 (最初的三取代苯丙胺) 的类似物一样。这种类似物，3,5\-二甲氧基\-4\-溴苯丙胺，已被发现是一种最有效的血清素激动剂，它有可能成为一种最有效的苯乙胺。但是，截至目前，它从未在人体中进行过测定。
 
-[上一个](/文档/PiHKAL/PiHKAL051.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL053.md)
+[上一个](/文档/PiHKAL/pihkal051.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal053.md)

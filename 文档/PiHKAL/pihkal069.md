@@ -1,11 +1,11 @@
 
 
 # 69.[psi-DOM](/药物/psi-DOM.md)
-[上一个](/文档/PiHKAL/PiHKAL068.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL070.md)
+[上一个](/文档/PiHKAL/pihkal068.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal070.md)
 
 **Z-7; 2,6-二甲氧基-4-甲基苯丙胺**
 
-| ![](/文档/PiHKAL/PiHKAL69.gif) |
+| ![](/文档/PiHKAL/pihkal69.gif) |
 | --- |
 
 [Erowid 注：Gamma 与 Psi 希腊字母：PiHKAL 的原始数字转录包含一个贯穿始终的错误，即大写希腊字母 Psi 被转录为 "Gamma"。希望我们现在已经解决了这些问题。]
@@ -39,4 +39,4 @@ Z-7.2 可能是一种有趣的化合物。但在当时（1977 年初），学术
 
 ---
 
-[上一个](/文档/PiHKAL/PiHKAL068.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL070.md)
+[上一个](/文档/PiHKAL/pihkal068.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal070.md)

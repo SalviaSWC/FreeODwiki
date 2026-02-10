@@ -1,12 +1,12 @@
 
-[上一个](/文档/PiHKAL/PiHKAL078.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL080.md)
+[上一个](/文档/PiHKAL/pihkal078.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal080.md)
 
 # 79 F-2
 
 **2-M; 6-(2-AMINOPROPYL)-5-METHOXY-2-METHYL-2,3-DIHYDROBENZOFURAN**
 **(2-M; 6-(2-氨基丙基)-5-甲氧基-2-甲基-2,3-二氢苯并呋喃)**
 
-| ![](/文档/PiHKAL/PiHKAL79.gif) |
+| ![](/文档/PiHKAL/pihkal79.gif) |
 | --- |
 
 **合成：** 向 43.2 g 片状氢氧化钾溶于 250 mL 沸腾乙醇的溶液中加入 96 g 4-甲氧基苯酚，随后缓慢加入 131.2 g 烯丙基溴，混合物在回流条件下保持 16 小时。冷却后，将反应物加入 1.6 L 水中，并用 25% 氢氧化钠强碱化。用 3x100 mL 二氯甲烷提取，合并提取液，先用稀氢氧化钠洗涤一次，再用稀盐酸洗涤一次。真空除去溶剂得到 93.8 g 4-烯丙氧基苯甲醚，为淡琥珀色油状物，无需进一步纯化即可用于后续反应。
@@ -37,4 +37,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/PiHKAL078.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL080.md)
+[上一个](/文档/PiHKAL/pihkal078.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal080.md)
