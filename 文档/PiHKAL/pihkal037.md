@@ -1,9 +1,9 @@
 # 37 [CPM](/药物/CPM.md)
-[上一个](/文档/pihkal/pihkal036.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/pihkal/pihkal038.md)
+[上一个](/文档/PiHKAL/PiHKAL036.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL038.md)
 
 **环丙基麦司卡林；4-环丙基甲氧基-3,5-二甲氧基苯乙胺 (CYCLOPROPYLMESCALINE; 4-CYCLOPROPYLMETHOXY-3,5-DIMETHOXYPHENETHYLAMINE)**
 
-| ![](/文档/PiHKAL/pihkal37.gif) |
+| ![](/文档/PiHKAL/PiHKAL37.gif) |
 | --- |
 
 **合成：** 向 2.8 g 高丁香腈（homosyringonitrile，合成见 E 下）溶于 20 ml 丙酮的溶液中（含约 50 mg 癸基三乙基碘化铵），加入 3.0 g 环丙基甲基氯和 5.0 g 碘化钠（NaI）。搅拌持续进行，颜色从淡黄色变为蓝色。然后加入 2.9 g 细粉状无水碳酸钾（K2CO3），产生美丽的绿松石色。混合物在蒸汽浴上回流 3 小时，颜色消失。真空除去溶剂，将残留物加入 100 mL 水中。该溶液用 3x75 mL 二氯甲烷提取，合并提取液，用 2x50 mL 5% 氢氧化钠洗涤，真空除去有机溶剂。残留油状物重 4.2 g，在 0.4 mm/Hg 下于 140-155 °C 蒸馏，得到 4-环丙基甲氧基-3,5-二甲氧基苯乙腈，为无色油状物，重 2.8 g，自发结晶。经甲醇/水重结晶后，其熔点为 44-44.5 °C。分析 (C14H17NO3) C,H。
@@ -28,4 +28,4 @@
 
 CPM 的安非他命类似物应该很容易通过丁香醛与环丙基氯的烷基化，随后将所得醛与硝基乙烷进行常规反应，最后进行还原步骤制得。没有理由相信所得化合物 3,5-二甲氧基-4-环丙基氧基安非他命（3C-CPM）的药效时长会比 CPM 短。
 
-[上一个](/文档/pihkal/pihkal036.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/pihkal/pihkal038.md)
+[上一个](/文档/PiHKAL/PiHKAL036.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL038.md)

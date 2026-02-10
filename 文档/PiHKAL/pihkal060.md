@@ -1,9 +1,9 @@
-[上一个](/文档/pihkal/pihkal059.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/pihkal/pihkal061.md)
+[上一个](/文档/PiHKAL/PiHKAL059.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL061.md)
 
 # 60.[DMPEA](/药物/DMPEA.md)
 **3,4-二甲氧基苯乙胺**
 
-| ![](/文档/PiHKAL/pihkal60.gif) |
+| ![](/文档/PiHKAL/PiHKAL60.gif) |
 | --- |
 
 **合成：** 将33 g 3,4-二甲氧基苯甲醛溶解于140 mL乙酸中，加入23 mL硝基甲烷和12.5 g无水乙酸铵，并在蒸汽浴上加热45分钟。在充分搅拌下，向其中缓慢加入300 mL水，过滤除去产生的固体。产物在少量甲醇下研磨得很细，再次过滤，并风干，得到13.5 g的3,4-二甲氧基-$\beta$-硝基苯乙烯，熔点为142-143 °C。
@@ -46,4 +46,4 @@ DMPEA的一种化学修饰物已经在粉红斑点、精神病理学和诊断标
 
 ---
 
-[上一个](/文档/pihkal/pihkal059.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/pihkal/pihkal061.md)
+[上一个](/文档/PiHKAL/PiHKAL059.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/PiHKAL061.md)
