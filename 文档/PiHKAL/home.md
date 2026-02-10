@@ -1,5 +1,8 @@
 [返回](/文档/home.md)
 
+|![](/文档/PiHKAL/pihkal.jpg) | 我见识过和爱过的[苯乙胺类物质们](/文档/药物分类/苯乙胺类物质.md)：一个化学爱情故事 亚历山大·舒尔金与安·舒尔金 著|
+| -- | -- |
+
 > **phen\-ethyl\-amine** \\fen\-'eth\-al\-a\-,men\\ 名词 \[*phenyl* 源自法语 phène, 源自希腊语 phainein, 显示 (因其出现在照明气体中)\+ ethyl ( \+ *yl*) \+ amine 源自新拉丁语 ammonia\] 1: 一种在动物界和植物界均天然存在的化合物。它是人脑的一种内源性成分。 2: 任何含苯乙胺骨架，并在分子适当位置由化学成分修饰的一系列化合物。
 
 ### 版权声明
@@ -200,4 +203,4 @@
 - 177 [4\-TSB](/文档/PiHKAL/pihkal177.md) 3,5\-二乙氧基\-4\-甲硫基苯乙胺
 - 178 [3\-T\-TRIS](/文档/PiHKAL/pihkal178.md) 4,5\-二乙氧基\-3\-乙硫基苯乙胺
 - 179 [4\-T\-TRIS](/文档/PiHKAL/pihkal179.md) 3,5\-二乙氧基\-4\-乙硫基苯乙胺
-- [附录 B: 术语表](/文档/PiHKAL/pihkal_glossary_appendix_b.md)
+- [附录 B: 术语表](/文档/PiHKAL/pihkal_glossary.md)
