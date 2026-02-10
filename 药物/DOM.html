@@ -1,0 +1,1061 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>DOM - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#dom" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              DOM
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E6%95%88/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        历史与文化
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        化学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        药理学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        主观效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="主观效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        躯体效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="视觉效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        增强
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        扭曲
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        几何学
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        幻觉状态
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        认知效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        听觉效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        多感官效应 **
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        超个人效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        毒性和危害潜力
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="毒性和危害潜力">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        耐受性和成瘾潜力
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        过量
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_20" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        危险的相互作用
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_21" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        法律地位
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_22" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_23" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="外部链接">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_24" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        讨论
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_25" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考资料
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="/FreeODwiki/药物/home.html">◀返回</a></p>
+<h1 id="dom">DOM</h1>
+<table>
+<thead>
+<tr>
+<th>DOM</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/DOM.png"><img alt="DOM.png" src="/FreeODwiki/文件/DOM.png" /></a></td>
+<td></td>
+</tr>
+<tr>
+<td>化学命名</td>
+<td></td>
+</tr>
+<tr>
+<td>常用名</td>
+<td><em>DOM, STP (Serenity, Tranquility, and Peace)</em></td>
+</tr>
+<tr>
+<td>取代名称</td>
+<td><em>2,5-二甲氧基-4-甲基苯丙胺</em></td>
+</tr>
+<tr>
+<td>系统命名</td>
+<td><em>1-(2,5-二甲氧基-4-甲基苯基)-2-氨基丙烷</em></td>
+</tr>
+<tr>
+<td>类别成员</td>
+<td></td>
+</tr>
+<tr>
+<td>精神活性类别</td>
+<td><em><a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a></em></td>
+</tr>
+<tr>
+<td>化学类别</td>
+<td><em><a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">苯丙胺类物质</a></em></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药途径.html">给药途径</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>警告：</strong> 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始。<a href="#毒性和危害潜力">见伤害减少措施章节</a>。</td>
+<td>⇣ <a href="/FreeODwiki/文档/给药途径.html#口服">口服</a></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药剂量.html">剂量</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#阈值">阈值</a></td>
+<td>0.5 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#轻微">轻微</a></td>
+<td>1 - 3 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#中等">中等</a></td>
+<td>3 - 5 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#强烈">强烈</a></td>
+<td>5 - 10 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#严重">严重</a></td>
+<td>10 mg +</td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/药效时长.html">时长</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#总时长">总时长</a></td>
+<td>12 - 16 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#药效发作">药效发作</a></td>
+<td>1 - 2 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#药效上升">药效上升</a></td>
+<td>2 - 3 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#药效达峰">药效达峰</a></td>
+<td>6 - 8 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#药效褪去">药效褪去</a></td>
+<td>3 - 5 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#药效残余">药效残余</a></td>
+<td>4 - 16 小时</td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/免责声明.html">免责声明</a>：</strong> 本站的<a href="/FreeODwiki/文档/给药剂量.html">剂量</a>信息汇编自用户报告和<a href="/FreeODwiki/文档/网络.html">资源</a>，仅供教育目的。它不是建议，应与其他来源核实以确保准确性。</td>
+<td></td>
+</tr>
+<tr>
+<td><strong><a href="#危险的相互作用">相互作用</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="./曲马多.html">曲马多</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="./锂.html">锂</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>2,5-二甲氧基-4-甲基苯丙胺</strong>（也称为 <strong>DOM</strong>、<strong>STP</strong> 或 <strong>"Serenity, Tranquility and Peace"</strong>[宁静、安宁与和平]）是一种较少人知晓的<a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">苯丙胺</a>类<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>。DOM 是 <a href="/FreeODwiki/文档/药物分类/2,5-二甲氧基苯丙胺类物质.html">DOx</a> 系列化合物的一员，该系列以其高效力、长持续时间和混合了<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>与<a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋</a>效应而闻名。它通过作用于大脑中的<a href="/FreeODwiki/文档/血清素.html">血清素</a>受体产生效应。</p>
+<p>DOM 最初由<a href="/FreeODwiki/文档/人物/亚历山大·舒尔金.html">亚历山大·舒尔金</a>于 1963 年合成并测试。<a href="#cite_note-DOM-1">[1]</a> 它在 1967 年夏天以 "STP"（"Serenity, Tranquility, and Peace"）的名字获得了一定的流行度，<a href="#cite_note-2">[2]</a> 但由于其副作用，其使用很短暂。1991 年，DOM 的合成和药理学发表在舒尔金的书 <em><a href="/FreeODwiki/文档/书籍/PiHKAL.html">PiHKAL</a></em>（"我所知和所爱的苯乙胺"）中。<a href="#cite_note-PiHKAL-3">[3]</a></p>
+<p>多年来，DOM 因其高度的剂量敏感性而闻名，通常以吸墨纸的形式出售，并以其强烈的视觉效果、身体负荷以及中性、分析性的思维状态而著称。许多报告还表明，对于那些还没有迷幻药经验的人来说，这种化学物质的效应可能过于难以驾驭。</p>
+<h2 id="_1">目录</h2>
+<ul>
+<li><a href="#历史与文化">1 历史与文化</a></li>
+<li><a href="#化学">2 化学</a></li>
+<li><a href="#药理学">3 药理学</a></li>
+<li><a href="#主观效应">4 主观效应</a><ul>
+<li><a href="#躯体效应">4.1 <strong>躯体效应</strong></a></li>
+<li><a href="#视觉效应">4.2 <strong>视觉效应</strong></a><ul>
+<li><a href="#增强">4.2.1 增强</a></li>
+<li><a href="#扭曲">4.2.2 扭曲</a></li>
+<li><a href="#几何学">4.2.3 几何学</a></li>
+<li><a href="#幻觉状态">4.2.4 幻觉状态</a></li>
+</ul>
+</li>
+<li><a href="#认知效应">4.3 <strong>认知效应</strong></a></li>
+<li><a href="#听觉效应">4.4 <strong>听觉效应</strong></a></li>
+<li><a href="#多感官效应">4.5 <strong>多感官效应</strong></a></li>
+<li><a href="#超个人效应">4.6 <strong>超个人效应</strong></a></li>
+<li><a href="#体验报告">4.7 体验报告</a></li>
+</ul>
+</li>
+<li><a href="#毒性和危害潜力">5 毒性和危害潜力</a><ul>
+<li><a href="#耐受性和成瘾潜力">5.1 耐受性和成瘾潜力</a></li>
+<li><a href="#过量">5.2 过量</a></li>
+<li><a href="#危险的相互作用">5.3 危险的相互作用</a></li>
+</ul>
+</li>
+<li><a href="#法律地位">6 法律地位</a></li>
+<li><a href="#另见">7 另见</a></li>
+<li><a href="#外部链接">8 外部链接</a><ul>
+<li><a href="#讨论">8.1 讨论</a></li>
+</ul>
+</li>
+<li><a href="#参考资料">9 参考资料</a></li>
+</ul>
+<h2 id="_2">历史与文化</h2>
+<p>DOM 最初由亚历山大·舒尔金于 1963 年合成并测试，当时他正在研究 4 位取代对迷幻苯丙胺的影响。<a href="#cite_note-DOM-1">[1]</a> DOM 是所谓的“神奇半打”（magical half-dozen）的一部分，这是指舒尔金自我评价中最重要的苯乙胺化合物，除了<a href="./麦斯卡林.html">麦斯卡林</a>外，所有这些化合物都是他自己开发和合成的。它们可以在 <a href="/FreeODwiki/文档/书籍/PiHKAL.html">PiHKAL</a> 的第一本书中找到，分别是：<a href="./麦斯卡林.html">麦斯卡林</a>、DOM、<a href="./2C-B.html">2C-B</a>、<a href="./2C-E.html">2C-E</a>、<a href="./2C-T-2.html">2C-T-2</a> 和 <a href="./2C-T-7.html">2C-T-7</a>。</p>
+<p>1967 年年中，含有 20 毫克（后来是 10 毫克）DOM 的片剂以 "STP"（"Serenity, Tranquility, and Peace" 的缩写）的名义在旧金山的海特-阿什伯里区广泛分发。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>] DOM 在黑市上的这种短暂出现由于几个原因而被证明是灾难性的。首先，这些片剂含有过高剂量的化学物质。这加上 DOM 缓慢的起效时间（这鼓励了一些熟悉起效更快的物质如 LSD 的用户进行补服）及其极长的持续时间，导致许多用户恐慌并将一些人送进了急诊室。其次，由于当时不知道名为 "STP" 的片剂就是 DOM，治疗这种过量服用变得复杂。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</p>
+<h2 id="_3">化学</h2>
+<p>DOM，或 4-甲基-2,5-二甲氧基苯丙胺，是<a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">苯丙胺类物质</a>类的一个分子。苯丙胺是取代苯乙胺，包含一个通过乙基链结合到氨基 (NH2) 的苯环，以及一个结合到 α 碳 Rα 的甲基。DOM 包含连接到苯环 R2 和 R5 碳上的甲氧基官能团 (OCH3) 和连接到 R4 碳上的甲基。DOM 是苯乙胺 <a href="./2C-D.html">2C-D</a> 的苯丙胺类似物。<a href="#cite_note-:0-4">[4]</a><a href="#cite_note-5">[5]</a></p>
+<p>这是苯乙胺家族中最后一批在进行人体研究之前进行了任何动物毒性研究的实验性化合物之一。小鼠的 LD50 为 100 - 125 mg/kg。人类的有效剂量 2 mg（对于 80 kg 的男性）相当于 25 μg/kg。</p>
+<p>与 DOI 一样，DOB 中重原子（溴原子）的存在使得放射性同位素标记的材料成为一种强大的研究工具。<a href="#cite_note-:0-4">[4]</a></p>
+<h2 id="_4">药理学</h2>
+<p>更多信息：<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">血清素能迷幻剂</a></p>
+<p>DOM 是 <a href="/FreeODwiki/文档/血清素.html#5-HT系统">5-HT2 受体</a>家族的选择性<a href="/FreeODwiki/文档/受体激动剂.html">部分激动剂</a>。其迷幻效应由其在 5-HT2A 和 5-HT2B 受体上的<a href="/FreeODwiki/文档/受体激动剂.html">激动</a>特性介导，但在 5-HT2C 受体上较少。由于其选择性，DOM 经常在科学研究中用于研究 <a href="/FreeODwiki/文档/血清素.html#5-HT系统">5-HT2 受体</a>亚家族。DOM 是一个<a href="/FreeODwiki/文档/化学/手性.html">手性</a>分子，<em>R</em>-(-)-DOM 是更活跃的<a href="/FreeODwiki/文档/化学/对映异构体.html">对映异构体</a>，作为血清素受体家族（主要是 5-HT2 亚型）的强效激动剂发挥作用。<a href="#cite_note-6">[6]</a> 然而，这些相互作用的作用以及它们如何导致迷幻体验仍然难以捉摸。</p>
+<p>DOM 的 2,6-二甲氧基位置异构体，称为 Ψ-DOM，在 <em>PiHKAL</em> 中也被提及为具有活性，其 α-乙基同系物 Ariadne 也是如此。作为识别 DOM 在 5-HT2A 受体上的结合模式的努力的一部分，芳香环 2,5- 位上的甲氧基被改变的类似物也已被合成和测试。2- 和 5- O-去甲基衍生物 2-DM-DOM 和 5-DM-DOM，以及 2- 和 5- 乙基类似物 2-Et-DOM 和 5-Et-DOM 都已被测试，但在所有情况下，其效力都明显低于相应的甲氧基化合物，表明氧孤对电子在 5-HT2A 结合中的重要性。<a href="#cite_note-7">[7]</a></p>
+<p>有强烈的暗示表明肺部发生了一些代谢转化，只有在此之后，真正的活性代谢物才能用于中枢作用。这与相对缓慢的起效和非常长的作用持续时间相一致。<a href="#cite_note-:0-4">[4]</a></p>
+<h2 id="_5">主观效应</h2>
+<p>用户报告表明，与 <a href="./DOC.html">DOC</a> 或 <a href="./DOB.html">DOB</a> 相比，DOM 相对头脑清晰且没有副作用。<strong><em>免责声明：</em>* 下列效应引用自 <a href="/FreeODwiki/文档/科学信息索引页.html"><strong><em>主观效应索引</em></strong></a> (</strong>SEI*<em>)，这是一个基于轶事用户报告和 <a href="/FreeODwiki/关于本站/关于FreeODwiki.html">PsychonautWiki</a> 贡献者个人分析的开放研究文献。因此，应以健康的怀疑态度看待这些内容。</em></p>
+<p><em>同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能诱发全方位的效应。</em>同样，<strong>不良反应</strong>随着剂量的增加变得越来越可能，可能包括 <strong>成瘾、严重伤害或死亡</strong> ☠。</p>
+<h3 id="_6"><strong><a href="/FreeODwiki/药效/躯体效应.html">躯体效应</a></strong> <img alt="Child.png" src="/FreeODwiki/文件/Child.png" /></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/刺激.html">刺激</a></strong> - 就其对用户身体能量水平的影响而言，DOM 通常被认为在不至于压倒性的水平上具有轻微的刺激性，鼓励用户四处走动、奔跑、跳舞、攀爬并进行一般的身体活动。相比之下，它比 <a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a> 等迷幻药更具刺激性，但比 <a href="/FreeODwiki/文档/药物分类/2,5-二甲氧基苯丙胺类物质.html">DOx</a> 家族的大多数化合物刺激性小。</li>
+<li><strong><a href="/FreeODwiki/药效/自发躯体感觉.html">自发躯体感觉</a></strong> - 据报道，与大多数经典<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>相比，DOM 的“身体快感”（body high）较为强烈。然而，与 <a href="./DOC.html">DOC</a> 和 <a href="./2C-E.html">2C-E</a> 压倒性的强力感相比，它可以被认为是相对温和和自然的感觉。这种感觉本身可以描述为一种持续存在但有些温和的充满活力的针刺感，包含一个人的整个身体。这伴随着一种欣快的、快速移动的、尖锐的和特定位置的刺痛感。它通常在皮肤的每一平方英寸上都能感觉到，但偶尔也会表现为一种不断变化的刺痛感，以自发的波浪形式在身体上下游走。</li>
+<li><strong><a href="/FreeODwiki/药效/触觉效应.html">触觉增强</a></strong> - 在大多数 DOM 体验中，增强的触觉感觉在中等水平上持续存在。如果达到 <a href="/FreeODwiki/药效/几何学.html">Level 8A</a> 的视觉效果，就会持续存在一种强烈的感觉，即突然意识到并能够同时感觉到一个人全身的每一个神经末梢。</li>
+<li><strong><a href="/FreeODwiki/药效/躯体控制增强.html">躯体控制增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/躯体压力感.html">躯体压力感</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/心率增快.html">心率增快</a></strong>[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+<li><strong><a href="/FreeODwiki/药效/血压升高.html">血压升高</a></strong>[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+<li><strong><a href="/FreeODwiki/药效/体温调节抑制.html">体温调节抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/体温升高.html">体温升高</a></strong>[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+<li><strong><a href="/FreeODwiki/药效/出汗增加.html">出汗增加</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/肌肉紧张.html">肌肉紧张</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/肌肉痉挛.html">肌肉痉挛</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/肌肉痉挛.html">肌肉痛性痉挛</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/恶心.html">恶心</a></strong> - 轻度到极度的恶心通常在中等到高剂量下报告，并且一旦用户呕吐就会消失，或者随着达到峰值而自行逐渐消退。</li>
+<li><strong><a href="/FreeODwiki/药效/食欲抑制.html">食欲抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/血管收缩.html">血管收缩</a></strong> - 这种效应通常只在较高剂量下出现，但可能特别不舒服且持续存在。</li>
+<li><strong><a href="/FreeODwiki/药效/脱水.html">脱水</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/唾液分泌增加.html">唾液分泌增加</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/瞳孔扩大.html">瞳孔扩大</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/磨牙.html">磨牙</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/腹泻.html">腹泻</a></strong></li>
+</ul>
+<h3 id="_7"><strong><a href="/FreeODwiki/药效/视觉效应.html">视觉效应</a></strong> <img alt="Eye" src="/FreeODwiki/文件/Eye.png" /></h3>
+<ul>
+<li>
+<p>报告描述 DOM 在低到中等剂量下，与其伴随的身体和精神效应相比，视觉效果不太明显。较高的剂量确实倾向于显示一组独特的视觉效果，这是在类似物质中找不到的。</p>
+<h4 id="_8">增强</h4>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/视觉锐度增强.html">视觉锐度增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/颜色增强.html">颜色增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/模式识别增强.html">模式识别增强</a></strong></li>
+</ul>
+<h4 id="_9">扭曲</h4>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/漂移.html">漂移</a></strong> <em>(<a href="/FreeODwiki/药效/漂移.html">融化</a>、<a href="/FreeODwiki/药效/漂移.html">流动</a>、<a href="/FreeODwiki/药效/漂移.html">呼吸</a> 和 <a href="/FreeODwiki/药效/漂移.html">变形</a>)</em> - 与其他迷幻药相比，这种效果可以描述为高度详细、运动缓慢而平滑、外观静态且风格不切实际/卡通化。</li>
+<li><strong><a href="/FreeODwiki/药效/颜色偏移.html">颜色偏移</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/深度感知扭曲.html">深度感知扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/视觉扭曲.html">透视扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/视觉效应.html">对称纹理重复</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/残影.html">残影</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/残影.html">视觉残留</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/亮度改变.html">亮度改变</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/衍射.html">衍射</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/视觉效应.html">风景切片</a></strong></li>
+</ul>
+<h4 id="_10"><a href="/FreeODwiki/药效/几何学.html">几何学</a></h4>
+<p>DOM 的视觉几何被描述为非常独特，可能与 <a href="./2C-D.html">2C-D</a> 有一些相似之处。它可以通过其<a href="/FreeODwiki/药效/几何学.html">变化</a>全面描述为风格复杂，形式上既算法化又抽象，风格上既合成又有机，组织结构化，照明明亮，配色多彩，阴影有光泽，边缘锐利，尺寸大，速度快，运动平滑，圆角和棱角相等，深度非沉浸式且强度一致。较高的剂量比 <a href="/FreeODwiki/药效/几何学.html">Level 8B</a> 更有可能导致 <a href="/FreeODwiki/药效/几何学.html">Level 8A</a> 的视觉几何状态。</p>
+<h4 id="_11">幻觉状态</h4>
+<p>DOM 以比许多其他常用<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>更一致和可再生的方式产生全方位的高级幻觉状态。这些效应包括：</p>
+</li>
+<li>
+<p><strong><a href="/FreeODwiki/药效/视觉效应.html">转化</a></strong></p>
+</li>
+<li><strong><a href="/FreeODwiki/药效/视觉效应.html">内部幻觉</a></strong> (<em><a href="/FreeODwiki/药效/自主实体.html">自主实体</a></em>; <em><a href="/FreeODwiki/药效/视觉效应.html">设定、风景和景观</a></em>; <em><a href="/FreeODwiki/药效/视觉效应.html">透视幻觉</a></em> 和 <em><a href="/FreeODwiki/药效/视觉效应.html">场景与情节</a></em>) - 与 <a href="./LSD.html">LSD</a> 等其他迷幻药相比，当接近较高剂量时，DOM 的内部幻觉非常高。这种特殊的效应通常包含具有场景、设定、概念和自主实体接触的幻觉。它们可以通过其<a href="/FreeODwiki/药效/视觉效应.html">变化</a>全面描述为可信度清晰、风格互动、内容新体验、可控性自主和基于<a href="/FreeODwiki/药效/几何学.html">几何</a>的外观。它们在黑暗环境中更常见，可以描述为表现形式内在、可信度清晰、风格互动，并且在整体主题上几乎完全是个人的、宗教的、精神的、科幻的、幻想的、超现实的、荒谬的或超然的性质。</li>
+</ul>
+<h3 id="_12"><strong><a href="/FreeODwiki/药效/认知效应.html">认知效应</a></strong> <img alt="User.png" src="/FreeODwiki/文件/User.png" /></h3>
+<ul>
+<li>
+<p>许多人将 DOM 的认知效应描述为显著的精神刺激和一个人当前精神状态的强大增强的结合。</p>
+</li>
+<li>
+<p><strong><a href="/FreeODwiki/药效/分析能力增强.html">分析能力增强</a></strong></p>
+</li>
+<li><strong><a href="/FreeODwiki/药效/共情、爱与社交能力增强.html">共情、爱与社交能力增强</a></strong> - 这一部分仅在有人陪伴的社交场合中才会持续表现出来。这些社交、爱和共情的感觉比在 <a href="./MDMA.html">MDMA</a> 和 <a href="./2C-B.html">2C-B</a> 等物质上发现的感觉稍弱且不那么尖锐，但仍然足以提供持久的治疗效果。</li>
+<li><strong><a href="/FreeODwiki/药效/概念性思维.html">概念性思维</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/情绪增强.html">情绪增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/沉浸感增强.html">沉浸感增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/新奇感增强.html">新奇感增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/音乐欣赏能力增强.html">音乐欣赏能力增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/记忆抑制.html">记忆抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/自我死.html">自我死</a></strong> - 虽然 DOM 在技术上能够产生自我消解的状态，但它往往只在极高剂量下才会发展，并伴有严重的身体和精神副作用，通常具有可怕的性质。</li>
+<li><strong><a href="/FreeODwiki/药效/认知效应.html">个人偏见抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/思维加速.html">思维加速</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/认知效应.html">思维连通性</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/时间扭曲.html">时间扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/清醒度.html">清醒</a></strong></li>
+</ul>
+<h3 id="_13"><strong><a href="/FreeODwiki/药效/听觉效应.html">听觉效应</a></strong> <img alt="Volume-up.png" src="/FreeODwiki/文件/Volume-up.png" /></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/听觉增强.html">听觉增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/听觉扭曲.html">听觉扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/听觉幻觉.html">听觉幻觉</a></strong></li>
+</ul>
+<h3 id="_14"><strong><a href="/FreeODwiki/药效/多感官效应.html">多感官效应</a></strong> <img alt="Gears" src="/FreeODwiki/文件/Gears.png" />**</h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/联觉.html">联觉</a></strong> - 在其最充分的表现中，这是一种非常罕见且不可再生的效应。增加剂量可能会增加这种情况发生的可能性，但似乎只是那些已经倾向于联觉状态的人体验中的突出部分。</li>
+</ul>
+<h3 id="_15"><strong><a href="/FreeODwiki/药效/超个人.html">超个人</a>效应</strong></h3>
+<ul>
+<li>
+<p>据报道，DOM 上的超个人状态发生得不如经典迷幻药可靠和一致。这也许可以归因于其突出的身体和刺激效应，这往往会干扰用户完全沉浸在体验中的能力。</p>
+</li>
+<li>
+<p><strong><a href="/FreeODwiki/药效/超个人.html">存在主义自我实现</a></strong></p>
+</li>
+<li><strong><a href="/FreeODwiki/药效/超个人.html">统一和相互联系</a></strong></li>
+</ul>
+<h3 id="_16">体验报告</h3>
+<p>描述该化合物效应的轶事报告在我们的<a href="/FreeODwiki/文档/科学信息索引页.html">体验索引</a>中包括：</p>
+<p>其他体验报告可以在这里找到：</p>
+<ul>
+<li><a href="https://www.erowid.org/experiences/subs/exp_DOM.shtml">Erowid Experience Vaults: DOM</a></li>
+</ul>
+<h2 id="_17">毒性和危害潜力</h2>
+<p>更多信息：<a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品 § 毒性和危害潜力</a>，和 <a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药 § 致幻剂</a></p>
+<p>娱乐性 DOM 使用的毒性和长期健康影响似乎尚未在任何科学背景下进行过研究，确切的毒性剂量未知。</p>
+<p>轶事证据表明，仅以低至中等剂量尝试该物质并非常谨慎地使用（但这不能完全保证），不会产生负面的健康影响。在食用前，应始终进行<a href="https://www.google.com/">独立研究</a>以确保两种或多种物质的组合是安全的。</p>
+<p>强烈建议在使用该物质时采取<a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a>。</p>
+<h3 id="_18">耐受性和成瘾潜力</h3>
+<p>DOM 不会导致习惯形成，使用的欲望会随着使用而减少。它通常是自我调节的。</p>
+<p>对 DOM 效应的耐受性在摄入后几乎立即建立。之后，大约需要 3 天耐受性才会减半，7 天后恢复基线（在没有进一步通过的情况下）。DOM 与所有<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>表现出交叉耐受性，这意味着在食用 DOM 后，所有迷幻剂的效果都会降低。</p>
+<h3 id="_19">过量</h3>
+<p>对于敏感人群，或当 DOx 与其他物质（特别是<a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a>或<a href="/FreeODwiki/文档/单胺氧化酶抑制剂.html">单胺氧化酶抑制剂</a>）混合使用时，在达到或超过严重剂量范围时，存在 DOx 过量的风险。非口服途径似乎也表现出更高的过量机会，这可能是由于生物利用度、效力的差异以及剂量和效应的不可预测性。DOx 过量的影响通常包括怪异、<a href="/FreeODwiki/药效/认知效应.html">妄想</a>和有时暴力的行为、<a href="/FreeODwiki/药效/记忆抑制.html">健忘症</a>、<a href="/FreeODwiki/药效/触觉效应.html">麻木</a>、<a href="/FreeODwiki/药效/认知效应.html">困惑</a>和<a href="/FreeODwiki/药效/焦虑.html">焦虑</a>。用户可能无法交流并且可能会非常激动。在适当的高剂量下，可能会发生更严重的副作用，如<a href="/FreeODwiki/药效/精神病发作.html">精神病</a>、<a href="/FreeODwiki/药效/惊恐发作.html">恐慌发作</a>和<a href="/FreeODwiki/文档/癫痫发作.html">癫痫发作</a>，这反过来又会进一步影响危险的<a href="/FreeODwiki/药效/心率增快.html">心率升高</a>、<a href="/FreeODwiki/药效/血压升高.html">血压</a>和<a href="/FreeODwiki/药效/血管收缩.html">血管收缩</a>。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>] 严重的血管收缩通常在中毒几小时后发展到顶峰，如果血液流动被显著切断很长时间，可能需要医疗援助。</p>
+<p>如果发生过量，可以给予<a href="/FreeODwiki/文档/药物分类/苯二氮卓类物质.html">苯二氮卓类物质</a>或<a href="/FreeODwiki/文档/药物分类/抑制剂.html">抗精神病药</a>以减轻过度激动的效应。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>] 可能还需要给予强效血管扩张剂以防止高血压急症，或在更严重的情况下，防止因缺氧导致的坏死、器官衰竭和死亡。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>] 因此，如果发生 DOx 过量，应始终寻求紧急医疗服务。</p>
+<h3 id="_20">危险的相互作用</h3>
+<p><strong><em>警告：</em></strong> <em>许多本身可以合理安全使用的精神活性物质，在与某些其他物质结合使用时，会突然变得危险甚至危及生命。以下列表提供了一些已知的危险相互作用（尽管不保证包括所有相互作用）。</em></p>
+<p><em>始终进行独立研究（例如 <a href="https://www.google.com">Google</a>、<a href="https://www.duckduckgo.com">DuckDuckGo</a>、<a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a>）以确保两种或多种物质的组合可以安全食用。列出的一些相互作用来源于 <a href="https://combo.tripsit.me">TripSit</a>。</em></p>
+<ul>
+<li><strong><a href="./锂.html">锂</a></strong>：<a href="#cite_note-8">[8]</a> 锂通常用于治疗双相情感障碍；然而，大量的轶事证据表明，将其与迷幻药一起服用会显著增加<a href="/FreeODwiki/药效/精神病发作.html">精神病</a>和<a href="/FreeODwiki/文档/癫痫发作.html">癫痫发作</a>的风险。<a href="#cite_note-9">[9]</a><a href="#cite_note-10">[10]</a><a href="#cite_note-11">[11]</a> 因此，这种组合应<strong>严格避免</strong>。</li>
+<li><strong><a href="./曲马多.html">曲马多</a></strong> - 曲马多降低癫痫发作阈值<a href="#cite_note-12">[12]</a>，而<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>可能作为癫痫发作的触发因素，特别是对于那些有此倾向的人。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+<li><strong><a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a></strong> - 兴奋剂影响大脑的许多部分。与迷幻药结合使用，刺激可能会变成无法控制的<a href="/FreeODwiki/药效/焦虑.html">焦虑</a>、<a href="/FreeODwiki/药效/惊恐发作.html">恐慌</a>、<a href="/FreeODwiki/药效/思维循环.html">思维循环</a>和<a href="/FreeODwiki/药效/妄想.html">偏执</a>。这种相互作用可能会导致精神病风险升高。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+</ul>
+<h2 id="_21">法律地位</h2>
+<p>在国际上，麦斯卡林是 1971 年精神药物公约附表 I 的物质。<a href="#cite_note-13">[13]</a></p>
+<ul>
+<li><strong>澳大利亚</strong>：澳大利亚对所有取代苯乙胺（包括整个 <a href="/FreeODwiki/文档/药物分类/2,5-二甲氧基苯丙胺类物质.html">DOx</a> 家族）实施全面禁令。<a href="#cite_note-14">[14]</a></li>
+<li><strong>奥地利</strong>：根据 SMG (Suchtmittelgesetz Österreich)，拥有、生产和销售 DOM 是非法的。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+<li><strong>巴西</strong>：拥有、生产和销售是非法的，因为它以 "STP" 列在 Portaria SVS/MS nº 344 上。<a href="#cite_note-15">[15]</a></li>
+<li><strong>比利时</strong>：DOM 是一类药物。<a href="#cite_note-16">[16]</a></li>
+<li><strong>加拿大</strong>：DOM 是一类药物。<a href="#cite_note-17">[17]</a></li>
+<li><strong>德国</strong>：截至 1971 年 4 月 15 日，DOM 受 Anlage I BtMG（麻醉品法，附表 I，前称：Opiumgesetz 鸦片法）管制。<a href="#cite_note-18">[18]</a><a href="#cite_note-19">[19]</a> 未经许可制造、拥有、进口、出口、购买、销售、采购或分发它是非法的。<a href="#cite_note-20">[20]</a></li>
+<li><strong>拉脱维亚</strong>：DOM 是附表 I 管制物质。<a href="#cite_note-21">[21]</a></li>
+<li><strong>新西兰</strong>：DOM 是 A 类药物。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+<li><strong>瑞士</strong>：DOM 是 Verzeichnis D 中明确列出的管制物质。<a href="#cite_note-22">[22]</a></li>
+<li><strong>英国</strong>：DOM 是 A 类药物。<a href="#cite_note-23">[23]</a></li>
+<li><strong>美国</strong>：DOM 是附表 I 药物。[<em><a href="/FreeODwiki/文档/来源请求.html">来源请求</a></em>]</li>
+<li><strong>捷克共和国</strong>：DOM 是附表 I 药物。<a href="#cite_note-24">[24]</a></li>
+</ul>
+<h2 id="_22">另见</h2>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/苯乙胺类物质.html">苯乙胺类物质</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/2,5-二甲氧基苯丙胺类物质.html">DOx</a></li>
+<li><a href="./DOC.html">DOC</a></li>
+<li><a href="./DOI.html">DOI</a></li>
+<li><a href="./2C-D.html">2C-D</a></li>
+</ul>
+<h2 id="_23">外部链接</h2>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/2,5-Dimethoxy-4-methylamphetamine">DOM (Wikipedia)</a></li>
+<li><a href="https://www.erowid.org/chemicals/dom/dom.shtml">DOM (Erowid Vault)</a></li>
+<li><a href="https://isomerdesign.com/PiHKAL/read.php?domain=pk&amp;id=68">DOM (PiHKAL / Isomer Design)</a></li>
+</ul>
+<h3 id="_24">讨论</h3>
+<ul>
+<li><a href="http://www.bluelight.org/vb/threads/291980-The-Big-amp-Dandy-DOM-Thread">The Big &amp; Dandy DOM Thread (Bluelight)</a></li>
+</ul>
+<h2 id="_25">参考资料</h2>
+<ol>
+<li>↑ <a href="#cite_ref-DOM_1-0">1.0</a> <a href="#cite_ref-DOM_1-1">1.1</a> <a href="/FreeODwiki/文档/人物/亚历山大·舒尔金.html">Alexander Shulgin</a>; Ann Shulgin (1991). <em><a href="/FreeODwiki/文档/书籍/PiHKAL.html">PiHKAL: A Chemical Love Story</a></em>. United States: Transform Press. pp. 53–56. <a href="http://en.wikipedia.org/wiki/International_Standard_Book_Number" title="wikipedia:International Standard Book Number">ISBN</a> <a href="http://en.wikipedia.org/wiki/Special:BookSources/0963009605" title="wikipedia:Special:BookSources/0963009605">0963009605</a>. <a href="http://en.wikipedia.org/wiki/OCLC" title="wikipedia:OCLC">OCLC</a> <a href="/FreeODwiki//www.worldcat.org/oclc/1166889264">1166889264</a>.</li>
+<li><a href="#cite_ref-2">↑</a> Berkeley, B. (16 April 1967). <a href="http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&amp;d=BFBJFGD19670616.1.3">"STP's faster, here's why"</a>. <em>Independent Voices</em>: 3–5.</li>
+<li><a href="#cite_ref-PiHKAL_3-0">↑</a> <a href="https://www.erowid.org/library/books_online/pihkal/pihkal.shtml"><em>Erowid Online Books : “PIHKAL” - The Chemical Story</em></a></li>
+<li>↑ <a href="#cite_ref-:0_4-0">4.0</a> <a href="#cite_ref-:0_4-1">4.1</a> <a href="#cite_ref-:0_4-2">4.2</a> <a href="http://isomerdesign.com/PiHKAL/read.php?domain=pk&amp;id=62"><em>#62 DOB PiHKAL</em></a></li>
+<li><a href="#cite_ref-5">↑</a> <a href="http://isomerdesign.com/PiHKAL/read.php?domain=pk&amp;id=68"><em>#68 DOM PiHKAL</em></a></li>
+<li><a href="#cite_ref-6">↑</a> Sanders-Bush, E., Burris, K. D., Knoth, K. (September 1988). "Lysergic acid diethylamide and 2,5-dimethoxy-4-methylamphetamine are partial agonists at serotonin receptors linked to phosphoinositide hydrolysis". <em>The Journal of Pharmacology and Experimental Therapeutics</em>. <strong>246</strong> (3): 924–928. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0022-3565">0022-3565</a>.</li>
+<li><a href="#cite_ref-7">↑</a> Eckler, J. R., Chang-Fong, J., Rabin, R. A., Smith, C., Teitler, M., Glennon, R. A., Winter, J. C. (July 2003). <a href="https://linkinghub.elsevier.com/retrieve/pii/S009130570300159X">"Behavioral characterization of 2-O-desmethyl and 5-O-desmethyl metabolites of the phenylethylamine hallucinogen DOM"</a>. <em>Pharmacology Biochemistry and Behavior</em>. <strong>75</strong> (4): 845–852. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2FS0091-3057%2803%2900159-X">10.1016/S0091-3057(03)00159-X</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0091-3057">0091-3057</a>.</li>
+<li><a href="#cite_ref-8">↑</a> Nayak, S., Gukasyan, N., Barrett, F. S., Erowid, E., Erowid, F., Griffiths, R. R. (2021), <a href="https://osf.io/r726d"><em>Classic psychedelic coadministration with lithium, but not lamotrigine, is associated with seizures: an analysis of online psychedelic experience reports</em></a>, PsyArXiv</li>
+<li><a href="#cite_ref-9">↑</a> "wanderlei" (October 3, 2010). <a href="https://erowid.org/experiences/exp.php?ID=83935">"A Nice Little Trip to the Hospital: Lithium &amp; LSD"</a>. <em>Erowid Experience Vaults</em>. Erowid. ExpID: 83935. Retrieved January 7, 2020.</li>
+<li><a href="#cite_ref-10">↑</a> "MissDja1a" (December 16, 2008). <a href="https://erowid.org/experiences/exp.php?ID=75153">"Having a Seizure and Passing Out: Lithium &amp; LSD"</a>. <em>Erowid Experience Vaults</em>. Erowid. ExpID: 75153. Retrieved January 7, 2020.</li>
+<li><a href="#cite_ref-11">↑</a> "throwaway_naut" (2014). <a href="https://www.reddit.com/r/Psychonaut/comments/17uspp/please_read_a_cautionary_tale_concerning_lsd">"Please Read: a cautionary tale concerning LSD"</a>. <em>r/Psychonaut</em>. Reddit. Retrieved January 7, 2020.</li>
+<li><a href="#cite_ref-12">↑</a> Talaie, H., Panahandeh, R., Fayaznouri, M. R., Asadi, Z., Abdollahi, M. (June 2009). <a href="http://link.springer.com/10.1007/BF03161089">"Dose-independent occurrence of seizure with tramadol"</a>. <em>Journal of Medical Toxicology</em>. <strong>5</strong> (2): 63–67. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2FBF03161089">10.1007/BF03161089</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1556-9039">1556-9039</a>.</li>
+<li><a href="#cite_ref-13">↑</a> <a href="http://www.emcdda.europa.eu/system/files/attachments/10451/convention_1971_en.pdf">"CONVENTION ON PSYCHOTROPIC SUBSTANCES 1971"</a> (PDF). United Nations. Retrieved December 10, 2019.</li>
+<li><a href="#cite_ref-14">↑</a> New Psychoactive Substances (National Drug and Alcohol Research Centre 2014) | <a href="https://comorbidity.edu.au/sites/default/files/cre/page/New%20Psychoactive%20Substances.pdf">https://comorbidity.edu.au/sites/default/files/cre/page/New%20Psychoactive%20Substances.pdf</a></li>
+<li><a href="#cite_ref-15">↑</a> <a href="http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7">http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</a></li>
+<li><a href="#cite_ref-16">↑</a> <a href="https://www.wiv-isp.be/epidemio/epien/birn/EWS03.pdf">https://www.wiv-isp.be/epidemio/epien/birn/EWS03.pdf</a></li>
+<li><a href="#cite_ref-17">↑</a> Branch, L. S. (2022), <a href="https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-13.html"><em>Consolidated federal laws of Canada, Controlled Drugs and Substances Act</em></a></li>
+<li><a href="#cite_ref-18">↑</a> <a href="https://www.bgbl.de/xaver/bgbl/start.xav?start=//*%5B@attr_id=%27bgbl171s0315.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl171s0315.pdf%27%5D__1576103284216">"Fünfte Verordnung über die den Betäubungsmitteln gleichgestellten Stoffe"</a> (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.</li>
+<li><a href="#cite_ref-19">↑</a> <a href="https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html">"Anlage I BtMG"</a> (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.</li>
+<li><a href="#cite_ref-20">↑</a> <a href="https://www.gesetze-im-internet.de/btmg_1981/__29.html">"§ 29 BtMG"</a> (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.</li>
+<li><a href="#cite_ref-21">↑</a> <a href="https://likumi.lv/doc.php?id=121086"><em>Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem</em></a></li>
+<li><a href="#cite_ref-22">↑</a> <a href="https://www.admin.ch/opc/de/classified-compilation/20101220/index.html">"Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"</a> (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.</li>
+<li><a href="#cite_ref-23">↑</a> <a href="https://www.legislation.gov.uk/ukpga/1971/38/schedule/2#commentary-M_F_83d9b65b-d638-43b1-ea64-c129d6f1ef0a"><em>Misuse of Drugs Act 1971</em></a></li>
+<li><a href="#cite_ref-24">↑</a> <a href="https://www.zakonyprolidi.cz/cs/2013-463"><em>463/2013 Sb. Nařízení vlády o seznamech návykových látek</em></a></li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,985 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>MDPV - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mdpv" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              MDPV
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E6%95%88/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        化学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        药理学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        主观效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="主观效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        躯体效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        听觉效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        药效残余
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        认知效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        毒性和伤害潜力
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="毒性和伤害潜力">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        致死剂量
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        依赖性和滥用潜力
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        精神病
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        危险的相互作用
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        法律地位
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="外部链接">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        讨论
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="/FreeODwiki/药物/home.html">◀返回</a></p>
+<h1 id="mdpv">MDPV</h1>
+<p><strong>MDPV 可能导致 <a href="/FreeODwiki/药效/精神病发作.html">精神病</a>、<a href="/FreeODwiki/药效/躁狂.html">躁狂</a> 和成瘾的几率比其他兴奋剂都要高出很多呢。</strong></p>
+<p>因为它持续时间特别长、效力极强，而且很容易让人停不下来，我们强烈不建议在高剂量下滥用这种物质，也不要连续多天使用，或者和其他已知会增加精神病风险的药物一起混用哦。MDPV 是几种作为“<a href="https://en.wikipedia.org/wiki/Bath_salts_(drug)">浴盐</a>”在美国和欧洲出售的<a href="/FreeODwiki/文档/研究用化学品.html">策划药</a>之一；在 2009 年 9 月到 2013 年 8 月这四年间，欧盟 (EU) 报告了令人担忧的大量与 MDPV 相关的死亡案例，居然达到了 99 起呢。<a href="#cite_note-EMCDDA-1">[1]</a></p>
+<p>请查看 <a href="#Toxicity_and_harm_potential">这一部分</a> 了解更多细节喵。</p>
+<table>
+<thead>
+<tr>
+<th>MDPV</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/MDPV.png"><img alt="MDPV.png" src="/FreeODwiki/文件/MDPV.png" /></a></td>
+<td></td>
+</tr>
+<tr>
+<td>化学命名</td>
+<td></td>
+</tr>
+<tr>
+<td>常用名</td>
+<td><em>MDPV, Bath Salts (浴盐), NRG-1</em></td>
+</tr>
+<tr>
+<td>取代名称</td>
+<td><em>3,4-亚甲双氧基吡咯戊酮 (3,4-Methylenedioxypyrovalerone)</em></td>
+</tr>
+<tr>
+<td>系统名</td>
+<td><em>1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one</em></td>
+</tr>
+<tr>
+<td>类别成员</td>
+<td></td>
+</tr>
+<tr>
+<td>精神活性分类</td>
+<td><em><a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a> / <a href="/FreeODwiki/文档/药物分类/共情剂.html">共情剂</a></em></td>
+</tr>
+<tr>
+<td>化学分类</td>
+<td><em><a href="/FreeODwiki/文档/药物分类/卡西酮类物质.html">卡西酮类物质</a> / <a href="/FreeODwiki/文档/药物分类/亚甲双氧基苯类物质.html">亚甲双氧基苯类物质</a> / <a href="/FreeODwiki/药物/吡咯戊酮.html">吡咯戊酮</a></em></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/给药途径.html">给药途径</a></td>
+<td></td>
+</tr>
+<tr>
+<td>- <strong>警告:</strong> 由于个体体重、耐受性、代谢和个人敏感度的差异，请务必从较低剂量开始哦。<a href="/FreeODwiki/文档/负责任的用药索引页.html">参见负责任的用药部分</a>。 <br>   <br></td>
+<td>⇣ <a href="/FreeODwiki/文档/给药途径.html">口服</a></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/给药剂量.html">剂量</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">阈值</a></td>
+<td>2 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">轻微</a></td>
+<td>4 - 8 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">中等</a></td>
+<td>8 - 14 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">强烈</a></td>
+<td>14 - 25 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">严重</a></td>
+<td>25 mg +</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html">时长</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html">总时长</a></td>
+<td>2 - 7 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html">药效发作</a></td>
+<td>15 - 30 分钟</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html">药效达峰</a></td>
+<td>1 - 4 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html">药效褪去</a></td>
+<td>0.5 - 2 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html">药效残余</a></td>
+<td>2 - 48 小时</td>
+</tr>
+<tr>
+<td><br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>    - <strong><a href="/FreeODwiki/关于本站/免责声明.html">免责声明</a>:</strong> 本站的 <a href="/FreeODwiki/文档/给药剂量.html">剂量</a> 信息是从用户和 <a href="/FreeODwiki/关于本站/网络资源.html">资源</a> 中收集的，仅用于教育目的喵。这不是推荐，应该与其他来源核实准确性哦。</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="#Dangerous_interactions">相互作用</a></td>
+<td></td>
+</tr>
+<tr>
+<td>酒精</td>
+<td>⚠️ 谨慎联用</td>
+</tr>
+<tr>
+<td>MXE</td>
+<td>⛔ 严禁联用</td>
+</tr>
+<tr>
+<td>解离剂</td>
+<td>⚠️ 谨慎联用</td>
+</tr>
+<tr>
+<td>右美沙芬</td>
+<td>💔 联用危险</td>
+</tr>
+<tr>
+<td>MDMA</td>
+<td>💔 联用危险</td>
+</tr>
+<tr>
+<td>兴奋剂</td>
+<td>💔 联用危险</td>
+</tr>
+<tr>
+<td>25x-NBOMe</td>
+<td>⛔ 严禁联用</td>
+</tr>
+<tr>
+<td>25x-NBOH</td>
+<td>⛔ 严禁联用</td>
+</tr>
+<tr>
+<td>曲马多</td>
+<td>💔 联用危险</td>
+</tr>
+<tr>
+<td>单胺氧化酶抑制剂</td>
+<td>⛔ 严禁联用</td>
+</tr>
+</tbody>
+</table>
+<p><strong>3,4-亚甲双氧基吡咯戊酮</strong> (也称为 <strong>MDPV</strong>，以及 <strong>Monkey Dust (猴尘)</strong><a href="#cite_note-2">[2]</a>) 是一种 <a href="/FreeODwiki/文档/药物分类/卡西酮类物质.html">卡西酮类物质</a> 和 <a href="/FreeODwiki/药物/吡咯戊酮.html">吡咯戊酮</a> 类别的新型、鲜为人知的 <a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a> 物质。它被认为是效力最强、最猛烈的兴奋剂之一。据信 MDPV 主要作为一种 <a href="/FreeODwiki/文档/去甲肾上腺素.html">去甲肾上腺素</a>-<a href="/FreeODwiki/文档/多巴胺.html">多巴胺</a> <a href="/FreeODwiki/文档/神经递质再摄取抑制剂.html">再摄取抑制剂</a> (NDRI) 发挥作用。</p>
+<p>MDPV 最早是在 1960 年代由勃林格殷格翰的一个团队开发的。<a href="#cite_note-KoppePatent-3">[3]</a> 当时声称它有潜力成为外消旋苯丙胺的替代品，尽管与苯丙胺相比确实显示出一些理想的品质，例如毒性降低，但最终还是没有被开发成药物。<a href="#cite_note-4">[4]</a></p>
+<p>直到 2004 年左右，MDPV 之前一直是一种默默无闻的兴奋剂，据报道那是它第一次作为 <a href="/FreeODwiki/文档/研究用化学品.html">策划药</a> 向公众提供。贴有“浴盐”标签且含有 MDPV 的产品以前曾在美国的加油站和便利店作为娱乐性药物出售，就像 <a href="/FreeODwiki/文档/药物分类/合成大麻素类物质.html">Spice 和 K2</a> 作为香一样销售的营销策略类似。[<em><a href="/FreeODwiki/关于本站/来源请求.html">来源请求</a></em>]</p>
+<p>主观效应包括 <a href="/FreeODwiki/药效/刺激.html">刺激</a>、<a href="/FreeODwiki/药效/去抑制.html">去抑制</a>、<a href="/FreeODwiki/药效/性欲增强.html">性欲增强</a>、<a href="/FreeODwiki/药效/食欲抑制.html">食欲抑制</a> 和强烈的 <a href="/FreeODwiki/药效/认知效应.html#cognitive-euphoria">欣快感</a>。</p>
+<p>已经有多起心理和身体伤害事件归因于 MDPV 的使用，包括数量多得不正常的死亡事件。九个欧洲国家报告称，在 2009 年 9 月至 2013 年 8 月期间，共有 107 起非致命中毒事件和 99 起经分析确认与 MDPV 相关的死亡事件。<a href="#cite_note-EMCDDA-1">[1]</a></p>
+<p>如果使用这种物质，非常建议采取 <a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a> 喵。</p>
+<h2 id="_1">目录</h2>
+<ul>
+<li><a href="#Chemistry">1 化学</a></li>
+<li><a href="#Pharmacology">2 药理学</a></li>
+<li><a href="#Subjective_effects">3 主观效应</a><ul>
+<li><a href="#Physical_effects">3.1 <strong>躯体效应</strong></a></li>
+<li><a href="#Auditory_effects">3.2 <strong>听觉效应</strong></a></li>
+<li><a href="#After_effects">3.3 <strong>药效残余</strong></a></li>
+<li><a href="#Cognitive_effects">3.4 <strong>认知效应</strong></a></li>
+<li><a href="#Experience_reports">3.5 体验报告</a></li>
+</ul>
+</li>
+<li><a href="#Toxicity_and_harm_potential">4 毒性和伤害潜力</a><ul>
+<li><a href="#Lethal_dosage">4.1 致死剂量</a></li>
+<li><a href="#Dependence_and_abuse_potential">4.2 依赖性和滥用潜力</a></li>
+<li><a href="#Psychosis">4.3 精神病</a></li>
+<li><a href="#Dangerous_interactions">4.4 危险的相互作用</a></li>
+</ul>
+</li>
+<li><a href="#Legal_status">5 法律地位</a></li>
+<li><a href="#See_also">6 另见</a></li>
+<li><a href="#External_links">7 外部链接</a><ul>
+<li><a href="#Discussion">7.1 讨论</a></li>
+</ul>
+</li>
+<li><a href="#References">8 参考文献</a></li>
+</ul>
+<h2 id="_2">化学</h2>
+<p>MDPV，即 3,4-亚甲双氧基吡咯戊酮，是一种合成的 <a href="/FreeODwiki/文档/药物分类/卡西酮类物质.html">卡西酮</a> 和 <a href="/FreeODwiki/文档/药物分类/吡咯戊酮类物质.html">吡咯戊酮</a> 类兴奋剂。MDPV 是 1960 年代开发的化合物 <a href="/FreeODwiki/药物/α-PVP.html">α-PVP</a> 的 3,4-亚甲双氧基环取代类似物，后者曾用于治疗慢性疲劳和作为一种厌食药，但引起了滥用和依赖问题。<a href="#cite_note-KoppePatent-3">[3]</a></p>
+<p>然而，尽管有一些共同的结构特征，MDPV 的效果与其他的亚甲双氧基苯烷基胺衍生物（如 3,4-亚甲双氧基甲基苯丙胺 (<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>)）几乎没有相似之处，它主要产生经典的兴奋剂效果，只有轻微的共情特质。<a href="#cite_note-5">[5]</a></p>
+<p>MDPV 在结构上与卡西酮（恰特草中发现的一种活性生物碱）、3,4-亚甲双氧基甲基苯丙胺 (MDMA)、甲基苯丙胺和其他附表 I 的苯乙胺类物质有关。MDPV 和该类别中的其他一些物质一样，是一种中枢神经系统 (CNS) 兴奋剂。据报道，MDPV 也具有致幻效果。<a href="#cite_note-6">[6]</a></p>
+<h2 id="_3">药理学</h2>
+<p>据信 MDPV 主要作为一种强效的 <a href="/FreeODwiki/文档/去甲肾上腺素.html">去甲肾上腺素</a>-<a href="/FreeODwiki/文档/多巴胺.html">多巴胺</a> <a href="/FreeODwiki/文档/神经递质再摄取抑制剂.html">再摄取抑制剂</a> 发挥作用。去甲肾上腺素和多巴胺的再摄取减少，导致这两种 <a href="/FreeODwiki/文档/神经递质.html">儿茶酚胺</a> <a href="/FreeODwiki/文档/神经递质.html">神经递质</a> 在 <a href="/FreeODwiki/文档/神经递质.html">突触间隙</a>（即 <a href="/FreeODwiki/文档/神经递质.html">神经元</a> 之间的间隙）中的浓度升高。</p>
+<p>这种抑制的结果是，接收神经元上的多巴胺和去甲肾上腺素受体的多巴胺能和去甲肾上腺素能信号传导的浓度和产生的突触后效应增强并延长了。<a href="/FreeODwiki/文档/血清素.html">血清素</a> 也起作用，虽然程度要小得多。大脑中神经递质浓度的突然增加被认为是 MDPV 产生快感的原因呢。</p>
+<p>由于主要具有再摄取抑制特性而不是释放特性，MDPV 在作用方式上可能更像 <a href="/FreeODwiki/药物/可卡因.html">可卡因</a> 或 <a href="/FreeODwiki/药物/哌甲酯.html">哌甲酯</a>，而不是 <a href="/FreeODwiki/药物/苯丙胺.html">苯丙胺</a>。<a href="#cite_note-7">[7]</a> 相比之下，苯丙胺主要作为激动剂，通过激活 TAAR1 受体间接释放多巴胺和去甲肾上腺素。</p>
+<h2 id="_4">主观效应</h2>
+<p><strong><em>免责声明：</em>* 下面列出的效应引用了 <a href="/FreeODwiki/文档/科学信息索引页.html"><strong><em>主观效应索引</em></strong></a> (</strong>SEI*<em>)，这是一个基于轶事用户报告和 <a href="/FreeODwiki/关于本站/关于FreeODwiki.html">FreeODwiki</a> 贡献者个人分析的开放研究文献。因此，应该带着健康的怀疑态度来看待它们哦。</em></p>
+<p><em>同样值得注意的是，这些效应并不一定会以可预测或可靠的方式发生，尽管高剂量更容易引发全方位的效应。</em> 同样，<strong>不良反应</strong> 随着剂量的增加变得越来越可能发生，并且可能包括 <strong>成瘾、严重伤害或死亡</strong> ☠。</p>
+<h3 id="_5"><strong><a href="/FreeODwiki/药效/躯体效应.html">躯体效应</a></strong> <img alt="Child.png" src="/FreeODwiki/文件/Child.png" /></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/刺激.html">刺激</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/耐力增强.html">耐力增强</a></strong>[<em><a href="/FreeODwiki/关于本站/来源请求.html">来源请求</a></em>]</li>
+<li><strong><a href="/FreeODwiki/药效/心律异常.html">心律异常</a></strong>[<em><a href="/FreeODwiki/关于本站/来源请求.html">来源请求</a></em>]</li>
+<li><strong><a href="/FreeODwiki/药效/心率增快.html">心率增快</a></strong>[<em><a href="/FreeODwiki/关于本站/来源请求.html">来源请求</a></em>] - 较高剂量的 MDPV 会导致心率和血压显着且通常危险地升高。</li>
+<li><strong><a href="/FreeODwiki/药效/肌肉紧张.html">肌肉收缩</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/肌肉痉挛.html">肌肉痉挛</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/食欲抑制.html">食欲抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/头痛.html">头痛</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/幻觉.html">味觉幻觉</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/腹泻.html">腹泻</a></strong> - 一些用户报告在 MDPV 药效下经历 <a href="/FreeODwiki/药效/腹泻.html">腹泻</a>，但这似乎是一个相对少见的效应。</li>
+<li><strong><a href="/FreeODwiki/药效/恶心.html">恶心</a></strong> - 一些用户报告在 MDPV 药效下经历 <a href="/FreeODwiki/药效/恶心.html">恶心</a>，但这似乎是一个相对少见的效应。</li>
+<li><strong><a href="/FreeODwiki/药效/不宁腿.html">不宁腿综合征</a></strong></li>
+</ul>
+<h3 id="_6"><strong><a href="/FreeODwiki/药效/听觉效应.html">听觉效应</a></strong> <img alt="Volume-up.png" src="/FreeODwiki/文件/Volume-up.png" /></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/听觉效应.html">听觉扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/幻听.html">幻听</a></strong></li>
+</ul>
+<h3 id="_7"><strong>药效残余</strong> <img alt="Aftereffects_(3).png" src="/FreeODwiki/文件/Aftereffects_(3).png" /></h3>
+<p>兴奋剂体验消退期间发生的效果，与高峰期发生的效果相比，通常感觉消极且不舒服。这通常被称为“下头 (comedown)”，是由于神经递质耗尽造成的。其效应通常包括：
++ <strong><a href="/FreeODwiki/药效/焦虑.html">焦虑</a></strong>
++ <strong><a href="/FreeODwiki/药效/认知疲劳.html">认知疲劳</a></strong>
++ <strong><a href="/FreeODwiki/药效/抑郁.html">抑郁</a></strong>
++ <strong><a href="/FreeODwiki/药效/易怒.html">易怒</a></strong>
++ <strong><a href="/FreeODwiki/药效/动机抑制.html">动机抑制</a></strong>
++ <strong><a href="/FreeODwiki/药效/思维减速.html">思维减速</a></strong>
++ <strong><a href="/FreeODwiki/药效/清醒度.html">清醒</a></strong>
+值得注意的是，如果是强迫性地重复用药，许多用户认为 MDPV 的药效残余会明显更加令人不快哦。<a href="#cite_note-8">[8]</a><a href="#cite_note-9">[9]</a></p>
+<h3 id="_8"><strong><a href="/FreeODwiki/药效/认知效应.html">认知效应</a></strong> <img alt="User.png" src="/FreeODwiki/文件/User.png" /></h3>
+<p>MDPV 的一般认知效应可以描述为与其他典型兴奋剂相似。在中等剂量下，MDPV 的快感被描述为具有欣快感和轻微的共情作用，导致动机、社交能力、性欲和注意力增加。然而，较高剂量的 MDPV 会加剧许多负面影响，如焦虑和思维混乱；在极高剂量或持续使用下，妄想和精神病变得很可能发生。<a href="#cite_note-10">[10]</a>
++ <strong><a href="/FreeODwiki/药效/焦虑.html">焦虑</a></strong>
++ <strong><a href="/FreeODwiki/药效/认知欣快.html">认知欣快</a></strong>
++ <strong><a href="/FreeODwiki/药效/强迫性补量.html">强迫性补量</a></strong> - MDPV 在这一效应上极强；研究表明，即使负面影响超过了正面影响，一些用户最终还是会重复用药。<a href="#cite_note-11">[11]</a><a href="#cite_note-12">[12]</a>
++ <strong><a href="/FreeODwiki/药效/混乱.html">困惑</a></strong> - 这种效应在较高剂量和长时间不睡觉后很明显。
++ <strong><a href="/FreeODwiki/药效/创造力增强.html">创造力增强</a></strong>
++ <strong><a href="/FreeODwiki/药效/妄想.html">妄想</a></strong> - 这种效应也可以在高剂量下表现出来。
++ <strong><a href="/FreeODwiki/药效/自我膨胀.html">自我膨胀</a></strong>
++ <strong><a href="/FreeODwiki/药效/共情、爱和社交能力增强.html">共情、爱和社交能力增强</a></strong> - MDPV 在这方面的效果与 MDMA 相似，但较弱。
++ <strong><a href="/FreeODwiki/药效/专注力增强.html">专注力增强</a></strong>
++ <strong><a href="/FreeODwiki/药效/性欲增强.html">性欲增强</a></strong>
++ <strong><a href="/FreeODwiki/药效/动机增强.html">动机增强</a></strong>
++ <strong><a href="/FreeODwiki/药效/偏执.html">偏执</a></strong>
++ <strong><a href="/FreeODwiki/药效/耐力增强.html">耐力增强</a></strong>
++ <strong><a href="/FreeODwiki/药效/精神病发作.html">精神病</a></strong> - 据了解，高剂量的 MDPV 比大多数其他兴奋剂更频繁地诱发精神病状态。[<em><a href="/FreeODwiki/关于本站/来源请求.html">来源请求</a></em>]
++ <strong><a href="/FreeODwiki/药效/时间扭曲.html">时间扭曲</a></strong> - 这可以描述为感觉时间在加速，比平时清醒时过得快得多。
++ <strong><a href="/FreeODwiki/药效/思维加速.html">思维加速</a></strong>
++ <strong><a href="/FreeODwiki/药效/思维组织.html">思维组织</a></strong> - 主要在轻微到中等剂量下观察到。
++ <strong><a href="/FreeODwiki/药效/思维混乱.html">思维混乱</a></strong> - 这种效应在较高剂量下表现出来并加剧。
++ <strong><a href="/FreeODwiki/药效/清醒度.html">清醒</a></strong> - 高剂量下报告有强烈的清醒感，并且在长时间使用后可持续数小时。</p>
+<h3 id="_9">体验报告</h3>
+<p>目前我们的 <a href="/FreeODwiki/文档/体验报告.html">体验索引</a> 中还没有描述该化合物效果的轶事报告。其他的体验报告可以在这里找到喵：</p>
+<ul>
+<li><a href="https://erowid.org/experiences/subs/exp_MDPV.shtml">Erowid Experience Vaults: MDPV</a></li>
+</ul>
+<h2 id="_10">毒性和伤害潜力</h2>
+<ul>
+<li><img alt="Ambulance2.png" src="/FreeODwiki/文件/Ambulance2.png" /> <strong>本毒性和伤害潜力部分只是一个<a href="/FreeODwiki/关于本站/编辑指南.html">存根。</a></strong>因此，它可能包含不完整甚至 <strong>危险错误</strong> 的信息！你可以通过 <a href="/FreeODwiki/关于本站/参与贡献.html">扩充或更正它</a> 来提供帮助。
+<em>注意：如果使用这种物质，请务必进行独立研究并使用 </em><em><a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a></em><em>。</em></li>
+</ul>
+<p>MDPV 在人类使用方面的历史相对较短，在 2004 年之前很少有人提及使用它。尽管曾经被认为是现有兴奋剂的潜在替代品，且毒性风险较低，但几十年来并未在临床环境中对人类 MDPV 给药进行过广泛研究。尽管如此，最近几项关于长期使用 MDPV 导致持续性精神病的案例研究显示，接受某些 <a href="/FreeODwiki/文档/抗精神病药.html">抗精神病药</a> 和一线 <a href="/FreeODwiki/文档/药物分类/抗组胺药.html">抗组胺药</a> 治疗的个体恢复率很高。<a href="#cite_note-13">[13]</a> 目前尚无关于 MDPV 对人脑神经毒性的确切数据。</p>
+<p>社区中尝试过 MDPV 的人的轶事证据表明，如果只是单独低剂量服用并且偶尔使用，该物质没有相关的负面健康影响（但不能完全保证哦）。</p>
+<p>体外和体内研究的数据表明，MDPV 具有与 <a href="/FreeODwiki/药物/甲基苯丙胺.html">甲基苯丙胺</a> 和 <a href="/FreeODwiki/药物/可卡因.html">可卡因</a> 相似的特性；事实上，MDPV 在许多方面比这两种兴奋剂更有效力。<a href="#cite_note-14">[14]</a> MDPV 使用引起的多巴胺和去甲肾上腺素的过度兴奋，加上 MDPV 可能无法产生补偿性的血清素能活动，为对该药物产生许多敌对和精神病反应埋下了伏笔。在应急响应情况中已经目睹了这些敌对倾向，并且过去在一名受 MDPV 影响的个人恶意攻击一名无辜路人后，也在电视上得到了广泛报道。目前尚不确定该人是否有任何预先存在的精神障碍，或者他是否受到任何其他药物的影响。[<em><a href="/FreeODwiki/关于本站/来源请求.html">来源请求</a></em>]</p>
+<h3 id="_11">致死剂量</h3>
+<p>MDPV 的确切致死剂量尚不清楚，也没有在人类中进行过正式研究。作为参考，一份报告根据尸检结果将一名 39 岁男性的致死剂量定为 0.4 微克每毫升或更高，<a href="#cite_note-15">[15]</a> 但这个数据太过独特，变量太多样化，无法从中得出任何有意义的信息。可以通过气相色谱-质谱法或液相色谱-质谱法定量血液、血浆或尿液中的 MDPV，以确认住院患者的中毒诊断或为法医死亡调查提供证据。在娱乐性使用该药物的人群中，血液或血浆 MDPV 浓度预计在 10–50 μg/L 范围内，在中毒患者中 &gt;50 μg/L，在急性过量受害者中 &gt;300 μg/L。<a href="#cite_note-16">[16]</a></p>
+<p>强烈建议在使用这种药物时采取 <a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a> 喵。</p>
+<h3 id="_12">依赖性和滥用潜力</h3>
+<p>比其他兴奋剂更甚的是，长期使用 MDPV 可以被认为具有高度成瘾性，并且具有很高的滥用潜力，能够导致某些用户产生心理依赖。当成瘾发展时，如果一个人突然停止使用，可能会出现渴望和戒断反应。成瘾是 MDPV 用户面临的严重风险，因为它很容易导致强迫性补量，并导致非常令人不快的下头症状。</p>
+<h3 id="_13">精神病</h3>
+<p>主条目：<a href="/FreeODwiki/文档/兴奋剂精神病.html">兴奋剂精神病</a></p>
+<p>用户报告表明，与绝大多数兴奋剂相比，长期滥用或单次过量服用 MDPV 可能更容易导致 <a href="/FreeODwiki/药效/精神病发作.html">精神病</a>。MDPV 的精神病症状可能包括 <a href="/FreeODwiki/药效/幻听.html">幻听</a>、<a href="/FreeODwiki/药效/幻觉.html">视幻觉</a>、伤害自己的冲动、严重的 <a href="/FreeODwiki/药效/焦虑.html">焦虑</a>、<a href="/FreeODwiki/药效/躁狂.html">躁狂</a>、自大、<a href="/FreeODwiki/药效/妄想.html">偏执妄想</a>、<a href="/FreeODwiki/药效/混乱.html">困惑</a>、攻击性增加和 <a href="/FreeODwiki/药效/易怒.html">易怒</a>。</p>
+<h3 id="_14">危险的相互作用</h3>
+<p><strong><em>警告：</em></strong> <em>许多精神活性物质单独使用时还算安全，但当与某些其他物质结合使用时，可能会突然变得危险甚至危及生命。以下列表列出了一些已知的危险相互作用（但这不保证包含所有情况哦）。</em></p>
+<p><em>务必进行独立研究（例如 <a href="https://www.google.com">Google</a>, <a href="https://www.duckduckgo.com">DuckDuckGo</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a>）以确保两种或多种物质的组合是安全的。一些列出的相互作用来自 <a href="https://combo.tripsit.me">TripSit</a>。</em></p>
+<ul>
+<li><strong><a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a></strong> - MDPV 与其他 <a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a> 结合使用可能有危险，因为它会将 <a href="/FreeODwiki/药效/心率增快.html">心率</a> 和 <a href="/FreeODwiki/药效/血压升高.html">血压</a> 提高到危险水平。</li>
+<li><strong><a href="/FreeODwiki/文档/药物分类/2,5-二甲氧基苯乙胺类物质.html">25x-NBOMe</a> &amp; <a href="/FreeODwiki/文档/药物分类/2,5-二甲氧基苯乙胺类物质.html">25x-NBOH</a></strong> - 25x 化合物具有高度刺激性，对身体造成负担。应严格避免与 MDPV 结合使用，因为存在过度 <a href="/FreeODwiki/药效/刺激.html">刺激</a> 和心脏负担的风险。这可能导致 <a href="/FreeODwiki/药效/血压升高.html">血压升高</a>、<a href="/FreeODwiki/药效/血管收缩.html">血管收缩</a>、惊恐发作、<a href="/FreeODwiki/药效/思维循环.html">思维循环</a>、<a href="/FreeODwiki/药效/癫痫发作.html">癫痫发作</a>，在极端情况下会导致心力衰竭。</li>
+<li><strong><a href="/FreeODwiki/药物/酒精.html">酒精</a></strong> - 将酒精与 <a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a> 结合使用可能很危险，因为存在意外过度中毒的风险。兴奋剂会掩盖酒精的 <a href="/FreeODwiki/文档/药物分类/抑制剂.html">抑制剂</a> 作用，而大多数人是用这种作用来评估自己的醉酒程度的。一旦兴奋剂药效消退，<a href="/FreeODwiki/文档/药物分类/抑制剂.html">抑制剂</a> 作用将不再受阻，这可能导致断片和严重的 <a href="/FreeODwiki/药效/呼吸抑制.html">呼吸抑制</a>。如果混合使用，用户应严格限制自己每小时只喝一定量的酒精。</li>
+<li><strong><a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a></strong> - 应避免与 <a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a> 结合使用，因为它对 <a href="/FreeODwiki/文档/血清素.html">血清素</a> 和 <a href="/FreeODwiki/文档/去甲肾上腺素.html">去甲肾上腺素</a> 再摄取有抑制作用。这会增加 <a href="/FreeODwiki/药效/惊恐发作.html">惊恐发作</a> 和高血压危象的风险，或者如果与血清素释放剂（<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>、<a href="/FreeODwiki/药物/甲卡西酮.html">甲酮</a>、<a href="/FreeODwiki/药物/4-MMC.html">4-MMC</a> 等）结合使用，会有 <a href="/FreeODwiki/文档/血清素综合征.html">血清素综合征</a> 的风险。仔细监测血压，避免剧烈体力活动。</li>
+<li><strong><a href="/FreeODwiki/药物/MDMA.html">MDMA</a></strong> - 当存在其他 <a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a> 时，MDMA 的任何神经毒性作用都可能增加。还存在血压过高和心脏负担（心脏毒性）的风险。</li>
+<li><strong><a href="/FreeODwiki/药物/MXE.html">MXE</a></strong> - 一些报告表明，与 MXE 结合使用可能会危险地增加血压，并增加 <a href="/FreeODwiki/药效/躁狂.html">躁狂</a> 和 <a href="/FreeODwiki/药效/精神病发作.html">精神病</a> 的风险。</li>
+<li><strong><a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a></strong> - 这两类物质都有导致 <a href="/FreeODwiki/药效/妄想.html">妄想</a>、<a href="/FreeODwiki/药效/躁狂.html">躁狂</a> 和 <a href="/FreeODwiki/药效/精神病发作.html">精神病</a> 的风险，结合使用时这些风险可能会成倍增加。</li>
+<li><strong><a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a></strong> - MDPV 与其他 <a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a>（如 <a href="/FreeODwiki/药物/可卡因.html">可卡因</a>）结合使用可能有危险，因为它们会将 <a href="/FreeODwiki/药效/心率增快.html">心率</a> 和 <a href="/FreeODwiki/药效/血压升高.html">血压</a> 提高到危险水平。</li>
+<li><strong><a href="/FreeODwiki/药物/曲马多.html">曲马多</a></strong> - 众所周知，曲马多会降低癫痫发作阈值 <a href="#cite_note-17">[17]</a>，与兴奋剂结合使用可能会进一步增加这种风险。</li>
+<li><strong><a href="/FreeODwiki/药物/MDMA.html">MDMA</a></strong> - 当与 <a href="/FreeODwiki/药物/苯丙胺.html">苯丙胺</a> 和其他兴奋剂结合使用时，MDMA 的神经毒性作用可能会增加。</li>
+<li><strong><a href="/FreeODwiki/文档/单胺氧化酶抑制剂.html">单胺氧化酶抑制剂</a></strong> - 这种组合可能会将多巴胺等神经递质的量增加到危险甚至致命的水平。例子包括 <a href="/FreeODwiki/药物/骆驼蓬.html">骆驼蓬</a>、<a href="/FreeODwiki/药物/死藤水.html"><em>Banisteriopsis caapi</em></a> 和一些 <a href="/FreeODwiki/文档/药物分类/抗抑郁药.html">抗抑郁药</a>。<a href="#cite_note-18">[18]</a></li>
+<li><strong><a href="/FreeODwiki/药物/可卡因.html">可卡因</a></strong> - 这种组合可能会增加心脏负担。</li>
+</ul>
+<h2 id="_15">法律地位</h2>
+<p>2014 年 9 月，欧洲理事会决定，成员国应在 2015 年 10 月 2 日之前对 MDPV 实施控制措施和刑事处罚。<a href="#cite_note-19">[19]</a></p>
+<ul>
+<li><strong>澳大利亚</strong>: 在西澳大利亚州，MDPV 根据 1964 年毒药法案已被禁止，截至 2012 年 2 月 11 日，它已被列入 1964 年毒药法案附录 A 附表 9 中。西澳大利亚州检察长宣布，任何打算出售或供应 MDPV 的人都将面临最高 100,000 美元的罚款或 25 年监禁。用户面临 2000 美元的罚款或两年监禁。因此，任何被发现持有 MDPV 的人都可能被指控持有、出售、供应或意图出售或供应。<a href="#cite_note-20">[20]</a></li>
+<li><strong>奥地利</strong>: 自 2019 年 6 月 26 日起，根据 SMG (Suchtmittelgesetz Österreich)，持有、生产和销售 MDPV 均属违法。<a href="#cite_note-21">[21]</a></li>
+<li><strong>比利时</strong>: 截至 2013 年 3 月 20 日，MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>巴西</strong>: 生产、销售或持有 MDPV 均属违法，因为它被列入 Portaria SVS/MS nº 344。<a href="#cite_note-22">[22]</a></li>
+<li><strong>保加利亚</strong>: 截至 2011 年 2 月，MDPV 受麻醉物质管制法管制。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>加拿大</strong>: 2012 年 6 月 5 日，加拿大卫生部长 Leona Aglukkaq 宣布 MDPV 将被列入管制药物和物质法案附表 I，该法案于 2012 年 9 月 26 日通过成为法律。<a href="#cite_note-23">[23]</a></li>
+<li><strong>克罗地亚</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>塞浦路斯</strong>: MDPV 是 B 类受管制物质，因为它包含在卡西酮类物质兜底条款中。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>捷克共和国</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>丹麦</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>爱沙尼亚</strong>: 截至 2010 年 11 月 29 日，MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>芬兰</strong>: MDPV 在芬兰被明确列为受管制物质（截至 2010 年 6 月 28 日被列为附录 IV 物质）。<a href="#cite_note-24">[24]</a></li>
+<li><strong>法国</strong>: 截至 2012 年 8 月 2 日，MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>德国</strong>: 截至 2012 年 7 月 26 日，MDPV 受 Anlage II BtMG (<em>麻醉品法，附表 II</em>) <a href="#cite_note-25">[25]</a> 管制。<a href="#cite_note-26">[26]</a> 未经许可制造、持有、进口、出口、购买、销售、采购或分发它是违法的。<a href="#cite_note-27">[27]</a></li>
+<li><strong>匈牙利</strong>: MDPV 是附表 A 受管制精神药物。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>爱尔兰</strong>: 自 2010 年 5 月 11 日起，MDPV 受滥用药物法案涵盖。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>意大利</strong>: 截至 2011 年 12 月 29 日，MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>拉脱维亚</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>卢森堡</strong>: 截至 2012 年 7 月 30 日，MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>挪威</strong>: 截至 2013 年 2 月 14 日，MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>波兰</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>斯洛伐克</strong>: 截至 2011 年 3 月 1 日，MDPV 是附表 I 受管制精神药物。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>斯洛文尼亚</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>瑞典</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a> 在瑞典，一名 33 岁的男子因持有在刑事定罪前获得的 250 克 MDPV，被上诉法院 Hovrätt 判处六年监禁。<a href="#cite_note-28">[28]</a></li>
+<li><strong>瑞士</strong>: MDPV 是受管制的物质，在 Verzeichnis D 中被明确命名。<a href="#cite_note-29">[29]</a></li>
+<li><strong>土耳其</strong>: MDPV 是受管制物质。<a href="#cite_note-EMCDDA-1">[1]</a></li>
+<li><strong>英国</strong>: 由于卡西酮类物质兜底条款，MDPV 在英国是 B 类药物。<a href="#cite_note-30">[30]</a></li>
+<li><strong>美国</strong>: 2011 年 10 月 21 日，MDPV 成为 DEA 联邦附表药物。DEA 发布了为期一年的 MDPV 临时禁令，将其归类为附表 I 物质。2011 年 12 月 8 日，根据合成药物管制法案，美国众议院投票禁止 MDPV 和各种其他以前在商店合法销售的合成药物。<a href="#cite_note-31">[31]</a></li>
+</ul>
+<h2 id="_16">另见</h2>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/卡西酮类物质.html">卡西酮类物质</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/吡咯戊酮类物质.html">吡咯戊酮</a></li>
+<li><a href="/FreeODwiki/药物/α-PVP.html">α-PVP</a></li>
+<li><a href="/FreeODwiki/药物/Prolintane.html">普罗林坦 (Prolintane)</a></li>
+</ul>
+<h2 id="_17">外部链接</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Methylenedioxypyrovalerone">MDPV (Wikipedia)</a></li>
+<li><a href="https://erowid.org/chemicals/mdpv/mdpv.shtml">MDPV (Erowid Vault)</a></li>
+<li><a href="https://isomerdesign.com/PiHKAL/explore.php?id=2143">MDPV (Isomer Design)</a></li>
+<li><a href="https://drugs-forum.com/wiki/MDPV">MDPV (Drugs-Forum)</a></li>
+</ul>
+<h3 id="_18">讨论</h3>
+<ul>
+<li><a href="http://www.bluelight.org/vb/threads/278421-MDPV-Megathread">MDPV Megathread (Bluelight)</a></li>
+</ul>
+<h2 id="_19">参考文献</h2>
+<ol>
+<li>↑ <a href="#cite_ref-EMCDDA_1-0">1.00</a> <a href="#cite_ref-EMCDDA_1-1">1.01</a> <a href="#cite_ref-EMCDDA_1-2">1.02</a> <a href="#cite_ref-EMCDDA_1-3">1.03</a> <a href="#cite_ref-EMCDDA_1-4">1.04</a> <a href="#cite_ref-EMCDDA_1-5">1.05</a> <a href="#cite_ref-EMCDDA_1-6">1.06</a> <a href="#cite_ref-EMCDDA_1-7">1.07</a> <a href="#cite_ref-EMCDDA_1-8">1.08</a> <a href="#cite_ref-EMCDDA_1-9">1.09</a> <a href="#cite_ref-EMCDDA_1-10">1.10</a> <a href="#cite_ref-EMCDDA_1-11">1.11</a> <a href="#cite_ref-EMCDDA_1-12">1.12</a> <a href="#cite_ref-EMCDDA_1-13">1.13</a> <a href="#cite_ref-EMCDDA_1-14">1.14</a> <a href="#cite_ref-EMCDDA_1-15">1.15</a> <a href="#cite_ref-EMCDDA_1-16">1.16</a> <a href="#cite_ref-EMCDDA_1-17">1.17</a> <a href="#cite_ref-EMCDDA_1-18">1.18</a> <a href="#cite_ref-EMCDDA_1-19">1.19</a> <a href="#cite_ref-EMCDDA_1-20">1.20</a> <a href="http://www.emcdda.europa.eu/system/files/publications/819/TDAS14001ENN_466653.pdf">"MDPV: EMCDDA–Europol Joint Report on a new psychoactive substance: MDPV (3,4-methylenedioxypyrovalerone)"</a> (PDF). European Monitoring Centre for Drugs and Drug Addiction. Retrieved December 27, 2019. </li>
+<li><a href="#cite_ref-2">↑</a> <a href="https://www.newsweek.com/what-monkey-dust-bath-salt-mpvd-drug-causing-epidemic-violent-hallucinations-1068295">"Monkey dust "epidemic" causing drug users to experience violent hallucinations"</a>. <em>Newsweek</em> (in English). 10 August 2018. Retrieved 17 August 2018. </li>
+<li>↑ <a href="#cite_ref-KoppePatent_3-0">3.0</a> <a href="#cite_ref-KoppePatent_3-1">3.1</a> Koppe, H., Ludwig, G., Zeile, K., <a href="https://patents.google.com/patent/US3478050/en"><em>1-(3’,4’-methylenedioxy-phenyl)-2-pyrrolidino-alkanones-(1)</em></a> </li>
+<li><a href="#cite_ref-4">↑</a> MDPV Summary | <a href="http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1">http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</a></li>
+<li><a href="#cite_ref-5">↑</a> <a href="https://wiki.tripsit.me/wiki/MDPV"><em>MDPV - TripSit wiki</em></a> </li>
+<li><a href="#cite_ref-6">↑</a> <a href="https://www.deadiversion.usdoj.gov/drug_chem_info/mdpv.pdf">https://www.deadiversion.usdoj.gov/drug_chem_info/mdpv.pdf</a></li>
+<li><a href="#cite_ref-7">↑</a> <a href="http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1">http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</a></li>
+<li><a href="#cite_ref-8">↑</a> <a href="https://erowid.org/experiences/exp.php?ID=98601"><em>MDPV - Erowid Exp - “Personal Research Comedown Guide”</em></a> </li>
+<li><a href="#cite_ref-9">↑</a> <a href="https://erowid.org/experiences/exp.php?ID=91741"><em>MDPV - Erowid Exp - “Seemingly Real Paranoid Hallucination Hell”</em></a> </li>
+<li><a href="#cite_ref-10">↑</a> <a href="https://www.erowid.org/experiences/exp.php?ID=78382"><em>MDPV - Erowid Exp - “Psychosis”</em></a> </li>
+<li><a href="#cite_ref-11">↑</a> Watterson LR, Kufahl PR, Nemirovsky NE, Sewalia K, Grabenauer M, Thomas BF, et al. (March 2014). <a href="/FreeODwiki//www.ncbi.nlm.nih.gov/pmc/articles/PMC3473160">"Potent rewarding and reinforcing effects of the synthetic cathinone 3,4-methylenedioxypyrovalerone (MDPV)"</a>. <em>Addiction Biology</em>. <strong>19</strong> (2): 165–74. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1111%2Fj.1369-1600.2012.00474.x">10.1111/j.1369-1600.2012.00474.x</a>. <a href="http://en.wikipedia.org/wiki/PubMed_Central" title="wikipedia:PubMed Central">PMC</a> <a href="/FreeODwiki//www.ncbi.nlm.nih.gov/pmc/articles/PMC3473160">3473160</a> <img alt="Freely accessible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png" title="Freely accessible" />. <a href="http://en.wikipedia.org/wiki/PubMed_Identifier" title="wikipedia:PubMed Identifier">PMID</a> <a href="/FreeODwiki//www.ncbi.nlm.nih.gov/pubmed/22784198">22784198</a>. </li>
+<li><a href="#cite_ref-12">↑</a> Coppola M, Mondola R (January 2012). "3,4-methylenedioxypyrovalerone (MDPV): chemistry, pharmacology and toxicology of a new designer drug of abuse marketed online". <em>Toxicology Letters</em>. <strong>208</strong> (1): 12–5. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2Fj.toxlet.2011.10.002">10.1016/j.toxlet.2011.10.002</a>. <a href="http://en.wikipedia.org/wiki/PubMed_Identifier" title="wikipedia:PubMed Identifier">PMID</a> <a href="/FreeODwiki//www.ncbi.nlm.nih.gov/pubmed/22008731">22008731</a>. </li>
+<li><a href="#cite_ref-13">↑</a> Studies concerning MDPV hospitalization, pages 19 to 25. | <a href="http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1">http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</a></li>
+<li><a href="#cite_ref-14">↑</a> MDPV In-vivo statistics | <a href="http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1">http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</a></li>
+<li><a href="#cite_ref-15">↑</a> Wyman, J. F., Lavins, E. S., Engelhart, D., Armstrong, E. J., Snell, K. D., Boggs, P. D., Taylor, S. M., Norris, R. N., Miller, F. P. (1 April 2013). <a href="https://academic.oup.com/jat/article-lookup/doi/10.1093/jat/bkt001">"Postmortem Tissue Distribution of MDPV Following Lethal Intoxication by "Bath Salts""</a>. <em>Journal of Analytical Toxicology</em>. <strong>37</strong> (3): 182–185. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fjat%2Fbkt001">10.1093/jat/bkt001</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0146-4760">0146-4760</a>. </li>
+<li><a href="#cite_ref-16">↑</a> Baselt, R. C. (2014). <em>Disposition of toxic drugs and chemicals in man</em> (Tenth edition ed.). Biomedical Publications. <a href="http://en.wikipedia.org/wiki/International_Standard_Book_Number" title="wikipedia:International Standard Book Number">ISBN</a> <a href="http://en.wikipedia.org/wiki/Special:BookSources/9780962652394" title="wikipedia:Special:BookSources/9780962652394">9780962652394</a>. CS1 maint: Extra text (<a href="/FreeODwiki/w/index.php?title=Category:CS1_maint:_Extra_text&amp;action=edit&amp;redlink=1" title="Category:CS1 maint: Extra text (page does not exist)">link</a>)</li>
+<li><a href="#cite_ref-17">↑</a> Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". <em>Journal of Medical Toxicology</em>. <strong>5</strong> (2): 63–67. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2FBF03161089">10.1007/BF03161089</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN" title="wikipedia:International Standard Serial Number">eISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1937-6995">1937-6995</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1556-9039">1556-9039</a>. <a href="http://en.wikipedia.org/wiki/OCLC" title="wikipedia:OCLC">OCLC</a> <a href="/FreeODwiki//www.worldcat.org/oclc/163567183">163567183</a>. </li>
+<li><a href="#cite_ref-18">↑</a> Gillman, P. K. (2005). <a href="https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext">"Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"</a>. <em>British Journal of Anaesthesia</em>. <strong>95</strong> (4): 434–441. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fbja%2Faei210">10.1093/bja/aei210</a> <img alt="Freely accessible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png" title="Freely accessible" />. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN" title="wikipedia:International Standard Serial Number">eISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1471-6771">1471-6771</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0007-0912">0007-0912</a>. <a href="http://en.wikipedia.org/wiki/OCLC" title="wikipedia:OCLC">OCLC</a> <a href="/FreeODwiki//www.worldcat.org/oclc/01537271">01537271</a>. <a href="http://en.wikipedia.org/wiki/PubMed_Identifier" title="wikipedia:PubMed Identifier">PMID</a> <a href="/FreeODwiki//www.ncbi.nlm.nih.gov/pubmed/16051647">16051647</a>. </li>
+<li><a href="#cite_ref-19">↑</a> <a href="https://op.europa.eu/o/opportal-service/download-handler?identifier=025bb164-4937-11e4-a0cb-01aa75ed71a1&amp;format=pdfa1a&amp;language=en&amp;productionSystem=cellar&amp;part=">"Council Implementing Decision on subjecting 25I-NBOMe, AH-7921, MDPV and methoxetamine to control measures"</a>. <em>Official Journal of the European Union</em>. Office for Official Publications of the European Communites (published October 1, 2014). September 25, 2014. pp. 22–26. <a href="http://en.wikipedia.org/wiki/OCLC" title="wikipedia:OCLC">OCLC</a> <a href="/FreeODwiki//www.worldcat.org/oclc/52224955">52224955</a>. L 287. 
+20.</li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

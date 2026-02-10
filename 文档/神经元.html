@@ -1,0 +1,558 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>神经元 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              神经元
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E6%95%88/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        结构
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        动作电位的传播
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="动作电位的传播">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        动作电位的传播机制
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        对其他神经元的作用
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="./home.html">◀返回</a></p>
+<h1 id="_1">神经元</h1>
+<p><strong>神经元</strong>，也称为<strong>神经细胞</strong>，是一种电兴奋细胞，通过电信号和化学信号处理并传递信息呢。化学信号是通过 <a href="/FreeODwiki/文档/突触.html">突触</a> 发生的，这是一种与其他细胞的特殊连接。神经元相互连接形成神经网络。神经元是神经系统的核心组成部分，神经系统包括大脑、脊髓和周围神经节哦。</p>
+<p>存在许多特殊类型的神经元。感觉神经元对触觉、声音、光线以及其他影响感觉器官细胞的刺激做出反应，然后将信号发送到脊髓和大脑。运动神经元接收来自大脑和脊髓的信号，引起肌肉收缩，并影响腺体。中间神经元则连接大脑或脊髓同一区域内的神经元。</p>
+<h2 id="_2">目录</h2>
+<ul>
+<li><a href="#结构">1 结构</a></li>
+<li><a href="#动作电位的传播">2 动作电位的传播</a><ul>
+<li><a href="#动作电位的传播机制">2.1 动作电位的传播机制</a></li>
+</ul>
+</li>
+<li><a href="#对其他神经元的作用">3 对其他神经元的作用</a></li>
+<li><a href="#另见">4 另见</a></li>
+<li><a href="#外部链接">5 外部链接</a></li>
+<li><a href="#参考文献">6 参考文献</a></li>
+</ul>
+<h2 id="_3">结构</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="./文件/MRuueFj.png" /></td>
+<td><strong>神经元的结构</strong></td>
+</tr>
+</tbody>
+</table>
+<p>一个典型的神经元拥有一个细胞体（通常称为胞体）、树突和一根轴突。树突是从细胞体发出的细长结构，通常延伸数百微米，多次分支并形成复杂的“树突树”。轴突是一种特殊的细胞延伸，从细胞体上一个称为轴丘的部位发出，并延伸一段距离。在大多数突触中，信号是从一个神经元的轴突发送到另一个神经元的树突的。不过嘛，这些规则也有很多例外哦。例如，有些神经元没有树突，有些没有轴突，有些突触连接一个轴突到另一个轴突，或者一个树突到另一个树突等等。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="./文件/Axon.png" /></td>
+<td><strong>轴突膜的结构</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_4">动作电位的传播</h2>
+<p>所有的神经元都是电兴奋的，它们通过代谢驱动的离子泵，结合嵌入膜中的离子通道，在膜两侧维持电压梯度，从而产生钠、钾、氯和钙等离子的细胞内与细胞外的浓度差。跨膜电压的变化可以改变电压依赖性离子通道的功能。如果电压变化量足够大，就会产生一种称为动作电位的“全或无”电化学脉冲，它会沿着细胞的轴突迅速传播，并在到达时激活与其他细胞的突触连接呢。</p>
+<p>神经冲动是一种沿着轴突膜表面传播的自我传播的电干扰波。这种电干扰由电位差（不是电流哦）的暂时逆转组成。轴突内部通常相对于外部带负电；这被称为静息电位，其值通常约为 -65mV。当收到刺激时，会引起电位差的逆转，这就是所谓的动作电位（通常约为 +40mV）。</p>
+<h3 id="_5">动作电位的传播机制</h3>
+<p>轴突内部相对于外部带负电。触发动作电位所需的电位差变化是由钠离子和钾离子（离子是带正电或负电的分子）进出轴突的运动控制的。这种运动通过离子泵和通道的作用发生。离子不能不受控制地扩散进出轴突；这种扩散被轴突周围的膜阻止了。沿着膜周期性分布着作为离子通道的蛋白质。钠门控通道和钾门控通道只在特定时间打开和关闭，允许离子通过。钠钾泵将 Na+ 和 K+ 输送进出轴突。</p>
+<p>轴突内部开始时比外部低约 -65mV。当轴突比外部高 +40mV 时，就达到了动作电位。这个 +40mV 的值是通过钠离子和钾离子进出轴突的运动达到的。钠钾泵每将 3 个 Na+ 运出轴突，就将 2 个 K+ 运入轴突。然而，从轴突移除的钠比带入的钾多。这意味着轴突内的整体电负性在降低，轴突越来越接近达到 +40mV 的电位差。然后钠离子开始自然地扩散回轴突，钾离子扩散出去。然而在这个阶段，钾门控通道是打开的，而钠门控通道是关闭的。这意味着 K+ 扩散出去的速度比 Na+ 扩散回轴突的速度快。这进一步增加了轴突内部和外部之间的电位差。</p>
+<p>一旦建立了动作电位，它就会在神经元的轴突中“移动”。动作电位并不是在物理意义上移动；电荷的逆转是在轴突的不同点以“人浪（Mexican wave）”效应复制的。轴突中的一点会去极化（去极化是细胞膜电位的变化，使其变得更正或更少负），这种去极化是轴突下一个区域去极化的刺激。当下一个区域去极化时，前一个区域恢复正常并复极化。
+最终，动作电位将到达轴突的末端，称为突触小体。</p>
+<p>当动作电位通过后，细胞通过两种跨膜蛋白恢复 -65mV 的静息电位：电压门控钾通道和 Na+/K+ ATP酶（钠/钾泵）。钾通道是电压敏感的，当动作电位发生并达到峰值时打开，它们打开的同时钠通道在峰值电压下变得不活跃。这将驱动细胞回到静息电位，并确保每个动作电位后都有一个不应期，因为钠通道必须从关闭（高电压）构象变为不活跃（低电压），才能再次通过适当的去极化打开。钠钾泵利用能量主动地、持续地将钠泵出细胞，将钾泵入细胞——右边的图片思路是对的，但是方向反了哦。[如果有能力的小伙伴请编辑并修复这张图片吧]</p>
+<h2 id="_6">对其他神经元的作用</h2>
+<p>神经元通过释放 <a href="/FreeODwiki/文档/神经递质.html">神经递质</a> 结合到化学 <a href="/FreeODwiki/文档/受体.html">受体</a> 上来影响其他神经元。对突触后神经元的影响不是由突触前神经元或神经递质决定的，而是由被激活的受体类型决定的哦。受体可以大致分为 <a href="/FreeODwiki/文档/神经递质.html#Excitatory_and_Inhibitory_Effects">兴奋性</a>（导致发放率增加）、<a href="/FreeODwiki/文档/神经递质.html#Excitatory_and_Inhibitory_Effects">抑制性</a>（导致发放率降低）或调节性（导致与发放率不直接相关的长期影响）。兴奋性和抑制性神经递质之间的区别不是绝对的呢。相反，它取决于突触后神经元上存在的化学受体的类别。原则上，释放单一神经递质的单一神经元可以对某些目标产生兴奋作用，对其他目标产生抑制作用，并对另外一些目标产生调节作用。</p>
+<h2 id="_7">另见</h2>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/文档/神经递质.html">神经递质</a></li>
+<li><a href="/FreeODwiki/文档/受体.html">受体</a></li>
+<li><a href="/FreeODwiki/文档/突触.html">突触</a></li>
+</ul>
+<h2 id="_8">外部链接</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Neuron">Neuron (Wikipedia)</a></li>
+</ul>
+<h2 id="_9">参考文献</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

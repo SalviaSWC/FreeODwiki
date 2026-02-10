@@ -1,0 +1,918 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>EPT - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ept" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              EPT
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E6%95%88/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        化学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        药理学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        主观效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="主观效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        身体效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="视觉效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉增强
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉扭曲
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        几何
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        幻觉状态
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        认知效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        听觉效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        毒性和伤害潜能
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="毒性和伤害潜能">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        依赖性和滥用潜能
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        法律地位
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="外部链接">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        讨论
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_20" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<hr />
+<h1 id="ept">EPT</h1>
+<p><a href="./home.html">◀返回</a></p>
+<table>
+<thead>
+<tr>
+<th>EPT</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/EPT.png"><img alt="EPT.png" src="/FreeODwiki/文件/EPT.png" /></a></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>化学命名法</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>通用名称</strong></td>
+<td><em>EPT</em></td>
+</tr>
+<tr>
+<td><strong>取代名称</strong></td>
+<td><em>N-Ethyl-N-propyltryptamine</em></td>
+</tr>
+<tr>
+<td><strong>系统名称</strong></td>
+<td><em>3-[2-(Ethyl(propyl)amino)ethyl]-1H-indole</em></td>
+</tr>
+<tr>
+<td><strong>分类归属</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>精神活性分类</strong></td>
+<td><em><a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a></em></td>
+</tr>
+<tr>
+<td><strong>化学分类</strong></td>
+<td><em><a href="/FreeODwiki/文档/药物分类/色胺类物质.html">色胺类物质</a></em></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药途径.html">给药途径</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>⚠️ 警告喵：</strong> 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。<a href="/FreeODwiki/文档/负责任的用药索引页.html">参见伤害减少措施</a>。</td>
+<td>⇣ <a href="/FreeODwiki/文档/给药途径.html#鼻吸">鼻吸</a></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药剂量.html">给药剂量</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#轻微">轻微</a></td>
+<td>20 - 40 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#中等">中等</a></td>
+<td>40 - 80 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#强烈">强烈</a></td>
+<td>80 - 110 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#严重">严重</a></td>
+<td>110 mg +</td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/药效时长.html">药效时长</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#总时长">总时长</a></td>
+<td>2 - 4 小时</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#药效发作">药效发作</a></td>
+<td>5 - 20 分钟</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#药效残余">药效残余</a></td>
+<td>1 - 3 小时</td>
+</tr>
+<tr>
+<td><strong>免责声明哦：</strong> 本站的<a href="/FreeODwiki/文档/给药剂量.html">给药剂量</a>信息是从用户和<a href="/FreeODwiki/关于本站/home.html">资源</a>中收集的，仅用于教育目的呢。这不是推荐，应该与其他来源核实准确性喵。</td>
+<td></td>
+</tr>
+<tr>
+<td><strong><a href="#危险的药物联用">药物联用</a></strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>N-乙基-N-丙基色胺</strong>（也称为 <strong>Ethylpropyltryptamine</strong> 和 <strong>EPT</strong>）是一种冷门的新型<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a><a href="/FreeODwiki/文档/药物分类/色胺类物质.html">色胺类物质</a>。EPT 在化学上与 <a href="/FreeODwiki/药物/DMT.html">DMT</a> 相关，属于一系列被称为未取代色胺的致幻化合物。</p>
+<p>EPT 的最初合成日期不详。它于 2016 年首次出现在在线<a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品</a>市场上。与大多数研究用化学品不同，EPT 在科学文献中没有记录。它似乎完全是秘密药物设计的产物呢。</p>
+<p>最初的报告描述 EPT 的效果与结构相似的基础色胺（如 <a href="/FreeODwiki/药物/DMT.html">DMT</a>、<a href="/FreeODwiki/药物/DET.html">DET</a> 和 <a href="/FreeODwiki/药物/DPT.html">DPT</a>）相比温和且模糊，而后者都是非常强效的致幻剂。在这些物质中，据报道它与 <a href="/FreeODwiki/药物/DPT.html">DPT</a> 最相似，尽管效力较低且沉浸感较差。</p>
+<p>关于 EPT 的药理特性、代谢和毒性的数据几乎不存在哦。如果使用这种物质，强烈建议采取<a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a>。</p>
+<h2 id="_1">目录</h2>
+<ul>
+<li><a href="#化学">1 化学</a></li>
+<li><a href="#药理学">2 药理学</a></li>
+<li><a href="#主观效应">3 主观效应</a><ul>
+<li><a href="#身体效应">3.1 身体效应</a></li>
+<li><a href="#视觉效应">3.2 视觉效应</a><ul>
+<li><a href="#视觉增强">3.2.1 视觉增强</a></li>
+<li><a href="#视觉扭曲">3.2.2 视觉扭曲</a></li>
+<li><a href="#几何图形">3.2.3 几何图形</a></li>
+<li><a href="#幻觉状态">3.2.4 幻觉状态</a></li>
+</ul>
+</li>
+<li><a href="#认知效应">3.3 认知效应</a></li>
+<li><a href="#听觉效应">3.4 听觉效应</a></li>
+<li><a href="#体验报告">3.5 体验报告</a></li>
+</ul>
+</li>
+<li><a href="#毒性和伤害潜能">4 毒性和伤害潜能</a><ul>
+<li><a href="#依赖性和滥用潜能">4.1 依赖性和滥用潜能</a></li>
+</ul>
+</li>
+<li><a href="#法律地位">5 法律地位</a><ul>
+<li><a href="#另见">6 另见</a></li>
+<li><a href="#外部链接">7 外部链接</a><ul>
+<li><a href="#讨论">7.1 讨论</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#参考文献">8 参考文献</a></li>
+</ul>
+<h2 id="_2">化学</h2>
+<p>EPT，或 N-乙基-N-丙基色胺，是色胺化学类别的合成吲哚分子。色胺共享一个核心结构，由一个双环吲哚杂环通过乙基侧链在 R3 处连接到一个氨基上。EPT 的色胺骨架末端胺 RN 上结合有一个丙基和一个乙基。EPT 是 <a href="/FreeODwiki/药物/DPT.html">DPT</a> 的 N-乙基类似物，也是 <a href="/FreeODwiki/药物/DET.html">DET</a> 的 N-丙基类似物。它也是 <a href="/FreeODwiki/药物/4-HO-EPT.html">4-HO-EPT</a> 和 <a href="/FreeODwiki/药物/4-AcO-EPT.html">4-AcO-EPT</a> 的类似物。</p>
+<p>EPT 是一种未取代的色胺，在化学上与 DMT 相关。EPT 的最初合成日期不详。它于 2016 年首次出现在在线研究用化学品市场上。与大多数研究用化学品不同，EPT 在科学文献中没有记录。它似乎完全是秘密药物设计的产物。EPT 通常以其乙基丙基色胺富马酸盐形式出售，而不是其他色胺可能出售的传统盐酸盐形式。</p>
+<p>不幸的是，关于 EPT 的代谢和潜在毒性的数据几乎不存在呢。</p>
+<h2 id="_3">药理学</h2>
+<p>更多信息：<a href="/FreeODwiki/文档/药物分类/致幻剂.html">血清素致幻剂</a></p>
+<p>与大多数<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a>色胺一样，EPT 被认为主要起着 <a href="/FreeODwiki/文档/血清素.html">5-HT2A</a> <a href="/FreeODwiki/文档/受体激动剂.html">部分激动剂</a>的作用。致幻效果被认为来自 EPT 在 5-HT2A 受体上的结合功效。大多数血清素致幻色胺与血清素本身具有非常强的结构相似性，这部分解释了对某些 5-HT 位点的亲和力。几乎一致认为，大多数血清素致幻剂——如 EPT——通过作为 5-HT2A 受体的强部分<a href="/FreeODwiki/文档/受体激动剂.html">激动剂</a>产生其效果。</p>
+<h2 id="_4">主观效应</h2>
+<table>
+<thead>
+<tr>
+<th><a href="/FreeODwiki/文件/Metacogghjgjvghnition.png"><img alt="Metacogghjgjvghnition.png" src="/FreeODwiki/文件/Metacogghjgjvghnition.png" /></a></th>
+<th><strong>这个主观效应部分是一个<a href="/FreeODwiki/关于本站/home.html">小作品</a></strong>。<br><em>因此，它仍在进行中，可能包含不完整或错误的信息。</em><br><em>大家可以帮忙<a href="https://psychonautwiki.org/w/index.php?title=EPT&amp;action=edit">扩展或修正它哦。</a></em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>免责声明哦：</em>* 下列效应引用自 <a href="/FreeODwiki/药效/主观效应索引.html"><strong><em>主观效应索引</em></strong></a> (</strong>SEI*<em>)，这是一个基于轶事用户报告和 <a href="/FreeODwiki/关于本站/home.html">FreeODwiki</a> 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们。</em></p>
+<p><em>同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管高剂量更可能诱发全方位的效应。同样，</em><em>不良反应</em><em> 在高剂量下变得越来越可能，并可能包括 </em><em>成瘾、严重伤害或死亡</em>** ☠。EPT 的效应尚未像许多其他色胺那样得到充分研究。以下效应来自相对有限的样本量。</p>
+<h3 id="_5"><strong>身体效应</strong></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/刺激.html">刺激</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/性欲增强.html">性欲增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/运动控制丧失.html">运动控制丧失</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/恶心.html">恶心</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/瞳孔扩大.html">瞳孔扩大</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/躯体轻盈感.html">躯体轻盈感</a></strong></li>
+</ul>
+<h3 id="_6"><strong>视觉效应</strong></h3>
+<h4 id="_7">视觉增强</h4>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/颜色增强.html">颜色增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/模式识别增强.html">模式识别增强</a></strong></li>
+</ul>
+<h4 id="_8">视觉扭曲</h4>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/衍射.html">衍射</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/漂移.html">漂移</a></strong> <em>（<a href="/FreeODwiki/药效/漂移.html">融化</a>、<a href="/FreeODwiki/药效/漂移.html">呼吸</a>、<a href="/FreeODwiki/药效/漂移.html">变形</a> 和 <a href="/FreeODwiki/药效/漂移.html">流动</a>）</em></li>
+<li><strong><a href="/FreeODwiki/药效/物体改变.html">物体改变</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/对称纹理重复.html">对称纹理重复</a></strong></li>
+</ul>
+<h4 id="_9"><a href="/FreeODwiki/药效/几何.html">几何</a></h4>
+<h4 id="_10">幻觉状态</h4>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/内部幻觉.html">内部幻觉</a></strong></li>
+</ul>
+<h3 id="_11"><strong>认知效应</strong></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/记忆抑制.html">记忆抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/个人偏见抑制.html">个人偏见抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/思维加速.html">思维加速</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/时间扭曲.html">时间扭曲</a></strong></li>
+</ul>
+<h3 id="_12"><strong>听觉效应</strong></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/听觉扭曲.html">听觉扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/听觉锐度增强.html">听觉锐度增强</a></strong></li>
+</ul>
+<h3 id="_13">体验报告</h3>
+<p>在我们的<a href="/FreeODwiki/文档/复现索引.html">体验索引</a>中，描述该化合物效应的轶事报告包括：</p>
+<ul>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_80mg_EPT_-_Bummer.html">Experience: 80mg EPT - Bummer</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_80mg_EPT_-_Slight_improvement.html">Experience: 80mg EPT - Slight improvement</a></li>
+</ul>
+<p>其他的体验报告可以在这里找到哦：</p>
+<ul>
+<li><a href="https://www.erowid.org/experiences/subs/exp_EPT.shtml">Erowid Experience Vaults: EPT</a></li>
+</ul>
+<h2 id="_14">毒性和伤害潜能</h2>
+<p>更多信息：<a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品 § 毒性和伤害潜能</a>，和 <a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药 § 致幻剂</a></p>
+<p>娱乐性 EPT 使用的毒性和长期健康影响尚未在任何科学背景下进行研究，确切的中毒剂量也是未知的。这是因为 EPT 是一种<a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品</a>，人类使用的历史非常有限。</p>
+<p>轶事证据表明，仅仅是以低到中等剂量单独尝试 EPT 并非常节制地使用，似乎没有负面的健康影响（但没有什么能完全保证哦）。在摄入之前，应始终进行<a href="https://www.google.com/">独立研究</a>以确保两种或多种物质的组合是安全的。</p>
+<p>强烈建议大家在使用这种物质时采取<a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a>呢。</p>
+<h3 id="_15">依赖性和滥用潜能</h3>
+<p>轶事报告表明，EPT 不会产生依赖性，滥用潜能较低。据信在这方面它类似于其他未取代的色胺，如 <a href="/FreeODwiki/药物/DMT.html">DMT</a>、<a href="/FreeODwiki/药物/DET.html">DET</a> 和 <a href="/FreeODwiki/药物/MET.html">MET</a>。</p>
+<p>与 DMT 不同，对 EPT 效应的耐受性似乎在摄入后几乎立即形成。在那之后，大约需要 3 天时间耐受性才会减半，7 天时间恢复到基线（在不再继续摄入的情况下）。EPT 与所有<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a>均存在交叉耐受性，这意味着在摄入 EPT 后，所有致幻剂的效果都会减弱。</p>
+<h2 id="_16">法律地位</h2>
+<table>
+<thead>
+<tr>
+<th><a href="/FreeODwiki/文件/Handcuffs-300px.png"><img alt="Handcuffs-300px.png" src="/FreeODwiki/文件/Handcuffs-300px.png" /></a></th>
+<th><strong>这个法律部分是一个<a href="/FreeODwiki/关于本站/home.html">小作品</a>。</strong><br><em>因此，它可能包含不完整或错误的信息。大家可以帮忙<a href="https://psychonautwiki.org/w/index.php?title=EPT&amp;action=edit">扩展它</a>哦。</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>由于其相对冷门，EPT 的持有和销售在大多数国家/地区没有被列入管制。</p>
+<ul>
+<li><strong>德国</strong>：截至 2019 年 7 月 18 日，EPT 根据 NpSG（<em>新精神活性物质法</em>）受到管制。[1][2] 旨在将其投放市场的生产和进口、对他人的管理和交易均受到惩罚。持有是非法的，但不会受到惩罚。[3]</li>
+<li><strong>瑞士</strong>：EPT 不受 Buchstabe A, B, C 和 D 的管制。它可以被认为是合法的。[4]</li>
+<li><strong>英国</strong>：由于色胺类物质的兜底条款，EPT 在英国是 A 类管制物质。[5]</li>
+<li><strong>美国</strong>：EPT 在美国未列入管制。它可能被认为是 <a href="/FreeODwiki/药物/DMT.html">DMT</a> 的类似物，而 DMT 是《管制物质法》下的附表 I 化合物。因此，以人类消费为目的的销售或用于非法非医疗或工业目的和用途可能会根据《联邦模拟法》作为犯罪被起诉。</li>
+<li><strong>意大利</strong>：EPT 是附表 1 管制物质。[6]</li>
+</ul>
+<h2 id="_17">另见</h2>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/色胺类物质.html">色胺类物质</a></li>
+<li><a href="/FreeODwiki/药物/DPT.html">DPT</a></li>
+<li><a href="/FreeODwiki/药物/4-AcO-EPT.html">4-AcO-EPT</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-EPT.html">4-HO-EPT</a></li>
+</ul>
+<h2 id="_18">外部链接</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ethylpropyltryptamine">Ethylpropyltryptamine (Wikipedia)</a></li>
+<li><a href="https://isomerdesign.com/PiHKAL/explore.php?id=5075">EPT (Isomer Design)</a></li>
+</ul>
+<h3 id="_19">讨论</h3>
+<ul>
+<li><a href="https://www.bluelight.org/xf/threads/856610">The Small &amp; Handy EPT Thread (Bluelight)</a></li>
+</ul>
+<h2 id="_20">参考文献</h2>
+<table>
+<thead>
+<tr>
+<th><a href="/FreeODwiki/文件/Question_book-new.png"><img alt="Question_book-new.svg" src="/FreeODwiki/文件/Question_book-new.png" /></a></th>
+<th><strong>这篇文章没有引用足够的参考文献。</strong><br><em>大家可以帮忙<a href="https://psychonautwiki.org/w/index.php?title=EPT&amp;action=edit">添加一些</a>哦。</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li><a href="#cite_ref-1">↑</a> <a href="https://www.gesetze-im-internet.de/npsg/anlage.html">"Anlage NpSG"</a> (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.</li>
+<li><a href="#cite_ref-2">↑</a> <a href="http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&amp;jumpTo=bgbl119s1083.pdf">"Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"</a> (PDF). <em>Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27</em> (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.</li>
+<li><a href="#cite_ref-3">↑</a> <a href="https://www.gesetze-im-internet.de/npsg/__4.html">"§ 4 NpSG"</a> (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.</li>
+<li><a href="#cite_ref-4">↑</a> <a href="https://www.admin.ch/opc/de/classified-compilation/20101220/index.html">"Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"</a> (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.</li>
+<li><a href="#cite_ref-5">↑</a> <a href="http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I">"Part I: Class A Drugs"</a>. <em>"Misuse of Drugs Act 1971"</em>. UK Government. Retrieved January 7, 2020.</li>
+<li><a href="#cite_ref-6">↑</a> <a href="http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf"><em>Tabella 1</em></a> (PDF) (in Italian), Ministero della Salute (Ministry of Health), retrieved 24 November 2020</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,615 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>对称纹理重复 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              对称纹理重复
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        内容
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="内容">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        分析
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="分析">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="./home.html">◀返回</a></p>
+<h1 id="_1">对称纹理重复</h1>
+<p><a href="/FreeODwiki/文件/Grass_by_Chelsea_Morgan.jpg"><img alt="" src="/FreeODwiki/文件/Grass_by_Chelsea_Morgan.jpg" /></a></p>
+<p><strong>草地</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong> - 这张图片精准地描绘了这种被称为对称纹理重复的常见 <a href="./药物分类/迷幻剂.html">迷幻</a> 效应呢。</p>
+<p><strong>对称纹理重复</strong> 的定义是感知到纹理在其自身的表面上以复杂且对称的方式反复镜像，并且在整个过程中保持一致。无论观察者试图多近距离地观察这种扭曲，它都保持着相同的细节水平，而且往往在周边视觉中最为明显。它通常出现在粗糙的纹理中，比如草地、地毯、树皮和沥青哦。</p>
+<p>在这种状态下，如果盯着一个固定的点看，对称纹理重复可能会逐渐增强，并进一步镶嵌成更复杂的形状。但是嘛，一旦视线转移或重新审视，这种复杂性的增加通常会重置回基线。</p>
+<p>对称纹理重复经常伴随着其他并发效应，比如 <a href="./模式识别增强.html">模式识别增强</a><a href="#cite_note-PapoutsisNikolaou2014-1">[1]</a><a href="#cite_note-BersaniCorazza2014-2">[2]</a> 和 <a href="./变形.html">变形</a>，这种方式可能导致在对称性中嵌入大量的抽象形式和图像。它最常见于使用 <a href="./药物剂量分类.html#mild">轻微</a> <a href="./药物剂量分类.html">剂量</a> 的 <a href="./药物分类/迷幻剂.html">迷幻剂</a> 类化合物，比如 <a href="./药物/LSD.html">LSD</a>、<a href="./药物/赛洛西宾蘑菇.html">赛洛西宾</a> 和 <a href="./药物/麦斯卡林.html">麦斯卡林</a> 时发生。不过呢，在某些 <a href="./药物分类/兴奋剂.html">兴奋剂</a> 和 <a href="./药物分类/解离剂.html">解离剂</a> 的影响下，比如 <a href="./药物/MDMA.html">MDMA</a> 或 <a href="./药物/3-MeO-PCP.html">3-MeO-PCP</a>，也可能比较少见地发生。</p>
+<h2 id="_2">内容</h2>
+<ul>
+<li><a href="#分析">1 分析</a><ul>
+<li><a href="#图像示例">1.1 图像示例</a></li>
+</ul>
+</li>
+<li><a href="#精神活性物质">2 精神活性物质</a></li>
+<li><a href="#体验报告">3 体验报告</a></li>
+<li><a href="#另见">4 另见</a></li>
+<li><a href="#外部链接">5 外部链接</a></li>
+<li><a href="#参考文献">6 参考文献</a></li>
+</ul>
+<h3 id="_3">分析</h3>
+<p><a href="/FreeODwiki//gfycat.com/ifr/DizzyInexperiencedEuropeanpolecat">//gfycat.com/ifr/DizzyInexperiencedEuropeanpolecat</a></p>
+<p>这个动画演示了如何通过简单地将粗糙纹理对称地镜像来准确地重现对称纹理重复哦。</p>
+<p>值得注意的是，要使用图像编辑软件准确复制这种效果的外观，只需要简单地将纹理在自身上进行对称镜像就可以了。这可能表明大脑内部也发生着类似的过程，也许是通过从中心视线获取视觉数据，并将其以导致纹理对称镶嵌的方式镜像到周边视觉，来填充缺失的细节呢。</p>
+<h4 id="_4">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><a href="/FreeODwiki/wiki/Property:Caption" title="Property:Caption">标题</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Asphalt_by_Chelsea_Morgan.jpg"><img alt="Asphalt by Chelsea Morgan.jpg" src="/FreeODwiki/文件/Asphalt_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>沥青</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Grass_by_Chelsea_Morgan.jpg"><img alt="Grass by Chelsea Morgan.jpg" src="/FreeODwiki/文件/Grass_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>草地 作者 <a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Bathroom_Rug_by_Chelsea_Morgan.jpg"><img alt="Bathroom Rug by Chelsea Morgan.jpg" src="/FreeODwiki/文件/Bathroom_Rug_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>浴室地毯</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Symmetrical_carpet_repetition_by_Xanny.jpeg.jpeg"><img alt="Symmetrical carpet repetition by Xanny.jpeg" src="/FreeODwiki/文件/Symmetrical_carpet_repetition_by_Xanny.jpeg.jpeg" /></a></td>
+<td><strong>对称性地毯重复</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:Subsentience" title="User:Subsentience">Subsentience</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Paradise_island_by_Xanny.jpg"><img alt="Paradise island by Xanny.jpg" src="/FreeODwiki/文件/Paradise_island_by_Xanny.jpg" /></a></td>
+<td><strong>天堂岛</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:Subsentience" title="User:Subsentience">Subsentience</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Symmetry_on_treebark.jpg"><img alt="Symmetry on treebark.jpg" src="/FreeODwiki/文件/Symmetry_on_treebark.jpg" /></a></td>
+<td><strong>树皮上的对称</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:Josikins" title="User:Josikins">Josikins</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/150ug-ish_outside_by_timedilation.jpg"><img alt="150ug-ish outside by timedilation.jpg" src="/FreeODwiki/文件/150ug-ish_outside_by_timedilation.jpg" /></a></td>
+<td><strong>大约150ug的户外</strong> 作者 <strong><a href="https://www.reddit.com/user/timedialation">timedilation</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Grass_on_2cb_by_inifinity.jpg"><img alt="Grass on 2cb by inifinity.jpg" src="/FreeODwiki/文件/Grass_on_2cb_by_inifinity.jpg" /></a></td>
+<td><strong><a href="./药物/2C-B.html">2C-B</a> 下的草地</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:Infinity" title="User:Infinity">Infinity</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Stones_by_Chelsea_Morgan.jpg"><img alt="Stones by Chelsea Morgan.jpg" src="/FreeODwiki/文件/Stones_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>石头</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Leaves_by_Chelsea_Morgan.jpg"><img alt="Leaves by Chelsea Morgan.jpg" src="/FreeODwiki/文件/Leaves_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>叶子</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Gravel_by_Chelsea_Morgan.jpg"><img alt="Gravel by Chelsea Morgan.jpg" src="/FreeODwiki/文件/Gravel_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>碎石</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Symmetric_pattern_drifting.gif"><img alt="Symmetric pattern drifting.gif" src="/FreeODwiki/文件/Symmetric_pattern_drifting.gif" /></a></td>
+<td><strong>对称漂移图案</strong> 作者 <strong><a href="/FreeODwiki/w/index.php?title=Anonymous&amp;action=edit&amp;redlink=1" title="Anonymous (page does not exist)">Anonymous</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Ice_by_Chelsea_Morgan.jpg"><img alt="Ice by Chelsea Morgan.jpg" src="/FreeODwiki/文件/Ice_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>冰</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Flower_Bush_by_Chelsea_Morgan.JPG"><img alt="Flower Bush by Chelsea Morgan.JPG" src="/FreeODwiki/文件/Flower_Bush_by_Chelsea_Morgan.JPG" /></a></td>
+<td><strong>花丛</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+</tbody>
+</table>
+<!-- 请勿删除或修改，这是一个标记，待识别并填坑（药效索引） -->
+
+<h3 id="_5">体验报告</h3>
+<p>描述了这种效应的<a href="../报告/psychounautwiki/">体验报告</a>包括：</p>
+<ul>
+<li><a href="../报告/psychounautwiki/Experience:_15mg_2C-B_(oral)_-_A_pleasant_low-dose_evening_with_Nexus.md">Experience: 15mg 2C-B (oral) - A pleasant low-dose evening with Nexus</a></li>
+<li><a href="../报告/psychounautwiki/Experience:_80mg_EPT_-_Slight_improvement.html">Experience: 80mg EPT - Slight improvement</a></li>
+<li><a href="../报告/psychounautwiki/Experience:100ug_1P-LSD_-_A_Fear_and_loathing_into_Bliss.html">Experience:100ug 1P-LSD - A Fear and loathing into Bliss</a></li>
+<li><a href="../报告/psychounautwiki/Experience:150mg_MDMA_%2B_20mg_2C-B_-_I_designed_it_this_way_myself.html">Experience:150mg MDMA + 20mg 2C-B - I designed it this way myself</a></li>
+<li><a href="../报告/psychounautwiki/Experience:1mg_25c-NBOMe_-_Experiment_in_my_room.html">Experience:1mg 25c-NBOMe - Experiment in my room</a></li>
+<li><a href="../报告/psychounautwiki/Experience:20mg_-_I_looked_up_and_saw_an_angry_god-like_figure_made_of_clouds_glaring_down_at_me.html">Experience:20mg - I looked up and saw an angry god-like figure made of clouds glaring down at me</a></li>
+<li><a href="../报告/psychounautwiki/Experience:25mg_2C-B_-_Hard_raving_at_home.html">Experience:25mg 2C-B - Hard raving at home</a></li>
+<li><a href="../报告/psychounautwiki/Experience:3_Grams_of_Mushrooms_-_Reset_on_my_Life,_Experiencing_Satori_and_the_Cosmic_Perspective.html">Experience:3 Grams of Mushrooms - Reset on my Life, Experiencing Satori and the Cosmic Perspective</a></li>
+<li><a href="../报告/psychounautwiki/Experience:300%C2%B5g_LSD_-_Togetherness_and_the_Silent_Dusk.html">Experience:300µg LSD - Togetherness and the Silent Dusk</a></li>
+<li><a href="../报告/psychounautwiki/Experience:30mg_4-HO-MiPT_-_Positively_groovy.html">Experience:30mg 4-HO-MiPT - Positively groovy</a></li>
+<li><a href="../报告/psychounautwiki/Experience:4.5g_-_The_Grand_Introduction_to_Beauty_and_Fear.html">Experience:4.5g - The Grand Introduction to Beauty and Fear</a></li>
+<li><a href="../报告/psychounautwiki/Experience:40_mg_4-HO-MPT_-_Underwhelming_Experience.html">Experience:40 mg 4-HO-MPT - Underwhelming Experience</a></li>
+<li><a href="../报告/psychounautwiki/Experience:40mg_-_Brothermind_and_the_Forest%27s_Hand.html">Experience:40mg - Brothermind and the Forest's Hand</a></li>
+<li><a href="../报告/psychounautwiki/Experience:5.3g_psilocybe_cubensis_-_Dimensional_Circumstance_and_the_Fabric_of_Understanding.html">Experience:5.3g psilocybe cubensis - Dimensional Circumstance and the Fabric of Understanding</a></li>
+<li><a href="../报告/psychounautwiki/Experience:75_mg_-_Good_tunes_feat._Jeb_Bush.html">Experience:75 mg - Good tunes feat. Jeb Bush</a></li>
+<li><a href="../报告/psychounautwiki/Experience:BK-2C-B_-_Various_experiences.html">Experience:BK-2C-B - Various experiences</a></li>
+<li><a href="../报告/psychounautwiki/Experience:LSD_(230_ug)_-_An_amazing_adventure_by_vikilikepsych.md">Experience:LSD (230 ug) - An amazing adventure by vikilikepsych</a></li>
+<li><a href="../报告/psychounautwiki/Experience:Unknown_dosage_/_3_tabs_-_Ego_death_and_a_total_break_through_in_the_snow.html">Experience:Unknown dosage / 3 tabs - Ego death and a total break through in the snow</a></li>
+</ul>
+<h3 id="_6">另见</h3>
+<ul>
+<li><a href="../文档/负责任的用药索引页.html">负责任的用药索引页</a></li>
+<li><a href="./home.html">主观效应索引</a></li>
+<li><a href="../文档/药物分类/迷幻剂.html#Subjective_effects">迷幻剂 - 主观效应</a></li>
+<li><a href="../文档/药物分类/解离剂.html#Subjective_effects">解离剂 - 主观效应</a></li>
+<li><a href="../文档/药物分类/谵妄剂.html#Subjective_effects">谵妄剂 - 主观效应</a></li>
+</ul>
+<h3 id="_7">外部链接</h3>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/对称">对称性 (维基百科)</a></li>
+</ul>
+<h3 id="_8">参考文献</h3>
+<ol>
+<li><a href="#cite_ref-PapoutsisNikolaou2014_1-0">↑</a> Papoutsis, Ioannis; Nikolaou, Panagiota; Stefanidou, Maria; Spiliopoulou, Chara; Athanaselis, Sotiris (2014). "25B-NBOMe and its precursor 2C-B: modern trends and hidden dangers". <em>Forensic Toxicology</em>. <strong>33</strong> (1): 1–11. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2Fs11419-014-0242-9">10.1007/s11419-014-0242-9</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1860-8965">1860-8965</a>. </li>
+<li><a href="#cite_ref-BersaniCorazza2014_2-0">↑</a> Bersani, Francesco Saverio; Corazza, Ornella; Albano, Gabriella; Valeriani, Giuseppe; Santacroce, Rita; Bolzan Mariotti Posocco, Flaminia; Cinosi, Eduardo; Simonato, Pierluigi; Martinotti, Giovanni; Bersani, Giuseppe; Schifano, Fabrizio (2014). "25C-NBOMe: Preliminary Data on Pharmacology, Psychoactive Effects, and Toxicity of a New Potent and Dangerous Hallucinogenic Drug". <em>BioMed Research International</em>. <strong>2014</strong>: 1–6. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1155%2F2014%2F734749">10.1155/2014/734749</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/2314-6133">2314-6133</a>.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

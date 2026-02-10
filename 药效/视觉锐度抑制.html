@@ -1,0 +1,523 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>视觉锐度抑制 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              视觉锐度抑制
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="目录">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="./home.html">◀返回</a></p>
+<h1 id="_1">视觉锐度抑制</h1>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="../文件/London_acuity_suppression.jpg" /></td>
+<td><strong>由 <a href="../文件/User_Josikins">Josikins</a> 创作的模糊的伦敦</strong> - 这张图片准确地复制了在伦敦市中心金禧人行桥上看到的锐度抑制效果呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>视觉锐度抑制</strong>定义为视力清晰度和锐度的下降，导致视觉变得部分或完全模糊不清呢。[1] 这种效应可能会影响一个人的整个视野，也可能只影响特定部分哦。这种锐度抑制的体验就像是透过失焦的镜头看东西，会降低人们在外部环境中能看到的细节嘛。根据强度的不同，这通常会导致需要视力的基本功能和任务执行能力下降欸。</p>
+<p>视觉锐度抑制通常伴随着其他并发效应，比如<a href="/FreeODwiki/药效/复视.html">复视</a>和<a href="/FreeODwiki/药效/模式识别抑制.html">模式识别抑制</a>呢。这种效应最常在<a href="/FreeODwiki/文档/给药剂量.html#中等">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/抑制剂.html">抑制剂</a>和<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>类物质影响下诱发，例如<a href="/FreeODwiki/药物/酒精.html">酒精</a>[2]、<a href="/FreeODwiki/药物/喹硫平.html">喹硫平</a>、<a href="/FreeODwiki/药物/氯胺酮.html">氯胺酮</a>和<a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a>哦。</p>
+<h2 id="_2">目录</h2>
+<ul>
+<li><a href="#精神活性物质">1 精神活性物质</a></li>
+<li><a href="#体验报告">2 体验报告</a></li>
+<li><a href="#另见">3 另见</a></li>
+<li><a href="#外部链接">4 外部链接</a></li>
+<li><a href="#参考文献">5 参考文献</a></li>
+</ul>
+<!-- 请勿删除或修改，这是一个标记，待识别并填坑（药效索引） -->
+
+<h3 id="_3">体验报告</h3>
+<p>在我们的<a href="/FreeODwiki/报告/psychounautwiki/Experience_index">体验索引</a>中，描述此效应的轶事报告包括：</p>
+<ul>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_550mg_DPH_-_My_First_Time_on_DPH">Experience: 550mg DPH - My First Time on DPH</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:100ug_1P-LSD_-_A_Fear_and_loathing_into_Bliss">Experience:100ug 1P-LSD - A Fear and loathing into Bliss</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:200_mg_of_MXP_%2B_N2O:20_chargers">Experience:200 mg of MXP + N2O:20 chargers</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:250_seeds_-_Harsh_body_load">Experience:250 seeds - Harsh body load</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:25mg_Deschloroketamine_-_My_first_time_orally_dosing_DCK">Experience:25mg Deschloroketamine - My first time orally dosing DCK</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3-MeO-PCP_-_Extreme_psychosis">Experience:3-MeO-PCP - Extreme psychosis</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion">Experience:3-MeO-PCP, LSD, Clonazolam, and Amphetamine - Excessive Amounts and Excessive Confusion</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3g_Syrian_Rue_%2B_5g_Acacia_Confusa_-_Life_Changing_Madness">Experience:3g Syrian Rue + 5g Acacia Confusa - Life Changing Madness</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:60mg_Zolpidem_-_A_Delirious_Adventure">Experience:60mg Zolpidem - A Delirious Adventure</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:DXM_%26_DPH_in_combination">Experience:DXM &amp; DPH in combination</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:Datura_Alcoholic_Tincture">Experience:Datura Alcoholic Tincture</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:Mushrooms_(~0.5_g)_-_Autonomous_Voice">Experience:Mushrooms (~0.5 g) - Autonomous Voice</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:Unknown_dose_-_Supermarket_dislocation_and_biking">Experience:Unknown dose - Supermarket dislocation and biking</a></li>
+</ul>
+<h3 id="_4">另见</h3>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/药效/home.html">主观效应索引</a></li>
+<li><a href="/FreeODwiki/药效/视觉锐度增强.html">视觉锐度增强</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/解离剂.html#主观效应">解离剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/谵妄剂.html#主观效应">谵妄剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/迷幻剂.html#主观效应">迷幻剂 - 主观效应</a></li>
+</ul>
+<h3 id="_5">外部链接</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Blurred_vision">Blurred vision (Wikipedia)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Visual_acuity">Visual acuity (Wikipedia)</a></li>
+</ul>
+<h3 id="_6">参考文献</h3>
+<ol>
+<li><a href="#cite_ref-B.Sc.Buncic2018_1-0">↑</a> B.Sc., Joanne L. Smith; Buncic, J. Raymond (2018). "Drugs Which Can Affect near Vision: A Useful List". <em>American Orthoptic Journal</em>. <strong>49</strong> (1): 180–190. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1080%2F0065955X.1999.11982210">10.1080/0065955X.1999.11982210</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0065-955X">0065-955X</a>. </li>
+<li><a href="#cite_ref-KunchuliaPilz2012_2-0">↑</a> Kunchulia, Marina; Pilz, Karin S.; Herzog, Michael H. (2012). "How alcohol intake affects visual temporal processing". <em>Vision Research</em>. <strong>66</strong>: 11–16. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2Fj.visres.2012.06.010">10.1016/j.visres.2012.06.010</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0042-6989">0042-6989</a>.</li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,868 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>MiPT - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mipt" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              MiPT
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E6%95%88/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        化学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        药理学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        主观效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="主观效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        身体效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="视觉效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉增强
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉扭曲
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        认知效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        听觉效应
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        毒性和伤害潜能
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="毒性和伤害潜能">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        耐受性和成瘾潜能
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        法律地位
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="外部链接">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        讨论
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="mipt">MiPT</h1>
+<p><a href="./home.html">◀返回</a></p>
+<table>
+<thead>
+<tr>
+<th>MiPT</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/MiPT.png"><img alt="MiPT.png" src="/FreeODwiki/文件/MiPT.png" /></a></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>化学命名法</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>通用名称</strong></td>
+<td><em>MiPT</em></td>
+</tr>
+<tr>
+<td><strong>取代名称</strong></td>
+<td><em>N-Methyl-N-isopropyltryptamine</em></td>
+</tr>
+<tr>
+<td><strong>系统名称</strong></td>
+<td><em>N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-2-amine</em></td>
+</tr>
+<tr>
+<td><strong>分类归属</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>精神活性分类</strong></td>
+<td><em><a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a></em></td>
+</tr>
+<tr>
+<td><strong>化学分类</strong></td>
+<td><em><a href="/FreeODwiki/文档/药物分类/色胺类物质.html">色胺类物质</a></em></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药途径.html">给药途径</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>⚠️ 警告喵：</strong> 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。<a href="/FreeODwiki/文档/负责任的用药索引页.html">参见伤害减少措施</a>。</td>
+<td>⇣ <a href="/FreeODwiki/文档/给药途径.html#口服">口服</a></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药剂量.html">给药剂量</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#中等">中等</a></td>
+<td>10 - 25 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#强烈">强烈</a></td>
+<td>25 - 75 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html#严重">严重</a></td>
+<td>75 - 200 mg</td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/药效时长.html">药效时长</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html#总时长">总时长</a></td>
+<td>3 - 8 小时</td>
+</tr>
+<tr>
+<td><strong>免责声明哦：</strong> 本站的<a href="/FreeODwiki/文档/给药剂量.html">给药剂量</a>信息是从用户和<a href="/FreeODwiki/关于本站/home.html">资源</a>中收集的，仅用于教育目的呢。这不是推荐，应该与其他来源核实准确性喵。</td>
+<td></td>
+</tr>
+<tr>
+<td><strong><a href="#危险的药物联用">药物联用</a></strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>N-甲基-N-异丙基色胺</strong>（也称为 <strong>MiPT</strong>）是一种鲜为人知的<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a><a href="/FreeODwiki/文档/药物分类/色胺类物质.html">色胺类物质</a>。它在结构上与 <a href="/FreeODwiki/药物/DMT.html">DMT</a> 相关，还有其他类似物如 <a href="/FreeODwiki/药物/DiPT.html">DiPT</a>、<a href="/FreeODwiki/药物/MPT.html">MPT</a> 和 <a href="/FreeODwiki/药物/MET.html">MET</a>。</p>
+<p>MiPT 最早由 <a href="/FreeODwiki/文档/TiHKAL.html">亚历山大·舒尔金</a> 合成并研究，并在他的书 <a href="/FreeODwiki/文档/TiHKAL.html">TiHKAL</a>（“我所知道和喜爱的色胺”）中进行了描述。在评论中，舒尔金指出“几乎完全没有视觉现象……没有波形、颜色扭曲或物体形状变化，也没有闭眼图像，这与大多数 N,N-二取代色胺不同。”[1]</p>
+<p>主观效应包括幻觉状态、<a href="/FreeODwiki/药效/时间扭曲.html">时间扭曲</a>、<a href="/FreeODwiki/药效/概念性思维.html">概念性思维</a>、<a href="/FreeODwiki/药效/认知欣快.html">欣快</a>和<a href="/FreeODwiki/药效/自我死亡.html">自我迷失</a>。其效果通常被描述为温和、模糊，并且在用户之间差异很大。与许多相关的色胺相比，它可以<a href="/FreeODwiki/文档/给药途径.html#口服">口服</a>摄入哦。</p>
+<p>如今，MiPT 仍然相对罕见，主要作为娱乐性或<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a>物质使用。它已作为<a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品</a>在网上分发。关于 MiPT 在人体中的药理特性、代谢和毒性的数据非常少，人类使用的历史也很少呢。</p>
+<h2 id="_1">目录</h2>
+<ul>
+<li><a href="#化学">1 化学</a></li>
+<li><a href="#药理学">2 药理学</a></li>
+<li><a href="#主观效应">3 主观效应</a><ul>
+<li><a href="#身体效应">3.1 身体效应</a></li>
+<li><a href="#视觉效应">3.2 视觉效应</a><ul>
+<li><a href="#视觉增强">3.2.1 视觉增强</a></li>
+<li><a href="#视觉扭曲">3.2.2 视觉扭曲</a></li>
+</ul>
+</li>
+<li><a href="#认知效应">3.3 认知效应</a></li>
+<li><a href="#听觉效应">3.4 听觉效应</a></li>
+<li><a href="#体验报告">3.5 体验报告</a></li>
+</ul>
+</li>
+<li><a href="#毒性和伤害潜能">4 毒性和伤害潜能</a><ul>
+<li><a href="#耐受性和成瘾潜能">4.1 耐受性和成瘾潜能</a></li>
+</ul>
+</li>
+<li><a href="#法律地位">5 法律地位</a><ul>
+<li><a href="#另见">6 另见</a></li>
+<li><a href="#外部链接">7 外部链接</a><ul>
+<li><a href="#讨论">7.1 讨论</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#参考文献">8 参考文献</a></li>
+</ul>
+<h2 id="_2">化学</h2>
+<p>MiPT，或 N-甲基-N-异丙基色胺，是<a href="/FreeODwiki/文档/药物分类/色胺类物质.html">色胺</a>类的合成吲哚分子。色胺共享一个核心结构，由一个双环吲哚杂环通过乙基侧链在 R3 处连接到一个氨基上。与含有两个甲基的 <a href="/FreeODwiki/药物/DMT.html">DMT</a> 不同，MiPT 在其色胺骨架的末端胺 RN 上结合有一个甲基和一个异丙基碳链。MiPT 是 <a href="/FreeODwiki/药物/DiPT.html">DiPT</a> 的甲基类似物。</p>
+<h2 id="_3">药理学</h2>
+<p>更多信息：<a href="/FreeODwiki/文档/药物分类/致幻剂.html">血清素致幻剂</a></p>
+<p>与大多数<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a>色胺一样，MiPT 被认为主要起着 <a href="/FreeODwiki/文档/血清素.html">5-HT2A</a> <a href="/FreeODwiki/文档/受体激动剂.html">部分激动剂</a>的作用。致幻效果被认为来自 MiPT 在 5-HT2A 受体上的结合功效。</p>
+<p>然而，这些相互作用的作用以及它是如何导致致幻体验的，仍然难以捉摸呢。</p>
+<h2 id="_4">主观效应</h2>
+<p>MiPT 的感官效应据说与 DiPT 相似，但在相同剂量下强度较低，并且没有产生听觉扭曲的同样倾向。</p>
+<p><strong><em>免责声明哦：</em>* 下列效应引用自 <a href="/FreeODwiki/药效/主观效应索引.html"><strong><em>主观效应索引</em></strong></a> (</strong>SEI*<em>)，这是一个基于轶事用户报告和 <a href="/FreeODwiki/关于本站/home.html">FreeODwiki</a> 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们。</em></p>
+<p><em>同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管高剂量更可能诱发全方位的效应。同样，</em><em>不良反应</em><em> 在高剂量下变得越来越可能，并可能包括 </em><em>成瘾、严重伤害或死亡</em>** ☠。</p>
+<h3 id="_5"><strong>身体效应</strong></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/刺激.html">刺激</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/自发性躯体感觉.html">自发性躯体感觉</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/心率增快.html">心率增快</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/血压升高.html">血压升高</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/恶心.html">恶心</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/口干.html">口干</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/瞳孔扩大.html">瞳孔扩大</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/磨牙.html">磨牙</a></strong></li>
+</ul>
+<h3 id="_6"><strong>视觉效应</strong></h3>
+<h4 id="_7">视觉增强</h4>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/颜色增强.html">颜色增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/模式识别增强.html">模式识别增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/视觉锐度增强.html">视觉锐度增强</a></strong></li>
+</ul>
+<h4 id="_8">视觉扭曲</h4>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/漂移.html">漂移</a></strong> <em>（<a href="/FreeODwiki/药效/漂移.html">融化</a>、<a href="/FreeODwiki/药效/漂移.html">呼吸</a>、<a href="/FreeODwiki/药效/漂移.html">变形</a> 和 <a href="/FreeODwiki/药效/漂移.html">流动</a>）</em></li>
+<li><strong><a href="/FreeODwiki/药效/颜色偏移.html">颜色偏移</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/视觉拖尾.html">视觉拖尾</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/亮度改变.html">亮度改变</a></strong></li>
+</ul>
+<h3 id="_9"><strong>认知效应</strong></h3>
+<ul>
+<li>
+<p>据报道，MiPT 的认知效应对于致幻剂来说是温和的。它不是产生明显的感知扭曲，而是被报道为一种温和的感官放大器。</p>
+</li>
+<li>
+<p><strong><a href="/FreeODwiki/药效/概念性思维.html">概念性思维</a></strong></p>
+</li>
+<li><strong><a href="/FreeODwiki/药效/思维加速.html">思维加速</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/思维连通性.html">思维连通性</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/情绪强化.html">情绪强化</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/创造力增强.html">创造力增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/沉浸感强化.html">沉浸感强化</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/音乐欣赏能力增强.html">音乐欣赏能力增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/幽默感增强.html">幽默感增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/记忆抑制.html">记忆抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/新奇感增强.html">新奇感增强</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/个人偏见抑制.html">个人偏见抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/时间扭曲.html">时间扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/清醒度.html">清醒度</a></strong></li>
+</ul>
+<h3 id="_10"><strong>听觉效应</strong></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/听觉锐度增强.html">听觉增强</a></strong> - 据报道，MiPT 显著增强听觉感觉，这与其产生的相对微弱的视觉变化形成鲜明对比。</li>
+<li><strong><a href="/FreeODwiki/药效/听觉扭曲.html">听觉扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/听觉幻觉.html">听觉幻觉</a></strong></li>
+</ul>
+<h3 id="_11">体验报告</h3>
+<p>在我们的<a href="/FreeODwiki/文档/复现索引.html">体验索引</a>中，描述该化合物效应的轶事报告包括：</p>
+<ul>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:MiPT_(15_mg,_orally)_-_Something_is_missing.md">Experience:MiPT (15 mg, orally) - Something is missing</a></li>
+</ul>
+<p>其他的体验报告可以在这里找到哦：</p>
+<ul>
+<li><a href="https://www.erowid.org/experiences/subs/exp_MIPT.shtml">Erowid Experience Vaults: MiPT</a></li>
+</ul>
+<h2 id="_12">毒性和伤害潜能</h2>
+<p>更多信息：<a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品 § 毒性和伤害潜能</a>，和 <a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药 § 致幻剂</a></p>
+<p>娱乐性 MiPT 使用的毒性和长期健康影响似乎尚未在任何科学背景下进行研究，确切的中毒剂量也是未知的。这是因为 MiPT 是一种<a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品</a>，人类使用的历史非常少。</p>
+<p>来自尝试过 MiPT 的人的轶事证据表明，仅仅是以低到中等剂量单独尝试该药物并非常节制地使用，似乎没有负面的健康影响（但没有什么能完全保证哦）。在摄入之前，应始终进行<a href="https://www.google.com/">独立研究</a>以确保两种或多种物质的组合是安全的。</p>
+<p>强烈建议大家在使用这种药物时采取<a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a>呢。</p>
+<p>与许多致幻剂一样，使用 MiPT 有可能带来持久的感知和心理改变。特别是 MiPT，已知会长期改变对声音和谈话的感知，这可能并不适合每个人哦。</p>
+<h3 id="_13">耐受性和成瘾潜能</h3>
+<p>MiPT 不会形成习惯，而且使用的欲望实际上可能会随着经常消费而减少。与大多数<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a>一样，它通常被认为是自我调节的。</p>
+<p>对 MiPT 效应的耐受性在摄入后几乎立即形成。在那之后，大约需要 3 天时间耐受性才会减半，7 天时间恢复到基线（在不再继续摄入的情况下）。MiPT 与所有<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a>均存在交叉耐受性，这意味着在摄入 MiPT 后，所有致幻剂的效果都会减弱。</p>
+<h2 id="_14">法律地位</h2>
+<p>由于其相对冷门，MiPT 的持有和销售在大多数国家/地区没有被列入管制。</p>
+<ul>
+<li><strong>德国</strong>：截至 2019 年 7 月 18 日，MiPT 根据 NpSG（<em>新精神活性物质法</em>）受到管制。[2][3] 旨在将其投放市场的生产和进口、对他人的管理和交易均受到惩罚。持有是非法的，但不会受到惩罚。[4]</li>
+<li><strong>瑞典</strong>：瑞典公共卫生机构建议于 2019 年 5 月 15 日将 MiPT 归类为危险物质。[5]</li>
+<li><strong>瑞士</strong>：MiPT 不受 Buchstabe A, B, C 和 D 的管制。它可以被认为是合法的。[6]</li>
+<li><strong>英国</strong>：由于色胺类物质的兜底条款，MiPT 在英国是 A 类管制物质。[7]</li>
+<li><strong>美国</strong>：MiPT 被认为是附表 1 管制物质，因为它是二乙基色胺 (DET) 的位置异构体。MiPT 在 DEA 橙皮书[8]中被特别点名，该书列出了美国所有受管制物质和其他受监管的化学品。</li>
+</ul>
+<h2 id="_15">另见</h2>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/文档/研究用化学品.html">研究用化学品</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/色胺类物质.html">色胺类物质</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-MiPT.html">4-HO-MiPT</a></li>
+<li><a href="/FreeODwiki/药物/5-MeO-MiPT.html">5-MeO-MiPT</a></li>
+</ul>
+<h2 id="_16">外部链接</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Methylisopropyltryptamine">MiPT (Wikipedia)</a></li>
+<li><a href="https://www.erowid.org/chemicals/mipt/mipt.shtml">MiPT (Erowid Vault)</a></li>
+<li><a href="https://isomerdesign.com/PiHKAL/read.php?domain=tk&amp;id=47">MiPT (TiHKAL / Isomer Design)</a></li>
+</ul>
+<h3 id="_17">讨论</h3>
+<ul>
+<li><a href="https://www.bluelight.org/xf/threads/323760">The Big &amp; Dandy MiPT Thread (Bluelight)</a></li>
+</ul>
+<h2 id="_18">参考文献</h2>
+<table>
+<thead>
+<tr>
+<th><a href="/FreeODwiki/文件/Question_book-new.png"><img alt="Question_book-new.svg" src="/FreeODwiki/文件/Question_book-new.png" /></a></th>
+<th><strong>这篇文章没有引用足够的参考文献。</strong><br><em>大家可以帮忙<a href="https://psychonautwiki.org/w/index.php?title=MiPT&amp;action=edit">添加一些</a>哦。</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li><a href="#cite_ref-TiHKAL_1-0">↑</a> <a href="/FreeODwiki/文档/TiHKAL.html">Shulgin, Alexander</a>; Shulgin, Ann (1997). <a href="https://erowid.org/library/books_online/tihkal/tihkal47.shtml">"#47. MIPT"</a>. <em><a href="/FreeODwiki/文档/TiHKAL.html">TiHKAL: The Continuation</a></em>. United States: Transform Press. <a href="http://en.wikipedia.org/wiki/International_Standard_Book_Number" title="wikipedia:International Standard Book Number">ISBN</a> <a href="http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9" title="wikipedia:Special:BookSources/0-9630096-9-9">0-9630096-9-9</a>. <a href="http://en.wikipedia.org/wiki/OCLC" title="wikipedia:OCLC">OCLC</a> <a href="/FreeODwiki//www.worldcat.org/oclc/38503252">38503252</a>.</li>
+<li><a href="#cite_ref-2">↑</a> <a href="https://www.gesetze-im-internet.de/npsg/anlage.html">"Anlage NpSG"</a> (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.</li>
+<li><a href="#cite_ref-3">↑</a> <a href="http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&amp;jumpTo=bgbl119s1083.pdf">"Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"</a> (PDF). <em>Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27</em> (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.</li>
+<li><a href="#cite_ref-4">↑</a> <a href="https://www.gesetze-im-internet.de/npsg/__4.html">"§ 4 NpSG"</a> (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.</li>
+<li><a href="#cite_ref-5">↑</a> <a href="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2019/maj/folkhalsomyndigheten-foreslar-att-20-amnen-klassas-som-narkotika-eller-halsofarlig-vara/">"Folkhälsomyndigheten föreslår att 20 ämnen klassas som narkotika eller hälsofarlig vara"</a> (in Swedish). Folkhälsomyndigheten [Public Health Agency]. May 15, 2019.</li>
+<li><a href="#cite_ref-6">↑</a> <a href="https://www.admin.ch/opc/de/classified-compilation/20101220/index.html">"Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"</a> (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.</li>
+<li><a href="#cite_ref-7">↑</a> <a href="http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I">"Part I: Class A Drugs"</a>. <em>"Misuse of Drugs Act 1971"</em>. UK Government. Retrieved January 7, 2020.</li>
+<li><a href="#cite_ref-8">↑</a> <a href="https://www.deadiversion.usdoj.gov/schedules/orangebook/orangebook.pdf">"Orange Book - List of Controlled Substances and Regulated Chemicals"</a> (PDF). Drug Enforcement Adminitration. Retrieved September 17, 2023.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,646 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>视觉抑制 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              视觉抑制
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="目录">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        颜色抑制
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        复视
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="复视">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        模式识别抑制
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        周边信息误判
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉锐度抑制
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉加工减慢
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">视觉抑制</h1>
+<p><a href="./home.html">◀返回</a></p>
+<p><strong>视觉抑制</strong>指的是任何会降低一个人通过视觉感知外部环境能力的<a href="/FreeODwiki/文档/药物分类/主观效应索引.md" title="主观效应索引">主观效应</a>哦。</p>
+<p>这个页面列出并描述了在某些<a href="/FreeODwiki/文档/药物分类/药物全索引.md" title="药物全索引">精神活性物质</a>影响下可能出现的各种视觉抑制现象呢。</p>
+<h2 id="_2">目录</h2>
+<ul>
+<li><a href="#颜色抑制">1 颜色抑制</a></li>
+<li><a href="#复视">2 复视</a><ul>
+<li><a href="#图像示例">2.1 图像示例</a></li>
+</ul>
+</li>
+<li><a href="#模式识别抑制">3 模式识别抑制</a></li>
+<li><a href="#周边信息误判">4 周边信息误判</a></li>
+<li><a href="#视觉锐度抑制">5 视觉锐度抑制</a></li>
+<li><a href="#视觉加工减慢">6 视觉加工减慢</a></li>
+<li><a href="#另见">7 另见</a></li>
+<li><a href="#参考文献">8 参考文献</a></li>
+</ul>
+<h3 id="_3">颜色抑制</h3>
+<p>主条目：<a href="/FreeODwiki/药效/颜色抑制.md" title="颜色抑制">颜色抑制</a></p>
+<p><strong>颜色抑制</strong>（也就是大家说的<strong>后天性色盲</strong><a href="#cite_note-APADictionary-acquired-color-blindness-1">[1]</a>）指的是颜色变得暗淡、饱和度降低，而且彼此之间变得难以区分的体验。在这个过程中，红色可能看起来“没那么红”，绿色“没那么绿”，比起平时清醒的时候，所有的颜色都会变得更灰暗、更模糊不清呢。在程度比较严重的时候，这种效应甚至会让外面的世界变成黑白的、单色的，完全没有色彩了哦。</p>
+<p>颜色抑制通常会伴随着其他并发效应，比如<a href="/FreeODwiki/药效/视觉锐度抑制.md" title="视觉锐度抑制">视觉锐度抑制</a>和<a href="/FreeODwiki/药效/复视.md" title="复视">复视</a>。这种情况最常发生在使用<a href="/FreeODwiki/文档/药物剂量分类.html#heavy" title="严重">严重</a> <a href="/FreeODwiki/文档/给药剂量.md" title="给药剂量">剂量</a>的<a href="/FreeODwiki/文档/抗精神病药.md" title="抗精神病药">抗精神病药</a><a href="#cite_note-RichaYazbek2010-2">[2]</a>类药物时，比如<a href="/FreeODwiki/药物/喹硫平.md" title="喹硫平">喹硫平</a>、<a href="/FreeODwiki/药物/氟哌啶醇.md" title="氟哌啶醇">氟哌啶醇</a>和<a href="/FreeODwiki/药物/利培酮.md" title="利培酮">利培酮</a>。</p>
+<h3 id="_4">复视</h3>
+<p>主条目：<a href="/FreeODwiki/药效/复视.md" title="复视">复视</a></p>
+<p><strong>复视</strong>（医学上叫<strong>diplopia</strong>）定义为每只眼睛都把同一个物体看成是分开的图像的体验<a href="#cite_note-APADictionary-double-vision-3">[3]</a><a href="#cite_note-Marsh1979-4">[4]</a>，就像大家斗鸡眼时看到的那样。根据强度的不同，这种效应可能会让大家看不清东西，没法做一些基本的需要用眼的事情呢。</p>
+<p>只要闭上一只眼睛，这个效应通常就会很容易消失哦。这说明复视可能是因为大脑把两只眼睛接收到的数据错误地叠加在了一起，而没有像平时那样把它们整合成一个单一的三维图像呢。</p>
+<p>这种效应通常有以下三个不同的强度等级：</p>
+<ol>
+<li><strong>轻微</strong> - 在最低等级，复视是很轻微的，虽然能感觉到它的存在，但大部分时候可以忽略不计。这种程度还不至于让人看不清细节，大家还是可以读读书或者过马路的。</li>
+<li><strong>明显</strong> - 到了这个等级，复视就变得比较强烈了，想要看清细节（比如阅读）会变得非常困难。不过，如果是看大的环境轮廓，睁着两只眼睛还是能勉强看清的。</li>
+<li><strong>强烈</strong> - 在最高等级，复视变得超级严重，大家已经没法准确地看清周围环境的大大小小的细节了。这时候想要像平时一样正常活动，就必须得一直闭着一只眼睛才行呢。</li>
+</ol>
+<p>复视经常会伴随着其他并发效应，比如<a href="/FreeODwiki/药效/视觉锐度抑制.md" title="视觉锐度抑制">视觉锐度抑制</a>和<a href="/FreeODwiki/药效/模式识别抑制.md" title="模式识别抑制">模式识别抑制</a>。这种效应最常发生在使用<a href="/FreeODwiki/文档/药物剂量分类.html#common" title="中等">中等</a> <a href="/FreeODwiki/文档/给药剂量.md" title="给药剂量">剂量</a>的<a href="/FreeODwiki/文档/药物分类/抑制剂.md" title="抑制剂">抑制剂</a>和<a href="/FreeODwiki/文档/药物分类/解离剂.md" title="解离剂">解离剂</a>类药物时，比如<a href="/FreeODwiki/药物/酒精.md" title="酒精">酒精</a>、<a href="/FreeODwiki/药物/喹硫平.md" title="喹硫平">喹硫平</a>、<a href="/FreeODwiki/药物/氯胺酮.md" title="氯胺酮">氯胺酮</a>和<a href="/FreeODwiki/药物/右美沙芬.md" title="右美沙芬">右美沙芬</a>。<a href="#cite_note-B.Sc.Buncic2018-5">[5]</a> 不过嘛，它也可能在其他很多种类的药物影响下偶尔出现，比如<a href="/FreeODwiki/文档/药物分类/致幻剂.md" title="致幻剂">致幻剂</a>、<a href="/FreeODwiki/文档/药物分类/兴奋剂.md" title="兴奋剂">兴奋剂</a>、<a href="/FreeODwiki/文档/药物分类/谵妄剂.md" title="谵妄剂">抗胆碱能药物</a>、<a href="/FreeODwiki/文档/药物分类/SSRI.md" title="SSRI类药物">SSRI类药物</a>、<a href="/FreeODwiki/文档/药物分类/阿片类药物.md" title="阿片类药物">阿片类药物</a>、<a href="/FreeODwiki/文档/药物分类/GABA类药物.md" title="GABA类药物">GABA类药物</a>和<a href="/FreeODwiki/文档/药物分类/大麻类.md" title="大麻类">大麻类</a>物质。</p>
+<h4 id="_5">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><a href="/FreeODwiki/关于本站/关于本站.md" title="说明">说明</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Double_vision.jpg"><img alt="Double vision.jpg" src="/FreeODwiki/文件/Double_vision.jpg" /></a></td>
+<td><strong>桌面上的复视</strong> 作者：<strong><a href="/FreeODwiki/关于本站/关于本站.md" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Visualflanging.png"><img alt="Visualflanging.png" src="/FreeODwiki/文件/Visualflanging.png" /></a></td>
+<td><strong>厨房里的复视</strong> 作者：<strong><a href="/FreeODwiki/关于本站/关于本站.md" title="Anonymous">Anonymous</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/VisualFlanging2.png"><img alt="VisualFlanging2.png" src="/FreeODwiki/文件/VisualFlanging2.png" /></a></td>
+<td><strong>书桌前的复视</strong> 作者：<strong><a href="/FreeODwiki/关于本站/关于本站.md" title="Anonymous">Anonymous</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Double_vision_by_arnold_lane.jpg"><img alt="Double vision by arnold lane.jpg" src="/FreeODwiki/文件/Double_vision_by_arnold_lane.jpg" /></a></td>
+<td><strong>看着狐狸时的复视</strong> 作者：<strong><a href="https://www.reddit.com/user/arnold__layne/">Arnold Layne</a></strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Double_vision_pc_by_arnold_lane.jpg"><img alt="Double vision pc by arnold lane.jpg" src="/FreeODwiki/文件/Double_vision_pc_by_arnold_lane.jpg" /></a></td>
+<td><strong>看着电脑时的复视</strong> 作者：<strong><a href="https://www.reddit.com/user/arnold__layne/">Arnold Layne</a></strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_6">模式识别抑制</h3>
+<p>主条目：<a href="/FreeODwiki/药效/模式识别抑制.md" title="模式识别抑制">模式识别抑制</a></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Pattern_recognition_suppression.jpg"><img alt="Pattern_recognition_suppression.jpg" src="/FreeODwiki/文件/Pattern_recognition_suppression.jpg" /></a></td>
+<td>中风伴随的视觉扭曲模拟图。图中的一切都感觉很熟悉，但却很难叫出名字或定义它。药物引起的模式识别抑制感觉起来可能很像哦。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>模式识别抑制</strong>指的是在心理上处理和解释视觉信息的能力部分或完全丧失，无论你看得有多清楚。比如说，如果一个人看着面前的一个物体，即使能清晰地看到细节，识别这个物体的能力也会下降。这会让最普通的日常物品都变得认不出来，尤其是人脸哦。经历这种效应的人看着一张脸时，可能看得清五官，也能描述出来，但就是没法把这些视觉信息组合起来认出这张脸是谁呢。值得注意的是，这种效应和被称为视觉统觉性失认症的视觉障碍是可以相提并论的，而且可能有关联哦。<a href="#cite_note-BehrmannNishimura2010-6">[6]</a></p>
+<p>模式识别抑制经常会伴随着其他并发效应，比如<a href="/FreeODwiki/药效/分析抑制.md" title="分析抑制">分析抑制</a>和<a href="/FreeODwiki/药效/思维减慢.md" title="思维减慢">思维减慢</a>。这种情况最常发生在使用<a href="/FreeODwiki/文档/药物剂量分类.html#heavy" title="严重">严重</a> <a href="/FreeODwiki/文档/给药剂量.md" title="给药剂量">剂量</a>的<a href="/FreeODwiki/文档/药物分类/解离剂.md" title="解离剂">解离剂</a>或<a href="/FreeODwiki/文档/抗精神病药.md" title="抗精神病药">抗精神病药</a>类药物时，比如<a href="/FreeODwiki/药物/氯胺酮.md" title="氯胺酮">氯胺酮</a>、<a href="/FreeODwiki/药物/喹硫平.md" title="喹硫平">喹硫平</a>、<a href="/FreeODwiki/药物/PCP.md" title="PCP">PCP</a>和<a href="/FreeODwiki/药物/右美沙芬.md" title="右美沙芬">右美沙芬</a>。不过，在使用极高剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.md" title="迷幻剂">迷幻剂</a>类药物（比如<a href="/FreeODwiki/药物/LSD.md" title="LSD">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.md" title="赛洛西宾">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.md" title="麦斯卡林">麦斯卡林</a>）时，也可能出现程度较轻的这种现象呢。</p>
+<h3 id="_7">周边信息误判</h3>
+<p>主条目：<a href="/FreeODwiki/药效/周边信息误判.md" title="周边信息误判">周边信息误判</a></p>
+<p><strong>周边信息误判</strong>指的是一种短暂的体验，你会错误地解读和看到视野边缘（余光）里的物体或细节。在这种状态下，一个人可能会短暂地在余光中看到很复杂的细节，但仔细一看，其实根本不存在。举个栗子，一个人可能会瞬间觉得余光里有物体、人或者事情发生了，但那些其实都不在那儿。一旦意识到这个细节是错的，误判就会被正确的感知覆盖掉。通常来说，只要大家有意识地注意到那个被误判的视觉细节，它就会立刻变回正确的视觉解释啦。</p>
+<p>周边信息误判通常会伴随着其他并发效应，比如<a href="/FreeODwiki/药效/模式识别增强.md" title="模式识别增强">模式识别增强</a>和<a href="/FreeODwiki/药效/外部幻觉.md" title="外部幻觉">外部幻觉</a>，而且会被它们加强哦。这种情况最常发生在使用<a href="/FreeODwiki/文档/药物剂量分类.html#common" title="中等">中等</a> <a href="/FreeODwiki/文档/给药剂量.md" title="给药剂量">剂量</a>的<a href="/FreeODwiki/文档/药物分类/谵妄剂.md" title="谵妄剂">谵妄剂</a>类药物时，比如<a href="/FreeODwiki/药物/苯海拉明.md" title="苯海拉明">苯海拉明</a>、<a href="/FreeODwiki/药物/曼陀罗.md" title="曼陀罗">曼陀罗</a>和<a href="/FreeODwiki/药物/苄达明.md" title="苄达明">苄达明</a>。不过，在<a href="/FreeODwiki/文档/兴奋剂精神病.md" title="兴奋剂精神病">兴奋剂精神病</a>和<a href="/FreeODwiki/文档/睡眠剥夺.md" title="睡眠剥夺">睡眠剥夺</a>的影响下也可能发生呢。</p>
+<h3 id="_8">视觉锐度抑制</h3>
+<p>主条目：<a href="/FreeODwiki/药效/视觉锐度抑制.md" title="视觉锐度抑制">视觉锐度抑制</a></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/London_acuity_suppression.jpg"><img alt="London_acuity_suppression.jpg" src="/FreeODwiki/文件/London_acuity_suppression.jpg" /></a></td>
+<td><em>模糊的伦敦 作者：<a href="/FreeODwiki/关于本站/关于本站.md" title="User:Josikins">Josikins</a></em> - 这张图片准确地模拟了在伦敦市中心五十周年纪念步行桥上看到的视觉锐度抑制效果哦。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>视觉锐度抑制</strong>定义为视觉清晰度和锐度的下降，导致视野部分或完全变得模糊不清。<a href="#cite_note-B.Sc.Buncic2018-5">[5]</a> 这种效应可能会影响整个视野，也可能只影响一部分。体验这种锐度抑制就像透过一个失焦的镜头看世界，会让大家看不清外面环境的细节呢。根据强度的不同，这通常会导致大家没法做一些基本的需要用眼的事情哦。</p>
+<p>视觉锐度抑制经常会伴随着其他并发效应，比如<a href="/FreeODwiki/药效/复视.md" title="复视">复视</a>和<a href="/FreeODwiki/药效/模式识别抑制.md" title="模式识别抑制">模式识别抑制</a>。这种效应最常发生在使用<a href="/FreeODwiki/文档/药物剂量分类.html#common" title="中等">中等</a> <a href="/FreeODwiki/文档/给药剂量.md" title="给药剂量">剂量</a>的<a href="/FreeODwiki/文档/药物分类/抑制剂.md" title="抑制剂">抑制剂</a>和<a href="/FreeODwiki/文档/药物分类/解离剂.md" title="解离剂">解离剂</a>类药物时，比如<a href="/FreeODwiki/药物/酒精.md" title="酒精">酒精</a><a href="#cite_note-KunchuliaPilz2012-7">[7]</a>、<a href="/FreeODwiki/药物/喹硫平.md" title="喹硫平">喹硫平</a>、<a href="/FreeODwiki/药物/氯胺酮.md" title="氯胺酮">氯胺酮</a>和<a href="/FreeODwiki/药物/右美沙芬.md" title="右美沙芬">右美沙芬</a>。</p>
+<h3 id="_9">视觉加工减慢</h3>
+<p>主条目：<a href="/FreeODwiki/药效/视觉加工减慢.md" title="视觉加工减慢">视觉加工减慢</a></p>
+<p><strong>视觉加工减慢</strong>指的是感觉视觉信息处理的速度变慢了。<a href="#cite_note-8">[8]</a> 在这种效应的影响下，大家可能会觉得自己的视觉像是在卡顿，表现得像正在缓冲的视频、定格动画、胶片条、电脑显示器刷新或者频闪灯一样。在强度更高的时候，这可能会导致一个人的视觉暂时完全停止移动，就像冻结了一样呢。值得一提的是，这种效应和被称为运动盲或运动失认症（akinetopsia）的视觉障碍是可以比较的，但不一定有直接关系哦。<a href="#cite_note-Zeki1991-9">[9]</a> 这种效应体验起来可能是平滑且一致的减速，也可能是粗糙且不规则的呢。</p>
+<p>帧率抑制经常会伴随着其他并发效应，比如<a href="/FreeODwiki/药效/视觉锐度抑制.md" title="视觉锐度抑制">视觉锐度抑制</a>和<a href="/FreeODwiki/药效/复视.md" title="复视">复视</a>。这种效应最常发生在使用<a href="/FreeODwiki/文档/药物剂量分类.html#common" title="中等">中等</a> <a href="/FreeODwiki/文档/给药剂量.md" title="给药剂量">剂量</a>的<a href="/FreeODwiki/文档/药物分类/解离剂.md" title="解离剂">解离剂</a>类药物时，比如<a href="/FreeODwiki/药物/氯胺酮.md" title="氯胺酮">氯胺酮</a>、<a href="/FreeODwiki/药物/MXE.md" title="MXE">MXE</a>、<a href="/FreeODwiki/药物/PCP.md" title="PCP">PCP</a>和<a href="/FreeODwiki/药物/右美沙芬.md" title="右美沙芬">右美沙芬</a>。</p>
+<h3 id="_10">另见</h3>
+<ul>
+<li><a href="/FreeODwiki/药效/home.md" title="主观效应索引">主观效应索引</a></li>
+<li><a href="/FreeODwiki/药效/视觉增强.md" title="视觉增强">视觉增强</a></li>
+<li><a href="/FreeODwiki/药效/视觉效应.md" title="视觉效应">视觉效应</a></li>
+</ul>
+<h3 id="_11">参考文献</h3>
+<ol>
+<li><a href="#cite_ref-APADictionary-acquired-color-blindness_1-0">↑</a> <a href="https://dictionary.apa.org/acquired-color-blindness">"acquired color blindness"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022. </li>
+<li><a href="#cite_ref-RichaYazbek2010_2-0">↑</a> Richa, Sami; Yazbek, Jean-Claude (2010). "Ocular Adverse Effects of Common Psychotropic Agents". <em>CNS Drugs</em>. <strong>24</strong> (6): 501–526. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.2165%2F11533180-000000000-00000">10.2165/11533180-000000000-00000</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1172-7047">1172-7047</a>. </li>
+<li><a href="#cite_ref-APADictionary-double-vision_3-0">↑</a> <a href="https://dictionary.apa.org/double-vision">"double vision"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022. </li>
+<li><a href="#cite_ref-Marsh1979_4-0">↑</a> Marsh, A. (1979). "Visual Hallucinations During Hallucinogenic Experience and Schizophrenia". <em>Schizophrenia Bulletin</em>. <strong>5</strong> (4): 627–630. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fschbul%2F5.4.627">10.1093/schbul/5.4.627</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0586-7614">0586-7614</a>. </li>
+<li>↑ <a href="#cite_ref-B.Sc.Buncic2018_5-0">5.0</a> <a href="#cite_ref-B.Sc.Buncic2018_5-1">5.1</a> B.Sc., Joanne L. Smith; Buncic, J. Raymond (2018). "Drugs Which Can Affect near Vision: A Useful List". <em>American Orthoptic Journal</em>. <strong>49</strong> (1): 180–190. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1080%2F0065955X.1999.11982210">10.1080/0065955X.1999.11982210</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0065-955X">0065-955X</a>. </li>
+<li><a href="#cite_ref-BehrmannNishimura2010_6-0">↑</a> Behrmann, Marlene; Nishimura, Mayu (2010). "Agnosias". <em>Wiley Interdisciplinary Reviews: Cognitive Science</em>. <strong>1</strong> (2): 203–213. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1002%2Fwcs.42">10.1002/wcs.42</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1939-5078">1939-5078</a>. </li>
+<li><a href="#cite_ref-KunchuliaPilz2012_7-0">↑</a> Kunchulia, Marina; Pilz, Karin S.; Herzog, Michael H. (2012). "How alcohol intake affects visual temporal processing". <em>Vision Research</em>. <strong>66</strong>: 11–16. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2Fj.visres.2012.06.010">10.1016/j.visres.2012.06.010</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0042-6989">0042-6989</a>. </li>
+<li><a href="#cite_ref-8">↑</a> <a href="https://erowid.org/chemicals/dxm/dxm_effects1.shtml"><em>Erowid DXM Vaults : The DXM Stop Motion Effect (“Strobing” or ’Flanging’)</em></a> </li>
+<li><a href="#cite_ref-Zeki1991_9-0">↑</a> Zeki, S. (1991). "CEREBRAL AKINETOPSIA (VISUAL MOTION BLINDNESS)". <em>Brain</em>. <strong>114</strong> (2): 811–824. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fbrain%2F114.2.811">10.1093/brain/114.2.811</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0006-8950">0006-8950</a>.</li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

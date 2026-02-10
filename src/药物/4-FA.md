@@ -1,0 +1,332 @@
+---
+title: 4-FA
+description: 
+published: true
+date: 2026-01-30T09:19:39.586Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-30T05:54:00.174Z
+---
+
+[◀返回](/FreeODwiki/药物/home.html)
+
+# 4-FA
+
+
+
+| **4-FA 摘要表** | |
+| --- | -- |
+| [![4-FA.png](/FreeODwiki/文件/4-FA.png)](/FreeODwiki/文件/4-FA.png) |
+| **化学命名** |
+| 通俗名称 | *4-FA, 4-FMP, PAL-303, Flux* |
+| 取代名称 | *4-Fluoroamphetamine (4-氟苯丙胺), para-Fluoroamphetamine (对氟苯丙胺)* |
+| 系统命名 | *(RS)-1-(4-Fluorophenyl)-N-propan-2-amine* |
+| **分类归属** |
+| 精神活性分类 | *[兴奋剂](/FreeODwiki/文档/药物分类/兴奋剂.html) / [共情剂](/FreeODwiki/文档/药物分类/共情剂.html)* |
+| 化学分类 | *[苯丙胺类物质](/FreeODwiki/文档/药物分类/苯丙胺类物质.html)* |
+
+### [给药途径](/FreeODwiki/文档/给药途径.html)
+
+**⚠️ 警告：** 由于个体体重、耐受性、代谢和个人敏感度的差异，请务必从较低剂量开始哦。请参阅[负责任的用药](/FreeODwiki/文档/负责任的用药索引页.html)部分呢。
+
+**⇣ [口服](/FreeODwiki/文档/给药途径.html#口服)**
+
+| [剂量](/FreeODwiki/文档/给药剂量.html) | |
+| --- | --- |
+| [阈值](/FreeODwiki/文档/药物剂量分类.html#阈值) | 40 mg |
+| [轻微](/FreeODwiki/文档/药物剂量分类.html#轻微) | 40 - 100 mg |
+| [中等](/FreeODwiki/文档/药物剂量分类.html#中等) | 100 - 130 mg |
+| [强烈](/FreeODwiki/文档/药物剂量分类.html#强烈) | 130 - 150 mg |
+| [严重](/FreeODwiki/文档/药物剂量分类.html#严重) | 150 mg + |
+
+| [时长](/FreeODwiki/文档/药效时长.html) | |
+| --- | --- |
+| [总时长](/FreeODwiki/文档/药效时长.html#总时长) | 5 - 8 小时 |
+| [药效发作](/FreeODwiki/文档/药效时长.html#药效发作) | 45 - 75 分钟 |
+| [药效上升](/FreeODwiki/文档/药效时长.html#药效上升) | 30 - 75 分钟 |
+| [药效达峰](/FreeODwiki/文档/药效时长.html#药效达峰) | 2.5 - 3.5 小时 |
+| [药效褪去](/FreeODwiki/文档/药效时长.html#药效褪去) | 2 - 3 小时 |
+| [药效残余](/FreeODwiki/文档/药效时长.html#药效残余) | 6 - 12 小时 |
+
+> **免责声明：** 这里的[剂量](/FreeODwiki/文档/给药剂量.html)信息是收集自用户和[相关资源](/FreeODwiki/关于本站/home.html)用于教育目的的，仅供参考哦。这不是推荐，请务必多方核实以确保准确性喵。
+
+### [相互作用](#危险的相互作用)
+
+*   [酒精](./酒精.html)
+*   [GHB](./GHB.html)
+*   [GBL](./GBL.html)
+*   [阿片类药物](/FreeODwiki/文档/药物分类/阿片类药物.html)
+*   [可卡因](./可卡因.html)
+*   [大麻](./大麻.html)
+*   [咖啡因](./咖啡因.html)
+*   [氯胺酮](./氯胺酮.html)
+*   [MXE](./MXE.html)
+*   [致幻剂](/FreeODwiki/文档/药物分类/致幻剂.html)
+*   [右美沙芬](./右美沙芬.html)
+*   [PCP](./PCP.html)
+*   [25x-NBOMe](/FreeODwiki/文档/药物分类/N-苄基苯乙胺类物质.html)
+*   2C-T-x
+*   5-MeO-xxT
+*   [DOx](/FreeODwiki/文档/药物分类/2,5-二甲氧基苯乙胺类物质.html)
+*   [曲马多](./曲马多.html)
+*   aMT
+*   [单胺氧化酶抑制剂](/FreeODwiki/文档/单胺氧化酶抑制剂.html)
+
+**4-氟苯丙胺**（4-Fluoroamphetamine，也就是大家常说的 **4-FA**、**4-FMP**、**para-Fluoroamphetamine**、**PAL-303**，俗称 **Flux**）是一种新型合成[苯丙胺](/FreeODwiki/文档/药物分类/苯丙胺类物质.html)类化合物。当使用时，它会产生一种独特的效果，先是渐进的[共情](/FreeODwiki/文档/药物分类/共情剂.html)体验，然后混合着[兴奋剂](/FreeODwiki/文档/药物分类/兴奋剂.html)的效果呢。它是氟化苯丙胺类似物系列的一部分，这个系列最初还包括 [2-FA](./2-FA.html)、[2-FMA](./2-FMA.html) 和 [3-FA](./3-FA.html) 等化合物哦。
+
+根据大家的报告呢，4-FA 的主观效果是这样的：在最初的几个小时里，会有中等强度的类似 [MDMA](./MDMA.html) 的[共情](/FreeODwiki/文档/药物分类/共情剂.html)起效体验，然后逐渐过渡到传统的[苯丙胺](/FreeODwiki/药物/苯丙胺.html)类[兴奋](/FreeODwiki/药效/刺激.html)体验（总共持续约 6 到 8 小时），并在之后会有持续几个小时的残留效应喵。
+
+4-FA 很少在街头见到，但以前经常作为灰色地带的[研究用化学品](/FreeODwiki/文档/研究用化学品.html)在网上供应商那里出售，通常和 [2-FMA](./2-FMA.html) 和 [3-FA](./3-FA.html) 等相关化合物一起卖呢。关于 4-FA 的药理特性、代谢和毒性的数据非常少，人类使用的历史也很短。由于它有强烈的精神兴奋作用，可能具有成瘾性，而且毒性特征我们也还不太了解，所以如果你选择使用这种物质，强烈建议采取适当的[伤害减少措施](/FreeODwiki/文档/负责任的用药索引页.html)哦！
+
+目录
+--------
+
+*   [1 化学](#化学)
+*   [2 药理学](#药理学)
+*   [3 主观效应](#主观效应)
+    *   [3.1 **躯体效应**](#躯体效应)
+    *   [3.2 **视觉效应**](#视觉效应)
+        *   [3.2.1 增强](#增强)
+    *   [3.3 **听觉效应**](#听觉效应)
+    *   [3.4 **认知效应**](#认知效应)
+    *   [3.5 **超个人效应**](#超个人效应)
+    *   [3.6 **药效残余**](#药效残余)
+    *   [3.7 体验报告](#体验报告)
+*   [4 毒性和危害潜力](#毒性和危害潜力)
+    *   [4.1 耐受性和成瘾潜力](#耐受性和成瘾潜力)
+    *   [4.2 精神病](#精神病)
+    *   [4.3 危险的相互作用](#危险的相互作用)
+*   [5 法律地位](#法律地位)
+*   [6 另见](#另见)
+*   [7 外部链接](#外部链接)
+    *   [7.1 讨论](#讨论)
+*   [8 参考文献](#参考文献)
+
+化学
+---------
+
+4-氟苯丙胺 (4-FA) 是[苯丙胺](/FreeODwiki/文档/药物分类/苯丙胺类物质.html)家族的一种合成合成分子喵。苯丙胺类的分子含有一个[苯乙胺](/FreeODwiki/文档/药物分类/苯乙胺类物质.html)核心，其特征是苯环通过乙基链与氨基 (NH2) 结合，并在 Rα 位置有一个额外的甲基取代。苯丙胺是 α-甲基化的苯乙胺。4-氟苯丙胺在其苯环的 R4 位置含有一个氟原子，是苯丙胺的氟化类似物哦。
+
+[![](/FreeODwiki/文件/Samphetamine.png)](/FreeODwiki/文件/Samphetamine.png)
+
+苯丙胺分子的取代结构
+
+药理学
+------------
+
+4-氟苯丙胺作为[多巴胺](/FreeODwiki/文档/多巴胺.html)、[血清素](/FreeODwiki/文档/血清素.html)和[去甲肾上腺素](/FreeODwiki/文档/去甲肾上腺素.html)的[释放剂](/FreeODwiki/文档/神经递质释放剂.html)和[再摄取抑制剂](/FreeODwiki/文档/神经递质再摄取抑制剂.html)发挥作用。在较低剂量下，它会产生类似苯丙胺的兴奋效果；在超过 100mg 的剂量下，会产生类似 MDMA 的欣快和共情效果呢。4-FA 的作用机制是在较高剂量下，通过结合并部分阻断那些通常从突触间隙移除单胺的转运蛋白，从而有效地提高大脑中去甲肾上腺素、多巴胺和血清素这些[神经递质](/FreeODwiki/文档/神经递质.html)的水平。这使得多巴胺、去甲肾上腺素和血清素能够在大脑中积累，从而产生兴奋、欣快和[共情](/FreeODwiki/文档/药物分类/共情剂.html)的效果喵。
+
+主观效应
+------------------
+
+大家普遍报告说，4-FA 的前三到四个小时会出现明显的[共情](/FreeODwiki/文档/药物分类/共情剂.html)效应，据说感觉有点像 MDMA，虽然没有那么强烈。这被认为与它促进[血清素](/FreeODwiki/文档/血清素.html)释放的时间段有关（除了[多巴胺](/FreeODwiki/文档/多巴胺.html)和[去甲肾上腺素](/FreeODwiki/文档/去甲肾上腺素.html)之外）。在这个体验的第一阶段之后，效果会转变为感觉像经典[苯丙胺](/FreeODwiki/药物/苯丙胺.html)那种兴奋感，并且可以持续很长一段时间呢。
+
+**如果你有心脏相关问题的病史，或者在使用后出现严重头痛，请不要使用 4-FA 哦！** 我们注意到 Trimbos-instituut 和 Nationaal Vergiftigingen Informatie Centrum (NVIC) 发布的一份报告，描述了在 4-FA 使用量增加后发生中风的事件。除了常见的类似苯丙胺的反应（如激越、焦虑、心动过速、高血压、胸痛等），还有关于严重的心脑血管并发症的报告，包括心律失常（窦性心律失常、室性早搏（二联律）、传导障碍）和急性心力衰竭。虽然因果关系尚未确认，但如果在使用 4-FA 后出现严重头痛和偏侧化症状，应立即去急诊科进行医疗评估喵！
+
+***免责声明：** 下列列出的效果引用自[***主观效应索引***](/FreeODwiki/文档/科学信息索引页.html) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/FreeODwiki/关于本站/home.html) 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待这些内容哦。*
+
+*同样值得注意的是，这些效果不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能诱发全方位的效果。*同样，**不良反应**在较高剂量下发生的可能性越来越大，可能包括**成瘾、严重伤害甚至死亡** ☠。
+
+### **[躯体效应](/FreeODwiki/药效/躯体效应.html)** ![Child.png](/FreeODwiki/文件/Child.png)
+*   **[刺激](/FreeODwiki/药效/刺激.html)** - 4-FA 体验的前几个小时通常被报告带有某种镇静的色彩，这种镇静通常与像 [MDMA](./MDMA.html) 这样的[共情剂](/FreeODwiki/文档/药物分类/共情剂.html)的血清素释放特性有关。当这些共情效果消退后，兴奋效果就变成了主导。4-FA 在整个体验过程中产生的刺激可以被描述为强度略弱于[苯丙胺](/FreeODwiki/药物/苯丙胺.html)，并且不如[可卡因](./可卡因.html)等传统[多巴胺能](/FreeODwiki/文档/多巴胺.html)兴奋剂那样强力呢。
+*   **[自发躯体感觉](/FreeODwiki/药效/躯体效应.html)** - 4-FA 的“躯体高潮”可以被描述为一种中等到极度的欣快刺痛感，包裹着整个身体。在高剂量下，这种感觉可能会变得极其令人愉悦。这种感觉保持着持续的存在，随着起效稳步上升，一旦达到顶峰就达到极限。
+    *   **[躯体欣快感](/FreeODwiki/药效/躯体欣快感.html)** - 与它的身体刺激相比，这种效果极其强烈。
+*   **[触觉增强](/FreeODwiki/药效/触觉效应.html)**
+*   **[躯体控制增强](/FreeODwiki/药效/躯体控制增强.html)**
+*   **[耐力增强](/FreeODwiki/药效/耐力增强.html)**
+*   **[体温调节抑制](/FreeODwiki/药效/体温调节抑制.html)**
+    *   **[体温升高](/FreeODwiki/药效/体温升高.html)**
+*   **[心律异常](/FreeODwiki/药效/心律异常.html)**
+*   **[心率增快](/FreeODwiki/药效/心率增快.html)**
+*   **[血压升高](/FreeODwiki/药效/血压升高.html)**
+*   **[视物振动](/FreeODwiki/药效/视物振动.html)** - 在高剂量下，人的眼球可能会开始自发地快速来回摆动，导致视力变得模糊并暂时失焦。这种情况被称为[眼球震颤](http://en.wikipedia.org/wiki/Nystagmus)，在大多数情况下被认为是无害的。
+*   **[头痛](/FreeODwiki/药效/头痛.html)**
+*   **[肌肉痉挛](/FreeODwiki/药效/肌肉痉挛.html)**
+*   **[食欲抑制](/FreeODwiki/药效/食欲抑制.html)**
+*   **[脱水](/FreeODwiki/药效/脱水.html)**
+*   **[口干](/FreeODwiki/药效/口干.html)**
+*   **[出汗增加](/FreeODwiki/药效/出汗增加.html)**
+*   **[瞳孔扩大](/FreeODwiki/药效/瞳孔扩大.html)**
+*   **[性高潮抑制](/FreeODwiki/药效/性高潮抑制.html)**
+*   **[暂时性勃起功能障碍](/FreeODwiki/药效/暂时性勃起功能障碍.html)**
+*   **[排尿困难](/FreeODwiki/药效/排尿困难.html)**
+*   **[磨牙](/FreeODwiki/药效/磨牙.html)**
+*   **[癫痫发作](/FreeODwiki/药效/癫痫发作.html)** - 这是一种罕见的效果，但被认为可能发生在那些有易感体质的人身上，特别是在服用超过推荐剂量或在身体负担重的情况下（如脱水、疲劳、营养不良或过热）补服时喵。
+
+### **[视觉效应](/FreeODwiki/药效/视觉效应.html)** ![Eye](/FreeODwiki/文件/Eye.png)
+
+#### 增强
+*   **[颜色增强](/FreeODwiki/药效/颜色增强.html)**
+*   **[模式识别增强](/FreeODwiki/药效/模式识别增强.html)**
+
+### **[听觉效应](/FreeODwiki/药效/听觉效应.html)** ![Volume-up.png](/FreeODwiki/文件/Volume-up.png)
+
+*   **[听觉增强](/FreeODwiki/药效/听觉增强.html)** (链接需修正为指向通用增强或听觉特定页面，如有)
+*   **[听觉幻觉](/FreeODwiki/药效/听觉幻觉.html)** (链接需修正，如无对应文件则保留文本)
+*   **[听觉失真](/FreeODwiki/药效/听觉失真.html)** (链接需修正)
+
+*(注：由于 FreeODwiki 文件树中没有专门的“听觉增强/幻觉/失真”文件，建议归类到通用药效或保持文本，若必须有链接，可指向`../药效/home.md`或相应感知类文档。此处保留翻译文本)*
+
+### **[认知效应](/FreeODwiki/药效/认知效应.html)** ![User.png](/FreeODwiki/文件/User.png)
+
+*   **[焦虑抑制](/FreeODwiki/药效/焦虑抑制.html)** (如无此文件，可能归类于抗焦虑效果)
+*   **[去抑制](/FreeODwiki/药效/去抑制.html)** (如无此文件，可能归类于认知效应)
+*   **[共情、爱意与社交能力增强](/FreeODwiki/文档/药物分类/共情剂.html)** - 与其他物质相比，这种效果可以描述为与 [MDMA](./MDMA.html) 产生的效果相同，但强度较低。像 **[认知欣快](/FreeODwiki/药效/认知欣快.html)** 一样，它在 100mg 以上的剂量中最明显。
+*   **[认知欣快](/FreeODwiki/药效/认知欣快.html)** - 这种效果的表现可以描述为一系列欣快波，在整个体验过程中随机消退和重现。在 100mg 以上的剂量中最明显。
+*   **[思维加速](/FreeODwiki/药效/思维加速.html)** (如无此文件，请创建或链接至`../药效/视觉加工加速.md`作为近似)
+*   **[专注力强化](/FreeODwiki/药效/专注力强化.html)** (如无此文件，请链接至`../文档/药物分类/益智药.md`或保留)
+*   **[新奇感增强](/FreeODwiki/药效/新奇感增强.html)**
+*   **[沉浸感增强](/FreeODwiki/药效/沉浸感增强.html)**
+*   **[动机增强](/FreeODwiki/药效/动机增强.html)**
+*   **[音乐鉴赏力增强](/FreeODwiki/药效/音乐鉴赏力增强.html)**
+*   **[幽默感增强](/FreeODwiki/药效/幽默感增强.html)**
+*   **[强迫性补服](/FreeODwiki/药效/强迫性补服.html)**
+*   **[性欲增强](/FreeODwiki/药效/性欲增强.html)**
+*   **[谵妄](/FreeODwiki/文档/药物分类/谵妄剂.html)** & **[意识混乱](/FreeODwiki/药效/意识混乱.html)** - 这种效果通常只发生在过高的剂量下，并且与体温调节失调和过热有关，特别是当 4-FA 是在拥挤、身体剧烈运动的环境中服用，导致使用者无法降温、休息或充分补水时。
+*   **[自我膨胀](/FreeODwiki/药效/自我膨胀.html)**
+*   **[时间扭曲](/FreeODwiki/药效/时间扭曲.html)** - 这可以被描述为时间加速和流逝得比清醒时快得多的体验。
+*   **[清醒](/FreeODwiki/药效/清醒度.html)**
+
+### **[超个人效应](/FreeODwiki/药效/超个人效应.html)** ![](/FreeODwiki/文件/Infinity4.png)
+
+*   **[统一和相互联系感](/FreeODwiki/药效/统一和相互联系感.html)** - 有时会有关于使用 4-FA 产生统一、合一和相互联系的体验报告。这个组成部分最常在高剂量的共情阶段显现，在大型狂欢节和音乐活动的拥挤人群中，表现为“与人群合二为一”的形式。据说音乐也会持续增强这种效果呢。
+
+### **药效残余** ![Aftereffects_(3).png](/FreeODwiki/文件/Aftereffects_(3).png)
+
+在[兴奋剂](/FreeODwiki/文档/药物分类/兴奋剂.html)体验的[药效褪去](/FreeODwiki/文档/药效时长.html#药效褪去)期间发生的效果，与[药效达峰](/FreeODwiki/文档/药效时长.html#药效达峰)期间发生的效果相比，通常感觉是负面的和不舒服的。这通常被称为“下头”（comedown），是因为[神经递质](/FreeODwiki/文档/神经递质.html)耗尽造成的。其效果通常包括：
+
+*   **[焦虑](/FreeODwiki/药效/焦虑.html)** (如无单独文件，见`../药效/焦虑抑制.md`的反面或通用药效)
+*   **[脑电击感](/FreeODwiki/药效/脑电击感.html)**
+*   **[头痛](/FreeODwiki/药效/头痛.html)**
+*   **[认知疲劳](/FreeODwiki/药效/认知疲劳.html)**
+*   **[抑郁](/FreeODwiki/药效/抑郁.html)** (或情绪低落)
+*   **[睡眠瘫痪](/FreeODwiki/药效/睡眠瘫痪.html)** (鬼压床) - 一些用户报告在服用 4-FA 后出现睡眠瘫痪的发生率较高，通常只在较高剂量下发生。
+*   **[易怒](/FreeODwiki/药效/易怒.html)**
+*   **[动机抑制](/FreeODwiki/药效/动机抑制.html)**
+*   **[思维减速](/FreeODwiki/药效/思维减速.html)**
+*   **[思维混乱](/FreeODwiki/药效/思维混乱.html)**
+*   **[自杀意念](/FreeODwiki/药效/自杀意念.html)** - 这种效果通常只有在滥用 4-FA 时才会被报告，比如服用太频繁、剂量过大和/或强迫性地使用。
+*   **[清醒](/FreeODwiki/药效/清醒度.html)** (导致失眠)
+
+### 体验报告
+
+描述这种化合物在我们的[体验索引](/FreeODwiki/文档/科学信息索引页.html)中的效果的轶事报告包括：
+
+*   [报告/psychounautwiki/Experience:120mg/170mg_4-FA_-_Substance_Overview](报告/psychounautwiki/Experience:120mg/170mg_4-FA_-_Substance_Overview)
+*   [报告/psychounautwiki/Experience:500mg_4-FA_%2B_150mg_5-HTP_-_Irresponsible_%26_unexpected_psychedelic](报告/psychounautwiki/Experience:500mg_4-FA_%2B_150mg_5-HTP_-_Irresponsible_%26_unexpected_psychedelic)
+
+其他的体验报告可以在这里找到哦：
+
+*   [Erowid Experience Vaults: 4-FA](https://www.erowid.org/experiences/subs/exp_4Fluoroamphetamine.shtml)
+
+毒性和危害潜力
+---------------------------
+
+更多信息：[研究用化学品 § 毒性和危害潜力](/FreeODwiki/文档/研究用化学品.html#毒性和危害潜力)
+
+关于娱乐性使用 4-FA 的毒性和长期影响的研究还很少，因为 4-FA 的人类使用历史非常短。轶事证据以及几个案例报告表明，使用 4-FA 存在轻微到中等的个人健康风险。其中，似乎急性心血管毒性的风险特别高。在荷兰，有些人仅使用了中等剂量就死于心脏骤停或因中风遭受严重的脑损伤。这种急性毒性的机制尚不清楚，但看起来中风开始时是剧烈的头痛甚至偏头痛发作，然后慢慢恶化呢。
+
+4-FA 的 [LD50](/FreeODwiki/文档/给药剂量.html) (小鼠; 腹腔注射) 为 46 mg/kg。与 [MDMA](./MDMA.html) 或 4-FA 的类似物 4-CA 和 4-BA 不同，4-FA 不会导致脑[血清素](/FreeODwiki/文档/血清素.html)的长期耗尽。
+
+同样值得注意的是，与其他化合物相比，4-FA 具有特别强的腐蚀性，因此如果是[鼻吸](/FreeODwiki/文档/给药途径.html#鼻吸)的话，可能会导致鼻腔和喉咙发生化学灼伤。不建议使用这种给药方式哦，真的很痛的！
+
+强烈建议在使用这种物质时采取[伤害减少措施](/FreeODwiki/文档/负责任的用药索引页.html)喵。
+
+### 耐受性和成瘾潜力
+
+与其他[兴奋剂](/FreeODwiki/文档/药物分类/兴奋剂.html)一样，长期使用 4-FA 可被视为具有中度成瘾性，具有很高的滥用潜力，并且能够导致某些用户产生心理依赖。如果成瘾已经形成，如果一个人突然停止使用，可能会出现渴望和[戒断反应](/FreeODwiki/文档/药物戒断反应.html)。
+
+随着长期和重复使用，对 4-FA 许多效果的耐受性会增强。这导致用户不得不服用越来越大的剂量才能达到相同的效果。在那之后，大约需要 3 - 7 天耐受性才会减少一半，1 - 2 周才能恢复到基线（在不再继续服用的情况下）。这是减少兴奋效果耐受性所需的时间。对[共情效果](/FreeODwiki/文档/药物分类/共情剂.html)的耐受性可能需要更长的时间才能减少。4-FA 与所有[多巴胺能](/FreeODwiki/文档/多巴胺.html)[兴奋剂](/FreeODwiki/文档/药物分类/兴奋剂.html)均存在交叉耐受性，这意味着在服用 4-FA 后，所有[兴奋剂](/FreeODwiki/文档/药物分类/兴奋剂.html)的效果都会降低哦。
+
+### 精神病
+
+主条目：[兴奋剂精神病](/FreeODwiki/文档/兴奋剂精神病.html)
+
+与其他兴奋剂一样，4-FA 可能会导致兴奋剂精神病，这可能表现为各种症状（例如，[偏执](/FreeODwiki/药效/偏执.html)、[幻觉](/FreeODwiki/文档/药物分类/致幻剂.html)或[妄想](/FreeODwiki/药效/妄想.html)）。一篇关于治疗苯丙胺、[右旋苯丙胺](/FreeODwiki/药物/苯丙胺.html)和[甲基苯丙胺](./甲基苯丙胺.html)滥用引起的精神病的综述指出，大约 5–15% 的用户无法完全康复。同一篇综述断言，根据至少一项试验，[抗精神病药](/FreeODwiki/文档/药物分类/抑制剂.html)物可有效解决急性苯丙胺精神病的症状。
+
+### 危险的相互作用
+
+***警告：*** *许多精神活性物质单独使用时还算安全，但当与某些其他物质结合使用时，可能会突然变得危险甚至危及生命哦。以下列表提供了一些已知的危险相互作用（虽然不能保证包含所有情况）。*
+
+*务必进行独立的调研（例如用 [Google](https://www.google.com)、[DuckDuckGo](https://www.duckduckgo.com)、[PubMed](https://pubmed.ncbi.nlm.nih.gov/)），以确保两种或多种物质的组合可以安全食用。部分列出的相互作用来自 [TripSit](https://combo.tripsit.me)。*
+
+*   **[酒精](./酒精.html)** - 在服用兴奋剂时饮酒被认为是有风险的，因为它会降低身体用来衡量醉酒程度的镇静作用。这通常会导致过度饮酒，抑制力大大降低，增加了肝损伤和脱水的风险。兴奋剂的作用还会让人在通常会醉倒的情况下继续喝，从而增加风险。如果你决定这样做，那么你应该设定每小时喝多少的限制并严格遵守，记住你会感觉不到酒精和兴奋剂的作用那么强了。
+*   **[GHB](./GHB.html)/[GBL](./GBL.html)** - 兴奋剂会增加呼吸频率，允许耐受更高剂量的镇静剂。如果兴奋剂先失效，GHB/GBL 的抑制作用可能会压倒使用者并导致呼吸停止。
+*   **[阿片类药物](/FreeODwiki/文档/药物分类/阿片类药物.html)** - 兴奋剂会增加呼吸频率，允许耐受更高剂量的阿片类药物。如果兴奋剂先失效，阿片类药物可能会压倒患者并导致呼吸停止。
+*   **[可卡因](./可卡因.html)** - 可卡因的奖赏效应是由 DAT 抑制介导的，并通过细胞膜增加多巴胺的胞吐作用。苯丙胺通过 pH 介导的置换机制逆转 DAT 的方向和细胞内囊泡转运的方向，从而排除了通过胞吐作用释放多巴胺的常规机制，因为 Na+/K+ ATP 酶的作用被抑制了。你会发现可卡因和苯丙胺的组合会对心脏产生影响，这是由于 5-HT2B 随后的激活引起的 SERT 介导的机制，这是血清素相关瓣膜病的一种影响。苯丙胺通常在滥用模型中引起高血压，这种组合可能会因瓣膜操作期间的湍流血流而增加晕厥的机会。可卡因的奖赏机制会被苯丙胺的给药所逆转。
+*   **[大麻](./大麻.html)** - 兴奋剂会增加[焦虑](/FreeODwiki/药效/焦虑.html)水平以及[思维循环](/FreeODwiki/药效/思维循环.html)和[偏执](/FreeODwiki/药效/偏执.html)的风险，这可能导致负面体验。
+*   **[咖啡因](./咖啡因.html)** - 这种兴奋剂组合通常被认为是不必要的，可能会增加心脏负担，并可能引起焦虑和身体不适。
+*   **[曲马多](./曲马多.html)** - 曲马多和兴奋剂都会增加癫痫发作的风险。
+*   **[右美沙芬](./右美沙芬.html)** - 两种物质都会提高心率，在极端情况下，由这些物质引起的惊恐发作曾导致更严重的心脏问题。
+*   **[氯胺酮](./氯胺酮.html)** - 结合苯丙胺和氯胺酮可能会导致类似精神分裂症的精神病，虽然不一定比单独使用任何一种物质产生的精神病更严重，但这还有争议。这是因为苯丙胺能够减弱氯胺酮引起的工作记忆中断。单用苯丙胺可能会导致浮夸、偏执或躯体妄想，对阴性症状几乎没有影响。然而，氯胺酮由于概念的改变，会导致思维障碍、执行功能中断和妄想。这些机制是由于苯丙胺通过其影响多巴胺的药理作用导致中脑边缘通路中多巴胺能活动的增加，以及通过氯胺酮的 NMDA 拮抗作用导致中脑皮层通路中多巴胺能功能的破坏。将两者结合起来，你可能会预期主要是思维障碍以及阳性症状。
+*   **[PCP](./PCP.html)** - 增加心动过速、高血压和躁狂状态的风险。
+*   **[MXE](./MXE.html)** - 增加心动过速、高血压和躁狂状态的风险。
+*   **[致幻剂](/FreeODwiki/文档/药物分类/致幻剂.html)** (例如 ***[LSD](./LSD.html), [麦斯卡林](./麦斯卡林.html), [赛洛西宾蘑菇](./赛洛西宾蘑菇.html)***) - 增加[焦虑](/FreeODwiki/药效/焦虑.html)、[偏执](/FreeODwiki/药效/偏执.html)和[思维循环](/FreeODwiki/药效/思维循环.html)的风险。
+    *   **25x-NBOMe** - 苯丙胺和 NBOMes 都提供相当大的刺激，当结合使用时，它们会导致心动过速、高血压、血管收缩，在极端情况下会导致心力衰竭。兴奋剂的焦虑和聚焦效应也不适合与致幻剂结合，因为它们会导致令人不快的思维循环。已知 NBOMes 会引起癫痫发作，而兴奋剂会增加这种风险。
+    *   **2C-T-x** - 怀疑具有轻微的 MAOI 特性。可能会增加高血压危象的风险。
+    *   **5-MeO-xxT** - 怀疑具有轻微的 MAOI 特性。可能会增加高血压危象的风险。
+    *   **[DOx](/FreeODwiki/文档/药物分类/2,5-二甲氧基苯乙胺类物质.html)**
+*   **aMT** - aMT 具有 MAOI 特性，可能与苯丙胺发生不利的相互作用。
+*   **[单胺氧化酶抑制剂](/FreeODwiki/文档/单胺氧化酶抑制剂.html)** - MAO-B 抑制剂可以不可预测地增加苯乙胺类物质的效力和持续时间。MAO-A 抑制剂与苯丙胺一起使用会导致高血压危象。
+
+法律地位
+------------
+
+*   **奥地利**：根据 NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich)，4-FA 的持有、生产和销售是非法的。
+*   **巴西**：4-FA 在 Portaria SVS/MS nº 344 中列出，因此其持有、生产和销售是非法的。
+*   **加拿大**：4-FA 属于附表 I，因为它被认为是苯丙胺的类似物。
+*   **法国**：4-FA 被列为“stupéfiant”，即公认的滥用药物。持有、购买、销售或制造均属非法。
+*   **德国**：截至 2012 年 7 月 26 日，4-FA 受 Anlage I BtMG (*麻醉品法，附表 I*) 管制。未经许可，制造、持有、进出口、买卖、采购或分发均属非法。
+*   **匈牙利**：2012 年 1 月，4-FA 在匈牙利受到管制。
+*   **以色列**：2007 年 12 月，4-FA 被添加到以色列的受控物质清单中，购买、销售或持有均属非法。
+*   **荷兰**：截至 2017 年 5 月 25 日，4-FA 在荷兰属于附表 1 药物。
+*   **新西兰**：4-FA 是苯丙胺类似物，因此在新西兰属于附表 3 受控物质。
+*   **波兰**：4-FA 在波兰受到管制。
+*   **斯洛伐克共和国**：从 2011 年 3 月 1 日起，4-氟苯丙胺在斯洛伐克共和国受到管制。
+*   **瑞士**：4-FA 是 Verzeichnis D 下特别列出的受控物质。
+*   **土耳其**：4-FA 被归类为药物，持有、生产、供应或进口均属非法。
+*   **英国**：由于《1971 年滥用药物法》中的苯丙胺类似物条款，4-FA 被视为 A 类药物。
+*   **美国**：4-FA 在美国联邦层面未列入附表。
+    *   **亚利桑那州**：2014 年 4 月，4-FA 被添加到“危险药物”清单中。
+    *   **路易斯安那州**：截至 2013 年 6 月，4-FA 目前被列为附表 I 药物。
+    *   **弗吉尼亚州**：4-FA 被归类为附表 I 药物。
+
+另见
+--------
+
+*   [负责任的用药](/FreeODwiki/文档/负责任的用药索引页.html)
+*   [研究用化学品](/FreeODwiki/文档/研究用化学品.html)
+*   [共情剂](/FreeODwiki/文档/药物分类/共情剂.html)
+*   [兴奋剂](/FreeODwiki/文档/药物分类/兴奋剂.html)
+*   [苯丙胺](/FreeODwiki/药物/苯丙胺.html)
+*   [MDMA](./MDMA.html)
+*   [3-FEA](./3-FEA.html)
+
+外部链接
+--------------
+
+*   [4-FA (Wikipedia)](https://en.wikipedia.org/wiki/4-Fluoroamphetamine)
+*   [4-FA (Erowid Vault)](https://erowid.org/chemicals/4_fluoroamphetamine/4_fluoroamphetamine.shtml)
+*   [4-FA (Isomer Design)](https://isomerdesign.com/PiHKAL/explore.php?id=2008)
+
+### 讨论
+
+*   [Big n Dandy 4-FA (4-fluoroamphetamine) thread v.1.0 (Bluelight)](http://www.bluelight.org/vb/threads/498590-Big-n-Dandy-4-FA-(4-fluoroamphetamine)-thread-v-1-0)
+
+参考文献
+----------
+
+*(注：参考文献中的原文链接保持不变，不做翻译)*
+1. ↑ 1.0 1.1 Rösner, P., Quednow, B., Girreser, U., Junge, T. (March 2005). "Isomeric Fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs)". Forensic Science International. 148 (2–3): 143–156. doi:10.1016/j.forsciint.2004.05.003. ISSN 0379-0738. 
+2. ↑ 2.0 2.1 Nagai, F., Nonaka, R., Satoh Hisashi Kamimura, K. (22 March 2007). "The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain". European Journal of Pharmacology. 559 (2–3): 132–137. doi:10.1016/j.ejphar.2006.11.075. ISSN 0014-2999. 
+3. ↑ Fuller, R. W., Baker, J. C., Perry, K. W., Molloy, B. B. (1 October 1975). "Comparison of 4-chloro-, 4-bromo- and 4-fluoroamphetamine in rats: Drug levels in brain and effects on brain serotonin metabolism". Neuropharmacology. 14 (10): 739–746. doi:10.1016/0028-3908(75)90099-4. ISSN 0028-3908. 
+4. ↑ Voor mentale gezondheid 
+5. ↑ Vergiftigingen.info - Home 
+6. ↑ https://psychonautwiki.org/wiki/File:Behandeling-4-fa-intoxicatie.pdf (注：原始链接为文件，建议用户自行搜索或查阅本地备份)
+7. ↑ https://psychonautwiki.org/wiki/File:4-FA%20risicobeoordeling%20(2016).pdf
+8. ↑ Costa, E., Garattini, S. (June 1971). Domino, E. F., ed. "Amphetamines and related compounds". Electroencephalography and Clinical Neurophysiology. 30 (6): 579. doi:10.1016/0013-4694(71)90160-X. ISSN 0013-4694. 
+9. ↑ National Institute on Drug Abuse, Emerging Trends 
+10. ↑ 10.0 10.1 10.2 Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. "Treatment for amphetamine psychosis". Cochrane Database of Systematic Reviews. doi:10.1002/14651858.CD003026.pub3. ISSN 1465-1858. 
+11. ↑ Hofmann, F. G. (1983). A handbook on drug and alcohol abuse: the biomedical aspects (2nd ed ed.). Oxford University Press. ISBN 9780195030563. CS1 maint: Extra text (link)
+12. ↑ 12.0 Greenwald, M. K., Lundahl, L. H., Steinmiller, C. L. (December 2010). "Sustained Release d-Amphetamine Reduces Cocaine but not 'Speedball'-Seeking in Buprenorphine-Maintained Volunteers: A Test of Dual-Agonist Pharmacotherapy for Cocaine/Heroin Polydrug Abusers". Neuropsychopharmacology. 35 (13): 2624–2637. doi:10.1038/npp.2010.175. ISSN 0893-133X. 
+13. ↑ 13.0 Siciliano, C. A., Saha, K., Calipari, E. S., Fordahl, S. C., Chen, R., Khoshbouei, H., Jones, S. R. (10 January 2018).

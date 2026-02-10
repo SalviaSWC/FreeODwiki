@@ -1,0 +1,1523 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>视觉扭曲 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              视觉扭曲
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        残影
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        亮度改变
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        颜色替换
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        颜色偏移
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="颜色偏移">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        深度感知扭曲
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        衍射
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="衍射">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        漂移
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="漂移">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        变形
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        呼吸
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        融化
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        流动
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        变体
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        精神活性物质
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        环境立体主义
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="环境立体主义">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_20" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_21" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        环境模式化
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_22" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        环境球体化
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="环境球体化">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_23" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_24" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        物体变形
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_25" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        透视扭曲
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="透视扭曲">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_26" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        爱丽丝梦游仙境综合征
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_27" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        递归
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="递归">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_28" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_29" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        景色切片
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="景色切片">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_30" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_31" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        对称纹理重复
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_32" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉拖影
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="视觉拖影">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_33" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_34" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉翻转
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_35" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉阴霾
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_36" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉拉伸
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_37" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_38" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_39" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考资料
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="/FreeODwiki/home.html">◀返回</a></p>
+<h1 id="_1">视觉扭曲</h1>
+<p><strong>视觉扭曲</strong>指的是任何主观效应，它改变了对既有视觉数据的感知或外观，但并没有添加任何全新的内容哦，喵。</p>
+<p>这个页面列出并描述了在某些<a href="/FreeODwiki/文档/药物分类/精神活性物质.html">精神活性物质</a>影响下可能发生的各种视觉扭曲现象呢。</p>
+<hr />
+<h3 id="_2">残影</h3>
+<p>主条目：<a href="/FreeODwiki/药效/残影.html">残影</a></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img alt="After images representation" src="/FreeODwiki/" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>残影</strong> 作者：<strong>StingrayZ</strong> - 这张图片准确地描绘了被称为残影的常见<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>效应。背景中还有明显的<a href="/FreeODwiki/药效/漂移.html">视觉漂移</a>呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>残影</strong>（也称为<strong>视保续症</strong>）是指在原来的图像消失后，视觉感知仍然继续出现在视野中的现象哦。一种常见的残影形式是盯着光源几秒钟后，视野中似乎漂浮着的明亮光晕。这种效果类似于<a href="#视觉拖影">拖影</a>，但不同之处在于它不会在移动物体后面产生平滑的模糊感呢。</p>
+<p>在<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a>体验期间，移动的物体可能会在其运动路径后留下一串重叠的静止图像。这会在视野中产生一系列移动物体的重叠图像，而且物体离开那个位置的时间越长，图像就越淡。这种效果的另一种常见表现是，当闭上眼睛时，能看到外部环境的残留图像持续几秒钟，然后才慢慢消失。</p>
+<p>残影通常伴随着其他同时发生的效应，如<a href="#视觉拖影">拖影</a>和<a href="/FreeODwiki/药效/漂移.html">漂移</a>。它们最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>呢。不过，具有非常不同药理机制的其他药物，如GABA增强剂，也可能产生拖尾效应哦。</p>
+<h3 id="_3">亮度改变</h3>
+<p>主条目：<a href="/FreeODwiki/药效/亮度改变.html">亮度改变</a></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="/FreeODwiki/文件/Brightness_alteration.jpg"><img alt="Brightness alteration" src="https://psychonautwiki.org/w/thumb.php?f=Brightness_alteration.jpg&amp;width=300" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>清醒状态 vs 亮度改变</strong> 作者：<strong>Josikins</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>亮度改变</strong>是指视觉亮度的感知水平发生扭曲或变化呢。这通常会导致视线变得更暗、更柔和，但也可能根据环境和摄入的物质变得更亮、更生动哦。</p>
+<p>亮度改变可能伴随着<a href="/FreeODwiki/药效/瞳孔扩大.html">瞳孔扩大</a>或<a href="/FreeODwiki/药效/瞳孔缩小.html">瞳孔缩小</a>以及<a href="/FreeODwiki/药效/畏光.html">畏光</a>等同时发生的效应。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>、<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>和<a href="/FreeODwiki/文档/药物分类/大麻类.html">大麻素</a>呢。</p>
+<h3 id="_4">颜色替换</h3>
+<p>主条目：<a href="/FreeODwiki/药效/颜色替换.html">颜色替换</a></p>
+<p><strong>颜色替换</strong>是指整个视野或其中的特定物体和区域被替换为与原始外观不同的另一种颜色的体验哦。例如，视野可能变成紫色，树上的绿叶可能变成红色，或者黑色的车可能变成白色的喵。</p>
+<p>虽然很相似，但这个部分与<a href="/FreeODwiki/药效/颜色偏移.html">颜色偏移</a>不同，因为这是一种静态的颜色变化，保持静止和半永久性，而不是在各种色调和阴影之间不断循环呢。</p>
+<p>颜色替换通常伴随着其他同时发生的效应，如<a href="/FreeODwiki/药效/颜色增强.html">颜色增强</a>和<a href="/FreeODwiki/药效/颜色偏移.html">颜色偏移</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>呢。</p>
+<h3 id="_5">颜色偏移</h3>
+<p>主条目：<a href="/FreeODwiki/药效/颜色偏移.html">颜色偏移</a></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img alt="UV Mandala" src="/FreeODwiki//gfycat.com/ifr/BelovedLittleIndianskimmer" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>紫外线曼陀罗</strong> 作者：<strong>StingrayZ</strong> - 这张图片准确地描绘了在曼陀罗挂毯中看到的被称为<a href="/FreeODwiki/药效/颜色偏移.html">颜色偏移</a>的常见<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>效应。还有明显的<a href="/FreeODwiki/药效/漂移.html">视觉漂移</a>哦。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>颜色偏移</strong>是指外部环境中的各种物体在其表面以流畅的动作不断循环改变颜色的体验喵。例如，岩石上的苔藓可能会明显地从绿色变成红色，再变成蓝色，或是其他任何颜色，然后像平滑无缝的动画循环一样变回绿色。如果物体的原始颜色很鲜艳或不协调，这种效果会特别强烈且容易发生呢。</p>
+<p>颜色偏移通常伴随着其他同时发生的效应，如<a href="/FreeODwiki/药效/颜色增强.html">颜色增强</a>和<a href="/FreeODwiki/药效/颜色替换.html">颜色替换</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>。不过，在某些<a href="/FreeODwiki/文档/药物分类/共情剂.html">共情剂</a>如<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>、<a href="/FreeODwiki/药物/MDA.html">MDA</a>和<a href="/FreeODwiki/药物/6-APB.html">6-APB</a>的影响下，也可能发生程度较轻的这种现象哦。</p>
+<h4 id="_6">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Flowers_by_Chelsea_Morgan.gif"><img alt="Flowers by Chelsea Morgan.gif" src="https://psychonautwiki.org/w/thumb.php?f=Flowers_by_Chelsea_Morgan.gif&amp;width=300" /></a><br><strong>花朵</strong> 作者：<strong>Chelsea Morgan</strong></td>
+<td><a href="/FreeODwiki/文件/Colour_shifting_field.jpg"><img alt="Colour shifting field.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Colour_shifting_field.jpg&amp;width=300" /></a><br><strong>田野</strong> 作者：<strong>Anonymous</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/WcYKq.gif"><img alt="WcYKq.gif" src="https://psychonautwiki.org/w/thumb.php?f=WcYKq.gif&amp;width=300" /></a><br><strong>画作</strong> 作者：<strong>Anonymous</strong></td>
+<td><a href="/FreeODwiki/文件/LucytheFairy.gif"><img alt="LucytheFairy.gif" src="https://psychonautwiki.org/w/thumb.php?f=LucytheFairy.gif&amp;width=300" /></a><br><strong>露西仙子</strong> 作者：<strong>StingrayZ</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Garden_Painting_by_Anonymous.jpg"><img alt="Garden Painting by Anonymous.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Garden_Painting_by_Anonymous.jpg&amp;width=300" /></a><br><strong>花园画作</strong> 作者：<strong>Anonymous</strong></td>
+<td><a href="/FreeODwiki/文件/Japanese_Maple.jpg"><img alt="Japanese Maple.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Japanese_Maple.jpg&amp;width=300" /></a><br><strong>红枫</strong> 作者：<strong>Anonymous</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_7">深度感知扭曲</h3>
+<p>主条目：<a href="/FreeODwiki/药效/深度感知扭曲.html">深度感知扭曲</a></p>
+<p><strong>深度感知扭曲</strong>是指一个人对视野中各种物体距离的感知发生改变呢。在这种状态下，风景的各个层次可能会变得夸张、倾斜或完全重新排列哦。这就好像场景中的不同部分互换了层级，背景中的物体看起来像是在前景，而前景中的物体看起来像是在背景喵。在其他情况下，这种扭曲会应用到整个视野，比如所有东西看起来都又小又远，或者又大又近。</p>
+<p>这类扭曲的另一个例子是深度感知的完全丧失。当场景的不同部分似乎统一成一个平面的二维图像，而不管它们之间以及与观察者的实际距离如何时，就会发生这种情况呢。</p>
+<p>深度感知扭曲通常伴随着其他同时发生的效应，如<a href="#透视扭曲">透视扭曲</a>和<a href="/FreeODwiki/药效/漂移.html">漂移</a>。它们最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>呢。</p>
+<h3 id="_8">衍射</h3>
+<p>主条目：<a href="/FreeODwiki/药效/衍射.html">衍射</a></p>
+<p><strong>衍射</strong>是指在视野中较亮的部分看到彩虹和光谱的体验哦。这种视觉效果很可能是由于<a href="/FreeODwiki/药效/瞳孔扩大.html">瞳孔扩大</a>导致一些光源以一种似乎扩散成更大范围光谱而不是单一波长的方式击中眼睛的晶状体呢。</p>
+<p>衍射最常在<a href="/FreeODwiki/文档/药物剂量分类.html">轻微</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>。不过，某些人在日常清醒生活中也会体验到这种效果喵。</p>
+<h4 id="_9">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Glare.jpg"><img alt="Glare.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Glare.jpg&amp;width=300" /></a><br><strong>眩光</strong> 作者：<strong>Anonymous</strong></td>
+<td><a href="/FreeODwiki/文件/Diffraction.jpg"><img alt="Diffraction.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Diffraction.jpg&amp;width=300" /></a><br><strong>衍射阴影</strong> 作者：<strong>capture-life-with-lens.tumblr.com</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_10">漂移</h3>
+<p>主条目：<a href="/FreeODwiki/药效/漂移.html">漂移</a></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="/FreeODwiki/文件/White_Wolf_Drinking_Water_by_Anonymous.gif"><img alt="White Wolf Drinking Water by Anonymous.gif" src="https://psychonautwiki.org/w/images/a/a0/White_Wolf_Drinking_Water_by_Anonymous.gif" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>白狼饮水</strong> 作者：<strong>Anonymous</strong> - 这个GIF动画是<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>视觉漂移非常常见的一种表现形式，具体来说是<a href="#流动">流动</a>形式的图像示例呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>漂移</strong>是指物体和风景的纹理、形状和一般结构出现逐渐扭曲、融化和变形的体验哦。当注视时，这些改变的强度会逐渐增加，但它们是暂时的，一旦视线移开再看，就会恢复正常外观喵。</p>
+<p>这种效果可以表现在以下4个不同的强度等级上呢：</p>
+<ol>
+<li><strong>周边</strong> - 在最低级别，视觉漂移可以描述为外部环境中直线的摆动。这只发生在人的周边视觉中，不能直接注视哦。</li>
+<li><strong>直接</strong> - 在这个级别，视觉漂移的强度不一定增加，但现在可以在人的中心视线内直接注视了。这会部分改变外部环境中形状、物体和风景的外观和形式，使它们发生微妙的漂移、弯曲和变形呢。</li>
+<li><strong>明显</strong> - 在这个级别，视觉漂移变得足够强烈，可以彻底改变外部环境中特定物体的形状。如果盯着一个固定点并保持眼睛相对静止，这种效果足以使物体逐渐变得无法辨认出原来的形式哦。</li>
+<li><strong>全包围</strong> - 在视觉漂移的最高级别，强度变得足以扭曲不仅仅是特定的物体，而是视野中的每一个点以及整个外部环境。这会造成一种极度模糊、扭曲和混合的无法辨认的视觉数据团块喵。</li>
+</ol>
+<p>漂移通常伴随着其他同时发生的效应，如<a href="#对称纹理重复">对称纹理重复</a>和<a href="#视觉拖影">视觉拖影</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>。不过，在某些<a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a>和<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>如<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>或<a href="/FreeODwiki/药物/3-MeO-PCP.html">3-MeO-PCP</a>的影响下，也可能发生程度较轻的漂移哦。</p>
+<p>这种视觉效果的具体风格取决于扭曲的具体持续变化方向、速度和节奏。这导致了下面定义和列出的各种不同表现形式呢：</p>
+<h4 id="_11">变形</h4>
+<p>变形可以描述为一种在节奏和方向上完全杂乱无章和自发的视觉漂移风格。它导致物体和风景在其大小、形状和配置上逐渐改变、变形和扭曲哦。</p>
+<h4 id="_12">呼吸</h4>
+<p>呼吸可以描述为一种视觉漂移风格，它导致物体和风景以一致的节奏向内收缩和向外扩张，类似于生物的肺部一样呢。</p>
+<h4 id="_13">融化</h4>
+<p>融化可以描述为一种视觉漂移风格，它导致物体和风景的纹理看起来完全或部分融化了。在较低强度下，它开始于物体纹理的逐渐扭曲，导致它们微妙地下垂、摆动并失去结构完整性。这种情况逐渐增加，直到无法忽视，因为固体物体之间的线条、纹理和颜色以极其流畅的风格相互融化喵。</p>
+<h4 id="_14">流动</h4>
+<p>流动可以描述为一种似乎几乎只发生在纹理上的视觉漂移风格（特别是如果纹理非常详细、复杂或外观粗糙）。它导致纹理看起来像河流一样在无缝的循环动画中流动。这在木纹或动物皮毛上特别常见哦。</p>
+<h4 id="_15">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Wood.gif"><img alt="Wood.gif" src="https://psychonautwiki.org/w/images/9/9b/Wood.gif" /></a><br><strong>呼吸的木桩</strong> 作者：<strong>Chelsea Morgan</strong></td>
+<td><a href="/FreeODwiki/文件/Wibbly_Wobbly_Bed_Room_by_Chelsea_Morgan.jpg"><img alt="Wibbly Wobbly Bed Room by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Wibbly_Wobbly_Bed_Room_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>摇摇晃晃的卧室</strong> 作者：<strong>Chelsea Morgan</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Flowing_Fruit.gif"><img alt="Flowing Fruit.gif" src="https://psychonautwiki.org/w/thumb.php?f=Flowing_Fruit.gif&amp;width=300" /></a><br><strong>流动的水果</strong> 作者：<strong>Anonymous</strong></td>
+<td><a href="/FreeODwiki/文件/Red_Woods_by_CountRoloff.jpg"><img alt="Red Woods by CountRoloff.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Red_Woods_by_CountRoloff.jpg&amp;width=300" /></a><br><strong>红杉林</strong> 作者：<strong>CountRoloff</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Mobile_Phone_by_Chelsea_Morgan.jpg"><img alt="Mobile Phone by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Mobile_Phone_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>手机</strong> 作者：<strong>Chelsea Morgan</strong></td>
+<td><a href="/FreeODwiki/文件/Living_Room_by_Chelsea_Morgan.jpg"><img alt="Living Room by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Living_Room_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>客厅</strong> 作者：<strong>Chelsea Morgan</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/LucytheFairy.gif"><img alt="LucytheFairy.gif" src="https://psychonautwiki.org/w/thumb.php?f=LucytheFairy.gif&amp;width=300" /></a><br><strong>露西仙子</strong> 作者：<strong>StingrayZ</strong></td>
+<td><a href="/FreeODwiki/文件/White_Wolf_Drinking_Water_by_Anonymous.gif"><img alt="White Wolf Drinking Water by Anonymous.gif" src="https://psychonautwiki.org/w/thumb.php?f=White_Wolf_Drinking_Water_by_Anonymous.gif&amp;width=300" /></a><br><strong>白狼饮水</strong> 作者：<strong>Anonymous</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/2bZZ1Dg.jpg"><img alt="2bZZ1Dg.jpg" src="https://psychonautwiki.org/w/thumb.php?f=2bZZ1Dg.jpg&amp;width=300" /></a><br><strong>漂移</strong> 作者：<strong>Anonymous</strong></td>
+<td><a href="/FreeODwiki/文件/Tumblr_n37xm8eyf31r8oyaho1_400.gif"><img alt="Tumblr n37xm8eyf31r8oyaho1 400.gif" src="https://psychonautwiki.org/w/thumb.php?f=Tumblr_n37xm8eyf31r8oyaho1_400.gif&amp;width=300" /></a><br><strong>漂移的手枪</strong> 作者：<strong>Anonymous</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Drifting_cat_by_Anonymous.gif"><img alt="Drifting cat by Anonymous.gif" src="https://psychonautwiki.org/w/thumb.php?f=Drifting_cat_by_Anonymous.gif&amp;width=300" /></a><br><strong>漂移的猫</strong> 作者：<strong>Anonymous</strong></td>
+<td><a href="/FreeODwiki/文件/DAT_BREATHIN%27_YO!.gif"><img alt="DAT BREATHIN' YO!.gif" src="https://psychonautwiki.org/w/thumb.php?f=DAT_BREATHIN%27_YO%21.gif&amp;width=300" /></a><br><strong>呼吸的木桩</strong> 作者：<strong>Anonymous</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Symmetric_pattern_drifting.gif"><img alt="Symmetric pattern drifting.gif" src="https://psychonautwiki.org/w/thumb.php?f=Symmetric_pattern_drifting.gif&amp;width=300" /></a><br><strong>对称漂移图案</strong> 作者：<strong>Anonymous</strong></td>
+<td><a href="/FreeODwiki/文件/Visual_Drifting_by_Anonymous.jpg"><img alt="Visual Drifting by Anonymous.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Visual_Drifting_by_Anonymous.jpg&amp;width=300" /></a><br><strong>视觉漂移</strong> 作者：<strong>Anonymous</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/The_Starry_Night_by_Vincent_Van_Gogh.gif"><img alt="The Starry Night by Vincent Van Gogh.gif" src="https://psychonautwiki.org/w/thumb.php?f=The_Starry_Night_by_Vincent_Van_Gogh.gif&amp;width=300" /></a><br><strong>星夜</strong> 作者：<strong>文森特·梵高</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4 id="_16">变体</h4>
+<p>每种潜在漂移风格之间的具体差异可以分解为以下变体，并且可能独立于效果强度而发生呢：</p>
+<ul>
+<li><strong>复杂 vs. 简单</strong> – 漂移可以以一种向许多不同复杂方向扩散的方式改变外部环境，导致原始的感官输入外观变得完全无法辨认。或者，即使在高剂量下，它也可以本质上很简单，包括简单的翘曲、摆动和弯曲哦。</li>
+<li><strong>慢速 vs. 快速</strong> – 漂移可以表现为突然加速的变化，在视野中产生快速运动，或者当注视它时逐渐显现并缓慢移动。</li>
+<li><strong>平滑 vs. 抖动</strong> – 漂移可以表现为平滑、流畅和无缝的运动，或者表现为抖动，帧率极低，以突然和部分的过渡进行移动喵。</li>
+<li><strong>静态 vs. 稍纵即逝</strong> – 漂移可以冻结在其扭曲的位置，直到再次眨眼确认，或者在本质上极度短暂，几乎在试图直接注视它时就立即重置。</li>
+<li><strong>写实 vs. 不写实</strong> – 漂移在其外观和运动上看起来可能令人信服地自然和栩栩如生，或者看起来极其卡通化、夸张和不真实呢。</li>
+</ul>
+<h3 id="_17">精神活性物质</h3>
+<p>我们的<a href="/FreeODwiki/文档/药物分类/药物全索引.html">精神活性物质索引</a>中可能引起此效应的化合物包括：</p>
+<ul>
+<li><a href="/FreeODwiki/药物/1B-LSD.html">1B-LSD</a></li>
+<li><a href="/FreeODwiki/药物/1P-ETH-LAD.html">1P-ETH-LAD</a></li>
+<li><a href="/FreeODwiki/药物/1P-LSD.html">1P-LSD</a></li>
+<li><a href="/FreeODwiki/药物/1V-LSD.html">1V-LSD</a></li>
+<li><a href="/FreeODwiki/药物/1cP-AL-LAD.html">1cP-AL-LAD</a></li>
+<li><a href="/FreeODwiki/药物/1cP-LSD.html">1cP-LSD</a></li>
+<li><a href="/FreeODwiki/药物/1cP-MiPLA.html">1cP-MiPLA</a></li>
+<li><a href="/FreeODwiki/药物/2-FEA.html">2-FEA</a></li>
+<li><a href="/FreeODwiki/药物/2-FMA.html">2-FMA</a></li>
+<li><a href="/FreeODwiki/药物/25B-NBOH.html">25B-NBOH</a></li>
+<li><a href="/FreeODwiki/药物/25B-NBOMe.html">25B-NBOMe</a></li>
+<li><a href="/FreeODwiki/药物/25C-NBOH.html">25C-NBOH</a></li>
+<li><a href="/FreeODwiki/药物/25C-NBOMe.html">25C-NBOMe</a></li>
+<li><a href="/FreeODwiki/药物/25D-NBOMe.html">25D-NBOMe</a></li>
+<li><a href="/FreeODwiki/药物/25E-NBOH.html">25E-NBOH</a></li>
+<li><a href="/FreeODwiki/药物/25I-NBOH.html">25I-NBOH</a></li>
+<li><a href="/FreeODwiki/药物/25I-NBOMe.html">25I-NBOMe</a></li>
+<li><a href="/FreeODwiki/药物/25N-NBOMe.html">25N-NBOMe</a></li>
+<li><a href="/FreeODwiki/药物/2C-B.html">2C-B</a></li>
+<li><a href="/FreeODwiki/药物/2C-B-FLY.html">2C-B-FLY</a></li>
+<li><a href="/FreeODwiki/药物/2C-C.html">2C-C</a></li>
+<li><a href="/FreeODwiki/药物/2C-D.html">2C-D</a></li>
+<li><a href="/FreeODwiki/药物/2C-E.html">2C-E</a></li>
+<li><a href="/FreeODwiki/药物/2C-I.html">2C-I</a></li>
+<li><a href="/FreeODwiki/药物/2C-P.html">2C-P</a></li>
+<li><a href="/FreeODwiki/药物/2C-T.html">2C-T</a></li>
+<li><a href="/FreeODwiki/药物/2C-T-2.html">2C-T-2</a></li>
+<li><a href="/FreeODwiki/药物/2C-T-21.html">2C-T-21</a></li>
+<li><a href="/FreeODwiki/药物/2C-T-7.html">2C-T-7</a></li>
+<li><a href="/FreeODwiki/药物/3,4-CTMP.html">3,4-CTMP</a></li>
+<li><a href="/FreeODwiki/药物/3C-E.html">3C-E</a></li>
+<li><a href="/FreeODwiki/药物/3C-P.html">3C-P</a></li>
+<li><a href="/FreeODwiki/药物/4-AcO-DET.html">4-AcO-DET</a></li>
+<li><a href="/FreeODwiki/药物/4-AcO-DMT.html">4-AcO-DMT</a></li>
+<li><a href="/FreeODwiki/药物/4-AcO-DiPT.html">4-AcO-DiPT</a></li>
+<li><a href="/FreeODwiki/药物/4-AcO-MET.html">4-AcO-MET</a></li>
+<li><a href="/FreeODwiki/药物/4-AcO-MiPT.html">4-AcO-MiPT</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-DET.html">4-HO-DET</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-DPT.html">4-HO-DPT</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-DiPT.html">4-HO-DiPT</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-EPT.html">4-HO-EPT</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-MET.html">4-HO-MET</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-MPT.html">4-HO-MPT</a></li>
+<li><a href="/FreeODwiki/药物/4-HO-MiPT.html">4-HO-MiPT</a></li>
+<li><a href="/FreeODwiki/药物/5-HTP.html">5-HTP</a></li>
+<li><a href="/FreeODwiki/药物/5-MeO-DALT.html">5-MeO-DALT</a></li>
+<li><a href="/FreeODwiki/药物/5-MeO-DMT.html">5-MeO-DMT</a></li>
+<li><a href="/FreeODwiki/药物/5-MeO-DiBF.html">5-MeO-DiBF</a></li>
+<li><a href="/FreeODwiki/药物/5-MeO-DiPT.html">5-MeO-DiPT</a></li>
+<li><a href="/FreeODwiki/药物/5-MeO-MiPT.html">5-MeO-MiPT</a></li>
+</ul>
+<h3 id="_18">体验报告</h3>
+<p>我们<a href="/FreeODwiki/报告/psychounautwiki/">体验报告索引</a>中描述此效应的轶事报告包括：</p>
+<ul>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_15mg_2C-B_(oral)_-_A_pleasant_low-dose_evening_with_Nexus">Experience: 15mg 2C-B (oral) - A pleasant low-dose evening with Nexus</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_18_mg_2C-I_-_Visually_intense_and_strong_bodily_sensations">Experience: 18 mg 2C-I - Visually intense and strong bodily sensations</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_22mg_2C-B_(oral)_/_100ug_1P-LSD_(sublingual)_-_My_first_time_tripping_alone_(2_days_in_a_row)">Experience: 22mg 2C-B (oral) / 100ug 1P-LSD (sublingual) - My first time tripping alone (2 days in a row)</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_25mg_2C-E_(oral)_-_A_mindblowing_experience">Experience: 25mg 2C-E (oral) - A mindblowing experience</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_300mg_DXM_(Oral)_-_Brink_of_the_third">Experience: 300mg DXM (Oral) - Brink of the third</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_32mg_2C-B_-_Bromo_Mescaline">Experience: 32mg 2C-B - Bromo Mescaline</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_36mg_4-AcO-DiPT_-_Truly,_one_for_the_psychedelic_animals_among_us">Experience: 36mg 4-AcO-DiPT - Truly, one for the psychedelic animals among us</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_450_Datura_seeds_-_Talking_to_Ghosts">Experience: 450 Datura seeds - Talking to Ghosts</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_5-EAPB_(60mg)_%2B_2-FMA_(20mg)_%2B_4-AcO-DMT_(10mg)_-_Emotional_catharsis">Experience: 5-EAPB (60mg) + 2-FMA (20mg) + 4-AcO-DMT (10mg) - Emotional catharsis</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_80mg_EPT_-_Bummer">Experience: 80mg EPT - Bummer</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_80mg_EPT_-_Slight_improvement">Experience: 80mg EPT - Slight improvement</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_LSD_(Unknown_dosage)_-_My_experiences_with_LSD_and_anorexia/bulemia">Experience: LSD (Unknown dosage) - My experiences with LSD and anorexia/bulemia</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:1000_Morning_Glory_seeds_-_Rediscovering_the_Self">Experience:1000 Morning Glory seeds - Rediscovering the Self</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:100ug_1P-LSD_-_A_Fear_and_loathing_into_Bliss">Experience:100ug 1P-LSD - A Fear and loathing into Bliss</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:1050_%C2%B5g_1cP-LSD_-_The_matrix">Experience:1050 µg 1cP-LSD - The matrix</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:1064mgs_-_Fascinating_DXM_experience_-_Unusual_effects">Experience:1064mgs - Fascinating DXM experience - Unusual effects</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:120mg_-_Garden_of_The_Gods">Experience:120mg - Garden of The Gods</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:120%C2%B5g_LSD_-_First_Bad_Acid_Trip,_Psychosis">Experience:120µg LSD - First Bad Acid Trip, Psychosis</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:150mg_MDMA_%2B_20mg_2C-B_-_I_designed_it_this_way_myself">Experience:150mg MDMA + 20mg 2C-B - I designed it this way myself</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:170mg_4-AcO-DMT_-_Recklessness_rewarded">Experience:170mg 4-AcO-DMT - Recklessness rewarded</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:1mg_25c-NBOMe_-_Experiment_in_my_room">Experience:1mg 25c-NBOMe - Experiment in my room</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2_grams_Psilocybe_Cubensis_%2B_2.7_grams_Syrian_Rue_-_The_Psilohuasca_Albino_Fox">Experience:2 grams Psilocybe Cubensis + 2.7 grams Syrian Rue - The Psilohuasca Albino Fox</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2_hits_of_LSD_%2B_weed_-_Mindfuck">Experience:2 hits of LSD + weed - Mindfuck</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2_x_150_LSD_tabs">Experience:2 x 150 LSD tabs</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2.5g_-_Swim%27s_first_mushroom_trip">Experience:2.5g - Swim's first mushroom trip</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2.5g_Mushrooms_%2B_500mg_DMT">Experience:2.5g Mushrooms + 500mg DMT</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2.5g_Peganum_Harmala_%2B_250%C2%B5g_LSD_-_Ecstasy_of_Love_and_Misanthropy">Experience:2.5g Peganum Harmala + 250µg LSD - Ecstasy of Love and Misanthropy</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2.5g_Syrian_rue_%2B_6g_Mimosa_Hostilis_-_Becoming_God_(my_second_experience_with_unity)">Experience:2.5g Syrian rue + 6g Mimosa Hostilis - Becoming God (my second experience with unity)</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:20x_Extract_-_a_tall_humanoid_figure_wearing_a_white_cloak">Experience:20x Extract - a tall humanoid figure wearing a white cloak</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:225ug_-_Sheer_Awe_and_Joy">Experience:225ug - Sheer Awe and Joy</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:225ug_LSD_%2B_9g_cubensis_-_Galactic_Melt_and_the_Meverse">Experience:225ug LSD + 9g cubensis - Galactic Melt and the Meverse</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:250_seeds_-_Harsh_body_load">Experience:250 seeds - Harsh body load</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:250mg_MDA_/_250mg_MDMA_-_unnecessarily_large_dosage">Experience:250mg MDA / 250mg MDMA - unnecessarily large dosage</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:25mg_(insufflated)_-_Simultaneously_amazing_and_horrible">Experience:25mg (insufflated) - Simultaneously amazing and horrible</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:25mg_Quetiapine_-_Nice_buzz">Experience:25mg Quetiapine - Nice buzz</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2g_Syrian_rue_%2B_1g_Mimosa_Hostilis_-_These_voices_are_the_building_blocks_of_consciousness">Experience:2g Syrian rue + 1g Mimosa Hostilis - These voices are the building blocks of consciousness</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2mg_25C-NBOMe_-_Experimental_trip_to_test_personal_limits_of_NBOMes">Experience:2mg 25C-NBOMe - Experimental trip to test personal limits of NBOMes</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3_drops_of_cinnamon_bark_oil/_5_drops_of_german_chamomile_oil/_2mL_of_nutmeg_oil_in_lecithin_-_experiments_with_nutmeg_oil">Experience:3 drops of cinnamon bark oil/ 5 drops of german chamomile oil/ 2mL of nutmeg oil in lecithin - experiments with nutmeg oil</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3.5g_Syrian_rue_%2B_30g_Mimosa_Hostilis_brew_-_flying_through_a_rainbow_tunnel">Experience:3.5g Syrian rue + 30g Mimosa Hostilis brew - flying through a rainbow tunnel</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3.5g_psilocybe_cubensis_-_Relinquishing_of_Material_Chains/Fear_and_Desolation">Experience:3.5g psilocybe cubensis - Relinquishing of Material Chains/Fear and Desolation</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:300%C2%B5g_AL-LAD_-_Don%27t_worry,_because_you%27re_everyone!">Experience:300µg AL-LAD - Don't worry, because you're everyone!</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:300%C2%B5g_LSD_-_Togetherness_and_the_Silent_Dusk">Experience:300µg LSD - Togetherness and the Silent Dusk</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:30mg_(smoked)_DMT_-_The_Monolith">Experience:30mg (smoked) DMT - The Monolith</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:30mg_-_Horrible_bodyload">Experience:30mg - Horrible bodyload</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:30mg_-_Psychostimulant_egodeath">Experience:30mg - Psychostimulant egodeath</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:30mg_4-HO-MiPT_-_Positively_groovy">Experience:30mg 4-HO-MiPT - Positively groovy</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:337mg_DMT_fumarate_-_A_Day_With_DMT">Experience:337mg DMT fumarate - A Day With DMT</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:354mg_DXM,_weed,_nicotine_-_Descending_into_the_void">Experience:354mg DXM, weed, nicotine - Descending into the void</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:4-AcO-DMT_%2B_200mg_Pill">Experience:4-AcO-DMT + 200mg Pill</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:4-HO-DET_(20_mg,_oral)_-_Tripping_for_my_birthday">Experience:4-HO-DET (20 mg, oral) - Tripping for my birthday</a></li>
+</ul>
+<h3 id="_19">环境立体主义</h3>
+<p>主条目：环境立体主义</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img alt="Environmental Cubism in the park" src="/FreeODwiki//gfycat.com/ifr/RectangularYellowKingbird" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>公园里的环境立体主义</strong> 作者：<strong>StasConstantine</strong> - 这张图片准确地描绘了在公园里看到的被称为环境立体主义的常见<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>效应。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>环境立体主义</strong>是指外部环境在视觉上分割成数量和大小不一的正方形和立方体呢。一旦形成，这些块状物可能会开始慢慢地从原来的位置漂移开，通常还会改变大小，导致它们之间出现空隙。这些空隙中的空间可能是完全黑暗的，也可能由紧密结合的视觉<a href="/FreeODwiki/药效/几何.html">几何</a>图形组成哦。值得注意的是，这种效果在外观上与立体派摄影和艺术作品非常相似喵。</p>
+<p>这个黑暗空间最终可能会扩大，逐渐缩小立方体的大小，直到人发现自己被一个<a href="/FreeODwiki/药效/视觉断连.html#空洞、空间和虚无">解离空洞</a>包围。能够本能地感觉到和探测到扭曲的不同部分以及它们之间空隙的细节和布局也是常有的事呢。</p>
+<p>环境立体主义通常伴随着其他同时发生的效应，如<a href="#环境球体化">环境球体化</a>和<a href="/FreeODwiki/药效/视觉断连.html">视觉断连</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">严重</a>剂量的<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/氯胺酮.html">氯胺酮</a>、<a href="/FreeODwiki/药物/PCP.html">PCP</a>和<a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a>呢。</p>
+<h4 id="_20">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Deconstructed-cubist-photography-pics-1.jpeg"><img alt="Deconstructed-cubist-photography-pics-1.jpeg" src="https://psychonautwiki.org/w/thumb.php?f=Deconstructed-cubist-photography-pics-1.jpeg&amp;width=300" /></a><br><strong>时空立体主义者</strong> 作者：<strong>Diego Kuffer</strong></td>
+<td><a href="/FreeODwiki/文件/Cubism_Field_by_Chelsea_Morgan.jpg"><img alt="Cubism Field by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Cubism_Field_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>立体主义田野</strong> 作者：<strong>Chelsea Morgan</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Photo_montage_by_David_Hockney.jpg"><img alt="Photo montage by David Hockney.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Photo_montage_by_David_Hockney.jpg&amp;width=300" /></a><br><strong>照片蒙太奇</strong> 作者：<strong>David Hockney</strong></td>
+<td><a href="/FreeODwiki/文件/Cubism_woods_by_Chelsea_Morgan.jpg"><img alt="Cubism woods by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Cubism_woods_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>立体主义树林</strong> 作者：<strong>Chelsea Morgan</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Hockneys_Mother_by_David_Hockney.jpg"><img alt="Hockneys Mother by David Hockney.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Hockneys_Mother_by_David_Hockney.jpg&amp;width=300" /></a><br><strong>霍克尼的母亲</strong> 作者：<strong>David Hockney</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_21">环境模式化</h3>
+<p>主条目：环境模式化</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img alt="Forest of flowing fractals" src="/FreeODwiki//gfycat.com/ifr/WigglyPhysicalDodo" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>流动的分形森林</strong> 作者：<strong>/u/lazystylediffuse</strong> - 这个GIF动画是森林中环境模式化的视频示例哦。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>环境模式化</strong>是指体验到某些纹理或物体，如地毯、云彩和茂密的植被，漂移成越来越复杂的几何图案，而且总是清楚地由它们原本显现的材料组成呢。这些结构往往本质上主要对称，但也包括<a href="/FreeODwiki/药效/形式常数.html">形式常数</a>、<a href="/FreeODwiki/药效/分形.html">分形</a>和杂乱的<a href="/FreeODwiki/药效/几何.html">几何图案</a>喵。</p>
+<p>环境模式化通常伴随着其他同时发生的效应，如<a href="#对称纹理重复">对称纹理重复</a>、<a href="/FreeODwiki/药效/几何.html">几何</a>和<a href="/FreeODwiki/药效/漂移.html">漂移</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>呢。</p>
+<h3 id="_22">环境球体化</h3>
+<p>主条目：环境球体化</p>
+<p><strong>环境球体化</strong>是指外部环境在视觉上分割成数量和大小不一的圆圈和球体呢。一旦形成，这些部分可能会开始慢慢地从原来的位置漂移开，通常还会改变大小，导致它们之间出现空隙。这些空隙中的空间可能是完全黑暗的，也可能由紧密结合的视觉几何图形组成哦。</p>
+<p>这个黑暗空间最终可能会扩大，逐渐缩小球体的大小，直到人发现自己被一个<a href="/FreeODwiki/药效/视觉断连.html#空洞、空间和虚无">解离空洞</a>包围。能够本能地感觉到和探测到扭曲的不同部分以及它们之间空隙的细节和布局也是常有的事喵。</p>
+<p>环境球体化通常伴随着其他同时发生的效应，如<a href="#景色切片">景色切片</a>和<a href="/FreeODwiki/药效/视觉断连.html">视觉断连</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/氯胺酮.html">氯胺酮</a>、<a href="/FreeODwiki/药物/PCP.html">PCP</a>和<a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a>呢。</p>
+<h4 id="_23">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Coloured_Dreams_by_Bonnie_rychlak.jpg"><img alt="Coloured Dreams by Bonnie rychlak.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Coloured_Dreams_by_Bonnie_rychlak.jpg&amp;width=300" /></a><br><strong>彩色梦境</strong> 作者：<strong>Bonnie rychlak</strong></td>
+<td><a href="/FreeODwiki/文件/Tiresome_Threesome_by_Bonnie_rychlak.jpg"><img alt="Tiresome Threesome by Bonnie rychlak.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Tiresome_Threesome_by_Bonnie_rychlak.jpg&amp;width=300" /></a><br><strong>疲惫的三人行</strong> 作者：<strong>Bonnie rychlak</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Galaofspheres.JPG"><img alt="Galaofspheres.JPG" src="https://psychonautwiki.org/w/thumb.php?f=Galaofspheres.JPG&amp;width=300" /></a><br><strong>球体加拉蒂亚</strong> 作者：<strong>Salvador Dalí</strong></td>
+<td><a href="/FreeODwiki/文件/5-MeO-DMT_Visualization.png"><img alt="5-MeO-DMT Visualization.png" src="https://psychonautwiki.org/w/thumb.php?f=5-MeO-DMT_Visualization.png&amp;width=300" /></a><br><strong>复眼视觉</strong> 作者：<strong>Perry</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_24">物体变形</h3>
+<p>主条目：物体变形</p>
+<p><strong>物体变形</strong>是指感知到一个或多个物体，甚至整个场景在三维空间中逐渐扭曲、移动、拉伸、移位或以其他方式运动的体验，这种变化可能从微妙到极端不等哦。当人移开视线或眨眼确认时，物体会立即恢复到原来的形式。如果再次直接盯着物体看，它可能会开始以类似或不同的方式再次扭曲。这些变形不是统一发生的，也无法可靠地预测呢。这种效应的强度通常与伴随它的精神状态的强度和进展有关喵。</p>
+<p>例如，盯着像椅子这样的物体可能会导致它的三维形状开始剧烈伸长或倾斜成夸张的形式，但仍保留原来的颜色和纹理。</p>
+<p>这种效应也通常表现为感知到纹理从它们所在的表面逐渐拉伸并向外投射，形成详细的三维结构，有点类似于复杂的、不透明的凝固烟雾。这些结构通常保持与其延伸的纹理宽度一致的大小。纹理可能会在三维空间中向外投射几英寸到几米长。例如，如果盯着墙上的一幅画，它可能会在二维平面上向一个方向延伸，直到观察者移开视线呢。</p>
+<p>虽然这个主观效应成分被归类为视觉扭曲，但它很可能是外部幻觉应用到用户环境中的物体的间接结果，这种方式不引入新数据，只是改变了对三维结构内容的感知喵。</p>
+<p>物体变形通常伴随着其他同时发生的效应，如<a href="/FreeODwiki/药效/谵妄.html">谵妄</a>和<a href="/FreeODwiki/药效/精神病发作.html">精神病</a>。它们最常在<a href="/FreeODwiki/文档/药物剂量分类.html">严重</a>剂量的<a href="/FreeODwiki/文档/药物分类/谵妄剂.html">谵妄</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/苯海拉明.html">苯海拉明</a>和曼陀罗。不过，它们也可能在<a href="/FreeODwiki/文档/兴奋剂精神病.html">兴奋剂精神病</a>和<a href="/FreeODwiki/药效/睡眠剥夺.html">睡眠剥夺</a>的影响下发生哦。</p>
+<h3 id="_25">透视扭曲</h3>
+<p>主条目：透视扭曲</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="/FreeODwiki/文件/Size_distortions.gif"><img alt="Size distortions" src="/FreeODwiki//gfycat.com/ifr/AdorableAggravatingGalago" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>大小扭曲</strong> 作者：<strong>Anonymous</strong> - 这张图片准确地描绘了被称为透视扭曲的常见效应呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>透视扭曲</strong>是指一个人对自己的身体、外部环境的特定部分或整个外部环境的大小和距离的感知发生微妙到极端的改变哦。</p>
+<p>这种效应能够以4种不同的方式表现出来，这可能反映了各自负责的视觉功能的失效喵：</p>
+<ul>
+<li>大小扭曲：<ul>
+<li><strong><a href="/FreeODwiki/药效/视物显大症.html">视物显大症</a></strong> - 物体被感知为比实际尺寸大。</li>
+<li><strong>视物显小症</strong> - 物体被感知为比实际尺寸小。</li>
+<li><strong>近视错觉</strong> - 物体被感知为比实际距离近。</li>
+<li><strong>远视错觉</strong> - 物体被感知为比实际距离远得多。</li>
+</ul>
+</li>
+</ul>
+<p>当影响距离时，透视扭曲会使事物看起来实际上比平时更近或更远。这范围可以从微妙的体验（如感觉房间的另一边比平时稍微远一点）到极端的体验（如感觉地平线就在眼前）不等呢。</p>
+<p>当影响大小时，透视扭曲会使事物在人们通常归因于它们的大小感方面显得物理上更小或更大。这范围可以从微妙的体验（如感觉房间比平时稍微小一点、更局促）到极端的体验（如感觉房间有几百英里宽）不等哦。</p>
+<p>透视扭曲通常伴随着其他同时发生的效应，如<a href="#深度感知扭曲">深度感知扭曲</a>和<a href="/FreeODwiki/药效/视觉断连.html">视觉断连</a>。它们最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/氯胺酮.html">氯胺酮</a>、<a href="/FreeODwiki/药物/PCP.html">PCP</a>、<a href="/FreeODwiki/药物/MXE.html">MXE</a>和<a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a>呢。</p>
+<h4 id="_26">爱丽丝梦游仙境综合征</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="/FreeODwiki/文件/Alice_par_John_Tenniel_11.png"><img alt="Alice par John Tenniel 11.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Alice_par_John_Tenniel_11.png/330px-Alice_par_John_Tenniel_11.png" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>爱丽丝</strong> 作者：<strong>Lewis Caroll</strong> - 这幅插图描绘了《爱丽丝梦游仙境》中她变大的场景。这准确地表现了体验这种效应时的感觉哦。</td>
+</tr>
+</tbody>
+</table>
+<p>爱丽丝梦游仙境综合征 (AIWS) 的特征是<a href="/FreeODwiki/药效/视物显大症.html">视物显大症</a>、视物显小症、近视错觉、远视错觉、形状感知改变（视物变形症）和<a href="/FreeODwiki/药效/时间扭曲.html">时间扭曲</a>呢。</p>
+<p>突然感觉身体大得不可能或小得不可思议也是这种效应的一种非常常见的表现。这种感觉在科学文献中被称为“爱丽丝梦游仙境综合征”，它被视为一种通常与偏头痛、脑肿瘤和使用精神活性药物有关的暂时性状况哦。这种效应既可以归因于整个身体，也可以归因于身体的特定部分。例如，感觉头很大或四肢很小也是可能的喵。</p>
+<h3 id="_27">递归</h3>
+<p>主条目：递归</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="/FreeODwiki/文件/Tunnelling.gif"><img alt="Album art by Leif Podhajsky" src="https://psychonautwiki.org/w/thumb.php?f=Tunnelling.gif&amp;width=250" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="http://en.wikipedia.org/wiki/Tame_Impala">Tame Impala</a> 的专辑 <a href="http://en.wikipedia.org/wiki/Innerspeaker">Innerspeaker</a> 的 <em>专辑封面 作者 <a href="http://leifpodhajsky.tumblr.com/post/53186279452/gif-album-art-by-leif-podhajsky-for-innerspeaker">Leif Podhajsky</a></em>。这张图片准确复制了自然景观中出现的视觉递归现象呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>递归</strong>是指一种视觉扭曲，它通过以自相似的方式在自身上重复特定部分，部分到完全地改变一个人外部环境的外观哦。它导致出现类似分形的图案，这些图案通常会放大进入或远离原始图像。这种效应通常是自发发生的，很少持续几秒钟以上喵。</p>
+<p>递归最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>呢。</p>
+<h4 id="_28">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Recursion1.gif"><img alt="Recursion1.gif" src="https://psychonautwiki.org/w/thumb.php?f=Recursion1.gif&amp;width=300" /></a><br><strong>递归</strong> 作者：<strong>PandaWhale.com</strong></td>
+<td><a href="/FreeODwiki/文件/Recursion2.gif"><img alt="Recursion2.gif" src="https://psychonautwiki.org/w/thumb.php?f=Recursion2.gif&amp;width=300" /></a><br><strong>递归</strong> 作者：<strong>Giphy</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Recursion3.gif"><img alt="Recursion3.gif" src="https://psychonautwiki.org/w/thumb.php?f=Recursion3.gif&amp;width=300" /></a><br><strong>递归</strong> 作者：<strong>Giphy</strong></td>
+<td><a href="/FreeODwiki/文件/Recursion4.gif"><img alt="Recursion4.gif" src="https://psychonautwiki.org/w/thumb.php?f=Recursion4.gif&amp;width=300" /></a><br><strong>递归</strong> 作者：<strong>Giphy</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Recursion5.gif"><img alt="Recursion5.gif" src="https://psychonautwiki.org/w/thumb.php?f=Recursion5.gif&amp;width=300" /></a><br><strong>递归</strong> 作者：<strong>Tumblr</strong></td>
+<td><a href="/FreeODwiki/文件/Recursion6.gif"><img alt="Recursion6.gif" src="https://psychonautwiki.org/w/images/1/12/Recursion6.gif" /></a><br><strong>递归</strong> 作者：<strong>GifBin</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_29">景色切片</h3>
+<p>主条目：景色切片</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img alt="Scenery Slicing" src="/FreeODwiki//gfycat.com/ifr/FondEnlightenedKitty" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>景色切片</strong> 作者：<strong>StingrayZ</strong> - 这张图片准确地描绘了被称为景色切片的常见效应哦。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>景色切片</strong>是指体验到视野似乎分裂成独立且切口整齐的部分，这些单独的切片随后会慢慢地从原来的位置漂移开，然后消失并重置为正常状态呢。这种效应通常是自发发生的，很少持续几秒钟以上喵。</p>
+<p>这些切片的组织形式可能非常多样；它们可以像三个独立的部分一样简单，也可以极其复杂，具有诸如多个互锁的移动螺旋切片或无限多种其他潜在几何设计的形式哦。</p>
+<p>景色切片通常伴随着其他同时发生的效应，如<a href="#环境立体主义">环境立体主义</a>和<a href="/FreeODwiki/药效/视觉断连.html">视觉断连</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">中等</a>剂量的<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/氯胺酮.html">氯胺酮</a>、<a href="/FreeODwiki/药物/PCP.html">PCP</a>和<a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a>。不过，在<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>的影响下，也可能发生程度较轻的这种现象呢。</p>
+<h4 id="_30">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Dissociative_scenery_slicing_by_Chelsea_Morgan.jpg"><img alt="Dissociative scenery slicing by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Dissociative_scenery_slicing_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>解离景色切片</strong> 作者：<strong>Chelsea Morgan</strong></td>
+<td><a href="/FreeODwiki/文件/Scenery_Slicing_by_Xanny.gif"><img alt="Scenery Slicing by Xanny.gif" src="https://psychonautwiki.org/w/thumb.php?f=Scenery_Slicing_by_Xanny.gif&amp;width=300" /></a><br><strong>景色切片</strong> 作者：<strong>Subsentience</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Llama_by_Chelsea_Morgan.jpg"><img alt="Llama by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Llama_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>羊驼</strong> 作者：<strong>Chelsea Morgan</strong></td>
+<td><a href="/FreeODwiki/文件/Finn_Jumping_Rocks_by_Chelsea_Morgan.jpg"><img alt="Finn Jumping Rocks by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Finn_Jumping_Rocks_by_Chelsea_Morgan.jpg&amp;width=300" /></a><br><strong>Finn跳石头</strong> 作者：<strong>Chelsea Morgan</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Scenery_slicing.jpg"><img alt="Scenery slicing.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Scenery_slicing.jpg&amp;width=300" /></a><br><strong>公园漫步</strong> 作者：<strong>Chelsea Morgan</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_31">对称纹理重复</h3>
+<p>主条目：对称纹理重复</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="/FreeODwiki/文件/Grass_by_Chelsea_Morgan.jpg"><img alt="Grass by Chelsea Morgan.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Grass_by_Chelsea_Morgan.jpg&amp;width=300" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>草地</strong> 作者：<strong>Chelsea Morgan</strong> - 这张图片准确地描绘了被称为对称纹理重复的常见<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>效应呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>对称纹理重复</strong>是指感知到纹理在其自身表面上以一种复杂且对称的方式反复镜像，并且在自身各处保持一致哦。无论多仔细地观察扭曲，细节水平都保持不变，而且往往在周边视觉中最突出。它通常表现在粗糙的纹理中，如草地、地毯、树皮和沥青喵。</p>
+<p>在这种状态下，如果盯着一个固定点看，对称纹理重复可能会逐渐增加并进一步镶嵌成更复杂的形式。然而，一旦眨眼确认，这种复杂性的进展通常会重置回基线呢。</p>
+<p>对称纹理重复通常伴随着其他同时发生的效应，如<a href="/FreeODwiki/药效/模式识别增强.html">模式识别增强</a>和<a href="/FreeODwiki/药效/变形.html">变形</a>，这种方式可能导致出现大量嵌入对称性中的抽象形式和图像。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">轻微</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>。不过，在某些<a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a>和<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>如<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>或<a href="/FreeODwiki/药物/3-MeO-PCP.html">3-MeO-PCP</a>的影响下，也可能不太常见地发生哦。</p>
+<h3 id="_32">视觉拖影</h3>
+<p>主条目：视觉拖影</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img alt="Tracers" src="/FreeODwiki//gfycat.com/ifr/EmbellishedAstonishingCurassow" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>拖影</strong> 作者：<strong>Kaylee</strong> - 这个动画准确地描绘了被称为<a href="#视觉拖影">拖影</a>（3级）的常见<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>效应呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>视觉拖影</strong>是指移动物体后面留下不同长度和不透明度的痕迹的体验，这种方式类似于长曝光摄影中的效果哦。这些拖影可能表现为与产生它的移动物体完全相同的颜色，有时也可能是随机选择的颜色喵。</p>
+<p>在适量<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>的影响下，重现这种视觉效果的一个相对一致的方法是在脸前挥动一只手或扔一个物体。</p>
+<p>这种效应可以表现在以下4个不同的强度等级上呢：</p>
+<ol>
+<li><strong>微妙</strong> - 在最低级别，拖影可以描述为几乎完全透明的残影，它消失得很快，紧紧拖在移动物体后面。</li>
+<li><strong>明显</strong> - 在这个级别，拖影的长度增加到大约是跟随物体在视野中移动距离的一半。这些拖影的清晰度从几乎看不见到明显且颜色部分透明转变哦。</li>
+<li><strong>强烈</strong> - 在这个级别，拖影在外观上变得大部分是实心的，几乎完全不透明，边缘越来越清晰锐利。这在拖影本身与其背后的背景之间形成了鲜明的对比。拖影从视野中消失得更慢，可以在空中停留几秒钟。这导致更长的痕迹覆盖了产生它的物体移动过的整个视野距离喵。</li>
+<li><strong>全包围</strong> - 在最高级别，一个人的视野对产生拖影变得非常敏感，以至于在物体或眼睛最轻微的移动下，整个视野都会模糊成全包围的拖影。这使得除非在静止环境中保持眼睛不动，否则极难看清东西，因为拖影几乎无限期地停留，或者直到看向视野中的其他地方呢。</li>
+</ol>
+<p>拖影通常伴随着其他同时发生的效应，如<a href="/FreeODwiki/药效/漂移.html">漂移</a>和<a href="/FreeODwiki/药效/残影.html">残影</a>。它们最常在<a href="/FreeODwiki/文档/药物剂量分类.html">轻微</a>剂量的<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾</a>和<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>。不过，在某些<a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a>和<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>如<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>或<a href="/FreeODwiki/药物/3-MeO-PCP.html">3-MeO-PCP</a>的影响下，也可能不太常见地发生哦。</p>
+<h4 id="_33">图像示例</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/FreeODwiki/文件/Tumbling_Dice_by_Rosendahl.jpg"><img alt="Tumbling Dice by Rosendahl.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Tumbling_Dice_by_Rosendahl.jpg&amp;width=300" /></a><br><strong>翻滚的骰子</strong> 作者：<strong>Rosendahl</strong></td>
+<td><a href="/FreeODwiki/文件/Motion_by_Bill_Wadman.jpg"><img alt="Motion by Bill Wadman.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Motion_by_Bill_Wadman.jpg&amp;width=300" /></a><br><strong>运动</strong> 作者：<strong>Bill Wadman</strong></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文件/Tracersblur.jpg"><img alt="Tracersblur.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Tracersblur.jpg&amp;width=300" /></a><br><strong>拖影</strong> 作者：<strong>Chelsea Morgan</strong> 和 <strong>ohwatever</strong></td>
+<td><a href="/FreeODwiki/文件/Shamanic_tracers_by_Anonymous.jpg"><img alt="Shamanic tracers by Anonymous.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Shamanic_tracers_by_Anonymous.jpg&amp;width=300" /></a><br><strong>萨满拖影</strong> 作者：<strong>Anonymous</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_34">视觉翻转</h3>
+<p>主条目：视觉翻转</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="/FreeODwiki/文件/Visual_flipping_in_living_room.jpg"><img alt="Visual flipping in living room.jpg" src="https://psychonautwiki.org/w/thumb.php?f=Visual_flipping_in_living_room.jpg&amp;width=300" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>视觉翻转</strong> 作者：<strong>Josikins</strong> - 这张图片准确地描绘了在客厅里体验到的视觉翻转。在这张图片中还有明显的<a href="/FreeODwiki/药效/复视.html">复视</a>现象呢。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>视觉翻转</strong>是指周围环境发生扭曲，使其看起来像是被旋转、镜像或翻转到了另一种方向哦。例如，在这种体验中，一个人的视野可能会突然被视为倒置或侧向的。这种效果通常发生得非常短暂，通常从几秒钟到不到一分钟不等喵。</p>
+<p>视觉翻转是一种不常见且罕见的效应，通常伴随着其他同时发生的效应，如<a href="#视觉拉伸">视觉拉伸</a>、<a href="/FreeODwiki/药效/复视.html">复视</a>和<a href="/FreeODwiki/药效/视觉断连.html">视觉断连</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">严重</a>剂量的<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/氯胺酮.html">氯胺酮</a>、<a href="/FreeODwiki/药物/PCP.html">PCP</a>和<a href="/FreeODwiki/药物/右美沙芬.html">右美沙芬</a>。不过，这对于<a href="/FreeODwiki/药物/氧化亚氮.html">氧化亚氮</a>和<a href="/FreeODwiki/药物/鼠尾草素甲.html">鼠尾草素甲</a>的起效阶段特别适用，特别是在<a href="/FreeODwiki/药效/自我死亡.html">自我死亡</a>之前的那一刻呢。</p>
+<h3 id="_35">视觉阴霾</h3>
+<p>主条目：视觉阴霾</p>
+<p><strong>视觉阴霾</strong>是指周围环境发生扭曲，使其看起来像是空气笼罩在想象中的烟雾、雾气或阴霾中哦。这种效果的强度各不相同，从微妙且几乎看不见到极端和全包围，这种方式可能会严重损害一个人的视力喵。</p>
+<p>视觉阴霾通常伴随着其他同时发生的效应，如<a href="/FreeODwiki/药效/视觉锐度抑制.html">视觉锐度抑制</a>和<a href="/FreeODwiki/药效/外部幻觉.html">外部幻觉</a>。它最常在<a href="/FreeODwiki/文档/药物剂量分类.html">轻微</a>剂量的<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>、<a href="/FreeODwiki/文档/药物分类/谵妄剂.html">谵妄剂</a>和<a href="/FreeODwiki/文档/药物分类/大麻类.html">大麻素</a>。不过，在<a href="/FreeODwiki/文档/兴奋剂精神病.html">兴奋剂精神病</a>和<a href="/FreeODwiki/药效/睡眠剥夺.html">睡眠剥夺</a>的影响下，也可能不太常见地发生呢。</p>
+<h3 id="_36">视觉拉伸</h3>
+<p>主条目：视觉拉伸</p>
+<p><strong>视觉拉伸</strong>是指视野发生扭曲，使其看起来像是在水平或垂直方向上拉伸大小哦。这种效果的强度各不相同，从微妙且几乎看不见到极端和全包围，这种方式可能会完全损害一个人的视觉。在较高级别，它可以将一个人的视野拉伸成似乎无限长，通常会将视野变成一条细长的感官数据带，两侧要么是空旷的空间，要么是微妙的<a href="/FreeODwiki/药效/几何.html">几何</a>图形喵。</p>
+<p>视觉拉伸最常在<a href="/FreeODwiki/文档/药物剂量分类.html">严重</a>剂量的快速起效<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a>化合物影响下被诱发，比如<a href="/FreeODwiki/药物/氧化亚氮.html">氧化亚氮</a>、<a href="/FreeODwiki/药物/DMT.html">DMT</a>和<a href="/FreeODwiki/药物/鼠尾草素甲.html">鼠尾草素甲</a>。这在<a href="/FreeODwiki/药效/自我死亡.html">自我死亡</a>之前的那一刻特别适用呢。</p>
+<h2 id="_37">另见</h2>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/文档/主观效应索引.html">主观效应索引</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/谵妄剂.html">谵妄剂 - 主观效应</a></li>
+</ul>
+<h2 id="_38">外部链接</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Metamorphopsia">Metamorphopsia (Wikipedia)</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/14610133">Kinetopsia (NIH)</a></li>
+</ul>
+<h2 id="_39">参考资料</h2>
+<ol>
+<li>↑ <a href="#cite_ref-KleinmanGillin1977_1-0">1.0</a> <a href="#cite_ref-KleinmanGillin1977_1-1">1.1</a> <a href="#cite_ref-KleinmanGillin1977_1-2">1.2</a> <a href="#cite_ref-KleinmanGillin1977_1-3">1.3</a> <a href="#cite_ref-KleinmanGillin1977_1-4">1.4</a> <a href="#cite_ref-KleinmanGillin1977_1-5">1.5</a> Kleinman, J. E.; Gillin, J. C.; Wyatt, R. J. (1977). "A Comparison of the Phenomenology of Hallucinogens and Schizophrenia From Some Autobiographical Accounts<em>". </em>Schizophrenia Bulletin<em>. </em><em>3</em>* (4): 560–586. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fschbul%2F3.4.560">10.1093/schbul/3.4.560</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0586-7614">0586-7614</a>.</li>
+<li>↑ <a href="#cite_ref-Abraham1983_2-0">2.0</a> <a href="#cite_ref-Abraham1983_2-1">2.1</a> Abraham, Henry David (1983). "Visual Phenomenology of the LSD Flashback". <em>Archives of General Psychiatry</em>. <strong>40</strong> (8): 884. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1001%2Farchpsyc.1983.01790070074009">10.1001/archpsyc.1983.01790070074009</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0003-990X">0003-990X</a>.</li>
+<li><a href="#cite_ref-BenderFeldman1968_3-0">↑</a> Bender, Morris B.; Feldman, Martin; Sobin, Allan J. (1968). "PALINOPSIA". <em>Brain</em>. <strong>91</strong> (2): 321–338. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fbrain%2F91.2.321">10.1093/brain/91.2.321</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0006-8950">0006-8950</a>.</li>
+<li>↑ <a href="#cite_ref-PapoutsisNikolaou2014_4-0">4.0</a> <a href="#cite_ref-PapoutsisNikolaou2014_4-1">4.1</a> <a href="#cite_ref-PapoutsisNikolaou2014_4-2">4.2</a> Papoutsis, Ioannis; Nikolaou, Panagiota; Stefanidou, Maria; Spiliopoulou, Chara; Athanaselis, Sotiris (2014). "25B-NBOMe and its precursor 2C-B: modern trends and hidden dangers". <em>Forensic Toxicology</em>. <strong>33</strong> (1): 1–11. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2Fs11419-014-0242-9">10.1007/s11419-014-0242-9</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1860-8965">1860-8965</a>.</li>
+<li>↑ <a href="#cite_ref-AbrahamWolf1988_5-0">5.0</a> <a href="#cite_ref-AbrahamWolf1988_5-1">5.1</a> <a href="#cite_ref-AbrahamWolf1988_5-2">5.2</a> Abraham, Henry D.; Wolf, Ernst (1988). "Visual function in past users of LSD: Psychophysical findings". <em>Journal of Abnormal Psychology</em>. <strong>97</strong> (4): 443–447. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1037%2F0021-843X.97.4.443">10.1037/0021-843X.97.4.443</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1939-1846">1939-1846</a>.</li>
+<li><a href="#cite_ref-Kawasaki1996_6-0">↑</a> Kawasaki, Aki (1996). "Persistent Palinopsia Following Ingestion of Lysergic Acid Diethylamide (LSD)". <em>Archives of Ophthalmology</em>. <strong>114</strong> (1): 47. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1001%2Farchopht.1996.01100130045007">10.1001/archopht.1996.01100130045007</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0003-9950">0003-9950</a>.</li>
+<li>↑ <a href="#cite_ref-DuboisVanRullen2011_7-0">7.0</a> <a href="#cite_ref-DuboisVanRullen2011_7-1">7.1</a> Dubois, Julien; VanRullen, Rufin (2011). "Visual Trails: Do the Doors of Perception Open Periodically?". <em>PLoS Biology</em>. <strong>9</strong> (5): e1001056. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1371%2Fjournal.pbio.1001056">10.1371/journal.pbio.1001056</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1545-7885">1545-7885</a>.</li>
+<li><a href="#cite_ref-8">↑</a> Ermentrout B. The excited cortex - LSD trails, phosphenes, and other visual confections. 1999. 201 Eighth Annual Computational Neuroscience Meeting; Pittsburgh, Pennsylvania; July 1999. Abstracts.</li>
+<li><a href="#cite_ref-Asher1971_9-0">↑</a> Asher, Harvey (1971). ""Trailing" Phenomenon—A Long-Lasting LSD Side Effect". <em>American Journal of Psychiatry</em>. <strong>127</strong> (9): 1233–1234. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.127.9.1233">10.1176/ajp.127.9.1233</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0002-953X">0002-953X</a>.</li>
+<li><a href="#cite_ref-10">↑</a> Schwartz, K. (1997). <a href="http://psychiatryonline.org/doi/abs/10.1176/ajp.154.7.1038a">"Nefazodone and visual side effects"</a>. <em>American Journal of Psychiatry</em>. <strong>154</strong> (7): 1038a–11038. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.154.7.1038a">10.1176/ajp.154.7.1038a</a>.</li>
+<li><a href="#cite_ref-LauterbachAbdelhamid2000_11-0">↑</a> Lauterbach, E.; Abdelhamid, A.; Annandale, J. (2000). "Posthallucinogen-Like Visual Illusions (Palinopsia) with Risperidone in a Patient without Previous Hallucinogen Exposure: Possible Relation to Serotonin 5HT2a Receptor Blockade". <em>Pharmacopsychiatry</em>. <strong>33</strong> (01): 38–41. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1055%2Fs-2000-8452">10.1055/s-2000-8452</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0176-3679">0176-3679</a>.</li>
+<li>↑ <a href="#cite_ref-FischerHill1969_12-0">12.0</a> <a href="#cite_ref-FischerHill1969_12-1">12.1</a> Fischer, R.; Hill, R. M.; Warshay, Diana (1969). "Effects of the psychodysleptic drug psilocybin on visual perception. Changes in brightness preference". <em>Experientia</em>. <strong>25</strong> (2): 166–169. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2FBF01899102">10.1007/BF01899102</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0014-4754">0014-4754</a>.</li>
+<li><a href="#cite_ref-BaggottCoyle2011_13-0">↑</a> Baggott, M.J.; Coyle, J.R.; Erowid, E.; Erowid, F.; Robertson, L.C. (2011). "Abnormal visual experiences in individuals with histories of hallucinogen use: A web-based questionnaire". <em>Drug and Alcohol Dependence</em>. <strong>114</strong> (1): 61–67. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2Fj.drugalcdep.2010.09.006">10.1016/j.drugalcdep.2010.09.006</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0376-8716">0376-8716</a>.</li>
+<li><a href="#cite_ref-FischerHill1970_14-0">↑</a> Fischer, Roland; Hill, Richard; Thatcher, Karen; Scheib, James (1970). "Psilocybin-induced contraction of nearby visual space". <em>Agents and Actions</em>. <strong>1</strong> (4): 190–197. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2FBF01965761">10.1007/BF01965761</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0065-4299">0065-4299</a>.</li>
+<li>↑ <a href="#cite_ref-Marsh1979_15-0">15.0</a> <a href="#cite_ref-Marsh1979_15-1">15.1</a> Marsh, A. (1979). "Visual Hallucinations During Hallucinogenic Experience and Schizophrenia". <em>Schizophrenia Bulletin</em>. <strong>5</strong> (4): 627–630. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fschbul%2F5.4.627">10.1093/schbul/5.4.627</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0586-7614">0586-7614</a>.</li>
+<li><a href="#cite_ref-16">↑</a> Szara, S. The comparison of the psychotic effect of tryptamine derivatives with the effects of mescaline and LSD-25 in self-experiments. In: Garattini, S., and Ghetti, V., eds. Psychotropic Drugs. Amsterdam: Elsevier Publishing Company, 1957. pp. 460-467. <a href="https://www.erowid.org/references/texts/show/1667docid1552">https://www.erowid.org/references/texts/show/1667docid1552</a></li>
+<li><a href="#cite_ref-17">↑</a> Hofmann, A. Psychotomimetic drugs, chemical and pharmacological aspects. Acta Physiologica Pharmacologica Neerlandica, 8:240-258, 1959. <a href="http://www.samorini.it/doc1/alt_aut/ek/hofmann-psychotomimetic-drugs.pdf">http://www.samorini.it/doc1/alt_aut/ek/hofmann-psychotomimetic-drugs.pdf</a></li>
+<li><a href="#cite_ref-SechehayeRubin-Rabson1951_18-0">↑</a> Sechehaye, Marguerite; Rubin-Rabson, Grace (1951). "Autobiography of a schizophrenic girl: Reality lost and gained, with analytic interpretation". <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1037%2F11511-000">10.1037/11511-000</a>.</li>
+<li>↑ <a href="#cite_ref-BersaniCorazza2014_19-0">19.0</a> <a href="#cite_ref-BersaniCorazza2014_19-1">19.1</a> Bersani, Francesco Saverio; Corazza, Ornella; Albano, Gabriella; Valeriani, Giuseppe; Santacroce, Rita; Bolzan Mariotti Posocco, Flaminia; Cinosi, Eduardo; Simonato, Pierluigi; Martinotti, Giovanni; Bersani, Giuseppe; Schifano, Fabrizio (2014). "25C-NBOMe: Preliminary Data on Pharmacology, Psychoactive Effects, and Toxicity of a New Potent and Dangerous Hallucinogenic Drug". <em>BioMed Research International</em>. <strong>2014</strong>: 1–6. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1155%2F2014%2F734749">10.1155/2014/734749</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/2314-6133">2314-6133</a>.</li>
+<li><a href="#cite_ref-MuthukumaraswamyCarhart-Harris2013_20-0">↑</a> Muthukumaraswamy, S. D.; Carhart-Harris, R. L.; Moran, R. J.; Brookes, M. J.; Williams, T. M.; Errtizoe, D.; Sessa, B.; Papadopoulos, A.; Bolstridge, M.; Singh, K. D.; Feilding, A.; Friston, K. J.; Nutt, D. J. (2013). "Broadband Cortical Desynchronization Underlies the Human Psychedelic State". <em>Journal of Neuroscience</em>. <strong>33</strong> (38): 15171–15183. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1523%2FJNEUROSCI.2063-13.2013">10.1523/JNEUROSCI.2063-13.2013</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0270-6474">0270-6474</a>.</li>
+<li><a href="#cite_ref-21">↑</a> Huxley, A. (1954). <a href="https://en.wikiquote.org/wiki/Aldous_Huxley#The_Doors_of_Perception_(1954)"><em>The Doors of Perception</em></a>. p. 22. <a href="http://en.wikipedia.org/wiki/International_Standard_Book_Number">ISBN</a> <a href="http://en.wikipedia.org/wiki/Special:BookSources/9781907590092">9781907590092</a>.</li>
+<li><a href="#cite_ref-KleinmanGillin1977_22-0">↑</a> Kleinman, J. E.; Gillin, J. C.; Wyatt, R. J. (1977). "A Comparison of the Phenomenology of Hallucinogens and Schizophrenia From Some Autobiographical Accounts<em>". </em>Schizophrenia Bulletin<em>. </em><em>3</em>* (4): 560–586. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1093%2Fschbul%2F3.4.560">10.1093/schbul/3.4.560</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0586-7614">0586-7614</a>.</li>
+<li><a href="#cite_ref-ObreshkovaKandilarov2017_23-0">↑</a> Obreshkova, D., Kandilarov, I., Angelova, V. T., Iliev, Y., Atanasov, P., &amp; Fotev, P. S. (2017). PHARMACO-TOXICOLOGICAL ASPECTS AND ANALYSIS OF PHENYLALKYLAMINE AND INDOLYLALKYLAMINE HALLUCINOGENS (REVIEW). PHARMACIA, 64(1), 41-42. <a href="http://bsphs.org/wp-content/uploads/2017/04/Angelova.pdf">http://bsphs.org/wp-content/uploads/2017/04/Angelova.pdf</a></li>
+<li><a href="#cite_ref-Gallimore2015_24-0">↑</a> Gallimore, Andrew R. (2015). "Restructuring consciousness â€"the psychedelic state in light of integrated information theory". <em>Frontiers in Human Neuroscience</em>. <strong>9</strong>. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.3389%2Ffnhum.2015.00346">10.3389/fnhum.2015.00346</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1662-5161">1662-5161</a>.</li>
+<li>↑ <a href="#cite_ref-JuszczakSwiergiel2013_25-0">5.0</a> <a href="#cite_ref-JuszczakSwiergiel2013_25-1">5.1</a> <a href="#cite_ref-JuszczakSwiergiel2013_25-2">5.2</a> Juszczak, Grzegorz R.; Swiergiel, Artur H. (2013). "Recreational Use of D-Lysergamide from the Seeds ofArgyreia Nervosa,Ipomoea Tricolor, Ipomoea Violacea,andIpomoea Purpureain Poland". <em>Journal of Psychoactive Drugs</em>. <strong>45</strong> (1): 79–93. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1080%2F02791072.2013.763570">10.1080/02791072.2013.763570</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0279-1072">0279-1072</a>.</li>
+<li><a href="#cite_ref-EspiardLecardeur2005_26-0">↑</a> Espiard, M; Lecardeur, L; Abadie, P; Halbecq, I; Dollfus, S (2005). "Hallucinogen persisting perception disorder after psilocybin consumption: a case study". <em>European Psychiatry</em>. <strong>20</strong> (5-6): 458–460. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2Fj.eurpsy.2005.04.008">10.1016/j.eurpsy.2005.04.008</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0924-9338">0924-9338</a>.</li>
+<li>↑ <a href="#cite_ref-MehtaNaveen_Kumar2017_27-0">7.0</a> <a href="#cite_ref-MehtaNaveen_Kumar2017_27-1">7.1</a> Mehta, Urvakhsh Meherwan; Naveen Kumar, C; Venkatasubramanian, Ganesan; Thirthalli, Jagadisha (2017). "Multimodal Sensory Distortions in Postpartum Exacerbation of Schizophrenia". <em>Clinical Schizophrenia &amp; Related Psychoses</em>. <strong>10</strong> (4): 222–224. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.3371%2FCSRP.MEKU.112013">10.3371/CSRP.MEKU.112013</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1935-1232">1935-1232</a>.</li>
+<li>↑ <a href="#cite_ref-LSD_AIWS_28-0">8.0</a> <a href="#cite_ref-LSD_AIWS_28-1">8.1</a> G Lerner, A., Lev-Ran, S. (2015). "LSD-associated "Alice in Wonderland Syndrome"(AIWS): A Hallucinogen Persisting Perception Disorder (HPPD) Case Report". <em>The Israel Journal of Psychiatry and Related Sciences</em>. <strong>52</strong> (1): 67–68. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/2617-2402">2617-2402</a>.</li>
+<li><a href="#cite_ref-Schneck1965_29-0">↑</a> Schneck, Jerome M. (1965). "MACROPSIA". <em>American Journal of Psychiatry</em>. <strong>121</strong> (11): 1123–1124. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.121.11.1123">10.1176/ajp.121.11.1123</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0002-953X">0002-953X</a>.</li>
+<li><a href="#cite_ref-30">↑</a> <a href="https://dictionary.apa.org/macropsia">"macropsia"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022.</li>
+<li><a href="#cite_ref-31">↑</a> <a href="https://dictionary.apa.org/micropsia">"micropsia"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022.</li>
+<li><a href="#cite_ref-32">↑</a> <a href="https://medical-dictionary.thefreedictionary.com/pelopsia">"pelopsia"</a>. <em>Medical Dictionary</em>. Retrieved 20 May 2022.</li>
+<li><a href="#cite_ref-33">↑</a> <a href="https://dictionary.apa.org/teleopsia">"teleopsia"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022.</li>
+<li>↑ <a href="#cite_ref-Abraham1983_34-0">14.0</a> <a href="#cite_ref-Abraham1983_34-1">14.1</a> Abraham, Henry David (1983). "Visual Phenomenology of the LSD Flashback". <em>Archives of General Psychiatry</em>. <strong>40</strong> (8): 884. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1001%2Farchpsyc.1983.01790070074009">10.1001/archpsyc.1983.01790070074009</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0003-990X">0003-990X</a>.</li>
+<li><a href="#cite_ref-Horowitz1969_35-0">↑</a> Horowitz, Mardi J. (1969). "Flashbacks: Recurrent Intrusive Images After the Use of LSD". <em>American Journal of Psychiatry</em>. <strong>126</strong> (4): 565–569. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.126.4.565">10.1176/ajp.126.4.565</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0002-953X">0002-953X</a>.</li>
+<li><a href="#cite_ref-36">↑</a> Hamilton M (ed): Fish's Clinical Psychopathology. Baltimore, Williams &amp; Wilkins Co, 1974. <a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=gHdQTZNkA9YC&amp;oi=fnd&amp;pg=PA1&amp;dq=Hamilton+M+(ed):+Fish%27s+Clinical+Psychopathology.&amp;ots=okWOwjZJfq&amp;sig=Y85lNwTChlGIhtdhohkn-MXSyCA#v=onepage&amp;q=Hamilton%20M%20(ed)%3A%20Fish's%20Clinical%20Psychopathology.&amp;f=false">https://books.google.com/books?hl=en&amp;lr=&amp;id=gHdQTZNkA9YC&amp;oi=fnd&amp;pg=PA1&amp;dq=Hamilton+M+(ed):+Fish%27s+Clinical+Psychopathology.&amp;ots=okWOwjZJfq&amp;sig=Y85lNwTChlGIhtdhohkn-MXSyCA#v=onepage&amp;q=Hamilton%20M%20(ed)%3A%20Fish's%20Clinical%20Psychopathology.&amp;f=false</a></li>
+<li><a href="#cite_ref-pmid.3D10767914_37-0">↑</a> Cau, C (October 1999). "[The Alice in Wonderland syndrome]". <em>Minerva medica</em>. <strong>90</strong> (10): 397–401. <a href="http://en.wikipedia.org/wiki/PubMed_Identifier">PMID</a> <a href="/FreeODwiki//www.ncbi.nlm.nih.gov/pubmed/10767914">10767914</a>.</li>
+<li><a href="#cite_ref-Blom2016_38-0">↑</a> Blom, Jan Dirk (2016). "Alice in Wonderland syndrome". <em>Neurology: Clinical Practice</em>. <strong>6</strong> (3): 259–270. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1212%2FCPJ.0000000000000251">10.1212/CPJ.0000000000000251</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/2163-0402">2163-0402</a>.</li>
+<li>↑ <a href="#cite_ref-PapoutsisNikolaou2014_39-0">19.0</a> <a href="#cite_ref-PapoutsisNikolaou2014_39-1">19.1</a> Papoutsis, Ioannis; Nikolaou, Panagiota; Stefanidou, Maria; Spiliopoulou, Chara; Athanaselis, Sotiris (2014). "25B-NBOMe and its precursor 2C-B: modern trends and hidden dangers". <em>Forensic Toxicology</em>. <strong>33</strong> (1): 1–11. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2Fs11419-014-0242-9">10.1007/s11419-014-0242-9</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1860-8965">1860-8965</a>.</li>
+<li><a href="#cite_ref-BersaniCorazza2014_40-0">↑</a> Bersani, Francesco Saverio; Corazza, Ornella; Albano, Gabriella; Valeriani, Giuseppe; Santacroce, Rita; Bolzan Mariotti Posocco, Flaminia; Cinosi, Eduardo; Simonato, Pierluigi; Martinotti, Giovanni; Bersani, Giuseppe; Schifano, Fabrizio (2014). "25C-NBOMe: Preliminary Data on Pharmacology, Psychoactive Effects, and Toxicity of a New Potent and Dangerous Hallucinogenic Drug". <em>BioMed Research International</em>. <strong>2014</strong>: 1–6. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1155%2F2014%2F734749">10.1155/2014/734749</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/2314-6133">2314-6133</a>.</li>
+<li><a href="#cite_ref-DuboisVanRullen2011_41-0">↑</a> Dubois, Julien; VanRullen, Rufin (2011). "Visual Trails: Do the Doors of Perception Open Periodically?". <em>PLoS Biology</em>. <strong>9</strong> (5): e1001056. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1371%2Fjournal.pbio.1001056">10.1371/journal.pbio.1001056</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1545-7885">1545-7885</a>.</li>
+<li><a href="#cite_ref-42">↑</a> Abraham, H. D., Mccann, U. D., Ricaurte, G. A. (2002), <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.623.299">"Psychedelic Drugs"</a>, <em>CiteSeerX</em></li>
+<li><a href="#cite_ref-O.27Malley1972_43-0">↑</a> O'Malley, John E. (1972). "Trifluoperazine for The "Trailing" Phenomenon". <em>JAMA: The Journal of the American Medical Association</em>. <strong>220</strong> (9): 1244. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1001%2Fjama.1972.03200090066017">10.1001/jama.1972.03200090066017</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0098-7484">0098-7484</a>.</li>
+<li><a href="#cite_ref-AbrahamWolf1988_44-0">↑</a> Abraham, Henry D.; Wolf, Ernst (1988). "Visual function in past users of LSD: Psychophysical findings". <em>Journal of Abnormal Psychology</em>. <strong>97</strong> (4): 443–447. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1037%2F0021-843X.97.4.443">10.1037/0021-843X.97.4.443</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1939-1846">1939-1846</a>.</li>
+<li><a href="#cite_ref-Asher1971_45-0">↑</a> Asher, Harvey (1971). ""Trailing" Phenomenon—A Long-Lasting LSD Side Effect". <em>American Journal of Psychiatry</em>. <strong>127</strong> (9): 1233–1234. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.127.9.1233">10.1176/ajp.127.9.1233</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0002-953X">0002-953X</a>.</li>
+<li><a href="#cite_ref-46">↑</a> Schwartz, K. (1997). <a href="http://psychiatryonline.org/doi/abs/10.1176/ajp.154.7.1038a">"Nefazodone and visual side effects"</a>. <em>American Journal of Psychiatry</em>. <strong>154</strong> (7): 1038a–11038. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.154.7.1038a">10.1176/ajp.154.7.1038a</a>.</li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,501 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>物体激活 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              物体激活
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-perspective-hallucination" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Perspective hallucination (透视幻觉)
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="./home.html">◀返回</a></p>
+<h1 id="_1">物体激活</h1>
+<p><a href="#mw-head">跳转至导航</a><a href="#searchInput">跳转至搜索</a></p>
+<p><strong>物体激活</strong>被定义为一种体验，即看着一个物体，并感觉它自己移动、变活了，或者变得完全有生气并自主行动。比如说，一扇门可能会自己打开和关闭，或者桌子上的杯子可能会开始滑动或倾斜。这个“被激活的物体”通常会以日常生活中熟悉的方式移动，这意味着这个人体验到的是<a href="/FreeODwiki/药效/物体改变.html">物体改变</a>和<a href="/FreeODwiki/药效/外部幻觉.html">外部幻觉</a>同时作用于他们的环境呢。</p>
+<p>不过值得注意的是，某些被激活的物体也可能执行完全不切实际的动作哦。例如，一件家具可能看起来分解成许多漂浮的、复杂的旋转部分，然后再重新组装成原来的形态。静止的物体，如地毯，可能会激活自己，开始在地上爬行，并爬到其他静止的家具上。这些幻觉通常只有在长时间直视一个物体时才会发生，是高级幻觉状态的罕见和极端迹象。</p>
+<p>在极少数情况下，<a href="/FreeODwiki/药效/自主实体.html">自主实体</a>，如<a href="/FreeODwiki/文档/影子人.html">影子人</a>，可能会帮助激活物体。影子人或其他自主实体可能会在观察者面前捡起、重新排列或移动静止物体，并充当物体激活的“原因”。</p>
+<p>物体激活通常伴随着其他效应，如<a href="/FreeODwiki/文档/谵妄.html">谵妄</a>、<a href="/FreeODwiki/药效/精神病发作.html">精神病</a>、<a href="/FreeODwiki/文档/认知焦虑.html">认知焦虑</a>和<a href="/FreeODwiki/药效/妄想.html">妄想</a>，这种方式可能导致幻觉被认为具有明显的阴森和令人不安的基调。它最常在使用<a href="/FreeODwiki/文档/药物剂量分类.html#heavy">严重</a> <a href="/FreeODwiki/文档/给药剂量.html">剂量</a>的<a href="/FreeODwiki/文档/药物分类/谵妄剂.html">谵妄剂</a>化合物影响下被诱发，例如<a href="/FreeODwiki/药物/苯海拉明.html">苯海拉明</a>、<a href="/FreeODwiki/药物/曼陀罗.html">曼陀罗</a>和<a href="/FreeODwiki/药物/苄达明.html">苄达明</a>。不过呢，它们也可能在较小程度上发生在<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>、<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>、<a href="/FreeODwiki/文档/兴奋剂精神病.html">兴奋剂精神病</a>和<a href="/FreeODwiki/文档/睡眠剥夺.html">睡眠剥夺</a>的影响下。</p>
+<h3 id="_2">体验报告</h3>
+<p>在我们的<a href="/FreeODwiki/文档/体验报告索引.html">体验报告索引</a>中，描述了这种效应的轶事报告包括：</p>
+<ul>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:550mg-Bugs_All_Around_Me.">体验报告:550mg-虫子在我周围。</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:Zopiclone_hppd%3F">体验报告:佐匹克隆 HPPD?</a></li>
+</ul>
+<h3 id="_3">另见</h3>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药索引页</a></li>
+<li><a href="/FreeODwiki/文档/主观效应索引.html">主观效应索引</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/谵妄剂.html">谵妄剂</a></li>
+<li><a href="/FreeODwiki/文档/睡眠剥夺.html">睡眠剥夺</a></li>
+<li><a href="/FreeODwiki/药效/精神病发作.html">精神病</a></li>
+<li><a href="/FreeODwiki/药物/曼陀罗.html">曼陀罗</a></li>
+<li><a href="/FreeODwiki/文档/药物联用/DXM_%26_DPH.html">右美沙芬 &amp; 苯海拉明</a></li>
+</ul>
+<hr />
+<h3 id="5-perspective-hallucination">5. Perspective hallucination (透视幻觉)</h3>
+<p><a href="./home.html">◀返回</a></p>
+<h1 id="_4">透视幻觉</h1>
+<p><a href="#mw-head">跳转至导航</a><a href="#searchInput">跳转至搜索</a></p>
+<p><strong>透视幻觉</strong>被定义为观察给定<a href="/FreeODwiki/药效/内部幻觉.html">内部</a>或<a href="/FreeODwiki/药效/外部幻觉.html">外部幻觉</a>的视角发生了改变哦。<a href="#cite_note-Dillon2003-1">[1]</a><a href="#cite_note-ObreshkovaKandilarov2017-2">[2]</a><a href="#cite_note-Jansen1990-3">[3]</a><a href="#cite_note-Rumpf1969-4">[4]</a><a href="#cite_note-Siegel1978-5">[5]</a></p>
+<p>这种效应能够以以下描述的四种不同视角表现出来：</p>
+<ul>
+<li><strong>第一人称</strong> - 最常见的视角形式，可以描述为从人日常的自我和身体感知幻觉的正常体验。</li>
+<li><strong>第二人称</strong> - 这种视角可以描述为从外部意识来源（如另一个人、动物或无生命物体）的视点感知幻觉的体验。</li>
+<li><strong>第三人称</strong> - 这种视角可以描述为一种出体体验，<a href="#cite_note-Dillon2003-1">[1]</a><a href="#cite_note-ObreshkovaKandilarov2017-2">[2]</a><a href="#cite_note-Jansen1990-3">[3]</a><a href="#cite_note-Rumpf1969-4">[4]</a><a href="#cite_note-Siegel1978-5">[5]</a><a href="#cite_note-WilkinsGirard2011-6">[6]</a><a href="#cite_note-7">[7]</a> 即一个人的视点漂浮在他们身体的上方、下方、后方或前方。</li>
+<li><strong>第四人称</strong> - 最不常见的视角形式，可以描述为同时从多个甚至看似无限的视点和角度感知幻觉的体验。</li>
+</ul>
+<p>透视幻觉通常伴随着其他效应，如<a href="/FreeODwiki/文档/谵妄.html">谵妄</a>和<a href="/FreeODwiki/药效/记忆抑制.html">记忆抑制</a>。它们最常在使用<a href="/FreeODwiki/文档/药物剂量分类.html#heavy">严重</a> <a href="/FreeODwiki/文档/给药剂量.html">剂量</a>的<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻</a>化合物影响下被诱发，例如<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>、<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>和<a href="/FreeODwiki/文档/药物分类/谵妄剂.html">谵妄剂</a>。</p>
+<h2 id="_5">目录</h2>
+<ul>
+<li><a href="#精神活性物质">1 精神活性物质</a></li>
+<li><a href="#体验报告">2 体验报告</a></li>
+<li><a href="#另见">3 另见</a></li>
+<li><a href="#参考文献">4 参考文献</a></li>
+</ul>
+<h3 id="_6">体验报告</h3>
+<p>在我们的<a href="/FreeODwiki/文档/体验报告索引.html">体验报告索引</a>中，描述了这种效应的轶事报告包括：</p>
+<ul>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_25mg_2C-E_(oral)_-_A_mindblowing_experience">体验报告: 25mg 2C-E (口服) - 令人惊叹的体验</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3_Grams_of_Mushrooms_-_Reset_on_my_Life,_Experiencing_Satori_and_the_Cosmic_Perspective">体验报告:3 克 蘑菇 - 重置我的人生，体验顿悟和宇宙视角</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:40mg_-_Brothermind_and_the_Forest%27s_Hand">体验报告:40mg - 兄弟心灵和森林之手</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:DMT_(unknown_dose,_smoked)_-_It_felt_like_I_was_on_rails_the_whole_time">体验报告:DMT (未知剂量, 抽吸) - 感觉我一直在轨道上</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:Unknown_Dose_DOC_(Insufflated)_-_Overdosing_and_Terifying_Ego_Death">体验报告:未知剂量 DOC (鼻吸) - 过量和可怕的自我死亡</a></li>
+</ul>
+<h3 id="_7">另见</h3>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药索引页</a></li>
+<li><a href="/FreeODwiki/文档/主观效应索引.html">主观效应索引</a></li>
+<li><a href="/FreeODwiki/药效/透视扭曲.html">透视扭曲</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/谵妄剂.html#主观效应">谵妄剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/迷幻剂.html#主观效应">迷幻剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/解离剂.html#主观效应">解离剂 - 主观效应</a></li>
+</ul>
+<h3 id="_8">参考文献</h3>
+<ol>
+<li>↑ <a href="#cite_ref-Dillon2003_1-0">1.0</a> <a href="#cite_ref-Dillon2003_1-1">1.1</a> Dillon, P (2003). "Patterns of use and harms associated with non-medical ketamine use". <em>Drug and Alcohol Dependence</em>. <strong>69</strong> (1): 23–28. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2FS0376-8716%2802%2900243-0">10.1016/S0376-8716(02)00243-0</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0376-8716">0376-8716</a>.</li>
+<li>↑ <a href="#cite_ref-ObreshkovaKandilarov2017_2-0">2.0</a> <a href="#cite_ref-ObreshkovaKandilarov2017_2-1">2.1</a> Obreshkova, D., Kandilarov, I., Angelova, V. T., Iliev, Y., Atanasov, P., &amp; Fotev, P. S. (2017). PHARMACO-TOXICOLOGICAL ASPECTS AND ANALYSIS OF PHENYLALKYLAMINE AND INDOLYLALKYLAMINE HALLUCINOGENS (REVIEW). PHARMACIA, 64(1), 41-42. <a href="http://bsphs.org/wp-content/uploads/2017/04/Angelova.pdf">http://bsphs.org/wp-content/uploads/2017/04/Angelova.pdf</a></li>
+<li>↑ <a href="#cite_ref-Jansen1990_3-0">3.0</a> <a href="#cite_ref-Jansen1990_3-1">3.1</a> Jansen, K.L.R. (1990). "Neuroscience and the Near-Death Experience: Roles for the NMSA-PCP receptor, the sigma receptor and the endopsychosins". <em>Medical Hypotheses</em>. <strong>31</strong> (1): 25–29. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2F0306-9877%2890%2990048-J">10.1016/0306-9877(90)90048-J</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0306-9877">0306-9877</a>.</li>
+<li>↑ <a href="#cite_ref-Rumpf1969_4-0">4.0</a> <a href="#cite_ref-Rumpf1969_4-1">4.1</a> Rumpf K, Pedeck J, Teuteberg H. Munchhoff W. Nolte H. Dream-like experiences during brief anaesthesia with ketamine. thiopental and propanidid. p 161 in Ketamine (H Kreuscher. ed.) Springer-Verlag. Berlin, 1969.</li>
+<li>↑ <a href="#cite_ref-Siegel1978_5-0">5.0</a> <a href="#cite_ref-Siegel1978_5-1">5.1</a> Siegel R K. Phencyclidine and ketamine intoxication: a study of recreational users. p 119 in Phencyclidine Abuse: An Appraisal (R C Peterson. R C Stillman. eds.). National Institute on Drug Abuse Research Monograph 21. NIDA. Rockville. Maryland, 1978.</li>
+<li><a href="#cite_ref-WilkinsGirard2011_6-0">↑</a> Wilkins, Leanne K.; Girard, Todd A.; Cheyne, J. Allan (2011). "Ketamine as a primary predictor of out-of-body experiences associated with multiple substance use". <em>Consciousness and Cognition</em>. <strong>20</strong> (3): 943–950. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2Fj.concog.2011.01.005">10.1016/j.concog.2011.01.005</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1053-8100">1053-8100</a>.</li>
+<li><a href="#cite_ref-7">↑</a> Przyby, A. (n.d.). A Philosophical Journey into the Heart of the Psychedelic Dream. Chicago, IL: University of Chicago. Retrieved February 24, 2018, from <a href="http://midwayreview.uchicago.edu/a/8/3/przybyl/przybyl.pdf">http://midwayreview.uchicago.edu/a/8/3/przybyl/przybyl.pdf</a></li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

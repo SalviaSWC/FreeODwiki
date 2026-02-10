@@ -1,0 +1,10 @@
+site_name: FreeODwiki20260210  # 你的站点名称
+docs_dir: D:\Projects\FreeODwiki\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
+nav:  # 可选：自定义导航菜单，根据你的文件结构调整
+  - 主页 : home.md
+  - 药物索引 : 药物/home.md
+  - 药效索引 : 药效/home.md
+  - 报告索引 : 报告/home.md
+theme:
+  name: material  # 如果安装了 Material 主题
+use_directory_urls: false

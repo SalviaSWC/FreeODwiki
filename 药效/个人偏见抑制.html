@@ -1,0 +1,527 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>个人偏见抑制 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              个人偏见抑制
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        目录
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="目录">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        分析
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">个人偏见抑制</h1>
+<p><a href="./home.html">◀返回</a></p>
+<p><strong>个人偏见抑制</strong>（也被称为<strong>文化滤镜抑制</strong>）被定义为一个人有意或无意地过滤和解释他们对世界的感知的个人或文化偏见、偏好和联想的减少哦。<a href="#cite_note-Horv.C3.A1thSzummer2017-1">[1]</a></p>
+<p>在体验个人偏见抑制时分析自己的信仰、偏好或联想，可以带来在清醒时无法达到的新视角呢。抑制这种天生的倾向往往会让人意识到，个性的某些方面、世界观和文化并不能反映关于现实的客观真理，实际上是主观的甚至妄想的观点喵。<a href="#cite_note-Horv.C3.A1thSzummer2017-1">[1]</a> 这种意识通常会导致或伴随着深刻的洞察力和批判性的内省状态，这可以对一个人的观点产生重大的改变，这种改变可能持续几天、几周、几个月，甚至在体验本身之后的几年哦。</p>
+<p>个人偏见抑制通常伴随着其他并发效应，如<a href="/FreeODwiki/药效/概念思维.html">概念思维</a>、<a href="/FreeODwiki/药效/分析能力增强.html">分析能力增强</a>，尤其是<a href="/FreeODwiki/药效/记忆抑制.html">记忆抑制</a>。它最常在<a href="/FreeODwiki/文档/给药剂量.html#严重">严重</a>剂量的<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a>影响下被诱发，如<a href="/FreeODwiki/文档/药物分类/解离剂.html">解离剂</a>和<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>喵。然而，在非常<a href="/FreeODwiki/文档/给药剂量.html#严重">严重</a>剂量的<a href="/FreeODwiki/文档/药物分类/共情剂.html">共情剂</a>和<a href="/FreeODwiki/文档/药物分类/大麻类.html">大麻类物质</a>影响下，它也可能在较小程度上发生呢。</p>
+<h2 id="_2">目录</h2>
+<ul>
+<li><a href="#分析">1 分析</a></li>
+<li><a href="#精神活性物质">2 精神活性物质</a></li>
+<li><a href="#体验报告">3 体验报告</a></li>
+<li><a href="#另见">4 另见</a></li>
+<li><a href="#外部链接">5 外部链接</a></li>
+<li><a href="#参考文献">6 参考文献</a></li>
+</ul>
+<h3 id="_3">分析</h3>
+<p>模仿是人类进化和早期人类文化发展的基础，始于模仿在人类学习和共享主体间经验中的原始作用。有人提出，模仿是我们认知和文化能力共同进化的基础，提供了一个“单一的神经认知适应……用于哑剧、模仿、手势和技能排练”。镜像神经元系统提供的这种直观的交流形式也促进了复杂社会情境的解释，并通过推断他人的思想、意图和欲望的能力赋予他人意义哦。</p>
+<p>模仿在舞蹈、音乐和仪式中的表现形式提供了一个公开可访问的意义系统。模仿的这些表现能力为象征性人类思维进化为所谓的模仿文化和神话文化提供了基础呢。有人展示了这种舞蹈、音乐、鼓声和节奏性表演的模仿复合体是如何在古代人类的集体仪式转化为萨满教的幻象仪式的背景下进行的。迷幻植物的使用增强了对该视觉系统及其信息能力的访问喵。</p>
+<p>承认迷幻药的这些视觉体验是象征性的表现，在表现象征主义的概念中有先例。表现象征主义是一种作为意义构建基础的图像能力，是一个先于并支持我们理性的、基于语言的意识的象征性表示系统哦。这种古老的想象意识模式出现在梦和白日梦中，以及萨满幻象、神秘体验、濒死体验、出体体验和迷幻幻象中。这些过程可能由多种机制释放，这些机制会导致通常压抑这些古老认知形式的过滤过程的中断呢。</p>
+<p>也有人提出，这些过程在我们日常生活中也不断发挥作用，这是一种自主的认知行为，在感知和思维的综合中产生有意识的体验和情感。幻象体验表达了一种个人情感和表征能力，直接向主体呈现从他们自己深刻的个人情感意识层中浮现出来的材料。迷幻诱导的幻象体验涉及刺激这种潜在的人类认知能力的强大表现，这是所有体验的背景。当被迷幻药释放时，这种幻象模式通过内部参与心灵的深层叙事层面，轻松而不费力地占据了我们的意识，呈现出生活的重要情感动态。有人指出，这种表达系统为进行思维所必需的三种形式的材料提供了媒介：在脑海中保留一个对象的能力；产生关于该图像对象的其他认知；以及操纵这些以考虑未来的可能性哦。<a href="#cite_note-2">[2]</a></p>
+<!-- 请勿删除或修改，这是一个标记，待识别并填坑（药效索引） -->
+
+<h3 id="_4">体验报告</h3>
+<p>在我们的<a href="/FreeODwiki/报告/psychounautwiki/Experience_index.html">体验报告索引</a>中，描述了这种效应的轶事报告包括：</p>
+<ul>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_105mg_Ephenidine_-_An_Intense_Emotional_Experience.html">Experience: 105mg Ephenidine - An Intense Emotional Experience</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_200%C2%B5g_1P-LSD_(sublingual)_%2B_12mg_CBD_-_The_Vortex_of_Empathy.md">Experience: 200µg 1P-LSD (sublingual) + 12mg CBD - The Vortex of Empathy</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:_5-EAPB_(60mg)_%2B_2-FMA_(20mg)_%2B_4-AcO-DMT_(10mg)_-_Emotional_catharsis.md">Experience: 5-EAPB (60mg) + 2-FMA (20mg) + 4-AcO-DMT (10mg) - Emotional catharsis</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:120mg_-_Garden_of_The_Gods.html">Experience:120mg - Garden of The Gods</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:25mg_2C-B_-_Hard_raving_at_home.html">Experience:25mg 2C-B - Hard raving at home</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:2C-P_(approx._35mg)_-_Asymmetrical_Terror_and_the_Geometric_Sea.md">Experience:2C-P (approx. 35mg) - Asymmetrical Terror and the Geometric Sea</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3_Grams_of_Mushrooms_-_Reset_on_my_Life,_Experiencing_Satori_and_the_Cosmic_Perspective.html">Experience:3 Grams of Mushrooms - Reset on my Life, Experiencing Satori and the Cosmic Perspective</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3.5g_psilocybe_cubensis_-_Relinquishing_of_Material_Chains/Fear_and_Desolation.html">Experience:3.5g psilocybe cubensis - Relinquishing of Material Chains/Fear and Desolation</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:300ug_LSD_-_Profound_religious_experience.html">Experience:300ug LSD - Profound religious experience</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:300%C2%B5g_LSD_-_Togetherness_and_the_Silent_Dusk.html">Experience:300µg LSD - Togetherness and the Silent Dusk</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:3g_-_I_found_god_inside_of_myself.html">Experience:3g - I found god inside of myself</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:40_mg_-_A_relaxing_morning_in_the_park.html">Experience:40 mg - A relaxing morning in the park</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:5.3g_psilocybe_cubensis_-_Dimensional_Circumstance_and_the_Fabric_of_Understanding.html">Experience:5.3g psilocybe cubensis - Dimensional Circumstance and the Fabric of Understanding</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:5g_Mushrooms_-_Failed_attempt_at_a_Terence_Mckenna_style_trip..html">Experience:5g Mushrooms - Failed attempt at a Terence Mckenna style trip.</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:70_mg_-_Overcoming_personal_problems.html">Experience:70 mg - Overcoming personal problems</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:800-900mg_Ephenidine_%2B_unknown_quantity_flubroalzolam_-_Multiday_Insanity.html">Experience:800-900mg Ephenidine + unknown quantity flubroalzolam - Multiday Insanity</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:Mushrooms_and_Snuff_Films_--_Trip_Report_(3.5_grams).md">Experience:Mushrooms and Snuff Films -- Trip Report (3.5 grams)</a></li>
+<li><a href="/FreeODwiki/报告/psychounautwiki/Experience:Unknown_dosage_/_3_tabs_-_Ego_death_and_a_total_break_through_in_the_snow.html">Experience:Unknown dosage / 3 tabs - Ego death and a total break through in the snow</a></li>
+</ul>
+<h3 id="_5">另见</h3>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/药效/home.html">主观效应索引</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/迷幻剂.html#主观效应">迷幻剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/解离剂.html#主观效应">解离剂 - 主观效应</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/谵妄剂.html#主观效应">谵妄剂 - 主观效应</a></li>
+</ul>
+<h3 id="_6">外部链接</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Schema_%28psychology%29">Schema (psychology) (Wikipedia)</a></li>
+</ul>
+<h3 id="_7">参考文献</h3>
+<ol>
+<li>↑ <a href="#cite_ref-Horv.C3.A1thSzummer2017_1-0">1.0</a> <a href="#cite_ref-Horv.C3.A1thSzummer2017_1-1">1.1</a> Horváth, Lajos; Szummer, Csaba; Szabo, Attila (2017). "Weak phantasy and visionary phantasy: the phenomenological significance of altered states of consciousness". <em>Phenomenology and the Cognitive Sciences</em>. <strong>17</strong> (1): 117–129. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2Fs11097-016-9497-4">10.1007/s11097-016-9497-4</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1568-7759">1568-7759</a>.</li>
+<li><a href="#cite_ref-2">↑</a> Winkelman, M. J. (2017). <a href="https://www.frontiersin.org/articles/10.3389/fnins.2017.00539">"The Mechanisms of Psychedelic Visionary Experiences: Hypotheses from Evolutionary Psychology"</a>. <em>Frontiers in Neuroscience</em>. <strong>11</strong>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1662-453X">1662-453X</a>.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

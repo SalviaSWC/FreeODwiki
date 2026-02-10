@@ -1,0 +1,524 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>环境切片 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              环境切片
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        内容
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="内容">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        图像示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="./home.html">◀返回</a></p>
+<h1 id="_1">环境切片</h1>
+<p><a href="/FreeODwiki//gfycat.com/ifr/FondEnlightenedKitty">//gfycat.com/ifr/FondEnlightenedKitty</a></p>
+<p><strong>环境切片</strong> 作者 <strong><a href="https://www.reddit.com/user/StingrayZ">StingrayZ</a></strong> - 这张图片精准地描绘了被称为环境切片的常见体验效果哦。</p>
+<p><strong>环境切片</strong> 的定义是体验者的视野似乎分裂成独立且切口整齐的部分，这些单独的切片随后会慢慢飘离原来的位置，然后消失并重置为正常状态。这种效应通常是自发发生的，很少持续超过几秒钟呢。</p>
+<p>这些切片的组织方式可能非常多样；它们可以简单到只有三个分开的部分，也可以非常复杂，形成诸如多个互锁的移动螺旋切片，或者无限多样的其他几何设计。</p>
+<p>环境切片经常伴随着其他并发效应，比如 <a href="./环境立体主义.html">环境立体主义</a> 和 <a href="./视觉断连.html">视觉断连</a>。它最常见于使用 <a href="./药物剂量分类.html#common">中等</a> <a href="./药物剂量分类.html">剂量</a> 的 <a href="./药物分类/解离剂.html">解离剂</a> 类化合物，比如 <a href="./药物/氯胺酮.html">氯胺酮</a>、<a href="./药物/PCP.html">PCP</a> 和 <a href="./药物/右美沙芬.html">右美沙芬</a> 时发生。不过呢，在使用 <a href="./药物分类/迷幻剂.html">迷幻剂</a><a href="#cite_note-PapoutsisNikolaou2014-1">[1]</a> 如 <a href="./药物/LSD.html">LSD</a>、<a href="./药物/赛洛西宾蘑菇.html">赛洛西宾</a> 和 <a href="./药物/麦斯卡林.html">麦斯卡林</a> 时，这种现象也会以较轻的程度出现。</p>
+<h2 id="_2">内容</h2>
+<ul>
+<li><a href="#图像示例">1 图像示例</a></li>
+<li><a href="#精神活性物质">2 精神活性物质</a></li>
+<li><a href="#体验报告">3 体验报告</a></li>
+<li><a href="#另见">4 另见</a></li>
+<li><a href="#参考文献">5 参考文献</a></li>
+</ul>
+<h3 id="_3">图像示例</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><a href="/FreeODwiki/wiki/Property:Caption" title="Property:Caption">标题</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../文件/Finn_Jumping_Rocks_by_Chelsea_Morgan.jpg"><img alt="Finn Jumping Rocks by Chelsea Morgan.jpg" src="../../文件/Finn_Jumping_Rocks_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>Finn Jumping Rocks</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="../../文件/Scenery_Slicing_by_Xanny.gif"><img alt="Scenery Slicing by Xanny.gif" src="../../文件/Scenery_Slicing_by_Xanny.gif" /></a></td>
+<td><strong>环境切片</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:Subsentience" title="User:Subsentience">Subsentience</a></strong></td>
+</tr>
+<tr>
+<td><a href="../../文件/Llama_by_Chelsea_Morgan.jpg"><img alt="Llama by Chelsea Morgan.jpg" src="../../文件/Llama_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>Llama</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="../../文件/Dissociative_scenery_slicing_by_Chelsea_Morgan.jpg"><img alt="Dissociative scenery slicing by Chelsea Morgan.jpg" src="../../文件/Dissociative_scenery_slicing_by_Chelsea_Morgan.jpg" /></a></td>
+<td><strong>解离性环境切片</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+<tr>
+<td><a href="../../文件/Scenery_slicing.jpg"><img alt="Scenery slicing.jpg" src="../../文件/Scenery_slicing.jpg" /></a></td>
+<td><strong>公园漫步</strong> 作者 <strong><a href="/FreeODwiki/wiki/User:TheReplicator" title="User:TheReplicator">Chelsea Morgan</a></strong></td>
+</tr>
+</tbody>
+</table>
+<!-- 请勿删除或修改，这是一个标记，待识别并填坑（药效索引） -->
+
+<h3 id="_4">体验报告</h3>
+<p>描述了这种效应的<a href="../报告/psychounautwiki/">体验报告</a>包括：</p>
+<ul>
+<li><a href="../报告/psychounautwiki/Experience:2_tabs_DOB_-_My_DOB_Nightmare.html">Experience:2 tabs DOB - My DOB Nightmare</a></li>
+<li><a href="../报告/psychounautwiki/Experience:400mg_DXM_%2B_300mg_DPH_%E2%80%93_Bacterial_friends.html">Experience:400mg DXM + 300mg DPH – Bacterial friends</a></li>
+<li><a href="../报告/psychounautwiki/Experience:Into_the_Multiverse.html">Experience:Into the Multiverse</a></li>
+<li><a href="../报告/psychounautwiki/Experience:LSD_(230_ug)_-_An_amazing_adventure_by_vikilikepsych.md">Experience:LSD (230 ug) - An amazing adventure by vikilikepsych</a></li>
+</ul>
+<h3 id="_5">另见</h3>
+<ul>
+<li><a href="../文档/负责任的用药索引页.html">负责任的用药索引页</a></li>
+<li><a href="./home.html">主观效应索引</a></li>
+<li><a href="../文档/药物分类/迷幻剂.html#Subjective_effects">迷幻剂 - 主观效应</a></li>
+<li><a href="../文档/药物分类/解离剂.html#Subjective_effects">解离剂 - 主观效应</a></li>
+<li><a href="../文档/药物分类/谵妄剂.html#Subjective_effects">谵妄剂 - 主观效应</a></li>
+</ul>
+<h3 id="_6">参考文献</h3>
+<ol>
+<li><a href="#cite_ref-PapoutsisNikolaou2014_1-0">↑</a> Papoutsis, Ioannis; Nikolaou, Panagiota; Stefanidou, Maria; Spiliopoulou, Chara; Athanaselis, Sotiris (2014). "25B-NBOMe and its precursor 2C-B: modern trends and hidden dangers". <em>Forensic Toxicology</em>. <strong>33</strong> (1): 1–11. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1007%2Fs11419-014-0242-9">10.1007/s11419-014-0242-9</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/1860-8965">1860-8965</a>.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

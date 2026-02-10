@@ -1,0 +1,831 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>PMA - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#pma" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              PMA
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E6%95%88/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        化学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        药理学
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        主观效应
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        躯体效应
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        认知效应
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        视觉效应
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="视觉效应">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        抑制
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        扭曲
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        毒性和伤害潜力
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="毒性和伤害潜力">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        危险的药物联用
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        法律地位
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="pma">PMA</h1>
+<p><a href="./home.html">◀返回</a></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="/FreeODwiki/文件/Skull_and_crossbones_darktextred2.png" /></td>
+<td><strong>PMA即便在中等剂量下也可能引起危及生命的副作用（例如<a href="/FreeODwiki/药效/体温升高.html">体温升高</a>和<a href="/FreeODwiki/文档/血清素综合征.html">血清素综合征</a>）呢。</strong></td>
+</tr>
+</tbody>
+</table>
+<p>因此，非常不建议使用这种物质哦。由于它是一种常见的杂质，建议务必使用检测试剂盒测试你的<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>中是否含有PMA喵。更多详情请参阅<a href="#毒性和伤害潜力">毒性和伤害潜力</a>章节。</p>
+<table>
+<thead>
+<tr>
+<th>PMA</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="/FreeODwiki/文件/PMA.png" /></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>化学命名</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>常用名称</td>
+<td>PMA</td>
+</tr>
+<tr>
+<td>取代名称</td>
+<td>对甲氧基苯丙胺，4-甲氧基苯丙胺</td>
+</tr>
+<tr>
+<td>系统名称</td>
+<td>1-(4-甲氧基苯基)丙-2-胺</td>
+</tr>
+<tr>
+<td><strong>类别归属</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>精神活性类别</td>
+<td><a href="/FreeODwiki/文档/药物分类/共情剂.html">共情剂</a></td>
+</tr>
+<tr>
+<td>化学类别</td>
+<td><a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">苯丙胺类物质</a></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药途径.html">给药途径</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td>- <strong>警告：</strong> 由于个体体重、耐受性、代谢和个人敏感性的差异，请务必从低剂量开始。请参阅<a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a>章节。</td>
+<td>⇣ <a href="/FreeODwiki/文档/给药途径.html">口服</a></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/给药剂量.html">剂量</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">阈值</a></td>
+<td>&lt; 10 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">轻微</a></td>
+<td>20 - 40 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">中等</a></td>
+<td>40 - 60 mg</td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药物剂量分类.html">强烈</a></td>
+<td><strong>更高的剂量会导致严重的体温升高，最终可能导致死亡哦。</strong></td>
+</tr>
+<tr>
+<td><strong><a href="/FreeODwiki/文档/药效时长.html">时长</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/FreeODwiki/文档/药效时长.html">总时长</a></td>
+<td>较短</td>
+</tr>
+<tr>
+<td><strong><a href="#危险的药物联用">药物联用</a></strong></td>
+<td></td>
+</tr>
+<tr>
+<td>酒精</td>
+<td>💔 联用危险</td>
+</tr>
+<tr>
+<td>GHB / GBL</td>
+<td>💔 联用危险</td>
+</tr>
+<tr>
+<td>阿片类药物</td>
+<td>💔 联用危险</td>
+</tr>
+<tr>
+<td>可卡因</td>
+<td>⛔ 严禁联用</td>
+</tr>
+<tr>
+<td>大麻</td>
+<td>⚠️ 谨慎联用</td>
+</tr>
+<tr>
+<td>咖啡因</td>
+<td>⚠️ 谨慎联用</td>
+</tr>
+<tr>
+<td>氯胺酮</td>
+<td>⚠️ 谨慎联用</td>
+</tr>
+<tr>
+<td>2C-T-x</td>
+<td>⛔ 严禁联用</td>
+</tr>
+<tr>
+<td>DXM</td>
+<td>⛔ 严禁联用</td>
+</tr>
+<tr>
+<td>MAOIs</td>
+<td>⛔ 严禁联用</td>
+</tr>
+</tbody>
+</table>
+<p><strong>对甲氧基苯丙胺</strong>（也称为 <strong>4-甲氧基苯丙胺</strong>、<strong>4-MeOA</strong>，有时被错误地称为 <strong>4-MA</strong>，以及更常见的 <strong>PMA</strong>）是一种<a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">苯丙胺类</a>的强力<a href="/FreeODwiki/文档/药物分类/迷幻剂.html">迷幻剂</a>物质喵。PMA属于<a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">取代苯丙胺类物质</a>家族。然而，与其他取代苯丙胺不同，PMA不会产生<a href="/FreeODwiki/文档/药物分类/兴奋剂.html">兴奋剂</a>或<a href="/FreeODwiki/文档/药物分类/共情剂.html">共情剂</a>效应，也不会产生欣快感。它通常不被单独服用，而是作为“摇头丸”药片中的成分，作为<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>的虚假替代品出现呢。</p>
+<p>PMA自20世纪70年代以来一直存在，当时它与<a href="/FreeODwiki/药物/PMMA.html">PMMA</a>一起作为摇头丸出售，并在发生多起住院和死亡事件后引起了极大关注。它通常不会产生明显的效应，这会导致人们摄入更多或将其与其他物质联用，直到最终过量喵。它会产生危险的不良反应，包括体温和血压突然极度升高、心律异常、脱水，有时还会出现严重的头晕。</p>
+<p><strong>PMA与其他药物如<a href="/FreeODwiki/药物/PMMA.html">PMMA</a>一样，几乎没有娱乐价值，被认为是已知最危险和最具毒性的物质之一。强烈建议完全避免使用这些药物哦。</strong></p>
+<h3 id="_1">化学</h3>
+<p>PMA（对甲氧基苯丙胺）是一种<a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">取代苯丙胺类物质</a>。这类分子包含一个苯乙胺核心，其苯环通过乙基链连接到氨基（NH2），并在α位有一个额外的甲基取代。它的苯环R4碳原子上连接有一个甲氧基（OCH3）官能团。它是<a href="/FreeODwiki/药物/苯丙胺.html">苯丙胺</a>的4-甲氧基类似物呢。</p>
+<h3 id="_2">药理学</h3>
+<table>
+<thead>
+<tr>
+<th><img alt="" src="/FreeODwiki/文件/Pill_bottle-o.png" /></th>
+<th><strong>本药理学章节尚不完整。</strong><br>你可以通过编辑来完善它喵。</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>PMA作为一种<a href="/FreeODwiki/文档/神经递质释放剂.html">选择性血清素释放剂</a>起作用，对多巴胺和去甲肾上腺素转运蛋白的影响较弱。然而，相对于<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>，它作为血清素释放剂的效果明显较差，其特性更接近于再摄取抑制剂。它会引起剧烈的体温升高，而仅产生轻微的多动和血清素神经毒性，其毒性远低于MDMA。轶事报告显示它并不会带来特别的欣快感，相比之下甚至可能让人感到不适。PMA还被证明是<a href="/FreeODwiki/文档/单胺氧化酶抑制剂.html">MAO-A</a>酶的强效可逆抑制剂，对MAO-B没有显著影响，这种特性与血清素释放的结合很可能是其高致死潜力的原因喵。</p>
+<p>PMA似乎会使体温急剧升高；这种特性的原因被怀疑与其抑制MAO-A同时释放大量血清素的能力有关，从而有效地引起了<a href="/FreeODwiki/文档/血清素综合征.html">血清素综合征</a>。PMA对下丘脑的激活似乎比MDMA和其他药物（如<a href="/FreeODwiki/药物/麻黄碱.html">麻黄碱</a>）强得多，从而导致体温迅速升高（这是PMA致死的主要原因）哦。</p>
+<h3 id="_3">主观效应</h3>
+<table>
+<thead>
+<tr>
+<th><img alt="" src="/FreeODwiki/文件/Metacogghjgjvghnition.png" /></th>
+<th><strong>本主观效应章节仅为简述。</strong><br>目前仍在完善中，可能包含不完整或错误的信息喵。</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>免责声明：</em>* 下面列出的效应引用了<a href="/FreeODwiki/药效/主观效应索引.html">主观效应索引</a>（SEI）。因此，应以一定的怀疑态度来看待它们哦。此外，这些效应不一定以可预测或可靠的方式发生，尽管更高的剂量更容易诱发全谱效应。同样，</strong>不良反应<strong>随剂量增加而变得越来越可能，可能包括</strong>成瘾、严重受伤或死亡*<em> ☠。</em></p>
+<h3 id="_4"><strong><a href="/FreeODwiki/药效/躯体效应.html">躯体效应</a></strong> <img alt="Child.png" src="/FreeODwiki/文件/Child.png" /></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/刺激.html">刺激</a></strong> - 在对使用者体力水平的影响方面，PMA通常被认为仅在低剂量时具有中等的刺激性和能量感。</li>
+<li><strong><a href="/FreeODwiki/药效/心律异常.html">心律异常</a></strong> - 心跳加速和异常在PMA中极其常见喵。</li>
+<li><strong><a href="/FreeODwiki/药效/食欲抑制.html">食欲抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/脱水.html">脱水</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/头晕.html">头晕</a></strong> - 这种效应在PMA中比在<a href="/FreeODwiki/药物/甲基苯丙胺.html">甲基苯丙胺</a>或<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>中常见得多。</li>
+<li><strong><a href="/FreeODwiki/药效/体温升高.html">体温升高</a></strong> - PMA最常见的死亡原因是严重的体温升高。</li>
+<li><strong><a href="/FreeODwiki/药效/血压升高.html">血压升高</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/心率增快.html">心率增快</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/出汗增加.html">出汗增加</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/恶心.html">恶心</a></strong> 和 <strong>呕吐</strong> - 这在任何剂量下都很常见。</li>
+<li><strong><a href="/FreeODwiki/药效/瞳孔扩大.html">瞳孔扩大</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/呼吸增强.html">呼吸增强</a></strong> - 使用者常报告“无法呼吸”呢。</li>
+<li><strong><a href="/FreeODwiki/药效/癫痫发作.html">癫痫发作</a></strong> - 这在PMA类物质中比几乎任何其他物质都常见得多。</li>
+<li><strong><a href="/FreeODwiki/药效/磨牙.html">磨牙</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/暂时性勃起功能障碍.html">暂时性勃起功能障碍</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/血管收缩.html">血管收缩</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/视物振动.html">视物振动</a></strong> - 这种效应通常比使用<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>时更频繁。</li>
+</ul>
+<h3 id="_5"><strong><a href="/FreeODwiki/药效/认知效应.html">认知效应</a></strong> <img alt="User.png" src="/FreeODwiki/文件/User.png" /></h3>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/焦虑.html">焦虑</a></strong> 或 <strong><a href="/FreeODwiki/药效/焦虑抑制.html">焦虑抑制</a></strong> - 这很大程度上取决于剂量，因为由于所有的不良反应，更高的剂量几乎肯定会带来焦虑喵。</li>
+<li><strong><a href="/FreeODwiki/药效/认知欣快.html">认知欣快</a></strong> 或 <strong><a href="/FreeODwiki/药效/认知不快.html">认知不快</a></strong> - 同样取决于剂量，高剂量几乎肯定会带来不快。</li>
+<li><strong><a href="/FreeODwiki/药效/梦境抑制.html">梦境抑制</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/时间扭曲.html">时间扭曲</a></strong></li>
+<li><strong><a href="/FreeODwiki/药效/清醒度.html">清醒度</a></strong></li>
+</ul>
+<h3 id="_6"><strong><a href="/FreeODwiki/药效/视觉效应.html">视觉效应</a></strong> <img alt="Eye" src="/FreeODwiki/文件/Eye.png" /></h3>
+<p>在中等至高剂量下，PMA能够产生通常为轻微或中等的视觉扭曲。这些扭曲通常比<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>更明显，但与大多数<a href="/FreeODwiki/文档/药物分类/致幻剂.html">致幻剂</a>（如<a href="/FreeODwiki/药物/2C-B.html">2C-B</a>或<a href="/FreeODwiki/药物/LSD.html">LSD</a>）相比则显著较弱。</p>
+<h5 id="_7">抑制</h5>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/复视.html">复视</a></strong></li>
+</ul>
+<h5 id="_8">扭曲</h5>
+<ul>
+<li><strong><a href="/FreeODwiki/药效/漂移.html">漂移</a></strong>（<a href="/FreeODwiki/药效/纹理液化.html">纹理液化</a>、[呼吸感]、[变形]和[流动]）- 这种效应比<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>更明显喵。</li>
+<li><strong><a href="/FreeODwiki/药效/视觉拖尾.html">视觉拖尾</a></strong></li>
+</ul>
+<h3 id="_9">体验报告</h3>
+<p>目前我们的<a href="/FreeODwiki/报告/psychounautwiki/">体验报告索引</a>中还没有描述该化合物效应的轶事报告呢。更多的体验报告可以在这里找到：
+* <a href="https://www.erowid.org/experiences/subs/exp_PMA.shtml">Erowid 体验库：PMA</a></p>
+<h3 id="_10">毒性和伤害潜力</h3>
+<table>
+<thead>
+<tr>
+<th><img alt="" src="/FreeODwiki/文件/Ambulance2.png" /></th>
+<th><strong>本毒性和伤害潜力章节仅为简述。</strong><br>它可能包含不完整甚至<strong>危险的错误</strong>信息！请务必进行独立研究并采取<a href="/FreeODwiki/文档/负责任的用药索引页.html">伤害减少措施</a>喵。</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>与<a href="/FreeODwiki/药物/甲基苯丙胺.html">甲基苯丙胺</a>或<a href="/FreeODwiki/药物/MDMA.html">MDMA</a>等其他物质相比，PMA及其亲缘物质<a href="/FreeODwiki/药物/PMMA.html">PMMA</a>可被视为具有极高毒性。摄入PMA与严重的心动过速、<a href="/FreeODwiki/药效/癫痫发作.html">癫痫发作</a>、<a href="/FreeODwiki/药效/脱水.html">脱水</a>、<a href="/FreeODwiki/药效/体温升高.html">体温升高</a>和死亡有关。PMA的起效相对较慢，导致许多使用者重复补量，从而造成过量毒性。</p>
+<h4 id="_11">危险的药物联用</h4>
+<p><strong><em>警告：</em></strong> <em>许多本身可以安全使用的精神活性物质，在与某些其他物质联用时会突然变得危险甚至危及生命。</em></p>
+<ul>
+<li><strong>酒精</strong> - 在服用兴奋剂时饮酒被认为是危险的，因为它会降低身体用来衡量醉酒程度的酒精镇静效果。这往往导致过度饮酒，增加肝脏损伤和脱水的风险。</li>
+<li><strong>GHB</strong>/<strong>GBL</strong> - 兴奋剂会增加呼吸频率，从而允许更高剂量的镇静剂。如果兴奋剂先失效，GHB/GBL的抑制作用可能会压倒使用者并导致呼吸骤停喵。</li>
+<li><strong>阿片类药物</strong> - 兴奋剂增加呼吸频率，允许更高剂量的阿片类药物。如果兴奋剂先失效，阿片类药物可能导致呼吸骤停。</li>
+<li><strong>可卡因</strong> - 这种组合由于对心脏的影响，会增加晕厥的风险，对心血管系统的压力极大。</li>
+<li><strong>大麻</strong> - 兴奋剂会增加<a href="/FreeODwiki/药效/焦虑.html">焦虑</a>水平，增加<a href="/FreeODwiki/药效/思维循环.html">思维循环</a>和<a href="/FreeODwiki/药效/偏执.html">偏执</a>的风险。</li>
+<li><strong>咖啡因</strong> - 这种兴奋剂组合通常被认为是没有必要的，可能会增加心脏负担。</li>
+<li><strong>曲马多</strong> - 曲马多和兴奋剂都会增加癫痫发作的风险。</li>
+<li><strong>右美沙芬</strong> - 两种物质都会提高心率，极端情况下会导致严重的心脏问题。</li>
+<li><strong>氯胺酮</strong> - 联用可能导致类似于精神分裂症的精神错乱。</li>
+<li><strong>致幻剂</strong>（如 <strong><em><a href="/FreeODwiki/药物/LSD.html">LSD</a>、<a href="/FreeODwiki/药物/麦斯卡林.html">麦斯卡林</a>、<a href="/FreeODwiki/药物/赛洛西宾蘑菇.html">赛洛西宾蘑菇</a></em></strong>）- 增加<a href="/FreeODwiki/药效/焦虑.html">焦虑</a>、<a href="/FreeODwiki/药效/偏执.html">偏执</a>和<a href="/FreeODwiki/药效/思维循环.html">思维循环</a>的风险。</li>
+<li><strong>MAOIs</strong> - MAO-A抑制剂与苯丙胺类物质联用会导致高血压危象，非常危险喵！</li>
+</ul>
+<h3 id="_12">法律地位</h3>
+<p>在国际上，PMA是《精神药物公约》下的附表I物质。</p>
+<ul>
+<li><strong>德国</strong>：自1984年9月1日起受BtMG附表I控制。未经许可制造、持有、进出口、买卖均属非法。</li>
+<li><strong>加拿大</strong>：PMA是附表I物质。</li>
+<li><strong>美国</strong>：PMA是附表I物质。</li>
+<li><strong>瑞士</strong>：PMA是在Verzeichnis D中明确列出的受管制物质喵。</li>
+</ul>
+<h3 id="_13">另见</h3>
+<ul>
+<li><a href="/FreeODwiki/文档/负责任的用药索引页.html">负责任的用药</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/苯丙胺类物质.html">取代苯丙胺类物质</a></li>
+<li><a href="/FreeODwiki/文档/药物分类/共情剂.html">共情剂</a></li>
+<li><a href="/FreeODwiki/药物/PMMA.html">PMMA</a></li>
+</ul>
+<h3 id="_14">外部链接</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Para-Methoxyamphetamine">对甲氧基苯丙胺 (维基百科)</a></li>
+<li><a href="https://www.erowid.org/chemicals/pma/">PMA (Erowid 库)</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

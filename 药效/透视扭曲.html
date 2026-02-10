@@ -1,0 +1,544 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>透视扭曲 - FreeODwiki20260210</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="FreeODwiki20260210" class="md-header__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeODwiki20260210
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              透视扭曲
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="FreeODwiki20260210" class="md-nav__button md-logo" aria-label="FreeODwiki20260210" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    FreeODwiki20260210
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    主页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E8%8D%AF%E7%89%A9/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药物索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    药效索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%8A%A5%E5%91%8A/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    报告索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        爱丽丝梦游仙境综合症
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        小人国幻觉
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        体验报告
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        另见
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        外部链接
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参考文献
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><a href="./home.html">◀返回</a></p>
+<h1 id="_1">透视扭曲</h1>
+<p><a href="/FreeODwiki//gfycat.com/ifr/AdorableAggravatingGalago">//gfycat.com/ifr/AdorableAggravatingGalago</a></p>
+<p><strong>尺寸扭曲</strong> 作者 <strong><a href="/FreeODwiki/w/index.php?title=Anonymous&amp;action=edit&amp;redlink=1" title="Anonymous (page does not exist)">Anonymous</a></strong> - 这张图片精准地描绘了被称为透视扭曲的常见体验效果。</p>
+<p><strong>透视扭曲</strong> 的定义是，一个人对自己身体、外部环境特定部分或整个外部环境的大小和距离的感知发生了微妙到极端的改变。<a href="#cite_note-LSD_AIWS-1">[1]</a></p>
+<p>这种效应能够以 4 种不同的方式表现出来，这可能反映了每种相应的负责视觉功能出现了故障哦。<a href="#cite_note-Schneck1965-2">[2]</a></p>
+<ul>
+<li>尺寸扭曲：<ul>
+<li><strong><a href="/FreeODwiki/wiki/Macropsia" title="Macropsia">视物显大症</a></strong> - 物体被感知得比实际尺寸大。<a href="#cite_note-3">[3]</a></li>
+<li><strong><a href="/FreeODwiki/w/index.php?title=Micropsia&amp;action=edit&amp;redlink=1" title="Micropsia (page does not exist)">视物显小症</a></strong> - 物体被感知得比实际尺寸小。<a href="#cite_note-4">[4]</a></li>
+<li><strong><a href="/FreeODwiki/w/index.php?title=Pelopsia&amp;action=edit&amp;redlink=1" title="Pelopsia (page does not exist)">近视错觉</a></strong> - 物体被感知得比实际距离近。<a href="#cite_note-5">[5]</a></li>
+<li><strong><a href="/FreeODwiki/w/index.php?title=Teleopsia&amp;action=edit&amp;redlink=1" title="Teleopsia (page does not exist)">远视错觉</a></strong> - 物体被感知得比实际距离远得多。<a href="#cite_note-6">[6]</a></li>
+</ul>
+</li>
+</ul>
+<p>当影响距离时，透视扭曲会让事物看起来比平常物理上更近或更远。这可能从一种微妙的体验（比如感觉房间的另一边比平时稍微远一点点）到一种极端的体验（比如感觉地平线就在你面前）都有可能发生呢。</p>
+<p>当影响大小时，透视扭曲会让事物在通常归因于它们的大小感方面看起来物理上更小或更大。<a href="#cite_note-Abraham1983-7">[7]</a><a href="#cite_note-Horowitz1969-8">[8]</a><a href="#cite_note-9">[9]</a> 这可能从一种微妙的体验（比如感觉房间比平时稍微小一点，更拥挤一点）到一种极端的体验（比如感觉房间有几百英里宽）都有可能发生哦。</p>
+<p>透视扭曲经常伴随着其他并发效应，比如 <a href="./深度感知扭曲.html">深度感知扭曲</a> 和 <a href="./视觉断连.html">视觉断连</a>。它们最常见于使用 <a href="./药物剂量分类.html#common">中等</a> <a href="./药物剂量分类.html">剂量</a> 的 <a href="./药物分类/解离剂.html">解离剂</a> 类化合物，比如 <a href="./药物/氯胺酮.html">氯胺酮</a>、<a href="./药物/PCP.html">PCP</a>、<a href="./药物/MXE.html">MXE</a> 和 <a href="./药物/右美沙芬.html">右美沙芬</a> 时发生。</p>
+<h4 id="_2">爱丽丝梦游仙境综合症</h4>
+<p><a href="../../文件/Alice_par_John_Tenniel_11.png"><img alt="" src="../../文件/Alice_par_John_Tenniel_11.png" /></a></p>
+<p><strong>爱丽丝</strong> 作者 <strong><a href="https://en.wikipedia.org/wiki/Lewis_Carroll">Lewis Caroll</a></strong> - 这幅插图描绘了《爱丽丝梦游仙境》中的一个场景，在这个场景中她变大了。这是对这种效应经常带来的感觉的精准呈现呢。</p>
+<p>爱丽丝梦游仙境综合症 (AIWS) 的特征是 <a href="/FreeODwiki/wiki/Macropsia" title="Macropsia">视物显大症</a>、<a href="/FreeODwiki/w/index.php?title=Micropsia&amp;action=edit&amp;redlink=1" title="Micropsia (page does not exist)">视物显小症</a>、<a href="/FreeODwiki/w/index.php?title=Pelopsia&amp;action=edit&amp;redlink=1" title="Pelopsia (page does not exist)">近视错觉</a>、<a href="/FreeODwiki/w/index.php?title=Teleopsia&amp;action=edit&amp;redlink=1" title="Teleopsia (page does not exist)">远视错觉</a>、<a href="/FreeODwiki/w/index.php?title=Altered_perception_of_shape&amp;action=edit&amp;redlink=1" title="Altered perception of shape (page does not exist)">形状感知改变</a> (视物变形症) 和 <a href="./时间扭曲.html">时间扭曲</a>。<a href="#cite_note-pmid.3D10767914-10">[10]</a></p>
+<p>突然感觉身体大得不可能或小得不可思议也是这种效应的一个非常常见的表现。这种感觉在科学文献中被称为“爱丽丝梦游仙境综合症”，它被视为一种暂时的状况，通常与偏头痛、脑肿瘤和精神活性药物的使用有关。<a href="#cite_note-LSD_AIWS-1">[1]</a><a href="#cite_note-Blom2016-11">[11]</a> 这种效应可能归因于整个身体或身体的特定部分。例如，感觉有一个巨大的头或微小的四肢是有可能的嘛。</p>
+<h4 id="_3">小人国幻觉</h4>
+<p>小人国幻觉，也称为显微幻觉或微型幻觉，是一种以体型微小为特征的 <a href="./自主实体.html">自主实体</a>。<a href="#cite_note-12">[12]</a> 它们偶尔会伴随着类似的巨大生物，也称为巨人国幻觉。</p>
+<!-- 请勿删除或修改，这是一个标记，待识别并填坑（药效索引） -->
+
+<h3 id="_4">体验报告</h3>
+<p>描述了这种效应的<a href="../报告/psychounautwiki/">体验报告</a>包括：</p>
+<ul>
+<li><a href="../报告/psychounautwiki/Experience:_1_tab_1P-LSD_(oral)_-_Finding_myself_within_the_forest.md">Experience: 1 tab 1P-LSD (oral) - Finding myself within the forest</a></li>
+<li><a href="../报告/psychounautwiki/Experience:1000_Morning_Glory_seeds_-_Rediscovering_the_Self.html">Experience:1000 Morning Glory seeds - Rediscovering the Self</a></li>
+<li><a href="../报告/psychounautwiki/Experience:1000mg_/_1200mg_/_1400mg_/_1600mg_-_heroic_doses.html">Experience:1000mg / 1200mg / 1400mg / 1600mg - heroic doses</a></li>
+<li><a href="../报告/psychounautwiki/Experience:110mg_Diphenidine_(vaporized)_%2B_354mg_DXM_-_instant_ego_death.md">Experience:110mg Diphenidine (vaporized) + 354mg DXM - instant ego death</a></li>
+<li><a href="../报告/psychounautwiki/Experience:200_mg_of_MXP_%2B_N2O:20_chargers.html">Experience:200 mg of MXP + N2O:20 chargers</a></li>
+<li><a href="../报告/psychounautwiki/Experience:25mg_(insufflated)_-_Simultaneously_amazing_and_horrible.md">Experience:25mg (insufflated) - Simultaneously amazing and horrible</a></li>
+<li><a href="../报告/psychounautwiki/Experience:260_mg_Ketamine_(insufflated)_-_Lost_in_Paisley.md">Experience:260 mg Ketamine (insufflated) - Lost in Paisley</a></li>
+<li><a href="../报告/psychounautwiki/Experience:3-MEO-PCMo_(420mg)_-_Trip_Report.md">Experience:3-MEO-PCMo (420mg) - Trip Report</a></li>
+<li><a href="../报告/psychounautwiki/Experience:354mg_DXM,_weed,_nicotine_-_Descending_into_the_void.html">Experience:354mg DXM, weed, nicotine - Descending into the void</a></li>
+<li><a href="../报告/psychounautwiki/Experience:40mg_-_Brothermind_and_the_Forest%27s_Hand.html">Experience:40mg - Brothermind and the Forest's Hand</a></li>
+<li><a href="../报告/psychounautwiki/Experience:5.3g_psilocybe_cubensis_-_Dimensional_Circumstance_and_the_Fabric_of_Understanding.html">Experience:5.3g psilocybe cubensis - Dimensional Circumstance and the Fabric of Understanding</a></li>
+<li><a href="../报告/psychounautwiki/Experience:5g_Mushrooms_-_Failed_attempt_at_a_Terence_Mckenna_style_trip..html">Experience:5g Mushrooms - Failed attempt at a Terence Mckenna style trip.</a></li>
+<li><a href="../报告/psychounautwiki/Experience:700mg_-_To_the_dextroverse..html">Experience:700mg - To the dextroverse.</a></li>
+<li><a href="../报告/psychounautwiki/Experience:750mg_-_Experiencing_Void;_Dissociation_Of_Reality_And_Self.html">Experience:750mg - Experiencing Void; Dissociation Of Reality And Self</a></li>
+<li><a href="../报告/psychounautwiki/Experience:LSD_(230_ug)_-_An_amazing_adventure_by_vikilikepsych.md">Experience:LSD (230 ug) - An amazing adventure by vikilikepsych</a></li>
+<li><a href="../报告/psychounautwiki/Experience:Mushrooms_(~0.5_g)_-_Autonomous_Voice.md">Experience:Mushrooms (~0.5 g) - Autonomous Voice</a></li>
+<li><a href="../报告/psychounautwiki/Experience:Psilocybin_Mushroom_(0.16_g,_Oral)_-_Dosage_Independent_Intensity.md">Experience:Psilocybin Mushroom (0.16 g, Oral) - Dosage Independent Intensity</a></li>
+<li><a href="../报告/psychounautwiki/Experience:Unknown_dosage_/_3_tabs_-_Ego_death_and_a_total_break_through_in_the_snow.html">Experience:Unknown dosage / 3 tabs - Ego death and a total break through in the snow</a></li>
+</ul>
+<h3 id="_5">另见</h3>
+<ul>
+<li><a href="../文档/负责任的用药索引页.html">负责任的用药索引页</a></li>
+<li><a href="./home.html">主观效应索引</a></li>
+<li><a href="./透视改变.html">透视改变</a></li>
+<li><a href="../文档/药物分类/迷幻剂.html#Subjective_effects">迷幻剂 - 主观效应</a></li>
+<li><a href="../文档/药物分类/解离剂.html#Subjective_effects">解离剂 - 主观效应</a></li>
+<li><a href="../文档/药物分类/谵妄剂.html#Subjective_effects">谵妄剂 - 主观效应</a></li>
+</ul>
+<h3 id="_6">外部链接</h3>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/爱丽丝梦游仙境症候群">爱丽丝梦游仙境综合症 (维基百科)</a><ul>
+<li><a href="https://zh.wikipedia.org/wiki/視物顯大症">视物显大症 (维基百科)</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/視物顯小症">视物显小症 (维基百科)</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/近视错觉">近视错觉 (维基百科)</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/远视错觉">远视错觉 (维基百科)</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="_7">参考文献</h3>
+<ol>
+<li>↑ <a href="#cite_ref-LSD_AIWS_1-0">1.0</a> <a href="#cite_ref-LSD_AIWS_1-1">1.1</a> G Lerner, A., Lev-Ran, S. (2015). "LSD-associated "Alice in Wonderland Syndrome"(AIWS): A Hallucinogen Persisting Perception Disorder (HPPD) Case Report". <em>The Israel Journal of Psychiatry and Related Sciences</em>. <strong>52</strong> (1): 67–68. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/2617-2402">2617-2402</a>. </li>
+<li><a href="#cite_ref-Schneck1965_2-0">↑</a> Schneck, Jerome M. (1965). "MACROPSIA". <em>American Journal of Psychiatry</em>. <strong>121</strong> (11): 1123–1124. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.121.11.1123">10.1176/ajp.121.11.1123</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0002-953X">0002-953X</a>. </li>
+<li><a href="#cite_ref-3">↑</a> <a href="https://dictionary.apa.org/macropsia">"macropsia"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022. </li>
+<li><a href="#cite_ref-4">↑</a> <a href="https://dictionary.apa.org/micropsia">"micropsia"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022. </li>
+<li><a href="#cite_ref-5">↑</a> <a href="https://medical-dictionary.thefreedictionary.com/pelopsia">"pelopsia"</a>. <em>Medical Dictionary</em>. Retrieved 20 May 2022. </li>
+<li><a href="#cite_ref-6">↑</a> <a href="https://dictionary.apa.org/teleopsia">"teleopsia"</a>. <em>APA Dictionary of Psychology</em>. Retrieved 20 May 2022. </li>
+<li><a href="#cite_ref-Abraham1983_7-0">↑</a> Abraham, Henry David (1983). "Visual Phenomenology of the LSD Flashback". <em>Archives of General Psychiatry</em>. <strong>40</strong> (8): 884. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1001%2Farchpsyc.1983.01790070074009">10.1001/archpsyc.1983.01790070074009</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0003-990X">0003-990X</a>. </li>
+<li><a href="#cite_ref-Horowitz1969_8-0">↑</a> Horowitz, Mardi J. (1969). "Flashbacks: Recurrent Intrusive Images After the Use of LSD". <em>American Journal of Psychiatry</em>. <strong>126</strong> (4): 565–569. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1176%2Fajp.126.4.565">10.1176/ajp.126.4.565</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0002-953X">0002-953X</a>. </li>
+<li><a href="#cite_ref-9">↑</a> Hamilton M (ed): Fish's Clinical Psychopathology. Baltimore, Williams &amp; Wilkins Co, 1974. <a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=gHdQTZNkA9YC&amp;oi=fnd&amp;pg=PA1&amp;dq=Hamilton+M+(ed):+Fish%27s+Clinical+Psychopathology.&amp;ots=okWOwjZJfq&amp;sig=Y85lNwTChlGIhtdhohkn-MXSyCA#v=onepage&amp;q=Hamilton%20M%20(ed)%3A%20Fish's%20Clinical%20Psychopathology.&amp;f=false">https://books.google.com/books?hl=en&amp;lr=&amp;id=gHdQTZNkA9YC&amp;oi=fnd&amp;pg=PA1&amp;dq=Hamilton+M+(ed):+Fish%27s+Clinical+Psychopathology.&amp;ots=okWOwjZJfq&amp;sig=Y85lNwTChlGIhtdhohkn-MXSyCA#v=onepage&amp;q=Hamilton%20M%20(ed)%3A%20Fish's%20Clinical%20Psychopathology.&amp;f=false</a></li>
+<li><a href="#cite_ref-pmid.3D10767914_10-0">↑</a> Cau, C (October 1999). "[The Alice in Wonderland syndrome]". <em>Minerva medica</em>. <strong>90</strong> (10): 397–401. <a href="http://en.wikipedia.org/wiki/PubMed_Identifier" title="wikipedia:PubMed Identifier">PMID</a> <a href="/FreeODwiki//www.ncbi.nlm.nih.gov/pubmed/10767914">10767914</a>. </li>
+<li><a href="#cite_ref-Blom2016_11-0">↑</a> Blom, Jan Dirk (2016). "Alice in Wonderland syndrome". <em>Neurology: Clinical Practice</em>. <strong>6</strong> (3): 259–270. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1212%2FCPJ.0000000000000251">10.1212/CPJ.0000000000000251</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/2163-0402">2163-0402</a>. </li>
+<li><a href="#cite_ref-12">↑</a> Blom, J. D. (June 2021). <a href="https://linkinghub.elsevier.com/retrieve/pii/S0149763421001068">"Leroy's elusive little people: A systematic review on lilliputian hallucinations"</a>. <em>Neuroscience &amp; Biobehavioral Reviews</em>. <strong>125</strong>: 627–636. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="wikipedia:Digital object identifier">doi</a>:<a href="/FreeODwiki//doi.org/10.1016%2Fj.neubiorev.2021.03.002">10.1016/j.neubiorev.2021.03.002</a>. <a href="http://en.wikipedia.org/wiki/International_Standard_Serial_Number" title="wikipedia:International Standard Serial Number">ISSN</a> <a href="/FreeODwiki//www.worldcat.org/issn/0149-7634">0149-7634</a>.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
