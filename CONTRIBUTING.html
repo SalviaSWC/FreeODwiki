@@ -293,6 +293,33 @@
   
 
     
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="%E6%96%87%E6%A1%A3/home.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    文档索引
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
   </ul>
 </nav>
                   </div>
@@ -447,36 +474,36 @@
 <h3 id="markdown">复制一般文本到Markdown的注意事项</h3>
 <ul>
 <li>请注意文本中的某些元素是否意外构成Markdown语法，导致显示错误的问题。例如：<br />
-<code>markdown
-  我昨天只睡了4个小时[前天更是只睡了3个小时](唉，感觉要猝死了)</code> 
+  <div class="highlight"><pre><span></span><code>我昨天只睡了4个小时[前天更是只睡了3个小时](唉，感觉要猝死了)
+</code></pre></div>
   会渲染为：  </li>
 </ul>
 <hr />
 <p>我昨天只睡了4个小时<a href="唉，感觉要猝死了">前天更是只睡了3个小时</a></p>
 <hr />
 <p>这是错误的，正确的写法是使用转义字符<code>\</code>：<br />
-<code>markdown
-  我昨天只睡了4个小时\[前天更是只睡了3个小时\](唉，感觉要猝死了)</code><br />
+  <div class="highlight"><pre><span></span><code>我昨天只睡了4个小时\[前天更是只睡了3个小时\](唉，感觉要猝死了)
+</code></pre></div>
   会渲染为：</p>
 <hr />
 <p>我昨天只睡了4个小时[前天更是只睡了3个小时](唉，感觉要猝死了)</p>
 <hr />
 <ul>
 <li>请注意在Markdown中换行不会直接换行。例如：<br />
-<code>markdown
-  昨天，他只睡了4个小时
-  前天更是只睡了3个小时
-  意外猝死正在悄然酝酿</code>
+  <div class="highlight"><pre><span></span><code>昨天，他只睡了4个小时
+前天更是只睡了3个小时
+意外猝死正在悄然酝酿
+</code></pre></div>
   会渲染为：</li>
 </ul>
 <hr />
 <p>昨天，他只睡了4个小时  前天更是只睡了3个小时  意外猝死正在悄然酝酿</p>
 <hr />
 <p>这是错误的，正确的写法是（请注意在结尾添加的两个空格）：<br />
-<code>markdown
-  昨天，他只睡了4个小时  
-  前天更是只睡了3个小时  
-  意外猝死正在悄然酝酿</code>
+  <div class="highlight"><pre><span></span><code>昨天，他只睡了4个小时  
+前天更是只睡了3个小时  
+意外猝死正在悄然酝酿  
+</code></pre></div>
   会渲染为：</p>
 <hr />
 <p>昨天，他只睡了4个小时<br />
@@ -671,9 +698,9 @@ FreeODwiki/ ( 文档/ ( 药物分类/ ( 2,5-二甲氧基苯丙胺类物质.md 2,
 <li>无序列表</li>
 <li>有序列表</li>
 </ul>
-<p><code>代码块</code>  </p>
-<pre><code class="language-markdown">多行代码块
-</code></pre>
+<p><code>代码块</code><br />
+<div class="highlight"><pre><span></span><code>多行代码块
+</code></pre></div></p>
 <p>插入图片 <code>![回落文本](链接/目录 “说明文本(可选)”)</code><br />
 <img alt="FreeODwiki.png" src="/FreeODwiki/FreeODwiki.png" /></p>
 <p>超链接 <code>[文本](链接/目录 “说明文本(可选)”)</code><br />
@@ -697,59 +724,59 @@ FreeODwiki/ ( 文档/ ( 药物分类/ ( 2,5-二甲氧基苯丙胺类物质.md 2,
 <p>$支持内嵌\TeX$</p>
 <p style="color:#456789">支持内嵌HTML</p>
 
-<pre><code class="language-markdown">**加粗**  
-*斜体*  
-~~删除线~~  
+<div class="highlight"><pre><span></span><code><span class="gs">**加粗**</span>  
+<span class="ge">*斜体*</span>  
+<span class="gd">~~删除线~~</span>  
 
-# 标题一
-## 标题二
-### 标题三
-#### 标题四
-##### 标题五
-###### 标题六
+<span class="gh"># 标题一</span>
+<span class="gu">## 标题二</span>
+<span class="gu">### 标题三</span>
+<span class="gu">#### 标题四</span>
+<span class="gu">##### 标题五</span>
+<span class="gu">###### 标题六</span>
 
-- 无序列表
-1. 有序列表
+<span class="k">-</span><span class="w"> </span>无序列表
+<span class="k">1.</span> 有序列表
 
-`代码块`:把你想要的文字夹在`中间  
+<span class="sb">`代码块`</span>:把你想要的文字夹在`中间  
 
 
-插入图片 `![回落文本](链接/目录 “说明文本(可选)”)`  
-![FreeODwiki.png](/FreeODwiki/FreeODwiki.png)
+插入图片 <span class="sb">`![回落文本](链接/目录 “说明文本(可选)”)`</span>  
+![<span class="nt">FreeODwiki.png</span>](<span class="na">/FreeODwiki/FreeODwiki.png</span>)
 
-超链接 `[文本](链接/目录 “说明文本(可选)”)`  
-[freeod.wiki](https://freeod.wiki/)  
+超链接 <span class="sb">`[文本](链接/目录 “说明文本(可选)”)`</span>  
+[<span class="nt">freeod.wiki</span>](<span class="na">https://freeod.wiki/</span>)  
 
 相对路径，以home.md为例:[`(./home.md)`](./home.html)
 
-相对路径，进入上一层目录(无法在`CONTRIBUTING.md`中举例):[`(../home.md)`](../home.html) *该语法可叠加，可以返回多层目录以前*
+相对路径，进入上一层目录(无法在`CONTRIBUTING.md`中举例):[`(../home.md)`](../home.html) <span class="ge">*该语法可叠加，可以返回多层目录以前*</span>
 
 链接 &lt;https://freeod.wiki&gt;  
 
 ^上标^  
 ~下标~  
 
-一条线
----
+<span class="gu">一条线</span>
+<span class="gu">---</span>
 如果你不要这个标题二效果上行留空
 
-&gt; 引用
+<span class="k">&gt; </span><span class="ge">引用</span>
 
-&gt; Wiki.js 资讯引用
+<span class="k">&gt; </span><span class="ge">Wiki.js 资讯引用</span>
 {.is-info}
 
-&gt; Wiki.js 成功引用
+<span class="k">&gt; </span><span class="ge">Wiki.js 成功引用</span>
 {.is-success}
 
-&gt; Wiki.js 警告引用
+<span class="k">&gt; </span><span class="ge">Wiki.js 警告引用</span>
 {.is-warning}
 
-&gt; Wiki.js 错误引用
+<span class="k">&gt; </span><span class="ge">Wiki.js 错误引用</span>
 {.is-danger}
 
 $支持内嵌\TeX$
 &lt;p style=&quot;color:#456789&quot;&gt;支持内嵌HTML&lt;/p&gt;
-</code></pre>
+</code></pre></div>
 <p>感谢你的参与，让 FreeODwiki 更加完善！</p>
 
 

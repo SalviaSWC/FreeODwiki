@@ -98,17 +98,17 @@ def start_processing():
         #     renamed += 1
         # else:
         #     status_text.insert(tk.END, f"  ✗ 重命名失败：{msg}\n")
-            # errors += 1
+        #     errors += 1
 
-        # processed += 1
+        processed += 1
         status_text.see(tk.END)
         root.update()
 
     status_text.insert(tk.END, "\n" + "="*60 + "\n")
     status_text.insert(tk.END, f"处理完成！\n")
     status_text.insert(tk.END, f"共处理文件: {processed} 个\n")
-    # status_text.insert(tk.END, f"成功重命名: {renamed} 个\n")
-    # status_text.insert(tk.END, f"发生错误: {errors} 个\n")
+    status_text.insert(tk.END, f"成功重命名: {renamed} 个\n")
+    status_text.insert(tk.END, f"发生错误: {errors} 个\n")
 
 
 def choose_folder():
