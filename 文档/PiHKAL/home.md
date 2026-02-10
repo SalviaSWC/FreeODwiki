@@ -12,7 +12,7 @@
 
 ### 关于此 HTML 版 PiHKAL
 
-这是亚历山大·舒尔金 (Alexander Shulgin) 和安·舒尔金 (Ann Shulgin) 所著《PiHKAL：化学爱情故事》(PiHKAL: A Chemical Love Story) 一书下半部分的在线版本。经作者明确许可在此呈现，旨在尽可能广泛地传播事实信息，并使其在公共领域永久可用。它最初由 [Simson Garfinkle](mailto:simsong@nextworld.com) 转录为 ASCII 码，并由 Lamont Granquist 转换为 HTML。关于 HTML 版本的任何评论或更正应发送至 [Erowid](<mailto:submissions%40erowid.org?subject=pihkal comment>)。如果是通过电子邮件发送给我们，我们也可以将严肃和适当的评论转发给作者。加粗的条目表示自 1991 年以来比其他物质更受欢迎或更容易获得的物质。
+这是亚历山大·舒尔金 (Alexander Shulgin) 和安·舒尔金 (Ann Shulgin) 所著《PiHKAL：一个化学爱情故事》(PiHKAL: A Chemical Love Story) 一书下半部分的在线版本。经作者明确许可在此呈现，旨在尽可能广泛地传播事实信息，并使其在公共领域永久可用。它最初由 [Simson Garfinkle](mailto:simsong@nextworld.com) 转录为 ASCII 码，并由 Lamont Granquist 转换为 HTML。关于 HTML 版本的任何评论或更正应发送至 [Erowid](<mailto:submissions%40erowid.org?subject=pihkal comment>)。如果是通过电子邮件发送给我们，我们也可以将严肃和适当的评论转发给作者。加粗的条目表示自 1991 年以来比其他物质更受欢迎或更容易获得的物质。
 
 ### 订购信息
 
