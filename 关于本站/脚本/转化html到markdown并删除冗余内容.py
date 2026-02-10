@@ -30,7 +30,7 @@ def process_html():
         else:
             cleaned_text = markdown_text.rstrip()
 
-        pattern = "\s.+!\[\]\(images/tihkal_header\.gif\)"
+        pattern = "\s.+!\[\]\(images/pihkal_header\.gif\)"
         final_text = re.sub(pattern, 
                             "",
                             cleaned_text, 
