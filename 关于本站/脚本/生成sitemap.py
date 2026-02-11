@@ -28,9 +28,16 @@ def generate_sitemap(root_dir, base_url):
                 dt = datetime.datetime.fromtimestamp(mtime, tz=datetime.timezone.utc)
                 lastmod = dt.strftime('%Y-%m-%dT%H:%M:%SZ')
 
-                # 计算相对路径（去掉扩展名）
+                # # 计算相对路径（去掉扩展名）
+                # rel_path = os.path.join(rel_dir, filename) if rel_dir else filename
+                # path_no_ext = os.path.splitext(rel_path)[0]
+                # base_name = os.path.basename(path_no_ext).lower()
+
+                # 不去掉扩展名版
                 rel_path = os.path.join(rel_dir, filename) if rel_dir else filename
-                path_no_ext = os.path.splitext(rel_path)[0]
+                if os.path.splitext(rel_path)[1] == ".md": # mkdocs: 做成html
+                    rel_path = os.path.splitext(rel_path)[0] + ".html" 
+                path_no_ext = rel_path
                 base_name = os.path.basename(path_no_ext).lower()
 
                 # 处理首页：home.md / index.md / readme.md → 目录形式
@@ -47,7 +54,8 @@ def generate_sitemap(root_dir, base_url):
                     url_path = path_no_ext.replace(os.sep, '/')
 
                 full_url = base_url.rstrip('/') + '/' + url_path.lstrip('/')
-                full_url = full_url.rstrip('/') + '/'  # 所有目录形式以 / 结尾（包括根）
+                # full_url = full_url.rstrip('/') + '/'  # 所有目录形式以 / 结尾（包括根）
+                full_url = full_url.rstrip('/')
 
                 # priority 和 changefreq 规则
                 if is_root_home:
