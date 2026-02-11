@@ -1,5 +1,5 @@
 ---
-title: FreeODWiki-WEB主页
+title: FreeODWiki|主页
 description: 
 published: 
 date: 2026-02-01T14:32:40.075Z

@@ -5,10 +5,6 @@ from tkinter import ttk, filedialog, messagebox, simpledialog
 # ===================== Front Matter & YAML 简单读写 =====================
 
 def extract_front_matter(text):
-    """
-    从 Markdown 文本中提取 Front Matter（简单版）。
-    返回 (front_dict, body_text, has_front_matter)
-    """
     lines = text.splitlines(keepends=False)
     if len(lines) < 3:
         return {}, text, False
@@ -24,7 +20,6 @@ def extract_front_matter(text):
         yaml_lines.append(lines[i])
 
     if end_index is None:
-        # 没有结束分隔线，当作没有 front matter
         return {}, text, False
 
     front_dict = parse_simple_yaml('\n'.join(yaml_lines))
@@ -34,13 +29,8 @@ def extract_front_matter(text):
 
 
 def build_front_matter(front_dict):
-    """
-    根据字典生成 YAML Front Matter 字符串（带 --- 包裹）。
-    """
     lines = ['---']
     for k, v in front_dict.items():
-        # 简单处理：如果值中包含冒号或换行，此示例不做复杂转义
-        # 只处理最简单的字符串/数字/bool
         if isinstance(v, bool):
             v_str = 'true' if v else 'false'
         else:
@@ -51,11 +41,6 @@ def build_front_matter(front_dict):
 
 
 def parse_simple_yaml(yaml_text):
-    """
-    非严格 YAML 解析，只支持简单的 key: value 行。
-    - 忽略空行和以 # 开头的注释行
-    - 不支持缩进、列表、复杂结构
-    """
     result = {}
     for line in yaml_text.splitlines():
         line = line.strip()
@@ -67,18 +52,15 @@ def parse_simple_yaml(yaml_text):
         key = key.strip()
         value = value.strip()
 
-        # 简单类型推断
         if value.lower() in ('true', 'false'):
             value_parsed = (value.lower() == 'true')
         else:
-            # 尝试转为数字
             try:
                 if '.' in value:
                     value_parsed = float(value)
                 else:
                     value_parsed = int(value)
             except ValueError:
-                # 去掉可能的引号
                 if ((value.startswith('"') and value.endswith('"')) or
                         (value.startswith("'") and value.endswith("'"))):
                     value_parsed = value[1:-1]
@@ -93,17 +75,16 @@ def load_markdown_file(path):
         return f.read()
 
 
-def save_markdown_file(path, front_dict, body_text, has_front_matter):
+def save_markdown_file(path, front_dict, body_text):
     """
-    将 front_dict 写回到文件。如果原本没有 Front Matter，则在开头插入。
+    保存时统一处理：如果 front_dict 不为空，写入 frontmatter（末尾加空行）；
+    如果为空，直接写 body_text（实现删除整个 frontmatter 的效果）。
     """
-    front_block = build_front_matter(front_dict)
-    if has_front_matter:
-        # 已有 front matter，前面的部分被 extract_front_matter 去掉了
-        full_text = front_block + body_text.lstrip('\n')
+    if front_dict:
+        front_block = build_front_matter(front_dict).rstrip('\n')
+        full_text = front_block + '\n\n' + body_text.lstrip('\n')
     else:
-        # 原文件没有 front matter，插入到最前面
-        full_text = front_block + body_text
+        full_text = body_text
     with open(path, 'w', encoding='utf-8') as f:
         f.write(full_text)
 
@@ -115,11 +96,9 @@ class FrontMatterEditorApp:
         self.root = root
         self.root.title("Markdown YAML Front Matter 浏览与批量编辑")
 
-        # 当前浏览目录 & 批量编辑目录
         self.browse_dir = tk.StringVar()
         self.batch_dir = tk.StringVar()
 
-        # 当前选中的文件及内容
         self.current_file_path = None
         self.current_front_dict = {}
         self.current_body_text = ""
@@ -132,14 +111,12 @@ class FrontMatterEditorApp:
         top_frame = tk.Frame(self.root)
         top_frame.pack(fill=tk.X, padx=5, pady=5)
 
-        # 浏览目录
         tk.Label(top_frame, text="浏览目录：").grid(row=0, column=0, sticky="w")
         tk.Entry(top_frame, textvariable=self.browse_dir, width=50)\
             .grid(row=0, column=1, sticky="we", padx=5)
         tk.Button(top_frame, text="选择...", command=self.choose_browse_dir)\
             .grid(row=0, column=2, padx=5)
 
-        # 批量编辑目录
         tk.Label(top_frame, text="批量编辑目录：")\
             .grid(row=1, column=0, sticky="w", pady=(5, 0))
         tk.Entry(top_frame, textvariable=self.batch_dir, width=50)\
@@ -171,18 +148,15 @@ class FrontMatterEditorApp:
         right_frame = tk.Frame(main_pane)
         main_pane.add(right_frame, minsize=300)
 
-        # 当前文件标签
         self.label_current_file = tk.Label(right_frame, text="当前文件：无", anchor="w")
         self.label_current_file.pack(fill=tk.X, padx=5, pady=5)
 
-        # 简单说明
         tk.Label(
             right_frame,
-            text="Front Matter YAML（例如：meta-description, title 等）\n"
+            text="Front Matter YAML（例如：title, description, keywords 等）\n"
                  "只支持简单 key: value，每行一对。"
         ).pack(anchor="w", padx=5)
 
-        # 文本区
         text_frame = tk.Frame(right_frame)
         text_frame.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
 
@@ -210,29 +184,30 @@ class FrontMatterEditorApp:
 
         tk.Button(
             btn_frame,
-            text="批量应用到‘批量编辑目录’内所有 .md",
+            text="批量应用右侧完整 Front Matter",
             command=self.batch_apply_front_matter
         ).pack(side=tk.LEFT, padx=5)
 
-    # ===== 顶部目录选择 =====
+        tk.Button(
+            btn_frame,
+            text="批量设置单个字段（添加/更新/删除）",
+            command=self.batch_set_single_field
+        ).pack(side=tk.LEFT, padx=5)
 
+    # ===== 目录选择 =====
     def choose_browse_dir(self):
         path = filedialog.askdirectory()
-        if not path:
-            return
-        self.browse_dir.set(path)
-        self._build_tree(path)
+        if path:
+            self.browse_dir.set(path)
+            self._build_tree(path)
 
     def choose_batch_dir(self):
         path = filedialog.askdirectory()
-        if not path:
-            return
-        self.batch_dir.set(path)
+        if path:
+            self.batch_dir.set(path)
 
     # ===== 树状目录相关 =====
-
     def _build_tree(self, root_path):
-        # 清空旧内容
         for item in self.tree.get_children():
             self.tree.delete(item)
 
@@ -250,23 +225,19 @@ class FrontMatterEditorApp:
             fullpath = os.path.join(path, name)
             node = self.tree.insert(parent, "end", text=name, values=(fullpath,))
             if os.path.isdir(fullpath):
-                # 加一个“假”子节点用于懒加载
                 self.tree.insert(node, "end", text="...", values=("__dummy__",))
 
     def on_tree_open(self, event):
         node = self.tree.focus()
         if not node:
             return
-        # 懒加载目录的真实内容
         path = self.tree.item(node, "values")[0]
         if not os.path.isdir(path):
             return
         children = self.tree.get_children(node)
-        if len(children) == 1:
-            first_child = children[0]
-            if self.tree.item(first_child, "values")[0] == "__dummy__":
-                self.tree.delete(first_child)
-                self._insert_subitems(node, path)
+        if len(children) == 1 and self.tree.item(children[0], "values")[0] == "__dummy__":
+            self.tree.delete(children[0])
+            self._insert_subitems(node, path)
 
     def on_tree_select(self, event):
         node = self.tree.focus()
@@ -276,17 +247,13 @@ class FrontMatterEditorApp:
         path = self.tree.item(node, "values")[0]
         if not os.path.isfile(path) or not path.lower().endswith(".md"):
             self.current_file_path = None
-            self.current_front_dict = {}
-            self.current_body_text = ""
-            self.current_has_front_matter = False
-            self.label_current_file.config(text=f"当前文件：{path}（非 .md 或非文件）")
+            self.label_current_file.config(text=f"当前文件：{path}（非 .md 或目录）")
             self.text_yaml.delete("1.0", tk.END)
             return
 
         self.load_file(path)
 
     # ===== 文件读取 / 保存 =====
-
     def load_file(self, path):
         try:
             text = load_markdown_file(path)
@@ -303,7 +270,7 @@ class FrontMatterEditorApp:
 
         self.label_current_file.config(text=f"当前文件：{path}")
 
-        # 显示 YAML 文本（简单 key: value）
+        # 显示 YAML
         self.text_yaml.delete("1.0", tk.END)
         lines = []
         for k, v in front_dict.items():
@@ -324,22 +291,16 @@ class FrontMatterEditorApp:
         new_front = parse_simple_yaml(yaml_text)
 
         try:
-            save_markdown_file(
-                self.current_file_path,
-                new_front,
-                self.current_body_text,
-                self.current_has_front_matter
-            )
+            save_markdown_file(self.current_file_path, new_front, self.current_body_text)
         except Exception as e:
             messagebox.showerror("写入失败", f"无法写入文件：\n{self.current_file_path}\n\n错误：{e}")
             return
 
         self.current_front_dict = new_front
-        self.current_has_front_matter = True
+        self.current_has_front_matter = bool(new_front)
         messagebox.showinfo("成功", "当前文件 Front Matter 已保存。")
 
-    # ===== 批量编辑 =====
-
+    # ===== 批量应用右侧完整 Front Matter（原有功能，合并覆盖） =====
     def batch_apply_front_matter(self):
         batch_root = self.batch_dir.get().strip()
         if not batch_root:
@@ -353,7 +314,7 @@ class FrontMatterEditorApp:
             if not messagebox.askyesno(
                 "确认",
                 "右侧 Front Matter 区域为空。\n"
-                "继续执行不会删除原有 Front Matter，只是不做任何字段更新。\n\n确认继续？"
+                "继续执行不会删除原有字段，只是不更新任何内容。\n\n确认继续？"
             ):
                 return
 
@@ -367,13 +328,12 @@ class FrontMatterEditorApp:
                 fpath = os.path.join(root_dir, name)
                 try:
                     text = load_markdown_file(fpath)
-                    old_front, body, has_fm = extract_front_matter(text)
+                    old_front, body, _ = extract_front_matter(text)
 
-                    # 合并：同名键被覆盖，其他键保留
                     new_front = dict(old_front)
                     new_front.update(batch_front)
 
-                    save_markdown_file(fpath, new_front, body, has_fm or bool(new_front))
+                    save_markdown_file(fpath, new_front, body)
                     count += 1
                 except Exception as e:
                     errors.append(f"{fpath}: {e}")
@@ -384,7 +344,103 @@ class FrontMatterEditorApp:
         messagebox.showinfo("批量编辑完成", msg)
 
         if errors:
-            # 可选：输出错误详情
+            detail = "\n".join(errors[:30])
+            messagebox.showwarning("部分文件出错（前 30 条）", detail)
+
+    # ===== 新增：批量设置单个字段（添加/更新/删除） =====
+    def batch_set_single_field(self):
+        batch_root = self.batch_dir.get().strip()
+        if not batch_root:
+            messagebox.showinfo("提示", "请先选择批量编辑目录。")
+            return
+
+        dialog = tk.Toplevel(self.root)
+        dialog.title("批量设置单个字段")
+        dialog.transient(self.root)
+        dialog.grab_set()
+        dialog.geometry("600x400")
+
+        tk.Label(dialog, text="字段名（key，例如 description、keywords）：").pack(anchor="w", padx=20, pady=(20,5))
+        entry_key = tk.Entry(dialog, width=70)
+        entry_key.pack(padx=20, fill="x")
+
+        tk.Label(dialog, text="新值（value，留空表示删除该字段）：").pack(anchor="w", padx=20, pady=(15,5))
+        text_value = tk.Text(dialog, height=12)
+        text_value.pack(padx=20, fill="both", expand=True)
+
+        def on_ok():
+            key = entry_key.get().strip()
+            if not key:
+                messagebox.showerror("错误", "字段名不能为空！")
+                return
+            value = text_value.get("1.0", tk.END).strip()
+
+            dialog.destroy()
+            self._perform_batch_single(key, value)
+
+        def on_cancel():
+            dialog.destroy()
+
+        btn_frame = tk.Frame(dialog)
+        btn_frame.pack(pady=20)
+        tk.Button(btn_frame, text="确定", width=12, command=on_ok).pack(side=tk.LEFT, padx=20)
+        tk.Button(btn_frame, text="取消", width=12, command=on_cancel).pack(side=tk.LEFT, padx=20)
+
+    def _perform_batch_single(self, key, value):
+        batch_root = self.batch_dir.get().strip()
+        delete_mode = (value == "")
+
+        if delete_mode:
+            if not messagebox.askyesno("确认删除", f"将从所有文件中删除字段 '{key}'（如果存在）。\n确认继续？"):
+                return
+
+        count_processed = 0
+        count_updated = 0
+        count_deleted = 0
+        errors = []
+
+        for root_dir, _, files in os.walk(batch_root):
+            for name in files:
+                if not name.lower().endswith(".md"):
+                    continue
+                fpath = os.path.join(root_dir, name)
+                try:
+                    text = load_markdown_file(fpath)
+                    old_front, body, has_fm = extract_front_matter(text)
+
+                    new_front = dict(old_front)
+                    changed = False
+
+                    if delete_mode:
+                        if key in new_front:
+                            del new_front[key]
+                            changed = True
+                            count_deleted += 1
+                    else:
+                        old_val = new_front.get(key)
+                        if old_val != value:
+                            new_front[key] = value
+                            changed = True
+                            count_updated += 1
+
+                    # 只有真正发生变化或 frontmatter 存在状态改变时才写入
+                    if changed or (bool(new_front) != has_fm):
+                        save_markdown_file(fpath, new_front, body)
+
+                    count_processed += 1
+                except Exception as e:
+                    errors.append(f"{fpath}: {e}")
+
+        msg = f"批量单个字段处理完成，共处理 {count_processed} 个 .md 文件。\n"
+        if not delete_mode:
+            msg += f"其中 {count_updated} 个文件被更新/添加字段 '{key}'。"
+        else:
+            msg += f"其中 {count_deleted} 个文件删除了字段 '{key}'。"
+        if errors:
+            msg += f"\n其中 {len(errors)} 个文件出错。"
+        messagebox.showinfo("完成", msg)
+
+        if errors:
             detail = "\n".join(errors[:30])
             messagebox.showwarning("部分文件出错（前 30 条）", detail)
 

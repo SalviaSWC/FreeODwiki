@@ -103,12 +103,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freeodwiki.org/关于本站/脚本/tmp.html</loc>
-    <lastmod>2026-02-11T15:03:38Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://freeodwiki.org/报告.html</loc>
     <lastmod>2026-02-11T11:39:28Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,7 +260,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/报告/home.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-11T19:13:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

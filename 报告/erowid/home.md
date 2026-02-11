@@ -1,5 +1,5 @@
 ---
-title: home
+title: Erowid报告索引
 description: 
 published: true
 date: 2026-01-30T09:49:54.802Z

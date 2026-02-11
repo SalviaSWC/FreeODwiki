@@ -1,5 +1,5 @@
 ---
-title: home
+title: 社会学索引
 description: 
 published: true
 date: 2026-01-30T10:29:17.375Z

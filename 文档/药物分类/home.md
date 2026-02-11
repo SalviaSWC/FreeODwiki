@@ -1,5 +1,5 @@
 ---
-title: home
+title: 药物分类
 description: 
 published: true
 date: 2026-01-30T10:34:45.838Z
