@@ -102,6 +102,7 @@ class DirectoryTreeApp:
 
         tk.Label(input_frame, text="忽略关键词（多个用 & 分隔，包含即忽略，忽略大小写）:").grid(row=1, column=0, sticky=tk.W, pady=5)
         self.keyword_var = tk.StringVar()
+        self.keyword_var.set("个人文件夹&报告&补档&脚本&药物应对措施&精神药理学&社会学&文件&.github&PiHKAL&TiHKAL&右美沙芬FAQ")
         tk.Entry(input_frame, textvariable=self.keyword_var, width=60).grid(row=1, column=1, padx=5, columnspan=2, sticky=tk.W+tk.E)
 
         tk.Button(input_frame, text="生成括号式文件树", command=self.generate_tree, bg="#4CAF50", fg="white", font=("Arial", 10, "bold")).grid(row=2, column=0, columnspan=3, pady=10)
