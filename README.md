@@ -1,24 +1,22 @@
 ---
-title: FreeODWiki-主页
+title: FreeODWiki-WEB主页
 description: 
-published: true
+published: 
 date: 2026-02-01T14:32:40.075Z
 tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
 editor: markdown
 dateCreated: 2026-01-31T16:15:16.121Z
 ---
-
 # FreeODWiki——可自由编辑的开源OD百科
 <mark>**愿每一个人都能够自由地获取、共享信息和知识，特别是与OD有关的**
 
 FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)。
 
+点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点.
 
-点此前往[freeodwiki.org](https://freeodwiki.org/) *FreeODwiki的网络站点*。
+点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) 我们的源仓库，star一下会支持我们前进喵！
 
-点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) *我们的源仓库，star一下会支持我们前进喵！*
-
-**最近FreeOD.wiki服务器不稳定，若浏览异常建议[前往Github](https://github.com/SalviaSWC/FreeODwiki)浏览本站**——批注于2026年2月7日
+**[freeod.wiki](https://freeod.wiki)的自动脚本似乎无法正常运行，该站点将无法接收Github的更新**——批注于2026年2月11日
 
 >我们站点的内容目前已经相当充实了，但是肯定还存在一些欠缺的部分，比如站内不少链接是错误的，以及部分图像资源存在无法加载的问题。
 >
