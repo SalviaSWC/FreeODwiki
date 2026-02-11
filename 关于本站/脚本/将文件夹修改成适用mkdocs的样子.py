@@ -18,11 +18,12 @@ def process_markdown_file(filepath: Path, prefix: str) -> tuple[bool, str]:
 
     # 第一步：把 ](/* 替换成 ](/{prefix}/
     # 匹配 ]( 开头，后面跟着 / 的情况（不包括 http/https 开头的外部链接）
-    content = re.sub(
-        r'\]\(\s*/([^)]*?)\)',
-        lambda m: f'](/{prefix}/{m.group(1)})',
-        content
-    )
+    if prefix:
+        content = re.sub(
+            r'\]\(\s*/([^)]*?)\)',
+            lambda m: f'](/{prefix}/{m.group(1)})',
+            content
+        )
 
     # 第二步：把链接中的 .md 替换成 .html
     # 匹配 ](...xxx.md) 或 ](...xxx.md#anchor) 这样的模式
