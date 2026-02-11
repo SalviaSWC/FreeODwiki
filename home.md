@@ -11,7 +11,9 @@ dateCreated: 2026-01-31T16:15:16.121Z
 # FreeODWiki——可自由编辑的开源OD百科
 <mark>**愿每一个人都能够自由地获取、共享信息和知识，特别是与OD有关的**
 
-点此前往[FreeOD.wiki](https://freeod.wiki/) *FreeODwiki的网络站点，开放邮箱、GitHub、GooGle注册*。
+FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)。
+
+点此前往[freeodwiki.org](https://freeodwiki.org/) *FreeODwiki的网络站点*。
 
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) *我们的源仓库，star一下会支持我们前进喵！*
 
