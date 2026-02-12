@@ -184,7 +184,7 @@ def process_src_folder(src_path: Path):
     processed = 0
     for md_file in md_files:
         rel_path = md_file.relative_to(dest_dir)
-        print(f"处理文件: {rel_path}")
+        # print(f"处理文件: {rel_path}")
 
         # 步骤1：移除死链接（图片删除、文本保留文字）
         ok, msg = remove_dead_links_in_file(md_file, src_path)
