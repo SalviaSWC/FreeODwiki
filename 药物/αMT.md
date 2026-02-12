@@ -1,11 +1,6 @@
 ---
 title: αMT
 description: 
-published: true
-date: 2026-02-01T05:38:29.353Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-31T16:34:34.315Z
 ---
 
 # αMT

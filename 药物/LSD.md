@@ -1,16 +1,7 @@
 ---
 title: LSD
 description: 
-published: true
-date: 2026-01-30T09:31:58.999Z
-tags: translated_from_psychonautwiki,freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、吸毒、毒品等话题的项目。
-editor: markdown
-dateCreated: 2026-01-30T05:55:36.107Z
 ---
-
-
-
-
 
 >
 > 《主播女孩重度依赖》中糖糖吃的魔法邮票，似乎在o圈有至少一个已确认的击杀记录

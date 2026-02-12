@@ -1,11 +1,6 @@
 ---
 title: Overdose引论 | OverdoseWiki
 description: 
-published: true
-date: 2026-01-30T10:39:40.786Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:18:23.653Z
 ---
 
 # Overdose引论^*开始的一切*^

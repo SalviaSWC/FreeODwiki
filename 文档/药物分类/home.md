@@ -1,11 +1,6 @@
 ---
 title: 药物分类
 description: 
-published: true
-date: 2026-01-30T10:34:45.838Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T06:15:16.706Z
 ---
 
 # 药物分类

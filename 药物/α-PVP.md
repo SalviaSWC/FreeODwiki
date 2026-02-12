@@ -1,11 +1,6 @@
 ---
 title: α-PVP
 description: 
-published: true
-date: 2026-01-30T09:36:49.462Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:56:48.513Z
 ---
 
 [◀返回](/药物/home.md)

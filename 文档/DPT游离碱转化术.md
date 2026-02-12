@@ -1,11 +1,6 @@
 ---
 title: DPT游离碱转化术
 description: 
-published: true
-date: 2026-01-30T08:42:16.191Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:43:57.180Z
 ---
 
 [◀返回](/文档/home.md)

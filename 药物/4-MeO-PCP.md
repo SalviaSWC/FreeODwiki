@@ -1,11 +1,6 @@
 ---
 title: 4-MeO-PCP
 description: 
-published: true
-date: 2026-01-30T09:21:03.069Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:54:11.474Z
 ---
 
 [◀返回](/药物/home.md)

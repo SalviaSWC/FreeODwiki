@@ -1,11 +1,6 @@
 ---
 title: noopept
 description: 
-published: true
-date: 2026-01-30T09:36:32.106Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:56:41.086Z
 ---
 
 [◀返回](/药物/home.md)

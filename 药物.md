@@ -1,12 +1,8 @@
 ---
 title: 药物
 description: 药物快速索引
-published: true
-date: 2026-01-30T09:36:13.780Z
-tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
-editor: markdown
-dateCreated: 2026-01-30T05:56:34.062Z
 ---
+
 [返回主页](/home.md)
 # 药物索引
 

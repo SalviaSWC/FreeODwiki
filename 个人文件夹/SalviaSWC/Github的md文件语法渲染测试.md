@@ -1,11 +1,6 @@
 ---
 title: Github的md文件语法渲染测试
 description: 
-published: true
-date: 2026-01-30T10:39:13.631Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:17:54.098Z
 ---
 
 `**加粗**` 效果: **加粗** 
@@ -149,5 +144,3 @@ dateCreated: 2026-01-30T06:17:54.098Z
 
 删除线： `~~删除线~~` 效果: ~~删除线~~
 结论：可以使用。
-
-

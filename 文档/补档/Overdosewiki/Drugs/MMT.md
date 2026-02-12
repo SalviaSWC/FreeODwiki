@@ -1,11 +1,6 @@
 ---
 title: 美金刚 | OverdoseWiki
 description: 
-published: true
-date: 2026-01-30T10:41:53.713Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:19:59.579Z
 ---
 
 # 美金刚^*精神分裂（外部幻觉）、解离、谵妄*^

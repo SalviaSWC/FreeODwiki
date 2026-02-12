@@ -1,11 +1,6 @@
 ---
 title: 报告5-多个药物 | OverdoseWiki
 description: 
-published: true
-date: 2026-01-30T10:45:30.362Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:23:56.005Z
 ---
 
 # 报告5-多个药物 | OverdoseWiki

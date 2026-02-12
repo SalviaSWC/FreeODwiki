@@ -1,11 +1,6 @@
 ---
 title: 4F-MPH
 description: 
-published: true
-date: 2026-01-30T09:21:31.678Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:54:15.107Z
 ---
 
 [◀返回](/药物/home.md)

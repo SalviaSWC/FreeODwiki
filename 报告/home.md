@@ -1,12 +1,8 @@
 ---
 title: 报告
 description: 
-published: true
-date: 2026-01-30T07:57:50.332Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T05:36:59.618Z
 ---
+
 [返回主页](/home.md)
 <!-- 操你妈爱德华你知道Markdown要怎么换行吗？一个个报告全都连在一起要我帮你打Enter吗？ -->
 <!-- 老子用的网页端解析器和你他妈的github解析器不一样，以后在前面加-前缀好了  -->

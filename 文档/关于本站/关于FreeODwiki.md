@@ -1,11 +1,6 @@
 ---
 title: 关于FreeODwiki
 description: 
-published: true
-date: 2026-01-30T10:28:48.392Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:13:58.289Z
 ---
 
 [◀返回](/文档/home.md)
@@ -27,4 +22,3 @@ dateCreated: 2026-01-30T06:13:58.289Z
  - 本站不是严肃的医学站点
  - 本站不是提倡以危险的方式使用药物或不负责任地对待自己的健康的站点
  - 本站不是信口开河，灌输道德理念的站点
-

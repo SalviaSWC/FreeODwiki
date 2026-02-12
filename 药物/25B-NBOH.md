@@ -1,11 +1,6 @@
 ---
 title: 25B-NBOH
 description: 
-published: true
-date: 2026-02-01T05:35:41.286Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-31T16:31:28.331Z
 ---
 
 [◀返回](/药物/home.md)

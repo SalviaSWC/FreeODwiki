@@ -1,11 +1,6 @@
 ---
 title: MDMA
 description: 
-published: true
-date: 2026-01-30T09:34:03.794Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:55:52.810Z
 ---
 
 [◀返回](/药物/home.md)

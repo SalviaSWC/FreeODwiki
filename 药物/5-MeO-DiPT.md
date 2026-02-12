@@ -1,11 +1,6 @@
 ---
 title: 5-MeO-DiPT
 description: 
-published: true
-date: 2026-01-30T09:23:45.197Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:54:32.842Z
 ---
 
 [◀返回](/药物/home.md)

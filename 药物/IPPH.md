@@ -1,11 +1,6 @@
 ---
 title: IPPH
 description: 
-published: true
-date: 2026-01-30T09:30:36.480Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:55:27.717Z
 ---
 
 [◀返回](./home.md)

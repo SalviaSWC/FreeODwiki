@@ -1,11 +1,6 @@
 ---
 title: 25I-NBOMe
 description: 
-published: true
-date: 2026-01-30T09:14:22.690Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:53:20.967Z
 ---
 
 [◀返回](/药物/home.md)

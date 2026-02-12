@@ -1,11 +1,6 @@
 ---
 title: 托莫西汀 | OverdoseWiki
 description: 
-published: true
-date: 2026-01-30T10:42:59.856Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:20:54.007Z
 ---
 
 # 托莫西汀^*抗ADHD、兴奋*^

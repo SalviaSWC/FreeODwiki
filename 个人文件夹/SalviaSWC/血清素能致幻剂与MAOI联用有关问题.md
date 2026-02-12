@@ -1,11 +1,6 @@
 ---
 title: 血清素能致幻剂与MAOI联用有关问题
 description: 
-published: true
-date: 2026-01-30T10:39:24.572Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:18:00.708Z
 ---
 
 这需要考虑致幻剂自身是否被MAO代谢阿，如果会被代谢(DMT之类的)，那很可能是有效的

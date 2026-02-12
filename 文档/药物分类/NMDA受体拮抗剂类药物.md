@@ -1,11 +1,6 @@
 ---
 title: NMDA受体拮抗剂类药物
 description: 
-published: true
-date: 2026-01-30T10:34:40.288Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T06:15:13.262Z
 ---
 
 [◀返回](/文档/药物分类/home.md)

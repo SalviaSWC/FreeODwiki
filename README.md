@@ -1,12 +1,8 @@
 ---
 title: FreeODWiki|主页
 description: 
-published: 
-date: 2026-02-01T14:32:40.075Z
-tags: freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的项目。
-editor: markdown
-dateCreated: 
 ---
+
 # FreeODWiki——可自由编辑的开源OD百科
 <mark>**愿每一个人都能够自由地获取、共享信息和知识，特别是与OD有关的**
 

@@ -15,9 +15,9 @@ url = r"https://freeodwiki.org"
 生成sitemap.generate_sitemap(source_dir, url)
 
 mkdocs_yml = r"""
-site_name: FreeODwiki——可自由编辑的开源OD(即overdose)百科 
+site_name: FreeODwiki——可自由编辑的开源Overdose百科 
 site_url: https://freeodwiki.org
-site_description: FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关OD(即overdose)和精神活性物质的信息，并在减少上述事物造成的伤害的同时，为上述事物提供一个去污名化的视角。  # 站点描述
+site_description: FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。  # 站点描述
 docs_dir: D:\servers\freeodwiki\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
 site_dir: D:\servers\freeodwiki\site
 nav:  # 可选：自定义导航菜单，根据你的文件结构调整

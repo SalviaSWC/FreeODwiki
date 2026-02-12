@@ -1,11 +1,6 @@
 ---
 title: Alpha-GPC
 description: 
-published: true
-date: 2026-01-30T09:25:04.792Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:54:44.853Z
 ---
 
 [◀返回](/药物/home.md)

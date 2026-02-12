@@ -1,11 +1,6 @@
 ---
 title: DOC
 description: 
-published: true
-date: 2026-01-30T09:26:35.177Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:54:56.222Z
 ---
 
 [◀返回](/药物/home.md)

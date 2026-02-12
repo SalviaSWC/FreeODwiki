@@ -1,12 +1,8 @@
 ---
 title: 主观效应索引
 description: 
-published: true
-date: 2026-01-30T08:52:56.442Z
-tags: translated_from_psychonautwiki,freeodwiki是一个以开源共享为宗旨，提供有关od、overdose、药物滥用、吸毒、毒品等话题的项目。
-editor: markdown
-dateCreated: 2026-01-30T05:47:52.071Z
 ---
+
 [返回主页](/home.md)
 
 # 主观效应索引

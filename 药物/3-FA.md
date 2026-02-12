@@ -1,11 +1,6 @@
 ---
 title: 3-FA
 description: 
-published: true
-date: 2026-01-30T09:17:31.476Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:53:44.130Z
 ---
 
 [◀返回](/药物/home.md)

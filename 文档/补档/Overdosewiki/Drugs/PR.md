@@ -1,11 +1,6 @@
 ---
 title: 普瑞巴林 | OverdoseWiki
 description: 
-published: true
-date: 2026-01-30T10:42:23.049Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T06:20:23.651Z
 ---
 
 # 普瑞巴林^*焦虑去除、解离、抗躁狂、GABA镇静*^

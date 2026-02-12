@@ -1,11 +1,6 @@
 ---
 title: N-苄基苯乙胺类物质
 description: 
-published: true
-date: 2026-01-30T10:34:24.576Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T06:15:09.157Z
 ---
 
 [◀返回](/文档/药物分类/home.md)

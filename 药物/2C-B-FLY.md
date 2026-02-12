@@ -1,11 +1,6 @@
 ---
 title: 2C-B-FLY
 description: 
-published: true
-date: 2026-01-30T09:14:53.772Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:53:24.962Z
 ---
 
 [◀返回](/药物/home.md)

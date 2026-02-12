@@ -1,11 +1,6 @@
 ---
 title: MDPV
 description: 
-published: true
-date: 2026-01-30T09:34:43.699Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-30T05:55:58.444Z
 ---
 
 [◀返回](/药物/home.md)

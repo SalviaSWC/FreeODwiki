@@ -1,11 +1,6 @@
 ---
 title: 4-KETO-PCP肌注测试
 description: 
-published: true
-date: 2026-01-30T07:57:18.465Z
-tags: freeodwiki是一个开源项目，提供有关od、overdose、药物滥用、药物过量、吸毒、毒品、禁毒等话题的知识。
-editor: markdown
-dateCreated: 2026-01-30T05:36:45.729Z
 ---
 
 **[◀返回报告](./home.md)** 
@@ -33,4 +28,3 @@ dateCreated: 2026-01-30T05:36:45.729Z
 报告者：镜音 @jingyinhequan<br> 
 体重57kg 基础病为癫痫史<br> 
 测试于2025.12.18
-
