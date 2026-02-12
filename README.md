@@ -1,5 +1,5 @@
 ---
-title: FreeODWiki|主页
+title: FreeODWiki主页
 description: 
 ---
 
