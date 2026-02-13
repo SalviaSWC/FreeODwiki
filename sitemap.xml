@@ -85,24 +85,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freeodwiki.org/全文档-清理链接版.html</loc>
-    <lastmod>2026-02-13T08:15:42Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://freeodwiki.org/全文档清理链接版 - 色胺.html</loc>
-    <lastmod>2026-02-13T08:51:26Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://freeodwiki.org/全文档清理链接版.html</loc>
-    <lastmod>2026-02-13T07:20:03Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://freeodwiki.org/关于本站.html</loc>
     <lastmod>2026-02-12T06:43:35Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -3188,7 +3170,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/home.html</loc>
-    <lastmod>2026-02-12T20:35:56Z</lastmod>
+    <lastmod>2026-02-13T09:07:17Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

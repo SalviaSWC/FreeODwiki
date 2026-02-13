@@ -2,7 +2,9 @@
 title: 我见识过和爱过的苯乙胺物质们一个化学爱情故事
 ---
 
-[返回](/文档/home.md)
+[◀返回](/文档/home.md) 
+
+[FreeODwiki中文版下载链接](/文件/我见识过和爱过的苯乙胺物质们：一个化学爱情故事%20-%20FreeODwiki版.pdf)
 
 |![](/文档/PiHKAL/pihkal.jpg) | 我见识过和爱过的[苯乙胺类物质们](/文档/药物分类/苯乙胺类物质.md)：一个化学爱情故事 <br>亚历山大·舒尔金与安·舒尔金 著<br>[SalviaSWC](x.com/salviaswc) 译<br>于[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki)发布|
 | -- | -- |

@@ -130,6 +130,8 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
         target = resolve_target_path(filepath, link, docs_root)
         if target is None:  # 外部链接，保留
             return match.group(0)
+        if target.suffix == ".pdf":
+            return match.group(0)
         if target.exists():
             return match.group(0)  # 存在，保留
         # 不存在 → 只保留文字，去除链接
