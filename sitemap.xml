@@ -8,13 +8,13 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/CONTRIBUTING.html</loc>
-    <lastmod>2026-02-12T16:34:06Z</lastmod>
+    <lastmod>2026-02-12T16:51:40Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/README.html</loc>
-    <lastmod>2026-02-12T14:32:16Z</lastmod>
+    <lastmod>2026-02-13T05:43:51Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -81,6 +81,24 @@
   <url>
     <loc>https://freeodwiki.org/个人文件夹/SalviaSWC/血清素能致幻剂与MAOI联用有关问题.html</loc>
     <lastmod>2026-02-12T06:43:35Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/全文档-清理链接版.html</loc>
+    <lastmod>2026-02-13T08:15:42Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/全文档清理链接版 - 色胺.html</loc>
+    <lastmod>2026-02-13T08:51:26Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/全文档清理链接版.html</loc>
+    <lastmod>2026-02-13T07:20:03Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -254,7 +272,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/报告/home.html</loc>
-    <lastmod>2026-02-12T07:35:27Z</lastmod>
+    <lastmod>2026-02-12T20:36:16Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1717,98 +1735,86 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freeodwiki.org/文档/PiHKAL/PiHKAL104.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://freeodwiki.org/文档/PiHKAL/PiHKAL117.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/home.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T08:43:52Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal001.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal002.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal003.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal004.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal005.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal006.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal007.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal008.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:50Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal009.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:50Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal010.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:50Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal011.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:50Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal012.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:50Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal013.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:50Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1850,55 +1856,55 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal020.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal021.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal022.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal023.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal024.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal025.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal026.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal027.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal028.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1916,7 +1922,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal031.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1940,7 +1946,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal035.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1952,7 +1958,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal037.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1964,7 +1970,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal039.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1982,7 +1988,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal042.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1994,13 +2000,13 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal044.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal045.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2012,19 +2018,19 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal047.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal048.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal049.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2084,25 +2090,25 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal059.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:57:58Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal060.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal061.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal062.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2126,73 +2132,73 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal066.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal067.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal068.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal069.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal070.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal071.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal072.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal073.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal074.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal075.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal076.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal077.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2204,43 +2210,43 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal079.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal080.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal081.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal082.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal083.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal084.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal085.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2258,96 +2264,102 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal088.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal089.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal090.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal091.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:18:23Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal092.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:18:26Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal093.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:18:29Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal094.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal095.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal096.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal097.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal098.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal099.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal100.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:46Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal101.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:46Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal102.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal103.html</loc>
+    <lastmod>2026-02-13T07:03:46Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/文档/PiHKAL/pihkal104.html</loc>
     <lastmod>2026-02-10T15:59:55Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2408,157 +2420,163 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal114.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:46Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal115.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:46Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal116.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/文档/PiHKAL/pihkal117.html</loc>
+    <lastmod>2026-02-13T07:04:37Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal118.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal119.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:46Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal120.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal121.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal122.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal123.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal124.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal125.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal126.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal127.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal128.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal129.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal130.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:47Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal131.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal132.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal133.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal134.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal135.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:47Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal136.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:47Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal137.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal138.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal139.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal140.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:46Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2594,7 +2612,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal146.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T06:50:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2660,19 +2678,19 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal157.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:47Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal158.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:04:09Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal159.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:47Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2774,25 +2792,25 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal176.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal177.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal178.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:47Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/PiHKAL/pihkal179.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T07:03:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2828,7 +2846,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/TiHKAL/home.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-13T08:44:01Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3170,7 +3188,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/home.html</loc>
-    <lastmod>2026-02-12T06:43:36Z</lastmod>
+    <lastmod>2026-02-12T20:35:56Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3314,115 +3332,115 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dcm_refs.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:05Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_ack.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:13Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_appendices.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:29Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_chemistry.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:32Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_culture.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:35Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_experience.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:38Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_experiences.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:38:26Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_faq.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:38:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_general_info.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:38:30Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_glossary.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_mixing.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:38:39Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_most.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:38:50Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_neuropharm.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:40:35Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_paranormal.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:54Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_physiological.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:39:58Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_preliminary.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:40:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_quickfaq.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:40:24Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_refs.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:40:27Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/右美沙芬FAQ/dxm_side_effects.html</loc>
-    <lastmod>2026-02-10T15:59:55Z</lastmod>
+    <lastmod>2026-02-12T20:40:33Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5390,7 +5408,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/镇静剂.html</loc>
-    <lastmod>2026-02-12T06:43:37Z</lastmod>
+    <lastmod>2026-02-13T08:23:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5414,7 +5432,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药效/home.html</loc>
-    <lastmod>2026-02-12T06:43:38Z</lastmod>
+    <lastmod>2026-02-12T20:35:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6986,7 +7004,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/2C-D.html</loc>
-    <lastmod>2026-02-11T08:02:11Z</lastmod>
+    <lastmod>2026-02-12T17:19:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7028,7 +7046,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/3-Cl-PCP.html</loc>
-    <lastmod>2026-02-11T08:09:05Z</lastmod>
+    <lastmod>2026-02-12T17:20:14Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7040,7 +7058,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/3-FMA.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-12T17:20:47Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7052,13 +7070,13 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/3-HO-PCE.html</loc>
-    <lastmod>2026-02-11T08:07:04Z</lastmod>
+    <lastmod>2026-02-12T17:20:54Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/3-HO-PCP.html</loc>
-    <lastmod>2026-02-11T08:05:27Z</lastmod>
+    <lastmod>2026-02-12T17:21:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7106,7 +7124,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/4-AcO-MiPT.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-12T17:21:10Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7118,7 +7136,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/4-FMA.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-12T17:21:17Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7148,7 +7166,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/4F-EPH.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-12T17:21:24Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7460,7 +7478,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/home.html</loc>
-    <lastmod>2026-02-12T14:31:58Z</lastmod>
+    <lastmod>2026-02-12T20:35:31Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7922,7 +7940,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/甲基苯丙胺.html</loc>
-    <lastmod>2026-02-12T06:43:39Z</lastmod>
+    <lastmod>2026-02-13T08:22:55Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

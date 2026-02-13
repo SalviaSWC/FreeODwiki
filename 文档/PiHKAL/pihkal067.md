@@ -1,4 +1,4 @@
-# 67.[DOI](/药物/DOI.md)
+# 67 [DOI](/药物/DOI.md)
 [上一个](/文档/PiHKAL/pihkal066.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal068.md)
 
 **2,5-二甲氧基-4-碘苯丙胺**

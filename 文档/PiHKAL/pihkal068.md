@@ -1,4 +1,4 @@
-# 68.[DOM](/药物/DOM.md)
+# 68 [DOM](/药物/DOM.md)
 [上一个](/文档/PiHKAL/pihkal067.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal069.md)
 
 **STP; 2,5-二甲氧基-4-甲基苯丙胺**

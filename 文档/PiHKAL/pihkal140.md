@@ -1,4 +1,4 @@
-# 140. [P](/药物/P.md)
+# 140 [P](/药物/P.md)
 
 **PROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE (丙氧基麦斯卡林；3,5-二甲氧基-4-(n)-丙氧基苯乙胺)**
 

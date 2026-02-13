@@ -1,5 +1,5 @@
 [上一个](/文档/PiHKAL/pihkal121.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal123.md)
-# 122. [MEM](/药物/MEM.md)
+# 122 [MEM](/药物/MEM.md)
 
 **2,5-二甲氧基-4-乙氧基苯丙胺**
 

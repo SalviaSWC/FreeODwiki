@@ -2,7 +2,7 @@
 
 [上一个](/文档/PiHKAL/pihkal118.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal120.md)
 
-# 119.[ME](/药物/ME.md)
+# 119 [ME](/药物/ME.md)
 
 **间艾司卡林；3,4-二甲氧基-5-乙氧基苯乙胺**
 

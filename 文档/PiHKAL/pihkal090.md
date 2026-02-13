@@ -1,4 +1,4 @@
-# 90.[IDNNA](/药物/IDNNA.md)
+# 90 [IDNNA](/药物/IDNNA.md)
 [上一个](/文档/PiHKAL/pihkal089.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal091.md)
 
 **2,5-二甲氧基-N,N-二甲基-4-碘苯丙胺**

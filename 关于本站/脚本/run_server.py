@@ -20,19 +20,10 @@ site_url: https://freeodwiki.org
 site_description: FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。  # 站点描述
 docs_dir: D:\servers\freeodwiki\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
 site_dir: D:\servers\freeodwiki\site
-# nav:  # 可选：自定义导航菜单，根据你的文件结构调整
-#   - 主页 : home.md
-#   - 💊药物索引 : 药物/home.md
-#   - 🧠药效索引 : 药效/home.md
-#   - ✏️报告索引 : 报告/home.md
-#   - 📚文档索引 : 文档/home.md
-#   - 专题药物 :
-#     - 右美沙芬 : 药物/右美沙芬.md
 theme: 
   name: material  
-  features :
-    - navigation.sections
-    # - navigation.expand
+#   features :
+#     - navigation.sections
 use_directory_urls: false
 markdown_extensions:
   - admonition
@@ -45,8 +36,11 @@ plugins:
 
 """
 
+
 with open(dest_dir + "\mkdocs.yml", mode="w", encoding="utf-8") as f:
     f.write(mkdocs_yml)
+
+
 
 def remove_readonly(func, path, exc_info):
     """当遇到权限问题时，去掉只读属性再重试"""

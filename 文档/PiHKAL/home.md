@@ -1,6 +1,10 @@
+---
+title: 我见识过和爱过的苯乙胺物质们一个化学爱情故事
+---
+
 [返回](/文档/home.md)
 
-|![](/文档/PiHKAL/pihkal.jpg) | 我见识过和爱过的[苯乙胺类物质们](/文档/药物分类/苯乙胺类物质.md)：一个化学爱情故事 亚历山大·舒尔金与安·舒尔金 著|
+|![](/文档/PiHKAL/pihkal.jpg) | 我见识过和爱过的[苯乙胺类物质们](/文档/药物分类/苯乙胺类物质.md)：一个化学爱情故事 <br>亚历山大·舒尔金与安·舒尔金 著<br>[SalviaSWC](x.com/salviaswc) 译<br>于[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki)发布|
 | -- | -- |
 
 > **phen\-ethyl\-amine** \\fen\-'eth\-al\-a\-,men\\ 名词 \[*phenyl* 源自法语 phène, 源自希腊语 phainein, 显示 (因其出现在照明气体中)\+ ethyl ( \+ *yl*) \+ amine 源自新拉丁语 ammonia\] 1: 一种在动物界和植物界均天然存在的化合物。它是人脑的一种内源性成分。 2: 任何含苯乙胺骨架，并在分子适当位置由化学成分修饰的一系列化合物。

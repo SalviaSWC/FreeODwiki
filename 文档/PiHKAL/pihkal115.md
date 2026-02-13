@@ -1,5 +1,5 @@
 
-# 115.[MDPEA](/药物/MDPEA.md)
+# 115 [MDPEA](/药物/MDPEA.md)
 
 [上一个](/文档/PiHKAL/pihkal114.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal116.md)
 

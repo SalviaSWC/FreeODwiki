@@ -1,4 +1,4 @@
-# 137. [MP](/药物/MP.md)
+# 137 [MP](/药物/MP.md)
 
 **METAPROSCALINE; 3,4-DIMETHOXY-5-(n)-PROPOXYPHENETHYLAMINE (间丙氧基麦斯卡林；3,4-二甲氧基-5-(n)-丙氧基苯乙胺)**
 

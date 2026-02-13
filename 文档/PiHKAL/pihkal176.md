@@ -1,4 +1,4 @@
-# 176. [3-TSB](/药物/3-TSB.md)
+# 176  [3-TSB](/药物/3-TSB.md)
 
 [上一个](/文档/PiHKAL/pihkal175.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal177.md)
 

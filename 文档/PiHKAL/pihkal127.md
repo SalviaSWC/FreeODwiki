@@ -1,6 +1,6 @@
 [上一个](/文档/PiHKAL/pihkal126.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal128.md)
 
-# 127. [METHYL-DOB](/药物/METHYL-DOB.md)
+# 127 [METHYL-DOB](/药物/METHYL-DOB.md)
 
 **4-溴-2,5-二甲氧基-N-甲基苯丙胺**
 

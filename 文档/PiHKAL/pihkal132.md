@@ -1,4 +1,4 @@
-# 132. [MMDA](/药物/MMDA.md)
+# 132 [MMDA](/药物/MMDA.md)
 [上一个](/文档/PiHKAL/pihkal131.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal133.md)
 
 **3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE (3-甲氧基-4,5-亚甲二氧基苯丙胺)**

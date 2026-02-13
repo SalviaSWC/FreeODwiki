@@ -1,4 +1,4 @@
-# 131. [METHYL-MMDA-2](/药物/METHYL-MMDA-2.md)
+# 131  [METHYL-MMDA-2](/药物/METHYL-MMDA-2.md)
 
 **2-甲氧基-N-甲基-4,5-亚甲二氧基苯丙胺**
 

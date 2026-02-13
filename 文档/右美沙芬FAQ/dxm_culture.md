@@ -1,5 +1,3 @@
-**摘自 右美沙芬 FAQ**
-
 # 12 右美沙芬药物文化
 
 经作者 William White 许可在 Erowid 使用

@@ -1,7 +1,7 @@
 
 [上一个](/文档/PiHKAL/pihkal092.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal094.md)
 
-#93 [IRIS](/药物/IRIS.md)
+# 93 [IRIS](/药物/IRIS.md)
 ------
 **5-乙氧基-2-甲氧基-4-甲基苯丙胺**
 

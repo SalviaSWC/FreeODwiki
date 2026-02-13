@@ -1,4 +1,4 @@
-# 13. [BOB](/药物/BOB.md)
+# 13  [BOB](/药物/BOB.md)
 
 [上一个](/文档/PiHKAL/pihkal012.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal014.md)
 

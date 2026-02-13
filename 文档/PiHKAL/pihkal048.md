@@ -1,4 +1,4 @@
-# 48.[2C-T-17](/药物/2C-T-17.md)
+# 48 [2C-T-17](/药物/2C-T-17.md)
 
 [上一个](/文档/PiHKAL/pihkal047.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal049.md)
 

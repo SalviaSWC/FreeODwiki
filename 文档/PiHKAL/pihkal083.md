@@ -5,7 +5,7 @@
 # 83 G-4
 
 **2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE; 6-(2-AMINOPROPYL)-5,8-DIMETHOXYTETRALIN**
-**(2,5-二甲氧基-3,4-(四亚甲基)安非他命; 6-(2-氨基丙基)-5,8-二甲氧基四氢萘)**
+**(2,5-二甲氧基-3,4-(四亚甲基)苯丙胺; 6-(2-氨基丙基)-5,8-二甲氧基四氢萘)**
 
 | ![](/文档/PiHKAL/pihkal83.gif) |
 | --- |

@@ -1,4 +1,3 @@
-
 # 8 意识改变状态和超自然体验
 
 [ \[上一节\]](/文档/右美沙芬FAQ/dxm_side_effects.md) [ \[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md) [ \[ 下一节 \]](/文档/右美沙芬FAQ/dxm_physiological.md)

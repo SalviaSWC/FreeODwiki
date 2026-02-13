@@ -1,7 +1,7 @@
 
 
 
-# 75.[EME](/药物/EME.md)
+# 75 [EME](/药物/EME.md)
 [上一个](/文档/PiHKAL/pihkal074.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal076.md)
 
 **2,5-二乙氧基-4-甲氧基苯丙胺**

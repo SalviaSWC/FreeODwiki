@@ -1,4 +1,4 @@
-# 138. [MPM](/药物/MPM.md)
+# 138 [MPM](/药物/MPM.md)
 
 **2,5-DIMETHOXY-4-(n)-PROPOXYAMPHETAMINE (2,5-二甲氧基-4-(n)-丙氧基苯丙胺)**
 

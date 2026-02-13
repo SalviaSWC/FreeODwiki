@@ -1,5 +1,5 @@
 
-# 9.[ASB](/药物/ASB.md)
+# 9 [ASB](/药物/ASB.md)
 
 [上一个](/文档/PiHKAL/pihkal008.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal010.md)
 

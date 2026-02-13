@@ -1,7 +1,7 @@
 
 [上一个](/文档/PiHKAL/pihkal116.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal118.md)
 
-# 117.[MDPL](/药物/MDPL.md)
+# 117 [MDPL](/药物/MDPL.md)
 
 **N-炔丙基-MDA；N-丙炔基-MDA；3,4-亚甲二氧基-N-炔丙基苯丙胺**
 

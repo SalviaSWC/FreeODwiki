@@ -1,5 +1,5 @@
 [上一个](/文档/PiHKAL/pihkal127.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal129.md)
-# 128. [METHYL-J](/药物/METHYL-J.md)
+# 128 [METHYL-J](/药物/METHYL-J.md)
 
 **MBDB；EDEN；2-甲氨基-1-(3,4-亚甲二氧基苯基)丁烷；N-甲基-1-(1,3-苯并二氧杂环戊烯-5-基)-2-丁胺**
 

@@ -1,0 +1,31 @@
+nav: 
+    - ⭐特色条目:
+        - 《右美沙芬常见问题解答》 : 文档/右美沙芬FAQ/dxm_faq.md
+        - 《PiHKAL》 ——亚历山大·舒尔金: 文档/PiHKAL/home.md
+        - 《TiHKAL》 ——亚历山大·舒尔金: 文档/TiHKAL/home.md
+        - 加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测 —— 药物百科的最后遗留物: 报告/加巴喷丁与普瑞巴林联用导致的峰值上升及可能机理推测.md
+    - 💊药物索引: 
+        - 药物/home.md
+        - "药物/*.md"
+    - 🧠药效索引: 
+        - 药效/home.md
+        - "药效/*.md"
+    - 📚文档索引: 
+        - 文档/home.md
+        - "文档/*.md"
+    - ✏️报告索引: 
+        - 报告/home.md
+        - "报告/*.md"
+ignore:
+    - CONTRIBUTING.md
+    - CODE_OF_CONDUCT.md
+    - README.md
+    - 留言板界面.md
+    - 药效.md
+    - 药物.md
+    - 报告.md
+    - 文档.md
+    - 个人文件夹.md
+    - 关于本站.md
+    - 个人文件夹/
+    - 关于本站/

@@ -1,6 +1,10 @@
+---
+title: 我见识过和爱过的色胺类物质们：化学仍在继续
+---
+
 [返回](/文档/home.md)
 
-| ![](/文档/TiHKAL/tihkal.jpg) | 我所见识过与爱过的[色胺类物质](/文档/药物分类/色胺类物质.md)们：化学仍在继续。亚历山大·舒尔金与安·舒尔金 著 |
+| ![](/文档/TiHKAL/tihkal.jpg) | 我所见识过与爱过的[色胺类物质](/文档/药物分类/色胺类物质.md)们：化学仍在继续。<br>亚历山大·舒尔金与安·舒尔金 著<br>[SalviaSWC](x.com/salviaswc) 译<br>于[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki)发布|
 | --- | --- |
 
 > **trypt-amine** \\ 'trip-ta-,men \\ 名词 [tryptophan（色氨酸）源自 tryptic（胰蛋白酶的），源自 trypsin（胰蛋白酶），源自希腊语 tryein，意为磨碎（因其作为一种蛋白水解酶存在于胰液中）+ amine（胺）源自现代拉丁语 ammonia（氨）] 1：一种在动物界和植物界中都存在的天然化合物。它是人脑的内源性成分。2：含有色胺骨架，并在分子适当位置由化学成分修饰的一系列化合物中的任何一种。
@@ -23,7 +27,7 @@ TiHKAL 的前半部分是对舒尔金在色胺方面的个人经历的精彩评�
 
 ### 色胺索引
 
-- **#** **物质** **化学名称**
+- **#** **物质** **化学名**
 - 1 [AL-LAD](/文档/TiHKAL/tihkal1.md) 6-烯丙基-N,N-二乙基-NL
 - 2 [DBT](/文档/TiHKAL/tihkal2.md) N,N-二丁基-T
 - 3 [DET](/文档/TiHKAL/tihkal3.md) N,N-二乙基-T

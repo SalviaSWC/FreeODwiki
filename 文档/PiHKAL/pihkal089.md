@@ -1,4 +1,4 @@
-# 89.[HOT-17](/药物/HOT-17.md)
+# 89 [HOT-17](/药物/HOT-17.md)
 [上一个](/文档/PiHKAL/pihkal088.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal090.md)
 
 **2,5-二甲氧基-4-(仲)-丁硫基-N-羟基苯乙胺**

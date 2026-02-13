@@ -1,7 +1,7 @@
 [上一个](/文档/PiHKAL/pihkal128.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal130.md)
 
 
-# 129. [METHYL-K](/药物/METHYL-K.md)
+# 129 [METHYL-K](/药物/METHYL-K.md)
 
 **2-甲氨基-1-(3,4-亚甲二氧基苯基)戊烷；N-甲基-1-(1,3-苯并二氧杂环戊烯-5-基)-2-戊胺**
 
