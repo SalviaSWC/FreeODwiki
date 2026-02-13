@@ -15,11 +15,10 @@ FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的�
 
 **[freeod.wiki](https://freeod.wiki)的自动脚本似乎无法正常运行，该站点将无法接收Github的更新**——批注于2026年2月11日
 
->我们站点的内容目前已经相当充实了，但是肯定还存在一些欠缺的部分，比如站内不少链接是错误的，以及部分图像资源存在无法加载的问题。
 >
->欢迎大家指出这些问题或者[自行修复](/CONTRIBUTING.md)，也可以联系我们获取权限后自行编辑喵！ (SalviaSWC的推特账号：[x.com/SalviaSWC](https://x.com/SalviaSWC))
+>若发现站点中存在不足的部分，欢迎大家指出这些问题或者[自行修复](/CONTRIBUTING.md)，也可以联系我们获取权限后自行编辑喵！ (SalviaSWC的推特账号：[x.com/SalviaSWC](https://x.com/SalviaSWC))
 >
->FreeODwiki将持续为大家提供开源自由的[减害信息](/文档/负责任的用药索引页.md)来源。
+
 
 ## 站点索引
 
