@@ -127,7 +127,7 @@ PCE 比 PCP 稍微强效一点，效果相似，但其令人不快的味道和�
 | ![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png) | **这个主观效应部分是一个[小作品](/wiki/Stub)**。<br>*因此，它仍在进行中，可能包含不完整或错误的信息。*<br>*你可以通过[扩展或修正它](https://psychonautwiki.org/w/index.php?title=PCE&action=edit)来提供帮助哦。* |
 | --- | --- |
 
-***免责声明：** 下列效应引用自 [***主观效应索引***](/药效/主观效应索引.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/wiki/PsychonautWiki) [贡献者](/wiki/Special:TopUsers) 个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
+***免责声明：** 下列效应引用自 [***主观效应索引***](/药效/home.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/wiki/PsychonautWiki) [贡献者](/wiki/Special:TopUsers) 个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能引发全方位的效应。同样，**不良反应**随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡*** ☠。
 
