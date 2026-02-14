@@ -22,8 +22,8 @@ docs_dir: D:\servers\freeodwiki\src  # 你的 Markdown 文件夹路径（相对�
 site_dir: D:\servers\freeodwiki\site
 theme: 
   name: material  
-#   features :
-#     - navigation.sections
+  favicon: 文件/FreeODwiki2.png     # 改成你实际放的路径
+  logo: 文件/FreeODwiki2.png 
 use_directory_urls: false
 markdown_extensions:
   - admonition
