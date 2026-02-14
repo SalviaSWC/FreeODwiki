@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/CONTRIBUTING.html</loc>
-    <lastmod>2026-02-12T16:51:40Z</lastmod>
+    <lastmod>2026-02-14T06:20:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/home.html</loc>
-    <lastmod>2026-02-12T14:40:38Z</lastmod>
+    <lastmod>2026-02-13T09:49:16Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/报告/111事件.html</loc>
-    <lastmod>2026-02-12T06:40:37Z</lastmod>
+    <lastmod>2026-02-13T14:47:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4040,7 +4040,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/药物分类/致幻剂.html</loc>
-    <lastmod>2026-02-12T15:02:00Z</lastmod>
+    <lastmod>2026-02-14T06:14:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6919,20 +6919,50 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://freeodwiki.org/药物/1B-LSD.html</loc>
+    <lastmod>2026-02-14T06:30:07Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/1P-ETH-LAD.html</loc>
+    <lastmod>2026-02-14T06:43:37Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://freeodwiki.org/药物/1P-LSD.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-14T06:40:15Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/1V-LSD.html</loc>
-    <lastmod>2026-02-12T08:12:42Z</lastmod>
+    <lastmod>2026-02-14T06:40:22Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/1cP-AL-LAD.html</loc>
+    <lastmod>2026-02-14T06:42:48Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/1cP-LSD.html</loc>
+    <lastmod>2026-02-14T06:33:10Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/1cP-MiPLA.html</loc>
+    <lastmod>2026-02-14T06:42:05Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/2-AI.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-14T06:40:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7011,6 +7041,12 @@
   <url>
     <loc>https://freeodwiki.org/药物/2C-T-2.html</loc>
     <lastmod>2026-02-12T06:43:38Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/2C-T-21.html</loc>
+    <lastmod>2026-02-14T06:52:20Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7123,8 +7159,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://freeodwiki.org/药物/4-HO-DiPT.html</loc>
+    <lastmod>2026-02-14T06:22:39Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/4-HO-EPT.html</loc>
+    <lastmod>2026-02-14T06:24:01Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://freeodwiki.org/药物/4-HO-MET.html</loc>
     <lastmod>2026-02-12T06:43:38Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/4-HO-MPT.html</loc>
+    <lastmod>2026-02-14T06:23:01Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7526,13 +7580,13 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/三唑仑.html</loc>
-    <lastmod>2026-02-12T08:17:30Z</lastmod>
+    <lastmod>2026-02-14T05:44:08Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/乙卡西酮.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-14T05:45:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7574,7 +7628,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/依替唑仑.html</loc>
-    <lastmod>2026-02-12T06:43:39Z</lastmod>
+    <lastmod>2026-02-14T05:44:49Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7598,7 +7652,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/劳拉西泮.html</loc>
-    <lastmod>2026-02-12T06:43:39Z</lastmod>
+    <lastmod>2026-02-14T05:44:18Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7622,13 +7676,13 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/可卡因.html</loc>
-    <lastmod>2026-02-12T06:43:39Z</lastmod>
+    <lastmod>2026-02-14T05:44:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/可待因.html</loc>
-    <lastmod>2026-02-10T15:59:56Z</lastmod>
+    <lastmod>2026-02-14T05:44:24Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7801,6 +7855,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://freeodwiki.org/药物/普罗斯卡林.html</loc>
+    <lastmod>2026-02-14T06:55:45Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://freeodwiki.org/药物/曲马多.html</loc>
     <lastmod>2026-02-12T06:43:39Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -7909,6 +7969,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://freeodwiki.org/药物/烯丙艾斯卡林.html</loc>
+    <lastmod>2026-02-14T06:53:10Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://freeodwiki.org/药物/甲卡西酮.html</loc>
     <lastmod>2026-02-12T06:43:39Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -7977,6 +8043,12 @@
   <url>
     <loc>https://freeodwiki.org/药物/艾捉菲尼.html</loc>
     <lastmod>2026-02-12T06:43:39Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/艾斯卡林.html</loc>
+    <lastmod>2026-02-14T06:58:23Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
