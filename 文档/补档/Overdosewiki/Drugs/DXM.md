@@ -1,6 +1,7 @@
 ---
 title: 右美沙芬 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 右美沙芬^*解离、抗抑郁*^

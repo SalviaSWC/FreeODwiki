@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 64 DOC
 
 [上一个](/文档/PiHKAL/pihkal063.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal065.md)

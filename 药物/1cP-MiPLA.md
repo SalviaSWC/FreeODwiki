@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 1cP-MiPLA
 =======
 

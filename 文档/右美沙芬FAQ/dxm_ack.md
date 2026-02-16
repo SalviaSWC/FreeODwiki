@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 1 致谢
 
 

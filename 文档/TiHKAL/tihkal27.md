@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 27.[MBT](/药物/MBT.md)
 
 [上一个](/文档/TiHKAL/tihkal26.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal28.md)

@@ -1,6 +1,7 @@
 ---
 title: Overdose分论 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # Overdose分论^*结束的一切*^

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # DMXE
 
 [◀返回](./home.md)

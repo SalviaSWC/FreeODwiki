@@ -1,6 +1,7 @@
 ---
 title: 💊药物索引
 description: 药物快速索引
+meta-og:type: article
 ---
 
 [返回主页](/home.md)

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 39. [4-MEO-MIPT](/药物/4-MEO-MIPT.md)
 
 [上一个](/文档/TiHKAL/tihkal38.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal40.md)

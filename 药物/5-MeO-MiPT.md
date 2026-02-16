@@ -1,6 +1,7 @@
 ---
 title: 5-MeO-MiPT
 description: 
+meta-og:type: article
 ---
 
 FreeODwiki/

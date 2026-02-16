@@ -1,6 +1,7 @@
 ---
 title: 登录
 description: 
+meta-og:type: article
 ---
 
 登录

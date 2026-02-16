@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 114 [MDOH](/药物/MDOH.md)
 
 [上一个](/文档/PiHKAL/pihkal113.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal115.md)

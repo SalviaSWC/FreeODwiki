@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 1P-ETH-LAD
 
 [◀返回](./home.md)

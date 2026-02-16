@@ -1,6 +1,7 @@
 ---
 title: Github的md文件语法渲染测试
 description: 
+meta-og:type: article
 ---
 
 `**加粗**` 效果: **加粗** 

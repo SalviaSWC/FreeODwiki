@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # **附录 B：词汇表**
 

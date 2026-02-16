@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # ALD-52
 
 [◀返回](/home.md)

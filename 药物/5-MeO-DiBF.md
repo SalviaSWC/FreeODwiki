@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 5-MeO-DiBF
 
 [◀返回](./home.md)

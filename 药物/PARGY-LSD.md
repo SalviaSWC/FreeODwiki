@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # PARGY-LAD
 
 [◀返回](./home.md)

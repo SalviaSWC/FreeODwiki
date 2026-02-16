@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # MXiPr
 
 [◀返回](./home.md)

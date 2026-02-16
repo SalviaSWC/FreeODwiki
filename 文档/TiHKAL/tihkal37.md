@@ -1,4 +1,6 @@
-
+---
+meta-og:type: article
+---
 
 # 37. [5-MEO-DIPT](/药物/5-MEO-DIPT.md)
 

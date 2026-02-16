@@ -1,6 +1,7 @@
 ---
 title: 苏糖酸镁 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 苏糖酸镁^*反解离、认知增强*^

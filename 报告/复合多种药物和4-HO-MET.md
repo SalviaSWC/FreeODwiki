@@ -1,6 +1,7 @@
 ---
 title: 复合多种药物和4-HO-MET
 description: 
+meta-og:type: article
 ---
 
 # 复合精神活性物质暴露记录（修正版）

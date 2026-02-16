@@ -1,6 +1,7 @@
 ---
 title: 解离 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 解离^*抑制*^

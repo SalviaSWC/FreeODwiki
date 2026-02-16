@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 4-AcO-DET
 ===========

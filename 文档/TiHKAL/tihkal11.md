@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 [上一个](/文档/TiHKAL/tihkal10.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal12.md)
 
 # 11.[a-ET](/药物/a-ET.md)

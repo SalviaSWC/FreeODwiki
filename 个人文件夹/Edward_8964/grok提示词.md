@@ -1,6 +1,7 @@
 ---
 title: grok提示词
 description: 
+meta-og:type: article
 ---
 
 翻译文档为中文

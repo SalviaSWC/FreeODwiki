@@ -1,6 +1,7 @@
 ---
 title: 谵妄 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 谵妄^*抑制*^

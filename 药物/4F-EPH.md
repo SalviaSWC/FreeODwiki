@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 4F-EPH
 
 [◀返回](./home.md)

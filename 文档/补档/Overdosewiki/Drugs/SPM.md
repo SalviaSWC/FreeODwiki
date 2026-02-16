@@ -1,6 +1,7 @@
 ---
 title: 补充剂 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 补充剂

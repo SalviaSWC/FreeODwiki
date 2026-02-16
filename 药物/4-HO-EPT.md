@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 4-HO-EPT
 
 [◀返回](./home.md)

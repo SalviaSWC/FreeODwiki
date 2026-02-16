@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 47.[MIPT](/药物/MIPT.md)
 [上一个](/文档/TiHKAL/tihkal46.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal48.md)

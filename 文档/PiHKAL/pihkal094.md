@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 94 [J](/药物/J.md)
 
 [上一个](/文档/PiHKAL/pihkal093.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal095.md)

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 10 右美沙芬的神经药理学
 
 

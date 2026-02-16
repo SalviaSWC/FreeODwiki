@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 4-HO-DiPT
 
 [◀返回](./home.md)

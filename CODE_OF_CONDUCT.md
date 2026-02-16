@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # FreeODwiki 行为准则
 <!-- 基于howtocook -->
 ## FreeODwiki的建站理想

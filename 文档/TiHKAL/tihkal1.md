@@ -1,4 +1,6 @@
-
+---
+meta-og:type: article
+---
 
 # 1.[AL-LAD](/药物/AL-LAD.md)
 

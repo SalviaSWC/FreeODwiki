@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # MiPLA
 
 [◀返回](./home.md)

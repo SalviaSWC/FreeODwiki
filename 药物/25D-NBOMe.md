@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 25D-NBOMe
 
 [◀返回](./home.md)

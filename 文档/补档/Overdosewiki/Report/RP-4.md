@@ -1,6 +1,7 @@
 ---
 title: 报告4-金刚烷胺 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 报告4-金刚烷胺 | OverdoseWiki

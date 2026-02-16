@@ -1,6 +1,7 @@
 ---
 title: αMT
 description: 
+meta-og:type: article
 ---
 
 # αMT

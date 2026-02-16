@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # NEP
 
 [◀返回](./home.md)

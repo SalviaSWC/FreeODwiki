@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 58 [DMMDA](/药物/DMMDA.md)
 
 

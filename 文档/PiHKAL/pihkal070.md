@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 70 [DON](/药物/DON.md)
 [上一个](/文档/PiHKAL/pihkal069.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal071.md)

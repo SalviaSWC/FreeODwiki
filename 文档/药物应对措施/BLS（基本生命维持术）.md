@@ -1,6 +1,7 @@
 ---
 title: BLS（基本生命维持术）
 description: 
+meta-og:type: article
 ---
 
 # 程序手册：异常精神活性物质暴露后基本生命维持术

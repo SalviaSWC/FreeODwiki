@@ -1,6 +1,7 @@
 ---
 title: PCP
 description: 
+meta-og:type: article
 ---
 
 [◀返回](./home.md)

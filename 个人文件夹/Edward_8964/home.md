@@ -1,6 +1,7 @@
 ---
 title: Edward_8964的主页
 description: 
+meta-og:type: article
 ---
 
 # Edward_8964

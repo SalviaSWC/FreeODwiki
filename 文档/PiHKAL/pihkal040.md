@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 40 [2C-T-2](/药物/2C-T-2.md)
 [上一个](/文档/PiHKAL/pihkal039.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal041.md)
 

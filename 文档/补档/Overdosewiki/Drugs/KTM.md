@@ -1,6 +1,7 @@
 ---
 title: 氯胺酮 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 氯胺酮^*解离、抗抑郁*^

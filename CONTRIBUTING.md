@@ -1,6 +1,7 @@
 ---
 title: CONTRIBUTING
 description: 
+meta-og:type: article
 ---
 
 # 贡献指南

@@ -1,6 +1,7 @@
 ---
 title: 4-HO-MET15mgInsufflated
 description: 
+meta-og:type: article
 ---
 
 # 事件记录：4-HO-MET（15 mg，鼻腔吸入）

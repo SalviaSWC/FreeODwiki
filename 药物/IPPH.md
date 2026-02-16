@@ -1,6 +1,7 @@
 ---
 title: IPPH
 description: 
+meta-og:type: article
 ---
 
 [◀返回](./home.md)

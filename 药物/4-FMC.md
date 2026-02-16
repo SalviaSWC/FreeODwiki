@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 4-FMC 
 
 [◀返回](./home.md)

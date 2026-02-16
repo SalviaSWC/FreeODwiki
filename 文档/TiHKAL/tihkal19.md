@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 20.[4-HO-DPT](/药物/4-HO-DPT.md)
 
 [上一个](/文档/TiHKAL/tihkal19.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal21.md)

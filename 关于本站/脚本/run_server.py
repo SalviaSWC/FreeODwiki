@@ -17,6 +17,7 @@ url = r"https://freeodwiki.org"
 mkdocs_yml = r"""
 site_name: FreeODwiki——可自由编辑的开源Overdose百科 
 site_url: https://freeodwiki.org
+site_author: FreeODwiki贡献者们
 site_description: FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。  # 站点描述
 docs_dir: D:\servers\freeodwiki\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
 site_dir: D:\servers\freeodwiki\site
@@ -26,6 +27,8 @@ theme:
   logo: 文件/FreeODwiki2.png 
 use_directory_urls: false
 markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true          
   - admonition
   - pymdownx.details
   - pymdownx.superfences

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 [上一个](/文档/PiHKAL/pihkal090.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal092.md)
 
 # 91 [IM](/药物/IM.md)

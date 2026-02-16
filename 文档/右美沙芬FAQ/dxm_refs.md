@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 17 参考资料
 
 ---

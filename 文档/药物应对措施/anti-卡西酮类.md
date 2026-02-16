@@ -1,6 +1,7 @@
 ---
 title: anti-卡西酮类
 description: 
+meta-og:type: article
 ---
 
 # 卡西酮类

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # BOD
 
 [◀返回](./home.md)

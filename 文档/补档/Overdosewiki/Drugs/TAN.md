@@ -1,6 +1,7 @@
 ---
 title: 茶氨酸 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 茶氨酸^*镇静*^

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 44.[6-MEO-THH](/药物/6-MEO-THH.md)
 [上一个](/文档/TiHKAL/tihkal43.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal45.md)
 

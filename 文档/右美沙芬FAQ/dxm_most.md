@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 7 充分利用右美沙芬
 
 [第 6 节](/文档/右美沙芬FAQ/dxm_side_effects.md) [第 8 节](/文档/右美沙芬FAQ/dxm_paranormal.md) [DXM FAQ 目录](/文档/右美沙芬FAQ/dxm_faq.md)

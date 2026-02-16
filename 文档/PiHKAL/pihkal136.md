@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 136 [MME](/药物/MME.md)
 
 [上一个](/文档/PiHKAL/pihkal135.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal137.md)

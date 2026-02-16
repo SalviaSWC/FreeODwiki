@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 22.[4-HO-MIPT](/药物/4-HO-MIPT.md)
 [上一个](/文档/TiHKAL/tihkal21.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal23.md)
 

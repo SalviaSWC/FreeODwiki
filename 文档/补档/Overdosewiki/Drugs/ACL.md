@@ -1,6 +1,7 @@
 ---
 title: 槟榔碱 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 槟榔碱^*兴奋*^

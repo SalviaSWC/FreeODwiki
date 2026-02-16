@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 3-FPM
 
 [◀返回](./home.md)

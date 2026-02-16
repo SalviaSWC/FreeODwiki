@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 [上一个](/文档/PiHKAL/pihkal146.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal148.md)
 
 # 147 4-TASB

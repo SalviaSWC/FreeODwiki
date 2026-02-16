@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 35.[MELATONIN](/药物/MELATONIN.md)
 [上一个](/文档/TiHKAL/tihkal34.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal36.md)
 

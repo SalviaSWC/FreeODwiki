@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 2C-C
 
 [◀返回](./home.md)

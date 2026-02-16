@@ -1,6 +1,7 @@
 ---
 title: 报告 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # Overdose Wiki的报告

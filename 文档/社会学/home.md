@@ -1,6 +1,7 @@
 ---
 title: 社会学索引
 description: 
+meta-og:type: article
 ---
 
 ## 内在的威胁固然存在，但也须防范外来之威胁

@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 9.[DPT](/药物/DPT.md)
 

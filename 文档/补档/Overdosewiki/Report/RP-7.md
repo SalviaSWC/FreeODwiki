@@ -1,6 +1,7 @@
 ---
 title: 报告7-个人trip整合 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 报告7-个人trip整合 | OverdoseWiki

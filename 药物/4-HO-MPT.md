@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 [◀返回](./home.md)
 
 # 4-HO-MPT

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # LSZ
 
 [◀返回](./home.md)

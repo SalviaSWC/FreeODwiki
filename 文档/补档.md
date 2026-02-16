@@ -1,6 +1,7 @@
 ---
 title: 补档主页
 description: 
+meta-og:type: article
 ---
 
 # 以下是现有的补档内容

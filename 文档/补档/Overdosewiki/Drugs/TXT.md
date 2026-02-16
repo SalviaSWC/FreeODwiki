@@ -1,6 +1,7 @@
 ---
 title: 托莫西汀 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 托莫西汀^*抗ADHD、兴奋*^

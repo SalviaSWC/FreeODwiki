@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 49.[NET](/药物/NET.md)
 [上一个](/文档/TiHKAL/tihkal48.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal50.md)
 

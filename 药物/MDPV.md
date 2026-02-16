@@ -1,6 +1,7 @@
 ---
 title: MDPV
 description: 
+meta-og:type: article
 ---
 
 [◀返回](/药物/home.md)

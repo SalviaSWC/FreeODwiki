@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # N-甲基二氟莫达非尼
 
 [◀返回](./home.md)

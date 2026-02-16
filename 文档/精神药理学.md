@@ -1,6 +1,7 @@
 ---
 title: 精神药理学
 description: 
+meta-og:type: article
 ---
 
 # 有关精神药理学的文章将存于此处

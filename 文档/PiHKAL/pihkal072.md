@@ -1,4 +1,6 @@
-
+---
+meta-og:type: article
+---
 
 # 72 [E; ESCALINE](/药物/E.md)
 [上一个](/文档/PiHKAL/pihkal071.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal073.md)

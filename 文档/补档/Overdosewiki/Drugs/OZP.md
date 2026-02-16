@@ -1,6 +1,7 @@
 ---
 title: 奥氮平 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 奥氮平^*全体兴奋递质抑制剂/无法滥用*^

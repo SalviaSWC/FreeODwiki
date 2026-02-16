@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 26. [LSD-25](/药物/LSD-25.md)
 [上一个](/文档/TiHKAL/tihkal25.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal27.md)

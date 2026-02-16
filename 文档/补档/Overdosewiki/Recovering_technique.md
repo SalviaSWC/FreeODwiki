@@ -1,6 +1,7 @@
 ---
 title: 恢复术 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 恢复术

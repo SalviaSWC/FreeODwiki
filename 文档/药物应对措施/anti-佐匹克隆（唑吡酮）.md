@@ -1,1 +1,4 @@
+---
+meta-og:type: article
+---
 

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 38. [5-MEO-DMT](/药物/5-MEO-DMT.md)
 
 [上一个](/文档/TiHKAL/tihkal37.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal39.md)

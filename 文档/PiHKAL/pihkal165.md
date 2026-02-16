@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 165 [5-TME](/文档/PiHKAL/pihkal165.md)
 
 [上一个](/文档/PiHKAL/pihkal164.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal166.md)

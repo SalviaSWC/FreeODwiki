@@ -1,6 +1,7 @@
 ---
 title: 唑吡坦 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 唑吡坦^*内部幻觉、镇静、梦游*^

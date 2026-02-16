@@ -1,6 +1,7 @@
 ---
 title: DMT
 description: 
+meta-og:type: article
 ---
 
 # DMT

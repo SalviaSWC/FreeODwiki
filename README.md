@@ -1,6 +1,7 @@
 ---
 title: FreeODWiki主页
 description: 
+meta-og:type: website
 ---
 
 # FreeODWiki——可自由编辑的开源OD百科

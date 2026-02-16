@@ -1,6 +1,7 @@
 ---
 title: 丙戊酸 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 丙戊酸^*抗癫痫、抗躁狂/无法滥用*^

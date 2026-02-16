@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 100 [MDA](/药物/MDA.md)
 

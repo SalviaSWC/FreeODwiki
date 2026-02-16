@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 19.[5-HO-DMT](/药物/5-HO-DMT.md)
 
 [上一个](/文档/TiHKAL/tihkal18.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal20.md)

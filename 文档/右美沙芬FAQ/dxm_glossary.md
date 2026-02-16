@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 18 术语表
 
 

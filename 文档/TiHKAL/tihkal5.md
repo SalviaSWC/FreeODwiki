@@ -1,4 +1,6 @@
-
+---
+meta-og:type: article
+---
 
 # 5.[a,O-DMS](/药物/a,O-DMS.md)
 [上一个](/文档/TiHKAL/tihkal4.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal6.md)

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # HXE
 
 [◀返回](./home.md)

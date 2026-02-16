@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 右美沙芬常见问题解答
 [◀返回](/文档/home.md)
 

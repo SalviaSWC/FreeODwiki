@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 32.[5,6-MDO-MIPT](/药物/5,6-MDO-MIPT.md)
 

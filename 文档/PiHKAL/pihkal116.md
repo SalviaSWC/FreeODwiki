@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 116 [MDPH](/药物/MDPH.md)
 

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 [上一个](/文档/PiHKAL/pihkal059.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal061.md)
 
 # 60 [DMPEA](/药物/DMPEA.md)

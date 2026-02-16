@@ -1,6 +1,7 @@
 ---
 title: bron
 description: 
+meta-og:type: article
 ---
 
 # 白兔BRON（SS Pharmaceuticals Bron Tablets）

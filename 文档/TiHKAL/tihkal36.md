@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 36. [5-MEO-DET](/药物/5-MEO-DET.md)
 

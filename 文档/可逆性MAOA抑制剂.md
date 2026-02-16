@@ -1,6 +1,7 @@
 ---
 title: 可逆性MAOA抑制剂
 description: 
+meta-og:type: article
 ---
 
 [◀返回](/文档/home.md)

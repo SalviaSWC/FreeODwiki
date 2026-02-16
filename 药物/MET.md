@@ -1,6 +1,7 @@
 ---
 title: MET
 description: 
+meta-og:type: article
 ---
 
 MET

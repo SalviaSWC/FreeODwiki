@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 [上一个](/文档/PiHKAL/pihkal126.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal128.md)
 
 # 127 [METHYL-DOB](/药物/METHYL-DOB.md)

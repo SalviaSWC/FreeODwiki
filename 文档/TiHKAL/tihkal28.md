@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 28.[4,5-MDO-DIPT](/药物/4,5-MDO-DIPT.md)
 
 [上一个](/文档/TiHKAL/tihkal27.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal29.md)

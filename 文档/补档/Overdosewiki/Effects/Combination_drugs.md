@@ -1,6 +1,7 @@
 ---
 title: 药物联用 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 药物联用

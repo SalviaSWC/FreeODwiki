@@ -1,6 +1,7 @@
 ---
 title: 扎来普隆 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 扎来普隆

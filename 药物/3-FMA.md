@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 3-FMA
 
 [◀返回](/home.md)

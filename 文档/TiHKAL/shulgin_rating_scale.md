@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 舒尔金评级量表
 
 

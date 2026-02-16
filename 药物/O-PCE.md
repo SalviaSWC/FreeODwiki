@@ -1,4 +1,6 @@
-
+---
+meta-og:type: article
+---
 
 # O-PCE
 

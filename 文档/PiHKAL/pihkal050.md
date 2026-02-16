@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 50 [4\-D](/药物/4-D.md)
 
 [上一个](/文档/PiHKAL/pihkal049.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal051.md)

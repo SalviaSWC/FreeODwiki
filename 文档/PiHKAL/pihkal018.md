@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 [上一个](/文档/PiHKAL/pihkal017.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal019.md)
 
 # 18. 4-BR-3,5-DMA

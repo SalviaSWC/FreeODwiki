@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 4 关于右美沙芬的常规信息
 
   [\[ 上一节 \]](./dxm_quickfaq.md.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](./dxm_experience.md)

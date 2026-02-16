@@ -1,6 +1,7 @@
 ---
 title: 二氢可待因 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 二氢可待因^*阿片类麻醉*^

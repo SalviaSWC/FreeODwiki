@@ -1,6 +1,7 @@
 ---
 title: GABA
 description: 
+meta-og:type: article
 ---
 
 ---

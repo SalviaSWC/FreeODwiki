@@ -1,6 +1,7 @@
 ---
 title: inside_the_world_of_stimulant_psychosis
 description: 
+meta-og:type: article
 ---
 
 # 走进兴奋剂精神病的世界

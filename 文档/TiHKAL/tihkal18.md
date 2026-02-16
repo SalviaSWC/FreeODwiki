@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 18.[4-HO-DMT / 4-HO-DMT 磷酸酯](/药物/4-HO-DMT.md)
 [上一个](/文档/TiHKAL/tihkal17.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal19.md)
 

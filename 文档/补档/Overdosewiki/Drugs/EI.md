@@ -1,6 +1,7 @@
 ---
 title: 酶抑制剂 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 酶抑制剂

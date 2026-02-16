@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 1V-LSD
 
 [◀返回](./home.md)

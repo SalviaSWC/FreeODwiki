@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 1P-LSD
 
 [◀返回](/药物/home.md)

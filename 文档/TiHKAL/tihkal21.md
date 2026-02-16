@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 21.[4-HO-MET](/药物/4-HO-MET.md)
 

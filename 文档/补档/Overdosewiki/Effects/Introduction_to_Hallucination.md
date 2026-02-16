@@ -1,6 +1,7 @@
 ---
 title: 幻觉简述 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 幻觉简述

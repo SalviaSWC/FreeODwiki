@@ -1,6 +1,7 @@
 ---
 title: 美金刚 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 美金刚^*精神分裂（外部幻觉）、解离、谵妄*^

@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 10.[EIPT](/药物/EIPT.md)
 

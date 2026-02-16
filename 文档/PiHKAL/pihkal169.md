@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 169 [2-TOET](/文档/PiHKAL/pihkal169.md)
 

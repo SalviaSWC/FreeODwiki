@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 9. 右美沙芬的生理效应
 
 

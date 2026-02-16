@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 101 [MDAL](/药物/MDAL.md)
 

@@ -1,4 +1,6 @@
-
+---
+meta-og:type: article
+---
 
 # 102 [MDBU](/药物/MDBU.md)
 

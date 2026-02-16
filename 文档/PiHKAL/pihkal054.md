@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 54 [2,5\-DMA](/药物/2,5-DMA.md)
 
 [上一个](/文档/PiHKAL/pihkal053.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal055.md)

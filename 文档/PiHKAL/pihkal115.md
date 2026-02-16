@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 115 [MDPEA](/药物/MDPEA.md)
 

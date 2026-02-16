@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 97 [4-MA](/药物/4-MA.md)
 

@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 76 [EMM](/药物/EMM.md)
 [上一个](/文档/PiHKAL/pihkal075.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal077.md)
 

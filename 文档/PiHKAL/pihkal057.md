@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 57 [DME](/药物/DME.md)
 
 [上一个](/文档/PiHKAL/pihkal056.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal058.md)

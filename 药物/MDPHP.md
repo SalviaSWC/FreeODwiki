@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # MDPHP
 
 [◀返回](./home.md)

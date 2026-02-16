@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # MCPP
 
 [◀返回](./home.md)

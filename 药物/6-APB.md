@@ -1,6 +1,7 @@
 ---
 title: 6-APB
 description: 
+meta-og:type: article
 ---
 
 FreeODwiki/药物/6-APB.md

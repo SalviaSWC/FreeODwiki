@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 42 [psi-2C-T-4](/药物/psi-2C-T-4.md)
 [上一个](/文档/PiHKAL/pihkal041.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal043.md)
 

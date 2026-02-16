@@ -1,6 +1,7 @@
 ---
 title: 📚文档索引
 description: 
+meta-og:type: article
 ---
 
 [返回主页](/home.md)

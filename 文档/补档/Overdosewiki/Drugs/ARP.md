@@ -1,6 +1,7 @@
 ---
 title: 阿立哌唑 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 阿立哌唑^*抗双相情感障碍、抗精神分裂/无法滥用*^

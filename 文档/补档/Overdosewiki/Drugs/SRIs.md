@@ -1,6 +1,7 @@
 ---
 title: 血清素再摄取抑制剂 | OverdoseWiki
 description: 
+meta-og:type: article
 ---
 
 # 血清素再摄取抑制剂^*抗抑郁、（部分）抗焦虑*^

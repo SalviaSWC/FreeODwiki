@@ -1,6 +1,7 @@
 ---
 title: 4-HO-MET - PsychonautWiki
 description: 
+meta-og:type: article
 ---
 
 [◀返回](./home.md)

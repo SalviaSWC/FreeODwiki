@@ -1,3 +1,7 @@
+---
+meta-og:type: article
+---
+
 # 11  [BEATRICE](/药物/BEATRICE.md)
 
 [上一个](/文档/PiHKAL/pihkal010.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal012.md)

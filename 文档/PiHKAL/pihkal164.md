@@ -1,3 +1,6 @@
+---
+meta-og:type: article
+---
 
 # 164 [4-TME](/文档/PiHKAL/pihkal164.md)
 
