@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 132 [MMDA](/药物/MMDA.md)
 [上一个](/文档/PiHKAL/pihkal131.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal133.md)

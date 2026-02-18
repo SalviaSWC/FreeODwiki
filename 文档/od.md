@@ -1,7 +1,6 @@
 ---
 title: od
 description: 
-meta-og:type: article
 ---
 
 # OD

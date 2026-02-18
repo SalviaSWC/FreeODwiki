@@ -1,7 +1,6 @@
 ---
 title: NMDA受体拮抗剂类药物
 description: 
-meta-og:type: article
 ---
 
 [◀返回](/文档/药物分类/home.md)

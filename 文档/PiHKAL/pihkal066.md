@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 66 [DOET](/药物/DOET.md)
 [上一个](/文档/PiHKAL/pihkal065.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal067.md)

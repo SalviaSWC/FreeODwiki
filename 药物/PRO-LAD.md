@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # PRO-LAD
 
@@ -271,4 +268,3 @@ PRO-LAD 可能作为 [5-HT](/文档/血清素.md) [受体激动剂](/文档/受�
 8. ↑ "Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem" (in Latvian). VSIA Latvijas Vēstnesis.
 9. ↑ "Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien" (in German). Bundeskanzlei.
 10. ↑ Advisory Council on the Misuse of Drugs (ACMD) (June 10, 2014). "Update of the generic definition for tryptamines" (PDF).
-

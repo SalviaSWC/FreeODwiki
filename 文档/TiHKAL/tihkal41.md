@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 41.[5,6-MEO-MIPT](/药物/5,6-MEO-MIPT.md)
 [上一个](/文档/TiHKAL/tihkal40.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal42.md)

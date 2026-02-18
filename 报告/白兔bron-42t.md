@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 网名：橙花  
 年龄：17  

@@ -1,7 +1,6 @@
 ---
 title: Overspeedwiki报告索引
 description: 
-meta-og:type: article
 ---
 
 # Overspeed Wiki报告合集

@@ -1,7 +1,6 @@
 ---
 title: DPT
 description: 
-meta-og:type: article
 ---
 
 # DPT

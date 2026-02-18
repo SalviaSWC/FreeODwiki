@@ -1,7 +1,6 @@
 ---
 title: 药物效果 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 药物效果

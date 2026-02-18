@@ -1,7 +1,6 @@
 ---
 title: Erowid报告索引
 description: 
-meta-og:type: article
 ---
 
 # Erowid 报告汉化版[^1]

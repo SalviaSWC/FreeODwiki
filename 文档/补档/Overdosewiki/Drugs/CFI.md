@@ -1,7 +1,6 @@
 ---
 title: 咖啡因 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 咖啡因^*兴奋*^

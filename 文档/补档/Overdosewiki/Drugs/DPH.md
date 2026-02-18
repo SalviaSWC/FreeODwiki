@@ -1,7 +1,6 @@
 ---
 title: 苯海拉明 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 苯海拉明^*谵妄、抗过敏*^

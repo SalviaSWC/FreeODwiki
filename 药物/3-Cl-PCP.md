@@ -1,6 +1,5 @@
 ---
 title: 3-Cl-PCP
-meta-og:type: article
 ---
 
 [◀返回](./home.md)

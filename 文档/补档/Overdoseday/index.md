@@ -1,7 +1,6 @@
 ---
 title: 太空极乐百科
 description: 
-meta-og:type: article
 ---
 
 ×

@@ -1,7 +1,6 @@
 ---
 title: Overdose引论 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # Overdose引论^*开始的一切*^

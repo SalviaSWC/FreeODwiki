@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 33.[2-ME-DET](/药物/2-ME-DET.md)
 [上一个](/文档/TiHKAL/tihkal32.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal34.md)

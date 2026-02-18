@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 15 附录
 

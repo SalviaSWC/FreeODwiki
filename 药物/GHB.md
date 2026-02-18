@@ -1,7 +1,6 @@
 ---
 title: GHB
 description: 
-meta-og:type: article
 ---
 
 GHB

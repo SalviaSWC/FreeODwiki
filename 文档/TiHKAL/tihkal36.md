@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 36. [5-MEO-DET](/药物/5-MEO-DET.md)
 
@@ -79,4 +76,3 @@ meta-og:type: article
 ---
 
 [上一个](/文档/TiHKAL/tihkal35.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal37.md)
-

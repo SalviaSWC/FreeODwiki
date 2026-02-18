@@ -1,7 +1,6 @@
 ---
 title: DMTFreeBase
 description: 
-meta-og:type: article
 ---
 
 # 事件报告：N,N-二甲基色胺（DMT）暴露记录

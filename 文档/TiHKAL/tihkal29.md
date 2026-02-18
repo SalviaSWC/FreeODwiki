@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 29.[5,6-MDO-DIPT](/药物/5,6-MDO-DIPT.md)
 

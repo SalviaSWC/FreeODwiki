@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 1 致谢
 
@@ -29,4 +26,3 @@ meta-og:type: article
 - [上一节](./dxm_faq.md) [dxm_preliminary.shtml](./dxm_preliminary.md) [dxm_faq.shtml](./dxm_faq.md)
 
 ![](images/ack_s.gif)
-

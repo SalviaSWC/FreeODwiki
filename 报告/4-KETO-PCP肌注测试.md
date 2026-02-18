@@ -1,7 +1,6 @@
 ---
 title: 4-KETO-PCP肌注测试
 description: 
-meta-og:type: article
 ---
 
 **[◀返回报告](./home.md)** 

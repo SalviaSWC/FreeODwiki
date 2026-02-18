@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 176  [3-TSB](/药物/3-TSB.md)
 

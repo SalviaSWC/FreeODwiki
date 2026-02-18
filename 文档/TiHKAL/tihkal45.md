@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 45.[5-MEO-TMT](/药物/5-MEO-TMT.md)
 [上一个](/文档/TiHKAL/tihkal44.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal46.md)

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 选择性血清素再摄取抑制剂
 

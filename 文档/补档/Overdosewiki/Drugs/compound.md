@@ -1,7 +1,6 @@
 ---
 title: 复方专题 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 复方专题

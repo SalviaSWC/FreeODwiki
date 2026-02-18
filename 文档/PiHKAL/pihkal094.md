@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 94 [J](/药物/J.md)
 

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 51 [beta\-D](/药物/beta-D.md)
 

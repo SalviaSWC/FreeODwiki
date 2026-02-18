@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 51.[PRO-LAD](/药物/PRO-LAD.md)
 [上一个](/文档/TiHKAL/tihkal50.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal52.md)

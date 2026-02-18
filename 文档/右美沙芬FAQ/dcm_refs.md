@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 17 参考资料
 
@@ -391,7 +388,6 @@ meta-og:type: article
 377. . [Big Fun](http://www.spies.com/~gus/bigfun/dxm.htm)  
 378. Fowler JS, Volkow ND, Wang GJ, et al. Brain monoamine oxidase A inhibition in cigarette smokers. *Proc Natl Acad Sci USA*. **1996 Nov 26**;*93(24\)*:14065\-9\.
 379. Fowler JS, Volkow ND, Wang GJ, et al. Inhibition of monoamine oxidase B in the brains of smokers \[see comments\]. *Nature*. **1996 Feb 22**;*379(6567\)*:733\-6\.
-
 
 
 

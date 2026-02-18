@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 134 [MMDA-3a](/药物/MMDA-3a.md)
 

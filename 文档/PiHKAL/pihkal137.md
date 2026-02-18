@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 137 [MP](/药物/MP.md)
 

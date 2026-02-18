@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 50 [4\-D](/药物/4-D.md)
 

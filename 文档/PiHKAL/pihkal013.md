@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 13  [BOB](/药物/BOB.md)
 

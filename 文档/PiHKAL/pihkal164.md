@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 164 [4-TME](/文档/PiHKAL/pihkal164.md)
 
@@ -33,4 +30,3 @@ meta-og:type: article
 ---
 
 [上一个](/文档/PiHKAL/pihkal163.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal165.md)
-

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 23 [2C-D](/药物/2C-D.md)
 [上一个](/文档/PiHKAL/pihkal022.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal024.md)

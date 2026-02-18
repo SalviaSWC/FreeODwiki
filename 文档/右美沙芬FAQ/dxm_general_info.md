@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 4 关于右美沙芬的常规信息
 

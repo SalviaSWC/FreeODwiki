@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 11 右美沙芬化学与提取
 

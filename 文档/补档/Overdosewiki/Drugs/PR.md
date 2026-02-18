@@ -1,7 +1,6 @@
 ---
 title: 普瑞巴林 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 普瑞巴林^*焦虑去除、解离、抗躁狂、GABA镇静*^

@@ -1,7 +1,6 @@
 ---
 title: 关于FreeODwiki
 description: 
-meta-og:type: article
 ---
 
 [◀返回](/文档/home.md)

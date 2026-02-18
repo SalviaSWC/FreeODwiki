@@ -1,7 +1,6 @@
 ---
 title: 索引 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 索引^*找到你要想的内容*^

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 40. [5-MEO-MIPT](/药物/5-MEO-MIPT.md)
 

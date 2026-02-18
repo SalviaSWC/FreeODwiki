@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 31.[5,6-MDO-DMT](/药物/5,6-MDO-DMT.md)
 

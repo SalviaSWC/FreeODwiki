@@ -1,7 +1,6 @@
 ---
 title: 苯二氮卓类药物 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 苯二氮卓类药物^*镇静、安眠*^

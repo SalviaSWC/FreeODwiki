@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 52.[PYR-T](/药物/PYR-T.md)
 [上一个](/文档/TiHKAL/tihkal51.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal53.md)

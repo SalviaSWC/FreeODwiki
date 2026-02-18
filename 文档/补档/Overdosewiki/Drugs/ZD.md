@@ -1,7 +1,6 @@
 ---
 title: Z药物 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # Z药物^*镇静、安眠*^

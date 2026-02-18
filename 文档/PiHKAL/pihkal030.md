@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 30 [2C-G-5](/药物/2C-G-5.md)
 

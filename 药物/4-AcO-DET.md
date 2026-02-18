@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 4-AcO-DET
 ===========
@@ -259,4 +256,3 @@ meta-og:type: article
 
 参考资料
 ----------
-

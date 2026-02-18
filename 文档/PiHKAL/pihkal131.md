@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 131  [METHYL-MMDA-2](/药物/METHYL-MMDA-2.md)
 

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 56 [DMCPA](/药物/DMCPA.md)
 

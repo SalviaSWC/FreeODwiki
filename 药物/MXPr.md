@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 MXPr
 =========
@@ -239,4 +236,3 @@ MXPr 与所有[解离剂](/文档/药物分类/解离剂.md)存在交叉耐受�
 ## 参考文献
 1. [↑] <https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch>
 2. [↑] ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel..."](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (德语). 瑞士联邦秘书处. 检索于 2020年1月1日.
-

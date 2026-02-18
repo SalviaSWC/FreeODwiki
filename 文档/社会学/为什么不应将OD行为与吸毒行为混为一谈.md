@@ -1,7 +1,6 @@
 ---
 title: 为什么不应将OD行为与吸毒行为混为一谈
 description: 
-meta-og:type: article
 ---
 
 # 为什么不应将OD行为与吸毒行为混为一谈？

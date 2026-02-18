@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 38. [5-MEO-DMT](/药物/5-MEO-DMT.md)
 

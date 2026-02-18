@@ -1,7 +1,6 @@
 ---
 title: DPT游离碱转化术
 description: 
-meta-og:type: article
 ---
 
 [◀返回](/文档/home.md)

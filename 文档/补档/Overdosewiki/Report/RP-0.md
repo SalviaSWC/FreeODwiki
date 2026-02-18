@@ -1,7 +1,6 @@
 ---
 title: 散装报告 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 散装报告 | OverdoseWiki

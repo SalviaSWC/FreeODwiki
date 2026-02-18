@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 3 右美沙芬快速问答
 

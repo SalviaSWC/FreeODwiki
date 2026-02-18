@@ -1,7 +1,6 @@
 ---
 title: 茶苯海明 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 茶苯海明^*谵妄、止吐*^

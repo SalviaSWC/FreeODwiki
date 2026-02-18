@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 [上一个](/文档/TiHKAL/tihkal11.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal13.md)
 

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 24. [4-HO-PYR-T](/药物/4-HO-PYR-T.md)
 [上一个](/文档/TiHKAL/tihkal23.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal25.md)

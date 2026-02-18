@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 8 意识改变状态和超自然体验
 

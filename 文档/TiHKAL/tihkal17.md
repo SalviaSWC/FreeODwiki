@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 17.[4-HO-DIPT](/药物/4-HO-DIPT.md)
 [上一个](/文档/TiHKAL/tihkal16.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal18.md)

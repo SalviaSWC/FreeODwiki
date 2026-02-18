@@ -1,7 +1,6 @@
 ---
 title: 报告X1-50t氯硝西泮带来的长效镇静 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 报告X1-50t氯硝西泮带来的长效镇静 | OverdoseWiki

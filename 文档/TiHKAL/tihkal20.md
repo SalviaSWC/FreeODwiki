@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 19.[5-HO-DMT](/药物/5-HO-DMT.md)
 

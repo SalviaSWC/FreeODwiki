@@ -1,7 +1,6 @@
 ---
 title: anti-阿片类
 description: 
-meta-og:type: article
 ---
 
 # 阿片类中毒急救

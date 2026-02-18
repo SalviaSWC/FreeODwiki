@@ -1,6 +1,5 @@
 ---
 title: 我见识过和爱过的苯乙胺物质们一个化学爱情故事
-meta-og:type: article
 ---
 
 [◀返回](/文档/home.md) 

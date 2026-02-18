@@ -1,7 +1,6 @@
 ---
 title: 药物分类
 description: 
-meta-og:type: article
 ---
 
 # 药物分类

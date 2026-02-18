@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 34.[2-ME-DMT](/药物/2-ME-DMT.md)
 [上一个](/文档/TiHKAL/tihkal33.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal35.md)

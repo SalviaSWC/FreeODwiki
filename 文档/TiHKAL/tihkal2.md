@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 2.[DBT](/药物/DBT.md)
 

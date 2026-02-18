@@ -1,7 +1,6 @@
 ---
 title: 报告2-右美沙芬第五高原 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 报告2-右美沙芬第五高原 | OverdoseWiki

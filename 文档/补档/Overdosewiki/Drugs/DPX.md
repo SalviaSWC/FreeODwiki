@@ -1,7 +1,6 @@
 ---
 title: 地芬诺酯 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 地芬诺酯^*选择性阿片类麻醉*^

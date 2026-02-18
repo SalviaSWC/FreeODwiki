@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # FreeODwiki 行为准则
 <!-- 基于howtocook -->

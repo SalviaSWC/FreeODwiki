@@ -1,7 +1,6 @@
 ---
 title: 报告5-多个药物 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 报告5-多个药物 | OverdoseWiki

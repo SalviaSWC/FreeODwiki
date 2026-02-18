@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 6.[DMT](/药物/DMT.md)
 [上一个](/文档/TiHKAL/tihkal5.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal7.md)

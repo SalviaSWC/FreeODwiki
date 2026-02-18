@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 73 [EEE](/药物/EEE.md)
 [上一个](/文档/PiHKAL/pihkal072.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal074.md)
@@ -29,4 +26,3 @@ meta-og:type: article
 ---
 
 [上一个](/文档/PiHKAL/pihkal072.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal074.md)
-

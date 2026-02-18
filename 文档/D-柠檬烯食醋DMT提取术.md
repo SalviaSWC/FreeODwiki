@@ -1,7 +1,6 @@
 ---
 title: D-柠檬烯食醋DMT提取术
 description: 
-meta-og:type: article
 ---
 
 [◀返回](/文档/home.md)

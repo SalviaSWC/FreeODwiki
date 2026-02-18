@@ -1,7 +1,6 @@
 ---
 title: 阿片类药物 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 阿片类药物^*阿片类麻醉*^

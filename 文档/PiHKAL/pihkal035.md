@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 35 [2C-O-4](/药物/2C-O-4.md)
 

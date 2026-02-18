@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # O-PCE
 
@@ -184,4 +181,3 @@ O-PCE 与 [DCK](/药物/DCK.md) 和 [氯胺酮](/药物/氯胺酮.md) 具有密�
 * [MXE](/药物/MXE.md)
 
 ---
-

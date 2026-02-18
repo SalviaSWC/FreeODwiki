@@ -1,7 +1,6 @@
 ---
 title: 异丙嗪 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 异丙嗪^*谵妄、解离、抗精神分裂/无法滥用*^

@@ -1,7 +1,6 @@
 ---
 title: 3-MeO-PCE高剂量
 description: 
-meta-og:type: article
 ---
 
 # 事件记录：3-MeO-PCE（20-30 mg，鼻腔吸入）

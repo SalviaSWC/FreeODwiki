@@ -1,7 +1,6 @@
 ---
 title: 香烟 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 香烟

@@ -1,7 +1,6 @@
 ---
 title: 3-MeO-PCE
 description: 
-meta-og:type: article
 ---
 
 # 3-MeO-PCE

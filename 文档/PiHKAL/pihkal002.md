@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 2\ [AL](/药物/AL.md)
 ---

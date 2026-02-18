@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 37 [CPM](/药物/CPM.md)
 [上一个](/文档/PiHKAL/pihkal036.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal038.md)

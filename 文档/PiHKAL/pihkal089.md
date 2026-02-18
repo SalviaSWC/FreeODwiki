@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 89 [HOT-17](/药物/HOT-17.md)
 [上一个](/文档/PiHKAL/pihkal088.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal090.md)

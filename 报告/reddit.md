@@ -1,7 +1,6 @@
 ---
 title: 红迪报告翻译列表
 description: 
-meta-og:type: article
 ---
 
 # 来自reddit的翻译文档

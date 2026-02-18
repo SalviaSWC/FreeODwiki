@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 96 [M](/药物/M.md)
 

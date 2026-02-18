@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 1\ [AEM](/药物/AEM.md)
 ------

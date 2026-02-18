@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 10 [B](/药物/B.md)
 

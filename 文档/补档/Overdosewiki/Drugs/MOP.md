@@ -1,7 +1,6 @@
 ---
 title: 吗啡 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 吗啡^*阿片类麻醉*^

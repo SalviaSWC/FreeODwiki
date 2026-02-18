@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 136 [MME](/药物/MME.md)
 

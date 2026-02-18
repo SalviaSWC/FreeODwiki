@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 7 充分利用右美沙芬
 

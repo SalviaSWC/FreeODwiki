@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 14 右美沙芬体验和个人报告
 

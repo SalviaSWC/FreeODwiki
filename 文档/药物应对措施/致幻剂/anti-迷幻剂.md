@@ -1,7 +1,6 @@
 ---
 title: anti-迷幻剂
 description: 
-meta-og:type: article
 ---
 
 ---

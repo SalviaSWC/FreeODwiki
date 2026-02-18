@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # NM-2-AI
 

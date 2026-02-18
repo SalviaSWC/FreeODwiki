@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 20.[4-HO-DPT](/药物/4-HO-DPT.md)
 

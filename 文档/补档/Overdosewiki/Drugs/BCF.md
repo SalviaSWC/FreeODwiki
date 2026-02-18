@@ -1,7 +1,6 @@
 ---
 title: 巴氯芬 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 巴氯芬^*焦虑去除、解离、抗躁狂、GABA镇静*^

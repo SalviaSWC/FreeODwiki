@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 12 右美沙芬药物文化
 

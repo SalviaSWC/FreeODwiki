@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 50.[NMT](/药物/NMT.md)
 [上一个](/文档/TiHKAL/tihkal49.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal51.md)

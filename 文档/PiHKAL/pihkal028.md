@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 28 [2C-G-3](/药物/2C-G-3.md)
 

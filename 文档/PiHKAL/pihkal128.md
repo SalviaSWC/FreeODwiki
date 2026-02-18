@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 [上一个](/文档/PiHKAL/pihkal127.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal129.md)
 # 128 [METHYL-J](/药物/METHYL-J.md)

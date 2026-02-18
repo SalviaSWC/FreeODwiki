@@ -1,7 +1,6 @@
 ---
 title: 氨磺必利 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 氨磺必利

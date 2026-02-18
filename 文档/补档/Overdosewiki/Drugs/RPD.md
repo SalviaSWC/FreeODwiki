@@ -1,7 +1,6 @@
 ---
 title: 利培酮 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 利培酮^*抗精神分裂/无法滥用*^

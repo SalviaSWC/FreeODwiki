@@ -1,7 +1,6 @@
 ---
 title: 奈福泮 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 奈福泮^*抗低血压、镇痛、致幻、解离*^

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 178 [3-T-TRIS](/药物/3-T-TRIS.md)
 

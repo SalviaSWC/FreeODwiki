@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 163 [3-TME](/文档/PiHKAL/pihkal163.md)
 

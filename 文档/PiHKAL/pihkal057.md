@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 57 [DME](/药物/DME.md)
 

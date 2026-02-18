@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # BOD
 
@@ -163,4 +160,3 @@ BOD 没有成瘾性，使用欲望甚至可能随时间减少呢。
 * [BOD (维基百科)](https://en.wikipedia.org/wiki/BOD_(psychedelic))
 * [BOD (Erowid 库)](https://erowid.org/library/books_online/pihkal/pihkal014.shtml)
 * [BOD (Isomer Design)](https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=14)
-

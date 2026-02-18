@@ -1,7 +1,6 @@
 ---
 title: 苏糖酸镁-杂项与报告 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 苏糖酸镁-杂项与报告

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 27.[MBT](/药物/MBT.md)
 

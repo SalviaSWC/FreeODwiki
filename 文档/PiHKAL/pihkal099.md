@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 99 [MAL](/药物/MAL.md)
 

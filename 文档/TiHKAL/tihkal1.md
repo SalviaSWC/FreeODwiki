@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 1.[AL-LAD](/药物/AL-LAD.md)
 
@@ -40,4 +37,3 @@ meta-og:type: article
 ---
 
  [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal2.md)
-

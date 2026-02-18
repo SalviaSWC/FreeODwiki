@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 48 [2C-T-17](/药物/2C-T-17.md)
 

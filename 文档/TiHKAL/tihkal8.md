@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 8.[a,N-DMT](/药物/a,N-DMT.md)
 

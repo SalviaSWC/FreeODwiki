@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 5\ [ALEPH-4](/药物/ALEPH-4.md)
 ---------

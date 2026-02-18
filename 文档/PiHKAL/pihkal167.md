@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 167 [4T-MMDA-2](/文档/PiHKAL/pihkal167.md)
 

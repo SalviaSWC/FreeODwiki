@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 139 [ORTHO-DOT](/药物/ORTHO-DOT.md)
 

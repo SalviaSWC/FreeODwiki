@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 9 [ASB](/药物/ASB.md)
 

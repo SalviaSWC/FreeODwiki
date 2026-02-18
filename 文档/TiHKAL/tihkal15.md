@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 15.[4-HO-DBT](/药物/4-HO-DBT.md)
 [上一个](/文档/TiHKAL/tihkal14.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal16.md)

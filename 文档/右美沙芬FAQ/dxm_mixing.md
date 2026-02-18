@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 13 联用右美沙芬和其他药物
 

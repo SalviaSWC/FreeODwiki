@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 54.[TETRAHYDROHARMINE](/药物/TETRAHYDROHARMINE.md)
 [上一个](/文档/TiHKAL/tihkal53.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal55.md)

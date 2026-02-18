@@ -1,7 +1,6 @@
 ---
 title: 胆碱酯酶抑制剂(ChEI)
 description: 
-meta-og:type: article
 ---
 
 # 胆碱酯酶抑制剂

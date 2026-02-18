@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 37. [5-MEO-DIPT](/药物/5-MEO-DIPT.md)
 
@@ -58,4 +55,3 @@ meta-og:type: article
 ---
 
 [上一个](/文档/TiHKAL/tihkal36.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal38.md)
-

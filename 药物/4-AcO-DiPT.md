@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 4-AcO-DiPT
 ===========
@@ -244,4 +241,3 @@ meta-og:type: article
 
 参考资料
 ----------
-

@@ -1,7 +1,6 @@
 ---
 title: 报告8-过量利培酮的噩梦 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 报告8-过量利培酮的噩梦 | OverdoseWiki

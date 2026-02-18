@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 16.[4-HO-DET](/药物/4-HO-DET.md)
 [上一个](/文档/TiHKAL/tihkal15.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal17.md)

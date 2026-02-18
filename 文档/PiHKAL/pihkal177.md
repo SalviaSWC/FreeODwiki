@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 177  [4-TSB](/药物/4-TSB.md)
 

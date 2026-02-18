@@ -1,7 +1,6 @@
 ---
 title: GBL
 description: 
-meta-og:type: article
 ---
 
 GBL

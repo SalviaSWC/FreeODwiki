@@ -1,7 +1,6 @@
 ---
 title: 负责的药物使用
 description: 
-meta-og:type: article
 ---
 
 # 为了安全 ，这将会是不可或缺的

@@ -1,7 +1,6 @@
 ---
 title: 加巴喷丁 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 加巴喷丁^*焦虑去除、GABA镇静*^

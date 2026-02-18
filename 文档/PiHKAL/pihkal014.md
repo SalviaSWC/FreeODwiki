@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # [BOD](/药物/BOD.md)
 

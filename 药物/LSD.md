@@ -1,7 +1,6 @@
 ---
 title: LSD
 description: 
-meta-og:type: article
 ---
 
 >

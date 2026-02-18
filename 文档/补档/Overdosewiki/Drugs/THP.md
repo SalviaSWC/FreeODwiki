@@ -1,7 +1,6 @@
 ---
 title: 苯海索 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 苯海索^*谵妄、致幻*^

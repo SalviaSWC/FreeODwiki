@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 103 [MDBZ](/药物/MDBZ.md)
 

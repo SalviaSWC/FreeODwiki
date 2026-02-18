@@ -1,7 +1,6 @@
 ---
 title: 报告1-茶氨酸 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 报告1-茶氨酸 | OverdoseWiki

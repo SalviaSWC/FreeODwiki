@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 5 右美沙芬体验
 

@@ -1,7 +1,6 @@
 ---
 title: 反解离 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 反解离^*兴奋*^

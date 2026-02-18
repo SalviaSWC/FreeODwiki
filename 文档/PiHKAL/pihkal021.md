@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 21  [3C-BZ](/药物/3C-BZ.md)
 

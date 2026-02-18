@@ -1,7 +1,6 @@
 ---
 title: 地芬尼多 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 地芬尼多^*谵妄*^

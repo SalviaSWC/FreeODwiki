@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 140 [P](/药物/P.md)
 

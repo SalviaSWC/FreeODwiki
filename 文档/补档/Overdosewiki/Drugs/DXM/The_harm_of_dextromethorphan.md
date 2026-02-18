@@ -1,7 +1,6 @@
 ---
 title: 右美沙芬的危害专题 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 右美沙芬的危害专题

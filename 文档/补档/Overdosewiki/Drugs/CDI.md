@@ -1,7 +1,6 @@
 ---
 title: 可待因 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 可待因^*阿片类麻醉*^

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 11  [BEATRICE](/药物/BEATRICE.md)
 

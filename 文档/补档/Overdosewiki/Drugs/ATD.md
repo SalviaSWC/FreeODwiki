@@ -1,7 +1,6 @@
 ---
 title: 金刚烷胺 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 金刚烷胺^*外部幻觉、解离、谵妄*^

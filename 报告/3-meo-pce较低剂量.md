@@ -1,7 +1,6 @@
 ---
 title: 3-meo-pce较低剂量
 description: 
-meta-og:type: article
 ---
 
 # 记录：3-MeO-PCE（18 mg，总剂量；舌下含服）

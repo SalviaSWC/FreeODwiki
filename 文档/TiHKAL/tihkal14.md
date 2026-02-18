@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 14.[HARMINE](/药物/HARMINE.md)
 [上一个](/文档/TiHKAL/tihkal13.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal15.md)

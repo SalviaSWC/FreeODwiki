@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 3.[DET](/药物/DET.md)
 [上一个](/文档/TiHKAL/tihkal2.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal4.md)

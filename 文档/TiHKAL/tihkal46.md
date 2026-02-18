@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 46.[5-MES-DMT](/药物/5-MES-DMT.md)
 [上一个](/文档/TiHKAL/tihkal45.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal47.md)

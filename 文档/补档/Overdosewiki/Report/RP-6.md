@@ -1,7 +1,6 @@
 ---
 title: 报告6-一次普瑞巴林，一次金刚烷胺 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 报告6-一次普瑞巴林，一次金刚烷胺 | OverdoseWiki

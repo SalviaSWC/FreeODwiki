@@ -1,7 +1,6 @@
 ---
 title: anti-迷幻剂
 description: 
-meta-og:type: article
 ---
 
 # 血清素能致幻剂（典型色胺类）过量应急方案 - 赛庚啶

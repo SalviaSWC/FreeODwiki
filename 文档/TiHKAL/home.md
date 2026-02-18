@@ -1,6 +1,5 @@
 ---
 title: 我见识过和爱过的色胺类物质们：化学仍在继续
-meta-og:type: article
 ---
 
 [◀返回](/文档/home.md)

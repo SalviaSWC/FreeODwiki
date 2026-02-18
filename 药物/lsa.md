@@ -1,7 +1,6 @@
 ---
 title: lsa
 description: 
-meta-og:type: article
 ---
 
 麦角酸酰胺

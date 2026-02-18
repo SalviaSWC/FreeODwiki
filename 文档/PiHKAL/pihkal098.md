@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 98 [MADAM-6](/药物/MADAM-6.md)
 

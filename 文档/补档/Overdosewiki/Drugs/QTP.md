@@ -1,7 +1,6 @@
 ---
 title: 喹硫平 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 喹硫平^*全体兴奋递质抑制剂/无法滥用*^

@@ -1,7 +1,6 @@
 ---
 title: 哌醋甲酯 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 哌醋甲酯^*兴奋*^

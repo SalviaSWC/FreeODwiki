@@ -1,7 +1,6 @@
 ---
 title: 报告X2-酒精联用下没有幻觉的的普瑞巴林 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 报告X2-酒精联用下没有幻觉的的普瑞巴林 | OverdoseWiki

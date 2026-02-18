@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 43.[5-MEO-PYR-T](/药物/5-MEO-PYR-T.md)
 [上一个](/文档/TiHKAL/tihkal42.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal44.md)

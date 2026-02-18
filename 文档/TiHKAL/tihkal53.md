@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 53.[T](/药物/T.md)
 [上一个](/文档/TiHKAL/tihkal52.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal54.md)

@@ -1,7 +1,6 @@
 ---
 title: anti-苯二氮卓类药物
 description: 
-meta-og:type: article
 ---
 
 # 苯二氮卓类药物反制

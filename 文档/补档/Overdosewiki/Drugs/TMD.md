@@ -1,7 +1,6 @@
 ---
 title: 曲马多 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 曲马多^*阿片类麻醉、战斗兴奋*^

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 12  [BIS-TOM](/药物/BIS-TOM.md)
 

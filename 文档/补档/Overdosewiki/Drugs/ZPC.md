@@ -1,7 +1,6 @@
 ---
 title: 佐匹克隆 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 佐匹克隆^*镇静、安眠*^

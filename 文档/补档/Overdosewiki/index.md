@@ -1,7 +1,6 @@
 ---
 title: 欢迎来到 od-wiki.com | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 欢迎来到 od-wiki.com^*引言*^

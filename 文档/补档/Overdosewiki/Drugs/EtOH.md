@@ -1,7 +1,6 @@
 ---
 title: 乙醇 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 乙醇^*麻醉*^

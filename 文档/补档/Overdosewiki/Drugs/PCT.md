@@ -1,7 +1,6 @@
 ---
 title: 吡拉西坦 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 吡拉西坦^*脑改善、反解离*^

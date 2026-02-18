@@ -1,7 +1,6 @@
 ---
 title: 4fmph_for_studying_turned_into_one_year_of
 description: 
-meta-og:type: article
 ---
 
 # 4F-Mph本来是为了学习用的，结果变成了一整年的兴奋剂撸管噩梦

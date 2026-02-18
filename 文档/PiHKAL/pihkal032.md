@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 32 [2C-H](/药物/2C-H.md)
 

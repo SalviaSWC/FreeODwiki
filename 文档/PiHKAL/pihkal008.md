@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 8 [ARIADNE](/药物/ARIADNE.md)
 

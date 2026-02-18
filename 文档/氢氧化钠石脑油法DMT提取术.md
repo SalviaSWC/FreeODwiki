@@ -1,7 +1,6 @@
 ---
 title: 氢氧化钠石脑油法DMT提取术
 description: 
-meta-og:type: article
 ---
 
 ---

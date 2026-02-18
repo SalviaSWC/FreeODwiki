@@ -1,7 +1,6 @@
 ---
 title: 二氢可待因-杂项与报告 | OverdoseWiki
 description: 
-meta-og:type: article
 ---
 
 # 二氢可待因-杂项与报告

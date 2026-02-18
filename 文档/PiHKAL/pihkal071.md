@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 71 [DOPR](/药物/DOPR.md)
 [上一个](/文档/PiHKAL/pihkal070.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal072.md)

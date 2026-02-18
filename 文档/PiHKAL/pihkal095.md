@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 95 [LOPHOPHINE](/药物/LOPHOPHINE.md)
 

@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 138 [MPM](/药物/MPM.md)
 

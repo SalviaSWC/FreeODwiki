@@ -1,6 +1,3 @@
----
-meta-og:type: article
----
 
 # 53 [2,4\-DMA](/药物/2,4-DMA.md)
 
