@@ -1,6 +1,9 @@
 
 # FreeODwiki 行为准则
 <!-- 基于howtocook -->
+
+<mark> 施工中 </mark>
+
 ## FreeODwiki的建站理想
 
 你可能会问：“为什么要做 FreeODwiki？为什么要把这么敏感的东西公开写出来？不怕被抓、不怕被骂、不怕惹麻烦吗？会不会恰烂钱？”
