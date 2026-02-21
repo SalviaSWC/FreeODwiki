@@ -4,15 +4,15 @@ description:
 ---
 
 # FreeODWiki——可自由编辑的开源OD百科
-<mark>**愿每一个人都能够自由地获取、共享信息和知识，特别是与OD有关的**
+<mark>**愿每一个人都能够自由地获取、共享信息和知识**
 
 FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)。
 
-点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点.
+点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点。
 
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) 我们的源仓库，star一下会支持我们前进喵！
 
-**[freeod.wiki](https://freeod.wiki)的自动脚本似乎无法正常运行，该站点将无法接收Github的更新**——批注于2026年2月11日
+**[freeod.wiki](https://freeod.wiki)的自动脚本似乎无法正常运行，该站点将无法接收Github的更新**。如果你还在访问[freeod.wiki](https://freeod.wiki)，请改为访问[freeodwiki.org](https://freeodwiki.org/)，我们已经将域名指向了正确的站点。
 
 
 
@@ -29,6 +29,7 @@ FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的�
 
 
 - [⚠免责声明](/关于本站/免责声明.md) <mark>**进站必看！**</mark><br>
+- [本站精神](/关于本站/本站精神.md) <mark>**进站必看！**</mark><br>
 - [💊药物索引](/药物/home.md) **找药看此** <br>
 - [✏️报告索引](/报告/home.md) 使用药物的体验报告 *持续更新中*<br>
 - [🧠药效索引](/药效/home.md) 使用药物产生的主观感受的索引<br>
