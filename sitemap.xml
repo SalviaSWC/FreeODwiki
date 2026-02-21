@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://freeodwiki.org/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2026-02-18T11:41:22Z</lastmod>
+    <lastmod>2026-02-19T14:32:26Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/CONTRIBUTING.html</loc>
-    <lastmod>2026-02-18T11:41:22Z</lastmod>
+    <lastmod>2026-02-20T12:43:24Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -92,13 +92,19 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/关于本站/FreeOD引论.html</loc>
-    <lastmod>2026-02-18T11:41:22Z</lastmod>
+    <lastmod>2026-02-20T12:03:01Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freeodwiki.org/关于本站/免责声明.html</loc>
     <lastmod>2026-02-18T11:41:22Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/关于本站/常见问题.html</loc>
+    <lastmod>2026-02-20T12:43:14Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

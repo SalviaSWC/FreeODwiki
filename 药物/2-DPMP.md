@@ -1,7 +1,7 @@
-
+# 2-DPMP
 [◀返回](./home.md)
 
-# 2-DPMP
+
 
 | ![Skull](/文件/Skull_and_crossbones_darktextred2.png) | **2-DPMP可能会导致[精神病发作](/药效/精神病发作.md)、[躁狂](/药效/躁狂.md)和成瘾的概率比其他兴奋剂要高得多哦。** |
 |---|---|

@@ -1,7 +1,7 @@
-
+# 2C-P
 [◀返回](./home.md)
 
-# 2C-P
+
 
 ![Skull and crossbones darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png)
 

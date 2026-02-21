@@ -1,4 +1,3 @@
-
 # 4-AcO-MiPT
 
 [◀返回](./home.md)
