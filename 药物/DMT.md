@@ -7,7 +7,7 @@ description:
 
 [◀返回](./home.md)
 
-| **DMT 摘要表** | |
+| **DMT ** | |
 | --- | --- |
 | [![DMT.png](/文件/DMT.png)](/文件/DMT.png)<br>化学命名法 | |
 | 俗名 | *DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule* |

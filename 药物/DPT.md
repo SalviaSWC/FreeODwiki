@@ -25,7 +25,7 @@ description:
 
 [◀返回](./home.md)
 
-| **DPT 摘要表** | |
+| **DPT ** | |
 | --- | --- |
 | [![DPT.png](/文件/DPT.png)](/文件/DPT.png)<br>化学命名法 | |
 | 俗名 | *DPT, Dipropyltryptamine, The Light* |

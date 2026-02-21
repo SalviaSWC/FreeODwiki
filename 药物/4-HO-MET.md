@@ -1,5 +1,5 @@
 ---
-title: 4-HO-MET - PsychonautWiki
+title: 4-HO-MET
 description: 
 ---
 
