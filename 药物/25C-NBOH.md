@@ -1,7 +1,7 @@
-
+# 25C-NBOH
 [◀返回](./home.md)
 
-# 25C-NBOH
+
 
 | ![Skull_and_crossbones_darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png) | **25C-NBOH 可能会导致严重的伤害甚至死亡呢。** |
 | --- | --- |
