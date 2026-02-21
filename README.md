@@ -4,15 +4,15 @@ description:
 ---
 
 # FreeODWiki——可自由编辑的开源OD百科
-<mark>**愿每一个人都能够自由地获取、共享信息和知识，特别是与OD有关的**
+<mark>**愿每一个人都能够自由地获取、共享信息和知识**
 
 FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)。
 
-点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点.
+点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点。
 
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) 我们的源仓库，star一下会支持我们前进喵！
 
-**[freeod.wiki](https://freeod.wiki)的自动脚本似乎无法正常运行，该站点将无法接收Github的更新**——批注于2026年2月11日
+**[freeod.wiki](https://freeod.wiki)的自动脚本似乎无法正常运行，该站点将无法接收Github的更新**。如果你还在访问[freeod.wiki](https://freeod.wiki)，请改为访问[freeodwiki.org](https://freeodwiki.org/)，我们已经将域名指向了正确的站点。
 
 
 
@@ -29,18 +29,18 @@ FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的�
 
 
 - [⚠免责声明](/关于本站/免责声明.md) <mark>**进站必看！**</mark><br>
+- [❤本站精神](/关于本站/本站精神.md) <mark>**进站必看！**</mark><br>
+- [❓OD是什么](/文档/od.md) 一个我们没资格，也无法回答的问题，不过我们可以尝试回答。<br>
 - [💊药物索引](/药物/home.md) **找药看此** <br>
 - [✏️报告索引](/报告/home.md) 使用药物的体验报告 *持续更新中*<br>
 - [🧠药效索引](/药效/home.md) 使用药物产生的主观感受的索引<br>
 - [📚文档索引](/文档/home.md) 与药物有关的文档的索引，包括如下的条目：
     + [❤负责任的用药索引](文档/负责任的用药索引页.md) 若选择使用药物，务必最小化受到的伤害，因为这是你的职责<br>
-    + [🧪教学索引](文档/教学索引页.md) 无化学，不极乐<br>
+    + [🧪教学索引](文档/教学索引页.md) *无化学，不极乐*<br>
     + [🧮药物分类索引](/文档/药物分类/home.md) 各种药物按照药效、化学、作用机理的分类
-    + [🚮补档](/文档/补档/home.md) 对文档的补充，我们只能接近而非达到完美<br>
-- [🫂贡献指南](/CONTRIBUTING.md) 点击这里了解如何编辑本站的条目  *致瞬息万变之物，及亘古不变之物。文档虽或有谬误，但仍是引路之灯塔。致敬每一位在药圈中和已经离开药圈的先辈——FOW贡献者们*
-> **特别说明**：
-> *FreeODwiki*中的*Free*的意思是我们这个百科是开源自由的，非其他含义。该命名法在开源项目中是一种常见的命名法。*免费od？自由od？才怪呢*
-
+    + [🚮补档](/文档/补档/home.md) 其他有关OD的站点的补档*致瞬息万变之物，及亘古不变之物。文档虽或有谬误，但仍是引路之灯塔。致敬每一位在药圈中和已经离开药圈的先辈——FOW贡献者们*<br>
+- [🫂贡献指南](/CONTRIBUTING.md) 点击这里了解如何编辑本站的条目  
+- [🔗实用链接](/关于本站/实用链接.md) 一些其他关于药物的网站的链接
 
 |![FreeODwiki图标](https://github.com/SalviaSWC/FreeODwiki/blob/main/FreeODwiki.png?raw=true)| FreeODwiki站点Logo|
 | -- | -- |
