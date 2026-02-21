@@ -100,7 +100,7 @@ description:
 + **[自发性躯体感觉](/药效/躯体效应.md "Spontaneous physical sensations")**
 + **[瞳孔扩大](/药效/瞳孔扩大.md "Pupil dilation")**
 
-### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects_(3).png)
+### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects.png)
 
  在[兴奋剂](/文档/药物分类/兴奋剂.md "Stimulant")体验的[药效褪去](/文档/药效时长.md "Offset")期间发生的效果通常感觉比[药效达峰](/文档/药效时长.md "Peak")期间发生的效果更消极和不舒服。这通常被称为“下头（comedown）”，是因为[神经递质](/文档/神经递质.md "Neurotransmitter")耗尽造成的呢。其效果通常包括：
 + **[焦虑](/药效/焦虑.md "Anxiety")**

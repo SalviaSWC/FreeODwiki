@@ -205,7 +205,7 @@ MDA 作为神经递质[血清素](./../文档/血清素.md "Serotonin")、[多�
 *     + **[存在主义自我实现](./../药效/认知效应.md "Existential self-realization")** - 虽然这种效应存在，但与其他[致幻剂](./../文档/药物分类/致幻剂.md "Hallucinogen")如[麦斯卡林](./麦斯卡林.md "Mescaline")、[LSD](./LSD.md "LSD") 或 [MXE](./3-MeO-PCE.md "MXE") 相比，它不那么明显或一致。然而，由于 MDA 相对于 MDMA 具有相对的平静和缺乏混乱的能量，加上其延长的持续时间，可能使其成为更好的治疗剂，可以认为更类似于[麦斯卡林](./麦斯卡林.md "Mescaline")而不是 [MDMA](./MDMA.md "MDMA")。
     + **[统一感和相互联系感](./../药效/认知效应.md "Unity and interconnectedness")** - 2-3 级的统一、合一和相互联系的体验在 MDA 中很常见。这个组成部分最一致地在高剂量下的大型人群中，如狂欢派对和音乐活动中，以“与人群融为一体”的形式显现。
 
-### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects_(3).png)
+### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects.png)
 
 * 发生在[兴奋剂](./../文档/药物分类/兴奋剂.md "Stimulant")体验的[药效褪去](./../文档/药效时长.md#药效褪去 "Offset")期间的效应通常感觉是消极和不舒服的，这与在其[药效达峰](./../文档/药效时长.md#药效达峰 "Peak")期间发生的效应相比。这通常被称为“comedown”，是因为[神经递质](./../文档/科学信息索引页.md "Neurotransmitter")耗尽而发生的。通常认为 MDA 的 comedown 比 [MDMA](./MDMA.md "MDMA") 的更严酷。其效应通常包括：
     + **[焦虑](./../药效/焦虑.md "Anxiety")**

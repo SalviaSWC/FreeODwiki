@@ -138,8 +138,8 @@
 *   **强迫性补服**
 *   **偏执** —— 和大多数强力兴奋剂一样，据报道 4-FMA 会产生偏执状态，尽管目前还不清楚这相对于其他兴奋剂在什么程度和条件下会发生。
 
-### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects_(3).png)
-[![Aftereffects (3).png](/文件/Aftereffects_(3).png)](/文件/Aftereffects_(3).png)
+### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects.png)
+[![Aftereffects (3).png](/文件/Aftereffects.png)](/文件/Aftereffects.png)
 
 *   [兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)阶段通常感觉比[药效达峰](/文档/药效时长.md#药效达峰)时更消极和不舒服。这通常被称为“Comedown”，是因为[神经递质](/文档/神经递质.md)耗尽造成的呢。其影响通常包括：
     *   **焦虑**

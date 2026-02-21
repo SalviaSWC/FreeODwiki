@@ -127,7 +127,7 @@ description:
 * **[嗜睡](/药效/困倦.md)**
 * **[思维加速](/药效/思维加速.md)** 或 **[思维减速](/药效/思维减速.md)**
 
-### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects_(3).png)
+### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects.png)
 
 *   
 * **[梦境增强](/药效/梦境增强.md)**
