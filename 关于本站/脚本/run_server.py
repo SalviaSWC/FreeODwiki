@@ -27,6 +27,7 @@ theme:
   logo: 文件/FreeODwiki2.png 
 use_directory_urls: false
 markdown_extensions:
+  - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true          
   - admonition
