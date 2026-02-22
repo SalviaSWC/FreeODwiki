@@ -158,72 +158,72 @@ description:
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能诱发全方位的效应。* 同样，**不良反应**在较高剂量下变得越来越可能，并且可能包括**成瘾、严重伤害或死亡** ☠。
 
 ### **[躯体效应](/药效/躯体效应.md)** ![Child.png](/文件/Child.png)
-*     + **[自发的躯体感觉](/药效/躯体效应.md "Spontaneous bodily sensations")** - 这也许是 5-MeO-DMT 体验中最显著的感觉。它将身体和触觉感觉的强度提高到如此压倒性的程度，以至于它可以在全身的每一个神经末梢引起持续和可重复的全身高潮的感觉，其程度在任何其他迷幻物质中都找不到。这种体验可能会导致一种感觉，即难以维持呼吸动作。然而，这并不是真正的或危险的[呼吸抑制](/药效/呼吸抑制.md "Respiratory depression")体验，并被认为是安全的，尽管缺乏对这种现象的研究喵。
-    + **[躯体欣快感](/药效/躯体欣快感.md "Physical euphoria")**
-    + **[触觉增强](/药效/触觉效应.md "Tactile enhancement")**
-    + **[躯体沉重感](/药效/躯体沉重感.md "Perception of bodily heaviness")**
-    + **[躯体控制增强](/药效/躯体控制增强.md "Bodily control enhancement")**
-    + **[躯体压力感](/药效/躯体压力感.md "Bodily pressures")**
-    + **[躯体形态感改变](/药效/躯体形态感改变.md "Changes in felt bodily form")**
-    + **[重力感改变](/药效/重力感改变.md "Changes in felt gravity")**
-    + **[躯体自主](/药效/躯体自主.md "Physical autonomy")**
-    + **[肌肉收缩](/药效/肌肉紧张.md "Muscle contractions")**
-    + **[肌肉痉挛](/药效/肌肉痉挛.md "Muscle spasms")**
-    + **[肌肉颤动](/药效/肌肉颤动.md "Muscle tremors")**
-    + **[运动控制丧失](/药效/运动控制丧失.md "Motor control loss")**
-    + **[呼吸抑制](/药效/呼吸抑制.md "Respiratory depression")**
-    + **[恶心](/药效/恶心.md "Nausea")** - 5-MeO-DMT 引起的恶心可能比任何其他迷幻剂都更明显和持续。用户在无意识或半意识状态下呕吐的情况并不少见，这也是始终建议在有人监督下使用的原因之一。然而，有些人报告说体验只有极少或短暂的恶心。当恶心确实发生时，它通常在药效上升期后消失喵。
-    + **[瞳孔扩大](/药效/瞳孔扩大.md "Pupil dilation")**
-    + **[皮肤潮红](/药效/皮肤潮红.md "Skin flushing")**
-    + **[空间定向障碍](/药效/认知效应.md "Spatial disorientation")**
-    + **[体温调节抑制](/药效/体温调节抑制.md "Temperature regulation suppression")**
+  + **[自发的躯体感觉](/药效/躯体效应.md "Spontaneous bodily sensations")** - 这也许是 5-MeO-DMT 体验中最显著的感觉。它将身体和触觉感觉的强度提高到如此压倒性的程度，以至于它可以在全身的每一个神经末梢引起持续和可重复的全身高潮的感觉，其程度在任何其他迷幻物质中都找不到。这种体验可能会导致一种感觉，即难以维持呼吸动作。然而，这并不是真正的或危险的[呼吸抑制](/药效/呼吸抑制.md "Respiratory depression")体验，并被认为是安全的，尽管缺乏对这种现象的研究喵。
++ **[躯体欣快感](/药效/躯体欣快感.md "Physical euphoria")**
++ **[触觉增强](/药效/触觉效应.md "Tactile enhancement")**
++ **[躯体沉重感](/药效/躯体沉重感.md "Perception of bodily heaviness")**
++ **[躯体控制增强](/药效/躯体控制增强.md "Bodily control enhancement")**
++ **[躯体压力感](/药效/躯体压力感.md "Bodily pressures")**
++ **[躯体形态感改变](/药效/躯体形态感改变.md "Changes in felt bodily form")**
++ **[重力感改变](/药效/重力感改变.md "Changes in felt gravity")**
++ **[躯体自主](/药效/躯体自主.md "Physical autonomy")**
++ **[肌肉收缩](/药效/肌肉紧张.md "Muscle contractions")**
++ **[肌肉痉挛](/药效/肌肉痉挛.md "Muscle spasms")**
++ **[肌肉颤动](/药效/肌肉颤动.md "Muscle tremors")**
++ **[运动控制丧失](/药效/运动控制丧失.md "Motor control loss")**
++ **[呼吸抑制](/药效/呼吸抑制.md "Respiratory depression")**
++ **[恶心](/药效/恶心.md "Nausea")** - 5-MeO-DMT 引起的恶心可能比任何其他迷幻剂都更明显和持续。用户在无意识或半意识状态下呕吐的情况并不少见，这也是始终建议在有人监督下使用的原因之一。然而，有些人报告说体验只有极少或短暂的恶心。当恶心确实发生时，它通常在药效上升期后消失喵。
++ **[瞳孔扩大](/药效/瞳孔扩大.md "Pupil dilation")**
++ **[皮肤潮红](/药效/皮肤潮红.md "Skin flushing")**
++ **[空间定向障碍](/药效/认知效应.md "Spatial disorientation")**
++ **[体温调节抑制](/药效/体温调节抑制.md "Temperature regulation suppression")**
 
 ### **[视觉效应](/药效/视觉效应.md)** ![Eye](/文件/Eye.png)
 
-* 5-MeO-DMT 的视觉效应可以分为几个部分，这些部分随着剂量的增加而逐渐增强。与其持续压倒性和强烈的伴随认知和躯体效应相比，5-MeO-DMT 似乎具有已知迷幻体验种类中最成比例的微弱的视觉效应。
-    + **[视觉锐度增强](/药效/视觉锐度增强.md "Visual acuity enhancement") 或 [视觉锐度抑制](/药效/视觉锐度抑制.md "Visual acuity suppression")** - 5-MeO-DMT 同样能够降低和提高视觉敏锐度。哪种效应会显现似乎几乎完全是随机选择的，并且很大程度上取决于情境。
-    + **[漂移](/药效/漂移.md "Drifting")** ([变形](/药效/漂移.md "Drifting"), [呼吸](/药效/漂移.md "Drifting"), [融化](/药效/漂移.md "Drifting"), [流动](/药效/漂移.md "Drifting")) - 与其他迷幻剂相比，这种效应在风格上可以描述为与 DMT 相同，细节高度丰富，运动缓慢平滑，外观静止。
-    + **[颜色偏移](/药效/颜色偏移.md "Colour shifting")**
-    + **[环境球体化](/药效/视觉效应.md "Environmental orbism")**
-    + **[递归](/药效/视觉效应.md "Recursion")**
+ 5-MeO-DMT 的视觉效应可以分为几个部分，这些部分随着剂量的增加而逐渐增强。与其持续压倒性和强烈的伴随认知和躯体效应相比，5-MeO-DMT 似乎具有已知迷幻体验种类中最成比例的微弱的视觉效应。
++ **[视觉锐度增强](/药效/视觉锐度增强.md "Visual acuity enhancement") 或 [视觉锐度抑制](/药效/视觉锐度抑制.md "Visual acuity suppression")** - 5-MeO-DMT 同样能够降低和提高视觉敏锐度。哪种效应会显现似乎几乎完全是随机选择的，并且很大程度上取决于情境。
++ **[漂移](/药效/漂移.md "Drifting")** ([变形](/药效/漂移.md "Drifting"), [呼吸](/药效/漂移.md "Drifting"), [融化](/药效/漂移.md "Drifting"), [流动](/药效/漂移.md "Drifting")) - 与其他迷幻剂相比，这种效应在风格上可以描述为与 DMT 相同，细节高度丰富，运动缓慢平滑，外观静止。
++ **[颜色偏移](/药效/颜色偏移.md "Colour shifting")**
++ **[环境球体化](/药效/视觉效应.md "Environmental orbism")**
++ **[递归](/药效/视觉效应.md "Recursion")**
 
 #### 几何
-    贯穿整个旅程的视觉几何结构通常不会发生，这与 [DMT](./DMT.md "DMT") 形成鲜明对比，在其最高状态下不会超过 7 级（尽管有报道称涉及非视觉的 8b 级）。它隐约类似于 [DMT](./DMT.md "DMT")，但尺寸明显更小，并且更有可能在黑暗中或没有干扰的情况下显现。就外观而言，可以通过其[变化](/药效/视觉效应.md "Geometry")全面描述为：复杂性错综复杂，形式抽象，感觉上有机和数字并存，组织结构化，光线明亮，配色多彩，阴影有光泽，锐利和柔和的边缘并存，尺寸小，速度快，运动平滑，圆角和棱角并存，深度沉浸且强度一致。5-MeO-DMT 的独特之处在于，在突破性剂量下，它独特地倾向于导致 [8B 几何](/药效/视觉效应.md "8B Geometry") 而不是 [8A 级](/药效/视觉效应.md "8A Geometry")。
+贯穿整个旅程的视觉几何结构通常不会发生，这与 [DMT](./DMT.md "DMT") 形成鲜明对比，在其最高状态下不会超过 7 级（尽管有报道称涉及非视觉的 8b 级）。它隐约类似于 [DMT](./DMT.md "DMT")，但尺寸明显更小，并且更有可能在黑暗中或没有干扰的情况下显现。就外观而言，可以通过其[变化](/药效/视觉效应.md "Geometry")全面描述为：复杂性错综复杂，形式抽象，感觉上有机和数字并存，组织结构化，光线明亮，配色多彩，阴影有光泽，锐利和柔和的边缘并存，尺寸小，速度快，运动平滑，圆角和棱角并存，深度沉浸且强度一致。5-MeO-DMT 的独特之处在于，在突破性剂量下，它独特地倾向于导致 [8B 几何](/药效/视觉效应.md "8B Geometry") 而不是 [8A 级](/药效/视觉效应.md "8A Geometry")。
 
 ### **[认知效应](/药效/认知效应.md)** ![User.png](/文件/User.png)
 
-*     + **[失忆](/药效/认知效应.md "Amnesia")**
-    + **[分析增强](/药效/认知效应.md "Analysis enhancement")**
-    + **[焦虑](/药效/认知效应.md "Anxiety")**
-    + **[概念性思维](/药效/认知效应.md "Conceptual thinking")**
-    + **[情感宣泄](/药效/认知效应.md "Catharsis")**
-    + **[困惑](/药效/认知效应.md "Confusion")**
-    + **[妄想](/药效/认知效应.md "Delusion")**
-    + **[情感增强](/药效/认知效应.md "Emotion enhancement")**
-    + **[记忆抑制](/药效/认知效应.md "Memory suppression")**
-        - **[自我消亡](/药效/认知效应.md "Ego death")** - 这种效应在 5-MeO-DMT 上比任何其他已知物质都更一致和可重复喵。
-    + **[正念](/药效/认知效应.md "Mindfulness")**
-    + **[复兴感](/药效/认知效应.md "Rejuvenation")**
-    + **[自主声音交流](/药效/听觉效应.md "Autonomous voice communication")**
-    + **[思维连通性](/药效/认知效应.md "Thought connectivity")**
-    + **[时间扭曲](/药效/认知效应.md "Time distortion")**
-    + **[清醒](/药效/认知效应.md "Wakefulness")**
++ **[失忆](/药效/认知效应.md "Amnesia")**
++ **[分析增强](/药效/认知效应.md "Analysis enhancement")**
++ **[焦虑](/药效/认知效应.md "Anxiety")**
++ **[概念性思维](/药效/认知效应.md "Conceptual thinking")**
++ **[情感宣泄](/药效/认知效应.md "Catharsis")**
++ **[困惑](/药效/认知效应.md "Confusion")**
++ **[妄想](/药效/认知效应.md "Delusion")**
++ **[情感增强](/药效/认知效应.md "Emotion enhancement")**
++ **[记忆抑制](/药效/认知效应.md "Memory suppression")**
+    - **[自我消亡](/药效/认知效应.md "Ego death")** - 这种效应在 5-MeO-DMT 上比任何其他已知物质都更一致和可重复喵。
++ **[正念](/药效/认知效应.md "Mindfulness")**
++ **[复兴感](/药效/认知效应.md "Rejuvenation")**
++ **[自主声音交流](/药效/听觉效应.md "Autonomous voice communication")**
++ **[思维连通性](/药效/认知效应.md "Thought connectivity")**
++ **[时间扭曲](/药效/认知效应.md "Time distortion")**
++ **[清醒](/药效/认知效应.md "Wakefulness")**
 
 ### **[听觉效应](/药效/听觉效应.md)** ![Volume-up.png](/文件/Volume-up.png)
 
-*     + **[增强](/药效/听觉效应.md "Auditory enhancement")**
-    + **[扭曲](/药效/听觉效应.md "Auditory distortion")**
-    + **[幻觉](/药效/听觉效应.md "Auditory hallucinations")**
++ **[增强](/药效/听觉效应.md "Auditory enhancement")**
++ **[扭曲](/药效/听觉效应.md "Auditory distortion")**
++ **[幻觉](/药效/听觉效应.md "Auditory hallucinations")**
 
 ### **[超个人](/文档/精神探索.md "Transpersonal")效应**
 
-* **注意**：对于许多人来说，这些效应在抽吸或汽化 5-MeO-DMT 时比其他“经典迷幻剂”（如 [LSD](./LSD.md "LSD") 或 [麦斯卡林](./麦斯卡林.md "Mescaline")）更具可重复性和力量，这很可能是由于其非常强烈但相对短暂的效应。这些成分是 5-MeO-DMT 独有的，因为对于大多数用户来说，它们更有可能在“突破”体验期间显现，而不是亚突破水平的旅程。
+**注意**：对于许多人来说，这些效应在抽吸或汽化 5-MeO-DMT 时比其他“经典迷幻剂”（如 [LSD](./LSD.md "LSD") 或 [麦斯卡林](./麦斯卡林.md "Mescaline")）更具可重复性和力量，这很可能是由于其非常强烈但相对短暂的效应。这些成分是 5-MeO-DMT 独有的，因为对于大多数用户来说，它们更有可能在“突破”体验期间显现，而不是亚突破水平的旅程。
 
-    + **[永恒主义感知](/药效/认知效应.md "Perception of eternalism")**
-    + **[自我设计感知](/药效/认知效应.md "Perception of self-design")**
-    + **[宿命论感知](/药效/认知效应.md "Perception of predeterminism")**
-    + **[感知到暴露于意识的内部机制](/药效/认知效应.md "Perceived exposure to inner mechanics of consciousness")**
-    + **[联合与互联](/药效/认知效应.md "Unity and interconnectedness")**
++ **[永恒主义感知](/药效/认知效应.md "Perception of eternalism")**
++ **[自我设计感知](/药效/认知效应.md "Perception of self-design")**
++ **[宿命论感知](/药效/认知效应.md "Perception of predeterminism")**
++ **[感知到暴露于意识的内部机制](/药效/认知效应.md "Perceived exposure to inner mechanics of consciousness")**
++ **[联合与互联](/药效/认知效应.md "Unity and interconnectedness")**
 
 ### 体验报告
 

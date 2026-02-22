@@ -49,3 +49,5 @@ FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的�
 
 |![FreeODwiki星标](https://starchart.cc/SalviaSWC/FreeODwiki.svg?variant=adaptive)|我们的Github仓库收获的stars |
 | -- | -- |
+
+除非另有说明，本站的页面采用[CC-BY-SA 4.0](/LICENSE)许可协议。

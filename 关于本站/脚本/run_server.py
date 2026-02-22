@@ -33,6 +33,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - footnotes
+
+
 plugins:
     - awesome-nav
     - search:

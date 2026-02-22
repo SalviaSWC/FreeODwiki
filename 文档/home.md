@@ -20,9 +20,9 @@ description:
 ---
 | 英文名| 中文链接| 备注| 下载链接|
 |---|---| --- | --- |
-|DXM FAQ| [右美沙芬FAQ](/文档/右美沙芬FAQ/dxm_faq.md)| 全世界一切od右美的起源中的起源，然而大家却只顾着od了，丢掉了文档中一些宝贵的精神，令人感叹......| <mark> 施工中 |
-|PiHKAL: a Chemical Love Story| [我所见识过与爱过的苯乙胺类物质们：一个化学爱情故事](/文档/PiHKAL/home.md) | 摇头丸之父有关使用苯乙胺类物质进行人体实验的记录。| [FreeODwiki中文版](/文件/我见识过和爱过的苯乙胺物质们：一个化学爱情故事%20-%20FreeODwiki版.pdf)|
-|TiHKAL: The Continuation|[我所见识过与爱过的色胺类物质们：化学仍在继续](/文档/TiHKAL/home.md)| 摇头丸之父有关使用色胺类物质进行人体实验的记录。| [FreeODwiki中文版](/文件/我见识过和爱过的色胺类物质们：化学仍在继续%20-%20FreeODwiki版.pdf)|
+|DXM FAQ| [右美沙芬FAQ](/文档/右美沙芬FAQ/dxm_faq.md)| 全世界一切od右美的起源中的起源，然而大家却只顾着od了，丢掉了文档中一些宝贵的精神，令人感叹......| [FreeODwiki中文版——右美沙芬常见问题解答](/文件/dxm_faq_zh-cn.pdf) |
+|PiHKAL: a Chemical Love Story| [我所见识过与爱过的苯乙胺类物质们：一个化学爱情故事](/文档/PiHKAL/home.md) | 摇头丸之父有关使用苯乙胺类物质进行人体实验的记录。| [FreeODwiki中文版——TiHKAL](/文件/我见识过和爱过的苯乙胺物质们：一个化学爱情故事%20-%20FreeODwiki版.pdf)|
+|TiHKAL: The Continuation|[我所见识过与爱过的色胺类物质们：化学仍在继续](/文档/TiHKAL/home.md)| 摇头丸之父有关使用色胺类物质进行人体实验的记录。| [FreeODwiki中文版——PiHKAL](/文件/我见识过和爱过的色胺类物质们：化学仍在继续%20-%20FreeODwiki版.pdf)|
 
 [❤ 负责任的用药](/文档/负责任的用药索引页.md)<br>
 ---
