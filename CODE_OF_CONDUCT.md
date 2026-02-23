@@ -1,3 +1,9 @@
+---
+title: FreeODWiki项目行为准则
+description: 这是我们建站的理想，我们希望人们了解我们团队的理想，还请你认真阅读并遵守
+
+---
+
 
 # FreeODwiki 行为准则
 <!-- 基于howtocook -->
