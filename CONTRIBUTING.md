@@ -1,6 +1,6 @@
 ---
 title: 贡献指南
-description: 
+description: 出一份力为我们FreeODwiki做出贡献吧，我们欢迎你来完善我们的od百科
 ---
 
 # 贡献指南

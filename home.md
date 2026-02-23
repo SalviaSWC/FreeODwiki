@@ -1,14 +1,14 @@
 ---
 title: FreeODWiki主页
-description: 
+description: 在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！
 ---
 
 # FreeODWiki——可自由编辑的开源OD百科
 <mark>**愿每一个人都能够自由地获取、共享信息和知识**
 
-FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)。
+FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)喵！
 
-点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点。
+点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点喵！
 
 点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) 我们的源仓库，star一下会支持我们前进喵！
 
@@ -38,7 +38,7 @@ FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的�
     + [❤负责任的用药索引](文档/负责任的用药索引页.md) 若选择使用药物，务必最小化受到的伤害，因为这是你的职责<br>
     + [🧪教学索引](文档/教学索引页.md) *无化学，不极乐*<br>
     + [🧮药物分类索引](/文档/药物分类/home.md) 各种药物按照药效、化学、作用机理的分类
-    + [🚮补档](/文档/补档/home.md) 其他有关OD的站点的补档*致瞬息万变之物，及亘古不变之物。文档虽或有谬误，但仍是引路之灯塔。致敬每一位在药圈中和已经离开药圈的先辈——FOW贡献者们*<br>
+    + [🚮补档](/文档/补档/home.md) 其他有关OD的站点的补档<br>*致瞬息万变之物，及亘古不变之物。文档虽或有谬误，但仍是引路之灯塔。致敬每一位在药圈中和已经离开药圈的先辈——FOW贡献者们*<br>
 - [🫂贡献指南](/CONTRIBUTING.md) 点击这里了解如何编辑本站的条目  
 - [🔗实用链接](/关于本站/实用链接.md) 一些其他关于药物的网站的链接
 
