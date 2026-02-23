@@ -1,4 +1,6 @@
-Escaling50mg肌注测试
+[◀返回](/报告/home.md)
+
+# Escaling50mg肌注测试
 
 11:36 肌注Escaling50mg
 
