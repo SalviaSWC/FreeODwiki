@@ -6,11 +6,11 @@ description: 在这里所有od知识都是自由开源编辑的，你可以来�
 # FreeODWiki——可自由编辑的开源OD百科
 <mark>**愿每一个人都能够自由地获取、共享信息和知识**
 
-FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)喵！
+FreeODwiki是一个开源项目，旨在提供有关od和精神活性物质的信息，并减少上述事物造成的伤害。如果发现有错误，欢迎大家联系我们指正或自行[通过Github编辑](/CONTRIBUTING.md)。
 
-点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点喵！
+点此前往[freeodwiki.org](https://freeodwiki.org/) FreeODwiki的网络站点。
 
-点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) 我们的源仓库，star一下会支持我们前进喵！
+点此前往[GItHub源站点](https://github.com/SalviaSWC/FreeODwiki) 我们的源仓库，star一下会支持我们前进！
 
 **[freeod.wiki](https://freeod.wiki)的自动脚本似乎无法正常运行，该站点将无法接收Github的更新**。如果你还在访问[freeod.wiki](https://freeod.wiki)，请改为访问[freeodwiki.org](https://freeodwiki.org/)，我们已经将域名指向了正确的站点。
 
