@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/报告/111事件.html</loc>
-    <lastmod>2026-02-21T13:37:34Z</lastmod>
+    <lastmod>2026-02-23T08:54:54Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -201,6 +201,12 @@
   <url>
     <loc>https://freeodwiki.org/报告/DMTFreeBase.html</loc>
     <lastmod>2026-02-18T11:41:22Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/报告/Escaling50mg肌注报告.html</loc>
+    <lastmod>2026-02-23T08:55:06Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -302,7 +308,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/报告/home.html</loc>
-    <lastmod>2026-02-23T04:44:57Z</lastmod>
+    <lastmod>2026-02-23T08:58:38Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3242,7 +3248,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/od.html</loc>
-    <lastmod>2026-02-23T07:43:57Z</lastmod>
+    <lastmod>2026-02-23T09:18:25Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

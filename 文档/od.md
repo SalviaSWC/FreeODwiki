@@ -3,18 +3,22 @@ title: od
 description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历史的文档能够帮到你。
 ---
 
-# OD
+
 
 罄竹难书......
 
+OD是什么？一个我们没资格、也无法回答的问题，不过我们可以尝试回答。本文并不是某些社交媒体上利用od圈制作的所谓“纪实片”，那类作品诚然是新闻传播学利用常人无法接触到的资料制作的杰作，但它们的内核是“懂的都懂”的“新闻传播学”，价值也就止于那了。相反，本文通过详尽的历史事实，意图展现一个更全面、更深入的OD圈的历史。<font color="red"> 为防止本文档被别有用心的人利用，本文档及其所有历史版本采用CC BY-ND 4.0 即 CC 署名—禁止演绎 4.0 协议国际版许可，侵权必究，敬请谅解。详见[这里](/LICENSE2) </font>。
+
 <mark> 施工中</mark> 我觉得所有呼应后文的文本需要使用斜体，或其他字体表示。
 
-注：本文中所有事件来自[鼠尾草](x.com/salviaswc)及其他推特网友们的个人叙述。如果你知道某些事情的隐情，但是史书中未能提及，请提出疑问并上报。本历史是将活跃在推特的ODer视为重心写的，因此可能出现缺乏其他平台上的ODer的情况。本文可能出现语言不通顺的情况，后续会修复，敬请谅解。
+注：本文中所有事件来自[鼠尾草](x.com/salviaswc)及其他推特网友们的个人叙述。如果你知道某些事情的隐情，但是史书中未能提及，欢迎提出疑问并上报；本历史是基于活跃在推特的OD圈，因此可能出现缺乏其他平台上的ODer的情况，如果你有资料，欢迎补充；本文可能出现语言不通顺的情况，因为笔者精神状态不佳，后续会修复，敬请谅解。
 
-为了便于读者理解，文中加入了大量超链接，可以选择性阅读。
+为了便于读者理解，文中加入了大量超链接，读者可以选择性的阅读。
 
-<font color="red"> 该文档及其所有历史版本采用CC BY-ND 4.0 即 CC 署名—禁止演绎 4.0 协议国际版许可，请谅解，特此说明。详见[这里](/LICENSE2) </font>
 
+# OD圈史
+
+*<sup>by@Salviaswc和[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki/tree/main)参与者们</sup>*
 
 |![](/文件/Needy_Girl_Overdose.png)|《主播女孩重度依赖》的宣传图。<br>此游戏被广泛视为是OD行为的主要源头。|
 |-|-|
@@ -193,7 +197,7 @@ description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历
 
 不可否认的是，跨性别圈与OD圈的相互联系非常紧密，而彩霞的无心之举功不可没。
 
-> 🏳‍⚧雪雨氷織🍥 @yukiukoori
+> <img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">🏳‍⚧雪雨氷織🍥 @yukiukoori
 > 
 > 毒品对我真的没有什么吸引力比较我发明的东西可一点也不比这些赖呢，今天整的感觉成瘾风险好高，真的不想这样搞了。但是考虑到其实好大一部分精神因素没办法复刻其实也无所谓了，就慢慢享受到不知不觉睡着为止吧。
 >
@@ -206,33 +210,49 @@ description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历
 
 在她的其他的推文中，她介绍了自己对于苯乙胺、水合氯醛、[安非他酮](/药物/安非他酮.md)的研究，这里不再详细表述。
 
->🏳‍⚧雪雨氷織🍥 @yukiukoori 3:25 AM · Aug 14, 2022
+><IMG SRC="../文件/彩霞头像.JPG" STYLE="HEIGHT:25PX; VERTICAL-ALIGN:TOP;">🏳‍⚧雪雨氷織🍥 @yukiukoori 3:25 AM · Aug 14, 2022
 >
 >另外这不是纯药推ggl，所以推接合作，平时会发色图，可以发日常吐槽，也接客出来和人贴贴，偶尔自己拍色图，照片。只不过作为od圈奠基者我也要产写粮的。
 
 或许，正是这些危险的“接客”行为为某些怀有恶意的人，提供了渠道。
 
-> 🏳‍⚧雪雨氷織🍥 @yukiukoori   5:24 AM · Sep 4, 2022
+> <img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">🏳‍⚧雪雨氷織🍥 @yukiukoori   5:24 AM · Sep 4, 2022
 > 药娘圈热知识：如果后悔了，任何钡盐以及其他重金属离子中毒的解药是EDTA（乙二胺四乙酸二钠）以及硫代硫酸钠，当然其他金属离子螯合剂都是可以的，可以大量服用，最多丢失一点钙。平时可以在采血管中找到这种物质的单质，快转给准备重开的姐妹吧~  
 > <img src="../文件/彩霞20220904.jpg" style="height:400px; vertical-align:top;">
 
 她是一个善良的人，却因“发明OD”饱受骂名......
 
->🏳‍⚧雪雨氷織🍥 @yukiukoori
+><img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">🏳‍⚧雪雨氷織🍥 @yukiukoori
 >
 >摸摸，适度过量，请勿成瘾哦，有不舒服及时咨询哦。 
 >
 >12:18 PM · Oct 10, 2022
 
-如其所言，她**从事OD是为了不OD**。据称，她“发明OD”的初心，是为了让那些深陷抑郁、被无法改变的苦难折磨着、濒临自杀的人们一点活下去的念想，最终目的是不依赖药物就能正常生活下去。有人说，她通过OD右美沙芬，解决了困扰自己许久的抑郁，从此不再需要依赖药物。她以为自己的善意能够被大家理解，却最终落得这个下场。
+如其所言，她**从事OD是为了不OD**。据称，她“发明OD”的初心，是为了让那些深陷抑郁、被无法改变的苦难折磨着、濒临自杀的人们一点活下去的念想，最终目的是不依赖药物就能正常生活下去。有传言说，她通过OD[右美沙芬](/药物/右美沙芬.md)，解决了困扰自己许久的抑郁，从此不再需要依赖药物。知乎上有人替她辩护：她只向那些精神即将崩溃，只剩自杀一条路走的人另辟[药物](/药物/home.md)这条蹊径。她以为自己的善意能够被大家理解，却最终落得这个下场，令人遗憾。
 
-不过，在了解她的最终下场是什么之前，我们不得不先把其他情况介绍一下。2022年11月，当局显然已经发现了民间从事的OD活动，并采取手段尝试遏制。当局决定先拿右美沙芬开刀。
+不过，在了解她的最终下场是什么之前，我们不得不先把其他情况介绍一下。
 
-|2022年11月，右美沙芬网络禁售开始实行，它打响了这一场残酷的不对称斗争的第一枪。|![](/文件/202211.jpg) |
+2022年10月是<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞的最后一个推文的发布日期。此时，当局实行的“动态清零”政策仍然没有放松，对于身处中国大陆的人来说，这种人人自危已经成为了常态：每个人每天早上起来第一件事就是看看自己所居住的小区是否被封控了。一旦小区被封控，整个小区的居民就无法上学或上班，甚至网购的商品(如OD药物)都难以送达。
+
+这种严格的政策已经持续了两年半，没有任何缓解的迹象。对于不少人来说，这种压力愈发难以忍受，他们的心理健康状态严重恶化，濒临崩溃。
+
+然而，对于ODer们来说，尽管他们的肉体仍然受到被封控政策禁锢的威胁，那些能够改变精神状态的[药物](/药物/home.md)却能让他们的灵魂遨游在[幻觉](/药效/幻觉状态.md)的海洋中，无人能够限制他们；所以，只要他们手上还有一盒OD药物，他们的灵魂就能拥有免受封控的自由(虽然并不是以一种常规的形式)。
+
+
+或许正是因此，越来越多对OD感兴趣的人不再将OD行为停留于纸面上，而是从事真正的OD行为。每一位打算或已经初尝改变的精神状态的禁果的的ODer们的心情是可想而知的：他们既急切又担忧，第二天自己买的OD药物的快递包裹是否会由于“疫情原因”无法送达，于是他们疯狂囤够OD药物。一旦OD药物送到了他们手上，就像没了命一样吞服，却把自己的安全忽略了。许多人因药物引发的各种不良反应进了医院、落了残疾、甚至丧了命。那会儿，越来越多的推特网友发布推文，晒出自己从事OD行为后，因不良反应住进医院的诊断单。
+
+
+
+
+随着住进医院的人数越来越多，OD行为也愈发进入当局的视野中。<!-- TBD待补充图片-->2022年11月，当局显然已经发现了民间从事的OD活动愈发明显，并采取手段尝试遏制。
+
+当局决定先拿右美沙芬开刀。至于为什么第一个挨刀的是右美沙芬，可能是因为娱乐性使用右美沙芬自身的风险就很大，因OD右美沙芬住院的人的数字飞涨；或许是因为右美沙芬的娱乐性使用的历史在中国早已非常久远了；也许是因为单方右美沙芬制剂的适应症并不多，而且几乎完全可以被不适合娱乐性使用的愈美片替代，导致当局对右美沙芬“动刀”的社会影响较小。鉴于当局在国家层面上的任何举动都是经过慎重考虑的，有关部门很可能综合了各个因素，于是就决定管管右美沙芬了。
+
+|2022年11月，右美沙芬被当局要求禁止在网络上销售。它正式打响了这一场残酷的不对称斗争的第一枪。<br>然而，实行上，直到笔者编写时，只有单方右美沙芬被限制网购，愈美片等复方制剂并未被限制。|![](/文件/202211.jpg) |
 |-|-|
 
 
-在一个相近的时间点，[推特的一个贴子](https://x.com/mengqintiancai2/status/1593158796905676800)得到了广泛关注，收获了大量点赞和转发。虽然该推文的推主似乎不再从事OD，但他发的这个贴子收获的浏览量堪称OD圈史上的最辉煌的成就之一。有人将这一OD指南归于上文提到的[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)所作，因为在她的一个推文中曾提到她要制作“第二版OD指南”。这个贴子有12张图片，声称是“科学OD指南”。以下12张图片是贴子的内容： <!--- 推主似乎是男娘 ，不知是否有关-->
+在一个相近的时间点，[推特的一个贴子](https://x.com/mengqintiancai2/status/1593158796905676800)得到了广泛关注，收获了大量点赞和转发。虽然该推文的推主似乎不再从事OD，但他发的这个贴子收获的浏览量堪称OD圈史上的最辉煌的成就之一。有人将这一OD指南归于上文提到的[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)所作，因为在她的一个推文中曾提到她要制作“第二版OD指南”。这个贴子有12张图片，号称是“科学OD指南”。以下12张图片是贴子的内容： <!--- 推主似乎是男娘 ，不知是否有关-->
 
 
 
@@ -248,17 +268,17 @@ description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历
 
 通过他的推文不难发现，他是一个对于当局充满不满的人。他高调地支持一些激进地反对当局的推文。然而，即便是当时最激进的此类推文，也远远比现在的推文更容易接受、更关乎事实、更接近现实，令人怀念。
 
-他的推文激进地反对当局实行的言论审查，并主张自由的互联网访问。他转发或发布的反对当局的推文并不仅仅是发泄情绪，而更重要的是呼吁大家崇尚开放和自由。
+他的推文激进地反对当局实行的言论审查，并主张自由的互联网访问。他与推特上一名“支持高福利社会+毒品合法化+自由开明独裁”的博主，<img src="../文件/梨老师头像.jpg" style="height:25px; vertical-align:top;">🍐老师经常互相在推文下评论留言。他转发或发布的反对当局的推文并不仅仅是发泄情绪，而是对于崇尚开放和自由的呼吁。
 
-根据当时推文判断，他已经开始从事od[普瑞](/药物/普瑞巴林.md)。除了od以外，他还是一个好奇的年轻人，将探索的视野从od药物本身转移到更一般的精神活性物质。他钻研过药物的化学结构特点，探讨过药物的机理，研究过[冰毒](/药物/甲基苯丙胺.md)的制取。在他的推文下，第一批扎根推特的ODer们聚集了起来。
+他是一个好奇的年轻人，将探索的视野从od药物本身转移到更一般的精神活性物质。他钻研过药物的化学结构特点，探讨过药物的机理，研究过[冰毒](/药物/甲基苯丙胺.md)的制取。他深受oder们的尊敬，被成为“药师”。在他的推文下，第一批扎根推特的ODer们聚集了起来。
 
-值得注意的是，他并不是那种宣称自己OD是为了自残的那一派。看看下面的推文，也许[<img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)通过从事OD和探索药物，既不是为了快感，也不是为了自残。他从事OD目的，可能存在救自己于抑郁中的成分，不过，笔者认为，他是在OD圈中探索那些被列为禁忌的知识的目的，反对当局的信息审查吧......
+值得注意的是他从事OD的目的。看看下面的推文，也许[<img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)通过从事OD和探索药物，既不是为了快感，也不是为了自残。他从事OD目的，可能存在不少拯救自己于抑郁中的成分，不过，笔者认为，他在通过OD圈中探索那些被列为禁忌的知识并将其分享出来，是为了反抗当局的信息审查吧......
 
 >山中的旅人 @yang38432408  
 >Jan 2, 2023   
 >在此条推文的评论写下你的16词核心价值观    
 >  
->Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
 >自由 进步 平等 人权   
 >解放 公正 法治 博爱   
 >反修 反极权 反威权 嗑药   
@@ -266,7 +286,7 @@ description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历
 >2:49 PM · Jan 3, 2023
 
 
-不幸的是，他既缺少足够的知识，又没找到研究方法，甚至未能保护自己。最终，他败给了一碗[相思汤](/药物/相思汤.md)(有人称其为“[死藤水](/药物/死藤水.md)”，但这不完全准确)或其中的[单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)，成为od圈内的可惜之人，沦为路人的笑柄，令人叹息......
+不幸的是，他虽然有建设性的思想(相比自残式OD者)，却既缺少足够的知识，又没找到研究方法，甚至未能保护自己。最终，他败给了一碗[相思汤](/药物/相思汤.md)(有人称其为“[死藤水](/药物/死藤水.md)”，但这不完全准确)或其中的[单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)，成为od圈内的可惜之人，沦为路人的笑柄，令人叹息......
 
 
 
@@ -276,51 +296,51 @@ description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历
 |-|-|
 
 
-> Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 > 右美沙芬 24×15mg 测试  
 > 1:54 PM · Oct 15, 2022
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 13:53服用  
 > <img src="../文件/Spring风20221015.jpg" style="height:300px; vertical-align:top;">
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:36 第一轮呕吐感 猜测是非选择性血清素再摄取抑制造成的 血清素2C受体被过度激活 导致恶心感
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:43 声音变远 声音变小
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:45 视觉形态改变 思维改变 音乐欣赏程度增高 头晕感(鼻梁骨)
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:53 瞳孔扩散 头皮发麻 音乐欣赏程度增高 体温生高
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 15:02 意志力实在是顶不住这个药 肌无力 视觉色彩增强 视觉形状增强
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 16:46 药效结束
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 警惕右美OD后吃饭 恶心死我了 一定要空腹！
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 右美沙芬我怀疑是不是在里面加了催吐药
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 我要失去控制了
 >
 > いくら @88BExUpvIQ7sOC8 · Oct 15, 2022  
 > 喜欢，听起来好专业的样子，虽然我听不懂，我只会哇我在飞诶
 >
-> Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 实际上我也只是记录了大体 进药效了我都没办法理智
 
 他还将自己od[右美沙芬](/药物/右美沙芬.md)的过程直播记录下来，发布在推特上。
 
 
->Spring风#参宿四 @Spr1ngW1nd 
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd 
 >
 >在今天下午右美沙芬药效过去后 产生的右美沙芬戒断反应
 > 
@@ -340,33 +360,33 @@ description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历
 
 
 
-> Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 > AXS-05组合我的一些看法  
 > Nov 12, 2022
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 右美沙芬经过CYP2D6酶转换为NMDA非竞争性拮抗剂 科研思路可能就是:利用DXM的SRI+NRI特性 并且安非他酮已经是一款在市面上的NDRI 并且具有CYP2D6酶的抑制特性 为什么不选用同样有这个特性的苯海拉明 一方面可能是制药厂考虑到抗胆碱剂 可能会造成副作用 另一方面也有可能考虑到这个组合可能不受人待见
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 因为这个药物组合就是因为它有CYP2D6抑制的特性 曾经有人也对其进行过药物滥用 并且制药厂怎么使用合法的理由 去申请这个药通过临床测试 这个时候药厂想到了有CYP2D6抑制特性的安非他酮 并且又是合法的抗抑郁药物 实际上药厂就是为了用右美沙芬的SRI和NRI的效果 这个效果在一部分药物滥用人群中表现
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 的抗抑郁效果十分客观 并且药厂也不要人“嗨”了 嗨了就通不过临床测试了 这个时候又是要CYP2D6抑制了 不让它转换成DXO 不让它产生“解离感” 通俗点来说就是人飘起来走路轻飘飘的感觉 并且从一定角度上来说 两款XRI不应该同时出现(例如两款不同的SSRI联用可能导致血清素综合症) 并且NDRI的DRI效果也有可能
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 导致一定的副作用 在单独用右美沙芬来说 它的抗抑郁效果十分优秀 并且Sigma1效果也有可能促智
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 这种选择性 σ1 激动剂最近引起了我的兴趣  
 > PRE-084 增加 GDNF 的表达  
 > 如果我没记错的话 这将支持你的假设即 sigma 受体激动剂可以永久增加多巴胺受体，并解释所谓的“促智和抗抑郁作用”
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 我想了一下，如果你想一想，导致“余辉”的大量药物是 σ 受体配体 因此，σ受体在多巴胺受体表达中的作用可能与此有关
 
-以上是他对于药理学探讨的一点摘录，也许他本来能够成为一名[益智药](/文档/药物分类/益智药.md)爱好者<sup>biohacker</sup>的......
+以上是他对于药理学探讨的一点摘录，也许他有成为一名[益智药](/文档/药物分类/益智药.md)爱好者<sup>biohacker</sup>的潜力的......
 
-> Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >
 > <img src="../文件/Spring风20221113.jpg"  style="height:333px; vertical-align:top;">
 >
@@ -375,37 +395,37 @@ description: 究竟什么是od？希望这一篇有关OD圈的罄竹难书的历
 > L @sequoiacandy · Nov 13, 2022  
 > 10
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 13, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 13, 2022  
 > 双性
 
 Spring风是双性恋哦~
 
 
-> Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 > 阿片类药物 测试  
 > 6:32 PM · Nov 19, 2022  
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 18:29服用
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 20:08 肠道感觉很奇怪 感觉有点像是便秘上厕所的感觉
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 21:14 有点困 头顶有点发晕
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 20, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 20, 2022  
 > 感觉做事情没有动力 人很木纳
 >
 > 猫屎bot @wind_dmr · Nov 19, 2022  
 > 啥药啊
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 氢可酮
 
 2022年11月19日，Spring风首次接触了阿片类药物，氢可酮。这也许为他接触哮喘片，后不幸离世埋下了伏笔......
 
->Spring风#参宿四 @Spr1ngW1nd
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd
 >
 >50mg粉末大概是多少
 >
@@ -413,15 +433,15 @@ Spring风是双性恋哦~
 
 反面教材哦！根据上下文推断，这里Spring风指的粉末的“多少”是显然体积。请不要目测粉末，因为粉末的颗粒密度有疏有密，如果要准确量取粉末，一定要用称。详见[药物剂量量取](/文档/药物剂量量取.md)。如此逐渐鲁莽的行为，正是他的最终结局的铺垫。
 
-> Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 > 麻黄碱合成甲基苯丙胺  
 > https://bbgate.com/threads/methamphetamine-from-ephedrine-tablets.302/  
 > 7:37 PM · Nov 26, 2022  
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
 > 将盐酸伪麻黄碱（2.0 g）与红磷（0.6 g）、碘（4.0 g）和蒸馏水（2 mL）在圆底烧瓶（100 mL）中混合，并连接冷凝器。将混合物回流 24 小时，然后冷却。冷却后，将混合物用等体积的水稀释并滤出红磷。将几克硫代硫酸钠放入烧杯中，加入氢氧化钠溶液 (25% wt/vol, 8 mL) 以碱化溶液。
 >
-> Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
 > 然后将其添加到过滤后的反应混合物中，并旋转以显示甲基苯丙胺游离碱  
 > 呈油状，浮于水溶液之上。添加甲苯(20mL)以萃取甲基苯丙胺游离碱。甲苯提取物澄清至淡黄色。通入无水氯化氢气体以显露白色沉淀物，将其用甲苯洗涤。固体在高真空下干燥。
 
@@ -430,119 +450,121 @@ Spring风对于[冰毒](/药物/甲基苯丙胺.md)制取的讨论......
 |2022年11月26日，Spring风达成了1000fo，也许当时的od圈影响力重心正在快速向墙外平台转移|![](/文件/Spring风20221126.jpg)|
 |-|-|
 
-> Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 > 右美沙芬 24×15mg 测试  
 > <img src="../文件/Spring风20221216.jpg"  style="height:333px; vertical-align:top;">  
 > 7:56 PM · Dec 16, 2022  
 > 21.8K Views  
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 20:24 服用
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 21:31 我的脑子想让我吐
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 21:55 轻微痛觉消失 走路轻盈感
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 21:59 险些 呕吐
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 22:02 呕了
 
 Spring风购买了[右美沙芬](/药物/右美沙芬.md)原粉，并将其装入胶囊，却无法避免呕吐......
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 昨晚的事情基本都忘完了 第一次接触那么高的解离(720mg) 只能说感觉有点像是急性精神病 幻觉 精神错乱  
 > 貌似我嗑右美沙芬从上一周就只是有解离了 几乎没有那种起效时昏头的欣快感
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 右美沙芬 24×15mg 再给药（20点给药 21:40呕吐）  
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 1:59 高解离
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 2:54 中解离
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 路上很困差点被车创
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 会不会因为肝脏衰竭死掉
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 高解离真感觉自己不是自己
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 高解离差点没给我橄榄 很想睡觉
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 那些真的是我干过的事情？
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 我感觉我今天出去毒驾的不是我驾的
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 意识恢复了些
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 48t应该对肝没什么影响吧
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 飞得最高的一次解离
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 解离太高了 我肾脏有点痛 现在能思考一点了
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 一切都是虚假的
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 1:18 精神状态有点不太稳 很晕
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 1:25 疼痛消失
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 我到底在哪
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 一切都不真实 想呕
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 有点怕等会前面24直接开始生效 后面叠加24直接bad trip进急救室
 
-> Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 无所谓了 加
 
-这是Spring风最习惯的撰写的药物报告的方式——通过推文连载。Spring风声称这是他经历过的最高的一次解离——*区区*48t右美沙芬的记录。然而，对如今的ODer们来说，服用这么高的剂量的右美沙芬似乎已经成为日常了......那么高的剂量，真的有必要嘛？
+这就是Spring风最习惯的撰写的药物报告的方式——通过推文连载。Spring风声称这是他经历过的最高的一次解离——*区区*48t右美沙芬的记录。然而，对如今的ODer们来说，服用这么高的剂量的右美沙芬似乎已经成为日常了......那么高的剂量，真的有必要嘛？
 
 ---
 
+时间进入2022年年底，随着政策环境的愈发严峻，尤其是对于右美沙芬网络销售的管制
+
 异变还是发生了。当时，离上文提到的[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)消失已经过了一个多月，到了2022年12月，终于有人放出有关彩霞的消息。而Spring风发布的推文当即引起了大家的最广泛的注意。
 
-> Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 > 跨性别人士 彩霞@yukiukoori  
 > 因帮助未成年跨性别人士逃离原生家庭被其父母以及社群内成员恶意举报 于11月6日被上海警方以“聚众淫乱”污蔑逮捕 至今未能放出 如果“罪名”成立 将会面临五年以下有期徒刑  
 > 1:24 AM · Dec 21, 2022  
 > 313K Views  
-> Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 相关内容  
 ><img src="../文件/Spring风20221221A.jpg" style="height:500px; vertical-align:top;"> 
 ><img src="../文件/Spring风20221221B.jpg" style="height:489.437px; vertical-align:top;">
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 被捕当天没有聚众淫乱 但是当天被捕的四个人 其中一个人的手机里查到了淫乱的视频 尽管视频里的人不是彩霞 警方依然把案件定为“聚众淫乱”  给彩霞以“聚众淫乱”定罪
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 警察的诱导式提问分明就是想要冲业绩做出的表现 这类案件定性本身就没那么严重 却非要以其他人手机的淫乱视频给彩霞定罪 这不是冲业绩是什么
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 警方超期扣押 刑讯逼供 执法不当 诬告陷害 完完全全的官僚主义
 >
-> Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 我很愤怒 莫须有的罪名套在了自己的身上 这种无力回天的感觉 真是令人恶心
 
 据称，[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)被自己帮助过的人所陷害。
@@ -635,35 +657,35 @@ Spring风购买了[右美沙芬](/药物/右美沙芬.md)原粉，并将其装�
 
 这名推特网友名叫Anilovr，生前与Spring风的关系很好，似乎是他的相当重要的人物。在生命的最后时刻，Anilovr在推特用户名后面加了一个后缀，“```#参宿四```”，那一颗现在也许已经不再存在的星星。
 
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >Dec 30, 2022  
 >听到这个信息的时候 感觉没有情绪 不是悲伤也不是任何 感觉有些虚假 就如同家里人突然与世长辞的感觉 太突然了 以至于让我觉得这都是虚假的 解离的感觉 理应我是应该感受到悲伤   
 >(引用该推文)
 
 Spring风发表了一个悼念的推文，随后在自己的用户名后也加上了一个“```#参宿四```”以纪念这位推特网友。悲伤的是，他的账号将永远带着这个```#参宿四```。
 
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >梦到Ani回我信息了   
 >10:21 AM · Dec 31, 2022   
 >
->Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
 >Dec 31, 2022   
 >好像是梦到发信息给我说被救回来了 大概好像是说好苦什么的   
 
->Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
 >现在翻了翻聊天记录 才忽然明白是什么意思了...今天上推看到信息说昨晚上Ani火化了...昨晚梦到她被急救过来了QQ发信息说口干 嘴巴苦......   
 ><img src="../文件/Spring风20221231.jpg" style="height:250px; vertical-align:top;">    
 >1:30 PM · Dec 31, 2022
 
->Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
 >还是不能接受 如果说是有一天突然回我信息了说自己没大事呢   
 >4:46 PM · Jan 1, 2023   
 
->Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
 >还是不能接受啊 还是不能接受啊 万一只是暂时退推一段时间呢 万一只是暂时不想接触互联网这种呢 还是没办法接受还是没办法接受啊 越来越多的信息指向她已经离开了   
 >11:18 PM · Jan 3, 2023
 
->Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
 >参宿四以不稳定著称 远在640光年外的它或许早就消失 但是人们依然可以仰望星空看到它 即便参宿四早已消失 而人们依然可以仰望着你 你说是吗
 抬头 便能看到在星空中的你   
 >1:40 AM · Jan 4, 2023
@@ -674,109 +696,115 @@ Spring风发表了一个悼念的推文，随后在自己的用户名后也加�
 
 而这一篇记录推文所反应的问题尤为突出：
 
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >
 >司来吉兰+苯乙胺组合 测试  
 >2:25 PM · Jan 4, 2023  
 >62.7K Views
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >司来吉兰 2×5mg 14:28 服用
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:33 服用苯乙胺 约500mg
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:44 脑袋莫名开始有些轻盈 身体开始发轻 手开始不痛
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:45 不再焦虑烦躁 感觉手臂变轻了 心脏跳的更快
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:46 手臂酸痛消失 烦躁情绪消失 心跳加快
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:47 脑袋有轻微电流穿过 好震撼的感觉 清醒的感觉 活着的感觉
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:47 进入很专注的状态
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:48 视线开始轻微有些异常 脑袋有轻微电流 身体在变轻
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:50 人变得非常清醒 比其他什么时候都清醒 清晰的能感受到自己的心跳
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:51 时间不再像刚才那样漫长煎熬
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:54 心跳113
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:55 刚开始来的感觉特别强烈 后面适应过后貌似还好？ 心跳102
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:56 心跳125
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:57 胃部强烈 刺激 想呕吐
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:01 刚进入状态会有强烈的刺激感 后随着适应刺激刺激变得不那么强烈（？）
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:05 我猜测胃部的一些还没有吸收 有些只是通过舌下到达了脑内 有可能之后在胃部吸收的还会产生第二轮高峰
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:09 困意
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:10 嗜睡 手机信息有点乱点 看不清什么的 判断有些问题
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:30 吸入了 1×75mg 安非他酮
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:41 头皮有发麻感觉
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:44 心跳 76 明明很低 但是还是能清晰听到 希望别因为心肌膜炎给我寄了就行
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:57 心跳 100 貌似没有药效 或者说是没有那种刚开始特别的感觉了
 >
->Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >21:54 不想动 不想上网不想碰手机不想接触任何东西
 
-在这个时长达3小时的药物报告连载中，记录心率以确保安全的方法诚然值得肯定，但Spring风展现出了一些令人担忧的鲁莽用药方式。例如，他在药效结束后未能抵制自己陷入[强迫性补量](/药效/强迫性补量.md)状态，一种典型由兴奋剂产生的[药效](/药效/home.md)。他[鼻吸](/文档/给药途径.md)了[安非他酮](/药物/安非他酮.md)，可想而知是为了缓解[兴奋剂](/文档/药物分类/兴奋剂.md)的[退效](/文档/药效下降期.md)反应。
+在这个长达3小时的药物报告连载中，Spring风记录了自己的心率，以增加安全性。这种[减少伤害](/文档/负责任的用药索引页.md)方法诚然值得肯定，但Spring风展现出了一些令人担忧的鲁莽的用药方式。例如，他在药效结束后未能抵制自己陷入[强迫性补量](/药效/强迫性补量.md)状态，一种典型由兴奋剂产生的[药效](/药效/home.md)。他[鼻吸](/文档/给药途径.md)了[安非他酮](/药物/安非他酮.md)，可想而知是为了缓解[兴奋剂](/文档/药物分类/兴奋剂.md)的难受的[退效](/文档/药效下降期.md)反应。
 
+|2023年1月7日Spring风在推特上发表的两张图片，配文“武器展示”。<br>图片中，可见Spring风囤积了大量药物，如[洛哌丁胺](/药物/洛哌丁胺.md)、[右美沙芬](/药物/右美沙芬.md)、[普瑞巴林](/药物/普瑞巴林.md)和一些胶囊。<br>可想而知，这些胶囊肯定是空胶囊，用于装填药片或粉末如苯乙胺试剂，以缓解吞服大量药物时的苦味和消化道刺激。|![](/文件/Spring风20230107.jpg) |![](/文件/Spring风20230107B.jpg)|
+|-|-|-|
 
+悲剧的当天是2023年1月8日。
 
+那天早些时候，Spring风
 
+|2023年1月8日，Spring风|![](/文件/Spring风20230108.jpg) |
+|-|-|
 
 很多人认为，`剧烈变形`事件只不过是一起偶然事件，由三个偶然事件引发，那碗被Spring风一饮而尽的相思汤中被放了农药、或者是他受到[幻觉](/药效/幻觉状态.md)的影响割腕自杀、亦或者是他当天早些时候服用的[麻黄碱](/药物/麻黄碱.md)与相思汤中的[单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)引发了[药物联用的恶性不良反应](/文档/危险药物联用.md)。
 
