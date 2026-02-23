@@ -37,7 +37,7 @@ description:
 - [非空腹状态下加巴喷丁测试](/报告/非空腹状态下加巴喷丁测试.md)
 - [专注达-盐酸哌甲酯缓释片](/报告/专注达-盐酸哌甲酯缓释片.md)
 - [金刚烷胺的失效](/报告/金刚烷胺的失效.md)
-- [Escaling50mg肌注报告]（/报告/Escaling50mg肌注报告.md）
+- [Escaling50mg肌注报告]（https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A%2FEscaling50mg%E8%82%8C%E6%B3%A8%E6%8A%A5%E5%91%8A.md）
 ## 其他网站报告
 
 [Erowid报告汉化版](./erowid/home.md) *Erowid的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid上的报告基本不会出现前言不搭后语的情况。*<br>
