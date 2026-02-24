@@ -1,10 +1,7 @@
 ---
 title: 氢氧化钠石脑油法DMT提取术
-description: 
+description: 提取dmt来吸，听起来挺诱人，来看看如何提取dmt吧
 ---
-
----
-
 
 [◀返回](/文档/home.md)
 

@@ -1,6 +1,6 @@
 ---
 title: 可逆性MAOA抑制剂
-description: 
+description: 更安全的选择，来看看可逆性MAOA抑制剂吧！这里有它的简介和相互作用，好好看哦
 ---
 
 [◀返回](/文档/home.md)
