@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/CONTRIBUTING.html</loc>
-    <lastmod>2026-02-26T13:42:58Z</lastmod>
+    <lastmod>2026-02-26T16:35:20Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/关于本站/待完成的项目.html</loc>
-    <lastmod>2026-02-23T10:54:41Z</lastmod>
+    <lastmod>2026-02-26T17:44:11Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3272,7 +3272,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/文档/od.html</loc>
-    <lastmod>2026-02-26T15:07:17Z</lastmod>
+    <lastmod>2026-02-26T21:21:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7760,7 +7760,7 @@
   </url>
   <url>
     <loc>https://freeodwiki.org/药物/home.html</loc>
-    <lastmod>2026-02-23T10:53:06Z</lastmod>
+    <lastmod>2026-02-26T18:03:51Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8433,6 +8433,12 @@
   <url>
     <loc>https://freeodwiki.org/药物/金刚烷胺.html</loc>
     <lastmod>2026-02-18T11:41:28Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freeodwiki.org/药物/镁剂.html</loc>
+    <lastmod>2026-02-26T18:06:29Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
