@@ -7,9 +7,9 @@ description: 什么是OD？OD圈又是什么？希望这一篇有关OD圈的罄�
 
 *<sup>by@Salviaswc和[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki/tree/main)参与者们 </sup>*
 
-## 前言
-
 <ruby>罄<rt>pí</rt>竹<rt>shì</rt>难<rt>zhēn</rt>书<rt>duō</rt></ruby>......
+
+## 前言
 
 od是什么？一个我们没资格、也无法回答的问题，不过我们可以尝试回答。本文并不是某些社交媒体上利用od圈制作的所谓“纪实片”，那类作品诚然是新闻传播学利用常人无法接触到的资料制作的杰作，但它们的内核是“懂的都懂”的“新闻传播学”，价值也就止于那了。相反，本文通过详尽的历史事实，意图展现一个更全面、更深入的od圈的历史。
 
