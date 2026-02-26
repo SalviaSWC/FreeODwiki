@@ -3,6 +3,8 @@ title: od圈的历史
 description: 什么是OD？OD圈又是什么？希望这一篇有关OD圈的罄竹难书的历史的文档能够帮到你。
 ---
 
+<!---别动标题，影响不好！ --->
+
 # od圈的历史
 
 *<sup>by@Salviaswc和[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki/tree/main)参与者们 </sup>*
@@ -1026,11 +1028,11 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 例如，从<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)建立的伊始，他就陷入了对于[苏糖酸镁](/药物/镁剂.md)的痴迷：
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >联络人向我问询了一种化学物质：L-苏糖酸镁（简记左苏糖镁）的作用。我查询后，发现它可能会是比吡拉西坦与茶氨酸更有效的反解离剂。但该物质2010年才被发现，也没有什么更多的信息。请各位一起探究！  
 >5:43 PM · Jan 14, 2024
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Jan 14, 2024  
 >目前已知左苏糖镁具有：  
 >补充Mg2+  
@@ -1040,7 +1042,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >增强肠道蠕动  
 >上调海马神经元中NMDA受体的NR2B亚基的表达（反解离）
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >苏糖酸镁逼我得吃三个人的饭量，换来的是感知认知强化，以及毫不嗜睡，入睡快速。这值得吗？  
 >最严重的是这种影响长到离谱，丝毫不亚于优米的后遗症。我都怀疑苏糖酸镁是否也是靠类似于后遗症的方式来维持良效的了  
 >8:49 PM · May 4, 2024
@@ -1312,9 +1314,301 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >“就跟疫情爆发的时候拉隔离区一样，隔离区里的人死活不管”    
 >2:24 PM · May 27, 2024
 
-然后，<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥，就是当初拉他出来建overdosewiki的，由于不满后藤的精神，分裂出了另一个百科——而那个百科就是如今的<img src="../文件/化学极乐百科.jpg" style="height:25px;vertical-align:top;">[化学极乐百科](overdose.day)。
+插入一段绝望的、未能满足ODer们期望的，眼睁睁看着一切走向坏的结局的推文
 
-此后，
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+>我违反医学伦理学   
+>我作为MRP轮椅委员会药师擅自违反MRP   
+>我对不起你们，我对不起医学伦理学，我对不起所有人……  
+>这一切都是我的自作自受，这一切都是我的所作所为……    
+><img src="../文件/后藤20240623.jpg" style="height:300px;vertical-align:top;">   
+>9:27 PM · Jun 23, 2024  
+
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD     
+>· Jun 23, 2024     
+>DPZ，你全家死绝    
+><img src="../文件/后藤20240623B.jpg" style="height:300px;vertical-align:top;">  
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 24, 2024  
+>从他妈近乎地狱的13个小时中暂且恢复了清醒，我保证我没有任何自杀意愿，我就是在一次多了其他药物的测试中出了他妈的意外。他妈的，我真是个罪人。躯体还他妈在痛，呕吐感与不适，窒息感什么的。裤子在使用尿壶时不慎浸湿，全身都被吐了7次而肮脏不堪。好在牢藤终于是硬抗过来了，MRP ENGAGED!  
+><img src="../文件/后藤20240624.jpg" style="height:300px;vertical-align:top;">   
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 24, 2024  
+>先声明一下，这次意外与吡拉西坦、苏糖酸镁、茶氨酸、咖啡因无关，都是另一个他妈的药物害的。草，牢藤吃晚安吐过满床螺蛳粉，吃海明出过重症抑郁+谵妄，都硬抗过来了，就这次居然倒在小小otc下，草
+
+
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 25, 2024  
+>所以由此可见，胆碱那一块不能碰，既不舒服也死不掉  
+>以及，胆碱酯酶负责分解胆碱，胆碱酯酶抑制剂可阻止胆碱分解，强化胆碱水平，与抗胆碱相反。别看个抑制就以为这也是抗胆碱，建议重修生必一
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 25, 2024  
+>牢藤来总结问题了  
+>胆碱酯酶抑制过量，则引起胆碱能危象，则震颤、恶心、腹痛、呕吐。类似有机磷农药中毒，却他妈死不掉  
+>抗胆碱过量，则引起谵妄，则重症肌无力、呼吸困难、痛苦、恐慌。就像把人生中能遭受的痛苦全都叠上来了  
+>这次牢藤栽胆碱酯酶抑制上了
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 25, 2024  
+>终于是拆吊针能下床了，我这是进了肾内科天啊……  
+><img src="../文件/后藤20240625.jpg" style="height:300px;vertical-align:top;">   
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 25, 2024  
+>起码截止08.01，限制牢藤的服药。限制如下：  
+>1. 禁止使用任何药物，包括苏糖酸镁、茶氨酸、吡拉西坦等药物  
+>2. 禁止使用粉剂咖啡因  
+>3. 不禁止正常食物  
+>请牢藤自由发挥营养学
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>1. 我那次没吃胞磷胆碱钠，只有10tDPZ  
+>2. 据报告，一些人员五六片石杉碱甲+七八颗胞磷胆碱钠都没问题，导致我严重误判  
+>3. 纯属个人智障行为，与odwiki无关  
+>12:04 PM · Jun 26, 2024  
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 7, 2024  
+>其实那天我从未想要AChEI。我就是想拿它有十几Ki的Sigma-1激动，只不过我小看了沙林毒气的威力！我以为沙林排气和石杉碱甲都是吃多没事，结果直接送医院忏悔去了！    
+>我根本就没想要多少胆碱酯酶抑制，请不要乱说话或者造谣！     
+><img src="../文件/后藤20240707.jpg" style="height:300px;vertical-align:top;">    
+
+
+后藤对于多奈哌齐——一种抗胆碱药物的探索便恐怖收场。然而，即将紧接着发生的一个事件则是震惊到令人发指。
+
+<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥，当时还叫Sakura，当初拉他出来建overdosewiki的那位，由于不满后藤的精神，背刺了后藤，分裂出了另一个百科——而那个百科就是如今的<img src="../文件/化学极乐百科.jpg" style="height:25px;vertical-align:top;">[化学极乐百科](overdose.day)。以下【已编辑】中指的人就是<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥。
+
+请看后藤的叙述，看他是如何走向失控的：
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 29, 2024  
+>紧急事故：由于管理人员【已编辑】实施【数据删除】，管理人员“S.G”主动放弃站点管理权限，目前退出参与站点编辑。@OVERDOSE_Wiki 账号与站点重新由管理人员【已编辑】控制  
+>你赢了，【已编辑】，接下来是你的天地了
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 29, 2024  
+>补充：  
+>1. 管理人员【已编辑】实施的【数据删除】过于【数据删除】，“S.G”无法承受，选择退出  
+>2. “S.G”不再受理关于站点的投诉、报告  
+>3. 仍然回复私信  
+>4. 和那条疯狗无关，纯属是管理人员【已编辑】的作为  
+>自由意志者胜利。谢谢你们一直以来的陪伴
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 30, 2024  
+>-1. 服务器一直很稳定，自墙仅仅只是给我自己放假  
+>7. 如果不是【已编辑】使出【数据删除】，我本不想把事情搞成这样。请谅解
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jun 30, 2024  
+>0. http://od.wiki 不是http://overdose.wiki 的重建站点，顶多算镜像点  
+>1. 我不会因此出现问题，不需要████  
+>2. 这不是【数据删除】的理由   
+>3. 我和他们的关系仍然友好  
+>4. 我从未因为此事而怼【已编辑】，这不是事实，这是【已编辑】的歪曲捏造  
+>请停止妄言谵语  
+>overdose.wiki  
+>欢迎来到Overdosewiki
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 1, 2024  
+>1. 无语，无论如何都不存在这种木马的  
+>2. 如果没有我，你根本不会叫“wiki主”，而是会叫【已编辑】，被【数据删除】  
+>3. 你搞那些东西，都亏损到向我要钱了  
+>4. 根本不是你踹我，你是直接极端内斗到【数据删除】，把我逼退的  
+>5. 希望你能好好工作  
+>不推荐沉浸于幻想，也不推荐无休止造谣挑衅
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 1, 2024  
+>6. 终于说实话了，难得一见
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 1, 2024  
+>我个人不同意重启 http://od.wiki 镜像站
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 4, 2024  
+>由原odwiki编辑组与管理人员“S.G”（内容主编）重组的odwiki官号  
+>由于没有谁人，该账号一定不会发恶心内容。如出现，请立刻联络“S.G”以收容异常  
+>请等待“药商之友”、编辑、主编处理站点。对不起 https://x.com/overdosewiki/overdosewiki/status/1808884230971404618  
+>This Post is from a suspended account. Learn more
+
+
+
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 7, 2024  
+>1. 那也包括你自己  
+>2. 我没说过“著作权”，只是你们不得拿我糊出来的东西标榜是自己做的（CC-3.0）  
+>3. 他妈的先挨抓的是你自己，你怎么想的  
+>4. 我可从不会被抓  
+>5.   
+>6. 你还抱怨上了，自己乱鸡巴搞事还不让人骂  
+>7. 无所谓，功利主义  
+>8. 我不想骂你。自始至终我们都想和你解决问题，只有你会那么觉得
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 9, 2024  
+>【名词】【副词】【语气助词】【动词】【动名词】【语气助词】，【代词】【语气助词】【副词】【介词】【名词】【动词】【助词】？
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>预警：近期会出现由【数据删除】伪装的我“伪藤”，请诸位按以下分辨伪藤：  
+>1. 它们的语言很僵硬  
+>2. 它们的言灵有阴暗的气息  
+>3. 它们的存在会让你感到莫名其妙  
+>4. 它们在仔细看着我  
+>- 它们会去主动找你  
+>- 请不要盲目，不要停止思考，不要相信它们  
+>- 如果我自己被它们套皮偷取，那么，祝你好运  
+>11:36 PM · Jul 19, 2024
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>我的预言是正确的。公告：  
+>由鸡哥与【数据删除】控制的od-wiki开始伪装本人后藤，于此，请不要相信任何od-wiki试图伪装出来的我的言语  
+>Quote  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD · Jul 19, 2024  
+>预警：近期会出现由【数据删除】伪装的我“伪藤”，请诸位按以下分辨伪藤：  
+>1. 它们的语言很僵硬  
+>2. 它们的言灵有阴暗的气息  
+>3. 它们的存在会让你感到莫名其妙  
+>4. 它们在仔细看着我  
+>- 它们会去主动找你  
+>- 请不要盲目，不要停止思考，不要相信它们  
+>- 如果我自己被它们套皮偷取，那么，祝你好运  
+>3:04 PM · Jul 21, 2024
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>**罗通定**。专打金刚烷胺的药物！  
+>**罗通定** 是抗头痛药物，却异常反制晚安，甚至没一条作用机理是多余的  
+>效果：抗精神分裂、抗被害妄想、抗幻觉、抗高血压、镇静  
+>应用：反致晚安的惊恐、妄想、精神分裂、无法入眠  
+>正在测试其杀害晚安的能力，志愿者可前来测试 https://overdose.wiki/zh/Drugs/RTD
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>一旦chicken没有利用价值，【数据删除】势力便会毫不留情地抛弃chicken。然而chicken的地雷女愿望，只得满足于【数据删除】的扶持  
+>由于金刚烷胺导致的冲动强化，chicken不会顾及被【数据删除】势力抛弃的未来，在那之前他将一直被【数据删除】架空  
+>chicken应接受我们的恢复，以反制精神病状
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>【数据删除】势力扶持chicken上位od-wiki主，同时架空chicken的搭建权限（别忘了后藤有主编权限）而二次配布文档，由此冒名顶替overdosewiki，并造成多起攻击事件，试图完全窃取编辑组与后藤的文档成果  
+>od-wiki为【数据删除】势力的架空站点，目的为完全摧毁overdosewiki，以壮大【数据删除】自身势力  
+><img src="../文件/后藤20240721.jpg" style="height:300px;vertical-align:top;">    
+
+后藤是正确的——一旦OD百科网站编辑者走向玩弄政治，甚至动用了这么恶劣的手段，那么，是不太可能对整个圈子有好的影响的。
+
+接下来，后藤指控<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥使用恶劣的手段，达到令人不齿的目的——利用“地雷女”和“OD妹”满足性欲望。令人憎恨的是，此人到现在仍然保持这种作风......
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>为保护【数据删除】，防止【数据删除】又因为那啥精神病而犯应激乱骂人，使用【数据删除】代替说明
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>本人只认定由编辑组与后藤控制的overdosewiki @overdosewiki ，否认被【数据删除】渗透并架空势力的od-wiki  
+>迄今为止，【数据删除】势力干了很多鬼事，包括且不限于造谣诽谤、攻击站点、二次配布、错误挑错、【数据删除】、【数据删除】……
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>备注：攻击站点是指服务器攻击
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 21, 2024  
+>chicken还想要当wiki主，【数据删除】还想要拿走资料并辱骂后藤满足内心，故chicken与【数据删除】建立了od-wiki——伪wiki  
+>现严重怀疑chicken蛊惑【数据删除】，使ta们听信chicken并造谣诽谤后藤。而且【数据删除】本就想建立“odwiki2.0”，还有很好用的精神病护盾
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 23, 2024  
+>如果你明白他的前世——他口癖严重  
+>之前二月我可没惹他，他在chicken号上自拍了个25s的视频，骂我一大堆sb话  
+>你们之前看到chicken总是发后藤梦文，一开始我就不同意，他还发。删了的话他推文就来电话轰炸+停服威胁，不删的话我又挨编者骂
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 23, 2024  
+>你还是先解释你直发割蛋图、直发几把照、无端骂后藤（二月）、半夜电话、转发p照、骚扰地雷餐券女、先斩后奏关站点的行为吧  
+>眼睁睁看着当不成“wiki主”了就急眼了开始造谣  
+>合计着“你是chicken”是什么见不得光的事实？  
+>你有没有吃罗通定？ https://x.com/od_wiki/status/od_wiki/status/1815383874702356921  
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 23, 2024  
+>说到底，chicken的目的就是洗白自己曾经的罪名，以能继续满足性愿望  
+>不论odwiki分裂或解散，对他而言，“wiki主”的名义最重要  
+>至于wiki要发展成什么样不重要，至于其他人能否写wiki不重要，至于后藤究竟做了什么不重要
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 23, 2024  
+>私号注销后，chicken发觉后藤赐予他新名义“wiki主”。这个身份就像导师的推荐信，因为有后藤，大家都尊重wiki主，因此chicken要求后藤不得说wiki主是chicken，后藤答应  
+>庇护于odwiki，chicken得以继续满足他的性愿望，转地雷餐券推、和地雷女谈恋爱、看情色照……
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 23, 2024  
+>于对谁都要口癖一番的chicken，“wiki主”的身份成为免死金牌。包括一直以来均他关停服务器威胁、内斗核震慑、“诚意”删除关于他的贴子等行为，均是为了巩固“wiki”主的身份，以不被任何形式的女性们看清  
+>这是他的目的。由此请人员们自行带入他的言语，以解释他的动机
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 24, 2024  
+>我没标榜过自己多nb，虽偶尔发癫，但大伙们也都看得出来哪些是癫话。我就是一个人，我自己不能判断自己的伟岸性，留给你们判断  
+>存心想害我的谁会“捧杀”。伪造我曾标榜过自身，因其符合感觉而被大众视作事实。再无限放大我的失误，将我贬得一无是处百无一用。捧杀者却没有任何责任
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 24, 2024  
+>我提醒你们，现在chicken所说的话全都是假的，全都是经由他妄想而产出的言语  
+>例如“资深”，我这辈子都没用过这个词，从未拿这个标榜过自己。这是chicken的妄想  
+>例如“你就扯黑料”，然而我和他好好谈时，他要么直接动核武器，要么装傻发防伪标识，根本无法沟通！这是chicken的假话
+
+
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 24, 2024  
+>由此可言如下语：（话说，你这就想来抓我语言系统把柄啦？）  
+>“chicken，你以前就烂德性，还神志不清到给别人女生们列表逐个发【数据删除】的家伙，就不配捡起逻辑来指控我”  
+>这是chicken与【数据删除】善用的抓把柄  
+>至于我发chicken黑料？他们先抓我把柄的  
+>而且他不肯好好沟通，你说我怎么办？
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 24, 2024  
+>如果你了解过那十几个小时我和他究竟怎么沟通的  
+>- 我说“你现在精神不稳定，为防止你又乱搞事，我收走官号，你冷静一周后我还给你号”  
+>- 他一个劲地“你快给我，快给我”，或者是“我保证不再犯了”（他至少再犯了三次，每次都是这么说）  
+>- 最后他直接tm开核武器了  
+>正如之前所言，他竭力保住“wiki主”的名义
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 24, 2024  
+>辱骂者揪出谁的错误，目的不在让谁改正变好，而是在抓谁的把柄  
+>沙林哌齐是我的失误，应当以此为戒，别再犯错。辱骂者抓死这个漏洞，要挟攻击我，以达到他们的目的，例如“你的药理不如我”“你不能要求我”  
+>以及吹毛求疵地揪错，目的更不会是想让我的言语完美无瑕，而是为了打败我，不论为何
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Jul 24, 2024  
+>chicken与后藤真正矛盾于chicken的性愿望。分析失误源于“动机”/“目的”  
+>虽然“chicken关停站点”看起来像保命，“后藤控制官号”看起来像权斗，但chicken的动机冲动于早被后藤证伪的被害妄想，后藤的目的是防止chicken搞乱子  
+>只是“看起来像”的判断，不仅功利道义皆不符，更是中式老保一味固执己见的方法
+
+最终，他受够了<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥的骚扰，决定把网站的权限让给别人。这为他退圈留下了铺垫。
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>我是odw站点主管主编后藤，我宣布，小宋@xiaosong23_3 由编辑升至站点主管主编  
+>1:42 PM · Aug 8, 2024
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>我这几周一直自由，除开12h误验。虽然我感觉很不好，逻辑思考分析能力不减，就是思维记忆感知出现异常了，我能挺住。我一直都在，只是在休息，你们可以继续睡着了，我说过。坏和蠢可不一样，使坏有逻辑考虑利弊，犯蠢没逻辑不考虑利弊，这两个月的斗争，与恰到好处的o圈大清洗，够了，这一切都过载严重  
+>3:08 PM · Aug 29, 2024
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Aug 29, 2024  
+>你们辩证！我说的话很破碎！这几天一直在做梦，做各种梦。什么都太迟了，到这个地步他们才肯帮我，要是早几个月什么都不会有了，活着就是来受罪的，永远的斗争的，考验一个人真正能力的时刻。我建议你们不要高看我，我也是人，和你们一样。甚至本身就带点病，不要捧杀我，我就是一个普通的人类啊为什么
 
 
 
@@ -1323,9 +1617,101 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >5:30 PM · Aug 31, 2024   
 
 
-他终究还是抛弃他的wiki而去。但他的故事，将在一次长达约一年的停顿之后，重新开始。
 
-2025年1月，odwiki发推声称，后藤已经被他们优化掉了。
+经历了这一切的后藤对于OD圈的一切已经不抱任何希望，再加上开学了，他留下一首打油诗，便离去了。
+
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>春风大道西又春风大道东  
+>春风大道东转春风大道中  
+>春风大道东上为何没药O  
+>春风大道中晶🚗如潮涌  
+>有个药师朋友在树丛背后  
+>青春不变名字叫做春风  
+>每次试药随我到处去奔走  
+>面上没有表情却汇聚成就  
+>禁售一声拜拜远去拼多多  
+>要靠金刚烷胺搞搞新意思  
+>照买照卖药店处处有愈美  
+>但是药物可能要换换管控  
+>10:28 AM · Sep 3, 2024
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Sep 3, 2024  
+>这个药房朋友面善又友善  
+>因此批准人员一月买两盒  
+>oder也自然要斗快过尿检  
+>若做嗑药毒虫只须身有钱  
+>晚安一声拜拜远去这十楼  
+>要靠普瑞巴林搞搞新意思  
+>社会舆论同样影响这药物  
+>但是管控可能靠特异人士  
+>O既是死，死既是O
+
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+>· Sep 3, 2024  
+>这个药师朋友死别亦漂亮  
+>夜夜不能安寝继续旧形象  
+>到了一月八日个个要哭泣  
+>墙壁上那尊容变遗像遗容  
+>药师一声变形远去这现实  
+>要靠替来他明搞搞新意思  
+>会有精一禁售也会有检测  
+>但是管控可能要问问张座
+
+2024年9月，他终究还是抛弃他的wiki而去，退圈了。
+
+
+但他的故事，将在一次长达约一年的停顿之后重新开始。到那时，OD圈已经沧海桑田。
+
+能最好展现出这一年间OD圈的变化的例子就是他在退圈之前的最后几次吵架，对象可以看出是与一个名叫<img src="../文件/vack头像.jpg" style="height:25px; vertical-align:top;">Vack的人。
+
+>超级后后后藤 @Overdose_DBD  
+>傻逼死Vack，水平垃圾到“舍曲林毒品”“喹硫平成瘾”还整天跳脸我，去你妈逼的asd，犯贱又傻逼  
+>操你妈的尊重，一提asd是神经问题就一口一个尊重，到我这就使劲跳脸挑衅辱骂嘲讽，尊你妈获嘉双标畜生。什么时候会讲人话了再来发野  
+><img src="../文件/后藤20240808.jpg" style="height:300px;vertical-align:top;">  
+>6:26 PM · Aug 8, 2024
+
+>超级后后后藤 @Overdose_DBD  
+>· Aug 8, 2024  
+>要不要讲讲你当年“黄体酮安眠比bzd还好”以及“舍曲林成瘾比海洛因还危险”，被大伙群嘲还狡辩硬说理，你就一个劲对olaiya发傻逼，最后滚他妈出群？
+
+>超级后后后藤 @Overdose_DBD  
+>· Aug 8, 2024  
+>你妈逼死Vack，水平又烂又爱装逼，一言不合跳脸挑衅，目中无人，自持清高，自以为是，固执己见，蛮不讲理，自相矛盾，眼高手低，吹毛求疵，滥竽充数，班门弄斧，装腔作势，两面三刀，表里不一，尖酸刻薄。什么时候把你妈的解离整明白了再来鬼叫
+
+>超级后后后藤 @Overdose_DBD  
+>你妈逼狗Vack，别人跟你谈asd是缺陷障碍，你口口声声要尊重。到我出事时，你他妈净嘲讽嬉笑。你的尊重呢？？？  
+>好好讲话你们瞬间开骂，时不时还嘲讽一下我彰显优越感。有asd就滚去治，治不好就别整天狗叫  
+><img src="../文件/后藤20240808B.jpg" style="height:300px;vertical-align:top;">  
+><img src="../文件/后藤20240808C.jpg" style="height:300px;vertical-align:top;">  
+><img src="../文件/后藤20240808D.jpg" style="height:300px;vertical-align:top;">   
+>6:56 PM · Aug 8, 2024
+
+>超级后后后藤 @Overdose_DBD  
+>· Aug 8, 2024  
+>我的诉求很简单！一个多月前就提过了：不要跳脸，不要挑衅，目的是两边和谐发展。我甚至都没讲什么侵权。Vack，你都干了什么？你的诉求是什么？想要打倒我？你的目的是什么？彰显优越感？你疯了！
+
+>超级后后后藤 @Overdose_DBD  
+>· Aug 8, 2024  
+>仗着你那asd性子！到处无缘无故无冤无仇寻事滋事惹是生非！有asd建议去吃你妈的打狗棍！
+
+
+><img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">OverSpring Wiki @OverSpring_wiki  
+>你尊重过oswiki吗，尊重是互相的  
+>7:06 PM · Aug 8, 2024
+
+>超级后后后藤 @Overdose_DBD  
+>· Aug 8, 2024  
+>我尊重你们，最开始和你们好好沟通，你们就开始狗叫！捏造事实！
+
+可以看出，对话中出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">OverSpring Wiki的角色。看样子，是像另一个OD百科组织，实际上就是。
+
+2024年中旬，随着<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的衰弱，以及ODer们对于ODwiki的怪诞风格，出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">Overspeedwiki<sup>后来改为overspringwiki，此为当时名</sup>的百科网站，一改odwiki中的“医学伦理学”，比较自由地发布药物并进行测试。
+
+2024年末，一个名叫“后土百科”的b站up发布了一个有关OD圈的视频，其中出现了后藤的身影。从此以后，后藤被所有ODer指责是背刺了他们。
+
+2025年1月，odwiki发推声称，后藤已经被他们优化掉了，以后的odwiki将脱离后藤运转。
 
 ---
 
@@ -1335,7 +1721,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >只是为了保卫退圈生活，希望你们能明白，谢谢   
 6:43 PM · Sep 21, 2025
 
-不过，在此之间，od圈果然还是发生了重大的变化。
+
 
 药物百科
 
