@@ -3,6 +3,10 @@ plugins:
   - optimize
 
 markdown_extensions:
+  - abbr
+  - attr_list
+  - footnotes
+  - pymdownx.snippets
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -15,6 +19,7 @@ theme:
   features:
     - navigation.top
     - content.tooltips
+    - content.footnote.tooltips
   
   palette:
 
