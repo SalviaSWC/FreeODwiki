@@ -38,10 +38,6 @@ markdown_extensions:
 
 plugins:
     - awesome-nav
-    - search:
-        enabled : false  
-    - optimize:
-      concurrency: auto 
 
 """
 
