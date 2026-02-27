@@ -10,6 +10,12 @@ markdown_extensions:
   - pymdownx.tilde
 
 theme:
+  language: zh
+
+  features:
+    - navigation.top
+    - content.tooltips
+  
   palette:
 
     # Palette toggle for automatic mode
