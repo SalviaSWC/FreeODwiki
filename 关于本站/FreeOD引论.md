@@ -36,25 +36,13 @@
 实施上，FreeODwiki是一个Github项目。Github的工作流确保了这些愿景的落实。Pull Request可以让人人都能提交编辑申请，让FreeODwiki成为众多OD者们知识的结晶；Issue功能使得人人都能讨论FreeODwiki，而不受特定社交媒体的限制；整个项目还是开源的，如果事情出现重大变故(或者你看FreeODwiki不顺眼)，人人都可以Fork整个FreeODwiki，让FreeODwiki在自己的名下继续存在。
 (这里叉开一下，上一段中提到的“Wikipedia”本身又来源于“Encyclopedia”，“百科全书”的意思。从这里可以看出，“Wikipedia”之所以能被称作“Wikipedia”而不是“Encyclopedia”就是“Wikipedia”符合人人都可以编辑的条件。也就是说，只有符合“人人都可以编辑”这一要求的百科全书能被称为“wiki”，其他只有某些人能够编辑的百科全书是不配把“wiki”放在其的名字里的。) --->
 
-
-
 FreeOD引论(进站必看)
 
-
-
-
 我们必须把[OD](/文档/od.md)有关的资料、文档、知识等信息归档并整理到wiki上，原因/目的分别是，以及为何FreeODwiki能够达成这些目的的原因...
-
-
-
 
 ## <img src="../文件/FreeODwiki2.png" style="height:30px; vertical-align:middle;">FreeODwiki是一个发布在Github上的开源协作Wiki，意味着什么呢？
 
 这意味着任何人都可以参与<img src="../文件/FreeODwiki2.png" style="height:15px; vertical-align:middle;">FreeODwiki。通过Github工作流，任何人都可以修改FreeODwiki的内容、任何人都可以Fork FreeODwiki来创建一个新的FreeODwiki。也就是说，FreeODwiki是一个完全开放的Wiki，任何人都可以参与到它的编辑和维护中。
-
-
-
-
 
 ## 为什么“OD”要有“wiki”
 
@@ -65,20 +53,14 @@ FreeOD引论(进站必看)
 
 ## 目前药圈存在什么问题，而FreeODwiki又该如何解决它们呢?
 
-
-
-
 | 问题现状 | 解决方案 | 
 | ---------- | ------------- | 
-| 有不少ODer不知道如何安全od，导致身心健康受损 |  我们以[伤害减少](/文档/负责任的用药索引页.md)的精神，通过wiki收集、编写并发布不当OD造成的后果，警示其危险性，唤醒他们的安全od意识，并提供有价值的信息 |
+| 有不少ODer不知道如何安全OD，导致身心健康受损 |  我们以[伤害减少](/文档/负责任的用药索引页.md)的精神，通过wiki收集、编写并发布不当OD造成的后果，警示其危险性，唤醒他们的安全OD意识，并提供有价值的信息 |
 | 有不少ODer不知执法部门的行为，导致自身遭受了不利的法律后果 | 我们通过 |
 | 目前部分wiki页面陈旧 | 我们需要一个能够持久并广泛且墙内可访问的平台，用于发布信息，确保我们的劳动成果能可靠地传播到ODer们，才能造成积极影响 | Github目前没有被防火长城完全屏蔽，我们的劳动成果可以可靠地传播 |
 | 《主播女孩重度依赖》动漫即将在4月上映，届时必定会有大量新ODer涌入 | 我们需要一个能够快速响应新需求的wiki平台 | FreeODwiki的开源和社区协作模式，能够快速响应新用户的需求，及时更新内容 |
 
-
-
 ## 为什么要选择支持<img src="../文件/FreeODwiki2.png" style="height:30px; vertical-align:middle;">FreeODwiki呢？
-
 
 | | |
 |--|--|
