@@ -1,8 +1,15 @@
+repo_name: SalviaSWC/FreeODwiki
+repo_url: https://github.com/SalviaSWC/FreeODwiki
+
 plugins:
-  - search
+#  - search
   - optimize
 
 markdown_extensions:
+  - abbr
+  - attr_list
+  - footnotes
+  - pymdownx.snippets
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -10,6 +17,17 @@ markdown_extensions:
   - pymdownx.tilde
 
 theme:
+  language: zh
+
+  features:
+    - navigation.top
+    - content.tooltips
+    - content.footnote.tooltips
+    - content.code.copy
+    - search.share
+    - search.suggest
+    - search.highlight
+  
   palette:
 
     # Palette toggle for automatic mode
