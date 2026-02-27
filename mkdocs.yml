@@ -1,3 +1,6 @@
+repo_name: SalviaSWC/FreeODwiki
+repo_url: https://github.com/SalviaSWC/FreeODwiki
+
 plugins:
   - search
   - optimize
