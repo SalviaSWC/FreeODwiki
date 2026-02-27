@@ -12,7 +12,7 @@ dest_dir   = r"D:\servers\freeodwiki"          # 目标目录
 dest_src_dir = dest_dir + r"\src"
 url = r"https://freeodwiki.org"
 
-生成sitemap.generate_sitemap(source_dir, url)
+# 生成sitemap.generate_sitemap(source_dir, url)
 
 mkdocs_yml = r"""
 site_name: FreeODwiki——可自由编辑的开源Overdose百科 
