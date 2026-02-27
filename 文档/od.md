@@ -1351,11 +1351,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 ><img src="../文件/后藤20240707.jpg" style="height:300px;vertical-align:top;">    
 
 
-后藤对于多奈哌齐——一种抗胆碱药物的探索便恐怖收场。然而，即将紧接着发生的一个事件则是震惊到令人发指。
+后藤对于多奈哌齐——一种抗胆碱药物的探索便恐怖收场。
+
+然而，即将紧接着发生的一个事件则是震惊到令人发指，直接导致了他的退圈。
 
 <img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥，当时还叫Sakura，当初拉他出来建overdosewiki的那位，由于不满后藤的精神，背刺了后藤，分裂出了另一个百科——而那个百科就是如今的<img src="../文件/化学极乐百科.jpg" style="height:25px;vertical-align:top;">[化学极乐百科](overdose.day)。以下【已编辑】中指的人就是<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥。
 
-请看后藤的叙述，看他是如何走向失控的：
+请看后藤的叙述，看他是如何在<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥的攻击下走向失控的：
 
 ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Jun 29, 2024  
@@ -1409,7 +1411,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >由原odwiki编辑组与管理人员“S.G”（内容主编）重组的odwiki官号  
 >由于没有谁人，该账号一定不会发恶心内容。如出现，请立刻联络“S.G”以收容异常  
 >请等待“药商之友”、编辑、主编处理站点。对不起 https://x.com/overdosewiki/overdosewiki/status/1808884230971404618  
->This Post is from a suspended account. Learn more
+
 
 
 
@@ -1425,9 +1427,9 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >7. 无所谓，功利主义  
 >8. 我不想骂你。自始至终我们都想和你解决问题，只有你会那么觉得
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+<!-- ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Jul 9, 2024  
->【名词】【副词】【语气助词】【动词】【动名词】【语气助词】，【代词】【语气助词】【副词】【介词】【名词】【动词】【助词】？
+>【名词】【副词】【语气助词】【动词】【动名词】【语气助词】，【代词】【语气助词】【副词】【介词】【名词】【动词】【助词】？ -->
 
 ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >预警：近期会出现由【数据删除】伪装的我“伪藤”，请诸位按以下分辨伪藤：  
@@ -1456,13 +1458,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >- 如果我自己被它们套皮偷取，那么，祝你好运  
 >3:04 PM · Jul 21, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+<!-- ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >**罗通定**。专打金刚烷胺的药物！  
 >**罗通定** 是抗头痛药物，却异常反制晚安，甚至没一条作用机理是多余的  
 >效果：抗精神分裂、抗被害妄想、抗幻觉、抗高血压、镇静  
 >应用：反致晚安的惊恐、妄想、精神分裂、无法入眠  
->正在测试其杀害晚安的能力，志愿者可前来测试 https://overdose.wiki/zh/Drugs/RTD
+>正在测试其杀害晚安的能力，志愿者可前来测试 https://overdose.wiki/zh/Drugs/RTD -->
 
 ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
@@ -1477,6 +1479,8 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 ><img src="../文件/后藤20240721.jpg" style="height:300px;vertical-align:top;">    
 
 后藤是正确的——一旦OD百科网站编辑者走向玩弄政治，甚至动用了这么恶劣的手段，那么，是不太可能对整个圈子有好的影响的。
+
+据后藤称，<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥进行了
 
 接下来，后藤指控<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥使用恶劣的手段，达到令人不齿的目的——利用“地雷女”和“OD妹”满足性欲望。令人憎恨的是，此人到现在仍然保持这种作风......
 
@@ -1590,7 +1594,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 
 
-经历了这一切的后藤对于OD圈的一切已经不抱任何希望，再加上开学了，他留下一首打油诗，便离去了。
+经历了这一切的后藤，对于OD圈的一切已经不抱任何希望。再加上当时后藤还是高三，还开学了，他留下一首打油诗，便离去了。
 
 
 ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
@@ -1638,21 +1642,21 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 能最好展现出这一年间OD圈的变化的例子就是他在退圈之前的最后几次吵架，对象可以看出是与一个名叫<img src="../文件/vack头像.jpg" style="height:25px; vertical-align:top;">Vack的人。
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >傻逼死Vack，水平垃圾到“舍曲林毒品”“喹硫平成瘾”还整天跳脸我，去你妈逼的asd，犯贱又傻逼  
 >操你妈的尊重，一提asd是神经问题就一口一个尊重，到我这就使劲跳脸挑衅辱骂嘲讽，尊你妈获嘉双标畜生。什么时候会讲人话了再来发野  
 ><img src="../文件/后藤20240808.jpg" style="height:300px;vertical-align:top;">  
 >6:26 PM · Aug 8, 2024
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >要不要讲讲你当年“黄体酮安眠比bzd还好”以及“舍曲林成瘾比海洛因还危险”，被大伙群嘲还狡辩硬说理，你就一个劲对olaiya发傻逼，最后滚他妈出群？
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >你妈逼死Vack，水平又烂又爱装逼，一言不合跳脸挑衅，目中无人，自持清高，自以为是，固执己见，蛮不讲理，自相矛盾，眼高手低，吹毛求疵，滥竽充数，班门弄斧，装腔作势，两面三刀，表里不一，尖酸刻薄。什么时候把你妈的解离整明白了再来鬼叫
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >你妈逼狗Vack，别人跟你谈asd是缺陷障碍，你口口声声要尊重。到我出事时，你他妈净嘲讽嬉笑。你的尊重呢？？？  
 >好好讲话你们瞬间开骂，时不时还嘲讽一下我彰显优越感。有asd就滚去治，治不好就别整天狗叫  
 ><img src="../文件/后藤20240808B.jpg" style="height:300px;vertical-align:top;">  
@@ -1660,11 +1664,11 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 ><img src="../文件/后藤20240808D.jpg" style="height:300px;vertical-align:top;">   
 >6:56 PM · Aug 8, 2024
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >我的诉求很简单！一个多月前就提过了：不要跳脸，不要挑衅，目的是两边和谐发展。我甚至都没讲什么侵权。Vack，你都干了什么？你的诉求是什么？想要打倒我？你的目的是什么？彰显优越感？你疯了！
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >仗着你那asd性子！到处无缘无故无冤无仇寻事滋事惹是生非！有asd建议去吃你妈的打狗棍！
 
@@ -1673,15 +1677,15 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >你尊重过oswiki吗，尊重是互相的  
 >7:06 PM · Aug 8, 2024
 
->超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >我尊重你们，最开始和你们好好沟通，你们就开始狗叫！捏造事实！
 
-可以看出，对话中出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">OverSpring Wiki的角色。看样子，是像另一个OD百科组织，实际上就是。
+可以看出，对话中出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">OverSpring Wiki的角色。看样子，是像另一个OD百科组织，它实际上正是另一个<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)。
 
-2024年中旬，随着<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的衰弱，以及ODer们对于ODwiki的怪诞风格，出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">Overspeedwiki<sup>后来改为overspringwiki，此为当时名</sup>的百科网站，一改odwiki中的“医学伦理学”，比较自由地发布药物并进行测试。
+2024年中旬，随着<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的衰弱，以及ODer们对于ODwiki的怪诞风格的不满，出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">Overspeedwiki<sup>后来改为overspringwiki，此为当时名</sup>的百科网站，不同意odwiki中的所谓的“医学伦理学”，比较自由地发布药物并进行测试。
 
-2024年末，一个名叫“后土百科”的b站up发布了一个有关OD圈的[视频](https://www.bilibili.com/video/BV1yhKdzcEsx/ "2026-02-27T19:30:00 | 64.3万播放 6908弹幕 5.1万点赞 7人正在看")，其中出现了后藤的身影。从此以后，后藤被所有ODer指责是背刺了他们。
+2024年末，一个名叫“后土百科”的b站up发布了一个有关OD圈的[视频](https://www.bilibili.com/video/BV1yhKdzcEsx/ "2026-02-27T19:30:00 | 64.3万播放 6908弹幕 5.1万点赞 7人正在看")，其中出现了后藤的身影。从此以后，后藤被所有ODer指责是背刺了他们，这也让
 
 2025年1月，odwiki发推声称，后藤已经被他们优化掉了，以后的odwiki将脱离后藤运转。
 
@@ -1709,7 +1713,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 那是2026年2月2日，一场悲剧将要发生在春节之前。
 
-Here is the transcribed group chat history with duplicate timestamps removed (keeping only one timestamp per message where multiple identical ones appeared originally):
+
 
 >云智风乃  
 >到底有几个法u百科）  
