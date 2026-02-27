@@ -2,7 +2,7 @@ repo_name: SalviaSWC/FreeODwiki
 repo_url: https://github.com/SalviaSWC/FreeODwiki
 
 plugins:
-  - search
+#  - search
   - optimize
 
 markdown_extensions:
@@ -23,6 +23,10 @@ theme:
     - navigation.top
     - content.tooltips
     - content.footnote.tooltips
+    - content.code.copy
+    - search.share
+    - search.suggest
+    - search.highlight
   
   palette:
 
