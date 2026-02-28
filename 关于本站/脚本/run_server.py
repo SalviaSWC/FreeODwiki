@@ -2,49 +2,25 @@ import shutil
 import os
 import re
 import subprocess
-from pathlib import Path
 import sys
 import stat
+from pathlib import Path
+from typing import Callable
+
 import 生成sitemap
 
-source_dir = r"D:\Projects\FreeODwiki"          # 源目录
-dest_dir   = r"D:\servers\freeodwiki"          # 目标目录
+source_dir = r"D:\Projects\FreeODwiki"  # 源目录
+dest_dir = r"D:\servers\freeodwiki"  # 目标目录
 dest_src_dir = dest_dir + r"\src"
 url = r"https://freeodwiki.org"
 
 # 生成sitemap.generate_sitemap(source_dir, url)
 
-mkdocs_yml = r"""
-site_name: FreeODwiki——可自由编辑的开源Overdose百科 
-site_url: https://freeodwiki.org
-site_author: FreeODwiki贡献者们
-site_description: FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。  # 站点描述
-docs_dir: D:\servers\freeodwiki\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
-site_dir: D:\servers\freeodwiki\site
-theme: 
-  name: material  
-  favicon: 文件/FreeODwiki2.png     # 改成你实际放的路径
-  logo: 文件/FreeODwiki2.png 
-use_directory_urls: false
-markdown_extensions:
-  - pymdownx.tilde
-  - pymdownx.tasklist:
-      custom_checkbox: true          
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - footnotes
+config_source = Path("../../mkdocs.yml")
+if not config_source.is_file():
+    config_source = Path("mkdocs.yml")
 
-
-plugins:
-    - awesome-nav
-
-"""
-
-
-with open(dest_dir + "\mkdocs.yml", mode="w", encoding="utf-8") as f:
-    f.write(mkdocs_yml)
-
+config_source.copy(dest_dir + "/mkdocs.yml")
 
 
 def remove_readonly(func, path, exc_info):
@@ -63,11 +39,9 @@ def remove_readonly(func, path, exc_info):
     raise exc_info[1]
 
 
-
 if os.path.exists(dest_src_dir):
     shutil.rmtree(dest_src_dir, onerror=remove_readonly)
     print("已清空目标目录")
-
 
 
 # 步骤2：重新创建空的目录
@@ -80,23 +54,26 @@ print("复制完成！")
 print(f"源：{source_dir}")
 print(f"目标：{dest_src_dir}")
 
+
 # ── 辅助函数 ──
 def is_external(link: str) -> bool:
     """判断是否为外部链接（http/https/mailto/data 等）"""
     link = link.strip()
-    return link.startswith(('http://', 'https://', 'mailto:', 'data:', '//'))
+    return link.startswith(("http://", "https://", "mailto:", "data:", "//"))
 
 
-def resolve_target_path(current_file: Path, link_path: str, docs_root: Path) -> Path | None:
+def resolve_target_path(
+    current_file: Path, link_path: str, docs_root: Path
+) -> Path | None:
     """解析链接目标的真实源文件路径（返回 None 表示外部链接或无效）"""
     # 去除 #anchor 和 ?query
-    clean_path = link_path.split('#')[0].split('?')[0].strip()
+    clean_path = link_path.split("#")[0].split("?")[0].strip()
     if is_external(clean_path):
         return None
 
-    if clean_path.startswith('/'):
+    if clean_path.startswith("/"):
         # 根相对链接：从 docs_root 开始
-        target = (docs_root / clean_path.lstrip('/')).resolve()
+        target = (docs_root / clean_path.lstrip("/")).resolve()
     else:
         # 相对链接（包括 ./ ../）
         target = (current_file.parent / clean_path).resolve(strict=False)
@@ -107,7 +84,7 @@ def resolve_target_path(current_file: Path, link_path: str, docs_root: Path) -> 
 def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, str]:
     """移除死链接：图片整段删除，文本链接保留文字"""
     try:
-        content = filepath.read_text(encoding='utf-8')
+        content = filepath.read_text(encoding="utf-8")
     except Exception as e:
         return False, f"读取失败: {e}"
 
@@ -126,7 +103,7 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
         # print(f"    ✗ 移除死图片: {link}")
         return ""
 
-    content = re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', replace_image, content)
+    content = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", replace_image, content)
 
     # 2. 处理文本链接 [text](path)
     def replace_text(match):
@@ -143,13 +120,15 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
         # print(f"    ✗ 移除死文本链接: {link} （保留文字: {text}）")
         return text
 
-    content = re.sub(r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)', replace_text, content)  # (?<!\!) 避免匹配图片
+    content = re.sub(
+        r"(?<!\!)\[([^\]]+)\]\(([^)]+)\)", replace_text, content
+    )  # (?<!\!) 避免匹配图片
 
     if content == original:
         return True, "无死链接变更"
 
     try:
-        filepath.write_text(content, encoding='utf-8')
+        filepath.write_text(content, encoding="utf-8")
         return True, "死链接已处理"
     except Exception as e:
         return False, f"写入失败: {e}"
@@ -158,22 +137,22 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
 def replace_md_to_html_in_file(filepath: Path) -> tuple[bool, str]:
     """只替换剩余（有效）链接中的 .md → .html"""
     try:
-        content = filepath.read_text(encoding='utf-8')
+        content = filepath.read_text(encoding="utf-8")
     except Exception as e:
         return False, f"读取失败: {e}"
 
     # 只替换链接中的 .md → .html（包括 #anchor）
     new_content = re.sub(
-        r'\]\(([^)#\s]*?\.md)(#[^)]*)?\)',
+        r"\]\(([^)#\s]*?\.md)(#[^)]*)?\)",
         lambda m: f']({m.group(1)[:-3]}.html{m.group(2) or ""})',
-        content
+        content,
     )
 
     if new_content == content:
         return True, "无 .md 链接变更"
 
     try:
-        filepath.write_text(new_content, encoding='utf-8')
+        filepath.write_text(new_content, encoding="utf-8")
         return True, "已替换 .md → .html"
     except Exception as e:
         return False, f"写入失败: {e}"
@@ -200,7 +179,6 @@ def process_src_folder(src_path: Path):
         # 步骤1：移除死链接（图片删除、文本保留文字）
         ok, msg = remove_dead_links_in_file(md_file, src_path)
 
-
         # 步骤2：替换剩余链接 .md → .html
         ok, msg = replace_md_to_html_in_file(md_file)
 
@@ -212,7 +190,9 @@ def process_src_folder(src_path: Path):
 
 def build_mkdocs():
     print("\n开始运行 mkdocs build...")
-    result = subprocess.run(["mkdocs", "build"], capture_output=True, text=True, cwd=dest_dir)
+    result = subprocess.run(
+        ["mkdocs", "build"], capture_output=True, text=True, cwd=dest_dir
+    )
     if result.returncode != 0:
         print("mkdocs build 失败：")
         print(result.stderr)
@@ -240,11 +220,11 @@ def main():
 
     src_path = Path(dest_src_dir)
     if not process_src_folder(src_path):
-        if input("\n预处理出现问题，是否继续 build？(y/N): ").lower() != 'y':
+        if input("\n预处理出现问题，是否继续 build？(y/N): ").lower() != "y":
             sys.exit(1)
 
     if not build_mkdocs():
-        if input("\nmkdocs build 失败，是否仍要启动服务器？(y/N): ").lower() != 'y':
+        if input("\nmkdocs build 失败，是否仍要启动服务器？(y/N): ").lower() != "y":
             sys.exit(1)
 
     start_server()

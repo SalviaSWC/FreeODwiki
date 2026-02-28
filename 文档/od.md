@@ -3,6 +3,13 @@ title: OD圈的历史
 description: 什么是OD？OD圈又是什么？希望这一篇有关OD圈的罄竹难书的历史的文档能够帮到你。
 ---
 
+<style>
+.icon {
+    height:25px;
+    vertical-align:top;
+}
+</style>
+
 <!---别动标题，影响不好！ --->
 
 # OD圈的历史
@@ -20,6 +27,8 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 <font color="red"> 为防止本文档被别有用心的人利用，本文档及其所有历史版本采用CC BY-ND 4.0 即 CC 署名—禁止演绎 4.0 协议国际版许可，侵权必究，敬请谅解。详见[这里](/LICENSE2) </font>。
 
 注：本文中所有事件来自[鼠尾草](x.com/salviaswc)及其他推特网友们的个人叙述。如果你知道某些事情的隐情，但是史书中未能提及，欢迎提出疑问并上报；本历史是基于活跃在推特的OD圈，因此可能出现缺乏其他平台上的ODer的情况，如果你有资料，欢迎补充；本文可能出现语言不通顺的情况，因为笔者精神状态不佳，后续会修复，敬请谅解。
+
+~~阅读可能会导致什么触发？啊这个怎么说反正反正你已经被警告过了。~~
 
 为了便于读者理解，文中加入了大量超链接，读者可以选择性的阅读。
 
@@ -56,7 +65,7 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 
 而在现实中，风波正在酝酿。
 
-<mark> 然而，鉴于早在2021年，当局就发文宣布单方右美沙芬将被列为处方药管制；很多证据证明OD行为早已存在，而NGOD只是一切的导火索而已。</mark>
+<mark> 然而，鉴于早在2021年，当局就发文宣布单方右美沙芬将被列为处方药管制；很多证据证明OD行为早已存在，而NGOD只是一切的催化剂而已。</mark>
 
 ## 关于术语
 
@@ -195,15 +204,15 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 
 ## “彩霞”与“Spring风”
 
-在他们之中，最值得注意的是一位名叫[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)的跨性别人士，她是一名热情的药物研究者，声称在自己的知乎账号被封后转移到推特。她从事许多涉跨性别的活动，还自称“OD奠基者”。据她的朋友在知乎上的声称，她是一个“想建立乌托邦的理想主义者”。她“很享受一切钻研和应用的过程。生活娱乐和学术都如此。一种科研精神贯彻了她的一切行动”。
+在他们之中，最值得注意的是一位名叫[<img src="../文件/彩霞头像.jpg" class="icon">彩霞](x.com/yukiukoori)的跨性别人士，她是一名热情的药物研究者，声称在自己的知乎账号被封后转移到推特。她从事许多涉跨性别的活动，还自称“OD奠基者”。据她的朋友在知乎上的声称，她是一个“想建立乌托邦的理想主义者”。她“很享受一切钻研和应用的过程。生活娱乐和学术都如此。一种科研精神贯彻了她的一切行动”。
 
 没有人能够料到，她会落得这个下场。
 
-根据公开资料，[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)的活动最早可以追溯到2019年。等到2022年的时候，她已向几位濒临自杀的跨性别朋友们介绍了OD药物，把她们从绝望与自杀的线上拉了回来。受到了彩霞的恩惠，她们成为了彩霞的挚友，却无法摆脱药物。
+根据公开资料，[<img src="../文件/彩霞头像.jpg" class="icon">彩霞](x.com/yukiukoori)的活动最早可以追溯到2019年。等到2022年的时候，她已向几位濒临自杀的跨性别朋友们介绍了OD药物，把她们从绝望与自杀的线上拉了回来。受到了彩霞的恩惠，她们成为了彩霞的挚友，却无法摆脱药物。
 
 不可否认的是，根据观察，跨性别圈与OD圈的相互联系非常紧密。这根本上来源于跨性别者与ODer一样，通常不追求一般大众所遵守的社会常规。虽然彩霞的无心之举确实在一定程度上促进了这一点，但那只是直接原因，并非根本原因。而在后来，甚至连我国当局的举措都促进了这一点。
 
-> <img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">🏳‍⚧雪雨氷織🍥 @yukiukoori
+> <img src="../文件/彩霞头像.jpg" class="icon">🏳‍⚧雪雨氷織🍥 @yukiukoori
 > 
 > 毒品对我真的没有什么吸引力比较我发明的东西可一点也不比这些赖呢，今天整的感觉成瘾风险好高，真的不想这样搞了。但是考虑到其实好大一部分精神因素没办法复刻其实也无所谓了，就慢慢享受到不知不觉睡着为止吧。
 >
@@ -222,13 +231,13 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 
 或许，正是这些危险的“接客”行为为某些怀有恶意的人，提供了渠道。
 
-> <img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">🏳‍⚧雪雨氷織🍥 @yukiukoori   5:24 AM · Sep 4, 2022
+> <img src="../文件/彩霞头像.jpg" class="icon">🏳‍⚧雪雨氷織🍥 @yukiukoori   5:24 AM · Sep 4, 2022
 > 药娘圈热知识：如果后悔了，任何钡盐以及其他重金属离子中毒的解药是EDTA（乙二胺四乙酸二钠）以及硫代硫酸钠，当然其他金属离子螯合剂都是可以的，可以大量服用，最多丢失一点钙。平时可以在采血管中找到这种物质的单质，快转给准备重开的姐妹吧~  
 > <img src="../文件/彩霞20220904.jpg" style="height:400px; vertical-align:top;">
 
 她是一个善良的人，多次帮助濒临自杀的跨性别人士走出困境。却因“发明OD”和“将OD引入跨圈”饱受骂名......
 
-><img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">🏳‍⚧雪雨氷織🍥 @yukiukoori
+><img src="../文件/彩霞头像.jpg" class="icon">🏳‍⚧雪雨氷織🍥 @yukiukoori
 >
 >摸摸，适度过量，请勿成瘾哦，有不舒服及时咨询哦。 
 >
@@ -261,25 +270,25 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 
 2022年的右美沙芬网络禁售之后，如果当时的ODer想要购买单方氢溴酸右美沙芬片，必须线下持有处方亲自前往药房购买。而这当然不是每一个人都敢的，而对于跨性别群体，这却是一个非常熟悉的事情，因为跨性别用的激素药物，如补佳乐（戊酸雌二醇片）也被同等处理。因此，她们想必经常同时购买右美沙芬和补佳乐，而把它们放到互联网上售卖。如此严峻的政策环境影响着每一位ODer，也促成了跨性别圈子于OD圈子的高度交织现象。
 
-在一个相近的时间点，[推特的一个贴子](https://x.com/mengqintiancai2/status/1593158796905676800)得到了广泛关注，收获了大量点赞和转发。虽然该推文的推主似乎不再从事OD，但他发的这个贴子收获的浏览量堪称OD圈史上的最辉煌的成就之一。有人将这一OD指南归于上文提到的[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)所作，因为在她的一个推文中曾提到她要制作“第二版OD指南”。这个贴子有12张图片[^2]，号称是“科学OD指南”。~~推主似乎是男娘，不知是否有关。~~
+在一个相近的时间点，[推特的一个贴子](https://x.com/mengqintiancai2/status/1593158796905676800)得到了广泛关注，收获了大量点赞和转发。虽然该推文的推主似乎不再从事OD，但他发的这个贴子收获的浏览量堪称OD圈史上的最辉煌的成就之一。有人将这一OD指南归于上文提到的[<img src="../文件/彩霞头像.jpg" class="icon">彩霞](x.com/yukiukoori)所作，因为在她的一个推文中曾提到她要制作“第二版OD指南”。这个贴子有12张图片[^2]，号称是“科学OD指南”。~~推主似乎是男娘，不知是否有关。~~
 
 这份指南中并未详细解释各种药物如何o、o了有什么效果、以及怎么较安全地o，而仅仅是粗略地一笔带过各个药物能o的事实。从这份指南中，可以看出以下药物在当时已经成为了o圈关注热点：[右美沙芬](/药物/右美沙芬.md), [美金刚](/药物/美金刚.md), [苯海索](/药物/苯海索.md), [金刚烷胺](/药物/金刚烷胺.md), [司来吉兰+苯乙胺](/药物/司来吉兰+苯乙胺.md), [1,4-丁二醇](/药物/1,4-丁二醇.md)。
 
-这一个贴子被当时的另一位重要角色转发——[<img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)。他早已加入OD圈，是一位活跃的参与者。
+这一个贴子被当时的另一位重要角色转发——[<img src="../文件/Spring风头像.jpg" class="icon">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)。他早已加入OD圈，是一位活跃的参与者。
 
 他是一个好奇的年轻人，将探索的视野从OD药物本身转移到更一般的精神活性物质。他钻研过药物的化学结构特点，探讨过药物的机理，研究过[冰毒](/药物/甲基苯丙胺.md)的制取。他深受ODer们的尊敬，被称为“药师”，死后还被后世称为“第一代OD引路人”。在他的推文下，第一批扎根推特的ODer们聚集了起来。
 
 通过他的推文不难发现，他是一个对于当局充满不满的人。他高调地支持一些激进地反对当局的推文。然而，即便是当时最激进的此类推文，也远远比现在的推文更容易接受、更关乎事实、更接近现实，令人怀念。
 
-他的推文激进地反对当局实行的言论审查，并主张自由的互联网访问。他与推特上一名“支持高福利社会+毒品合法化+自由开明独裁”的博主，<img src="../文件/梨老师头像.jpg" style="height:25px; vertical-align:top;">🍐老师经常互相在推文下评论留言。他转发或发布的反对当局的推文并不仅仅是发泄情绪，而是对于崇尚开放和自由的呼吁。
+他的推文激进地反对当局实行的言论审查，并主张自由的互联网访问。他与推特上一名“支持高福利社会+毒品合法化+自由开明独裁”的博主，<img src="../文件/梨老师头像.jpg" class="icon">🍐老师经常互相在推文下评论留言。他转发或发布的反对当局的推文并不仅仅是发泄情绪，而是对于崇尚开放和自由的呼吁。
 
-值得注意的，是他从事OD的目的。看看下面的推文，也许[<img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)通过从事OD和探索药物，既不是为了快感，也不是为了自残。他从事OD目的，可能存在不少拯救自己于抑郁中的成分，不过，笔者认为，他在通过OD圈中探索那些被列为禁忌的知识并将其分享出来，是为了反抗当局的信息审查吧......下面这条推文很能佐证这一推测。
+值得注意的，是他从事OD的目的。看看下面的推文，也许[<img src="../文件/Spring风头像.jpg" class="icon">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)通过从事OD和探索药物，既不是为了快感，也不是为了自残。他从事OD目的，可能存在不少拯救自己于抑郁中的成分，不过，笔者认为，他在通过OD圈中探索那些被列为禁忌的知识并将其分享出来，是为了反抗当局的信息审查吧......下面这条推文很能佐证这一推测。
 
 >山中的旅人 @yang38432408  
 >Jan 2, 2023   
 >在此条推文的评论写下你的16词核心价值观    
 >  
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >自由 进步 平等 人权   
 >解放 公正 法治 博爱   
 >反修 反极权 反威权 嗑药   
@@ -291,50 +300,50 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 |在2022年10月7日，他发布了有关[唑吡坦](/药物/唑吡坦.md)致幻药效的评论，如右图| ![](/文件/Spring风20221007.jpg)|
 |-|-|
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 > 右美沙芬 24×15mg 测试  
 > 1:54 PM · Oct 15, 2022
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 13:53服用  
 > <img src="../文件/Spring风20221015.jpg" style="height:300px; vertical-align:top;">
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:36 第一轮呕吐感 猜测是非选择性血清素再摄取抑制造成的 血清素2C受体被过度激活 导致恶心感
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:43 声音变远 声音变小
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:45 视觉形态改变 思维改变 音乐欣赏程度增高 头晕感(鼻梁骨)
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 14:53 瞳孔扩散 头皮发麻 音乐欣赏程度增高 体温生高
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 15:02 意志力实在是顶不住这个药 肌无力 视觉色彩增强 视觉形状增强
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 16:46 药效结束
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 警惕右美OD后吃饭 恶心死我了 一定要空腹！
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 右美沙芬我怀疑是不是在里面加了催吐药
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 我要失去控制了
 >
 > いくら @88BExUpvIQ7sOC8 · Oct 15, 2022  
 > 喜欢，听起来好专业的样子，虽然我听不懂，我只会哇我在飞诶
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Oct 15, 2022  
 > 实际上我也只是记录了大体 进药效了我都没办法理智
 
 他还将自己OD[右美沙芬](/药物/右美沙芬.md)的过程直播记录下来，发布在推特上。
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd 
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd 
 >
 >在今天下午右美沙芬药效过去后 产生的右美沙芬戒断反应
 > 
@@ -352,33 +361,33 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 |2022年10月23日，他达成了700fo<sub>(推特上称“粉丝”为“fo”)</sub>。这个数字远远小于如今OD圈大佬的粉丝数字，说明当时OD并未流行，或OD圈影响力的重心并未转移到推特上来|![](/文件/Spring风20221023.jpg)|
 |--|--|
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 > AXS-05组合我的一些看法  
 > Nov 12, 2022
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 右美沙芬经过CYP2D6酶转换为NMDA非竞争性拮抗剂 科研思路可能就是:利用DXM的SRI+NRI特性 并且安非他酮已经是一款在市面上的NDRI 并且具有CYP2D6酶的抑制特性 为什么不选用同样有这个特性的苯海拉明 一方面可能是制药厂考虑到抗胆碱剂 可能会造成副作用 另一方面也有可能考虑到这个组合可能不受人待见
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 因为这个药物组合就是因为它有CYP2D6抑制的特性 曾经有人也对其进行过药物滥用 并且制药厂怎么使用合法的理由 去申请这个药通过临床测试 这个时候药厂想到了有CYP2D6抑制特性的安非他酮 并且又是合法的抗抑郁药物 实际上药厂就是为了用右美沙芬的SRI和NRI的效果 这个效果在一部分药物滥用人群中表现
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 的抗抑郁效果十分客观 并且药厂也不要人“嗨”了 嗨了就通不过临床测试了 这个时候又是要CYP2D6抑制了 不让它转换成DXO 不让它产生“解离感” 通俗点来说就是人飘起来走路轻飘飘的感觉 并且从一定角度上来说 两款XRI不应该同时出现(例如两款不同的SSRI联用可能导致血清素综合症) 并且NDRI的DRI效果也有可能
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 导致一定的副作用 在单独用右美沙芬来说 它的抗抑郁效果十分优秀 并且Sigma1效果也有可能促智
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 这种选择性 σ1 激动剂最近引起了我的兴趣  
 > PRE-084 增加 GDNF 的表达  
 > 如果我没记错的话 这将支持你的假设即 sigma 受体激动剂可以永久增加多巴胺受体，并解释所谓的“促智和抗抑郁作用”
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 12, 2022  
 > 我想了一下，如果你想一想，导致“余辉”的大量药物是 σ 受体配体 因此，σ受体在多巴胺受体表达中的作用可能与此有关
 
 以上是他对于药理学探讨的一点摘录，也许他有成为一名[益智药](/文档/药物分类/益智药.md)爱好者<sup>biohacker</sup>的潜力的......
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >
 > <img src="../文件/Spring风20221113.jpg"  style="height:333px; vertical-align:top;">
 >
@@ -387,36 +396,36 @@ OD是什么？一个我们没资格、也无法回答的问题，不过我们可
 > L @sequoiacandy · Nov 13, 2022  
 > 10
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 13, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 13, 2022  
 > 双性
 
 Spring风是双性恋哦~
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 > 阿片类药物 测试  
 > 6:32 PM · Nov 19, 2022  
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 18:29服用
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 20:08 肠道感觉很奇怪 感觉有点像是便秘上厕所的感觉
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 21:14 有点困 头顶有点发晕
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 20, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 20, 2022  
 > 感觉做事情没有动力 人很木纳
 >
 > 猫屎bot @wind_dmr · Nov 19, 2022  
 > 啥药啊
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 19, 2022  
 > 氢可酮
 
 2022年11月19日，Spring风首次接触了阿片类药物，氢可酮。这也许为他接触哮喘片，后不幸离世埋下了伏笔......
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd
 >
 >50mg粉末大概是多少
 >
@@ -424,15 +433,15 @@ Spring风是双性恋哦~
 
 反面教材哦！根据上下文推断，这里Spring风指的粉末的“多少”是显然体积。请不要目测粉末，因为粉末的颗粒密度有疏有密，如果要准确量取粉末，一定要用称。详见[药物剂量量取](/文档/药物剂量量取.md)。如此逐渐鲁莽的行为，正是他的最终结局的铺垫。
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 > 麻黄碱合成甲基苯丙胺  
 > https://bbgate.com/threads/methamphetamine-from-ephedrine-tablets.302/  
 > 7:37 PM · Nov 26, 2022  
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
 > 将盐酸伪麻黄碱（2.0 g）与红磷（0.6 g）、碘（4.0 g）和蒸馏水（2 mL）在圆底烧瓶（100 mL）中混合，并连接冷凝器。将混合物回流 24 小时，然后冷却。冷却后，将混合物用等体积的水稀释并滤出红磷。将几克硫代硫酸钠放入烧杯中，加入氢氧化钠溶液 (25% wt/vol, 8 mL) 以碱化溶液。
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Nov 26, 2022  
 > 然后将其添加到过滤后的反应混合物中，并旋转以显示甲基苯丙胺游离碱  
 > 呈油状，浮于水溶液之上。添加甲苯(20mL)以萃取甲基苯丙胺游离碱。甲苯提取物澄清至淡黄色。通入无水氯化氢气体以显露白色沉淀物，将其用甲苯洗涤。固体在高真空下干燥。
 
@@ -441,91 +450,91 @@ Spring风对于[冰毒](/药物/甲基苯丙胺.md)制取的讨论......
 |2022年11月26日，Spring风达成了1000fo，也许当时的OD圈影响力重心正在快速向墙外平台转移|![](/文件/Spring风20221126.jpg)|
 |-|-|
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 > 右美沙芬 24×15mg 测试  
 > <img src="../文件/Spring风20221216.jpg"  style="height:333px; vertical-align:top;">  
 > 7:56 PM · Dec 16, 2022  
 > 21.8K Views  
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 20:24 服用
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 21:31 我的脑子想让我吐
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 21:55 轻微痛觉消失 走路轻盈感
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 21:59 险些 呕吐
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 22:02 呕了
 
 Spring风购买了[右美沙芬](/药物/右美沙芬.md)原粉，并将其装入胶囊，却无法避免呕吐......
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 昨晚的事情基本都忘完了 第一次接触那么高的解离(720mg) 只能说感觉有点像是急性精神病 幻觉 精神错乱  
 > 貌似我嗑右美沙芬从上一周就只是有解离了 几乎没有那种起效时昏头的欣快感
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 右美沙芬 24×15mg 再给药（20点给药 21:40呕吐）  
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 1:59 高解离
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 2:54 中解离
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 路上很困差点被车创
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 会不会因为肝脏衰竭死掉
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 高解离真感觉自己不是自己
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 高解离差点没给我橄榄 很想睡觉
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 那些真的是我干过的事情？
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 我感觉我今天出去毒驾的不是我驾的
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 意识恢复了些
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 48t应该对肝没什么影响吧
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 飞得最高的一次解离
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 解离太高了 我肾脏有点痛 现在能思考一点了
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 一切都是虚假的
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 1:18 精神状态有点不太稳 很晕
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 1:25 疼痛消失
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 我到底在哪
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 17, 2022  
 > 一切都不真实 想呕
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 有点怕等会前面24直接开始生效 后面叠加24直接bad trip进急救室
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 16, 2022  
 > 无所谓了 加
 
 这就是Spring风最习惯的撰写的药物报告的方式——通过推文连载。Spring风声称这是他经历过的最高的一次解离——*区区*48t右美沙芬的记录。然而，对如今的ODer们来说，服用这么高的剂量的右美沙芬似乎已经成为日常了......~~那么高的剂量，真的有必要嘛？~~
@@ -534,39 +543,39 @@ Spring风购买了[右美沙芬](/药物/右美沙芬.md)原粉，并将其装�
 
 > 距离当局正式宣布放弃疫情的封控政策已经过了，然而全国人民并未沉浸在欣喜中。因为，在短短几个月前，当局的宣传机构还在鼓吹新冠后遗症的严重性，还向全国人民真心诚意地许下诺言，说我国将会与疫情抗争到底，绝对不会企图与病毒共存。
 
-2022年末，异变还是发生了。Spring风此前与上文提到的[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)交往非常密切，原因想必是因为两者都是热爱探索的“药师”——那时，ChatGPT才出来不久，AI远远没有普及，并不是所有人都能轻易获取信息的，只有那些既热爱探索，又懂得途径的人才能被称为这个称号。
+2022年末，异变还是发生了。Spring风此前与上文提到的[<img src="../文件/彩霞头像.jpg" class="icon">彩霞](x.com/yukiukoori)交往非常密切，原因想必是因为两者都是热爱探索的“药师”——那时，ChatGPT才出来不久，AI远远没有普及，并不是所有人都能轻易获取信息的，只有那些既热爱探索，又懂得途径的人才能被称为这个称号。
 <!-- 补一个佐证 -->
 然而，当时彩霞已经消失了一个多月，到了2022年12月，终于有人放出有关彩霞的消息。而Spring风发布的推文当即引起了大家广泛的注意。
 
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 > 跨性别人士 彩霞@yukiukoori  
 > 因帮助未成年跨性别人士逃离原生家庭被其父母以及社群内成员恶意举报 于11月6日被上海警方以“聚众淫乱”污蔑逮捕 至今未能放出 如果“罪名”成立 将会面临五年以下有期徒刑  
 > 1:24 AM · Dec 21, 2022  
 > 313K Views  
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 相关内容  
 ><img src="../文件/Spring风20221221A.jpg" style="height:500px; vertical-align:top;"> 
 ><img src="../文件/Spring风20221221B.jpg" style="height:489.437px; vertical-align:top;">
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 被捕当天没有聚众淫乱 但是当天被捕的四个人 其中一个人的手机里查到了淫乱的视频 尽管视频里的人不是彩霞 警方依然把案件定为“聚众淫乱”  给彩霞以“聚众淫乱”定罪
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 警察的诱导式提问分明就是想要冲业绩做出的表现 这类案件定性本身就没那么严重 却非要以其他人手机的淫乱视频给彩霞定罪 这不是冲业绩是什么
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 警方超期扣押 刑讯逼供 执法不当 诬告陷害 完完全全的官僚主义
 >
-> <img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
+> <img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd · Dec 21, 2022  
 > 我很愤怒 莫须有的罪名套在了自己的身上 这种无力回天的感觉 真是令人恶心
 
-据称，[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)被自己帮助过的人所陷害。可以肯定的是，彩霞的被捕严重恶化了<img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风的精神状态。
+据称，[<img src="../文件/彩霞头像.jpg" class="icon">彩霞](x.com/yukiukoori)被自己帮助过的人所陷害。可以肯定的是，彩霞的被捕严重恶化了<img src="../文件/Spring风头像.jpg" class="icon">Spring风的精神状态。
 
-这便是[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)的下场，“聚众淫乱罪”、“五年以下有期徒刑”。此后，彩霞再也没有在公开场合抛头露面过。
+这便是[<img src="../文件/彩霞头像.jpg" class="icon">彩霞](x.com/yukiukoori)的下场，“聚众淫乱罪”、“五年以下有期徒刑”。此后，彩霞再也没有在公开场合抛头露面过。
 
 之后的很久一段时间内，彩霞音讯全无。
 
-跳到后来，2023年3月，[<img src="../文件/寒涟漪头像.png" style="height:25px; vertical-align:top;">寒涟漪](x.com/HANLIANYI331)，一位仍然活跃的跨性别著名活动家，在推特[发文](https://x.com/HANLIANYI331/status/1638083781327474689)，为彩霞的律师费募捐。在推文中，寒涟漪声称：
+跳到后来，2023年3月，[<img src="../文件/寒涟漪头像.png" class="icon">寒涟漪](x.com/HANLIANYI331)，一位仍然活跃的跨性别著名活动家，在推特[发文](https://x.com/HANLIANYI331/status/1638083781327474689)，为彩霞的律师费募捐。在推文中，寒涟漪声称：
 
 > 2022年11月，上海一位名为“彩霞”的跨性别女性被警方带走调查，同时一同被带走调查的还有当时住在彩霞家中的其他三名跨女。除了以上四位，被各地警方安排到公安局问审的同时还有4名跨女（当时不在彩霞家住但和彩霞有联系的）。
 >
@@ -614,9 +623,9 @@ Spring风购买了[右美沙芬](/药物/右美沙芬.md)原粉，并将其装�
 >
 > 2.对于这次刑事案件，寒涟漪不会进行任何金额的支持。因为尽管寒涟漪也希望这个案件尽可能的轻判，但是寒涟漪认为这个案件需要的律师费用，可以给予更多的人更多的帮助。
 
-不知道[<img src="../文件/寒涟漪头像.png" style="height:25px; vertical-align:top;">寒涟漪](x.com/HANLIANYI331)等人最后能否帮到她。
+不知道[<img src="../文件/寒涟漪头像.png" class="icon">寒涟漪](x.com/HANLIANYI331)等人最后能否帮到她。
 
-[<img src="../文件/彩霞头像.jpg" style="height:25px; vertical-align:top;">彩霞](x.com/yukiukoori)被捕当时在场的另外三人，随后全部相继自杀离世。
+[<img src="../文件/彩霞头像.jpg" class="icon">彩霞](x.com/yukiukoori)被捕当时在场的另外三人，随后全部相继自杀离世。
 
 再后来就是2023年11月了，跨性别圈似乎接受了在彩霞被捕这件事上达成一个较好的结果是不可能的这一事实，并把彩霞案被作为一个跨性别圈的例子，警示其他跨性别人士如何妥善地应对执法部门，以免陷入执法部门设下的圈套，详见这一脚注[^3]。~~虽然但是，直接这么说执法部门好吗？~~
 
@@ -644,35 +653,35 @@ Spring风购买了[右美沙芬](/药物/右美沙芬.md)原粉，并将其装�
 
 死者的推特名叫Anilovr，生前与Spring风的关系很好，似乎是他的相当重要的人物。据称，在生命的最后时刻，Anilovr在推特用户名后面加了一个后缀，“```#参宿四```”，那一颗现在也许已经不再存在的星星。
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >Dec 30, 2022  
 >听到这个信息的时候 感觉没有情绪 不是悲伤也不是任何 感觉有些虚假 就如同家里人突然与世长辞的感觉 太突然了 以至于让我觉得这都是虚假的 解离的感觉 理应我是应该感受到悲伤   
 >(引用该推文)
 
 Spring风发表了一个悼念的推文，随后在自己的用户名后也加上了一个“```#参宿四```”以纪念这位推特网友。**悲伤的是，当时没有人能料到，他的账号将永远带着这个```#参宿四```。**此后，Spring风再次多次发推文哀悼Anilovr。
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >梦到Ani回我信息了   
 >10:21 AM · Dec 31, 2022   
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >Dec 31, 2022   
 >好像是梦到发信息给我说被救回来了 大概好像是说好苦什么的   
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >现在翻了翻聊天记录 才忽然明白是什么意思了...今天上推看到信息说昨晚上Ani火化了...昨晚梦到她被急救过来了QQ发信息说口干 嘴巴苦......   
 ><img src="../文件/Spring风20221231.jpg" style="height:250px; vertical-align:top;">    
 >1:30 PM · Dec 31, 2022
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >还是不能接受 如果说是有一天突然回我信息了说自己没大事呢   
 >4:46 PM · Jan 1, 2023   
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >还是不能接受啊 还是不能接受啊 万一只是暂时退推一段时间呢 万一只是暂时不想接触互联网这种呢 还是没办法接受还是没办法接受啊 越来越多的信息指向她已经离开了   
 >11:18 PM · Jan 3, 2023
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >参宿四以不稳定著称 远在640光年外的它或许早就消失 但是人们依然可以仰望星空看到它 即便参宿四早已消失 而人们依然可以仰望着你 你说是吗
 抬头 便能看到在星空中的你   
 >1:40 AM · Jan 4, 2023
@@ -685,101 +694,101 @@ Spring风发表了一个悼念的推文，随后在自己的用户名后也加�
 
 而这一篇记录推文所反应的问题尤为突出：
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >
 >司来吉兰+苯乙胺组合 测试  
 >2:25 PM · Jan 4, 2023  
 >62.7K Views
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >司来吉兰 2×5mg 14:28 服用
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:33 服用苯乙胺 约500mg
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:44 脑袋莫名开始有些轻盈 身体开始发轻 手开始不痛
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:45 不再焦虑烦躁 感觉手臂变轻了 心脏跳的更快
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:46 手臂酸痛消失 烦躁情绪消失 心跳加快
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:47 脑袋有轻微电流穿过 好震撼的感觉 清醒的感觉 活着的感觉
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:47 进入很专注的状态
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:48 视线开始轻微有些异常 脑袋有轻微电流 身体在变轻
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:50 人变得非常清醒 比其他什么时候都清醒 清晰的能感受到自己的心跳
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:51 时间不再像刚才那样漫长煎熬
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:54 心跳113
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:55 刚开始来的感觉特别强烈 后面适应过后貌似还好？ 心跳102
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:56 心跳125
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >16:57 胃部强烈 刺激 想呕吐
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:01 刚进入状态会有强烈的刺激感 后随着适应刺激刺激变得不那么强烈（？）
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:05 我猜测胃部的一些还没有吸收 有些只是通过舌下到达了脑内 有可能之后在胃部吸收的还会产生第二轮高峰
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:09 困意
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:10 嗜睡 手机信息有点乱点 看不清什么的 判断有些问题
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:30 吸入了 1×75mg 安非他酮
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:41 头皮有发麻感觉
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:44 心跳 76 明明很低 但是还是能清晰听到 希望别因为心肌膜炎给我寄了就行
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >17:57 心跳 100 貌似没有药效 或者说是没有那种刚开始特别的感觉了
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 4, 2023  
 >21:54 不想动 不想上网不想碰手机不想接触任何东西
 
@@ -792,45 +801,45 @@ Spring风发表了一个悼念的推文，随后在自己的用户名后也加�
 
 这篇药物记录，便是Spring风生前最后一篇完整的药物记录了。
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd    
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd    
 >罂粟壳药物 24片 测试   
 >每片约含有0.5mg[吗啡](/药物/吗啡.md) 2.5mg[麻黄碱](/药物/麻黄碱.md)
 >共计12mg吗啡 60mg麻黄碱
 ><img src="../文件/Spring风20230108.jpg" style="height:250px; vertical-align:top;">  
 >2:31 PM  Jan 8, 2023   
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >14:33 服用
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >15:39 身体有些发轻了 镇痛
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >15:43 感觉有些镇咳的感觉 咳嗽相对来说不会那么痛
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >15:51 呼吸抑制（呼吸深度变浅）
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >15:34 头发晕
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >16:22 欣快感刚才时候可能有一点 偏向于比较自信？ 有一点镇痛效果 我再等等看
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >16:31 音乐更像是从远处一些地方飘过来  
 >4:32 PM · Jan 8, 2023  
 >·  
 >87.9K Views
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >16:38 阿片类的口干？还是什么
 
@@ -866,7 +875,7 @@ Spring风吞下24t哮喘片时，是当天下午2时31分。而那时，距离�
 
 既然那一天的[致幻剂](/文档/药物分类/致幻剂.md)测试是他早就计划好的，当时也没有发现这一重大隐患的人劝阻他，他就按原计划去做了。
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >6:07 PM · Jan 8, 2023   
 >在思考致幻剂没有人陪是不是有点危险 我等会把刀子那些收了和大门口给锁了先
 
@@ -876,21 +885,21 @@ Spring风吞下24t哮喘片时，是当天下午2时31分。而那时，距离�
 
 接下来，你将要目睹的，是药圈历史上最臭名昭著的悲剧。
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >致幻剂 测试  
 >7:49 PM · Jan 8, 2023
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >19:47服用
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >19:55 轻微恶心感  
 >
 
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd   
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd   
 >8:04 PM · Jan 8, 2023   
 >色胺  
 >
@@ -901,11 +910,11 @@ Spring风吞下24t哮喘片时，是当天下午2时31分。而那时，距离�
 现在，距离他发出那最后一条臭名昭著的推文仅剩7分钟。
 
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >20:10 视觉开始变形
 >
-><img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风#参宿四 @Spr1ngW1nd  
+><img src="../文件/Spring风头像.jpg" class="icon">Spring风#参宿四 @Spr1ngW1nd  
 >· Jan 8, 2023  
 >20:11 剧烈变形
 
@@ -913,7 +922,7 @@ Spring风吞下24t哮喘片时，是当天下午2时31分。而那时，距离�
 
 <!-- 此处的笔者指鼠尾草
 
-笔者对此深有体会，虽然笔者并非与<img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风通过服用相思汤达到过这一状态，而是通过[某种](/药物/DPT.md)据说更阴暗的[研究用](/文档/研究用化学品.md)的[色胺类物质](/文档/药物分类/色胺类物质.md)。而那是两年以后，药圈已沧海桑田了。
+笔者对此深有体会，虽然笔者并非与<img src="../文件/Spring风头像.jpg" class="icon">Spring风通过服用相思汤达到过这一状态，而是通过[某种](/药物/DPT.md)据说更阴暗的[研究用](/文档/研究用化学品.md)的[色胺类物质](/文档/药物分类/色胺类物质.md)。而那是两年以后，药圈已沧海桑田了。
 
 *这一段挪到以后再讲，暂时放在这*
 
@@ -927,7 +936,7 @@ Spring风吞下24t哮喘片时，是当天下午2时31分。而那时，距离�
 
 --- -->
 
-最后一条不明不白的推文发布后，[<img src="../文件/Spring风头像.jpg" style="height:25px; vertical-align:top;">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)，这名OD圈早期药物探索者的故事到此结束了。但是，据传言称，他并没有立即丧命，而是被其家属发现，送医后抢救了四天，直到1月11日才死。
+最后一条不明不白的推文发布后，[<img src="../文件/Spring风头像.jpg" class="icon">Spring风](/文档/补档/Overdosewiki/Report/RP-74.md)，这名OD圈早期药物探索者的故事到此结束了。但是，据传言称，他并没有立即丧命，而是被其家属发现，送医后抢救了四天，直到1月11日才死。
 
 然而，也许是根本没有人在线下与他有接触，并没有人像<ruby>当时上个月<rt>2022-12</ruby>推友Anilovr逝世一样，立即公布了他的死讯。ODer们对此一直不知情，而是焦急地等待他再次发布推文，来宣布自己在消失期间到底发生了什么。
 
@@ -958,7 +967,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 而那些被激起好奇心的人，包括下文即将提到的一位将会改变od圈的人物。
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD    
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD    
 >2022年08月09日，你是励志要当化学工程师的落榜中考生，平日里最大的爱好是作曲，最爱的偶像是超天酱。这天你打了一下午的彩虹六号，正在刷视频，偶然间看到了一个叫“圈内师老师”的UP发了一个视频，说有些青少年拿一种叫“右美沙芬”的止咳药来磕  
 ><img src="../文件/后藤20240809.jpg" style="height:300px; vertical-align:top;">    
 >6:27 PM · Aug 9, 2024
@@ -971,16 +980,16 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 后藤在接触OD后，在2022年8月29日首次开始OD(见[odwiki RP-7](/文档/补档/Overdosewiki/Report/RP-7.md))，之后，他了解到了足够多的OD知识，并意识到了[减少药物使用带来的伤害](/文档/负责任的用药索引页.md)的重要性，却遇到了大量亟需拯救的ODer们。后藤<sup>退圈前，</sup>亲自声称：
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 > Aug 9, 2024  
 >2023.03，我看着吧里乱传什么“愈美有甘油”的史诗级胡话，便发了个“愈创甘油醚≠甘油”。那时我略知一二，经常掺和吧里解疑答惑。慢慢找我问的人多了，我当时就目的着减害了，剂量压低，宣传危害。我至少掺和宣传了“不得pr+晚安”“美金刚大脑空洞”。2023.08，我加入了很多od群，包括欧d群
 >
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 > Aug 9, 2024  
 >各种群，我待欧d群里最得好。当时我微信正好叫“后藤一里”，大伙们在群里问，我答几句。答得多了，大伙们都认得我“后藤”了  
 >那时我就琢磨着减害。压剂量，说危害。那张白兔指南，当年真的劝退了几个人；为什么odw引论注意事项第一句“舍曲林不能o”？当年真的好多人问这个！
 >
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 > Aug 9, 2024  
 >注册这个号，后来欧d群解体，我加入余下成员自发零散的群。2024.01，有一个贴吧来加我的人，邀请我写他的网站“overdosewiki”。我当时想，一个个答太浪费时间了，就这样一个站点，大伙们一看就好了，多方便啊！更能减害了不是嘛？于是我加入了……  
 >狗官走上了不归路！  
@@ -990,7 +999,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 但是此类问题居然是群中的主要问题。这让后藤意识到了，ODer们面临着有待减少的伤害，一个个答这些问题来减少这些伤害太浪费时间了，将它们编写成网站，开设一个网站则是最佳选择。
 
-终于，在2024年1月，后藤与另外一位将要介绍的传奇级人物，建立了<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)——OD圈第一个百科。就此，OD百科化的序幕被拉开。此百科的意义对于OD圈有多大，无需多言。
+终于，在2024年1月，后藤与另外一位将要介绍的传奇级人物，建立了<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)——OD圈第一个百科。就此，OD百科化的序幕被拉开。此百科的意义对于OD圈有多大，无需多言。
 
 为了撰写odwiki，后藤可谓费尽心机。他的努力有了报酬，大半个OD圈的关注都转向了这个百科。他拉了一大群人测试新OD药物，撰写报告等等。
 
@@ -998,13 +1007,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 然而，他的个性似乎导致他对于某些[益智药](/文档/药物分类/益智药.md)陷入了痴迷的状态，而那种痴迷堪称走火入魔。他对于借助药物改变自身和一些ODer的困境的希望贯穿他的整个故事，也在很大程度上改变了他的故事的走向。
 
-例如，从<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)建立的伊始，他就陷入了对于[苏糖酸镁](/药物/镁剂.md)的痴迷：
+例如，从<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)建立的伊始，他就陷入了对于[苏糖酸镁](/药物/镁剂.md)的痴迷：
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >联络人向我问询了一种化学物质：L-苏糖酸镁（简记左苏糖镁）的作用。我查询后，发现它可能会是比吡拉西坦与茶氨酸更有效的反解离剂。但该物质2010年才被发现，也没有什么更多的信息。请各位一起探究！  
 >5:43 PM · Jan 14, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jan 14, 2024  
 >目前已知左苏糖镁具有：  
 >补充Mg2+  
@@ -1014,7 +1023,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >增强肠道蠕动  
 >上调海马神经元中NMDA受体的NR2B亚基的表达（反解离）
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >苏糖酸镁逼我得吃三个人的饭量，换来的是感知认知强化，以及毫不嗜睡，入睡快速。这值得吗？  
 >最严重的是这种影响长到离谱，丝毫不亚于优米的后遗症。我都怀疑苏糖酸镁是否也是靠类似于后遗症的方式来维持良效的了  
 >8:49 PM · May 4, 2024
@@ -1028,7 +1037,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 先插一段目前广泛认为的事实。在常用od剂量下，[美金刚](/药物/美金刚.md)更主要是解离剂，产生的幻觉以解离性幻觉为主。服用者在睁眼时虽然能看得到各种身边的物件长啥样，却无法回忆起这些物件的性质。闭上眼后，服用者陷入梦境般的幻觉中。美金刚的起效时间很长，可以轻易长达2天，很多人根据对于自身意识状态的衡量，以为药效已经结束了，但实际上没有。
 
-相比之下，金刚晚安则更容易使服用者陷入一个更短暂、更强烈的幻觉，类似于精神分裂。服用者经历的最主要的幻觉，就是身边的物件，被赋予了某种本没有的性质。例如，床单突然变成了尸体；原本空白的墙上出现一个诅咒的图案和字样。更糟糕的是，服用者会遭受心动过速，导致严重的混乱。后来，就是在这样的情形下，一名叫<img src="../文件/彩加头像.jpg" style="height:25px; vertical-align:top;">彩加的跨性别ODer[坠亡](/文档/补档/Overdosewiki/Report/RP-49.md)，死状惨绝人寰，隔着屏幕也让人大受震撼。
+相比之下，金刚晚安则更容易使服用者陷入一个更短暂、更强烈的幻觉，类似于精神分裂。服用者经历的最主要的幻觉，就是身边的物件，被赋予了某种本没有的性质。例如，床单突然变成了尸体；原本空白的墙上出现一个诅咒的图案和字样。更糟糕的是，服用者会遭受心动过速，导致严重的混乱。后来，就是在这样的情形下，一名叫<img src="../文件/彩加头像.jpg" class="icon">彩加的跨性别ODer[坠亡](/文档/补档/Overdosewiki/Report/RP-49.md)，死状惨绝人寰，隔着屏幕也让人大受震撼。
 
 尽管如此，后藤在他的[odwiki的美金刚条目](/文档/补档/Overdosewiki/Drugs/MMT.md)中，写下了一句又一句违背客观事实的句子，包括一个已经主动撤回的“简单定理”，简直是望文生义：`药效上，美金刚 = 右美沙芬 + 金刚烷胺`。
 这一句倒是还留着：
@@ -1046,9 +1055,9 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 正是因为后藤当时留下的这一误区，导致时至今日的ODer们仍然更喜欢o[金刚烷胺](/药物/金刚烷胺.md)，而唾弃[美金刚](/药物/美金刚.md)。希望这个误区能被今后的“药师”们纠正。
 
-然而，即便到了现在，<img src="../文件/后藤新头像.jpg" style="height:25px; vertical-align:top;">后藤依然固守己见，大概是为了保卫自己的退圈生活吧，显然，他仍然沉浸在自己的话语体系中无法自拔。
+然而，即便到了现在，<img src="../文件/后藤新头像.jpg" class="icon">后藤依然固守己见，大概是为了保卫自己的退圈生活吧，显然，他仍然沉浸在自己的话语体系中无法自拔。
 
-<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)中曾经有的另一个最广受争议的条目，就是“OD不扩散共识”了。
+<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)中曾经有的另一个最广受争议的条目，就是“OD不扩散共识”了。
 
 ><img src="../文件/lingqicodesad_status_1753227409690865827_photo_1.jpg" style="height:600px; vertical-align:top;">
 
@@ -1059,8 +1068,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >5.与所有OD扩散组织划清界限。保证OD不向普通民众扩敬。    
 >6.自杀干预和心理援助的同僚谨慎对待OD史病人，温柔劝导，不可强制威胁其人身自由和安全
 
-
-根据图片名中推文的ID那串数字`1753347662026580412`，可以判断推文发布于2024年2月初，这个条目被放入<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的时间也大致是如此。
+根据图片名中推文的ID那串数字`1753347662026580412`，可以判断推文发布于2024年2月初，这个条目被放入<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)的时间也大致是如此。
 
 当时的背景是，OD正在被快速地认知，随着短视频媒体的流行，大量从事OD的人出现在了抖音等视频平台上。他们身穿奇装异服，发布自己有关从事OD的信息，于是大量人注意到OD的存在。
 
@@ -1068,11 +1076,11 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 **这是一个典型的正反馈循环，而当时，正处于S形曲线的拐点，任何人都已经无力挽救了——OD注定将被所有人认知。**
 
-然而，<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)虽然在推特上占据了对于OD的完全正统的解释，也确实起到了减少药物造成的伤害，但是这些影响仅限于推特了，对于国内的平台，它鞭终归是长莫及。而那份“OD不扩散宣言”，更是导致推特上有获取减害知识的渠道的ODer们，无法合理地分享这些能够减少伤害的知识，更加阻将这一切推向极端。
+然而，<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)虽然在推特上占据了对于OD的完全正统的解释，也确实起到了减少药物造成的伤害，但是这些影响仅限于推特了，对于国内的平台，它鞭终归是长莫及。而那份“OD不扩散宣言”，更是导致推特上有获取减害知识的渠道的ODer们，无法合理地分享这些能够减少伤害的知识，更加阻将这一切推向极端。
 
 终于，由于当时OD行为已经传播得过于广泛，特别是“地雷女”，“OD妹”等形象正在让OD走向潮流，引起了当局特别注意。2024年5月7日，当局宣布将右美沙芬宣布列为管制药品。
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >你知道我要骂什么    
 ><img src="../文件/后藤20240507.png" style="height:300px;     vertical-align:top;">      
 >1:53 PM · May 7, 2024
@@ -1094,9 +1102,9 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 [策划药](/文档/研究用化学品.md)是一种经过对于药物的化学结构进行微妙地修改，保留其[药理学](/文档/科学信息索引页.md)上的性质，却不落入当局对于管制药品的规定的范围内，从而创造性地无法被我国当局对于`毒品`的定义所限制的化学品。
 
 
-这包括一名至今仍活跃的最知名的OD牟利派——<img src="../文件/可达鸭头像.jpg" style="height:25px; vertical-align:top;">可达鸭。至今，他的推特粉丝上千，Telegram群组爆满。
+这包括一名至今仍活跃的最知名的OD牟利派——<img src="../文件/可达鸭头像.jpg" class="icon">可达鸭。至今，他的推特粉丝上千，Telegram群组爆满。
 
-><img src="../文件/可达鸭头像.jpg" style="height:25px; vertical-align:top;">可达鸭滴化学乐园 @kedayahuaxue    
+><img src="../文件/可达鸭头像.jpg" class="icon">可达鸭滴化学乐园 @kedayahuaxue    
 >来个od圈选美大会吧。看看谁是最美od妹。   
 >在下面帖子发布自己的美照点赞评论最多排名次。   
 >第一名10盒右美   
@@ -1121,7 +1129,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 
 
-><img src="../文件/彩加头像.jpg" style="height:25px; vertical-align:top;">桜崎彩加🍥（右美贩售版） @hulicaijia   
+><img src="../文件/彩加头像.jpg" class="icon">桜崎彩加🍥（右美贩售版） @hulicaijia   
 >这里彩加    
 >白云山右美沙芬    
 >宛衡右美沙芬都有售ing    
@@ -1131,26 +1139,26 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
  
 
 
-<img src="../文件/彩加头像.jpg" style="height:25px; vertical-align:top;">彩加，一名跨性别ODer，因过量服用[金刚烷胺](/药物/金刚烷胺.md)导致精神分裂发作，[死了](/文档/补档/Overdosewiki/Report/RP-49.md)。之后，此人的死亡被指责与后藤有关，至于关联程度究竟多大有待考证。
+<img src="../文件/彩加头像.jpg" class="icon">彩加，一名跨性别ODer，因过量服用[金刚烷胺](/药物/金刚烷胺.md)导致精神分裂发作，[死了](/文档/补档/Overdosewiki/Report/RP-49.md)。之后，此人的死亡被指责与后藤有关，至于关联程度究竟多大有待考证。
 
-有一则事件，危害的不仅是后藤本人，更是<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的整体名誉。
+有一则事件，危害的不仅是后藤本人，更是<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)的整体名誉。
 
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >自制！右美沙芬不成瘾版因为各种原因可能要四五月份才行 自测上瘾性不存在 决定定价在自己去搓我不卖    
 ><img src="../文件/后藤20240509.png" style="height:300px; vertical-align:top;">   
 >8:26 AM · May 9, 2024
 
 
-2024年5月，[右美沙芬](/药物/右美沙芬.md)宣布被列管后，ODer们的回应除了屯购、策划、还有剩下探索剩余可以od的药物。而在这个危急时刻，<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)则承担了整个OD圈探索剩余可以用来od的药物的责任。<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">后藤当然是主要负责人，他先是鼓吹中药“右美沙芬不成瘾版”，又开始进行中药OD的尝试：
+2024年5月，[右美沙芬](/药物/右美沙芬.md)宣布被列管后，ODer们的回应除了屯购、策划、还有剩下探索剩余可以od的药物。而在这个危急时刻，<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)则承担了整个OD圈探索剩余可以用来od的药物的责任。<img src="../文件/后藤头像.jpg" class="icon">后藤当然是主要负责人，他先是鼓吹中药“右美沙芬不成瘾版”，又开始进行中药OD的尝试：
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 11, 2024  
 >平替右美沙芬测试  
 >9:58 PM · May 11, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 11, 2024  
 >原料：  
 >姜半夏粉、黄芪粉、黄芩粉、干姜粉、天麻粉、桂皮、七叶神安片（刚买的  
@@ -1158,87 +1166,87 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >复方丹参（丹参+三七）片（我自己要用的  
 >挺好笑的，但是成了的话那可就太nb了
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 11, 2024  
 >60半夏，15生姜，30黄芪，30黄芩
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 11, 2024  
 >淫羊藿、陈皮、金银花自由发挥
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 11, 2024  
 >开喝第一碗  
 ><img src="../文件/后藤20240511.png" style="height:300px; vertical-align:top;">
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >00:03 肌肉松弛，镇静
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >00:05 解离开始出现
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >00:58 但是解离被固着在这里了，不动了
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >01:02 好想躺床上装死
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >01:06 疲惫感
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >01:13  
 >肝：操你妈突然给我加班是吧  
 >肾：别说了我都开始痛了！
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >01:17 小臂出现酸痛，但力量没变
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >我现在只用了半夏、黄芪、黄芩、生姜、淫羊藿、金银花、天麻
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >02:29 不醉，但确实有一定的舒坦感，像1高
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >02:35 唉！一睁眼发现天花板有一闪而过的花纹
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >02:45 解离的内部幻觉出现，已确认存在解离
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >但是程度不大，也没昏过去，意识清醒，四肢解离
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· May 12, 2024  
 >所以躺床上刷了一晚上手机 唉肚子狗叫了，又要煮饭吃了
 
 根据他的描述，效果只能说是成功了一半。实验完成后，他又将测药的任务委派给别的人：
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >有志者可以试试半夏提取物   
 >1:10 AM · May 13, 2024   
 
 
 这倒是留下了一个派人测药的开端。从此以后，不知是因为OD圈本身群体扩大或是重心向推特转移，还是因为后藤测药把自己带火了，他的推文的浏览量节节攀升。从此以后，到他退圈前，几乎每个推文的浏览量都上万。就算在此时，他还不忘了自己的[苏糖酸镁](/药物/镁剂.md):
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >苏糖酸镁后，我开始回忆起梦境，我开始发现我对过去的记忆出现了问题，我似乎想起了什么……再喝一口   
 >9:19 AM · May 20, 2024    
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >借用苏糖酸镁，我想起来我缺失了记忆，我想起来我缺失的记忆，快说：   
 >苏糖酸镁，你可以吃玉米   
 >4:39 PM · May 20, 2024   
@@ -1246,12 +1254,12 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 然而，药师们提出了一个更有前景的潜在OD药物——奈福泮。于是，后藤并未自己测药，而是将任务委派给其他ODer去。
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD    
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD    
 >警告：奈福泮的精神药效尚且不确定，请不要贸然尝试。试验人员正在测试，稍安勿躁    
 >https://overdose.wiki/zh/Drugs/NFP   
 >11:54 AM · May 21, 2024  
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >第一条副作用排出来了：   
 >高血压   
 >是能当场击杀的高血压   
@@ -1260,12 +1268,12 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >是能让人晕迫痛苦的高血压   
 >2:18 PM · May 22, 2024   
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD    
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD    
 >所以我还没买奈福泮，主要是我的心脏估计也受不了太高血压   
 >12:01 AM · May 23, 2024   
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD    
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD    
 >第二副作用排出来了：   
 >尿血   
 >
@@ -1274,13 +1282,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >当然，于此是高血压干的    
 >5:59 AM · May 28, 2024    
 
-于是，对于奈福泮的探索宣告失败。鉴于这一切替代的尝试都已失效，后藤在<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的右美沙芬条目下郑重写下了这一句话：
+于是，对于奈福泮的探索宣告失败。鉴于这一切替代的尝试都已失效，后藤在<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)的右美沙芬条目下郑重写下了这一句话：
 
 >**无论是医学上还是od上，右美沙芬没有任何替代品**
 
 然后，面对已经走红的试药尝试，以及对其期待的ODer们，他只好做出最终的解释：
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >今天我们迎来了对优米精二管控最好的解释
 >我不带任何政治思考，我本人不了解任何政治内容，我本人没有任何政治立场，我的描述仅限现象   
 >“就跟疫情爆发的时候拉隔离区一样，隔离区里的人死活不管”    
@@ -1288,7 +1296,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 插入一段绝望的、未能满足ODer们期望的，眼睁睁看着一切走向坏的结局的推文
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >我违反医学伦理学   
 >我作为MRP轮椅委员会药师擅自违反MRP   
 >我对不起你们，我对不起医学伦理学，我对不起所有人……  
@@ -1297,40 +1305,40 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >9:27 PM · Jun 23, 2024  
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD     
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD     
 >· Jun 23, 2024     
 >DPZ，你全家死绝    
 ><img src="../文件/后藤20240623B.jpg" style="height:300px;vertical-align:top;">  
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 24, 2024  
 >从他妈近乎地狱的13个小时中暂且恢复了清醒，我保证我没有任何自杀意愿，我就是在一次多了其他药物的测试中出了他妈的意外。他妈的，我真是个罪人。躯体还他妈在痛，呕吐感与不适，窒息感什么的。裤子在使用尿壶时不慎浸湿，全身都被吐了7次而肮脏不堪。好在牢藤终于是硬抗过来了，MRP ENGAGED!  
 ><img src="../文件/后藤20240624.jpg" style="height:300px;vertical-align:top;">   
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 24, 2024  
 >先声明一下，这次意外与吡拉西坦、苏糖酸镁、茶氨酸、咖啡因无关，都是另一个他妈的药物害的。草，牢藤吃晚安吐过满床螺蛳粉，吃海明出过重症抑郁+谵妄，都硬抗过来了，就这次居然倒在小小otc下，草
 
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 25, 2024  
 >所以由此可见，胆碱那一块不能碰，既不舒服也死不掉  
 >以及，胆碱酯酶负责分解胆碱，胆碱酯酶抑制剂可阻止胆碱分解，强化胆碱水平，与抗胆碱相反。别看个抑制就以为这也是抗胆碱，建议重修生必一
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 25, 2024  
 >牢藤来总结问题了  
 >胆碱酯酶抑制过量，则引起胆碱能危象，则震颤、恶心、腹痛、呕吐。类似有机磷农药中毒，却他妈死不掉  
 >抗胆碱过量，则引起谵妄，则重症肌无力、呼吸困难、痛苦、恐慌。就像把人生中能遭受的痛苦全都叠上来了  
 >这次牢藤栽胆碱酯酶抑制上了
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 25, 2024  
 >终于是拆吊针能下床了，我这是进了肾内科天啊……  
 ><img src="../文件/后藤20240625.jpg" style="height:300px;vertical-align:top;">   
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 25, 2024  
 >起码截止08.01，限制牢藤的服药。限制如下：  
 >1. 禁止使用任何药物，包括苏糖酸镁、茶氨酸、吡拉西坦等药物  
@@ -1338,13 +1346,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >3. 不禁止正常食物  
 >请牢藤自由发挥营养学
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >1. 我那次没吃胞磷胆碱钠，只有10tDPZ  
 >2. 据报告，一些人员五六片石杉碱甲+七八颗胞磷胆碱钠都没问题，导致我严重误判  
 >3. 纯属个人智障行为，与odwiki无关  
 >12:04 PM · Jun 26, 2024  
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 7, 2024  
 >其实那天我从未想要AChEI。我就是想拿它有十几Ki的Sigma-1激动，只不过我小看了沙林毒气的威力！我以为沙林排气和石杉碱甲都是吃多没事，结果直接送医院忏悔去了！    
 >我根本就没想要多少胆碱酯酶抑制，请不要乱说话或者造谣！     
@@ -1359,12 +1367,12 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 请看后藤的叙述，看他是如何在<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥的攻击下走向失控的：
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 29, 2024  
 >紧急事故：由于管理人员【已编辑】实施【数据删除】，管理人员“S.G”主动放弃站点管理权限，目前退出参与站点编辑。@OVERDOSE_Wiki 账号与站点重新由管理人员【已编辑】控制  
 >你赢了，【已编辑】，接下来是你的天地了
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 29, 2024  
 >补充：  
 >1. 管理人员【已编辑】实施的【数据删除】过于【数据删除】，“S.G”无法承受，选择退出  
@@ -1373,12 +1381,12 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >4. 和那条疯狗无关，纯属是管理人员【已编辑】的作为  
 >自由意志者胜利。谢谢你们一直以来的陪伴
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 30, 2024  
 >-1. 服务器一直很稳定，自墙仅仅只是给我自己放假  
 >7. 如果不是【已编辑】使出【数据删除】，我本不想把事情搞成这样。请谅解
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jun 30, 2024  
 >0. http://od.wiki 不是http://overdose.wiki 的重建站点，顶多算镜像点  
 >1. 我不会因此出现问题，不需要████  
@@ -1389,7 +1397,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >overdose.wiki  
 >欢迎来到Overdosewiki
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 1, 2024  
 >1. 无语，无论如何都不存在这种木马的  
 >2. 如果没有我，你根本不会叫“wiki主”，而是会叫【已编辑】，被【数据删除】  
@@ -1398,15 +1406,15 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >5. 希望你能好好工作  
 >不推荐沉浸于幻想，也不推荐无休止造谣挑衅
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 1, 2024  
 >6. 终于说实话了，难得一见
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 1, 2024  
 >我个人不同意重启 http://od.wiki 镜像站
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 4, 2024  
 >由原odwiki编辑组与管理人员“S.G”（内容主编）重组的odwiki官号  
 >由于没有谁人，该账号一定不会发恶心内容。如出现，请立刻联络“S.G”以收容异常  
@@ -1416,7 +1424,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 7, 2024  
 >1. 那也包括你自己  
 >2. 我没说过“著作权”，只是你们不得拿我糊出来的东西标榜是自己做的（CC-3.0）  
@@ -1427,11 +1435,11 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >7. 无所谓，功利主义  
 >8. 我不想骂你。自始至终我们都想和你解决问题，只有你会那么觉得
 
-<!-- ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+<!-- ><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 9, 2024  
 >【名词】【副词】【语气助词】【动词】【动名词】【语气助词】，【代词】【语气助词】【副词】【介词】【名词】【动词】【助词】？ -->
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >预警：近期会出现由【数据删除】伪装的我“伪藤”，请诸位按以下分辨伪藤：  
 >1. 它们的语言很僵硬  
 >2. 它们的言灵有阴暗的气息  
@@ -1442,12 +1450,12 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >- 如果我自己被它们套皮偷取，那么，祝你好运  
 >11:36 PM · Jul 19, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >我的预言是正确的。公告：  
 >由鸡哥与【数据删除】控制的od-wiki开始伪装本人后藤，于此，请不要相信任何od-wiki试图伪装出来的我的言语  
 >Quote  
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD · Jul 19, 2024  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD · Jul 19, 2024  
 >预警：近期会出现由【数据删除】伪装的我“伪藤”，请诸位按以下分辨伪藤：  
 >1. 它们的语言很僵硬  
 >2. 它们的言灵有阴暗的气息  
@@ -1458,7 +1466,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >- 如果我自己被它们套皮偷取，那么，祝你好运  
 >3:04 PM · Jul 21, 2024
 
-<!-- ><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+<!-- ><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >**罗通定**。专打金刚烷胺的药物！  
 >**罗通定** 是抗头痛药物，却异常反制晚安，甚至没一条作用机理是多余的  
@@ -1466,13 +1474,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >应用：反致晚安的惊恐、妄想、精神分裂、无法入眠  
 >正在测试其杀害晚安的能力，志愿者可前来测试 https://overdose.wiki/zh/Drugs/RTD -->
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >一旦chicken没有利用价值，【数据删除】势力便会毫不留情地抛弃chicken。然而chicken的地雷女愿望，只得满足于【数据删除】的扶持  
 >由于金刚烷胺导致的冲动强化，chicken不会顾及被【数据删除】势力抛弃的未来，在那之前他将一直被【数据删除】架空  
 >chicken应接受我们的恢复，以反制精神病状
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >【数据删除】势力扶持chicken上位od-wiki主，同时架空chicken的搭建权限（别忘了后藤有主编权限）而二次配布文档，由此冒名顶替overdosewiki，并造成多起攻击事件，试图完全窃取编辑组与后藤的文档成果  
 >od-wiki为【数据删除】势力的架空站点，目的为完全摧毁overdosewiki，以壮大【数据删除】自身势力  
@@ -1484,59 +1492,59 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 接下来，后藤指控<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥使用恶劣的手段，达到令人不齿的目的——利用“地雷女”和“OD妹”满足性欲望。令人憎恨的是，此人到现在仍然保持这种作风......
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >为保护【数据删除】，防止【数据删除】又因为那啥精神病而犯应激乱骂人，使用【数据删除】代替说明
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >本人只认定由编辑组与后藤控制的overdosewiki @overdosewiki ，否认被【数据删除】渗透并架空势力的od-wiki  
 >迄今为止，【数据删除】势力干了很多鬼事，包括且不限于造谣诽谤、攻击站点、二次配布、错误挑错、【数据删除】、【数据删除】……
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >备注：攻击站点是指服务器攻击
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 21, 2024  
 >chicken还想要当wiki主，【数据删除】还想要拿走资料并辱骂后藤满足内心，故chicken与【数据删除】建立了od-wiki——伪wiki  
 >现严重怀疑chicken蛊惑【数据删除】，使ta们听信chicken并造谣诽谤后藤。而且【数据删除】本就想建立“odwiki2.0”，还有很好用的精神病护盾
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 23, 2024  
 >如果你明白他的前世——他口癖严重  
 >之前二月我可没惹他，他在chicken号上自拍了个25s的视频，骂我一大堆sb话  
 >你们之前看到chicken总是发后藤梦文，一开始我就不同意，他还发。删了的话他推文就来电话轰炸+停服威胁，不删的话我又挨编者骂
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 23, 2024  
 >你还是先解释你直发割蛋图、直发几把照、无端骂后藤（二月）、半夜电话、转发p照、骚扰地雷餐券女、先斩后奏关站点的行为吧  
 >眼睁睁看着当不成“wiki主”了就急眼了开始造谣  
 >合计着“你是chicken”是什么见不得光的事实？  
 >你有没有吃罗通定？ https://x.com/od_wiki/status/od_wiki/status/1815383874702356921  
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 23, 2024  
 >说到底，chicken的目的就是洗白自己曾经的罪名，以能继续满足性愿望  
 >不论odwiki分裂或解散，对他而言，“wiki主”的名义最重要  
 >至于wiki要发展成什么样不重要，至于其他人能否写wiki不重要，至于后藤究竟做了什么不重要
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 23, 2024  
 >私号注销后，chicken发觉后藤赐予他新名义“wiki主”。这个身份就像导师的推荐信，因为有后藤，大家都尊重wiki主，因此chicken要求后藤不得说wiki主是chicken，后藤答应  
 >庇护于odwiki，chicken得以继续满足他的性愿望，转地雷餐券推、和地雷女谈恋爱、看情色照……
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 23, 2024  
 >于对谁都要口癖一番的chicken，“wiki主”的身份成为免死金牌。包括一直以来均他关停服务器威胁、内斗核震慑、“诚意”删除关于他的贴子等行为，均是为了巩固“wiki”主的身份，以不被任何形式的女性们看清  
 >这是他的目的。由此请人员们自行带入他的言语，以解释他的动机
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 24, 2024  
 >我没标榜过自己多nb，虽偶尔发癫，但大伙们也都看得出来哪些是癫话。我就是一个人，我自己不能判断自己的伟岸性，留给你们判断  
 >存心想害我的谁会“捧杀”。伪造我曾标榜过自身，因其符合感觉而被大众视作事实。再无限放大我的失误，将我贬得一无是处百无一用。捧杀者却没有任何责任
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 24, 2024  
 >我提醒你们，现在chicken所说的话全都是假的，全都是经由他妄想而产出的言语  
 >例如“资深”，我这辈子都没用过这个词，从未拿这个标榜过自己。这是chicken的妄想  
@@ -1544,7 +1552,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 24, 2024  
 >由此可言如下语：（话说，你这就想来抓我语言系统把柄啦？）  
 >“chicken，你以前就烂德性，还神志不清到给别人女生们列表逐个发【数据删除】的家伙，就不配捡起逻辑来指控我”  
@@ -1552,7 +1560,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >至于我发chicken黑料？他们先抓我把柄的  
 >而且他不肯好好沟通，你说我怎么办？
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 24, 2024  
 >如果你了解过那十几个小时我和他究竟怎么沟通的  
 >- 我说“你现在精神不稳定，为防止你又乱搞事，我收走官号，你冷静一周后我还给你号”  
@@ -1560,13 +1568,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >- 最后他直接tm开核武器了  
 >正如之前所言，他竭力保住“wiki主”的名义
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 24, 2024  
 >辱骂者揪出谁的错误，目的不在让谁改正变好，而是在抓谁的把柄  
 >沙林哌齐是我的失误，应当以此为戒，别再犯错。辱骂者抓死这个漏洞，要挟攻击我，以达到他们的目的，例如“你的药理不如我”“你不能要求我”  
 >以及吹毛求疵地揪错，目的更不会是想让我的言语完美无瑕，而是为了打败我，不论为何
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Jul 24, 2024  
 >chicken与后藤真正矛盾于chicken的性愿望。分析失误源于“动机”/“目的”  
 >虽然“chicken关停站点”看起来像保命，“后藤控制官号”看起来像权斗，但chicken的动机冲动于早被后藤证伪的被害妄想，后藤的目的是防止chicken搞乱子  
@@ -1574,21 +1582,21 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 最终，他受够了<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥的骚扰，决定把网站的权限让给别人。这为他退圈留下了铺垫。
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >我是odw站点主管主编后藤，我宣布，小宋@xiaosong23_3 由编辑升至站点主管主编  
 >1:42 PM · Aug 8, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >我这几周一直自由，除开12h误验。虽然我感觉很不好，逻辑思考分析能力不减，就是思维记忆感知出现异常了，我能挺住。我一直都在，只是在休息，你们可以继续睡着了，我说过。坏和蠢可不一样，使坏有逻辑考虑利弊，犯蠢没逻辑不考虑利弊，这两个月的斗争，与恰到好处的o圈大清洗，够了，这一切都过载严重  
 >3:08 PM · Aug 29, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Aug 29, 2024  
 >你们辩证！我说的话很破碎！这几天一直在做梦，做各种梦。什么都太迟了，到这个地步他们才肯帮我，要是早几个月什么都不会有了，活着就是来受罪的，永远的斗争的，考验一个人真正能力的时刻。我建议你们不要高看我，我也是人，和你们一样。甚至本身就带点病，不要捧杀我，我就是一个普通的人类啊为什么
 
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD   
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD   
 >减害我减你妈了个大鸡吧，不是我就减个危害你至于拿核弹强奸我吗，不是被鸡哥抓就是被你们强。来来来既然这么喜欢玩那么我来陪你们玩，直接高原起纯精分我来陪你们玩他妈的。收了一硬盘音乐准备欣赏直接被没收，真的是给我两颗睾丸都气得原地爆炸。整理完材料直接上高原抓人一个都不放过   
 >5:30 PM · Aug 31, 2024   
 
@@ -1597,7 +1605,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 经历了这一切的后藤，对于OD圈的一切已经不抱任何希望。再加上当时后藤还是高三，还开学了，他留下一首打油诗，便离去了。
 
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >春风大道西又春风大道东  
 >春风大道东转春风大道中  
 >春风大道东上为何没药O  
@@ -1612,7 +1620,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >但是药物可能要换换管控  
 >10:28 AM · Sep 3, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Sep 3, 2024  
 >这个药房朋友面善又友善  
 >因此批准人员一月买两盒  
@@ -1624,7 +1632,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >但是管控可能靠特异人士  
 >O既是死，死既是O
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Sep 3, 2024  
 >这个药师朋友死别亦漂亮  
 >夜夜不能安寝继续旧形象  
@@ -1640,23 +1648,23 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 但他的故事，将在一次长达约一年的停顿之后重新开始。到那时，OD圈已经沧海桑田。
 
-能最好展现出这一年间OD圈的变化的例子就是他在退圈之前的最后几次吵架，对象可以看出是与一个名叫<img src="../文件/vack头像.jpg" style="height:25px; vertical-align:top;">Vack的人。
+能最好展现出这一年间OD圈的变化的例子就是他在退圈之前的最后几次吵架，对象可以看出是与一个名叫<img src="../文件/vack头像.jpg" class="icon">Vack的人。
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >傻逼死Vack，水平垃圾到“舍曲林毒品”“喹硫平成瘾”还整天跳脸我，去你妈逼的asd，犯贱又傻逼  
 >操你妈的尊重，一提asd是神经问题就一口一个尊重，到我这就使劲跳脸挑衅辱骂嘲讽，尊你妈获嘉双标畜生。什么时候会讲人话了再来发野  
 ><img src="../文件/后藤20240808.jpg" style="height:300px;vertical-align:top;">  
 >6:26 PM · Aug 8, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >要不要讲讲你当年“黄体酮安眠比bzd还好”以及“舍曲林成瘾比海洛因还危险”，被大伙群嘲还狡辩硬说理，你就一个劲对olaiya发傻逼，最后滚他妈出群？
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >你妈逼死Vack，水平又烂又爱装逼，一言不合跳脸挑衅，目中无人，自持清高，自以为是，固执己见，蛮不讲理，自相矛盾，眼高手低，吹毛求疵，滥竽充数，班门弄斧，装腔作势，两面三刀，表里不一，尖酸刻薄。什么时候把你妈的解离整明白了再来鬼叫
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >你妈逼狗Vack，别人跟你谈asd是缺陷障碍，你口口声声要尊重。到我出事时，你他妈净嘲讽嬉笑。你的尊重呢？？？  
 >好好讲话你们瞬间开骂，时不时还嘲讽一下我彰显优越感。有asd就滚去治，治不好就别整天狗叫  
 ><img src="../文件/后藤20240808B.jpg" style="height:300px;vertical-align:top;">  
@@ -1664,26 +1672,26 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 ><img src="../文件/后藤20240808D.jpg" style="height:300px;vertical-align:top;">   
 >6:56 PM · Aug 8, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >我的诉求很简单！一个多月前就提过了：不要跳脸，不要挑衅，目的是两边和谐发展。我甚至都没讲什么侵权。Vack，你都干了什么？你的诉求是什么？想要打倒我？你的目的是什么？彰显优越感？你疯了！
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >仗着你那asd性子！到处无缘无故无冤无仇寻事滋事惹是生非！有asd建议去吃你妈的打狗棍！
 
 
-><img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">OverSpring Wiki @OverSpring_wiki  
+><img src="../文件/oswiki头像.jpg" class="icon">OverSpring Wiki @OverSpring_wiki  
 >你尊重过oswiki吗，尊重是互相的  
 >7:06 PM · Aug 8, 2024
 
-><img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD  
+><img src="../文件/后藤头像.jpg" class="icon">超级后后后藤 @Overdose_DBD  
 >· Aug 8, 2024  
 >我尊重你们，最开始和你们好好沟通，你们就开始狗叫！捏造事实！
 
-可以看出，对话中出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">OverSpring Wiki的角色。看样子，是像另一个OD百科组织，它实际上正是另一个<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)。
+可以看出，对话中出现了一个叫做<img src="../文件/oswiki头像.jpg" class="icon">OverSpring Wiki的角色。看样子，是像另一个OD百科组织，它实际上正是另一个<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)。
 
-2024年中旬，随着<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的衰弱，以及ODer们对于ODwiki的怪诞风格的不满，出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">Overspeedwiki<sup>后来改为overspringwiki，此为当时名</sup>的百科网站，不同意odwiki中的所谓的“医学伦理学”，比较自由地发布药物并进行测试。
+2024年中旬，随着<img src="../文件/odwiki.jpg" class="icon">[odwiki](overdose.wiki)的衰弱，以及ODer们对于ODwiki的怪诞风格的不满，出现了一个叫做<img src="../文件/oswiki头像.jpg" class="icon">Overspeedwiki（后改为overspringwiki）的百科网站，不同意odwiki中的所谓的“医学伦理学”，比较自由地发布药物并进行测试。
 
 2024年末，一个名叫“后土百科”的b站up发布了一个有关OD圈的[视频](https://www.bilibili.com/video/BV1yhKdzcEsx/ "2026-02-27T19:30:00 | 64.3万播放 6908弹幕 5.1万点赞 7人正在看")，其中出现了后藤的身影。从此以后，后藤被所有ODer指责是背刺了他们，这也让
 
@@ -1691,7 +1699,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 ---
 
-><img src="../文件/后藤新头像.jpg" style="height:25px; vertical-align:top;">超级后后后藤 @Overdose_DBD    
+><img src="../文件/后藤新头像.jpg" class="icon">超级后后后藤 @Overdose_DBD    
 >我本早就离开了这地方，但今天我被某几位神明气急逼疯了，倒好像越不管越让各个Kaisers得寸进尺蹬鼻子上脸。打扰到圈外我这啮齿科的生活了
 现在我は，只要保卫我平静的日子，不稀罕你们传的鬼王位，也不想管啥事，更懒得辟谣或减害
 >只是为了保卫退圈生活，希望你们能明白，谢谢   
@@ -1868,7 +1876,7 @@ koishi！🏳️‍⚧️🍥 @KoishinFlandre Jun 4, 2024
 [^1]:   As of June, 2013, it appears that Chinese pharmacies require purchasers of DXM-containing products present ID and the products are almost always behind the counter, but no prescription is required. Many pharmacies record the identity of purchaser along with amount purchased. Previously, DXM-containing products were sold over-the-counter in pills and cough syrups in China. Rules tend to be laxer in rural areas. (thanks am) (last updated Sep 2013) -- erowid.org
 
 [^2]:
-    帖文内容
+    推文内容：
     |![](/文件/2022年11月OD指南part1.jpg)|![](/文件/2022年11月OD指南part2.jpg)|![](/文件/2022年11月OD指南part3.jpg)|![](/文件/2022年11月OD指南part4.jpg)|
     |--|--|--|--|
     |![](/文件/2022年11月OD指南part5.jpg)|![](/文件/2022年11月OD指南part6.jpg)|![](/文件/2022年11月OD指南part7.jpg)|![](/文件/2022年11月OD指南part8.jpg)|
@@ -1879,8 +1887,9 @@ koishi！🏳️‍⚧️🍥 @KoishinFlandre Jun 4, 2024
     > Emma Shi @Emma20131621  
     > （文字版  
     >     彩霞案是在2022年11月初于上海发生的针对跨性别女性彩霞的拘捕审讯案件，由于来自警方和家属的双重妨碍，最后由我方在非常规情况下为彩霞签出委托书，并于12月对外众筹律师费；由于该案件涉及的细节复杂、人数众多，其中涉及当事人安全隐私等诸多问题，在经过与律师和其伴侣的沟通之后，  
-    > ![](../文件/彩霞20231110A.jpg)  
-    > ![](../文件/彩霞20231110B.jpg)  
+    > |![](../文件/彩霞20231110A.jpg)|![](../文件/彩霞20231110B.jpg)|
+    > |--|--|  
+    >
     > 7:05 PM · Nov 10, 2023 · 59.4K Views
 
     > Emma Shi @Emma20131621 · Nov 10, 2023  
