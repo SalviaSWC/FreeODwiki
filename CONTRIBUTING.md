@@ -13,7 +13,9 @@ description: 出一份力为我们FreeODwiki做出贡献吧，我们欢迎你来
 
 ## 参与流程
 
-提交文档很简单，不需要电脑，手机就行。不涉及任何命令行操作，这里给一个简单的视频教程，[点击这里查看](https://x.com/SalviaSWC/status/2001249359095386327)。[点击这里](https://docs.github.com/zh/repositories/working-with-files/managing-files/editing-files)查看官方发布的，如何通过Github网页端进行编辑的教程。
+提交文档很简单，不需要电脑，手机就行。不涉及任何命令行操作，这里给一个简单的视频教程，[点击这里查看](https://x.com/SalviaSWC/status/2001249359095386327)。
+
+<mark>**[点击这里](https://docs.github.com/zh/repositories/working-with-files/managing-files/editing-files)查看官方发布的，如何通过Github网页端进行编辑的教程。**</mark>
 
 以下为涉贡献的文档名及其链接，如有疑问，请点击查看：
 
