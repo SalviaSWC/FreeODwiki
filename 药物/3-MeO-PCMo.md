@@ -213,7 +213,7 @@
 *   [伤害减少措施](/文档/负责任的用药索引页.md)
 *   [解离剂](/文档/药物分类/解离剂.md)
 *   [Diphenidine](/药物/Diphenidine.md)
-*   [Methoxphenidine](/药物/Methoxphenidine.md)
+*   [Methoxphenidine](/药物/甲氧芬尼定.md)
 *   [Methoxetamine](/药物/MXE.md)
 
 ## 外部链接

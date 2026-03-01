@@ -64,7 +64,7 @@ NMDA受体拮抗剂被用作动物和人类的麻醉剂；它们诱导的麻醉�
 
 **[二芳基乙胺类物质](/文档/药物分类/二芳基乙胺类物质.md)**
 
-*   [甲氧芬啶](/药物/MXP.md) (Methoxphenidine)
+*   [甲氧芬尼定](/药物/MXP.md) (Methoxphenidine)
 *   [二苯啶](/药物/二苯啶.md)
 *   [Ephenidine](/药物/Ephenidine.md)
 
