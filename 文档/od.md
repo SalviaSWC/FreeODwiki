@@ -1,5 +1,5 @@
 ---
-title: OD圈的历史
+title: OD的历史
 description: 什么是OD？OD圈又是什么？希望这一篇有关OD圈的罄竹难书的历史的文档能够帮到你。
 ---
 
@@ -12,7 +12,7 @@ description: 什么是OD？OD圈又是什么？希望这一篇有关OD圈的罄�
 
 <!---别动标题，影响不好！ --->
 
-# OD圈的历史
+# OD的历史
 
 *<sup>by@Salviaswc和[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki/tree/main)参与者们 </sup>*
 
