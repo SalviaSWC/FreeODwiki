@@ -1,7 +1,8 @@
 import pathlib
 
+
 def rename_svg_files(directory: str) -> None:
-    """重命名目录下所有以 .svg.png 结尾的文件，去掉 .png 后缀。
+    """重命名目录下所有以 .svg.png 结尾的文件，去掉末尾的 .svg。
 
     Args:
         directory (str): 要处理的目录路径，例如 '.' 表示当前目录。
@@ -9,7 +10,7 @@ def rename_svg_files(directory: str) -> None:
     
     for file in pathlib.Path(directory).glob("*.svg.png"):
         try:
-            file.rename(file.name.removesuffix(".png"))
+            file.rename(file.name[:-8]+".png")
         except FileExistsError:
             print(f"{file} 的重命名版本已存在")
         else:
