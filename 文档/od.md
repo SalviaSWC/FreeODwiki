@@ -3,13 +3,6 @@ title: OD
 description: 什么是OD？OD圈又是什么？希望这一篇有关OD圈的罄竹难书的历史的文档能够帮到你。
 ---
 
-<style>
-.icon {
-    height:25px;
-    vertical-align:top;
-}
-</style>
-
 <!---别动标题，影响不好！ --->
 
 # OD
