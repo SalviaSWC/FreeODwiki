@@ -28,9 +28,16 @@ def generate_sitemap(root_dir, base_url):
                 dt = datetime.datetime.fromtimestamp(mtime, tz=datetime.timezone.utc)
                 lastmod = dt.strftime('%Y-%m-%dT%H:%M:%SZ')
 
-                # 计算相对路径（去掉扩展名）
+                # # 计算相对路径（去掉扩展名）
+                # rel_path = os.path.join(rel_dir, filename) if rel_dir else filename
+                # path_no_ext = os.path.splitext(rel_path)[0]
+                # base_name = os.path.basename(path_no_ext).lower()
+
+                # 不去掉扩展名版
                 rel_path = os.path.join(rel_dir, filename) if rel_dir else filename
-                path_no_ext = os.path.splitext(rel_path)[0]
+                if os.path.splitext(rel_path)[1] == ".md": # mkdocs: 做成html
+                    rel_path = os.path.splitext(rel_path)[0] + ".html" 
+                path_no_ext = rel_path
                 base_name = os.path.basename(path_no_ext).lower()
 
                 # 处理首页：home.md / index.md / readme.md → 目录形式
@@ -47,7 +54,8 @@ def generate_sitemap(root_dir, base_url):
                     url_path = path_no_ext.replace(os.sep, '/')
 
                 full_url = base_url.rstrip('/') + '/' + url_path.lstrip('/')
-                full_url = full_url.rstrip('/') + '/'  # 所有目录形式以 / 结尾（包括根）
+                # full_url = full_url.rstrip('/') + '/'  # 所有目录形式以 / 结尾（包括根）
+                full_url = full_url.rstrip('/')
 
                 # priority 和 changefreq 规则
                 if is_root_home:
@@ -115,29 +123,30 @@ def start_generate():
         messagebox.showerror("错误", f"生成失败：{str(e)}")
 
 # 主窗口
-root = tk.Tk()
-root.title("Sitemap.xml 生成器")
-root.geometry("580x300")
-root.resizable(False, False)
+if __name__ == "__main__":
+    root = tk.Tk()
+    root.title("Sitemap.xml 生成器")
+    root.geometry("580x300")
+    root.resizable(False, False)
 
-tk.Label(root, text="Sitemap 生成工具（适合 Markdown/HTML wiki 项目）", font=("Segoe UI", 14, "bold")).pack(pady=15)
+    tk.Label(root, text="Sitemap 生成工具（适合 Markdown/HTML wiki 项目）", font=("Segoe UI", 14, "bold")).pack(pady=15)
 
-dir_var = tk.StringVar()
-tk.Label(root, text="扫描目录（repo 根目录）：").pack(anchor="w", padx=30)
-tk.Entry(root, textvariable=dir_var, width=65).pack(padx=30, pady=5)
-tk.Button(root, text="选择目录", command=select_directory).pack(pady=5)
+    dir_var = tk.StringVar()
+    tk.Label(root, text="扫描目录（repo 根目录）：").pack(anchor="w", padx=30)
+    tk.Entry(root, textvariable=dir_var, width=65).pack(padx=30, pady=5)
+    tk.Button(root, text="选择目录", command=select_directory).pack(pady=5)
 
-tk.Label(root, text="网站基础 URL（默认 https://freeod.wiki，可修改）：").pack(anchor="w", padx=30, pady=(15,0))
-entry_base = tk.Entry(root, width=65)
-entry_base.insert(0, "https://freeod.wiki")
-entry_base.pack(padx=30, pady=5)
+    tk.Label(root, text="网站基础 URL（默认 https://freeod.wiki，可修改）：").pack(anchor="w", padx=30, pady=(15,0))
+    entry_base = tk.Entry(root, width=65)
+    entry_base.insert(0, "https://freeod.wiki")
+    entry_base.pack(padx=30, pady=5)
 
-tk.Button(root, text="开始生成 sitemap.xml", bg="#2196F3", fg="white", font=("Segoe UI", 12, "bold"), height=2, command=start_generate).pack(pady=20)
+    tk.Button(root, text="开始生成 sitemap.xml", bg="#2196F3", fg="white", font=("Segoe UI", 12, "bold"), height=2, command=start_generate).pack(pady=20)
 
-tk.Label(root, text="提示：自动处理 home.md → 目录形式\n"
-                    "根目录的 README.md/home.md：daily + 1.0\n"
-                    "子目录的 home.md：weekly + 0.9\n"
-                    "其他页面：weekly + 0.8\n"
-                    "生成后请手动检查 sitemap.xml", foreground="gray").pack()
+    tk.Label(root, text="提示：自动处理 home.md → 目录形式\n"
+                        "根目录的 README.md/home.md：daily + 1.0\n"
+                        "子目录的 home.md：weekly + 0.9\n"
+                        "其他页面：weekly + 0.8\n"
+                        "生成后请手动检查 sitemap.xml", foreground="gray").pack()
 
-root.mainloop()
+    root.mainloop()

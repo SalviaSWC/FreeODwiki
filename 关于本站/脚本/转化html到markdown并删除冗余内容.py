@@ -30,29 +30,31 @@ def process_html():
         else:
             cleaned_text = markdown_text.rstrip()
 
-        pattern = "\s.+!\[\]\(images/pihkal_header\.gif\)"
-        final_text = re.sub(pattern, 
-                            "",
-                            cleaned_text, 
-                            flags=re.IGNORECASE | re.DOTALL)
-        
-        pattern = ".+3D \.mol .+"
-        final_text = re.sub(pattern, 
-                            "",
-                            final_text, 
-                            flags=re.IGNORECASE)
-        
-        pattern = "---\n"
-        final_text = re.sub(pattern, 
-                            "",
-                            final_text, 
-                            flags=re.IGNORECASE)
-        
-        pattern = "\n.+Back.+Main Index"
-        match = re.split(pattern, final_text, flags=re.IGNORECASE)
-        final_text = match[0]
+        final_text = cleaned_text
 
-        # # 清空并写入处理后的结果
+        # pattern = "\s.+!\[\]\(images/pihkal_header\.gif\)"
+        # final_text = re.sub(pattern, 
+        #                     "",
+        #                     cleaned_text, 
+        #                     flags=re.IGNORECASE | re.DOTALL)
+        
+        # pattern = ".+3D \.mol .+"
+        # final_text = re.sub(pattern, 
+        #                     "",
+        #                     final_text, 
+        #                     flags=re.IGNORECASE)
+        
+        # pattern = "---\n"
+        # final_text = re.sub(pattern, 
+        #                     "",
+        #                     final_text, 
+        #                     flags=re.IGNORECASE)
+        
+        # pattern = "\n.+Back.+Main Index"
+        # match = re.split(pattern, final_text, flags=re.IGNORECASE)
+        # final_text = match[0]
+
+        # # # 清空并写入处理后的结果
         text_widget.delete("1.0", "end")
         text_widget.insert("1.0", final_text.rstrip())  # 最后再去掉多余空行
 
