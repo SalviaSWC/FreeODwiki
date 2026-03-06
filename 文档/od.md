@@ -1737,9 +1737,9 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 <img src="../文件/overdosewiki官推头像.jpg" style="height:25px; vertical-align:top;">**Overdosewiki官推**声称揭露了这个阴谋，并已经在着手把退圈的<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">**超级后后后藤**叫回来，来处理此事。
 
-当时，<img src="../文件/鼠尾草头像.jpg" style="height:25px; vertical-align:top;">**鼠尾草**指责<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**出售[策划药](/文档/研究用化学品.md) [月尘(后得知为3-MeO-PCE)](/药物/3-MeO-PCE.md)，不公布实际成分。
+当时，<img src="../文件/鼠尾草头像.jpg" style="height:25px; vertical-align:top;">**鼠尾草**指责<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**出售[策划药](/文档/研究用化学品.md) [月尘(后得知为3-MeO-PCE)](/药物/3-MeO-PCE.md)，不公布实际成分，其动机可疑，造成的潜在后果巨大。
 
-这就是一场ODer们的冲突的开始。
+这就是一场冲突的开始。
 
 2025年9月21日，退圈1年的<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">**超级后后后藤**回归，并换上了新头像。
 
@@ -1749,15 +1749,6 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >只是为了保卫退圈生活，希望你们能明白，谢谢   
 6:43 PM · Sep 21, 2025
 
-
-
-药物百科
-
-沐雨，月尘
-
-
-
-55555,一名
 
 由于odwiki的推特账号由于年久失修，被冻结，也不得而知。
 
