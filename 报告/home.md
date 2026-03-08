@@ -16,6 +16,7 @@ description:
 
 ## FreeODwiki报告列表:
 
+- [MK801-2mg 堕入虚空的MK-801](/报告/MK801-2mg.md)
 - [超高剂量氯苯那敏](/报告/超高剂量氯苯那敏.md)
 - [40t金刚烷胺](/报告/40t金刚烷胺.md)
 - [RP-74内容保存](../文档/补档/Overdosewiki/Report/RP-74.md)（春风不再临
