@@ -1727,15 +1727,17 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 2025年8月，一名叫做<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**的用户逐渐在ODer中受到关注。他自称拥有精神药理学的专业知识，并提供免费药物咨询。在与<img src="../文件/overdosewiki官推头像.jpg" style="height:25px; vertical-align:top;">**Overdosewiki官推**爆发多次争吵后，<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**宣布成立<img src="../文件/药物百科.jpg" style="height:25px; vertical-align:top;">**药物百科**，向ODer们提供更广泛的药物知识，受到大量关注。
 
+2025年9月，<img src="../文件/药物百科.jpg" style="height:25px; vertical-align:top;">**药物百科**在<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**的作用下，开始售卖<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**所销售的一种[新型精神活性物质](/文档/研究用化学品.md)——“月尘”。沐雨声称，“月尘”没有副作用，是一种纯净的[解离剂](/文档/药物分类/解离剂.md)。
+
 2025年9月，**55555**受到了来自<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">**鸡哥**的一张截图，其中<img src="../文件/鸡哥头像.jpg" style="height:25px; vertical-align:top;">**鸡哥**(即其中的 *“化学极乐百科”* 推特用户)告知**55555**，称**55555**被人开盒了。沐雨正在尝试与某灰产人员交流，意图人肉搜索(即“开盒”)**55555**，并附图片一张，如下：
 
 <img src="../文件/沐雨开盒555.jpg" style="height:300px; vertical-align:top;">
 
 然后，**55555**通过<img src="../文件/overdosewiki官推头像.jpg" style="height:25px; vertical-align:top;">**Overdosewiki官推**宣布了此事。**55555**声称，图中的Telegram截图(图中图，看清楚)里对于一串身份信息使用表情反应的Telegram账号正是<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**的Telegram账号。*笔者<!--鼠尾草-->经过比对图中图里的手机上方状态栏的格式，可以确认那是<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**的手机。*他指责沐雨想要开盒自己。
 
-同时，**55555**又再次助<img src="../文件/overdosewiki官推头像.jpg" style="height:25px; vertical-align:top;">**Overdosewiki官推**，第二次谴责<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**冒用**55555**的名字参加了6月的《*`嗑药？自残？他们为何“乐此不疲”地毒害自己？`*》的采访，试图利用这个假身份来复刻<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">**超级后后后藤**被指责从事背刺行为，而身败名裂的例子。
+同时，**55555**又再次借助<img src="../文件/overdosewiki官推头像.jpg" style="height:25px; vertical-align:top;">**Overdosewiki官推**，第二次谴责<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**冒用**55555**的名字参加了6月的《*`嗑药？自残？他们为何“乐此不疲”地毒害自己？`*》的采访，试图利用这个假身份来复刻<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">**超级后后后藤**被指责从事背刺行为，而身败名裂的例子。
 
-<img src="../文件/overdosewiki官推头像.jpg" style="height:25px; vertical-align:top;">**Overdosewiki官推**声称揭露了这个阴谋，并已经在着手把退圈的<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">**超级后后后藤**叫回来，来处理此事。
+55555利用<img src="../文件/overdosewiki官推头像.jpg" style="height:25px; vertical-align:top;">**Overdosewiki官推**谴责了这个阴谋，并生成已经在着手把退圈的<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">**超级后后后藤**叫回来，来处理此事。
 
 当时，<img src="../文件/鼠尾草头像.jpg" style="height:25px; vertical-align:top;">**鼠尾草**指责<img src="../文件/沐雨头像.jpg" style="height:25px; vertical-align:top;">**沐雨**出售[策划药](/文档/研究用化学品.md) [月尘(后得知为3-MeO-PCE)](/药物/3-MeO-PCE.md)，不公布实际成分，其动机可疑，造成的潜在后果巨大。
 
@@ -1749,10 +1751,13 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 >只是为了保卫退圈生活，希望你们能明白，谢谢   
 6:43 PM · Sep 21, 2025
 
+之后，一名
 
 由于odwiki的推特账号由于年久失修，被冻结，也不得而知。
 
 于是，他被推特封号了。
+
+
 
 那是2026年2月2日，一场悲剧将要发生在春节之前。
 
