@@ -42,4 +42,10 @@ description:
 
 [8 小时的兴奋剂手冲、伪娘肛交拳交、ChatGPT，还有一个屌丝男的精神崩溃](./8_hours_of_stimfapping_femboy_anal_fisting.md)<br>
 
+## *
+
+[我因使用RC（研究用化学品）受到了永久性脑损伤。别和我一个下场](./i_have_permanent_brain_damage_from_using_rcs_dont.md)
+
+
+
 （保持翻译趣味性是可以的）
