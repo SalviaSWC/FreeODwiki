@@ -17,9 +17,25 @@ nav:
         - "药效/*.md"
     - 📚文档索引: 
         - 文档/home.md
+        - 🗂️药物分类索引 :
+            - 文档/药物分类/home.md
+            - "文档/药物分类/*.md"
+        - 🏛️社会学索引 :
+            - 文档/社会学/home.md
+            - "文档/社会学/*.md"
         - "文档/*.md"
+        - "文档/**/*.md"
     - ✏️报告索引: 
         - 报告/home.md
+        - Erowid报告:
+            - 报告/erowid/home.md
+            - "报告/erowid/*.md"
+        - OverspeedWiki报告:
+            - 报告/overspeedwiki/home.md
+            - "报告/overspeedwiki/*.md"
+        - Reddit报告:
+            - 报告/reddit/home.md
+            - "报告/reddit/*.md"
         - "报告/*.md"
 ignore:
     - CONTRIBUTING.md
