@@ -1695,7 +1695,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 可以看出，对话中出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">OverSpring Wiki的角色。看样子，是像另一个OD百科组织，它实际上正是另一个<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)。
 
-2024年中旬，随着<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的衰弱，以及ODer们对于ODwiki的怪诞风格的不满，出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">Overspeedwiki（后改为overspringwiki）的百科网站，不同意odwiki中的所谓的“医学伦理学”，比较自由地发布药物并进行测试，但是之后就解散了，网站也关闭了。
+2024年中旬，随着<img src="../文件/odwiki.jpg" style="height:25px; vertical-align:top;">[odwiki](overdose.wiki)的衰弱，以及ODer们对于ODwiki的怪诞风格的不满，出现了一个叫做<img src="../文件/oswiki头像.jpg" style="height:25px; vertical-align:top;">Overspeedwiki（后改为overspringwiki）的百科网站，不同意odwiki中的所谓的“医学伦理学”，比较自由地发布药物并进行测试，但是之后网站被鸡哥攻击无法访问，最终编辑组解散以及网站关闭。
 
 2024年12月<!--是吗？-->，一个名叫“冷却报告”的b站up发布了一个有关OD圈的视频，其中出现了一名受访者，据视频称这名受访者创建了一个“OD网站”。这名受访者被ODer们一致认为是为当时已经隐退的<img src="../文件/后藤头像.jpg" style="height:25px; vertical-align:top;">**超级后后后藤**，引起轩然大波。
 
