@@ -30,7 +30,6 @@ repo_url: https://github.com/SalviaSWC/FreeODwiki
 
 plugins:
 #  - search
-  - optimize
   - awesome-nav
 
 markdown_extensions:
@@ -92,7 +91,7 @@ theme:
 def remove_readonly(func, path, exc_info):
     """当遇到权限问题时，去掉只读属性再重试"""
     # 只处理真正的权限拒绝错误 (WinError 5)
-    if isinstance(exc_info[1], PermissionError) and exc_info[1].winerror == 5:
+    if isinstance(exc_info, PermissionError) and exc_info.winerror == 5:
         try:
             # 去掉只读属性（给写权限）
             os.chmod(path, stat.S_IWRITE)
@@ -102,7 +101,7 @@ def remove_readonly(func, path, exc_info):
         except Exception:
             pass
     # 如果不是权限问题，或者改权限也失败，就抛出原错误
-    raise exc_info[1]
+    raise exc_info
 
 
 def is_external(link: str) -> bool:
