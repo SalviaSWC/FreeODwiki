@@ -1,14 +1,14 @@
-import tkinter as tk
 import re
-from tkinter import scrolledtext
-from tkinter import messagebox
+import tkinter as tk
+from tkinter import messagebox, scrolledtext
+
 from html_to_markdown import convert_to_markdown
+
 # 如果提示包缺失，（由于tkinter一般是自带的），请通过运行pip install html-to-markdown安装这个包
 
 # 将输入的html文本转化为markdown的工具
 
 # 由于写作时我们正在处理psywiki的翻译，因此含有一个特判psywiki的菜单并将其去除的部分
-
 
 
 def process_html():
@@ -18,12 +18,12 @@ def process_html():
         if not html_text.strip():
             messagebox.showinfo("提示", "请输入 HTML 文本")
             return
-        
+
         # 先转换为 Markdown
         markdown_text = convert_to_markdown(html_text)
-        
+
         # 第一步：去除常见的页脚 "Retrieved from ..."（你原有的逻辑，保留）
-        pattern_footer = r'^(.*?)(?:Retrieved\s+from\s*‘<https?://[^>]+>’\s*(?:\n|$))'
+        pattern_footer = r"^(.*?)(?:Retrieved\s+from\s*‘<https?://[^>]+>’\s*(?:\n|$))"
         match = re.match(pattern_footer, markdown_text, re.DOTALL | re.IGNORECASE)
         if match:
             cleaned_text = match.group(1).rstrip()
@@ -33,23 +33,23 @@ def process_html():
         final_text = cleaned_text
 
         # pattern = "\s.+!\[\]\(images/pihkal_header\.gif\)"
-        # final_text = re.sub(pattern, 
+        # final_text = re.sub(pattern,
         #                     "",
-        #                     cleaned_text, 
+        #                     cleaned_text,
         #                     flags=re.IGNORECASE | re.DOTALL)
-        
+
         # pattern = ".+3D \.mol .+"
-        # final_text = re.sub(pattern, 
+        # final_text = re.sub(pattern,
         #                     "",
-        #                     final_text, 
+        #                     final_text,
         #                     flags=re.IGNORECASE)
-        
+
         # pattern = "---\n"
-        # final_text = re.sub(pattern, 
+        # final_text = re.sub(pattern,
         #                     "",
-        #                     final_text, 
+        #                     final_text,
         #                     flags=re.IGNORECASE)
-        
+
         # pattern = "\n.+Back.+Main Index"
         # match = re.split(pattern, final_text, flags=re.IGNORECASE)
         # final_text = match[0]
@@ -58,13 +58,13 @@ def process_html():
         text_widget.delete("1.0", "end")
         text_widget.insert("1.0", final_text.rstrip())  # 最后再去掉多余空行
 
-        
-        
     except Exception as e:
         messagebox.showerror("错误", f"处理失败：{str(e)}")
 
+
 def exit_app():
     root.destroy()
+
 
 # 创建主窗口
 root = tk.Tk()
@@ -73,8 +73,12 @@ root.geometry("800x600")
 root.minsize(600, 400)
 
 # 说明标签
-label = tk.Label(root, text="请输入 HTML 文本，点击“处理”按钮转换为 Markdown", 
-                 font=("微软雅黑", 12), pady=10)
+label = tk.Label(
+    root,
+    text="请输入 HTML 文本，点击“处理”按钮转换为 Markdown",
+    font=("微软雅黑", 12),
+    pady=10,
+)
 label.pack()
 
 # 带滚动条的多行文本框
@@ -86,15 +90,29 @@ button_frame = tk.Frame(root)
 button_frame.pack(pady=10)
 
 # 处理按钮
-process_button = tk.Button(button_frame, text="处理", width=15, height=2,
-                          bg="#4CAF50", fg="white", font=("微软雅黑", 11),
-                          command=process_html)
+process_button = tk.Button(
+    button_frame,
+    text="处理",
+    width=15,
+    height=2,
+    bg="#4CAF50",
+    fg="white",
+    font=("微软雅黑", 11),
+    command=process_html,
+)
 process_button.pack(side=tk.LEFT, padx=20)
 
 # 退出按钮
-exit_button = tk.Button(button_frame, text="退出", width=15, height=2,
-                       bg="#f44336", fg="white", font=("微软雅黑", 11),
-                       command=exit_app)
+exit_button = tk.Button(
+    button_frame,
+    text="退出",
+    width=15,
+    height=2,
+    bg="#f44336",
+    fg="white",
+    font=("微软雅黑", 11),
+    command=exit_app,
+)
 exit_button.pack(side=tk.LEFT, padx=20)
 
 # 启动主循环

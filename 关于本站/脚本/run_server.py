@@ -262,22 +262,20 @@ def main():
         source_dir: str
         target_dir: str
 
-    argument_parser = argparse.ArgumentParser()
-    argument_parser.add_argument(
-        "-sd",
-        "--source_dir",
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "source_dir",
         default=r"D:\Projects\FreeODwiki",
-        type=str,
+        nargs="?",
         help="源目录",
     )
-    argument_parser.add_argument(
-        "-td",
-        "--target_dir",
+    parser.add_argument(
+        "target_dir",
         default=r"D:\servers\freeodwiki",
-        type=str,
+        nargs="?",
         help="目标目录",
     )
-    args = argument_parser.parse_args(namespace=Args)
+    args = parser.parse_args(namespace=Args)
     source_dir = args.source_dir
     target_dir = args.target_dir
     target_src_dir = args.target_dir + r"\src"
@@ -306,8 +304,8 @@ def main():
     src_path = Path(target_src_dir)
     if not process_src_folder(src_path, target_dir):
         if input("\n预处理出现问题，是否继续 build？(y/n): ").lower().startswith("n"):
-            sys.exit(1)      
-    
+            sys.exit(1)
+
     if not build_mkdocs(target_dir):
         if input("\nmkdocs build 失败，是否仍要启动服务器？(y/n): ").lower().startswith("n"):
             sys.exit(2)

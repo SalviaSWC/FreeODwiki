@@ -1,20 +1,21 @@
 import os
 import tkinter as tk
-from tkinter import ttk, filedialog, messagebox, simpledialog
+from tkinter import filedialog, messagebox, ttk
 
 # ===================== Front Matter & YAML 简单读写 =====================
 
-def extract_front_matter(text):
+
+def extract_front_matter(text: str):
     lines = text.splitlines(keepends=False)
     if len(lines) < 3:
         return {}, text, False
-    if not lines[0].strip() == '---':
+    if not lines[0].strip() == "---":
         return {}, text, False
 
     yaml_lines = []
     end_index = None
     for i in range(1, len(lines)):
-        if lines[i].strip() == '---':
+        if lines[i].strip() == "---":
             end_index = i
             break
         yaml_lines.append(lines[i])
@@ -22,47 +23,48 @@ def extract_front_matter(text):
     if end_index is None:
         return {}, text, False
 
-    front_dict = parse_simple_yaml('\n'.join(yaml_lines))
-    body_lines = lines[end_index + 1:]
-    body_text = '\n'.join(body_lines)
+    front_dict = parse_simple_yaml("\n".join(yaml_lines))
+    body_lines = lines[end_index + 1 :]
+    body_text = "\n".join(body_lines)
     return front_dict, body_text, True
 
 
-def build_front_matter(front_dict):
-    lines = ['---']
-    for k, v in front_dict.items():
+def build_front_matter(front: dict):
+    lines = ["---"]
+    for k, v in front.items():
         if isinstance(v, bool):
-            v_str = 'true' if v else 'false'
+            v_str = "true" if v else "false"
         else:
             v_str = str(v)
         lines.append(f"{k}: {v_str}")
-    lines.append('---')
-    return '\n'.join(lines) + '\n'
+    lines.append("---")
+    return "\n".join(lines) + "\n"
 
 
-def parse_simple_yaml(yaml_text):
+def parse_simple_yaml(yaml_text: str):
     result = {}
     for line in yaml_text.splitlines():
         line = line.strip()
-        if not line or line.startswith('#'):
+        if not line or line.startswith("#"):
             continue
-        if ':' not in line:
+        if ":" not in line:
             continue
-        key, value = line.split(':', 1)
+        key, value = line.split(":", 1)
         key = key.strip()
         value = value.strip()
 
-        if value.lower() in ('true', 'false'):
-            value_parsed = (value.lower() == 'true')
+        if value.lower() in ("true", "false"):
+            value_parsed = value.lower() == "true"
         else:
             try:
-                if '.' in value:
+                if "." in value:
                     value_parsed = float(value)
                 else:
                     value_parsed = int(value)
             except ValueError:
-                if ((value.startswith('"') and value.endswith('"')) or
-                        (value.startswith("'") and value.endswith("'"))):
+                if (value.startswith('"') and value.endswith('"')) or (
+                    value.startswith("'") and value.endswith("'")
+                ):
                     value_parsed = value[1:-1]
                 else:
                     value_parsed = value
@@ -71,7 +73,7 @@ def parse_simple_yaml(yaml_text):
 
 
 def load_markdown_file(path):
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
 
@@ -81,16 +83,15 @@ def save_markdown_file(path, front_dict, body_text):
     如果为空，直接写 body_text（实现删除整个 frontmatter 的效果）。
     """
     if front_dict:
-        front_block = build_front_matter(front_dict).rstrip('\n')
-        full_text = front_block + '\n\n' + body_text.lstrip('\n')
+        front_block = build_front_matter(front_dict).rstrip("\n")
+        full_text = front_block + "\n\n" + body_text.lstrip("\n")
     else:
         full_text = body_text
-    with open(path, 'w', encoding='utf-8') as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write(full_text)
 
 
 # ===================== GUI 主应用 =====================
-
 class FrontMatterEditorApp:
     def __init__(self, root):
         self.root = root
@@ -112,17 +113,20 @@ class FrontMatterEditorApp:
         top_frame.pack(fill=tk.X, padx=5, pady=5)
 
         tk.Label(top_frame, text="浏览目录：").grid(row=0, column=0, sticky="w")
-        tk.Entry(top_frame, textvariable=self.browse_dir, width=50)\
-            .grid(row=0, column=1, sticky="we", padx=5)
-        tk.Button(top_frame, text="选择...", command=self.choose_browse_dir)\
-            .grid(row=0, column=2, padx=5)
+        tk.Entry(top_frame, textvariable=self.browse_dir, width=50).grid(
+            row=0, column=1, sticky="we", padx=5
+        )
+        tk.Button(top_frame, text="选择...", command=self.choose_browse_dir).grid(
+            row=0, column=2, padx=5
+        )
 
-        tk.Label(top_frame, text="批量编辑目录：")\
-            .grid(row=1, column=0, sticky="w", pady=(5, 0))
-        tk.Entry(top_frame, textvariable=self.batch_dir, width=50)\
-            .grid(row=1, column=1, sticky="we", padx=5, pady=(5, 0))
-        tk.Button(top_frame, text="选择...", command=self.choose_batch_dir)\
-            .grid(row=1, column=2, padx=5, pady=(5, 0))
+        tk.Label(top_frame, text="批量编辑目录：").grid(row=1, column=0, sticky="w", pady=(5, 0))
+        tk.Entry(top_frame, textvariable=self.batch_dir, width=50).grid(
+            row=1, column=1, sticky="we", padx=5, pady=(5, 0)
+        )
+        tk.Button(top_frame, text="选择...", command=self.choose_batch_dir).grid(
+            row=1, column=2, padx=5, pady=(5, 0)
+        )
 
         top_frame.columnconfigure(1, weight=1)
 
@@ -133,7 +137,7 @@ class FrontMatterEditorApp:
         # 左侧：树状目录
         left_frame = tk.Frame(main_pane)
         self.tree = ttk.Treeview(left_frame, show="tree")
-        ysb = ttk.Scrollbar(left_frame, orient='vertical', command=self.tree.yview)
+        ysb = ttk.Scrollbar(left_frame, orient="vertical", command=self.tree.yview)
         self.tree.configure(yscroll=ysb.set)
 
         self.tree.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
@@ -154,15 +158,15 @@ class FrontMatterEditorApp:
         tk.Label(
             right_frame,
             text="Front Matter YAML（例如：title, description, keywords 等）\n"
-                 "只支持简单 key: value，每行一对。"
+            "只支持简单 key: value，每行一对。",
         ).pack(anchor="w", padx=5)
 
         text_frame = tk.Frame(right_frame)
         text_frame.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
 
         self.text_yaml = tk.Text(text_frame, wrap="none", height=20)
-        y_scroll = ttk.Scrollbar(text_frame, orient='vertical', command=self.text_yaml.yview)
-        x_scroll = ttk.Scrollbar(text_frame, orient='horizontal', command=self.text_yaml.xview)
+        y_scroll = ttk.Scrollbar(text_frame, orient="vertical", command=self.text_yaml.yview)
+        x_scroll = ttk.Scrollbar(text_frame, orient="horizontal", command=self.text_yaml.xview)
         self.text_yaml.configure(yscrollcommand=y_scroll.set, xscrollcommand=x_scroll.set)
 
         self.text_yaml.grid(row=0, column=0, sticky="nsew")
@@ -177,21 +181,17 @@ class FrontMatterEditorApp:
         btn_frame.pack(fill=tk.X, padx=5, pady=5)
 
         tk.Button(
-            btn_frame,
-            text="保存当前文件 Front Matter",
-            command=self.save_current_front_matter
+            btn_frame, text="保存当前文件 Front Matter", command=self.save_current_front_matter
         ).pack(side=tk.LEFT, padx=5)
 
         tk.Button(
-            btn_frame,
-            text="批量应用右侧完整 Front Matter",
-            command=self.batch_apply_front_matter
+            btn_frame, text="批量应用右侧完整 Front Matter", command=self.batch_apply_front_matter
         ).pack(side=tk.LEFT, padx=5)
 
         tk.Button(
             btn_frame,
             text="批量设置单个字段（添加/更新/删除）",
-            command=self.batch_set_single_field
+            command=self.batch_set_single_field,
         ).pack(side=tk.LEFT, padx=5)
 
     # ===== 目录选择 =====
@@ -293,7 +293,9 @@ class FrontMatterEditorApp:
         try:
             save_markdown_file(self.current_file_path, new_front, self.current_body_text)
         except Exception as e:
-            messagebox.showerror("写入失败", f"无法写入文件：\n{self.current_file_path}\n\n错误：{e}")
+            messagebox.showerror(
+                "写入失败", f"无法写入文件：\n{self.current_file_path}\n\n错误：{e}"
+            )
             return
 
         self.current_front_dict = new_front
@@ -314,7 +316,7 @@ class FrontMatterEditorApp:
             if not messagebox.askyesno(
                 "确认",
                 "右侧 Front Matter 区域为空。\n"
-                "继续执行不会删除原有字段，只是不更新任何内容。\n\n确认继续？"
+                "继续执行不会删除原有字段，只是不更新任何内容。\n\n确认继续？",
             ):
                 return
 
@@ -360,11 +362,15 @@ class FrontMatterEditorApp:
         dialog.grab_set()
         dialog.geometry("600x400")
 
-        tk.Label(dialog, text="字段名（key，例如 description、keywords）：").pack(anchor="w", padx=20, pady=(20,5))
+        tk.Label(dialog, text="字段名（key，例如 description、keywords）：").pack(
+            anchor="w", padx=20, pady=(20, 5)
+        )
         entry_key = tk.Entry(dialog, width=70)
         entry_key.pack(padx=20, fill="x")
 
-        tk.Label(dialog, text="新值（value，留空表示删除该字段）：").pack(anchor="w", padx=20, pady=(15,5))
+        tk.Label(dialog, text="新值（value，留空表示删除该字段）：").pack(
+            anchor="w", padx=20, pady=(15, 5)
+        )
         text_value = tk.Text(dialog, height=12)
         text_value.pack(padx=20, fill="both", expand=True)
 
@@ -388,10 +394,12 @@ class FrontMatterEditorApp:
 
     def _perform_batch_single(self, key, value):
         batch_root = self.batch_dir.get().strip()
-        delete_mode = (value == "")
+        delete_mode = value == ""
 
         if delete_mode:
-            if not messagebox.askyesno("确认删除", f"将从所有文件中删除字段 '{key}'（如果存在）。\n确认继续？"):
+            if not messagebox.askyesno(
+                "确认删除", f"将从所有文件中删除字段 '{key}'（如果存在）。\n确认继续？"
+            ):
                 return
 
         count_processed = 0

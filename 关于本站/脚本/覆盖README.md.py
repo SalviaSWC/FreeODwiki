@@ -1,5 +1,6 @@
 import os
 
+
 def overwrite_readme_with_home(root_dir, source_dir, root_name, source_name):
     """
     Overwrites README.md with the content of home.md if both exist in the root directory.
