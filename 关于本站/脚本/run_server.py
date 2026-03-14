@@ -6,14 +6,9 @@ import subprocess
 import sys
 from pathlib import Path
 
-import 生成sitemap
-
-SOURCE_DIR = r"D:\Projects\FreeODwiki"  # 源目录
-TARGET_DIR = r"D:\servers\freeodwiki"  # 目标目录
-TARGET_SRC_DIR = TARGET_DIR + r"\src"
-URL = r"https://freeodwiki.org"
-
+# import 生成sitemap
 # 生成sitemap.generate_sitemap(source_dir, url)
+
 
 MKDOCS_YML = r"""
 site_name: FreeODwiki——可自由编辑的开源Overdose百科 
@@ -30,16 +25,20 @@ repo_url: https://github.com/SalviaSWC/FreeODwiki
 
 plugins:
 #  - search
+#  - optimize
   - awesome-nav
+  - glightbox
 
 markdown_extensions:
   - abbr
   - admonition
   - attr_list
   - footnotes
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.snippets
+  - pymdownx.blocks.caption
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -137,7 +136,7 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
     original = content
 
     # 1. 处理图片链接 ![alt](path)
-    def replace_image(match):
+    def replace_image(match: re.Match):
         alt = match.group(1)
         link = match.group(2)
         target = resolve_target_path(filepath, link, docs_root)
@@ -152,7 +151,7 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
     content = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", replace_image, content)
 
     # 2. 处理文本链接 [text](path)
-    def replace_text(match):
+    def replace_text(match: re.Match):
         text = match.group(1)
         link = match.group(2)
         target = resolve_target_path(filepath, link, docs_root)
@@ -166,9 +165,7 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
         # print(f"    ✗ 移除死文本链接: {link} （保留文字: {text}）")
         return text
 
-    content = re.sub(
-        r"(?<!\!)\[([^\]]+)\]\(([^)]+)\)", replace_text, content
-    )  # (?<!\!) 避免匹配图片
+    content = re.sub(r"(?<!\!)\[([^\]]+)\]\(([^)]+)\)", replace_text, content)  # (?<!\!) 避免匹配图片
 
     if content == original:
         return True, "无死链接变更"
@@ -205,7 +202,7 @@ def replace_md_to_html_in_file(filepath: Path) -> tuple[bool, str]:
 
 
 # ── 主处理流程 ──
-def process_src_folder(src_path: Path) -> bool:
+def process_src_folder(src_path: Path, target_dir: str) -> bool:
     if not src_path.exists():
         print("错误：src/ 目录不存在")
         return False
@@ -215,11 +212,11 @@ def process_src_folder(src_path: Path) -> bool:
         print("src/ 中未找到 .md 文件")
         return True
 
-    print(f"找到 {len(md_files)} 个 .md 文件，开始处理...\n")
+    print(f"找到 {len(md_files)} 个 .md 文件，开始处理...")
 
     processed = 0
     for md_file in md_files:
-        rel_path = md_file.relative_to(TARGET_DIR)
+        rel_path = md_file.relative_to(target_dir)
         # print(f"处理文件: {rel_path}")
 
         # 步骤1：移除死链接（图片删除、文本保留文字）
@@ -230,15 +227,13 @@ def process_src_folder(src_path: Path) -> bool:
 
         processed += 1
 
-    print(f"\n全部处理完成（{processed} 个文件）")
+    print(f"全部处理完成（{processed} 个文件）")
     return True
 
 
-def build_mkdocs():
-    print("\n开始运行 mkdocs build...")
-    result = subprocess.run(
-        ["mkdocs", "build"], capture_output=True, text=True, cwd=TARGET_DIR
-    )
+def build_mkdocs(target_dir: str):
+    print("开始运行 mkdocs build...")
+    result = subprocess.run(["mkdocs", "build"], capture_output=True, text=True, cwd=target_dir)
     if result.returncode != 0:
         print("mkdocs build 失败：")
         print(result.stderr)
@@ -248,8 +243,8 @@ def build_mkdocs():
         return True
 
 
-def start_server():
-    site_path = Path(TARGET_DIR) / "site"
+def start_server(target_dir: str):
+    site_path = Path(target_dir) / "site"
     if not site_path.exists():
         print("错误：site/ 目录不存在（build 可能失败）")
         return
@@ -257,43 +252,67 @@ def start_server():
     print(f"\n启动本地服务器：http://localhost:8000")
     print("按 Ctrl+C 停止服务器")
     os.chdir(site_path)
-    subprocess.run(["python", "-m", "http.server", "8000"],
-                   cwd=TARGET_DIR + r"\site")
+    subprocess.run(["python", "-m", "http.server", "8000"], cwd=target_dir + r"\site")
 
 
 def main():
-    with open(TARGET_DIR + r"\mkdocs.yml", mode="w", encoding="utf-8") as f:
+    import argparse
+
+    class Args(argparse.Namespace):
+        source_dir: str
+        target_dir: str
+
+    argument_parser = argparse.ArgumentParser()
+    argument_parser.add_argument(
+        "-sd",
+        "--source_dir",
+        default=r"D:\Projects\FreeODwiki",
+        type=str,
+        help="源目录",
+    )
+    argument_parser.add_argument(
+        "-td",
+        "--target_dir",
+        default=r"D:\servers\freeodwiki",
+        type=str,
+        help="目标目录",
+    )
+    args = argument_parser.parse_args(namespace=Args)
+    source_dir = args.source_dir
+    target_dir = args.target_dir
+    target_src_dir = args.target_dir + r"\src"
+
+    with open(target_dir + r"\mkdocs.yml", mode="w", encoding="utf-8") as f:
         f.write(MKDOCS_YML)
 
-    if os.path.exists(TARGET_SRC_DIR):
-        shutil.rmtree(TARGET_SRC_DIR, onexc=remove_readonly)
+    if os.path.exists(target_src_dir):
+        shutil.rmtree(target_src_dir, onexc=remove_readonly)
         print("已清空目标目录")
 
     # 步骤2：重新创建空的目录
-    os.makedirs(TARGET_SRC_DIR)
+    os.makedirs(target_src_dir)
 
     # 步骤3：把源目录完整复制过去
-    shutil.copytree(SOURCE_DIR, TARGET_SRC_DIR, dirs_exist_ok=True)
+    shutil.copytree(source_dir, target_src_dir, dirs_exist_ok=True)
 
     print("复制完成！")
-    print(f"源：{SOURCE_DIR}")
-    print(f"目标：{TARGET_SRC_DIR}")
+    print(f"源：{source_dir}")
+    print(f"目标：{target_src_dir}")
+    print()
 
-    # ---
-
-    os.chdir(TARGET_DIR)
+    os.chdir(target_dir)
     print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===\n")
 
-    src_path = Path(TARGET_SRC_DIR)
-    if not process_src_folder(src_path):
+    src_path = Path(target_src_dir)
+    if not process_src_folder(src_path, target_dir):
         if input("\n预处理出现问题，是否继续 build？(y/n): ").lower().startswith("n"):
-            sys.exit(1)
-
-    if not build_mkdocs():
+            sys.exit(1)      
+    
+    if not build_mkdocs(target_dir):
         if input("\nmkdocs build 失败，是否仍要启动服务器？(y/n): ").lower().startswith("n"):
             sys.exit(2)
 
-    start_server()
+    start_server(target_dir)
 
 
 if __name__ == "__main__":

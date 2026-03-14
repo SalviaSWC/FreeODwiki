@@ -1,7 +1,8 @@
-import frontmatter
 import os
-import sys
 import pathlib
+import sys
+
+import frontmatter
 
 frontmatter = frontmatter.Frontmatter()
 
@@ -13,9 +14,9 @@ for file in files:
     print(f"Processing file: {file}")
     try:
         post = frontmatter.read_file(file)
-        
+
         # remove editor | date | published
-        
+
         # Save changes back to the file
         frontmatter.dump(post, file)
         print(f"Successfully updated frontmatter for: {file}")

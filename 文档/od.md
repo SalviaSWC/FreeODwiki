@@ -1920,11 +1920,21 @@ koishi！🏳️‍⚧️🍥 @KoishinFlandre Jun 4, 2024
 [^1]:   As of June, 2013, it appears that Chinese pharmacies require purchasers of DXM-containing products present ID and the products are almost always behind the counter, but no prescription is required. Many pharmacies record the identity of purchaser along with amount purchased. Previously, DXM-containing products were sold over-the-counter in pills and cough syrups in China. Rules tend to be laxer in rural areas. (thanks am) (last updated Sep 2013) -- erowid.org
 
 [^2]:
-    推文内容：
-    |![](/文件/2022年11月OD指南part1.jpg)|![](/文件/2022年11月OD指南part2.jpg)|![](/文件/2022年11月OD指南part3.jpg)|![](/文件/2022年11月OD指南part4.jpg)|
-    |--|--|--|--|
-    |![](/文件/2022年11月OD指南part5.jpg)|![](/文件/2022年11月OD指南part6.jpg)|![](/文件/2022年11月OD指南part7.jpg)|![](/文件/2022年11月OD指南part8.jpg)|
-    |![](/文件/2022年11月OD指南part9.jpg)|![](/文件/2022年11月OD指南part10.jpg)|![](/文件/2022年11月OD指南part11.jpg)|![](/文件/2022年11月OD指南part12.jpg)|
+    <details>
+    <summary>推文内容：</summary>
+    <img alt="2022年11月OD指南part1.jpg" src="/文件/2022年11月OD指南part1.jpg">
+    <img alt="2022年11月OD指南part2.jpg" src="/文件/2022年11月OD指南part2.jpg">
+    <img alt="2022年11月OD指南part3.jpg" src="/文件/2022年11月OD指南part3.jpg">
+    <img alt="2022年11月OD指南part4.jpg" src="/文件/2022年11月OD指南part4.jpg">
+    <img alt="2022年11月OD指南part5.jpg" src="/文件/2022年11月OD指南part5.jpg">
+    <img alt="2022年11月OD指南part6.jpg" src="/文件/2022年11月OD指南part6.jpg">
+    <img alt="2022年11月OD指南part7.jpg" src="/文件/2022年11月OD指南part7.jpg">
+    <img alt="2022年11月OD指南part8.jpg" src="/文件/2022年11月OD指南part8.jpg">
+    <img alt="2022年11月OD指南part9.jpg" src="/文件/2022年11月OD指南part9.jpg">
+    <img alt="2022年11月OD指南part10.jpg" src="/文件/2022年11月OD指南part10.jpg">
+    <img alt="2022年11月OD指南part11.jpg" src="/文件/2022年11月OD指南part11.jpg">
+    <img alt="2022年11月OD指南part12.jpg" src="/文件/2022年11月OD指南part12.jpg">
+    </details>
 
 [^3]:
     推文如下：
