@@ -23,6 +23,9 @@ use_directory_urls: false
 repo_name: SalviaSWC/FreeODwiki
 repo_url: https://github.com/SalviaSWC/FreeODwiki
 
+extra_css:
+  - extra.css
+
 plugins:
 #  - search
 #  - optimize
@@ -35,17 +38,26 @@ markdown_extensions:
   - attr_list
   - footnotes
   - md_in_html
+  - pymdownx.betterem:
+      smart_enable: all
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.snippets
   - pymdownx.blocks.caption
   - pymdownx.critic
   - pymdownx.caret
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 theme:
   language: zh
@@ -233,16 +245,16 @@ def process_src_folder(src_path: Path, target_dir: str) -> bool:
     return True
 
 
-def build_mkdocs(target_dir: str, dirty: bool = False):
+def build_mkdocs(target_dir: str, dirty=False, capture_output=True):
     args = ["mkdocs", "build"]
     if dirty:
         args.append("--dirty")
-    
+
     print(f"开始运行 {" ".join(args)}...")
 
     result = subprocess.run(
         args,
-        capture_output=True,
+        capture_output=capture_output,
         text=True,
         cwd=target_dir,
     )
@@ -275,7 +287,8 @@ def main():
         target_dir: str
         skip_preprocess: bool
         dirty: bool
-
+        capture_output: bool
+        
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "source_dir",
@@ -290,16 +303,23 @@ def main():
         help="目标目录，默认值是为了保持向后兼容而设置的。",
     )
     parser.add_argument(
-        "-sp",
+        "-s",
         "--skip_preprocess",
         action="store_true",
-        help="跳过“死链接自动清理”，这将加速约四十秒。",
+        help="跳过预处理步骤，这将加速约半分钟。",
     )
     parser.add_argument(
         "-d",
         "--dirty",
         action="store_true",
-        help="此参数将原封不动的传入“mkdocs build”。通过只 build 被更改的文件进行极大的加速。",
+        help="此参数将原封不动的传入 mkdocs build ，效果是通过只 build 被更改的文件进行极大的加速。",
+    )
+    parser.add_argument(
+        "-n",
+        "--not_capture_output",
+        dest="capture_output",
+        action="store_false",
+        help="启用时不会捕获 mkdocs build 的输出，这可以防止你过于无聊。",
     )
     args = parser.parse_args(namespace=Args)
     source_dir = args.source_dir
@@ -328,7 +348,7 @@ def main():
 
     print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===")
     if args.skip_preprocess:
-        print("...死链接自动清理已被跳过")
+        print("...预处理已被跳过")
     else:
         src_path = Path(target_src_dir)
         if not process_src_folder(src_path, target_dir):
@@ -336,7 +356,7 @@ def main():
                 sys.exit(1)
 
     print()
-    if not build_mkdocs(target_dir, args.dirty):
+    if not build_mkdocs(target_dir, args.dirty, args.capture_output):
         if input("\nmkdocs build 失败，是否仍要启动服务器？(y/n): ").lower().startswith("n"):
             sys.exit(2)
 
