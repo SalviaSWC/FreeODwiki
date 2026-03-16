@@ -7,6 +7,9 @@ Thumbs.db
 .idea/
 *.swp
 
+# 脚本 __pycache__
+关于本站/脚本/__pycache__/
+
 # 下面的是由GitHub生成的
 
 # Byte-compiled / optimized / DLL files

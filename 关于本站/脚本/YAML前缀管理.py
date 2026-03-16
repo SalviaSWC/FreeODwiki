@@ -138,7 +138,7 @@ class FrontMatterEditorApp:
         left_frame = tk.Frame(main_pane)
         self.tree = ttk.Treeview(left_frame, show="tree")
         ysb = ttk.Scrollbar(left_frame, orient="vertical", command=self.tree.yview)
-        self.tree.configure(yscroll=ysb.set)
+        self.tree.configure(yscrollcommand=ysb.set)
 
         self.tree.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         ysb.pack(side=tk.RIGHT, fill=tk.Y)

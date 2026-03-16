@@ -85,6 +85,8 @@ label.pack()
 text_widget = scrolledtext.ScrolledText(root, wrap=tk.WORD, font=("微软雅黑", 11))
 text_widget.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
 
+text_widget.bindtags()
+
 # 按钮框架
 button_frame = tk.Frame(root)
 button_frame.pack(pady=10)
