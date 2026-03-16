@@ -15,8 +15,8 @@ site_name: FreeODwiki——可自由编辑的开源Overdose百科
 site_url: https://freeodwiki.org
 site_author: FreeODwiki贡献者们
 site_description: FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。  # 站点描述
-docs_dir: D:\servers\freeodwiki\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
-site_dir: D:\servers\freeodwiki\site
+docs_dir: .\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
+site_dir: .\site
 
 use_directory_urls: false
 
@@ -165,7 +165,9 @@ def remove_dead_links_in_file(filepath: Path, docs_root: Path) -> tuple[bool, st
         # print(f"    ✗ 移除死文本链接: {link} （保留文字: {text}）")
         return text
 
-    content = re.sub(r"(?<!\!)\[([^\]]+)\]\(([^)]+)\)", replace_text, content)  # (?<!\!) 避免匹配图片
+    content = re.sub(
+        r"(?<!\!)\[([^\]]+)\]\(([^)]+)\)", replace_text, content
+    )  # (?<!\!) 避免匹配图片
 
     if content == original:
         return True, "无死链接变更"
@@ -231,11 +233,21 @@ def process_src_folder(src_path: Path, target_dir: str) -> bool:
     return True
 
 
-def build_mkdocs(target_dir: str):
-    print("开始运行 mkdocs build...")
-    result = subprocess.run(["mkdocs", "build"], capture_output=True, text=True, cwd=target_dir)
+def build_mkdocs(target_dir: str, dirty: bool = False):
+    args = ["mkdocs", "build"]
+    if dirty:
+        args.append("--dirty")
+    
+    print(f"开始运行 {" ".join(args)}...")
+
+    result = subprocess.run(
+        args,
+        capture_output=True,
+        text=True,
+        cwd=target_dir,
+    )
     if result.returncode != 0:
-        print("mkdocs build 失败：")
+        print(f"mkdocs build 失败({result.returncode})：")
         print(result.stderr)
         return False
     else:
@@ -261,19 +273,33 @@ def main():
     class Args(argparse.Namespace):
         source_dir: str
         target_dir: str
+        skip_preprocess: bool
+        dirty: bool
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "source_dir",
         default=r"D:\Projects\FreeODwiki",
         nargs="?",
-        help="源目录",
+        help="源目录，默认值是为了保持向后兼容而设置的。",
     )
     parser.add_argument(
         "target_dir",
         default=r"D:\servers\freeodwiki",
         nargs="?",
-        help="目标目录",
+        help="目标目录，默认值是为了保持向后兼容而设置的。",
+    )
+    parser.add_argument(
+        "-sp",
+        "--skip_preprocess",
+        action="store_true",
+        help="跳过“死链接自动清理”，这将加速约四十秒。",
+    )
+    parser.add_argument(
+        "-d",
+        "--dirty",
+        action="store_true",
+        help="此参数将原封不动的传入“mkdocs build”。通过只 build 被更改的文件进行极大的加速。",
     )
     args = parser.parse_args(namespace=Args)
     source_dir = args.source_dir
@@ -299,14 +325,18 @@ def main():
     print()
 
     os.chdir(target_dir)
-    print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===\n")
 
-    src_path = Path(target_src_dir)
-    if not process_src_folder(src_path, target_dir):
-        if input("\n预处理出现问题，是否继续 build？(y/n): ").lower().startswith("n"):
-            sys.exit(1)
+    print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===")
+    if args.skip_preprocess:
+        print("...死链接自动清理已被跳过")
+    else:
+        src_path = Path(target_src_dir)
+        if not process_src_folder(src_path, target_dir):
+            if input("\n预处理出现问题，是否继续 build？(y/n): ").lower().startswith("n"):
+                sys.exit(1)
 
-    if not build_mkdocs(target_dir):
+    print()
+    if not build_mkdocs(target_dir, args.dirty):
         if input("\nmkdocs build 失败，是否仍要启动服务器？(y/n): ").lower().startswith("n"):
             sys.exit(2)
 
