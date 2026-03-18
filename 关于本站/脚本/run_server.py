@@ -20,66 +20,33 @@ site_name: FreeODwiki——可自由编辑的开源Overdose百科
 site_url: https://freeodwiki.org
 site_author: FreeODwiki贡献者们
 site_description: FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。  # 站点描述
-docs_dir: .\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
-site_dir: .\site
+docs_dir: D:\servers\freeodwiki\src  # 你的 Markdown 文件夹路径（相对路径或绝对路径）
+site_dir: D:\servers\freeodwiki\site
 
 use_directory_urls: false
 
 repo_name: SalviaSWC/FreeODwiki
 repo_url: https://github.com/SalviaSWC/FreeODwiki
 
-extra_css:
-  - extra.css
-
 plugins:
-#  - search
+  - search
   - awesome-nav
 
 markdown_extensions:
   - abbr
   - admonition
   - attr_list
-  - def_list
   - footnotes
-  - md_in_html
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.snippets
   - pymdownx.critic
   - pymdownx.caret
-  - pymdownx.details
-#  - pymdownx.emoji:
-#      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-#      emoji_index: !!python/name:material.extensions.emoji.twemoji
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
   - pymdownx.keys
-  - pymdownx.magiclink:
-      normalize_issue_symbols: true
-      repo_url_shorthand: true
-      user: SalviaSWC
-      repo: FreeODwiki
   - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-      combine_header_slug: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
+  - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.tilde
 
 theme:
   language: zh
@@ -267,21 +234,13 @@ def process_src_folder(src_path: Path) -> bool:
     return True
 
 
-def build_mkdocs(target_dir: str, dirty=False, capture_output=True):
-    args = ["mkdocs", "build"]
-    if dirty:
-        args.append("--dirty")
-
-    print(f"开始运行 {" ".join(args)}...")
-
+def build_mkdocs():
+    print("\n开始运行 mkdocs build...")
     result = subprocess.run(
-        args,
-        capture_output=capture_output,
-        text=True,
-        cwd=target_dir,
+        ["mkdocs", "build"], capture_output=True, text=True, cwd=TARGET_DIR
     )
     if result.returncode != 0:
-        print(f"mkdocs build 失败({result.returncode})：")
+        print("mkdocs build 失败：")
         print(result.stderr)
         return False
     else:
@@ -303,45 +262,7 @@ def start_server():
 
 
 def main():
-    import argparse
-
-    class Args(argparse.Namespace):
-        source_dir: str
-        target_dir: str
-        debug: bool
-        show_output: bool
-
-    parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "source_dir",
-        default=r"D:\Projects\FreeODwiki",
-        nargs="?",
-        help="源目录，默认值是为了保持向后兼容而设置的。",
-    )
-    parser.add_argument(
-        "target_dir",
-        default=r"D:\servers\freeodwiki",
-        nargs="?",
-        help="目标目录，默认值是为了保持向后兼容而设置的。",
-    )
-    parser.add_argument(
-        "-d",
-        "--debug",
-        action="store_true",
-        help="开启后会跳过预处理步骤，并将 dirty 参数传入 mkdocs，这将对构建流程进行极大的加速。仅作为调试用途。",
-    )
-    parser.add_argument(
-        "-s",
-        "--show_output",
-        action="store_false",  # 进行一个取反
-        help="启用时不会捕获 mkdocs build 的输出，这可以防止你过于无聊。",
-    )
-    args = parser.parse_args(namespace=Args)
-    source_dir = args.source_dir
-    target_dir = args.target_dir
-    target_src_dir = args.target_dir + r"\src"
-
-    with open(target_dir + r"\mkdocs.yml", mode="w", encoding="utf-8") as f:
+    with open(TARGET_DIR + r"\mkdocs.yml", mode="w", encoding="utf-8") as f:
         f.write(MKDOCS_YML)
 
     if os.path.exists(TARGET_SRC_DIR):
@@ -360,19 +281,15 @@ def main():
 
     # ---
 
-    os.chdir(target_dir)
+    os.chdir(TARGET_DIR)
+    print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===\n")
 
-    print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===")
-    if args.debug:
-        print("...预处理已被跳过")
-    else:
-        src_path = Path(target_src_dir)
-        if not process_src_folder(src_path, target_dir):
-            if input("\n预处理出现问题，是否继续 build？(y/n): ").lower().startswith("n"):
-                sys.exit(1)
+    src_path = Path(TARGET_SRC_DIR)
+    if not process_src_folder(src_path):
+        if input("\n预处理出现问题，是否继续 build？(y/n): ").lower().startswith("n"):
+            sys.exit(1)
 
-    print()
-    if not build_mkdocs(target_dir, args.debug, args.show_output):
+    if not build_mkdocs():
         if input("\nmkdocs build 失败，是否仍要启动服务器？(y/n): ").lower().startswith("n"):
             sys.exit(2)
 
