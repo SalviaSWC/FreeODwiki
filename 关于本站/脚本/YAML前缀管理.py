@@ -454,6 +454,11 @@ class FrontMatterEditorApp:
 
 
 def main():
+    import ctypes
+
+    # 释放神秘黑魔法
+    ctypes.windll.shcore.SetProcessDpiAwareness(1)
+
     root = tk.Tk()
     app = FrontMatterEditorApp(root)
     root.mainloop()

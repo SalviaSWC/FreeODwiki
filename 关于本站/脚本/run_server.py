@@ -36,28 +36,48 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - def_list
   - footnotes
   - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.betterem:
       smart_enable: all
-  - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.snippets
   - pymdownx.blocks.caption
   - pymdownx.critic
   - pymdownx.caret
+  - pymdownx.details
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+#      emoji_index: !!python/name:material.extensions.emoji.twemoji
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: SalviaSWC
+      repo: FreeODwiki
   - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 theme:
   language: zh
@@ -285,10 +305,9 @@ def main():
     class Args(argparse.Namespace):
         source_dir: str
         target_dir: str
-        skip_preprocess: bool
-        dirty: bool
-        capture_output: bool
-        
+        debug: bool
+        show_output: bool
+
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "source_dir",
@@ -303,22 +322,15 @@ def main():
         help="目标目录，默认值是为了保持向后兼容而设置的。",
     )
     parser.add_argument(
-        "-s",
-        "--skip_preprocess",
-        action="store_true",
-        help="跳过预处理步骤，这将加速约半分钟。",
-    )
-    parser.add_argument(
         "-d",
-        "--dirty",
+        "--debug",
         action="store_true",
-        help="此参数将原封不动的传入 mkdocs build ，效果是通过只 build 被更改的文件进行极大的加速。",
+        help="开启后会跳过预处理步骤，并将 dirty 参数传入 mkdocs，这将对构建流程进行极大的加速。仅作为调试用途。",
     )
     parser.add_argument(
-        "-n",
-        "--not_capture_output",
-        dest="capture_output",
-        action="store_false",
+        "-s",
+        "--show_output",
+        action="store_false",  # 进行一个取反
         help="启用时不会捕获 mkdocs build 的输出，这可以防止你过于无聊。",
     )
     args = parser.parse_args(namespace=Args)
@@ -347,7 +359,7 @@ def main():
     os.chdir(target_dir)
 
     print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===")
-    if args.skip_preprocess:
+    if args.debug:
         print("...预处理已被跳过")
     else:
         src_path = Path(target_src_dir)
@@ -356,7 +368,7 @@ def main():
                 sys.exit(1)
 
     print()
-    if not build_mkdocs(target_dir, args.dirty, args.capture_output):
+    if not build_mkdocs(target_dir, args.debug, args.show_output):
         if input("\nmkdocs build 失败，是否仍要启动服务器？(y/n): ").lower().startswith("n"):
             sys.exit(2)
 
