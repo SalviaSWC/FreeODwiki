@@ -4,10 +4,9 @@ from tkinter import messagebox, scrolledtext
 
 from html_to_markdown import convert_to_markdown
 
+
 # 如果提示包缺失，（由于tkinter一般是自带的），请通过运行pip install html-to-markdown安装这个包
-
 # 将输入的html文本转化为markdown的工具
-
 # 由于写作时我们正在处理psywiki的翻译，因此含有一个特判psywiki的菜单并将其去除的部分
 
 
@@ -84,6 +83,8 @@ label.pack()
 # 带滚动条的多行文本框
 text_widget = scrolledtext.ScrolledText(root, wrap=tk.WORD, font=("微软雅黑", 11))
 text_widget.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
+
+text_widget.bindtags()
 
 # 按钮框架
 button_frame = tk.Frame(root)

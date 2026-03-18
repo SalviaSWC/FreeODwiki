@@ -1,11 +1,13 @@
-import shutil
 import os
 import re
-import subprocess
-from pathlib import Path
-import sys
+import shutil
 import stat
+import subprocess
+import sys
+from pathlib import Path
+
 # import 生成sitemap  # 如果需要，取消注释
+# 生成sitemap.generate_sitemap(source_dir, url)  # 如果需要，取消注释
 
 source_dir = r"D:\Projects\FreeODwiki"          # 源目录
 dest_dir   = r"D:\Projects\Freeodwiki_pages"    # 目标目录
@@ -13,7 +15,7 @@ dest_src_dir = os.path.join(dest_dir, "src")
 url = r"https://salviaswc.github.io/FreeODwiki"
 repo_prefix = r"/FreeODwiki"
 
-# 生成sitemap.generate_sitemap(source_dir, url)  # 如果需要，取消注释
+
 
 mkdocs_yml = r"""
 site_name: FreeODwiki——可自由编辑的开源Overdose百科 
