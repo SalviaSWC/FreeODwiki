@@ -1,5 +1,5 @@
 ---
-title: inside_the_world_of_stimulant_psychosis
+title: 走进兴奋剂精神病的世界
 description: 
 ---
 
