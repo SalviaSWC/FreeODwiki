@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal144.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal146.md)
+[上一个](/文档/PiHKAL/pihkal144.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal146.md)
 
 # 145 TA
 
@@ -40,4 +40,4 @@
 我喜欢英国人的谦虚，他们用一种称为“石（stone）”的单位来隐藏一个人的体重。据我记忆，这大约是 14 磅。所以，如果“石”是 10 毫克的重量当量，TA 的活性就是几“石”。既然合成中间体 1-烯丙基-2,3,4,5-四甲氧基苯是十种必需精油之一，那么在人体肝脏中从我们假设的反应进行的胺化步骤将使 TA 成为所谓的“十种必需苯丙胺”之一。
 
 ---
-[上一个](/文档/PiHKAL/pihkal144.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal146.md)
+[上一个](/文档/PiHKAL/pihkal144.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal146.md)

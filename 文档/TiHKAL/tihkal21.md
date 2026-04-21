@@ -1,7 +1,7 @@
 
 # 21.[4-HO-MET](/药物/4-HO-MET.md)
 
-[上一个](/文档/TiHKAL/tihkal20.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal22.md)
+[上一个](/文档/TiHKAL/tihkal20.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal22.md)
 
 **色胺，N-乙基-4-羟基-N-甲基；4-吲哚酚，3-[2-(乙基甲基氨基)乙基]；N-乙基-4-羟基-N-甲基色胺；3-[2-(乙基甲基氨基)乙基]-4-吲哚酚**
 
@@ -24,4 +24,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal20.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal22.md)
+[上一个](/文档/TiHKAL/tihkal20.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal22.md)

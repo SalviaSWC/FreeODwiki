@@ -1,6 +1,6 @@
 
 # 40 [2C-T-2](/药物/2C-T-2.md)
-[上一个](/文档/PiHKAL/pihkal039.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal041.md)
+[上一个](/文档/PiHKAL/pihkal039.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal041.md)
 
 **2,5-二甲氧基-4-乙硫基苯乙胺 (2,5-DIMETHOXY-4-ETHYLTHIOPHENETHYLAMINE)**
 
@@ -43,4 +43,4 @@
 
 2C-T-2 的 2,5-DiEtO-同系物是 2,5-二乙氧基-4-乙硫基苯乙胺，或 2CT2-2,5DIETO。苯甲醛，2,5-二乙氧基-4-(乙硫基)苯甲醛，熔点为 84-85 °C，硝基苯乙烯中间体熔点为 123-124 °C，最终盐酸盐熔点为 220-221 °C。评估的 10 到 50 毫克的水平在强度上没有特别的不同，但在持续时间上逐渐延长。在 50 毫克时，体验初期有紧张和焦躁，但在接下来的几个小时里，精力和高度的注意力都很明显。几乎没有任何感官改变。第二天没有负面影响。持续时间大概九小时。
 
-[上一个](/文档/PiHKAL/pihkal039.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal041.md)
+[上一个](/文档/PiHKAL/pihkal039.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal041.md)

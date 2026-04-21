@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal018.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal020.md)
+[上一个](/文档/PiHKAL/pihkal018.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal020.md)
 
 # 19. 2-BR-4,5-MDA
 
@@ -17,4 +17,4 @@
 
 **延伸和评论：** 这种化合物的合成和药理学细节都很稀少。文献中只有一份关于这种药物对人体活性的报告，并且声明其效果类似于苯丙胺。没有提供其他定性评论，我和我的圈子里也没有人亲自尝试过。也许有一天会吧。但在那么高的水平下，也许不会。
 
-[上一个](/文档/PiHKAL/pihkal018.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal020.md)
+[上一个](/文档/PiHKAL/pihkal018.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal020.md)

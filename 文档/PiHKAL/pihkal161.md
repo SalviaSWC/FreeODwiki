@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal160.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal162.md)
+[上一个](/文档/PiHKAL/pihkal160.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal162.md)
 
 # 161 TMA-5
 
@@ -40,4 +40,4 @@ TMA-5 的双碳类似物是 2,3,6-三甲氧基苯乙胺（或 2C-TMA-5 或 2,3,6
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal160.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal162.md)
+[上一个](/文档/PiHKAL/pihkal160.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal162.md)

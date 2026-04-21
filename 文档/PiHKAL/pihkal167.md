@@ -1,7 +1,7 @@
 
 # 167 [4T-MMDA-2](/文档/PiHKAL/pihkal167.md)
 
-[上一个](/文档/PiHKAL/pihkal166.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal168.md)
+[上一个](/文档/PiHKAL/pihkal166.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal168.md)
 
 **6-(2-AMINOPROPYL)-5-METHOXY-1,3-BENZOXATHIOL; 2-METHOXY-4,5-METHYLENETHIOOXYAMPHETAMINE**
 **6-(2-氨基丙基)-5-甲氧基-1,3-苯并氧杂硫杂茂；2-甲氧基-4,5-亚甲硫氧基苯丙胺**
@@ -35,4 +35,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal166.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal168.md)
+[上一个](/文档/PiHKAL/pihkal166.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal168.md)

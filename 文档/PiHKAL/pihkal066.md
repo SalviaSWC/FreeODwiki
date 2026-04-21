@@ -1,6 +1,6 @@
 
 # 66 [DOET](/药物/DOET.md)
-[上一个](/文档/PiHKAL/pihkal065.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal067.md)
+[上一个](/文档/PiHKAL/pihkal065.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal067.md)
 
 **赫卡特 (HECATE); 2,5-二甲氧基-4-乙基苯丙胺**
 
@@ -33,4 +33,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal065.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal067.md)
+[上一个](/文档/PiHKAL/pihkal065.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal067.md)

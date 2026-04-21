@@ -1,6 +1,6 @@
 
 # 15.[4-HO-DBT](/药物/4-HO-DBT.md)
-[上一个](/文档/TiHKAL/tihkal14.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal16.md)
+[上一个](/文档/TiHKAL/tihkal14.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal16.md)
 
 **色胺，N,N-二丁基-4-羟基；4-吲哚酚，3-[2-(二丁胺基)乙基] N,N-二丁基-4-羟基色胺；3-[2-(二丁胺基)乙基]-4-吲哚酚**
 
@@ -55,4 +55,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal14.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal16.md)
+[上一个](/文档/TiHKAL/tihkal14.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal16.md)

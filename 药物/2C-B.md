@@ -5,7 +5,7 @@ description:
 
 # 2C-B
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 **4-溴-2,5-二甲氧基苯乙胺**（又名 **Nexus**、**Bromo Mescaline**、**BDMPEA**、**Venus** 和 **2C-B**）是一种[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)的[迷幻剂](/文档/药物分类/迷幻剂.md)。
 它是 [2C家族](/文档/药物分类/苯乙胺类物质.md)（2C-x family）中最著名的成员，该家族在结构上与经典迷幻剂[麦斯卡林](/药物/麦斯卡林.md)相关。其作用机制尚未完全明了，但通常认为主要涉及[血清素](/文档/血清素.md)[受体](/文档/受体激动剂.md)的结合活性。
@@ -301,7 +301,7 @@ description:
 
 ### 体验报告
 
-描述该化合物在本站[体验索引](/报告/psychounautwiki/home.md)中的轶事报告包括：
+描述该化合物在本站[体验索引](/报告/psychounautwiki/index.md)中的轶事报告包括：
 
 *   [Experience: 15mg 2C-B (oral) - A pleasant low-dose evening with Nexus](/报告/psychounautwiki/Experience:_15mg_2C-B_(oral)_-_A_pleasant_low-dose_evening_with_Nexus)
 *   [Experience: 22mg 2C-B (oral) / 100ug 1P-LSD (sublingual) - My first time tripping alone (2 days in a row)](/报告/psychounautwiki/Experience:_22mg_2C-B_(oral)_/_100ug_1P-LSD_(sublingual)_-_My_first_time_tripping_alone_(2_days_in_a_row))

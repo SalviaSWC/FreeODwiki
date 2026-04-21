@@ -7,7 +7,7 @@ FreeODwiki/药物/6-APB.md
 
 # 6-APB
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 ---
 
@@ -115,7 +115,7 @@ FreeODwiki/药物/6-APB.md
 
 ## 主观效应
 
-***免责声明：**以下列出的效应引用自[***主观效应索引***](/文档/科学信息索引页.md)（**SEI**），这是一个基于轶事用户报告和[PsychonautWiki](/关于本站/home.md)贡献者个人分析的开放研究文献。因此，应以健康的怀疑态度看待这些内容。*
+***免责声明：**以下列出的效应引用自[***主观效应索引***](/文档/科学信息索引页.md)（**SEI**），这是一个基于轶事用户报告和[PsychonautWiki](/关于本站/index.md)贡献者个人分析的开放研究文献。因此，应以健康的怀疑态度看待这些内容。*
 
 *同样值得注意的是，这些效应并不一定会以可预测或可靠的方式发生，尽管高剂量更可能诱发全方位的效应。*同样，**不良反应**随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡*** ☠。
 
@@ -228,7 +228,7 @@ FreeODwiki/药物/6-APB.md
 
 ### 体验报告
 
-描述该化合物在我们[体验索引](/报告/psychounautwiki/home.md)中的效果的轶事报告包括：
+描述该化合物在我们[体验索引](/报告/psychounautwiki/index.md)中的效果的轶事报告包括：
 
 *   [Experience:A combination of 25mg 4-AcO-DMT and unknown amount of 6-APB (benzofury)](/报告/psychounautwiki/Experience:A_combination_of_25mg_4-AcO-DMT_and_unknown_amount_of_6-APB_(benzofury).md)
 

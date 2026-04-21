@@ -5,7 +5,7 @@ description:
 
 # 25B-NBOH
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 ![Skull and crossbones darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png)
 

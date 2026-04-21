@@ -9,7 +9,7 @@ description:
 
 # 报告
 
-[◀返回主页](../home.md)
+[◀返回主页](../index.md)
 
 先人的经验让我们走到了这里，我们也该留下些什么让后来者安好
 
@@ -20,10 +20,10 @@ description:
         <strong>点击展开</strong> 
     </summary>
 
-[Erowid报告汉化版](erowid/home.md) _Erowid 的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid 上的报告基本不会出现前言不搭后语的情况。_  
-[Reddit报告汉化版](reddit/home.md) _我又能说啥，红迪上老哥真逆天_  
-[OverspeedWiki报告](overspeedwiki/home.md) _感谢OSW wiki主misaki 慷慨地开源了这些数据_  
-[OverdoseWiki报告](../文档/补档/Overdosewiki/Report/home.md) _感谢每一位曾经参与ODW的先辈，纪念已经离开或者从网络上离开的先辈，致瞬息万变之物，及亘古不变之物_
+[Erowid报告汉化版](erowid/index.md) _Erowid 的报告有评级之分，且对于作品语言是否通顺要求很高。Erowid 上的报告基本不会出现前言不搭后语的情况。_  
+[Reddit报告汉化版](reddit/index.md) _我又能说啥，红迪上老哥真逆天_  
+[OverspeedWiki报告](overspeedwiki/index.md) _感谢OSW wiki主misaki 慷慨地开源了这些数据_  
+[OverdoseWiki报告](../文档/补档/Overdosewiki/Report/index.md) _感谢每一位曾经参与ODW的先辈，纪念已经离开或者从网络上离开的先辈，致瞬息万变之物，及亘古不变之物_
 
 </details>
 

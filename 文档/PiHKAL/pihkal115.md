@@ -1,7 +1,7 @@
 
 # 115 [MDPEA](/药物/MDPEA.md)
 
-[上一个](/文档/PiHKAL/pihkal114.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal116.md)
+[上一个](/文档/PiHKAL/pihkal114.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal116.md)
 
 **3,4-亚甲二氧基苯乙胺；高胡椒基胺**
 
@@ -30,4 +30,4 @@ MDPEA的β-羟基类似物是乙醇胺MDE，代表亚甲二氧基乙醇胺。这
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal114.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal116.md)
+[上一个](/文档/PiHKAL/pihkal114.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal116.md)

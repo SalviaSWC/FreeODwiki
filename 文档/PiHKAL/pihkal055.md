@@ -2,7 +2,7 @@
 #55 [3,4\-DMA](/药物/3,4-DMA.md)
 
 
-[上一个](/文档/PiHKAL/pihkal054.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal056.md)
+[上一个](/文档/PiHKAL/pihkal054.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal056.md)
 
 ----------
 **3,4\-DIMETHOXYAMPHETAMINE**
@@ -35,4 +35,4 @@
 
 3,5\-异构体遵循完全相同的流程。3,5\-二甲氧基苯甲醛得到硝基苯乙烯 (熔点为 87\-88 °C)，苯基丙酮 (沸点为 0\.3 mm/Hg 下 110\-130 °C) 和产物 3,5\-二甲氧基\-N,N\-二甲基苯丙胺高氯酸盐 (3,5\-DNNA)，熔点为 100\-101 °C。这也容易与 18F 乙酰次氟酸盐和 122I\-次碘酸盐反应。这些化合物的几种 α\-乙基同系物也在 ARIADNE 的配方中进行了讨论。
 
-[上一个](/文档/PiHKAL/pihkal054.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal056.md)
+[上一个](/文档/PiHKAL/pihkal054.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal056.md)

@@ -1,6 +1,6 @@
 
 # 16.[4-HO-DET](/药物/4-HO-DET.md)
-[上一个](/文档/TiHKAL/tihkal15.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal17.md)
+[上一个](/文档/TiHKAL/tihkal15.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal17.md)
 
 **色胺，N,N-二乙基-4-羟基；4-吲哚酚，3-[2-(二乙胺基)乙基]；N,N-二乙基-4-羟基色胺；3-[2-(二乙胺基)乙基]-4-吲哚酚；CZ-74；4-HO-DET 磷酸酯；色胺，N,N-二乙基-4-磷酰氧基；4-吲哚酚，3-[2-(二乙胺基)乙基]磷酸酯；N,N-二乙基-4-磷酰氧基色胺；3-[2-(二乙胺基)乙基]-4-吲哚酚磷酸酯；CEY-19**
 
@@ -45,4 +45,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal15.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal17.md)
+[上一个](/文档/TiHKAL/tihkal15.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal17.md)

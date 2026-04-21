@@ -1,6 +1,6 @@
 # 解离剂恰好做了人们一般上嗑药为的什么
 
-**[◀返回Reddit报告](./home.md)**
+**[◀返回Reddit报告](index.md)**
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/isjphe/dissociatives_do_exactly_what_people_do_drugs_for/](https://www.reddit.com/r/Drugs/comments/isjphe/dissociatives_do_exactly_what_people_do_drugs_for/)
 

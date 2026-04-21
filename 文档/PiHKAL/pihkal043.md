@@ -1,6 +1,6 @@
 
 # 43 [2C-T-7](/药物/2C-T-7.md)
-[上一个](/文档/PiHKAL/pihkal042.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal044.md)
+[上一个](/文档/PiHKAL/pihkal042.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal044.md)
 
 **2,5-二甲氧基-4-(n)-丙基硫基苯乙胺 (2,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE)**
 
@@ -33,4 +33,4 @@
 
 许多 N-甲基-N-(i)-丙基色胺的不寻常性质表明可能存在类似的一组 N-甲基-N-(i)-丙基苯乙胺。为什么不试试从 2C-T-7 开始呢？想法是，也许对此化合物进行 N-甲基化，然后使用丙酮作为碳源和氰基硼氢化钠通过还原烷基化加上异丙基。为此，将 2C-T-7 的游离碱（来自 1 克盐酸盐）在 1.3 g 甲酸丁酯中回流 2 小时，除去溶剂/反应物后，残留物自发结晶。该甲酰胺（0.7 g）在冷 THF 中用氢化锂还原，得到 2,5-二甲氧基-4-(n)-丙基-N-甲基苯乙胺，METHYL-2C-T-7，在 0.4 mm/Hg 下于 150-170 °C 蒸馏。获得了极少量的盐酸盐（65 毫克），颜色为棕色。不纯产物的量太少；整个项目被放弃了。
 
-[上一个](/文档/PiHKAL/pihkal042.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal044.md)
+[上一个](/文档/PiHKAL/pihkal042.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal044.md)

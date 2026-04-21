@@ -1,7 +1,7 @@
 
 # 10 [B](/药物/B.md)
 
-[上一个](/文档/PiHKAL/pihkal009.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal011.md)
+[上一个](/文档/PiHKAL/pihkal009.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal011.md)
 
 **丁氧基麦司卡林；4-(正)-丁氧基-3,5-二甲氧基苯乙胺**
 
@@ -28,4 +28,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal009.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal011.md)
+[上一个](/文档/PiHKAL/pihkal009.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal011.md)

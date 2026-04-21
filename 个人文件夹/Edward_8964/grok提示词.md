@@ -18,7 +18,7 @@ description:
 │  ├─ DiPT.md
 │  ├─ DMT.md
 │  ├─ DPT.md
-│  ├─ home.md
+│  ├─ index.md
 │  ├─ lsa.md
 │  ├─ LSD.md
 │  ├─ MK-801.md
@@ -48,11 +48,11 @@ description:
 │  ├─ 金刚烷胺.md
 │  └─ 阿普唑仑.md
 ├─ 药效
-│  ├─ home.md
+│  ├─ index.md
 │  ├─ 躯体效应
-│  │  ├─ home.md
+│  │  ├─ index.md
 │  │  ├─ 躯体改变
-│  │  │  ├─ home.md
+│  │  │  ├─ index.md
 │  │  │  ├─ 体味改变.md
 │  │  │  ├─ 口腔麻木.md
 │  │  │  ├─ 支气管扩张.md
@@ -67,7 +67,7 @@ description:
 │  │  │  ├─ 过度打哈欠.md
 │  │  │  └─ 重力感改变.md
 │  │  ├─ 躯体抑制
-│  │  │  ├─ home.md
+│  │  │  ├─ index.md
 │  │  │  ├─ 咳嗽抑制.md
 │  │  │  ├─ 性欲减退.md
 │  │  │  ├─ 性高潮抑制.md
@@ -78,7 +78,7 @@ description:
 │  │  │  ├─ 镇静.md
 │  │  │  └─ 食欲抑制.md
 │  │  └─ 躯体增强
-│  │     ├─ home.md
+│  │     ├─ index.md
 │  │     ├─ 刺激.md
 │  │     ├─ 呼吸增强.md
 │  │     ├─ 性欲增强.md
@@ -86,13 +86,13 @@ description:
 │  │     ├─ 躯体控制增强.md
 │  │     └─ 食欲增强.md
 │  ├─ 认知效应
-│  │  └─ home.md
+│  │  └─ index.md
 │  ├─ 触觉效应
-│  │  └─ home.md
+│  │  └─ index.md
 │  ├─ 视觉效应
-│  │  ├─ home.md
+│  │  ├─ index.md
 │  │  ├─ 视觉抑制
-│  │  │  ├─ home.md
+│  │  │  ├─ index.md
 │  │  │  ├─ 周边信息误判.md
 │  │  │  ├─ 复视.md
 │  │  │  ├─ 模式识别抑制.md
@@ -100,7 +100,7 @@ description:
 │  │  │  ├─ 视觉锐度抑制.md
 │  │  │  └─ 颜色抑制.md
 │  │  ├─ 视觉扭曲
-│  │  │  ├─ home.md
+│  │  │  ├─ index.md
 │  │  │  ├─ 亮度改变.md
 │  │  │  ├─ 残影.md
 │  │  │  ├─ 深度感知扭曲.md
@@ -109,18 +109,18 @@ description:
 │  │  │  ├─ 颜色偏移.md
 │  │  │  └─ 颜色替换.md
 │  │  └─ 视觉增强
-│  │     ├─ home.md
+│  │     ├─ index.md
 │  │     ├─ 放大.md
 │  │     ├─ 模式识别增强.md
 │  │     ├─ 视觉加工加速.md
 │  │     ├─ 视觉锐度增强.md
 │  │     └─ 颜色增强.md
 │  ├─ 分离效应
-│  │  └─ home.md
+│  │  └─ index.md
 │  └─ 不适性躯体效应
-│     ├─ home.md
+│     ├─ index.md
 │     ├─ 脑血管效应
-│     │  ├─ home.md
+│     │  ├─ index.md
 │     │  ├─ 体温升高.md
 │     │  ├─ 体温调节抑制.md
 │     │  ├─ 头晕.md
@@ -128,7 +128,7 @@ description:
 │     │  ├─ 癫痫发作.md
 │     │  └─ 脑电击感.md
 │     ├─ 心血管效应
-│     │  ├─ home.md
+│     │  ├─ index.md
 │     │  ├─ 心律异常.md
 │     │  ├─ 心率减慢.md
 │     │  ├─ 心率增快.md
@@ -136,7 +136,7 @@ description:
 │     │  ├─ 血压降低.md
 │     │  └─ 血管扩张.md
 │     └─ 不适性躯体效应
-│        ├─ home.md
+│        ├─ index.md
 │        ├─ 不宁腿.md
 │        ├─ 便秘.md
 │        ├─ 出汗增加.md
@@ -167,7 +167,7 @@ description:
 │        ├─ 躯体压力感.md
 │        └─ 躯体疲劳.md
 └─ 文档
-   ├─ home.md
+   ├─ index.md
    └─ 药物分类
       ├─ 兴奋剂.md
       ├─ 抑制剂.md

@@ -1,7 +1,7 @@
 
 # 10.[EIPT](/药物/EIPT.md)
 
-[上一个](/文档/TiHKAL/tihkal9.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal11.md)
+[上一个](/文档/TiHKAL/tihkal9.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal11.md)
 
 **色胺，N-乙基-N-异丙基；吲哚，3-[2-(乙基异丙基氨基)乙基]；N-乙基-N-异丙基色胺；3-[2-(乙基异丙基氨基)乙基]吲哚**
 
@@ -44,4 +44,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal9.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal11.md)
+[上一个](/文档/TiHKAL/tihkal9.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal11.md)

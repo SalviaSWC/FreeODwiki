@@ -5,7 +5,7 @@ description:
 
 # 5-MeO-DMT
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 
 
@@ -74,7 +74,7 @@ description:
 | [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md) (MAOIs) | ⛔ 严禁联用 |
 | [PCP](./PCP.md) | ❓ 未知/慎用 |
 
-**5-甲氧基-N,N-二甲基色胺**（也被称为 **5-MeO-DMT**）是一种[色胺类物质](/文档/药物分类/色胺类物质.md "Tryptamine")类别的[天然存在](/文档/药物分类/home.md "Naturally-occurring")的[迷幻剂](/文档/药物分类/迷幻剂.md "Psychedelic")。它在结构上与 [DMT](./DMT.md "DMT") 和 5-HO-DMT (*bufotenin*) 相关，并被认为在该类别中能产生最强大和最强烈的迷幻状态喵。5-MeO-DMT 通过结合大脑中的[血清素](/文档/血清素.md "Serotonin")[受体](/文档/受体激动剂.md "Receptors")产生效应，尽管其确切机制尚不清楚。
+**5-甲氧基-N,N-二甲基色胺**（也被称为 **5-MeO-DMT**）是一种[色胺类物质](/文档/药物分类/色胺类物质.md "Tryptamine")类别的[天然存在](/文档/药物分类/index.md "Naturally-occurring")的[迷幻剂](/文档/药物分类/迷幻剂.md "Psychedelic")。它在结构上与 [DMT](./DMT.md "DMT") 和 5-HO-DMT (*bufotenin*) 相关，并被认为在该类别中能产生最强大和最强烈的迷幻状态喵。5-MeO-DMT 通过结合大脑中的[血清素](/文档/血清素.md "Serotonin")[受体](/文档/受体激动剂.md "Receptors")产生效应，尽管其确切机制尚不清楚。
 
 它分布在多种植物物种以及一种单一的蟾蜍物种（*Incilius alvarius*，科罗拉多河蟾蜍）的毒液中。尽管对其历史知之甚少，但据信它几个世纪以来一直被用于南美萨满教的实践中。在现代，蟾蜍毒液的提取物以及合成粉末形式都在使用，主要通过[汽化](/文档/给药途径.md "Vaporization")（吸入蒸汽）的方式摄入喵。
 

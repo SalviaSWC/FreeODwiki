@@ -3,7 +3,7 @@
 ---------
 **2,5-二甲氧基-4-苯硫基苯丙胺**
 
-[上一个](/文档/PiHKAL/pihkal005.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal007.md)
+[上一个](/文档/PiHKAL/pihkal005.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal007.md)
 
 | ![](/文档/PiHKAL/pihkal06.gif) |
 | --- |
@@ -28,4 +28,4 @@
 
 但是这种材料具有那种永远处于阈值状态的特征。40 毫克的实验无可救药地妥协了，从未安排或尝试过更高的剂量。双碳同系物，2,5-二甲氧基-4-苯硫基苯乙胺，或 2C-T-6，甚至从未被合成过，更不用说测定了。
 
-[上一个](/文档/PiHKAL/pihkal005.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal007.md)
+[上一个](/文档/PiHKAL/pihkal005.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal007.md)

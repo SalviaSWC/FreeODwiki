@@ -5,7 +5,7 @@ description:
 
 # α-PVP
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 | ℹ️ **α-PVP 信息概览** | |
 | --- | --- |

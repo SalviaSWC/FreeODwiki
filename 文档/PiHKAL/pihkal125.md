@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal124.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal126.md)
+[上一个](/文档/PiHKAL/pihkal124.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal126.md)
 
 # 125 [META-DOT](/药物/META-DOT.md)
 
@@ -32,4 +32,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal124.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal126.md)
+[上一个](/文档/PiHKAL/pihkal124.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal126.md)

@@ -1,6 +1,6 @@
 
 # 38 [2C-SE](/药物/2C-SE.md)
-[上一个](/文档/PiHKAL/pihkal037.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal039.md)
+[上一个](/文档/PiHKAL/pihkal037.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal039.md)
 
 **2,5-二甲氧基-4-甲基硒基苯乙胺 (2,5-DIMETHOXY-4-METHYLSELENEOPHENETHYLAMINE)**
 
@@ -35,4 +35,4 @@
 
 有一个与制造 2C-SE 相关的有趣观察。在许多硫化合物（[2C-T](/文档/PiHKAL/pihkal039.md) 家族）的合成中，很常见的情况是，当在一个温暖的夏夜有一些有机硫化物作为反应副产物释放出来时，会有许多苍蝇飞进实验室来参观。在第一次合成 2C-SE 的起始原料时，一定量的 CH3SeH 被释放到环境中。几分钟内，实验室里就出现了两只美丽的蜻蜓。当然是巧合，但不知何故，这是一个很好的信息。
 
-[上一个](/文档/PiHKAL/pihkal037.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal039.md)
+[上一个](/文档/PiHKAL/pihkal037.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal039.md)

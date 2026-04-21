@@ -1,6 +1,6 @@
 
 # 39 [2C-T](/药物/2C-T.md)
-[上一个](/文档/PiHKAL/pihkal038.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal040.md)
+[上一个](/文档/PiHKAL/pihkal038.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal040.md)
 
 **2,5-二甲氧基-4-甲硫基苯乙胺 (2,5-DIMETHOXY-4-METHYLTHIOPHENETHYLAMINE)**
 
@@ -39,4 +39,4 @@
 
 2C-T 的 5-EtO-同系物是 5-乙氧基-2-甲氧基-4-甲硫基苯乙胺，或 2CT-5ETO。苯甲醛（5-乙氧基-2-甲氧基-4-(甲硫基)苯甲醛）不纯，熔点约为 66 °C，硝基苯乙烯中间体熔点为 133-134 °C，最终盐酸盐熔点为 184-185 °C。使用 30 毫克 2CT-5ETO 后，有身体意识和适度的闭眼视觉效果。体验是安静、平和、沉思和有洞察力的。持续时间可能为 15 小时，需要三唑仑\才能入睡。做了很多梦，第二天很宁静。
 
-[上一个](/文档/PiHKAL/pihkal038.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal040.md)
+[上一个](/文档/PiHKAL/pihkal038.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal040.md)

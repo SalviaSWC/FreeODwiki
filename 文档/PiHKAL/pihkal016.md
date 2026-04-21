@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal015.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal017.md)
+[上一个](/文档/PiHKAL/pihkal015.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal017.md)
 
 # 16. BOHD
 
@@ -25,4 +25,4 @@
 
 很复杂，是的。但这两种系统都非常直接，并且对于未来的创造具有灵活性。类似的β-乙醇胺的一些其他例子散见于第二卷中，总的来说，它们被证明是无趣的，至少作为潜在的致幻化合物是这样。
 
-[上一个](/文档/PiHKAL/pihkal015.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal017.md)
+[上一个](/文档/PiHKAL/pihkal015.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal017.md)

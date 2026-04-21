@@ -1,7 +1,7 @@
 
 # 19.[5-HO-DMT](/药物/5-HO-DMT.md)
 
-[上一个](/文档/TiHKAL/tihkal18.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal20.md)
+[上一个](/文档/TiHKAL/tihkal18.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal20.md)
 
 **色胺，5-羟基-N,N-二甲基；吲哚-5-酚，3-[2-(二甲基氨基)乙基]；5-羟基-N,N-二甲基色胺；3-(2-二甲基氨基乙基)吲哚-5-酚；N,N-二甲基血清素；蟾蜍色胺；玛宾**
 
@@ -78,4 +78,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal18.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal20.md)
+[上一个](/文档/TiHKAL/tihkal18.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal20.md)

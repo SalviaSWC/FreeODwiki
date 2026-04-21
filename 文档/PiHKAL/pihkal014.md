@@ -1,7 +1,7 @@
 
 # [BOD](/药物/BOD.md)
 
-[上一个](/文档/PiHKAL/pihkal013.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal015.md)
+[上一个](/文档/PiHKAL/pihkal013.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal015.md)
 
 
 
@@ -39,4 +39,4 @@
 
 两个同义词，两个定义，以及一种钦佩之情的表达。单词norepinephrine（去甲肾上腺素）是noradrenalin的同义词，单词epinephrine（肾上腺素）是adrenalin的同义词。区别在于每种情况下的前者是美式用法，后者是英式用法。术语“手性”表示分子中潜在的不对称性，允许最终分离成两种光学异构体。术语“外消旋”是指这两种异构体的混合物，尚未分离成单个组分。外消旋混合物被称为外消旋体，从人类动物（完全不对称）的角度来看，必须将其视为两种结构相同但在光学上互为镜像的异构体的混合物，它们可以被潜在地分离，并且肯定具有不同的药理学特性。那么钦佩之情呢？这是献给那位冒险靠近章鱼以定位其唾液腺并在那里发现苯乙胺的探险家的！
 
-[上一个](/文档/PiHKAL/pihkal013.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal015.md)
+[上一个](/文档/PiHKAL/pihkal013.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal015.md)

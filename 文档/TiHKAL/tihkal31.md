@@ -1,7 +1,7 @@
 
 # 31.[5,6-MDO-DMT](/药物/5,6-MDO-DMT.md)
 
-[上一个](/文档/TiHKAL/tihkal30.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal32.md)
+[上一个](/文档/TiHKAL/tihkal30.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal32.md)
 
 **N,N-二甲基-5,6-亚甲二氧基色胺；吲哚，3-[2-(二甲基氨基)乙基]-5,6-亚甲二氧基；N,N-二甲基-5,6-亚甲二氧基色胺；3-[2-(二甲基氨基)乙基]-5,6-亚甲二氧基吲哚；5H-1,3-二氧杂环戊并-[4,5-F]吲哚-7-乙胺，N,N-二甲基**
 
@@ -24,4 +24,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal30.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal32.md)
+[上一个](/文档/TiHKAL/tihkal30.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal32.md)

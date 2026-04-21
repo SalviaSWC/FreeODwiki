@@ -1,7 +1,7 @@
 
 # 28.[4,5-MDO-DIPT](/药物/4,5-MDO-DIPT.md)
 
-[上一个](/文档/TiHKAL/tihkal27.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal29.md)
+[上一个](/文档/TiHKAL/tihkal27.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal29.md)
 
 **N,N-二异丙基-4,5-亚甲二氧基色胺；吲哚，3-[2-(二异丙基氨基)乙基]-4,5-亚甲二氧基；N,N-二异丙基-4,5-亚甲二氧基色胺；3-[2-(二异丙基氨基)乙基]-4,5-亚甲二氧基吲哚；5H-1,3-二氧杂环戊并-[4,5-E]吲哚-7-乙胺，N,N-二异丙基**
 
@@ -26,4 +26,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal27.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal29.md)
+[上一个](/文档/TiHKAL/tihkal27.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal29.md)

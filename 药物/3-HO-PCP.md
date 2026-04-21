@@ -1,5 +1,5 @@
 # 3-HO-PCP
-[◀返回](./home.md)
+[◀返回](index.md)
 
 
 
@@ -37,7 +37,7 @@
 
 3-HO-PCP 最早是在1978年合成的，当时是为了研究 [苯环利定](/药物/PCP.md) (PCP) 衍生物的构效关系。在20世纪80年代，人们对它和 [PCP](/药物/PCP.md) 进行了进一步的探索，发现在动物模型中，它具有 [μ-阿片](/文档/药物分类/阿片类药物.md) [受体激动剂](/文档/受体激动剂.md) 的活性。
 
-就像同类的其他物质一样，特别是 [甲氧胺酮](/药物/MXE.md)、[苯环利定](/药物/PCP.md) (PCP) 和 [3-MeO-PCE](/药物/3-MeO-PCE.md)，它主要诱导一种被称为“[解离性麻醉](/药效/home.md)”的状态，尽管据报道这种状态的程度高度依赖于剂量，而且效果多变。目前还不知道在动物模型中研究出的阿片类药物特性是否适用于人类，一些早期的报告表明并不适用呢。
+就像同类的其他物质一样，特别是 [甲氧胺酮](/药物/MXE.md)、[苯环利定](/药物/PCP.md) (PCP) 和 [3-MeO-PCE](/药物/3-MeO-PCE.md)，它主要诱导一种被称为“[解离性麻醉](/药效/index.md)”的状态，尽管据报道这种状态的程度高度依赖于剂量，而且效果多变。目前还不知道在动物模型中研究出的阿片类药物特性是否适用于人类，一些早期的报告表明并不适用呢。
 
 也有报告表明，这种化合物可能会产生更多的身体副作用，比如肌肉酸痛，以及在使用期间或之后不久出现类似流感的症状。这表明它可能比相关的解离剂具有更独特的危险性或毒性，特别是在较高剂量下哦。
 
@@ -71,7 +71,7 @@
 历史与文化
 -------------------
 
-| [![History_icon.png](/文件/History_icon.png)](/文件/History_icon.png) | **这一 *历史与文化* 部分是一个 [小作品](/文档/关于本站/home.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
+| [![History_icon.png](/文件/History_icon.png)](/文件/History_icon.png) | **这一 *历史与文化* 部分是一个 [小作品](/文档/关于本站/index.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
 3-HO-PCP 最早是在1978年合成的，目的是研究 [苯环利定](/药物/PCP.md) (PCP) 衍生物的构效关系。在20世纪80年代，人们对它和 [PCP](/药物/PCP.md) 进行了进一步的探索，发现在动物模型中，它具有 [μ-阿片](/文档/药物分类/阿片类药物.md) [受体激动剂](/文档/受体激动剂.md) 的活性。
@@ -101,10 +101,10 @@ NMDA（N-甲基-D-天冬氨酸）受体是 [谷氨酸](/文档/谷氨酸.md) 受
 主观效应
 ------------------
 
-| [![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png)](/文件/Metacogghjgjvghnition.png) | **这一主观效应部分是一个 [小作品](/文档/关于本站/home.md)**。<br>*因此，它仍在完善中，可能包含不完整或错误的信息。*<br>*你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
+| [![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png)](/文件/Metacogghjgjvghnition.png) | **这一主观效应部分是一个 [小作品](/文档/关于本站/index.md)**。<br>*因此，它仍在完善中，可能包含不完整或错误的信息。*<br>*你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
-***免责声明：** 以下列出的效应引用了 [***主观效应索引***](/药效/home.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/home.md) 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
+***免责声明：** 以下列出的效应引用了 [***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/index.md) 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
 
 *值得注意的是，这些效应不一定以可预测或可靠的方式发生，尽管较高的剂量更容易诱发全方位的效应。同样，**不良反应** 随着剂量的增加变得越来越可能，可能包括 **成瘾、严重伤害或死亡*** ☠。
  
@@ -200,7 +200,7 @@ NMDA（N-甲基-D-天冬氨酸）受体是 [谷氨酸](/文档/谷氨酸.md) 受
 毒性与伤害潜力
 ---------------------------
 
-| [![Ambulance2.png](/文件/Ambulance2.png)](/文件/Ambulance2.png) | **这一毒性与伤害潜力部分是一个 [小作品](/文档/关于本站/home.md)。**<br>*因此，它可能包含不完整甚至 **极其错误** 的信息！你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
+| [![Ambulance2.png](/文件/Ambulance2.png)](/文件/Ambulance2.png) | **这一毒性与伤害潜力部分是一个 [小作品](/文档/关于本站/index.md)。**<br>*因此，它可能包含不完整甚至 **极其错误** 的信息！你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
 *注意：如果使用这种物质，请务必进行独立研究并使用 **[伤害减少措施](/文档/负责任的用药索引页.md)** 喵。*
@@ -245,7 +245,7 @@ NMDA（N-甲基-D-天冬氨酸）受体是 [谷氨酸](/文档/谷氨酸.md) 受
 法律地位
 ------------
 
-| [![Handcuffs-300px.png](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **这一法律部分是一个 [小作品](/文档/关于本站/home.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
+| [![Handcuffs-300px.png](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **这一法律部分是一个 [小作品](/文档/关于本站/index.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCP&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
 *   **捷克共和国：** 3-HO-PCP 是一类 I (清单 4) 物质。它可用于研究和受限的治疗目的。(§ 1, d), 1. of *Nařízení vlády č. 463/2013 Sb.*)

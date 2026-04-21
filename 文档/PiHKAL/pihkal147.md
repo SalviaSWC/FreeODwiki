@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal146.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal148.md)
+[上一个](/文档/PiHKAL/pihkal146.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal148.md)
 
 # 147 4-TASB
 
@@ -30,4 +30,4 @@
 **延伸和评论：** 又是一种身体问题多于精神美德的药物，但没有明显的结构特征可以归咎。总有一天这一切都会讲得通的！
 
 ---
-[上一个](/文档/PiHKAL/pihkal146.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal148.md)
+[上一个](/文档/PiHKAL/pihkal146.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal148.md)

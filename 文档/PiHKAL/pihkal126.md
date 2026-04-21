@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal125.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal127.md)
+[上一个](/文档/PiHKAL/pihkal125.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal127.md)
 
 # 126 [METHYL-DMA](/药物/METHYL-DMA.md)
 
@@ -24,4 +24,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal125.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal127.md)
+[上一个](/文档/PiHKAL/pihkal125.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal127.md)

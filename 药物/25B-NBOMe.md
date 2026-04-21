@@ -1,7 +1,7 @@
 25B-NBOMe
 ==========
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 | ![/文件/Skull_and_crossbones_darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png) | **25B-NBOMe 在严重剂量下可能会致命哦。**强烈不建议大剂量服用或者[鼻吸](/文档/给药途径.md#鼻吸)这种物质呢。请查看[本节](#毒性与伤害潜力)以获取更多细节喵。 |
 | --- | --- |

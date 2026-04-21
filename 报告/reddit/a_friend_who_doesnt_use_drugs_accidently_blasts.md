@@ -1,6 +1,6 @@
 # 不嗑药的朋友意外吸了一口DMT
 
-**[◀返回Reddit报告](./home.md)**
+**[◀返回Reddit报告](index.md)**
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/9q0egq/a_friend_who_doesnt_use_drugs_accidently_blasts/](https://www.reddit.com/r/Drugs/comments/9q0egq/a_friend_who_doesnt_use_drugs_accidently_blasts/)
 

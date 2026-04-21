@@ -1,7 +1,7 @@
 
 # 11  [BEATRICE](/药物/BEATRICE.md)
 
-[上一个](/文档/PiHKAL/pihkal010.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal012.md)
+[上一个](/文档/PiHKAL/pihkal010.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal012.md)
 
 **N-甲基-DOM；2,5-二甲氧基-4,N-二甲基苯丙胺**
 
@@ -26,4 +26,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal010.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal012.md)
+[上一个](/文档/PiHKAL/pihkal010.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal012.md)

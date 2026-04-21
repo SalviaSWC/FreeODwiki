@@ -1,6 +1,6 @@
 # 你处在一种不依赖药物也能感到快乐的状态时，才是使用药物的最佳时机
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/gr46gk/youre_in_the_best_position_to_do_drugs_when_you/](https://www.reddit.com/r/Drugs/comments/gr46gk/youre_in_the_best_position_to_do_drugs_when_you/)
 

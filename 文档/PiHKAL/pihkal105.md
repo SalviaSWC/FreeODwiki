@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal104.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal106.md)
+[上一个](/文档/PiHKAL/pihkal104.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal106.md)
 
 # 105 [MDDM](/药物/MDDM.md)
 -------
@@ -32,4 +32,4 @@ MDDM 效力的降低已被以一种意想不到的方式利用。基于苯丙胺
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal104.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal106.md)
+[上一个](/文档/PiHKAL/pihkal104.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal106.md)

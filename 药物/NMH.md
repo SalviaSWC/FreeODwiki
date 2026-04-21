@@ -1,6 +1,6 @@
 # NMH
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 不要与[NEH（Hexen）](/药物/NEH.md)相混淆哦。
 

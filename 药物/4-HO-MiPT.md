@@ -1,5 +1,5 @@
 # 4-HO-MiPT
-[◀返回](./home.md)
+[◀返回](index.md)
 
 
 
@@ -29,7 +29,7 @@
 | [药效达峰](/文档/药效时长.md#药效达峰) | 1.5 - 2.5 小时 |
 | [药效褪去](/文档/药效时长.md#药效褪去) | 1 - 2 小时 |
 | [药效残余](/文档/药效时长.md#药效残余) | 2 - 12 小时 |
-| **[免责声明](/关于本站/home.md)：** 本站的[剂量](/文档/给药剂量.md)信息收集自用户和[相关资源](/关于本站/home.md)，仅供教育用途呢。这可不是推荐哦，使用前请务必通过其他渠道核实准确性。 |
+| **[免责声明](/关于本站/index.md)：** 本站的[剂量](/文档/给药剂量.md)信息收集自用户和[相关资源](/关于本站/index.md)，仅供教育用途呢。这可不是推荐哦，使用前请务必通过其他渠道核实准确性。 |
 | **[药物联用](#危险药物联用)** |
 | 大麻 | ⚠️ [谨慎联用](/文档/危险药物联用.md) |
 | 兴奋剂 | ⚠️ [谨慎联用](/文档/危险药物联用.md) |
@@ -38,7 +38,7 @@
 
 **4-Hydroxy-N-methyl-N-isopropyltryptamine**（也称为 **4-HO-MiPT** 和 **Miprocin**）是一种[色胺类](/文档/药物分类/色胺类物质.md)的新型[迷幻剂](/文档/药物分类/迷幻剂.md)，摄入后会产生类似[赛洛西宾](/药物/赛洛西宾蘑菇.md)（裸盖菇素）的迷幻效果。它是一系列迷幻[取代色胺类物质](/文档/药物分类/色胺类物质.md)的一部分，如[4-AcO-DMT](/药物/4-AcO-DMT.md)、[4-HO-MET](/药物/4-HO-MET.md)、[4-HO-DiPT](/药物/4-HO-DiPT.md)，这些物质被认为能产生以[赛洛西宾](/药物/赛洛西宾蘑菇.md)为典型的核心迷幻效应的变体呢。
 
-这种物质相对罕见，人类使用历史很短。[亚历山大·舒尔金](/关于本站/home.md)在1979年评估了它在人体中的活性，描述了12毫克的试验是一次富有洞察力且高度色情的体验。舒尔金1997年的书《[TiHKAL](/文档/TiHKAL.md)》中包含了对4-HO-MiPT的描述。舒尔金的试验和其他轶事报告表明，4-HO-MiPT的活性与[赛洛西宾](/药物/赛洛西宾蘑菇.md)（[赛洛西宾蘑菇](/药物/赛洛西宾蘑菇.md)中的活性成分）相似。
+这种物质相对罕见，人类使用历史很短。[亚历山大·舒尔金](/关于本站/index.md)在1979年评估了它在人体中的活性，描述了12毫克的试验是一次富有洞察力且高度色情的体验。舒尔金1997年的书《[TiHKAL](/文档/TiHKAL.md)》中包含了对4-HO-MiPT的描述。舒尔金的试验和其他轶事报告表明，4-HO-MiPT的活性与[赛洛西宾](/药物/赛洛西宾蘑菇.md)（[赛洛西宾蘑菇](/药物/赛洛西宾蘑菇.md)中的活性成分）相似。
 
 关于4-HO-MiPT在人体中的药理特性、代谢和毒性的数据非常少。与[赛洛西宾](/药物/赛洛西宾蘑菇.md)一样，尽管有报告称人们服用了远超活性剂量的剂量，但没有关于使用4-HO-MiPT导致死亡的报道。这表明它在生理上具有良好的耐受性。
 
@@ -73,7 +73,7 @@
 
 ## 历史与文化
 
-| [![历史图标](/文件/History_icon.svg)](/文件/History_icon.png) | **本*历史与文化*部分是一个[小节](/关于本站/home.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](/关于本站/home.md)来提供帮助喵。* |
+| [![历史图标](/文件/History_icon.svg)](/文件/History_icon.png) | **本*历史与文化*部分是一个[小节](/关于本站/index.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](/关于本站/index.md)来提供帮助喵。* |
 | --- | --- |
 
 4-HO-MiPT的首次合成由David Repke领导的化学家团队于1981年发表。Repke和舒尔金后来合作发表了一篇论文，评估了MiPT结构上不同氧取代基的效应，将4-HO-MiPT描述为该系列中最有趣的，也是唯一具有经典致幻剂效应的物质。
@@ -93,7 +93,7 @@
 
 ## 主观效应
 
-***免责声明：** 下列效应参考了[***主观效应索引***](/药效/home.md) (**SEI**)，这是一个基于轶事用户报告和本站贡献者个人分析的开放研究文献。因此，请务必带着怀疑的态度看待这些内容哦。*
+***免责声明：** 下列效应参考了[***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和本站贡献者个人分析的开放研究文献。因此，请务必带着怀疑的态度看待这些内容哦。*
 
 *还要注意，这些效应不一定会以可预测或可靠的方式发生，尽管高剂量更容易引发全方位的效应。同样，**不良反应**在高剂量下发生的可能性也会越来越大，可能包括**成瘾、严重伤害或死亡** ☠。*
 
@@ -217,7 +217,7 @@
 
 ## 毒性和危害潜力
 
-- [![救护车图标](/文件/Ambulance2.png)](/文件/Ambulance2.png) **本毒性和危害潜力部分是一个[小节。](/关于本站/home.md)**因此，它可能包含不完整甚至**极其错误**的信息！你可以通过[扩展或更正它](/关于本站/home.md)来提供帮助。
+- [![救护车图标](/文件/Ambulance2.png)](/文件/Ambulance2.png) **本毒性和危害潜力部分是一个[小节。](/关于本站/index.md)**因此，它可能包含不完整甚至**极其错误**的信息！你可以通过[扩展或更正它](/关于本站/index.md)来提供帮助。
 *注意：如果使用此物质，请务必进行独立研究并使用**[伤害减少措施](/文档/负责任的用药索引页.md)**。*
 
 更多信息：[研究用化学品 § 毒性和危害潜力](/文档/研究用化学品.md#毒性和危害潜力)，以及[负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md)
@@ -247,7 +247,7 @@
 
 ## 法律地位
 
-| [![手铐](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **本法律部分是一个[小节](/关于本站/home.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](/关于本站/home.md)来提供帮助喵。* |
+| [![手铐](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **本法律部分是一个[小节](/关于本站/index.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](/关于本站/index.md)来提供帮助喵。* |
 | --- | --- |
 
 *   **巴西**：截至2018年8月21日，4-HO-MiPT已被添加到Portaria SVS/MS nº 344中。持有、分销和使用该物质现在被认为是非法的。
@@ -280,10 +280,10 @@
 
 ## 参考文献
 
-1.  [Alexander Shulgin](/关于本站/home.md) (1980). [*Pharmacology Notes II (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_pharmacology_notebook9_searchable.pdf) (PDF). Lafayette, CA: Erowid. p. 312.
-2.  [Shulgin, Alexander](/关于本站/home.md); Shulgin, Ann (1997). ["#22. 4-HO-MiPT"](https://erowid.org/library/books_online/tihkal/tihkal22.shtml). *[TiHKAL: The Continuation](/文档/TiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
+1.  [Alexander Shulgin](/关于本站/index.md) (1980). [*Pharmacology Notes II (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_pharmacology_notebook9_searchable.pdf) (PDF). Lafayette, CA: Erowid. p. 312.
+2.  [Shulgin, Alexander](/关于本站/index.md); Shulgin, Ann (1997). ["#22. 4-HO-MiPT"](https://erowid.org/library/books_online/tihkal/tihkal22.shtml). *[TiHKAL: The Continuation](/文档/TiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
 3.  Repke, D. B.; Ferguson, W. J.; Bates, D. K. (1981). "Psilocin analogs II. Synthesis of 3-[2-(dialkylamino)ethyl]-, 3-[2-(N-methyl-N-alkylamino)ethyl]-, and 3-[2-(cycloalkylamino)ethyl]indol-4-ols". *Journal of Heterocyclic Chemistry*. **18** (1): 175–179. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/jhet.5570180131](//doi.org/10.1002%2Fjhet.5570180131). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-152X](//www.worldcat.org/issn/0022-152X). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1783072](//www.worldcat.org/oclc/1783072).
-4.  Repke, D. B.; Grotjahn, D. B.; [Shulgin, A. T.](/关于本站/home.md) (1985). "Psychotomimetic N-methyl-N-isopropyltryptamines. Effects of variation of aromatic oxygen substituents". *Journal of Medicinal Chemistry*. **28** (7): 892–896. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm00145a007](//doi.org/10.1021%2Fjm00145a007). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-4804](//www.worldcat.org/issn/1520-4804). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). [OCLC](http://en.wikipedia.org/wiki/OCLC) [39480771](//www.worldcat.org/oclc/39480771). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [4009612](//www.ncbi.nlm.nih.gov/pubmed/4009612).
+4.  Repke, D. B.; Grotjahn, D. B.; [Shulgin, A. T.](/关于本站/index.md) (1985). "Psychotomimetic N-methyl-N-isopropyltryptamines. Effects of variation of aromatic oxygen substituents". *Journal of Medicinal Chemistry*. **28** (7): 892–896. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm00145a007](//doi.org/10.1021%2Fjm00145a007). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-4804](//www.worldcat.org/issn/1520-4804). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). [OCLC](http://en.wikipedia.org/wiki/OCLC) [39480771](//www.worldcat.org/oclc/39480771). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [4009612](//www.ncbi.nlm.nih.gov/pubmed/4009612).
 5.  "4-HO-MiPT". *Psychedelic Science Review*. 6 January 2020.
 6.  Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
 7.  ["Lista de substâncias sujeitas a controle especial no Brasil"](http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial) (in Portuguese). Agência Nacional de Vigilância Sanitária (ANVISA) [Brazilian Health Regulatory Agency]. Retrieved August 27, 2020.

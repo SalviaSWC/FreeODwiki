@@ -1,5 +1,5 @@
 
-[上一个](/文档/TiHKAL/tihkal11.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal13.md)
+[上一个](/文档/TiHKAL/tihkal11.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal13.md)
 
 # 12.[ETH-LAD](/药物/ETH-LAD.md)
 **6-去甲麦角酸-N,N-二乙酰胺-6-乙基；6-去甲麦角酰胺-N,N-二乙基-6-乙基；N,N-二乙基去甲麦角酰胺-6-乙基；N-(6)-乙基去甲麦角酸-N,N-二乙酰胺；9,10-二去氢-N,N,6-三乙基麦角林-8b-甲酰胺；N-乙基-去甲-LSD**
@@ -39,4 +39,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal11.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal13.md)
+[上一个](/文档/TiHKAL/tihkal11.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal13.md)

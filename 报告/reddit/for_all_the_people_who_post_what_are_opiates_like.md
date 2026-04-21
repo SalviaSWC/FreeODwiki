@@ -1,6 +1,6 @@
 # 献给所有那些每天都发帖“鸦片类药物是什么感觉，我该试试吗？”的人。
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/1nn8fwv/for_all_the_people_who_post_what_are_opiates_like/](https://www.reddit.com/r/Drugs/comments/1nn8fwv/for_all_the_people_who_post_what_are_opiates_like/)
 

@@ -1,7 +1,7 @@
 
 # 165 [5-TME](/文档/PiHKAL/pihkal165.md)
 
-[上一个](/文档/PiHKAL/pihkal164.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal166.md)
+[上一个](/文档/PiHKAL/pihkal164.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal166.md)
 
 **5-THIOMETAESCALINE; 3-ETHOXY-4-METHOXY-5-METHYLTHIOPHENETHYLAMINE**
 **5-硫代变纯麦司卡林；3-乙氧基-4-甲氧基-5-甲硫基苯乙胺**
@@ -25,4 +25,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal164.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal166.md)
+[上一个](/文档/PiHKAL/pihkal164.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal166.md)

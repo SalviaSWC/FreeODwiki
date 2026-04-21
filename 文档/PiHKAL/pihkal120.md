@@ -1,7 +1,7 @@
 
 # 120 [MEDA](/药物/MEDA.md)
 
-[上一个](/文档/PiHKAL/pihkal119.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal121.md)
+[上一个](/文档/PiHKAL/pihkal119.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal121.md)
 
 **3-甲氧基-4,5-乙二氧基苯丙胺**
 
@@ -28,4 +28,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal119.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal121.md)
+[上一个](/文档/PiHKAL/pihkal119.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal121.md)

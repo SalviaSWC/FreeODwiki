@@ -3,7 +3,7 @@
 ---------
 **2,5-二甲氧基-4-异丙基硫基苯丙胺**
 
-[上一个](/文档/PiHKAL/pihkal004.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal006.md)
+[上一个](/文档/PiHKAL/pihkal004.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal006.md)
 
 | ![](/文档/PiHKAL/pihkal05.gif) |
 | --- |
@@ -24,4 +24,4 @@
 
 **延伸和评论：** 再次，有复杂性的暗示和建议。这些，以及其他几份报告，表明存在某种感官混乱，以及在某种程度上具有威胁性的解释方面。有一个潜在的身体毒性的暗示。我不知道有任何超过 12 毫克的实验，我无法预测在更高剂量下会发生什么。我个人选择不尝试它们。
 
-[上一个](/文档/PiHKAL/pihkal004.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal006.md)
+[上一个](/文档/PiHKAL/pihkal004.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal006.md)

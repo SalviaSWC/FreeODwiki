@@ -1,7 +1,7 @@
 
 # 9.[DPT](/药物/DPT.md)
 
-[上一个](/文档/TiHKAL/tihkal8.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal10.md)
+[上一个](/文档/TiHKAL/tihkal8.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal10.md)
 
 **色胺，N,N-二丙基；吲哚，3-[2-(二丙基氨基)乙基]；N,N-二丙基色胺；3-[2-(二丙基氨基)乙基]吲哚**
 
@@ -50,4 +50,4 @@ DPT 一个有趣的（也许是理论上的）同系物是 1-丙基对应物，1
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal8.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal10.md)
+[上一个](/文档/TiHKAL/tihkal8.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal10.md)

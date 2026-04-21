@@ -1,6 +1,6 @@
 # MDEC
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 不要与[MDNEP](/药物/MDNEP.md)混淆。
 

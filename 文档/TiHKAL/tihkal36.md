@@ -1,7 +1,7 @@
 
 # 36. [5-MEO-DET](/药物/5-MEO-DET.md)
 
-[上一个](/文档/TiHKAL/tihkal35.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal37.md)
+[上一个](/文档/TiHKAL/tihkal35.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal37.md)
 
 **N,N-二乙基-5-甲氧基色胺；5-甲氧基-3-[2-(二乙基氨基)乙基]吲哚；N,N-二乙基-5-甲氧基色胺；3-[2-(二乙基氨基)乙基]-5-甲氧基吲哚**
 
@@ -75,4 +75,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal35.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal37.md)
+[上一个](/文档/TiHKAL/tihkal35.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal37.md)

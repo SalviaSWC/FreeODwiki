@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal091.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal093.md)
+[上一个](/文档/PiHKAL/pihkal091.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal093.md)
 
 # 92 [IP](/药物/IP.md)
 ----
@@ -29,4 +29,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal091.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal093.md)
+[上一个](/文档/PiHKAL/pihkal091.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal093.md)

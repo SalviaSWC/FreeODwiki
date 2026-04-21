@@ -1,6 +1,6 @@
 
 # 52.[PYR-T](/药物/PYR-T.md)
-[上一个](/文档/TiHKAL/tihkal51.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal53.md)
+[上一个](/文档/TiHKAL/tihkal51.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal53.md)
 
 **色胺，N,N-四亚甲基；吲哚，3-[2-(1-吡咯烷基)乙基]；吡咯烷，1-[2-(3-吲哚基)乙基]；N,N-四亚甲基色胺；1-[2-(1H-吲哚-3-基)乙基]吡咯烷；1-[2-(1-吡咯烷基)乙基]吲哚；“吡咯烷基色胺”**
 
@@ -37,4 +37,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal51.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal53.md)
+[上一个](/文档/TiHKAL/tihkal51.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal53.md)

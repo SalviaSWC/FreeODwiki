@@ -1,6 +1,6 @@
 
 # 37 [CPM](/药物/CPM.md)
-[上一个](/文档/PiHKAL/pihkal036.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal038.md)
+[上一个](/文档/PiHKAL/pihkal036.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal038.md)
 
 **环丙基麦司卡林；4-环丙基甲氧基-3,5-二甲氧基苯乙胺 (CYCLOPROPYLMESCALINE; 4-CYCLOPROPYLMETHOXY-3,5-DIMETHOXYPHENETHYLAMINE)**
 
@@ -29,4 +29,4 @@
 
 CPM 的苯丙胺类似物应该很容易通过丁香醛与环丙基氯的烷基化，随后将所得醛与硝基乙烷进行常规反应，最后进行还原步骤制得。没有理由相信所得化合物 3,5-二甲氧基-4-环丙基氧基苯丙胺（3C-CPM）的药效时长会比 CPM 短。
 
-[上一个](/文档/PiHKAL/pihkal036.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal038.md)
+[上一个](/文档/PiHKAL/pihkal036.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal038.md)

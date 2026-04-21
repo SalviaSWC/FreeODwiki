@@ -1,7 +1,7 @@
 
 # 28 [2C-G-3](/药物/2C-G-3.md)
 
-[上一个](/文档/PiHKAL/pihkal027.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal029.md)
+[上一个](/文档/PiHKAL/pihkal027.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal029.md)
 
 **2,5-二甲氧基-3,4-(三亚甲基)苯乙胺; 5-(2-氨基乙基)-4,7-二甲氧基茚满**
 

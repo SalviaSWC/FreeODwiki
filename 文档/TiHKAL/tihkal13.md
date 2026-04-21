@@ -1,5 +1,5 @@
 
-[上一个](/文档/TiHKAL/tihkal12.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal14.md)
+[上一个](/文档/TiHKAL/tihkal12.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal14.md)
 
 # 13.[HARMALINE](/药物/HARMALINE.md)
 **β-咔啉，3,4-二氢-7-甲氧基-1-甲基；3,4-二氢-7-甲氧基-1-甲基-β-咔啉；3,4-二氢危害明；7-甲氧基哈马兰；哈马定**
@@ -139,4 +139,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal12.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal14.md)
+[上一个](/文档/TiHKAL/tihkal12.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal14.md)

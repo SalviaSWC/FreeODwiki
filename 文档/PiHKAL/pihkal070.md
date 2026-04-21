@@ -1,6 +1,6 @@
 
 # 70 [DON](/药物/DON.md)
-[上一个](/文档/PiHKAL/pihkal069.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal071.md)
+[上一个](/文档/PiHKAL/pihkal069.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal071.md)
 
 **2,5-二甲氧基-4-硝基苯丙胺**
 
@@ -21,4 +21,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal069.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal071.md)
+[上一个](/文档/PiHKAL/pihkal069.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal071.md)

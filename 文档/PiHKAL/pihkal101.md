@@ -1,7 +1,7 @@
 
 # 101 [MDAL](/药物/MDAL.md)
 
-[上一个](/文档/PiHKAL/pihkal100.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal102.md)
+[上一个](/文档/PiHKAL/pihkal100.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal102.md)
 
 **N-ALLYL-MDA; 3,4-METHYLENEDIOXY-N-ALLYLAMPHETAMINE; N-烯丙基-MDA；3,4-亚甲二氧基-N-烯丙基苯丙胺**
 
@@ -20,4 +20,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal100.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal102.md)
+[上一个](/文档/PiHKAL/pihkal100.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal102.md)

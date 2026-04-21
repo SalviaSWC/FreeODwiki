@@ -1,6 +1,6 @@
 
 # 44.[6-MEO-THH](/药物/6-MEO-THH.md)
-[上一个](/文档/TiHKAL/tihkal43.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal45.md)
+[上一个](/文档/TiHKAL/tihkal43.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal45.md)
 
 **6-甲氧基-1,2,3,4-四氢哈曼；b-咔啉, 6-甲氧基-1-甲基-1,2,3,4-四氢；6-甲氧基-1,2,3,4-四氢哈曼；10-甲氧基-3,4,5,6-四氢哈曼；6-甲氧基-1-甲基-1,2,3,4-四氢-b-咔啉；1-甲基松脂啉；肾上腺肾小球营养素；醛固酮刺激激素；麦克艾萨克化合物**
 
@@ -63,4 +63,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal43.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal45.md)
+[上一个](/文档/TiHKAL/tihkal43.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal45.md)

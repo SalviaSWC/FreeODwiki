@@ -51,9 +51,9 @@ $支持内嵌\TeX$
 超链接 `[文本](链接/目录 “说明文本(可选)”)`  
 [freeodwiki.org](https://freeodwiki.org/)  
 
-相对路径，以home.md为例:[`(./home.md)`](./home.md)
+相对路径，以index.md为例:[`(index.md)`](index.md)
 
-相对路径，进入上一层目录(无法在`CONTRIBUTING.md`中举例):    [`(../home.md)`](../home.md) *该语法可叠加，可以返回多层目录以前*
+相对路径，进入上一层目录(无法在`CONTRIBUTING.md`中举例):    [`(../index.md)`](../index.md) *该语法可叠加，可以返回多层目录以前*
 
 <sup>上标</sup> `<sup>上标</sup>`   
 

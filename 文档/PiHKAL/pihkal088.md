@@ -1,6 +1,6 @@
 
 # 88 [HOT-7](/药物/HOT-7.md)
-[上一个](/文档/PiHKAL/pihkal087.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal089.md)
+[上一个](/文档/PiHKAL/pihkal087.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal089.md)
 
 **2,5-二甲氧基-N-羟基-4-(正)-丙硫基苯乙胺**
 
@@ -31,4 +31,4 @@ HOT-7 与 2C-T-7 相比如何？它们几乎完全相同。剂量范围相同（
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal087.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal089.md)
+[上一个](/文档/PiHKAL/pihkal087.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal089.md)

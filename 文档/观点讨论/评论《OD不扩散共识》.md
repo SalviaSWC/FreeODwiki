@@ -1,6 +1,6 @@
 # 评论《OD不扩散共识》
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 作者：[鼠尾草](https://x.com/salviaswc)
 

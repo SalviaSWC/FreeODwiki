@@ -1,6 +1,6 @@
 # OD社群方法论盘点
 
-[⬅返回](./home.md)
+[⬅返回](index.md)
 
 | ![](/文件/Yellow-warning-sign1.png) | <font color="red"> 本文属涉OD史文档。为防止本文档被别有用心的人利用，本文档及其所有历史版本采用CC BY-ND 4.0 即 CC 署名—禁止演绎 4.0 协议国际版许可，侵权必究，敬请谅解。详见[这里](/LICENSE-OD) </font>|
 | --- | --- |

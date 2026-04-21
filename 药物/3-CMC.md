@@ -1,6 +1,6 @@
 
 3-CMC
-[◀返回](./home.md)
+[◀返回](index.md)
 
 | ![Skull_and_crossbones_darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png) | **3-CMC 呢，有可能导致严重伤害和死亡哦。** |
 | --- | --- |

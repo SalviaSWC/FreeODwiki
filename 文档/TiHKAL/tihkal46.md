@@ -1,6 +1,6 @@
 
 # 46.[5-MES-DMT](/药物/5-MES-DMT.md)
-[上一个](/文档/TiHKAL/tihkal45.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal47.md)
+[上一个](/文档/TiHKAL/tihkal45.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal47.md)
 
 **色胺, N,N-二甲基-5-甲硫基；吲哚, 3-[2-(二甲氨基)乙基]-5-甲硫基；N,N-二甲基-5-甲硫基色胺；3-[2-(二甲氨基)乙基]-5-甲硫基吲哚**
 
@@ -29,4 +29,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal45.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal47.md)
+[上一个](/文档/TiHKAL/tihkal45.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal47.md)

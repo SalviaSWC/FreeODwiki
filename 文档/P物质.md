@@ -1,7 +1,7 @@
 
 # P物质
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 | [![Substance_P.png](/文件/Substance_P.png)](/文件/Substance_P.png) |
 | :---: |

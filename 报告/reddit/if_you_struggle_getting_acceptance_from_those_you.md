@@ -1,6 +1,6 @@
 # 如果你努力尝试想要从你关心的人那里得到对你服用药物的认可上，请读一下本文
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/7ntdtr/if_you_struggle_getting_acceptance_from_those_you/](https://www.reddit.com/r/Drugs/comments/7ntdtr/if_you_struggle_getting_acceptance_from_those_you/)
 

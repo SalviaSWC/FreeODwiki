@@ -4,7 +4,7 @@
 **2,5-DIMETHOXY-4-(n)-PROPOXYAMPHETAMINE (2,5-二甲氧基-4-(n)-丙氧基苯丙胺)**
 
 
-[上一个](/文档/PiHKAL/pihkal137.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal139.md)
+[上一个](/文档/PiHKAL/pihkal137.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal139.md)
 
 | ![](images/pihkal138.gif) |
 | --- |
@@ -35,4 +35,4 @@
 
 至于 MAM 的制备，使用了完全相同的顺序，只是使用了正溴戊烷。苯甲醛从甲醇中结晶，熔点为 79-80 °C，并形成亮黄色的丙二腈衍生物，熔点为 103-104 °C。硝基苯乙烯纯品熔点为 57-58.5 °C，但证明很难与醛分离。最终产物 4-(n)-戊基-2,5-二甲氧基苯丙胺盐酸盐 (MAM) 通过在乙醚中用氢化铝锂还原获得，熔点为 125-127 °C。在高达 16 毫克的剂量下进行了测定，在这个水平下，在 2 小时点注意到胸部和头部有沉重感，但没有心血管紊乱和散瞳。这被称为无效水平，尚未尝试更高的水平。
 
-[上一个](/文档/PiHKAL/pihkal137.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal139.md)
+[上一个](/文档/PiHKAL/pihkal137.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal139.md)

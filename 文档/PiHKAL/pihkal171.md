@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal170.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal172.md)
+[上一个](/文档/PiHKAL/pihkal170.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal172.md)
 
 
 # 171 [2-TOM](/文档/PiHKAL/pihkal171.md)
@@ -36,4 +36,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal170.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal172.md)
+[上一个](/文档/PiHKAL/pihkal170.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal172.md)

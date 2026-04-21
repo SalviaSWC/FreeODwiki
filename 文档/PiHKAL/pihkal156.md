@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal155.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal157.md)
+[上一个](/文档/PiHKAL/pihkal155.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal157.md)
 
 # 156 TM
 
@@ -53,4 +53,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal155.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal157.md)
+[上一个](/文档/PiHKAL/pihkal155.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal157.md)

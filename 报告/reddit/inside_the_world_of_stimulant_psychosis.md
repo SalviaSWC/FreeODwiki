@@ -6,9 +6,9 @@ description:
 # 走进兴奋剂精神病的世界
 
 
-[◀返回报告](../home.md)
+[◀返回报告](../index.md)
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/3h6d28/inside_the_world_of_stimulant_psychosis/](https://www.reddit.com/r/Drugs/comments/3h6d28/inside_the_world_of_stimulant_psychosis/)

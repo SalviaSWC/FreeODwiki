@@ -1,7 +1,7 @@
 
 # 179  [4-T-TRIS](/药物/4-T-TRIS.md)
 
-[上一个](/文档/PiHKAL/pihkal178.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal_glossary.md)
+[上一个](/文档/PiHKAL/pihkal178.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal_glossary.md)
 
 **4-硫代崔斯卡林；4-硫代三斯卡林；3,5-二乙氧基-4-乙硫基苯乙胺**
 
@@ -28,4 +28,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal178.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal_glossary.md)
+[上一个](/文档/PiHKAL/pihkal178.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal_glossary.md)

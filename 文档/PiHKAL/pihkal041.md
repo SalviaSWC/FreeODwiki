@@ -1,6 +1,6 @@
 
 # 41 [2C-T-4](/药物/2C-T-4.md)
-[上一个](/文档/PiHKAL/pihkal040.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal042.md)
+[上一个](/文档/PiHKAL/pihkal040.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal042.md)
 
 **2,5-二甲氧基-4-(i)-丙基硫基苯乙胺 (2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE)**
 
@@ -35,4 +35,4 @@
 
 我听到有人将 2C-T-4 称为 T-4。恐怖分子使用的一种强效炸药叫环三亚甲基三硝胺，代号为 RDX 或 T-4。还有一个 T-4 术语是指甲状腺素，一种体内的氨基酸。我很高兴地说，药物 2C-T-4 既不是炸药也不是氨基酸。
 
-[上一个](/文档/PiHKAL/pihkal040.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal042.md)
+[上一个](/文档/PiHKAL/pihkal040.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal042.md)

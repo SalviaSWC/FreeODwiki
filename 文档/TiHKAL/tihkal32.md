@@ -1,7 +1,7 @@
 
 # 32.[5,6-MDO-MIPT](/药物/5,6-MDO-MIPT.md)
 
-[上一个](/文档/TiHKAL/tihkal31.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal33.md)
+[上一个](/文档/TiHKAL/tihkal31.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal33.md)
 
 **N-异丙基-N-甲基-5,6-亚甲二氧基色胺；吲哚，3-[2-(异丙基甲基氨基)乙基]-5,6-亚甲二氧基；N-异丙基-N-甲基-5,6-亚甲二氧基色胺；3-[2-(异丙基甲基氨基)乙基]-5,6-亚甲二氧基吲哚；5H-1,3-二氧杂环戊并-[4,5-F]吲哚-7-乙胺，N-甲基-N-异丙基**
 
@@ -44,4 +44,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal31.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal33.md)
+[上一个](/文档/TiHKAL/tihkal31.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal33.md)

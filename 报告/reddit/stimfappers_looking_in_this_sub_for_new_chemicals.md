@@ -1,6 +1,6 @@
 # 兴奋剂自慰成瘾者在这个版块寻找新化学物质来进行有目的的兴奋剂自慰——这是你最后的警告
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/1s0q5kh/stimfappers_looking_in_this_sub_for_new_chemicals/](https://www.reddit.com/r/Drugs/comments/1s0q5kh/stimfappers_looking_in_this_sub_for_new_chemicals/)
 

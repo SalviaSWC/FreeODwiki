@@ -1,7 +1,7 @@
 
 # 38. [5-MEO-DMT](/药物/5-MEO-DMT.md)
 
-[上一个](/文档/TiHKAL/tihkal37.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal39.md)
+[上一个](/文档/TiHKAL/tihkal37.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal39.md)
 
 **5-甲氧基-N,N-二甲基色胺；5-甲氧基-3-[2-(二甲基氨基)乙基]吲哚；5-甲氧基-N,N-二甲基色胺；5-甲氧基-3-[2-(二甲基氨基)乙基]吲哚；N,N,O-三甲基血清素；N,N,O-TMS；蟾毒色胺甲醚；O-甲基蟾毒色胺；OMB**
 
@@ -72,4 +72,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal37.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal39.md)
+[上一个](/文档/TiHKAL/tihkal37.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal39.md)

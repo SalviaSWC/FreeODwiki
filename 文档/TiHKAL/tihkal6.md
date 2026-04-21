@@ -1,6 +1,6 @@
 
 # 6.[DMT](/药物/DMT.md)
-[上一个](/文档/TiHKAL/tihkal5.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal7.md)
+[上一个](/文档/TiHKAL/tihkal5.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal7.md)
 
 **色胺, N,N-二甲基；吲哚, 3-[2-(二甲基氨基)乙基]；N,N-二甲基色胺；3-[2-(二甲基氨基)乙基]吲哚；脱氧蟾毒色胺；尼日利亚碱**
 
@@ -101,4 +101,4 @@ N-羟基和 2-羟基类似物 NMT 都存在于另一种豆科植物 *Desmanthus 
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal5.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal7.md)
+[上一个](/文档/TiHKAL/tihkal5.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal7.md)

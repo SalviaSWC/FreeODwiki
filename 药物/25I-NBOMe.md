@@ -6,7 +6,7 @@ description:
 
 # 25I-NBOMe
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 <div align="center">
     <img src="../文件/25I-NBOMe.png" width="300" alt="25I-NBOMe结构式">

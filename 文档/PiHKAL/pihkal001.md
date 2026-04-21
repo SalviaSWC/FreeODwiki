@@ -3,7 +3,7 @@
 ------
 **α-乙基麦斯卡林；2-氨基-1-(3,4,5-三甲氧基苯基)丁烷；1-(3,4,5-三甲氧基苯基)-2-氨基丁烷**
 
-[返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal002.md)
+[返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal002.md)
 
 | ![](/文档/PiHKAL/pihkal01.gif) |
 | --- |
@@ -35,4 +35,4 @@
 
 \* S 代表 septyl（庚基），以区别于 heptyl（也是庚基，此处为了避免首字母H与Hexyl混淆）。 \*\*从未制造，因为找不到壬基溴来制造所需的硝基壬烷。 \*\*\*当确定 AEM 无活性时，合成进行到了硝基苯乙烯阶段，随后项目被放弃。
 
-[返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal002.md)
+[返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal002.md)

@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal149.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal151.md)
+[上一个](/文档/PiHKAL/pihkal149.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal151.md)
 
 # 150 3-TE
 
@@ -57,4 +57,4 @@ Thioescaline 3-TE "x0.3"
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal149.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal151.md)
+[上一个](/文档/PiHKAL/pihkal149.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal151.md)

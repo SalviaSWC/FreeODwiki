@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal014.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal016.md)
+[上一个](/文档/PiHKAL/pihkal014.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal016.md)
 
 # 15. BOH
 
@@ -29,4 +29,4 @@
 
 不知何故，内心深处有个安静的声音说，不要用太多，太快。也许其中一种光学异构体是身体层面的，另一种异构体是精神层面的。据我所知，到目前为止，只尝试过外消旋混合物。
 
-[上一个](/文档/PiHKAL/pihkal014.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal016.md)
+[上一个](/文档/PiHKAL/pihkal014.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal016.md)

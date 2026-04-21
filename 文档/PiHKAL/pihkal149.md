@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal148.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal150.md)
+[上一个](/文档/PiHKAL/pihkal148.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal150.md)
 
 # 149 TB
 
@@ -41,4 +41,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal148.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal150.md)
+[上一个](/文档/PiHKAL/pihkal148.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal150.md)

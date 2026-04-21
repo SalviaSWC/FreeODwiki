@@ -1,7 +1,7 @@
 
 # 139 [ORTHO-DOT](/药物/ORTHO-DOT.md)
 
-[上一个](/文档/PiHKAL/pihkal138.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal140.md)
+[上一个](/文档/PiHKAL/pihkal138.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal140.md)
 
 **4,5-DIMETHOXY-2-METHYLTHIOAMPHETAMINE (4,5-二甲氧基-2-甲硫基苯丙胺)**
 
@@ -28,4 +28,4 @@
 
 **延伸和评论：** 这种材料，ORTHO-DOT，可以看作是 TMA-2 的硫同系物，硫原子位于分子 2-位氧原子的位置。这种化合物在什么水平可能显示活性完全未知，但无论在哪里，其剂量都大于 PARA-DOT 异构体 ALEPH-1（或 ALEPH），后者在 10 毫克时完全有效（ALEPH 可以看作是 TMA-2 的硫原子位于分子 4-位氧原子的位置）。基于这种结构很容易制造很多变体，但何必呢？ALEPH 是更具吸引力的结构操作候选者。
 
-[上一个](/文档/PiHKAL/pihkal138.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal140.md)
+[上一个](/文档/PiHKAL/pihkal138.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal140.md)

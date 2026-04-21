@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal024.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal026.md)
+[上一个](/文档/PiHKAL/pihkal024.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal026.md)
 
 # 25 [3C-E](/药物/3C-E.md)
 
@@ -26,4 +26,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal024.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal026.md)
+[上一个](/文档/PiHKAL/pihkal024.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal026.md)

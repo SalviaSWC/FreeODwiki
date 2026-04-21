@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal016.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal018.md)
+[上一个](/文档/PiHKAL/pihkal016.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal018.md)
 
 # 17. BOM
 
@@ -21,4 +21,4 @@
 
 同样，化合物的名称（BOM）来自该家族的RBO-S前缀（来自benzyl + oxy），加上麦司卡林的RMS（它提供了环取代模式）。
 
-[上一个](/文档/PiHKAL/pihkal016.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal018.md)
+[上一个](/文档/PiHKAL/pihkal016.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal018.md)

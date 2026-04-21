@@ -1,6 +1,6 @@
 
 # 52 [DESOXY](/药物/DESOXY.md)
-[上一个](/文档/PiHKAL/pihkal051.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal053.md)
+[上一个](/文档/PiHKAL/pihkal051.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal053.md)
 
 --------
 **3,5\-DIMETHOXY\-4\-METHYLPHENETHYLAMINE**
@@ -37,4 +37,4 @@
 
 用溴原子代替 4\-甲氧基的麦司卡林类似物正是麦司卡林的类似物，就像 DOB (一种非常有效的苯丙胺) 是 TMA\-2 (最初的三取代苯丙胺) 的类似物一样。这种类似物，3,5\-二甲氧基\-4\-溴苯丙胺，已被发现是一种最有效的血清素激动剂，它有可能成为一种最有效的苯乙胺。但是，截至目前，它从未在人体中进行过测定。
 
-[上一个](/文档/PiHKAL/pihkal051.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal053.md)
+[上一个](/文档/PiHKAL/pihkal051.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal053.md)

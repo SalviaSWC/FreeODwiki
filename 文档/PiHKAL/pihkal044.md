@@ -1,6 +1,6 @@
 
 # 44 [2C-T-8](/药物/2C-T-8.md)
-[上一个](/文档/PiHKAL/pihkal043.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal045.md)
+[上一个](/文档/PiHKAL/pihkal043.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal045.md)
 
 **2,5-二甲氧基-4-环丙基甲基硫基苯乙胺 (2,5-DIMETHOXY-4-CYCLOPROPYLMETHYLTHIOPHENETHYLAMINE)**
 
@@ -31,4 +31,4 @@
 
 **延伸和评论：** 对于 2C-T-8，消极因素和积极因素一样多，而且这种特定的取代模式并不会引起轰动。迈出了合成 3 碳对应物 2,5-二甲氧基-4-环丙基甲基硫基苯丙胺（ALEPH-8）的第一步。将上述苯甲醛（2.2 g）在含有乙酸铵（0.4 g）的硝基乙烷（20 mL）中在蒸汽浴上煮过夜，除去溶剂后，残留物通过加入少量甲醇转化为橙色晶体。这没有进一步进行。虽然环丙基甲基在麦司卡林氧原子上相当不错，但在 2C-T-X 硫原子上吸引力较小，将其放入 ALEPH 的热情甚至更低。就是这样，谁能猜到呢！
 
-[上一个](/文档/PiHKAL/pihkal043.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal045.md)
+[上一个](/文档/PiHKAL/pihkal043.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal045.md)

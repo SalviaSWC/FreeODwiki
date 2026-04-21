@@ -1,7 +1,7 @@
 
 # 32 [2C-H](/药物/2C-H.md)
 
-[上一个](/文档/PiHKAL/pihkal031.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal033.md)
+[上一个](/文档/PiHKAL/pihkal031.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal033.md)
 
 **2,5-二甲氧基苯乙胺**
 
@@ -22,4 +22,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal031.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal033.md)
+[上一个](/文档/PiHKAL/pihkal031.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal033.md)

@@ -1,7 +1,7 @@
 
 # 35 [2C-O-4](/药物/2C-O-4.md)
 
-[上一个](/文档/PiHKAL/pihkal034.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal036.md)
+[上一个](/文档/PiHKAL/pihkal034.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal036.md)
 
 **2,5-二甲氧基-4-(异)-丙氧基苯乙胺**
 
@@ -36,4 +36,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal034.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal036.md)
+[上一个](/文档/PiHKAL/pihkal034.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal036.md)

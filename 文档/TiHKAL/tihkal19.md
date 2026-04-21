@@ -1,7 +1,7 @@
 
 # 20.[4-HO-DPT](/药物/4-HO-DPT.md)
 
-[上一个](/文档/TiHKAL/tihkal19.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal21.md)
+[上一个](/文档/TiHKAL/tihkal19.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal21.md)
 
 **色胺，4-羟基-N,N-二丙基；4-吲哚酚，3-[2-(二丙基氨基)乙基]；4-羟基-N,N-二丙基色胺；3-[2-(二丙基氨基)乙基]-4-吲哚酚**
 
@@ -22,4 +22,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal19.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal21.md)
+[上一个](/文档/TiHKAL/tihkal19.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal21.md)

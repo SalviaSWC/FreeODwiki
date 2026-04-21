@@ -6,9 +6,9 @@ description:
 # 8 小时的兴奋剂手冲、伪娘肛交拳交、ChatGPT，还有一个屌丝男的精神崩溃  
 
 
-[◀返回报告](../home.md)
+[◀返回报告](../index.md)
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 
 原文网址：[https://www.reddit.com/r/Stims/comments/1j5io6z/8_hours_of_stimfapping_femboy_anal_fisting/](https://www.reddit.com/r/Stims/comments/1j5io6z/8_hours_of_stimfapping_femboy_anal_fisting/)

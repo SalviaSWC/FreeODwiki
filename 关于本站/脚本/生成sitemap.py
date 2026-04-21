@@ -40,7 +40,7 @@ def generate_sitemap(root_dir, base_url):
                 path_no_ext = rel_path
                 base_name = os.path.basename(path_no_ext).lower()
 
-                # 处理首页：home.md / index.md / readme.md → 目录形式
+                # 处理首页：index.md / index.md / readme.md → 目录形式
                 is_root_home = (rel_dir == '' and base_name in ('home', 'index', 'readme'))
                 is_sub_home = (base_name in ('home', 'index', 'readme'))
 
@@ -143,9 +143,9 @@ if __name__ == "__main__":
 
     tk.Button(root, text="开始生成 sitemap.xml", bg="#2196F3", fg="white", font=("Segoe UI", 12, "bold"), height=2, command=start_generate).pack(pady=20)
 
-    tk.Label(root, text="提示：自动处理 home.md → 目录形式\n"
-                        "根目录的 README.md/home.md：daily + 1.0\n"
-                        "子目录的 home.md：weekly + 0.9\n"
+    tk.Label(root, text="提示：自动处理 index.md → 目录形式\n"
+                        "根目录的 README.md/index.md：daily + 1.0\n"
+                        "子目录的 index.md：weekly + 0.9\n"
                         "其他页面：weekly + 0.8\n"
                         "生成后请手动检查 sitemap.xml", foreground="gray").pack()
 

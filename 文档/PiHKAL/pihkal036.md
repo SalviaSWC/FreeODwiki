@@ -1,6 +1,6 @@
 
 # 36 [2C-P](/药物/2C-P.md)
-[上一个](/文档/PiHKAL/pihkal035.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal037.md)
+[上一个](/文档/PiHKAL/pihkal035.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal037.md)
 
 **2,5-二甲氧基-4-(n)-丙基苯乙胺 (2,5-DIMETHOXY-4-(n)-PROPYLPHENETHYLAMINE)**
 
@@ -31,4 +31,4 @@
 
 **延伸和评论：** 关于 2C-P 的体验肯定有很大的差异，但总体而言，好评多于差评。有一份报告称，单次 16 mg 的剂量明显过量，整个实验被标记为身体灾难，不可重复。一个一致的观察结果是，在适度或足够的剂量与过量的剂量之间可能没有太大的回旋余地。对于这种化合物，个体滴定将是最重要的。
 
-[上一个](/文档/PiHKAL/pihkal035.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal037.md)
+[上一个](/文档/PiHKAL/pihkal035.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal037.md)

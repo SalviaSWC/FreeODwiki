@@ -1,6 +1,6 @@
 #  OD宣言（手稿）
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 ##  FREEODWIKI  
 

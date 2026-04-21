@@ -2,7 +2,7 @@
 # 58 [DMMDA](/药物/DMMDA.md)
 
 
-[上一个](/文档/PiHKAL/pihkal057.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal059.md)
+[上一个](/文档/PiHKAL/pihkal057.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal059.md)
 
 -------
 **2,5\-DIMETHOXY\-3,4\-METHYLENEDIOXYAMPHETAMINE**
@@ -41,4 +41,4 @@
 
 唯一一种被化学探索过的活性物质的 β\-甲基同系物与 MDA 有关。将酮 (3,4\-胡椒基丙酮，见 MDMA) 用异丙醇钠和碘甲烷甲基化，得到结晶肟。用锌粉还原得到看似 2\-氨基\-3\-(3,4\-亚甲二氧基苯基)丁烷盐酸盐的物质，但存在足够的不确定性 (可能的二甲基化，仅分离出一种肟，需要强还原条件)，导致整个项目处于并且仍处于无限期搁置状态。DOM 的类似同系物是两位经典女士，DAPHNE 和 ELVIRA，她们也是未来的某个时候的事了。
 
-[上一个](/文档/PiHKAL/pihkal057.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal059.md)
+[上一个](/文档/PiHKAL/pihkal057.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal059.md)

@@ -2,7 +2,7 @@
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/1e5do4u/salvia_trip_report_lived_15_years_as_a_ceiling/](https://www.reddit.com/r/Drugs/comments/1e5do4u/salvia_trip_report_lived_15_years_as_a_ceiling/)
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 我独自躺在床上，在水烟壶里吸了一口鼠尾草，屏住呼吸15秒。那次迷幻体验持续了27分钟，但感觉像真实的15年 。我经历了每一秒、每一分钟、每一小时、每天、每个月、每一年，毫无间断。每晚我都睡不着，因为我成了一个 物体，所以只能在夜里等着他们醒来。我仍然记得这次经历，仿佛就发生在昨天，记得每一个部分。
 

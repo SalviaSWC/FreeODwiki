@@ -1,6 +1,6 @@
 
 # 24. [4-HO-PYR-T](/药物/4-HO-PYR-T.md)
-[上一个](/文档/TiHKAL/tihkal23.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal25.md)
+[上一个](/文档/TiHKAL/tihkal23.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal25.md)
 
 **色胺，4-羟基-N,N-四亚甲基；4-吲哚酚，3-[2-(1-吡咯烷基)乙基]；吡咯烷，1-[2-[3-(4-羟基)吲哚基]乙基]；4-羟基-N,N-四亚甲基色胺；3-[2-(1-吡咯烷基)乙基]-4-吲哚酚；1-[2-[3-(4-羟基)吲哚基]乙基]吡咯烷；“4-羟基吡咯烷基吲哚”**
 
@@ -21,4 +21,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal23.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal25.md)
+[上一个](/文档/TiHKAL/tihkal23.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal25.md)

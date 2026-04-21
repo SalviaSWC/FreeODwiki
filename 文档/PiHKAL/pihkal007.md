@@ -3,7 +3,7 @@
 ---------
 **2,5-二甲氧基-4-正丙基硫基苯丙胺**
 
-[上一个](/文档/PiHKAL/pihkal006.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal008.md)
+[上一个](/文档/PiHKAL/pihkal006.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal008.md)
 
 | ![](/文档/PiHKAL/pihkal07.gif) |
 | --- |
@@ -34,4 +34,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal006.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal008.md)
+[上一个](/文档/PiHKAL/pihkal006.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal008.md)

@@ -1,7 +1,7 @@
 
 # 94 [J](/药物/J.md)
 
-[上一个](/文档/PiHKAL/pihkal093.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal095.md)
+[上一个](/文档/PiHKAL/pihkal093.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal095.md)
 
 **BDB; 2-AMINO-1-(3,4-METHYLENEDIOXYPHENYL)BUTANE; 1-(1,3-BENZODIOXOL-5-YL)-2-BUTANAMINE; BDB；2-氨基-1-(3,4-亚甲二氧基苯基)丁烷；1-(1,3-苯并二氧杂环戊烯-5-基)-2-丁胺**
 
@@ -38,4 +38,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal093.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal095.md)
+[上一个](/文档/PiHKAL/pihkal093.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal095.md)

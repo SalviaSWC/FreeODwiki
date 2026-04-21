@@ -1,6 +1,6 @@
 # 25D-NBOMe
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 | | |
 | --- | --- |
@@ -194,7 +194,7 @@
 
 ### 体验报告
 
-目前在我们的[体验索引](/报告/psychounautwiki/home.md)中没有描述该化合物效应的轶事报告喵。其他的体验报告可以在这里找到：
+目前在我们的[体验索引](/报告/psychounautwiki/index.md)中没有描述该化合物效应的轶事报告喵。其他的体验报告可以在这里找到：
 * [Erowid 体验库：25D-NBOMe](https://www.erowid.org/experiences/subs/exp_25DNBOMe.shtml)
 
 ## 毒性与伤害潜力

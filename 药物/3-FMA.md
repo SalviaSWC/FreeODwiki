@@ -1,6 +1,6 @@
 # 3-FMA
 
-[◀返回](/home.md)
+[◀返回](index.md)
 
 
 

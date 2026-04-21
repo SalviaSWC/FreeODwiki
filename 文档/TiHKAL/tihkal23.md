@@ -1,6 +1,6 @@
 
 # 23.[4-HO-MPT](/药物/4-HO-MPT.md)
-[上一个](/文档/TiHKAL/tihkal22.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal24.md)
+[上一个](/文档/TiHKAL/tihkal22.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal24.md)
 
 **色胺，4-羟基-N-甲基-N-丙基；4-吲哚醇，3-[2-(甲基丙基氨基)乙基]；4-羟基-N-甲基-N-丙基色胺；3-[2-(甲基丙基氨基)乙基]-4-吲哚醇**
 
@@ -25,4 +25,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal22.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal24.md)
+[上一个](/文档/TiHKAL/tihkal22.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal24.md)

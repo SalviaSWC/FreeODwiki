@@ -1,7 +1,7 @@
 
 # 95 [LOPHOPHINE](/药物/LOPHOPHINE.md)
 
-[上一个](/文档/PiHKAL/pihkal094.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal096.md)
+[上一个](/文档/PiHKAL/pihkal094.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal096.md)
 
 **3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE; 3-甲氧基-4,5-亚甲二氧基苯乙胺**
 
@@ -28,4 +28,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal094.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal096.md)
+[上一个](/文档/PiHKAL/pihkal094.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal096.md)

@@ -5,7 +5,7 @@ description:
 
 # N-苄基苯乙胺类物质
 
-[◀返回](/文档/药物分类/home.md)
+[◀返回](/文档/药物分类/index.md)
 
 </mark> 不错
 

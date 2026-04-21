@@ -1,7 +1,7 @@
 
 # 7.[2,a-DMT](/药物/2,a-DMT.md)
 
-[上一个](/文档/TiHKAL/tihkal6.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal8.md)
+[上一个](/文档/TiHKAL/tihkal6.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal8.md)
 
 **色胺，2,a-二甲基；吲哚，2-甲基-3-(2-氨基)丙烷；2-a-二甲基色胺；2-甲基-3-(2-氨基)丙基吲哚；2-Me-a-MT**
 
@@ -30,4 +30,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal6.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal8.md)
+[上一个](/文档/TiHKAL/tihkal6.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal8.md)

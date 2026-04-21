@@ -1,6 +1,6 @@
 # 噻奈普汀成瘾
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/30gt8v/tianeptine_addiction/](https://www.reddit.com/r/Drugs/comments/30gt8v/tianeptine_addiction/)
 

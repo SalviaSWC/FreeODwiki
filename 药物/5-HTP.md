@@ -5,7 +5,7 @@ description:
 
 # 5-羟基色氨酸
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 
 

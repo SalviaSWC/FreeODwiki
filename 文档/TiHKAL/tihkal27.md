@@ -1,7 +1,7 @@
 
 # 27.[MBT](/药物/MBT.md)
 
-[上一个](/文档/TiHKAL/tihkal26.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal28.md)
+[上一个](/文档/TiHKAL/tihkal26.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal28.md)
 
 **N-丁基-N-甲基色胺；吲哚，3-[2-(丁基甲基氨基)乙基]；N-丁基-N-甲基色胺；3-[2-(丁基甲基氨基)乙基]-吲哚**
 
@@ -30,4 +30,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal26.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal28.md)
+[上一个](/文档/TiHKAL/tihkal26.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal28.md)

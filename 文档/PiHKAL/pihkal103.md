@@ -1,7 +1,7 @@
 
 # 103 [MDBZ](/药物/MDBZ.md)
 
-[上一个](/文档/PiHKAL/pihkal102.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal104.md)
+[上一个](/文档/PiHKAL/pihkal102.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal104.md)
 
 **N-BENZYL-MDA; 3,4-METHYLENEDIOXY-N-BENZYLAMPHETAMINE; N-苄基-MDA；3,4-亚甲二氧基-N-苄基苯丙胺**
 
@@ -26,4 +26,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal102.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal104.md)
+[上一个](/文档/PiHKAL/pihkal102.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal104.md)

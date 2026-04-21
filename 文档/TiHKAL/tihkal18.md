@@ -1,6 +1,6 @@
 
 # 18.[4-HO-DMT / 4-HO-DMT 磷酸酯](/药物/4-HO-DMT.md)
-[上一个](/文档/TiHKAL/tihkal17.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal19.md)
+[上一个](/文档/TiHKAL/tihkal17.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal19.md)
 
 **4-HO-DMT；色胺，4-羟基-N,N-二甲基；4-吲哚酚，3-[2-(二甲胺基)乙基]；N,N-二甲基-4-羟基色胺；3-[2-(二甲胺基)乙基]-4-吲哚酚；CX-59；PSOH；赛洛新**
 
@@ -61,4 +61,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal17.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal19.md)
+[上一个](/文档/TiHKAL/tihkal17.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal19.md)

@@ -1,6 +1,6 @@
 
 # 55.[a,N,O-TMS](/药物/a,N,O-TMS.md)
-[上一个](/文档/TiHKAL/tihkal54.md) [返回](/文档/TiHKAL/home.md) 
+[上一个](/文档/TiHKAL/tihkal54.md) [返回](/文档/TiHKAL/index.md) 
 
 **色胺，5-甲氧基-a,N-二甲基；吲哚，5-甲氧基-3-[2-(甲氨基)丙基]；5-甲氧基-a,N-二甲基色胺；5-甲氧基-3-[2-(甲氨基)丙基]吲哚；a,N,O-三甲基血清素；血清素，a,N,O-三甲基**
 
@@ -39,4 +39,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal54.md) [返回](/文档/TiHKAL/home.md)
+[上一个](/文档/TiHKAL/tihkal54.md) [返回](/文档/TiHKAL/index.md)

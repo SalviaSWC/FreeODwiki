@@ -1,6 +1,6 @@
 
 # 54.[TETRAHYDROHARMINE](/药物/TETRAHYDROHARMINE.md)
-[上一个](/文档/TiHKAL/tihkal53.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal55.md)
+[上一个](/文档/TiHKAL/tihkal53.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal55.md)
 
 **哈曼，7-甲氧基-1,2,3,4-四氢；哈明，1,2,3,4-四氢；b-咔啉，7-甲氧基-1-甲基-1,2,3,4-四氢；7-甲氧基-1,2,3,4-四氢哈曼；1,2,3,4-四氢哈明；7-甲氧基-1-甲基-1,2,3,4-四氢-b-咔啉；7-MEO-THH；LEPTAFLORINE**
 
@@ -25,4 +25,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal53.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal55.md)
+[上一个](/文档/TiHKAL/tihkal53.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal55.md)

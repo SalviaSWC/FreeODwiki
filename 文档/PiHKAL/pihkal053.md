@@ -1,7 +1,7 @@
 
 # 53 [2,4\-DMA](/药物/2,4-DMA.md)
 
-[上一个](/文档/PiHKAL/pihkal052.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal054.md)
+[上一个](/文档/PiHKAL/pihkal052.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal054.md)
 
 ----------
 **2,4\-DIMETHOXYAMPHETAMINE**
@@ -32,4 +32,4 @@
 
 在我看来，当一个研究项目的目标是避免活性而不是创造活性时，这有点适得其反。虽然这种化学反应完全令人着迷，并且可能产生世界上最好的正电子发射脑扫描诊断化合物，但我觉得它不太可能产生世界上最好的揭示洞察力、增强移情的迷幻药，所以这个研究方向从未完全吸引我。我转而去做别的事情了。
 
-[上一个](/文档/PiHKAL/pihkal052.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal054.md)
+[上一个](/文档/PiHKAL/pihkal052.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal054.md)

@@ -1,6 +1,6 @@
 
 # 23 [2C-D](/药物/2C-D.md)
-[上一个](/文档/PiHKAL/pihkal022.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal024.md)
+[上一个](/文档/PiHKAL/pihkal022.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal024.md)
 
 -------
 **LE-25; 2,5-二甲氧基-4-甲苯乙胺**
@@ -54,4 +54,4 @@
 
 <br>
 
-[上一个](/文档/PiHKAL/pihkal022.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal024.md)
+[上一个](/文档/PiHKAL/pihkal022.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal024.md)

@@ -1,7 +1,7 @@
 
 # 177  [4-TSB](/药物/4-TSB.md)
 
-[上一个](/文档/PiHKAL/pihkal176.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal178.md)
+[上一个](/文档/PiHKAL/pihkal176.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal178.md)
 
 **4-硫代合贝斯卡林；3,5-二乙氧基-4-甲硫基苯乙胺**
 
@@ -30,4 +30,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal176.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal178.md)
+[上一个](/文档/PiHKAL/pihkal176.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal178.md)

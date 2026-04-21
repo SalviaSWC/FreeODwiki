@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal116.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal118.md)
+[上一个](/文档/PiHKAL/pihkal116.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal118.md)
 
 # 117 [MDPL](/药物/MDPL.md)
 
@@ -18,4 +18,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal116.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal118.md)
+[上一个](/文档/PiHKAL/pihkal116.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal118.md)

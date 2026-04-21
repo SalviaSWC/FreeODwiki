@@ -1,6 +1,6 @@
 
 # 132 [MMDA](/药物/MMDA.md)
-[上一个](/文档/PiHKAL/pihkal131.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal133.md)
+[上一个](/文档/PiHKAL/pihkal131.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal133.md)
 
 **3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE (3-甲氧基-4,5-亚甲二氧基苯丙胺)**
 
@@ -47,4 +47,4 @@
 
 当 FDA 发布危险药物公告时（在 20 世纪 60 年代中期），人们正在谈论 MMDA，实际上它刚刚通过 Koch Light Industries 在英国上市。但在我所知范围内，它从未出现在街头，所以它被卷入邪恶药物清单纯粹是时机不佳的巧合。MMDA 和目前臭名昭著的 MDMA 之间首字母缩写的相似性，在大众媒体中引起了不小的混乱。它们仍然是完全独立且完全不同的药物。
 
-[上一个](/文档/PiHKAL/pihkal131.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal133.md)
+[上一个](/文档/PiHKAL/pihkal131.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal133.md)

@@ -1,6 +1,6 @@
 
 # 41.[5,6-MEO-MIPT](/药物/5,6-MEO-MIPT.md)
-[上一个](/文档/TiHKAL/tihkal40.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal42.md)
+[上一个](/文档/TiHKAL/tihkal40.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal42.md)
 
 **色胺，5,6-二甲氧基-N-异丙基-N-甲基；吲哚，5,6-二甲氧基-3-[2-(异丙基甲基氨基)乙基]；5,6-二甲氧基-N-异丙基-N-甲基色胺；5,6-二甲氧基-3-[2-(异丙基甲基氨基)乙基]吲哚**
 
@@ -25,4 +25,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal40.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal42.md)
+[上一个](/文档/TiHKAL/tihkal40.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal42.md)

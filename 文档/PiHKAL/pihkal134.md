@@ -1,7 +1,7 @@
 
 # 134 [MMDA-3a](/药物/MMDA-3a.md)
 
-[上一个](/文档/PiHKAL/pihkal133.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal135.md)
+[上一个](/文档/PiHKAL/pihkal133.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal135.md)
 
 **2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE (2-甲氧基-3,4-亚甲二氧基苯丙胺)**
 
@@ -34,4 +34,4 @@
 
 4-碳类似物也同样制备（从醛和硝基丙烷出发，但使用过量 100% 的乙酸叔丁铵作为试剂，异丙醇作为溶剂，得到亮黄色晶体，从 25 倍体积的沸腾甲醇中重结晶熔点 105.5-106.5 °C），随后还原（在乙醚中用氢化铝锂）得到 1-(2-甲氧基-3,4-亚甲二氧基苯基)-2-氨基丁烷盐酸盐 (4C-3a)，熔点为 183-185 °C，此前在 173 °C 烧结。这种材料在高达 3.5 毫克的剂量下被品尝过，未发现任何异常。没有进行任何更高剂量的试验。
 
-[上一个](/文档/PiHKAL/pihkal133.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal135.md)
+[上一个](/文档/PiHKAL/pihkal133.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal135.md)

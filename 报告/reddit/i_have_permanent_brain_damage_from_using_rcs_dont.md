@@ -2,7 +2,7 @@
 title: 我因使用RC（研究用化学品）受到了永久性脑损伤。别和我一个下场
 ---
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/researchchemicals/comments/zo4nxn/i_have_permanent_brain_damage_from_using_rcs_dont/](https://www.reddit.com/r/researchchemicals/comments/zo4nxn/i_have_permanent_brain_damage_from_using_rcs_dont/)
 

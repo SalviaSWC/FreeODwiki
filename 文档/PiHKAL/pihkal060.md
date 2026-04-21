@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal059.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal061.md)
+[上一个](/文档/PiHKAL/pihkal059.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal061.md)
 
 # 60 [DMPEA](/药物/DMPEA.md)
 **3,4-二甲氧基苯乙胺**
@@ -47,4 +47,4 @@ DMPEA的一种化学修饰物已经在粉红斑点、精神病理学和诊断标
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal059.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal061.md)
+[上一个](/文档/PiHKAL/pihkal059.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal061.md)

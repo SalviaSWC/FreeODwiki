@@ -1,55 +1,57 @@
-nav: 
-    - ⚠免责声明 : 关于本站/免责声明.md
-    - ℹ️隐私条款 : 关于本站/隐私条款.md
-    - ❤本站精神 : 关于本站/本站精神.md
-    - ❓常见问题 : 关于本站/常见问题.md
-    - ❓什么是OD? : 文档/od.md
-    - 🫂贡献指南: CONTRIBUTING.md
-    - ⭐特色条目:
-        - 《右美沙芬常见问题解答》 : 文档/右美沙芬FAQ/dxm_faq.md
-        - 《PiHKAL》 ——亚历山大·舒尔金: 文档/PiHKAL/home.md
-        - 《TiHKAL》 ——亚历山大·舒尔金: 文档/TiHKAL/home.md
-    - 💊药物索引: 
-        - 药物/home.md
-        - "药物/*.md"
-    - 🧠药效索引: 
-        - 药效/home.md
-        - "药效/*.md"
-    - 📚文档索引: 
-        - 文档/home.md
-        - 💬观点讨论索引 :
-            - 文档/观点讨论/home.md
-            - "文档/观点讨论/*.md"
-        - 🗂️药物分类索引 :
-            - 文档/药物分类/home.md
-            - "文档/药物分类/*.md"
-        - 🏛️社会学索引 :
-            - 文档/社会学/home.md
-            - "文档/社会学/*.md"
-        - "文档/*.md"
-        - "文档/**/*.md"
-    - ✏️报告索引: 
-        - 报告/home.md
-        - Erowid报告:
-            - 报告/erowid/home.md
-            - "报告/erowid/*.md"
-        - OverspeedWiki报告:
-            - 报告/overspeedwiki/home.md
-            - "报告/overspeedwiki/*.md"
-        - Reddit报告:
-            - 报告/reddit/home.md
-            - "报告/reddit/*.md"
-        - "报告/*.md"
+nav:
+  - ⚠免责声明: 关于本站/免责声明.md
+  - ℹ️隐私条款: 关于本站/隐私条款.md
+  - ❤本站精神: 关于本站/本站精神.md
+  - ❓常见问题: 关于本站/常见问题.md
+  - ❓什么是OD?: 文档/od.md
+  - 🫂贡献指南: CONTRIBUTING.md
+  - ⭐特色条目:
+      - 文档/特色条目/index.md
+      - 《右美沙芬常见问题解答》: 文档/右美沙芬FAQ/dxm_faq.md
+      - 《PiHKAL》 ——亚历山大·舒尔金: 文档/PiHKAL/index.md
+      - 《TiHKAL》 ——亚历山大·舒尔金: 文档/TiHKAL/index.md
+  - 💊药物索引:
+      - 药物/index.md
+      - "药物/*.md"
+  - 🧠药效索引:
+      - 药效/index.md
+      - "药效/*.md"
+  - 📚文档索引:
+      - 文档/index.md
+      - 💬观点讨论索引:
+          - 文档/观点讨论/index.md
+          - "文档/观点讨论/*.md"
+      - 🗂️药物分类索引:
+          - 文档/药物分类/index.md
+          - "文档/药物分类/*.md"
+      - 🏛️社会学索引:
+          - 文档/社会学/index.md
+          - "文档/社会学/*.md"
+      - "文档/*.md"
+      - "文档/**/*.md"
+  - ✏️报告索引:
+      - 报告/index.md
+      - Erowid报告:
+          - 报告/erowid/index.md
+          - "报告/erowid/*.md"
+      - OverspeedWiki报告:
+          - 报告/overspeedwiki/index.md
+          - "报告/overspeedwiki/*.md"
+      - Reddit报告:
+          - 报告/reddit/index.md
+          - "报告/reddit/*.md"
+      - "报告/*.md"
+
 ignore:
-    - CONTRIBUTING.md
-    - CODE_OF_CONDUCT.md
-    - README.md
-    - 留言板界面.md
-    - 药效.md
-    - 药物.md
-    - 报告.md
-    - 文档.md
-    - 个人文件夹.md
-    - 关于本站.md
-    - 个人文件夹/
-    - 关于本站/
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - README.md
+  - 留言板界面.md
+  - 药效.md
+  - 药物.md
+  - 报告.md
+  - 文档.md
+  - 个人文件夹.md
+  - 关于本站.md
+  - 个人文件夹/
+  - 关于本站/

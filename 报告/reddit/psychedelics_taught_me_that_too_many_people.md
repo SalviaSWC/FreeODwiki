@@ -1,6 +1,6 @@
 # 迷幻剂教会我，太多的民众不知不觉中在这个星球上浪费他们的时间，这就是为什么我们都抑郁
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/b25e4j/psychedelics_taught_me_that_too_many_people/](https://www.reddit.com/r/Drugs/comments/b25e4j/psychedelics_taught_me_that_too_many_people/)
 

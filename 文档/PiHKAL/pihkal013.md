@@ -1,7 +1,7 @@
 
 # 13  [BOB](/药物/BOB.md)
 
-[上一个](/文档/PiHKAL/pihkal012.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal014.md)
+[上一个](/文档/PiHKAL/pihkal012.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal014.md)
 
 **β-甲氧基-2C-B；4-溴-2,5-β-三甲氧基苯乙胺**
 
@@ -26,4 +26,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal012.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal014.md)
+[上一个](/文档/PiHKAL/pihkal012.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal014.md)

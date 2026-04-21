@@ -1,6 +1,6 @@
 
 # 50.[NMT](/药物/NMT.md)
-[上一个](/文档/TiHKAL/tihkal49.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal51.md)
+[上一个](/文档/TiHKAL/tihkal49.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal51.md)
 
 **N-甲基色胺；吲哚，3-[2-(甲氨基)乙基]；N-甲基色胺；3-[2-(甲氨基)乙基]吲哚**
 
@@ -17,4 +17,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal49.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal51.md)
+[上一个](/文档/TiHKAL/tihkal49.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal51.md)

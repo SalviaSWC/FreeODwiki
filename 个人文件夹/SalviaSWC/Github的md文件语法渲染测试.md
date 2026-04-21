@@ -125,7 +125,7 @@ description:
 
 [链接文字](链接地址)
 
-结论:可以使用。注意链接地址必须是可以使用的路径。可以是网页链接，比如`https://github.com/SalviaSWC/FreeODwiki`。可以是仓库内链接，对于后者，要么是绝对路径，例如`药物/home.md`；要么是相对路径，例如`./home.md`或`../药物/home.md`。对于相对路径，每一个`.`代表上一级目录。<br>
+结论:可以使用。注意链接地址必须是可以使用的路径。可以是网页链接，比如`https://github.com/SalviaSWC/FreeODwiki`。可以是仓库内链接，对于后者，要么是绝对路径，例如`药物/index.md`；要么是相对路径，例如`./index.md`或`../药物/index.md`。对于相对路径，每一个`.`代表上一级目录。<br>
 <mark>如果要使用仓库内文件，千万不要使用诸如`https://github.com/SalviaSWC/FreeODwiki/blob/main/CONTRIBUTING.md`这样的链接。在不同的fork或branch中，这样的链接是无法被正确解析的。</mark>
 
 ------

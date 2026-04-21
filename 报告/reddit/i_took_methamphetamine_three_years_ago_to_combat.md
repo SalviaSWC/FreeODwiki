@@ -1,6 +1,6 @@
 # 我三年前为了对抗肥胖而服用过甲基苯丙胺，我并不后悔
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/1liz1yx/i_took_methamphetamine_three_years_ago_to_combat/](https://www.reddit.com/r/Drugs/comments/1liz1yx/i_took_methamphetamine_three_years_ago_to_combat/)
 

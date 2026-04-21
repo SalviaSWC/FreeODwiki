@@ -1,7 +1,7 @@
 
 # 9 [ASB](/药物/ASB.md)
 
-[上一个](/文档/PiHKAL/pihkal008.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal010.md)
+[上一个](/文档/PiHKAL/pihkal008.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal010.md)
 
 **不对称麦司卡林；3,4-二乙氧基-5-甲氧基苯乙胺**
 
@@ -36,4 +36,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal008.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal010.md)
+[上一个](/文档/PiHKAL/pihkal008.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal010.md)

@@ -1,7 +1,7 @@
 
 # 135 [MMDA-3b](/药物/MMDA-3b.md)
 
-[上一个](/文档/PiHKAL/pihkal134.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal136.md)
+[上一个](/文档/PiHKAL/pihkal134.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal136.md)
 
 **4-METHOXY-2,3-METHYLENEDIOXYAMPHETAMINE (4-甲氧基-2,3-亚甲二氧基苯丙胺)**
 
@@ -26,4 +26,4 @@
 
 如果说 MMDA-5 的信息稀少，看看位置异构体 MMDA-4，我在其类似物 TMA-4 下讨论过。这里一无所知，因为该化合物本身就是未知的。还没有人找到制造它的方法。
 
-[上一个](/文档/PiHKAL/pihkal134.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal136.md)
+[上一个](/文档/PiHKAL/pihkal134.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal136.md)

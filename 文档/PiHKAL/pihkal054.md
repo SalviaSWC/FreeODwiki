@@ -1,7 +1,7 @@
 
 # 54 [2,5\-DMA](/药物/2,5-DMA.md)
 
-[上一个](/文档/PiHKAL/pihkal053.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal055.md)
+[上一个](/文档/PiHKAL/pihkal053.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal055.md)
 
 ----------
 **DMA; 2,5\-DIMETHOXYAMPHETAMINE**
@@ -34,4 +34,4 @@
 
 所有这些后来的材料在人体中均未得到评估。
 
-[上一个](/文档/PiHKAL/pihkal053.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal055.md)
+[上一个](/文档/PiHKAL/pihkal053.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal055.md)

@@ -3,7 +3,7 @@
 ---
 **4-烯丙氧基-3,5-二甲氧基苯乙胺；3,5-二甲氧基-4-烯丙氧基苯乙胺**
 
-[上一个](/文档/PiHKAL/pihkal001.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal003.md)
+[上一个](/文档/PiHKAL/pihkal001.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal003.md)
 
 | ![](/文档/PiHKAL/pihkal02.gif) |
 | --- |
@@ -26,4 +26,4 @@
 
 由于 AL 是迄今为止描述的最有效的 3,4,5-三取代苯乙胺之一，而且相应的苯丙胺具有更高的效力，因此猜测 4-烯丙氧基-3,5-二甲氧基苯丙胺 (3C-AL) 将是一个值得探索的有趣化合物是很有道理的。它可以通过丁香醛与烯丙基碘反应，随后与硝基乙烷形成硝基苯乙烯，然后用氢化铝还原制得。截至目前，它尚未被合成和探索。
 
-[上一个](/文档/PiHKAL/pihkal001.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal003.md)
+[上一个](/文档/PiHKAL/pihkal001.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal003.md)

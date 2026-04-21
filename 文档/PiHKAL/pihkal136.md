@@ -1,7 +1,7 @@
 
 # 136 [MME](/药物/MME.md)
 
-[上一个](/文档/PiHKAL/pihkal135.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal137.md)
+[上一个](/文档/PiHKAL/pihkal135.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal137.md)
 
 
 **2,4-DIMETHOXY-5-ETHOXYAMPHETAMINE (2,4-二甲氧基-5-乙氧基苯丙胺)**
@@ -33,4 +33,4 @@
 
 但是，这项关于 MME 的简单研究得出了两件非常有价值的事情。一件当然是它是一种活性化合物，因此值得进一步关注。另一件更重要的是，作为 TMA-2 的三种可能的乙氧基同系物之一，它的活性低于 MEM。第三种可能的乙氧基化合物是 EMM，正如本书其他地方会发现的那样，它的活性甚至更低。因此，只有 MEM 保持了 TMA-2 的效力，正是这一最初的观察真正将我的注意力集中在 4-位的重要性上。
 
-[上一个](/文档/PiHKAL/pihkal135.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal137.md)
+[上一个](/文档/PiHKAL/pihkal135.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal137.md)

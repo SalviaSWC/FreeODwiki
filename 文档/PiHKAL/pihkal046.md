@@ -1,6 +1,6 @@
 
 # 46 [2C-T-13](/药物/2C-T-13.md)
-[上一个](/文档/PiHKAL/pihkal045.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal047.md)
+[上一个](/文档/PiHKAL/pihkal045.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal047.md)
 
 **2,5-二甲氧基-4-(2-甲氧基乙硫基)苯乙胺 (2,5-DIMETHOXY-4-(2-METHOXYETHYLTHIO)PHENETHYLAMINE)**
 
@@ -33,4 +33,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal045.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal047.md)
+[上一个](/文档/PiHKAL/pihkal045.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal047.md)

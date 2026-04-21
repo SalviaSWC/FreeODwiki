@@ -5,7 +5,7 @@ description:
 
 # 4F-MPH
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 | 4F-MPH | |
 | --- | --- |

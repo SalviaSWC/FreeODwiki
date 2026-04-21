@@ -1,6 +1,6 @@
 
 # 74 [EEM](/药物/EEM.md)
-[上一个](/文档/PiHKAL/pihkal073.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal075.md)
+[上一个](/文档/PiHKAL/pihkal073.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal075.md)
 
 **2,4-二乙氧基-5-甲氧基苯丙胺**
 
@@ -23,4 +23,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal073.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal075.md)
+[上一个](/文档/PiHKAL/pihkal073.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal075.md)

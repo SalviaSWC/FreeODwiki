@@ -1,6 +1,6 @@
 
 # 42.[5-MEO-NMT](/药物/5-MEO-NMT.md)
-[上一个](/文档/TiHKAL/tihkal41.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal43.md)
+[上一个](/文档/TiHKAL/tihkal41.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal43.md)
 
 **N,O-DMS；去甲基-5-MeO-DMT；色胺，5-甲氧基-N-甲基；吲哚，5-甲氧基-3-[2-(甲基氨基)乙基]；N,O-二甲基血清素；5-甲氧基-N-甲基色胺；5-甲氧基-3-[2-(甲基氨基)乙基]吲哚；N,O-二甲基血清素**
 
@@ -19,4 +19,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal41.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal43.md)
+[上一个](/文档/TiHKAL/tihkal41.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal43.md)

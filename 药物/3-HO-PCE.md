@@ -1,5 +1,5 @@
 # 3-HO-PCE
-[◀返回](./home.md)
+[◀返回](index.md)
 
 
 
@@ -38,7 +38,7 @@
 
 关于这种化合物的早期讨论主要围绕它是否对 [μ-阿片](/文档/药物分类/阿片类药物.md) [受体](/文档/受体.md) 具有可观的亲和力，因为它的结构与 [3-HO-PCP](/药物/3-HO-PCP.md) 相关，而后者在动物模型中已被证明对 [μ-阿片](/文档/药物分类/阿片类药物.md) [受体](/文档/受体.md) 具有亲和力。它是否会在人类身上产生任何理论上的 [阿片类药物](/文档/药物分类/阿片类药物.md) 效应，目前仍在讨论中。如果确实如此，3-HO-PCE 可能比其他解离剂带来独特的风险，特别是在补药时。
 
-继同类其他物质之后，特别是 [甲氧胺酮](/药物/MXE.md)、[苯环利定](/药物/PCP.md) (PCP) 和 [3-MeO-PCE](/药物/3-MeO-PCE.md)，据推测它能够诱导一种被称为“[解离性麻醉](/药效/home.md)”的状态。早期报告表明，相对于其他 [解离剂](/文档/药物分类/解离剂.md)，这种状态较难达到，其总体效应特征被描述为“介于 [3-MeO-PCP](/药物/3-MeO-PCP.md) 和 [3-MeO-PCE](/药物/3-MeO-PCE.md) 之间”。
+继同类其他物质之后，特别是 [甲氧胺酮](/药物/MXE.md)、[苯环利定](/药物/PCP.md) (PCP) 和 [3-MeO-PCE](/药物/3-MeO-PCE.md)，据推测它能够诱导一种被称为“[解离性麻醉](/药效/index.md)”的状态。早期报告表明，相对于其他 [解离剂](/文档/药物分类/解离剂.md)，这种状态较难达到，其总体效应特征被描述为“介于 [3-MeO-PCP](/药物/3-MeO-PCP.md) 和 [3-MeO-PCE](/药物/3-MeO-PCE.md) 之间”。
 
 目前缺乏关于 3-HO-PCE 的药理特性、代谢和毒性的数据。迄今为止，还没有独立实验室对通过灰色市场分销的 3-HO-PCE 样品进行过分析研究。由于未知的毒性特征以及可能与其他羟基化芳基环己胺类物质相似的成瘾性，如果你选择使用这种物质，强烈建议采取适当的 [伤害减少措施](/文档/负责任的用药索引页.md) 喵。
 
@@ -71,7 +71,7 @@
 历史与文化
 -------------------
 
-| [![History_icon.png](/文件/History_icon.png)](/文件/History_icon.png) | **这一 *历史与文化* 部分是一个 [小作品](/文档/关于本站/home.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
+| [![History_icon.png](/文件/History_icon.png)](/文件/History_icon.png) | **这一 *历史与文化* 部分是一个 [小作品](/文档/关于本站/index.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
 2012年10月18日，英国药物滥用咨询委员会发布了一份关于甲氧oxetamine的报告，称“甲氧oxetamine的危害与《1971年滥用药物法》中的B类药物相当”，尽管该法案并不根据危害对药物进行分类。该报告继续建议所有 MXE 的类似物也应成为B类药物，并建议增加一个涵盖现有和未研究的芳基环己胺（包括 3-HO-PCE）的统括条款。
@@ -99,10 +99,10 @@ NMDA（N-甲基-D-天冬氨酸）受体是 [谷氨酸](/文档/谷氨酸.md) 受
 主观效应
 ------------------
 
-| [![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png)](/文件/Metacogghjgjvghnition.png) | **这一主观效应部分是一个 [小作品](/文档/关于本站/home.md)**。<br>*因此，它仍在完善中，可能包含不完整或错误的信息。*<br>*你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
+| [![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png)](/文件/Metacogghjgjvghnition.png) | **这一主观效应部分是一个 [小作品](/文档/关于本站/index.md)**。<br>*因此，它仍在完善中，可能包含不完整或错误的信息。*<br>*你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
-***免责声明：** 以下列出的效应引用了 [***主观效应索引***](/药效/home.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/home.md) 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
+***免责声明：** 以下列出的效应引用了 [***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/index.md) 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
 
 *值得注意的是，这些效应不一定以可预测或可靠的方式发生，尽管较高的剂量更容易诱发全方位的效应。同样，**不良反应** 随着剂量的增加变得越来越可能，可能包括 **成瘾、严重伤害或死亡*** ☠。
 
@@ -197,7 +197,7 @@ NMDA（N-甲基-D-天冬氨酸）受体是 [谷氨酸](/文档/谷氨酸.md) 受
 毒性与伤害潜力
 ---------------------------
 
-| [![Ambulance2.png](/文件/Ambulance2.png)](/文件/Ambulance2.png) | **这一毒性与伤害潜力部分是一个 [小作品](/文档/关于本站/home.md)。**<br>*因此，它可能包含不完整甚至 **极其错误** 的信息！你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
+| [![Ambulance2.png](/文件/Ambulance2.png)](/文件/Ambulance2.png) | **这一毒性与伤害潜力部分是一个 [小作品](/文档/关于本站/index.md)。**<br>*因此，它可能包含不完整甚至 **极其错误** 的信息！你可以通过 [扩展或更正它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
 *注意：如果使用这种物质，请务必进行独立研究并使用 **[伤害减少措施](/文档/负责任的用药索引页.md)** 喵。*
@@ -240,7 +240,7 @@ NMDA（N-甲基-D-天冬氨酸）受体是 [谷氨酸](/文档/谷氨酸.md) 受
 法律地位
 ------------
 
-| [![Handcuffs-300px.png](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **这一法律部分是一个 [小作品](/文档/关于本站/home.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
+| [![Handcuffs-300px.png](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **这一法律部分是一个 [小作品](/文档/关于本站/index.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过 [扩展它](https://psychonautwiki.org/w/index.php?title=3-HO-PCE&action=edit) 来提供帮助哦。* |
 | --- | --- |
 
 *   **德国：** 截至 2019 年 7 月 18 日，3-HO-PCE 根据 NpSG (*新精神活性物质法*) 受到管制。以投放市场为目的的生产和进口、对他人的管理以及交易均受到惩罚。拥有是非法的，但不予处罚。

@@ -1,7 +1,7 @@
 
 # 63 DOBU
 
-[上一个](/文档/PiHKAL/pihkal062.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal064.md)
+[上一个](/文档/PiHKAL/pihkal062.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal064.md)
 
 **2,5-二甲氧基-4-(n)-丁基苯丙胺**
 
@@ -40,4 +40,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal062.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal064.md)
+[上一个](/文档/PiHKAL/pihkal062.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal064.md)

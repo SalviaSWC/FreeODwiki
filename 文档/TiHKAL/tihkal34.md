@@ -1,6 +1,6 @@
 
 # 34.[2-ME-DMT](/药物/2-ME-DMT.md)
-[上一个](/文档/TiHKAL/tihkal33.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal35.md)
+[上一个](/文档/TiHKAL/tihkal33.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal35.md)
 
 **2,N,N-TMT；2,N,N-三甲基色胺；3-[2-(二甲基氨基)乙基]-2-甲基吲哚；2,N,N-三甲基色胺；3-[2-(二甲基氨基)乙基]-2-甲基吲哚；脱甲氧基-INDAPEX**
 
@@ -31,4 +31,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal33.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal35.md)
+[上一个](/文档/TiHKAL/tihkal33.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal35.md)

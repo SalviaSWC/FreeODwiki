@@ -1,7 +1,7 @@
 
 # 116 [MDPH](/药物/MDPH.md)
 
-[上一个](/文档/PiHKAL/pihkal115.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal117.md)
+[上一个](/文档/PiHKAL/pihkal115.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal117.md)
 
 **a,a-二甲基-3,4-亚甲二氧基-苯乙胺；3,4-亚甲二氧基芬特明**
 
@@ -70,4 +70,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal115.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal117.md)
+[上一个](/文档/PiHKAL/pihkal115.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal117.md)

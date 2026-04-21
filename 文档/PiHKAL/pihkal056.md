@@ -1,7 +1,7 @@
 
 # 56 [DMCPA](/药物/DMCPA.md)
 
-[上一个](/文档/PiHKAL/pihkal055.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal057.md)
+[上一个](/文档/PiHKAL/pihkal055.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal057.md)
 
 
 -------
@@ -35,4 +35,4 @@
 
 这种化合物 DMCPA 是直接模仿 DOM 的结构，具有 2,5\-二甲氧基\-4\-甲基取代模式。反苯环丙胺的另一种类似物，同样是模仿的，是 3,4,5\-三甲氧基反苯环丙胺，或反式\-2\-(3,4,5\-三甲氧基苯基)环丙胺 (TMT)。它已在仅 13 毫克的口服水平下进行了评估，在该剂量下没有任何中枢活性的迹象。
 
-[上一个](/文档/PiHKAL/pihkal055.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal057.md)
+[上一个](/文档/PiHKAL/pihkal055.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal057.md)

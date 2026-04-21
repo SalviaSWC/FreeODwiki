@@ -1,7 +1,7 @@
 
 # 21  [3C-BZ](/药物/3C-BZ.md)
 
-[上一个](/文档/PiHKAL/pihkal020.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal022.md)
+[上一个](/文档/PiHKAL/pihkal020.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal022.md)
 
 --------
 **4-苄氧基-3,5-二甲氧基苯丙胺**
@@ -45,4 +45,4 @@
 
 <br>
 
-[上一个](/文档/PiHKAL/pihkal020.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal022.md)
+[上一个](/文档/PiHKAL/pihkal020.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal022.md)

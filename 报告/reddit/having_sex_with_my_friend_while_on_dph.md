@@ -1,6 +1,6 @@
 # 服用苯海拉明时与朋友发生性行为
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/thceli/having_sex_with_my_friend_while_on_dph/](https://www.reddit.com/r/Drugs/comments/thceli/having_sex_with_my_friend_while_on_dph/)
 

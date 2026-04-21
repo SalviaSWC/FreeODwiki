@@ -1,6 +1,6 @@
 
 # 17.[4-HO-DIPT](/药物/4-HO-DIPT.md)
-[上一个](/文档/TiHKAL/tihkal16.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal18.md)
+[上一个](/文档/TiHKAL/tihkal16.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal18.md)
 
 **色胺，4-羟基-N,N-二异丙基；4-吲哚酚，3-[2-(二异丙胺基)乙基]；4-羟基-N,N-二异丙基色胺；3-[2-(二异丙胺基)乙基]-4-吲哚酚**
 
@@ -39,4 +39,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal16.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal18.md)
+[上一个](/文档/TiHKAL/tihkal16.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal18.md)

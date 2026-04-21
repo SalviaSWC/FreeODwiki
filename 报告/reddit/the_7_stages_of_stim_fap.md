@@ -6,9 +6,9 @@ description:
 # 兴奋剂自慰的7个阶段
 
 
-[◀返回报告](../home.md)
+[◀返回报告](../index.md)
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 
 原文网址:[https://www.reddit.com/r/Drugs/comments/avw7pa/the_7_stages_of_stim_fap/](https://www.reddit.com/r/Drugs/comments/avw7pa/the_7_stages_of_stim_fap/)

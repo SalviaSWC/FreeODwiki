@@ -5,7 +5,7 @@ description:
 
 # 4-AcO-DMT
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 **4-Acetoxy-N,N-dimethyltryptamine**（也就是大家熟知的 **4-AcO-DMT**、**4-acetoxy-DMT**、**O-acetylpsilocin**、**psilacetin**，还有可爱的名字“**合成蘑菇**”喵）是一种比较新奇、小众的[迷幻剂](/文档/药物分类/迷幻剂.md)，属于[色胺类物质](/文档/药物分类/色胺类物质.md)家族。它的结构和[赛洛西宾蘑菇](/药物/赛洛西宾蘑菇.md)（也就是“魔法蘑菇”~）里的有效成分赛洛西宾（Psilocybin）和赛洛辛（Psilocin）非常相似哦。科学家们认为，4-AcO-DMT 主要是通过和大脑里的[血清素](/文档/血清素.md)受体结合来产生效果的，不过具体的机制还在研究中呢喵。
 

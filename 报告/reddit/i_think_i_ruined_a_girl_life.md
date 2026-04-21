@@ -1,6 +1,6 @@
 # 我觉得我毁了一个女孩的一生
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/1rqa5de/i_think_i_ruined_a_girl_life/](https://www.reddit.com/r/Drugs/comments/1rqa5de/i_think_i_ruined_a_girl_life/)
 

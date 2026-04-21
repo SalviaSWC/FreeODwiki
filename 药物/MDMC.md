@@ -1,6 +1,6 @@
 # MDMC
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 
 | MDMC                                                     |                                                                     |

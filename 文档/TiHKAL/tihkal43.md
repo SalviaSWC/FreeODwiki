@@ -1,6 +1,6 @@
 
 # 43.[5-MEO-PYR-T](/药物/5-MEO-PYR-T.md)
-[上一个](/文档/TiHKAL/tihkal42.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal44.md)
+[上一个](/文档/TiHKAL/tihkal42.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal44.md)
 
 **色胺，5-甲氧基-N,N-四亚甲基；吲哚，5-甲氧基-3-[2-(1-吡咯烷基)乙基]；吡咯烷，1-[2-(5-甲氧基-1H-吲哚-3-基)乙基]；5-甲氧基-N,N-四亚甲基色胺；5-甲氧基-3-[2-(1-吡咯烷基)乙基]吲哚；1-[2-(5-甲氧基-1H-吲哚-3-基)乙基]吡咯烷；“吡咯烷基-5-甲氧基色胺”**
 
@@ -37,4 +37,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal42.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal44.md)
+[上一个](/文档/TiHKAL/tihkal42.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal44.md)

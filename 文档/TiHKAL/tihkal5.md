@@ -1,6 +1,6 @@
 
 # 5.[a,O-DMS](/药物/a,O-DMS.md)
-[上一个](/文档/TiHKAL/tihkal4.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal6.md)
+[上一个](/文档/TiHKAL/tihkal4.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal6.md)
 
 **5-MEO-a-MT；色胺, 5-甲氧基-a-甲基；吲哚, 3-(2-氨基丙基)-5-甲氧基；5-羟色胺, a,O-二甲基；5-甲氧基-a-甲基色胺；3-(2-氨基丙基)-5-甲氧基吲哚；a,O-二甲基-5-羟色胺；ALPHA-O**
 
@@ -65,4 +65,4 @@ alpha-O 的结构旨在克服这两个限制。氧上的甲基 (O-甲基) 消除
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal4.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal6.md)
+[上一个](/文档/TiHKAL/tihkal4.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal6.md)

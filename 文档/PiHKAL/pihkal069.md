@@ -1,6 +1,6 @@
 
 # 69 [psi-DOM](/药物/psi-DOM.md)
-[上一个](/文档/PiHKAL/pihkal068.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal070.md)
+[上一个](/文档/PiHKAL/pihkal068.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal070.md)
 
 **Z-7; 2,6-二甲氧基-4-甲基苯丙胺**
 
@@ -38,4 +38,4 @@ Z-7.2 可能是一种有趣的化合物。但在当时（1977 年初），学术
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal068.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal070.md)
+[上一个](/文档/PiHKAL/pihkal068.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal070.md)

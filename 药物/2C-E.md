@@ -5,7 +5,7 @@ description:
 
 # 2C-E
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 ---
 

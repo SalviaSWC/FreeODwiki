@@ -3,7 +3,7 @@
 
 **METAPROSCALINE; 3,4-DIMETHOXY-5-(n)-PROPOXYPHENETHYLAMINE (间丙氧基麦斯卡林；3,4-二甲氧基-5-(n)-丙氧基苯乙胺)**
 
-[上一个](/文档/PiHKAL/pihkal136.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal138.md)
+[上一个](/文档/PiHKAL/pihkal136.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal138.md)
 
 
 | ![](images/pihkal137.gif) |
@@ -31,4 +31,4 @@
 
 **延伸和推断：** 将间位氧上的碳链从两个延长到三个（从间乙氧基麦斯卡林到间丙氧基麦斯卡林）导致活性丧失，这阻碍了在分子的这个特定点上的进一步探索。异丙基类似物（3,4-二甲氧基-5-(i)-丙氧基苯乙胺，metaisoproscaline, MIP）已经开始并进行到醛的阶段，但随着发现间丙氧基麦斯卡林没有活性而被放弃。还有其他事情要做。
 
-[上一个](/文档/PiHKAL/pihkal136.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal138.md)
+[上一个](/文档/PiHKAL/pihkal136.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal138.md)

@@ -1,6 +1,6 @@
 
 # 51.[PRO-LAD](/药物/PRO-LAD.md)
-[上一个](/文档/TiHKAL/tihkal50.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal52.md)
+[上一个](/文档/TiHKAL/tihkal50.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal52.md)
 
 **6-去甲麦角酸，N,N-二乙基酰胺-6-丙基；6-去甲麦角酰胺，N,N-二乙基-6-丙基；N,N-二乙基去甲麦角酰胺，6-丙基；6-丙基去甲麦角酸，N,N-二乙基酰胺；9,10-二脱氢-6-丙基-N,N-二乙基麦角林-8b-甲酰胺；6-丙基-去甲-LSD**
 
@@ -31,4 +31,4 @@ N-苯乙基-去甲-LSD (PHENETH-LAD)。在 500 微克时无反应。
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal50.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal52.md)
+[上一个](/文档/TiHKAL/tihkal50.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal52.md)

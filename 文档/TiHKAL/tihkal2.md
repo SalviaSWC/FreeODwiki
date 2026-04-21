@@ -1,7 +1,7 @@
 
 # 2.[DBT](/药物/DBT.md)
 
-[上一个](/文档/TiHKAL/tihkal1.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal3.md)
+[上一个](/文档/TiHKAL/tihkal1.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal3.md)
 
 
 
@@ -49,4 +49,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal1.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal3.md)
+[上一个](/文档/TiHKAL/tihkal1.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal3.md)

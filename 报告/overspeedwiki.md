@@ -5,7 +5,7 @@ description:
 
 # Overspeed Wiki报告合集
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 本索引下所有报告来自Overspeed Wiki，仅供参考。报告换行问题已经解决。
 

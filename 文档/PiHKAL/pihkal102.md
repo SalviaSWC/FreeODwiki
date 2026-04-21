@@ -1,7 +1,7 @@
 
 # 102 [MDBU](/药物/MDBU.md)
 
-[上一个](/文档/PiHKAL/pihkal101.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal103.md)
+[上一个](/文档/PiHKAL/pihkal101.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal103.md)
 
 **N-BUTYL-MDA; 3,4-METHYLENEDIOXY-N-BUTYLAMPHETAMINE; N-丁基-MDA；3,4-亚甲二氧基-N-丁基苯丙胺**
 
@@ -20,4 +20,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal101.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal103.md)
+[上一个](/文档/PiHKAL/pihkal101.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal103.md)

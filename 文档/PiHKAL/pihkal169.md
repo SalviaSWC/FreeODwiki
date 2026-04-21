@@ -1,7 +1,7 @@
 
 # 169 [2-TOET](/文档/PiHKAL/pihkal169.md)
 
-[上一个](/文档/PiHKAL/pihkal168.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal170.md)
+[上一个](/文档/PiHKAL/pihkal168.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal170.md)
 
 **4-ETHYL-5-METHOXY-2-METHYLTHIOAMPHETAMINE**
 **4-乙基-5-甲氧基-2-甲硫基苯丙胺**
@@ -37,4 +37,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal168.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal170.md)
+[上一个](/文档/PiHKAL/pihkal168.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal170.md)

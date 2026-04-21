@@ -1,7 +1,7 @@
 
 # 40. [5-MEO-MIPT](/药物/5-MEO-MIPT.md)
 
-[上一个](/文档/TiHKAL/tihkal39.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal41.md)
+[上一个](/文档/TiHKAL/tihkal39.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal41.md)
 
 **N-异丙基-5-甲氧基-N-甲基色胺；3-[2-(异丙基甲基氨基)乙基]-5-甲氧基吲哚；N-异丙基-5-甲氧基-N-甲基色胺；3-[2-(异丙基甲基氨基)乙基]-5-甲氧基吲哚**
 
@@ -50,4 +50,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal39.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal41.md)
+[上一个](/文档/TiHKAL/tihkal39.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal41.md)

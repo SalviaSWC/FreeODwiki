@@ -5,7 +5,7 @@ description:
 
 # 5-MeO-DiPT
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 | 5-MeO-DiPT | |
 | --- | --- |
@@ -87,7 +87,7 @@ description:
 | ![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png) | **本主观效应章节是一个[小节](/文档/科学信息索引页.md)**。<br>*因此，它仍在进行中，可能包含不完整或错误的信息。*<br>*您可以通过[扩展或更正它](https://psychonautwiki.org/w/index.php?title=5-MeO-DiPT&action=edit)来提供帮助。* |
 | --- | --- |
 
-***免责声明：** 下下列出的效应引用了[***主观效应索引***](/药效/home.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/home.md) 贡献者个人分析的开放研究文献。因此，应以健康的怀疑态度看待这些内容。*
+***免责声明：** 下下列出的效应引用了[***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/index.md) 贡献者个人分析的开放研究文献。因此，应以健康的怀疑态度看待这些内容。*
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高剂量更可能诱发全方位的效应。同样，**不良反应**随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡*** ☠。
 
@@ -154,7 +154,7 @@ description:
 
 ### 体验报告
 
-目前我们的[体验索引](/报告/psychounautwiki/home.md)中没有描述该化合物效应的轶事报告。更多的体验报告可以在这里找到：
+目前我们的[体验索引](/报告/psychounautwiki/index.md)中没有描述该化合物效应的轶事报告。更多的体验报告可以在这里找到：
 
 *   [Erowid Experience Vaults: 5-MeO-DiPT](https://erowid.org/experiences/subs/exp_5MeODiPT.shtml)
 

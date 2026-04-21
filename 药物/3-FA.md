@@ -5,7 +5,7 @@ description:
 
 # 3-FA
 
-[◀返回](/药物/home.md)
+[◀返回](/药物/index.md)
 
 | 3-FA |
 | --- |

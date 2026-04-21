@@ -1,7 +1,7 @@
 
 # 98 [MADAM-6](/药物/MADAM-6.md)
 
-[上一个](/文档/PiHKAL/pihkal097.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal099.md)
+[上一个](/文档/PiHKAL/pihkal097.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal099.md)
 
 **2,N-DIMETHYL-4,5-METHYLENEDIOXYAMPHETAMINE; 2,N-二甲基-4,5-亚甲二氧基苯丙胺**
 
@@ -32,4 +32,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal097.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal099.md)
+[上一个](/文档/PiHKAL/pihkal097.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal099.md)

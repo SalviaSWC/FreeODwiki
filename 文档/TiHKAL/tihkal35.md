@@ -1,6 +1,6 @@
 
 # 35.[MELATONIN](/药物/MELATONIN.md)
-[上一个](/文档/TiHKAL/tihkal34.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal36.md)
+[上一个](/文档/TiHKAL/tihkal34.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal36.md)
 
 **N-乙酰基-5-甲氧基色胺；3-(2-乙酰氨基乙基)-5-甲氧基吲哚；N-乙酰基-O-甲基-5-羟色胺；N-[2-(5-甲氧基吲哚-3-基)乙基]乙酰胺；N-乙酰基-5-甲氧基色胺；3-(2-乙酰氨基乙基)-5-甲氧基吲哚；N-乙酰基-O-甲基-5-羟色胺；N-[2-(5-甲氧基吲哚-3-基)乙基]乙酰胺；REGULIN**
 
@@ -63,4 +63,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal34.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal36.md)
+[上一个](/文档/TiHKAL/tihkal34.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal36.md)

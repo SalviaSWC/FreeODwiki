@@ -1,7 +1,7 @@
 
 # 99 [MAL](/药物/MAL.md)
 
-[上一个](/文档/PiHKAL/pihkal098.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal100.md)
+[上一个](/文档/PiHKAL/pihkal098.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal100.md)
 
 **METHALLYLESCALINE; 3,5-DIMETHOXY-4-METHALLYLOXYPHENETHYLAMINE; 甲烯丙基厄斯卡林；3,5-二甲氧基-4-甲烯丙氧基苯乙胺**
 
@@ -44,4 +44,4 @@ Methallylescaline（甲烯丙基厄斯卡林）这个名字实际上完全不合
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal098.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal100.md)
+[上一个](/文档/PiHKAL/pihkal098.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal100.md)

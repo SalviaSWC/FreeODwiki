@@ -1,6 +1,6 @@
 
 # 14.[HARMINE](/药物/HARMINE.md)
-[上一个](/文档/TiHKAL/tihkal13.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal15.md)
+[上一个](/文档/TiHKAL/tihkal13.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal15.md)
 
 **β-卡波林，7-甲氧基；7-甲氧基-β-卡波林；班尼斯特林；亚格因；特里帕辛；白哈明**
 
@@ -49,4 +49,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal13.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal15.md)
+[上一个](/文档/TiHKAL/tihkal13.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal15.md)

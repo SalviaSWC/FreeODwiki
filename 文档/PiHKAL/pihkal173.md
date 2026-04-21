@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal172.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal174.md)
+[上一个](/文档/PiHKAL/pihkal172.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal174.md)
 
 
 # 173 [TOMSO](/文档/PiHKAL/pihkal173.md)
@@ -34,4 +34,4 @@
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal172.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal174.md)
+[上一个](/文档/PiHKAL/pihkal172.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal174.md)

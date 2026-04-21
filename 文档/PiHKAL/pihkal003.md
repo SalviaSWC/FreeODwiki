@@ -3,7 +3,7 @@
 ------
 **DOT; PARA-DOT; 2,5-二甲氧基-4-甲硫基苯丙胺**
 
-[上一个](/文档/PiHKAL/pihkal002.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal004.md)
+[上一个](/文档/PiHKAL/pihkal002.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal004.md)
 
 | ![](/文档/PiHKAL/pihkal03.gif) |
 | --- |
@@ -26,4 +26,4 @@
 
 目前，ALEPH 仍然相对未被探索。它的两个位置异构体在这里作为 ORTHO-DOT 和 META-DOT 输入。三个更高级的同系物已被更彻底地研究，通用名称 ALEPH（希伯来字母表的第一个字母）被赋予这一组，因为它们可能具有共同的非凡性质。但真正的宝藏来自于探索 2-碳同系物，即构成 [2C-T](/文档/PiHKAL/pihkal039.md) 家族的化合物。在这里，关于合理剂量的不确定性要小得多，而且主观体验的性质要丰富得多。
 
-[上一个](/文档/PiHKAL/pihkal002.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal004.md)
+[上一个](/文档/PiHKAL/pihkal002.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal004.md)

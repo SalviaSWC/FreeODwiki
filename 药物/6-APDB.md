@@ -1,6 +1,6 @@
 # 6-APDB
 
-[◀返回](/home.md)
+[◀返回](index.md)
 
 
 | 6-APDB                                                                                             |                                                           |

@@ -1,6 +1,6 @@
 
 # 3.[DET](/药物/DET.md)
-[上一个](/文档/TiHKAL/tihkal2.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal4.md)
+[上一个](/文档/TiHKAL/tihkal2.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal4.md)
 
 **色胺, N,N-二乙基；吲哚, 3-[2-(二乙基氨基)乙基]；N,N-二乙基色胺；3-[2-(二乙基氨基)乙基]吲哚；T-9**
 
@@ -67,4 +67,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal2.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal4.md)
+[上一个](/文档/TiHKAL/tihkal2.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal4.md)

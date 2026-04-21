@@ -1,5 +1,5 @@
 
-[上一个](/文档/PiHKAL/pihkal017.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal019.md)
+[上一个](/文档/PiHKAL/pihkal017.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal019.md)
 
 # 18. 4-BR-3,5-DMA
 
@@ -23,4 +23,4 @@
 
 **延伸和评论：** 这是一个复杂的，目前完全未定义的药物。有两份独立的镇痛报告，然而，一家大型制药公司在实验动物身上进行的彻底筛选未能证实其中任何一点。[+++](/文档/PiHKAL/shulgin_rating_scale.md)报告并不一定反映致幻效果，因为这个活性水平的定量测量代表了功能受损的程度，而不管产生这种受损的药物的性质如何。换句话说，如果你正在经历某种药物的影响，而根据你的判断，这种药物会干扰安全和良好的驾驶，这就是一个[+++](/文档/PiHKAL/shulgin_rating_scale.md)，无论你的表现是受到致幻剂、兴奋剂、催眠药还是麻醉剂的限制。所有的定量报告都没有提到任何感官扭曲（镇痛是丧失，而不是扭曲）或视觉效果。也许4-BR-3,5-DMA显示其[+++](/文档/PiHKAL/shulgin_rating_scale.md)是作为一种麻醉剂。但是，老鼠们说不是。
 
-[上一个](/文档/PiHKAL/pihkal017.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal019.md)
+[上一个](/文档/PiHKAL/pihkal017.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal019.md)

@@ -1,6 +1,6 @@
 # 5-HO-DMT
 
-[◀返回](./home.md)
+[◀返回](index.md)
 
 
 | 5-HO-DMT                                                                                            |                              |

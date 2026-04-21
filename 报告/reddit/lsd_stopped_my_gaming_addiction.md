@@ -1,6 +1,6 @@
 # LSD终止了我的游戏成瘾
 
-**[◀返回Reddit报告](./home.md)** 
+**[◀返回Reddit报告](index.md)** 
 
 原文网址：[https://www.reddit.com/r/Drugs/comments/ft10tj/lsd_stopped_my_gaming_addiction/](https://www.reddit.com/r/Drugs/comments/ft10tj/lsd_stopped_my_gaming_addiction/)
 

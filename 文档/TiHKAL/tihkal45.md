@@ -1,6 +1,6 @@
 
 # 45.[5-MEO-TMT](/药物/5-MEO-TMT.md)
-[上一个](/文档/TiHKAL/tihkal44.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal46.md)
+[上一个](/文档/TiHKAL/tihkal44.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal46.md)
 
 **色胺, 5-甲氧基-2,N,N-三甲基；吲哚, 3-[2-(二甲氨基)乙基]-5-甲氧基-2-甲基；5-甲氧基-2,N,N-三甲基色胺；5-甲氧基-2-甲基-DMT；3-[2-(二甲氨基)乙基]-5-甲氧基-2-甲基吲哚；INDAPEX**
 
@@ -33,4 +33,4 @@
 
 ---
 
-[上一个](/文档/TiHKAL/tihkal44.md) [返回](/文档/TiHKAL/home.md) [下一个](/文档/TiHKAL/tihkal46.md)
+[上一个](/文档/TiHKAL/tihkal44.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal46.md)

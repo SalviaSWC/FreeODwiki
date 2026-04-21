@@ -1,6 +1,6 @@
 
 # 67 [DOI](/药物/DOI.md)
-[上一个](/文档/PiHKAL/pihkal066.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal068.md)
+[上一个](/文档/PiHKAL/pihkal066.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal068.md)
 
 **2,5-二甲氧基-4-碘苯丙胺**
 
@@ -45,4 +45,4 @@ DOI 的四碳丁胺同系物（ARIADNE 类似物）已经合成。将 1-(2,5-二
 
 ---
 
-[上一个](/文档/PiHKAL/pihkal066.md) [返回](/文档/PiHKAL/home.md) [下一个](/文档/PiHKAL/pihkal068.md)
+[上一个](/文档/PiHKAL/pihkal066.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal068.md)
