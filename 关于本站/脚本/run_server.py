@@ -98,6 +98,7 @@ theme:
     - navigation.path # 显示路径（二级目录之后显示）
     - navigation.tabs # 导航顶栏（一级目录）
     - navigation.tabs.sticky # 固定导航顶栏，下滑不消失
+    - navigation.indexes # 目录索引页，开启后自动绑定 index.md
     - content.tooltips
     - content.footnote.tooltips
     - content.code.copy
