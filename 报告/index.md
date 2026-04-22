@@ -24,6 +24,7 @@ description:
 [Reddit报告汉化版](reddit/index.md) _我又能说啥，红迪上老哥真逆天_  
 [OverspeedWiki报告](overspeedwiki/index.md) _感谢OSW wiki主misaki 慷慨地开源了这些数据_  
 [OverdoseWiki报告](../文档/补档/Overdosewiki/Report/index.md) _感谢每一位曾经参与ODW的先辈，纪念已经离开或者从网络上离开的先辈，致瞬息万变之物，及亘古不变之物_
+[其他报告](杂项/index.md) 
 
 </details>
 
