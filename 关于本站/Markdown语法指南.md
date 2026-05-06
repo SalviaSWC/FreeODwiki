@@ -70,17 +70,21 @@ $支持内嵌\TeX$
 
 <details>  <summary> 展开框文本 </summary>
 
-展开框内部。注：若要在展开框内部使用链接，需要将`<details>`换成 `<details markdown="span">`
+展开框内部。注：若要在展开框内部使用Markdown语法，需要将`<details>`换成 `<details markdown="1">`，否则某些阅读器不会渲染Markdown语法
 
 </details>
 
 ```
 <details>  <summary> 展开框文本 </summary>
 
-展开框内部。注：若要在展开框内部使用链接，需要将`<details>`换成 `<details markdown="span">`
+展开框内部。注：若要在展开框内部使用Markdown语法，需要将`<details>`换成 `<details markdown="1">`
 
 </details>
 ```
+
+脚注[^1] `[^1]` (某些阅读器中无效)
+
+[^1]: 在下方使用`[^1]: 脚注内容`  
 
 ### 不推荐使用的语法
 
