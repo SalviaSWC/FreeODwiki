@@ -2,7 +2,7 @@
 
 [◀返回](index.md)
 
-原文网址：<https://www.reddit.com/r/researchchemicals/comments/1t9cqij/ihch7113_am_i_possibly_the_first_person_who_tried/?solution=84e8ea0bf7753c9884e8ea0bf7753c98&js_challenge=1&token=bbbe4bf1c9a2b5160829c4be34da5861ad0968e835423127d8acdf530f404446&jsc_orig_r=>
+原文网址：<https://www.reddit.com/r/researchchemicals/comments/1t9cqij/ihch7113_am_i_possibly_the_first_person_who_tried>
 
 --- 
 
