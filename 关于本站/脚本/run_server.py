@@ -185,7 +185,7 @@ def remove_dead_links_in_file(
 
     # 1. 处理图片链接 ![alt](path)
     def replace_image(match: re.Match):
-        alt = match.group(1)
+        # alt = match.group(1)
         link = match.group(2)
         target = resolve_target_path(filepath, link, docs_root)
         if target is None:  # 外部链接，保留
@@ -237,7 +237,7 @@ def replace_md_to_html_in_file(filepath: Path) -> tuple[bool, str]:
     # 只替换链接中的 .md → .html（包括 #anchor）
     new_content = re.sub(
         r"\]\(([^)#\s]*?\.md)(#[^)]*)?\)",
-        lambda m: f']({m.group(1)[:-3]}.html{m.group(2) or ""})',
+        lambda m: f"]({m.group(1)[:-3]}.html{m.group(2) or ''})",
         content,
     )
 
@@ -266,7 +266,7 @@ def process_src_folder(src_path: Path, target_dir: str) -> bool:
 
     processed = 0
     for md_file in md_files:
-        rel_path = md_file.relative_to(target_dir)
+        # rel_path = md_file.relative_to(target_dir)
         # print(f"处理文件: {rel_path}")
 
         # 步骤1：移除死链接（图片删除、文本保留文字）
@@ -286,7 +286,7 @@ def build_mkdocs(target_dir: str, dirty=False, capture_output=True):
     if dirty:
         args.append("--dirty")
 
-    print(f"开始运行 {" ".join(args)}...")
+    print(f"开始运行 {' '.join(args)}...")
 
     result = subprocess.run(
         args,
@@ -309,7 +309,7 @@ def start_server(target_dir: str):
         print("错误：site/ 目录不存在（build 可能失败）")
         return
 
-    print(f"\n启动本地服务器：http://localhost:8000")
+    print("\n启动本地服务器：http://localhost:8000")
     print("按 Ctrl+C 停止服务器")
     os.chdir(site_path)
     subprocess.run(
