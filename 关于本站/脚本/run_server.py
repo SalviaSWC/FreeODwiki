@@ -24,6 +24,12 @@ repo_url: https://github.com/SalviaSWC/FreeODwiki
 
 extra_css:
   - extra.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+extra_javascript:
+  - katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 plugins:
  - search
