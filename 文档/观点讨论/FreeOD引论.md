@@ -1,4 +1,4 @@
-# FreeODwiki致社群和爱好者们的一封信
+# FreeOD引论
 
 
 [◀返回](./index.md)
@@ -12,7 +12,7 @@
 
 <mark>施工中</mark>
 
-本信的目标读者是所有FreeODwiki的访问者。
+本引论的目标读者是所有FreeODwiki的访问者。
 
 本信的主要作者是 @SalviaSWC 。其本人深入接触过OD群体，是OD群体当前最大的百科[FreeODwiki](https://github.com/SalviaSWC/FreeODwiki/tree/main)的创立者和最大编辑。
 
