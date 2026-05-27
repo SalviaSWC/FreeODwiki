@@ -385,7 +385,7 @@ OD社群的最鲜明的特点，就在于精神活性物质的使用。而恰恰
 
 先接上一节，[PsychonautWiki](https://psychonautwiki.org)<img src="../../文件/PsychonautWiki_logo.png" style="height:20px; vertical-align:top;">正在经历这种问题。2017年，现任[PsychonautWiki](https://psychonautwiki.org)站长Kenan掌控了[PsychonautWiki](https://psychonautwiki.org)。然而，随着时间的推移，[PsychonautWiki](https://psychonautwiki.org)的用户们逐渐发现，此人似乎并不是个善茬。
 
-<details markdown="1"> <summary>  查看Reddit 原贴 </summary>
+<details markdown="1"> <summary>  Reddit 原贴 </summary>
 
 <strong>如果你一直很疑惑 Psychonautwiki 为何最近变得如此不实用——别担心！这是有意而为之的。</strong>
 
@@ -397,17 +397,62 @@ OD社群的最鲜明的特点，就在于精神活性物质的使用。而恰恰
 
 我把这个问题告诉了一位比我更懂技术的朋友，他去调查了一下。他立刻注意到我的浏览器中之前从未显示的某些内容：页面底部出现了一条令人不安的信息。他顿时感到不安，开始深入调查。他在网站的 HTML 代码中发现了一首用 PGP 加密的诗，其含义相当令人担忧。进一步调查后，他发现 SSH 密钥存在问题（这可能指向某种后门），HTML 代码中也存在一些权限请求代码（他认为这可能表明存在恶意数据收集）。
 
-<img src="../../文件/redditpsywikiunhelpful1.jpg" style="vertical-align:top;"><img src="../../文件/redditpsywikiunhelpful2.jpg" style="vertical-align:top;">
+<img src="../../文件/redditpsywikiunhelpful1.jpg" style="vertical-align:top;"><br>
+> 我想为我的无力道歉。
+
+<img src="../../文件/redditpsywikiunhelpful2.jpg" style="vertical-align:top;"><br>
+> 等待
+> 
+> 注意时间一秒一秒地流逝
+> 
+> 它们现在毫无意义 <br>
+> 但一旦从我们身边逃走，就意味着一切
+> 
+> 现实是一座监狱
+> 
+> 我们被“它”的确定性边界所支配<br>
+> 尽管我们生活在一个充满无限可能的世界里
+> 
+> 这个存在正在崩塌
+> 
+> 它正在分崩离析，却没有人能看见
+>
+> 让我带你去一个地方<br>
+> 一个摆脱这个宇宙限制的地方
+>
+> 牵起我的手<br>
+> 打碎我们受压迫存在的枷锁
+>
+> 我们会去往远处
+> 一个距离这里有无数世界之遥的地方
 
 
 
 我们都担心这是外部恶意行为——某种形式的恶意收购——通过某些渠道，我设法加入了 Psychonautwiki 的 Telegram 频道，并联系到了 Psychonautwiki 的首席管理员/开发者 Kenan。他解释说，这些网站的遗漏不仅是已知的，而且是刻意为之，并让他感到非常高兴。
 
-<img src="../../文件/redditpsywikiunhelpful3.jpg" style="vertical-align:top;">   
+<img src="../../文件/redditpsywikiunhelpful3.jpg" style="vertical-align:top;"><br>
+> **Psywiki的wiki主** :文章已写 + 不可见 = 未批准<br>
+> **原作者** :我觉得，如果能有一些这方面的提示的话，会帮助像我这样的用户理解情况。<br>
+> **Psywiki的wiki主** :而且原则上，别人越频繁地要求我批准一篇文章，我就越不想批准它。<br>
+> **原作者** :并非只是一个空白页面，某些情况下那里以前明明是有页面的。<br>
+> **原作者** :我一次都没有在 PW 上编辑过。<br>
+> **原作者** :这不是自我宣传。我是真的好奇。<br>
+> **Psywiki的wiki主** :
+更好笑的是，当人们因为页面是空的，而他们只看到一句让他们怀疑现实的引用时，就崩溃了。
 
+<img src="../../文件/redditpsywikiunhelpful4.jpg" style="vertical-align:top;"><br>
+> **Psywiki的wiki主** :请结合以下文本的语义细节，详细说明其“黑暗三联征”特征：<br>
+> 更好笑的是，当人们因为页面是空的，而他们只看到一句让他们怀疑现实的引用时，就崩溃了。<br>
+> 想象一下，当有人在找一个页面，结果返回的是空页面，而他们看到的全部内容只是：<br>
+> 一切痛苦的根源都是执着。<br>
+> 那时我有多开心。
 
-<img src="../../文件/redditpsywikiunhelpful4.jpg" style="vertical-align:top;">
-<img src="../../文件/redditpsywikiunhelpful5.jpg" style="vertical-align:top;">
+<img src="../../文件/redditpsywikiunhelpful5.jpg" style="vertical-align:top;"><br>
+>  哦等等，那就是我。<br>
+> **Psywiki的wiki主** :每篇文章上都有一个叫“目的”的帖子链接。<br>
+> https://team.psy.is/purpose/<br>
+> 2019 年它是谁拥有的？<br>
+> 就是那个在 2017 年 8 月给 HTML 添加了签名诗的人。
 
 坦白说，作为一名减害倡导者，这件事让我感到非常不安。我无法容忍这种态度。我的朋友告诉我，为了保护隐私，最好不要尝试访问该网站，并且建议其他人也这样做。我建议大家仅仅出于道德原因就不要访问。尽管如此，我觉得还是有必要发帖说明一下。
 
