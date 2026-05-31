@@ -81,7 +81,7 @@ const chineseSubstances = ["IHCH-7113"];
 
 
 
-const translate = 1;
+const translate = 0;
 
 
 
