@@ -52,6 +52,8 @@ FOW论坛：[FOW论坛](https://github.com/SalviaSWC/FreeODwiki/discussions)(Git
 
 观点讨论板块的主题是与精神活性物质相关的观点及其讨论，且仅代表作者观点。
 
+- [FreeOD引论](文档/观点讨论/FreeOD引论.md)
+
 #### [🏛️社会学](/文档/社会学/index.md)
 
 社会学板块的主题是中国特定背景下的精神活性物质与社会、法律的文档。
