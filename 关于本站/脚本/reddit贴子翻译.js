@@ -84,7 +84,7 @@ const chineseSubstances = ["酒精", "可卡因"];
 
 
 
-const translate = 1;
+const translate = 0;
 
 
 
