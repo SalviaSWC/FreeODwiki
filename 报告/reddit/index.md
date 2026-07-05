@@ -184,6 +184,10 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 
 - [可以用未列管化合物以更低神经毒性复刻MDMA体验。方法如下。](./the_mdma_experience_can_be_replicated_with_less.md) ([2-FMA](../../药物/2-FMA.md), [5-MAPB](../../药物/5-MAPB.md), [4-HO-MET](../../药物/4-HO-MET.md), [5-MeO-MiPT](../../药物/5-MeO-DiPT.md), [MDAI](../../药物/MDAI.md), [5-APB](../../药物/5-APB.md)&[3-FPM](../../药物/3-FPM.md))
 
+### [3-Me-PCPy](../../药物/3-Me-PCPy.md)
+
+- [在药房送货时直肠给药30mg 3-Me-PCPy 并进入洞穴状态](./boofing_30mg_3mepcpy_while_working_as_delivery_at.md)
+
 ### [3-MMC](../../药物/3-MMC.md)
 
 - [3-MMC 是史上最棒的药物（迷幻剂除外）](./3mmc_is_the_best_drug_ever_outside_of_psychedelics.md)
