@@ -1,6 +1,6 @@
 # 在药房送货时直肠给药30mg 3-Me-PCPy 并进入洞穴状态——3-Me-PCPy
 
-[◀返回](index.md)
+[◀返回](./index.md)
 
 原文网址：<https://www.reddit.com/r/researchchemicals/comments/1tzppi0/boofing_30mg_3mepcpy_while_working_as_delivery_at/>
 
