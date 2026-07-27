@@ -29,6 +29,13 @@ def process_html():
         else:
             cleaned_text = markdown_text.rstrip()
 
+        pattern_header = r'\!\[Menu\]\(\.\./\.\./\.\./\.\./content/svg/menu\.svg\)'
+        match = re.search(pattern_header, cleaned_text, re.IGNORECASE)
+        if match:
+            cleaned_text = cleaned_text[match.end():].lstrip()
+        else:
+            cleaned_text = cleaned_text.lstrip()
+
         final_text = cleaned_text
 
         # pattern = "\s.+!\[\]\(images/pihkal_header\.gif\)"
