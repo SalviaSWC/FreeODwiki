@@ -4,6 +4,7 @@ import shutil
 import stat
 import subprocess
 import sys
+import chardet
 from pathlib import Path
  
 # import 生成sitemap
@@ -134,7 +135,54 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 """
+#!/usr/bin/env python3
 
+
+ROOT = Path(r"D:\Projects\FreeODwiki")  # <- 必要时修改为你的仓库根路径
+# BACKUP_DIR_NAME = "backup_encoding"
+
+def detect_encoding(b: bytes):
+    r = chardet.detect(b)
+    return (r.get("encoding") or "").upper()
+
+def convert_file(p: Path):
+    b = p.read_bytes()
+    try:
+        b.decode("utf-8")
+        return False, "utf-8"
+    except Exception:
+        pass
+    enc = detect_encoding(b) or "GBK"
+    # 备份
+    # dest = backup_root / p.relative_to(ROOT)
+    # dest.parent.mkdir(parents=True, exist_ok=True)
+    # shutil.copy2(p, dest)
+    # 解码并写回 UTF-8
+    try:
+        text = b.decode(enc, errors="replace")
+    except Exception:
+        text = b.decode(enc, errors="ignore")
+    p.write_text(text, encoding="utf-8")
+    return True, enc
+
+def convert_non_utf8_files():
+    # backup_root = ROOT / BACKUP_DIR_NAME
+    md_files = list(ROOT.rglob("*.md"))
+    converted = []
+    for p in md_files:
+        changed, enc = convert_file(p)
+        if changed:
+            converted.append((str(p), enc))
+    # print(f"Converted {len(converted)} files. Examples:")
+    # for i, (f, e) in enumerate(converted[:20], 1):
+    #     print(f"{i}. {f}  (from: {e})")
+    if converted:
+        # print(f"\nBackups are in: {backup_root}")
+        pass
+    else:
+        print("No non-UTF-8 .md files found.")
+if __name__ == '__main__':
+    convert_non_utf8_files()
 
 # ── 辅助函数 ──
 def remove_readonly(func, path, exc_info):
