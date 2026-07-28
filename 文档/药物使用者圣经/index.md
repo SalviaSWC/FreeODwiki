@@ -2,285 +2,285 @@
 
 # 药物使用者圣经目录
 
-[?返回](./preface.md)
+[◀返回](./preface.md)
 
-- [x] 1\. 药物景观?
+-  [1\. 药物景观](./drugscape/index.md)
 
-    - [x] 1\.1 安全第一?
+    -  [1\.1 安全第一](./drugscape/safety_first/index.md)
 
-        - 1\.1\.1 更安全用药的十条戒律
-        - 1\.1\.2 如何使用药物检测套件
-    - [x] 1\.2 解读报告?
+        - [1\.1\.1 更安全用药的十条戒律](./drugscape/safety_first/the_10_commandments_of_safer_drug_use.md)
+        - [1\.1\.2 如何使用药物检测套件](./drugscape/safety_first/how_to_use_a_drug_testing_kit.md)
+    -  [1\.2 解读报告](./drugscape/interpreting_the_reports/index.md)
 
-        - 1\.2\.1 术语定义
-        - 1\.2\.2 舒尔金评级量表
-        - 1\.2\.3 分类
-        - 1\.2\.4 给药途径 (RoA)
-        - 1\.2\.5 关于来源与管辖的更多内容
-    - [x] 1\.3 一般安全提示?
+        - [1\.2\.1 术语定义](./drugscape/interpreting_the_reports/definition_of_terms.md)
+        - [1\.2\.2 舒尔金评级量表](./drugscape/interpreting_the_reports/the_shulgin_rating_scale.md)
+        - [1\.2\.3 分类](./drugscape/interpreting_the_reports/classification.md)
+        - [1\.2\.4 给药途径 (RoA)](./drugscape/interpreting_the_reports/routes_of_administration_roa.md)
+        - [1\.2\.5 关于来源与管辖的更多内容](./drugscape/interpreting_the_reports/more_on_source_and_jurisdiction.md)
+    -  [1\.3 一般安全提示](./drugscape/general_safety_notes/index.md)
 
-        - 1\.3\.1 如果你不是成年人
-        - 1\.3\.2 静脉注射的风险缓解
-        - 1\.3\.3 鼻腔护理
-        - 1\.3\.4 化学性爱
-        - 1\.3\.5 升则必降
-        - 1\.3\.6 自满致命
-- [x] 2\. 化学景观?
+        - [1\.3\.1 如果你不是成年人](./drugscape/general_safety_notes/if_you_are_not_an_adult.md)
+        - [1\.3\.2 静脉注射的风险缓解](./drugscape/general_safety_notes/risk_mitigation_for_iv.md)
+        - [1\.3\.3 鼻腔护理](./drugscape/general_safety_notes/nasal_care.md)
+        - [1\.3\.4 化学性爱](./drugscape/general_safety_notes/chemsex.md)
+        - [1\.3\.5 升则必降](./drugscape/general_safety_notes/what_goes_up_must_come_down.md)
+        - [1\.3\.6 自满致命](./drugscape/general_safety_notes/complacency_kills.md)
+-  [2\. 化学景观](./chemscape/index.md)
 
-    - [x] 2\.2 迷幻剂?
+    -  [2\.2 迷幻剂](./chemscape/psychedelics/index.md)
 
-        - 2\.2\.1 1P\-LSD
-        - 2\.2\.2 1cP\-LSD
-        - 2\.2\.3 1P\-ETH\-LAD
-        - 2\.2\.4 2C\-B
-        - 2\.2\.5 2C\-B\-AN
-        - 2\.2\.6 2C\-B\-FLY
-        - 2\.2\.7 2C\-E
-        - 2\.2\.8 2C\-I
-        - 2\.2\.9 4\-ACO\-DMT
-        - 2\.2\.10 4\-HO\-MET
-        - 2\.2\.11 5\-MEO\-DALT
-        - 2\.2\.12 5\-MEO\-DIBF
-        - 2\.2\.13 AL\-LAD
-        - 2\.2\.14 AMT
-        - 2\.2\.15 BK\-2C\-B
-        - 2\.2\.16 Changa
-        - 2\.2\.17 DMT
-        - 2\.2\.18 DOM
-        - 2\.2\.19 LSD
-        - 2\.2\.20 LSZ
-        - 2\.2\.21 TMA
-    - [x] 2\.3 兴奋剂?
+        - [2\.2\.1 1P\-LSD](./chemscape/psychedelics/1p-lsd.md)
+        - [2\.2\.2 1cP\-LSD](./chemscape/psychedelics/1cp-lsd.md)
+        - [2\.2\.3 1P\-ETH\-LAD](./chemscape/psychedelics/1p-eth-lad.md)
+        - [2\.2\.4 2C\-B](./chemscape/psychedelics/2c-b.md)
+        - [2\.2\.5 2C\-B\-AN](./chemscape/psychedelics/2c-b-an.md)
+        - [2\.2\.6 2C\-B\-FLY](./chemscape/psychedelics/2c-b-fly.md)
+        - [2\.2\.7 2C\-E](./chemscape/psychedelics/2c-e.md)
+        - [2\.2\.8 2C\-I](./chemscape/psychedelics/2c-i.md)
+        - [2\.2\.9 4\-ACO\-DMT](./chemscape/psychedelics/4-aco-dmt.md)
+        - [2\.2\.10 4\-HO\-MET](./chemscape/psychedelics/4-ho-met.md)
+        - [2\.2\.11 5\-MEO\-DALT](./chemscape/psychedelics/5-meo-dalt.md)
+        - [2\.2\.12 5\-MEO\-DIBF](./chemscape/psychedelics/5-meo-dibf.md)
+        - [2\.2\.13 AL\-LAD](./chemscape/psychedelics/al-lad.md)
+        - [2\.2\.14 AMT](./chemscape/psychedelics/amt.md)
+        - [2\.2\.15 BK\-2C\-B](./chemscape/psychedelics/bk-2c-b.md)
+        - [2\.2\.16 Changa](./chemscape/psychedelics/changa.md)
+        - [2\.2\.17 DMT](./chemscape/psychedelics/dmt.md)
+        - [2\.2\.18 DOM](./chemscape/psychedelics/dom.md)
+        - [2\.2\.19 LSD](./chemscape/psychedelics/lsd.md)
+        - [2\.2\.20 LSZ](./chemscape/psychedelics/lsz.md)
+        - [2\.2\.21 TMA](./chemscape/psychedelics/tma.md)
+    -  [2\.3 兴奋剂](./chemscape/stimulants/index.md)
 
-        - 2\.3\.1 2\-AI
-        - 2\.3\.2 3,4\-CTMP
-        - 2\.3\.3 3\-FPM
-        - 2\.3\.4 3\-MMC
-        - 2\.3\.5 4\-FA
-        - 2\.3\.6 4\-Me\-TMP
-        - 2\.3\.7 4F\-EPH
-        - 2\.3\.8 4F\-MPH
-        - 2\.3\.9 Adderall
-        - 2\.3\.10 Amphetamine
-        - 2\.3\.11 a\-PHP
-        - 2\.3\.12 Caffeine
-        - 2\.3\.13 Cocaine
-        - 2\.3\.14 EPH
-        - 2\.3\.15 HDMP\-28
-        - 2\.3\.16 Hexen
-        - 2\.3\.17 IPPH
-        - 2\.3\.18 Methamphetamine
-        - 2\.3\.19 Methylphenidate
-        - 2\.3\.20 MPA
-        - 2\.3\.21 NM2AI
-        - 2\.3\.22 PPH
-        - 2\.3\.23 Pipradrol
-        - 2\.3\.24 TPA
-    - [x] 2\.4 抗焦虑剂与镇静剂?
+        - [2\.3\.1 2\-AI](./chemscape/stimulants/2-ai.md)
+        - [2\.3\.2 3,4\-CTMP](./chemscape/stimulants/3_4-ctmp.md)
+        - [2\.3\.3 3\-FPM](./chemscape/stimulants/3-fpm.md)
+        - [2\.3\.4 3\-MMC](./chemscape/stimulants/3-mmc.md)
+        - [2\.3\.5 4\-FA](./chemscape/stimulants/4-fa.md)
+        - [2\.3\.6 4\-Me\-TMP](./chemscape/stimulants/4-me-tmp.md)
+        - [2\.3\.7 4F\-EPH](./chemscape/stimulants/4f-eph.md)
+        - [2\.3\.8 4F\-MPH](./chemscape/stimulants/4f-mph.md)
+        - [2\.3\.9 Adderall](./chemscape/stimulants/adderall.md)
+        - [2\.3\.10 Amphetamine](./chemscape/stimulants/amphetamine.md)
+        - [2\.3\.11 a\-PHP](./chemscape/stimulants/a-php.md)
+        - [2\.3\.12 Caffeine](./chemscape/stimulants/caffeine.md)
+        - [2\.3\.13 Cocaine](./chemscape/stimulants/cocaine.md)
+        - [2\.3\.14 EPH](./chemscape/stimulants/eph.md)
+        - [2\.3\.15 HDMP\-28](./chemscape/stimulants/hdmp-28.md)
+        - [2\.3\.16 Hexen](./chemscape/stimulants/hexen.md)
+        - [2\.3\.17 IPPH](./chemscape/stimulants/ipph.md)
+        - [2\.3\.18 Methamphetamine](./chemscape/stimulants/methamphetamine.md)
+        - [2\.3\.19 Methylphenidate](./chemscape/stimulants/methylphenidate.md)
+        - [2\.3\.20 MPA](./chemscape/stimulants/mpa.md)
+        - [2\.3\.21 NM2AI](./chemscape/stimulants/nm2ai.md)
+        - [2\.3\.22 PPH](./chemscape/stimulants/pph.md)
+        - [2\.3\.23 Pipradrol](./chemscape/stimulants/pipradrol.md)
+        - [2\.3\.24 TPA](./chemscape/stimulants/tpa.md)
+    -  [2\.4 抗焦虑剂与镇静剂](./chemscape/anxiolytics_and_sedatives/index.md)
 
-        - 2\.4\.1 Alprazolam
-        - 2\.4\.2 Carisoprodol
-        - 2\.4\.3 Clonazolam
-        - 2\.4\.4 Diazepam
-        - 2\.4\.5 Etizolam
-        - 2\.4\.6 Gabapentin
-        - 2\.4\.7 Pregabalin
-        - 2\.4\.8 Pyrazolam
-        - 2\.4\.9 Zopiclone
-        - 2\.4\.10 Others
-    - [x] 2\.5 致醉抑制剂?
+        - [2\.4\.1 Alprazolam](./chemscape/anxiolytics_and_sedatives/alprazolam.md)
+        - [2\.4\.2 Carisoprodol](./chemscape/anxiolytics_and_sedatives/carisoprodol.md)
+        - [2\.4\.3 Clonazolam](./chemscape/anxiolytics_and_sedatives/clonazolam.md)
+        - [2\.4\.4 Diazepam](./chemscape/anxiolytics_and_sedatives/diazepam.md)
+        - [2\.4\.5 Etizolam](./chemscape/anxiolytics_and_sedatives/etizolam.md)
+        - [2\.4\.6 Gabapentin](./chemscape/anxiolytics_and_sedatives/gabapentin.md)
+        - [2\.4\.7 Pregabalin](./chemscape/anxiolytics_and_sedatives/pregabalin.md)
+        - [2\.4\.8 Pyrazolam](./chemscape/anxiolytics_and_sedatives/pyrazolam.md)
+        - [2\.4\.9 Zopiclone](./chemscape/anxiolytics_and_sedatives/zopiclone.md)
+        - [2\.4\.10 Others](./chemscape/anxiolytics_and_sedatives/others.md)
+    -  [2\.5 致醉抑制剂](./chemscape/intoxicating_depressants/index.md)
 
-        - 2\.5\.1 Alcohol
-        - 2\.5\.2 Codeine
-        - 2\.5\.3 Fentanyl
-        - 2\.5\.4 GHB
-        - 2\.5\.5 Heroin
-        - 2\.5\.6 Lean
-        - 2\.5\.7 Morphine
-        - 2\.5\.8 Oxycodone
-        - 2\.5\.9 Poppers
-        - 2\.5\.10 Sentia
-        - 2\.5\.11 Tramadol
-    - [x] 2\.6 解离剂?
+        - [2\.5\.1 Alcohol](./chemscape/intoxicating_depressants/alcohol.md)
+        - [2\.5\.2 Codeine](./chemscape/intoxicating_depressants/codeine.md)
+        - [2\.5\.3 Fentanyl](./chemscape/intoxicating_depressants/fentanyl.md)
+        - [2\.5\.4 GHB](./chemscape/intoxicating_depressants/ghb.md)
+        - [2\.5\.5 Heroin](./chemscape/intoxicating_depressants/heroin.md)
+        - [2\.5\.6 Lean](./chemscape/intoxicating_depressants/lean.md)
+        - [2\.5\.7 Morphine](./chemscape/intoxicating_depressants/morphine.md)
+        - [2\.5\.8 Oxycodone](./chemscape/intoxicating_depressants/oxycodone.md)
+        - [2\.5\.9 Poppers](./chemscape/intoxicating_depressants/poppers.md)
+        - [2\.5\.10 Sentia](./chemscape/intoxicating_depressants/sentia.md)
+        - [2\.5\.11 Tramadol](./chemscape/intoxicating_depressants/tramadol.md)
+    -  [2\.6 解算剂](./chemscape/dissociatives/index.md)
 
-        - 2\.6\.1 3\-HO\-PCP
-        - 2\.6\.2 3\-MeO\-PCMo
-        - 2\.6\.3 Diphenidine
-        - 2\.6\.4 右美沙芬
-        - 2\.6\.5 Ephenidine
-        - 2\.6\.6 Ketamine
-        - 2\.6\.7 Mefloquine
-        - 2\.6\.8 MXE
-        - 2\.6\.9 MXP
-        - 2\.6\.10 N2O
-    - [x] 2\.7 共情剂与情感剂?
+        - [2\.6\.1 3\-HO\-PCP](./chemscape/dissociatives/3-ho-pcp.md)
+        - [2\.6\.2 3\-MeO\-PCMo](./chemscape/dissociatives/3-meo-pcmo.md)
+        - [2\.6\.3 Diphenidine](./chemscape/dissociatives/diphenidine.md)
+        - [2\.6\.4 右美沙芬](./chemscape/dissociatives/dxm.md)
+        - [2\.6\.5 Ephenidine](./chemscape/dissociatives/ephenidine.md)
+        - [2\.6\.6 Ketamine](./chemscape/dissociatives/ketamine.md)
+        - [2\.6\.7 Mefloquine](./chemscape/dissociatives/mefloquine.md)
+        - [2\.6\.8 MXE](./chemscape/dissociatives/mxe.md)
+        - [2\.6\.9 MXP](./chemscape/dissociatives/mxp.md)
+        - [2\.6\.10 N2O](./chemscape/dissociatives/n2o.md)
+    -  [2\.7 共情剂与情感剂](./chemscape/empathogens_and_entactogens/index.md)
 
-        - 2\.7\.1 6\-APB
-        - 2\.7\.2 MDA
-        - 2\.7\.3 MDAI
-        - 2\.7\.4 MDMA
-        - 2\.7\.5 MEAI
-        - 2\.7\.6 Mephedrone
-        - 2\.7\.7 Methylone
-        - 2\.7\.8 MNA
-        - 2\.7\.9 Mexedrone
-    - [x] 2\.8 合成大麻素?
+        - [2\.7\.1 6\-APB](./chemscape/empathogens_and_entactogens/6-apb.md)
+        - [2\.7\.2 MDA](./chemscape/empathogens_and_entactogens/mda.md)
+        - [2\.7\.3 MDAI](./chemscape/empathogens_and_entactogens/mdai.md)
+        - [2\.7\.4 MDMA](./chemscape/empathogens_and_entactogens/mdma.md)
+        - [2\.7\.5 MEAI](./chemscape/empathogens_and_entactogens/meai.md)
+        - [2\.7\.6 Mephedrone](./chemscape/empathogens_and_entactogens/mephedrone.md)
+        - [2\.7\.7 Methylone](./chemscape/empathogens_and_entactogens/methylone.md)
+        - [2\.7\.8 MNA](./chemscape/empathogens_and_entactogens/mna.md)
+        - [2\.7\.9 Mexedrone](./chemscape/empathogens_and_entactogens/mexedrone.md)
+    -  [2\.8 合成大麻素](./chemscape/synthetic_cannabinoids/index.md)
 
-        - 2\.8\.1 5F\-AKB48
-        - 2\.8\.2 AM\-2201
-        - 2\.8\.3 AM\-694
-        - 2\.8\.4 JWH\-018
-        - 2\.8\.5 JWH\-073
-    - [x] 2\.9 益智药?
+        - [2\.8\.1 5F\-AKB48](./chemscape/synthetic_cannabinoids/5f-akb48.md)
+        - [2\.8\.2 AM\-2201](./chemscape/synthetic_cannabinoids/am-2201.md)
+        - [2\.8\.3 AM\-694](./chemscape/synthetic_cannabinoids/am-694.md)
+        - [2\.8\.4 JWH\-018](./chemscape/synthetic_cannabinoids/jwh-018.md)
+        - [2\.8\.5 JWH\-073](./chemscape/synthetic_cannabinoids/jwh-073.md)
+    -  [2\.9 益智药](./chemscape/nootropics/index.md)
 
-        - 2\.9\.1 5\-HTP
-        - 2\.9\.2 Aniracetam (\+ Citicoline)
-        - 2\.9\.3 Armodafinil
-        - 2\.9\.4 L\-Theanine
-        - 2\.9\.5 Modafiendz
-        - 2\.9\.6 Modafinil
-        - 2\.9\.7 Noopept
-        - 2\.9\.8 NSI\-189
-        - 2\.9\.9 Phenibut
-        - 2\.9\.10 Picamilon
-        - 2\.9\.11 PRL\-8\-53
-- [x] 3\. 植物景观?
+        - [2\.9\.1 5\-HTP](./chemscape/nootropics/5-htp.md)
+        - [2\.9\.2 Aniracetam (\+ Citicoline)](./chemscape/nootropics/aniracetam_citicoline.md)
+        - [2\.9\.3 Armodafinil](./chemscape/nootropics/armodafinil.md)
+        - [2\.9\.4 L\-Theanine](./chemscape/nootropics/l-theanine.md)
+        - [2\.9\.5 Modafiendz](./chemscape/nootropics/modafiendz.md)
+        - [2\.9\.6 Modafinil](./chemscape/nootropics/modafinil.md)
+        - [2\.9\.7 Noopept](./chemscape/nootropics/noopept.md)
+        - [2\.9\.8 NSI\-189](./chemscape/nootropics/nsi-189.md)
+        - [2\.9\.9 Phenibut](./chemscape/nootropics/phenibut.md)
+        - [2\.9\.10 Picamilon](./chemscape/nootropics/picamilon.md)
+        - [2\.9\.11 PRL\-8\-53](./chemscape/nootropics/prl-8-53.md)
+-  [3\. 植物景观](./botscape/index.md)
 
-    - [x] 3\.2 迷幻剂?
+    -  [3\.2 迷幻剂](./botscape/psychedelics/index.md)
 
-        - 3\.2\.1 Ayahuasca
-        - 3\.2\.2 Cebil
-        - 3\.2\.3 Chaliponga Leaves
-        - 3\.2\.4 Fly Agaric
-        - 3\.2\.5 HBWS
-        - 3\.2\.6 Iboga
-        - 3\.2\.7 Magic Mushrooms
-        - 3\.2\.8 Magic Truffles
-        - 3\.2\.9 Morning Glory Seeds
-        - 3\.2\.10 Ololiuqui
-        - 3\.2\.11 Salvia Divinorum
-        - 3\.2\.12 Sananga
-        - 3\.2\.13 San Pedro Cactus
-        - 3\.2\.14 Sensory Deprivation
-        - 3\.2\.15 Shirodhara
-        - 3\.2\.16 Sinicuichi
-        - 3\.2\.17 Syrian Rue
-        - 3\.2\.18 Yopo
-    - [x] 3\.3 兴奋剂?
+        - [3\.2\.1 Ayahuasca](./botscape/psychedelics/ayahuasca.md)
+        - [3\.2\.2 Cebil](./botscape/psychedelics/cebil.md)
+        - [3\.2\.3 Chaliponga Leaves](./botscape/psychedelics/chaliponga_leaves.md)
+        - [3\.2\.4 Fly Agaric](./botscape/psychedelics/fly_agaric.md)
+        - [3\.2\.5 HBWS](./botscape/psychedelics/hbws.md)
+        - [3\.2\.6 Iboga](./botscape/psychedelics/iboga.md)
+        - [3\.2\.7 Magic Mushrooms](./botscape/psychedelics/magic_mushrooms.md)
+        - [3\.2\.8 Magic Truffles](./botscape/psychedelics/magic_truffles.md)
+        - [3\.2\.9 Morning Glory Seeds](./botscape/psychedelics/morning_glory_seeds.md)
+        - [3\.2\.10 Ololiuqui](./botscape/psychedelics/ololiuqui.md)
+        - [3\.2\.11 Salvia Divinorum](./botscape/psychedelics/salvia_divinorum.md)
+        - [3\.2\.12 Sananga](./botscape/psychedelics/sananga.md)
+        - [3\.2\.13 San Pedro Cactus](./botscape/psychedelics/san_pedro_cactus.md)
+        - [3\.2\.14 Sensory Deprivation](./botscape/psychedelics/sensory_deprivation.md)
+        - [3\.2\.15 Shirodhara](./botscape/psychedelics/shirodhara.md)
+        - [3\.2\.16 Sinicuichi](./botscape/psychedelics/sinicuichi.md)
+        - [3\.2\.17 Syrian Rue](./botscape/psychedelics/syrian_rue.md)
+        - [3\.2\.18 Yopo](./botscape/psychedelics/yopo.md)
+    -  [3\.3 兴奋剂](./botscape/stimulants/index.md)
 
-        - 3\.3\.1 Betel Nut
-        - 3\.3\.2 Coca
-        - 3\.3\.3 Ephedra
-        - 3\.3\.4 Ginseng
-        - 3\.3\.5 Green Tea
-        - 3\.3\.6 Guarana
-        - 3\.3\.7 Guayusa
-        - 3\.3\.8 Horny Goat Weed
-        - 3\.3\.9 Khaini
-        - 3\.3\.10 Kola Nut
-        - 3\.3\.11 Wormwood
-        - 3\.3\.12 Yerba Mate
-        - 3\.3\.13 Yohimbe
-    - [x] 3\.4 镇静剂?
+        - [3\.3\.1 Betel Nut](./botscape/stimulants/betel_nut.md)
+        - [3\.3\.2 Coca](./botscape/stimulants/coca.md)
+        - [3\.3\.3 Ephedra](./botscape/stimulants/ephedra.md)
+        - [3\.3\.4 Ginseng](./botscape/stimulants/ginseng.md)
+        - [3\.3\.5 Green Tea](./botscape/stimulants/green_tea.md)
+        - [3\.3\.6 Guarana](./botscape/stimulants/guarana.md)
+        - [3\.3\.7 Guayusa](./botscape/stimulants/guayusa.md)
+        - [3\.3\.8 Horny Goat Weed](./botscape/stimulants/horny_goat_weed.md)
+        - [3\.3\.9 Khaini](./botscape/stimulants/khaini.md)
+        - [3\.3\.10 Kola Nut](./botscape/stimulants/kola_nut.md)
+        - [3\.3\.11 Wormwood](./botscape/stimulants/wormwood.md)
+        - [3\.3\.12 Yerba Mate](./botscape/stimulants/yerba_mate.md)
+        - [3\.3\.13 Yohimbe](./botscape/stimulants/yohimbe.md)
+    -  [3\.4 镇静剂](./botscape/sedatives/index.md)
 
-        - 3\.4\.1 Blue Lotus
-        - 3\.4\.2 Cacao
-        - 3\.4\.3 Catnip
-        - 3\.4\.4 Chamomile
-        - 3\.4\.5 Damiana
-        - 3\.4\.6 Frankincense
-        - 3\.4\.7 Hops
-        - 3\.4\.8 Imphepho
-        - 3\.4\.9 Indian Warrior
-        - 3\.4\.10 Kanna
-        - 3\.4\.11 Lavender
-        - 3\.4\.12 Maconha Brava
-        - 3\.4\.13 Marihuanilla
-        - 3\.4\.14 Mullein
-        - 3\.4\.15 Mulungu
-        - 3\.4\.16 Passion Flower
-        - 3\.4\.17 Rhodiola
-        - 3\.4\.18 Saffron
-        - 3\.4\.19 St. John's Wort
-        - 3\.4\.20 Skullcap
-        - 3\.4\.21 Valerian Root
-        - 3\.4\.22 White Sage
-        - 3\.4\.23 Wild Dagga
-        - 3\.4\.24 Wild Lettuce
-    - [x] 3\.5 益智药?
+        - [3\.4\.1 Blue Lotus](./botscape/sedatives/blue_lotus.md)
+        - [3\.4\.2 Cacao](./botscape/sedatives/cacao.md)
+        - [3\.4\.3 Catnip](./botscape/sedatives/catnip.md)
+        - [3\.4\.4 Chamomile](./botscape/sedatives/chamomile.md)
+        - [3\.4\.5 Damiana](./botscape/sedatives/damiana.md)
+        - [3\.4\.6 Frankincense](./botscape/sedatives/frankincense.md)
+        - [3\.4\.7 Hops](./botscape/sedatives/hops.md)
+        - [3\.4\.8 Imphepho](./botscape/sedatives/imphepho.md)
+        - [3\.4\.9 Indian Warrior](./botscape/sedatives/indian_warrior.md)
+        - [3\.4\.10 Kanna](./botscape/sedatives/kanna.md)
+        - [3\.4\.11 Lavender](./botscape/sedatives/lavender.md)
+        - [3\.4\.12 Maconha Brava](./botscape/sedatives/maconha_brava.md)
+        - [3\.4\.13 Marihuanilla](./botscape/sedatives/marihuanilla.md)
+        - [3\.4\.14 Mullein](./botscape/sedatives/mullein.md)
+        - [3\.4\.15 Mulungu](./botscape/sedatives/mulungu.md)
+        - [3\.4\.16 Passion Flower](./botscape/sedatives/passion_flower.md)
+        - [3\.4\.17 Rhodiola](./botscape/sedatives/rhodiola.md)
+        - [3\.4\.18 Saffron](./botscape/sedatives/saffron.md)
+        - [3\.4\.19 St. John's Wort](./botscape/sedatives/st_johns_wort.md)
+        - [3\.4\.20 Skullcap](./botscape/sedatives/skullcap.md)
+        - [3\.4\.21 Valerian Root](./botscape/sedatives/valerian_root.md)
+        - [3\.4\.22 White Sage](./botscape/sedatives/white_sage.md)
+        - [3\.4\.23 Wild Dagga](./botscape/sedatives/wild_dagga.md)
+        - [3\.4\.24 Wild Lettuce](./botscape/sedatives/wild_lettuce.md)
+    -  [3\.5 益智药](./botscape/nootropics/index.md)
 
-        - 3\.5\.1 Catuaba
-        - 3\.5\.2 Celastrus Paniculatus
-        - 3\.5\.3 Ginkgo
-    - [x] 3\.6 梦境剂?
+        - [3\.5\.1 Catuaba](./botscape/nootropics/catuaba.md)
+        - [3\.5\.2 Celastrus Paniculatus](./botscape/nootropics/celastrus_paniculatus.md)
+        - [3\.5\.3 Ginkgo](./botscape/nootropics/ginkgo.md)
+    -  [3\.6 梦境剂](./botscape/oneirogens/index.md)
 
-        - 3\.6\.1 Calea
-        - 3\.6\.2 Entada Rheedii
-        - 3\.6\.3 Mexican Tarragon
-        - 3\.6\.4 Mugwort
-        - 3\.6\.5 Ubulawu
-    - [x] 3\.7 谵妄剂?
+        - [3\.6\.1 Calea](./botscape/oneirogens/calea.md)
+        - [3\.6\.2 Entada Rheedii](./botscape/oneirogens/entada_rheedii.md)
+        - [3\.6\.3 Mexican Tarragon](./botscape/oneirogens/mexican_tarragon.md)
+        - [3\.6\.4 Mugwort](./botscape/oneirogens/mugwort.md)
+        - [3\.6\.5 Ubulawu](./botscape/oneirogens/ubulawu.md)
+    -  [3\.7 谵妄剂](./botscape/deliriants/index.md)
 
-        - 3\.7\.1 Datura
-        - 3\.7\.2 Nutmeg
-    - [x] 3\.8 未分类?
+        - [3\.7\.1 Datura](./botscape/deliriants/datura.md)
+        - [3\.7\.2 Nutmeg](./botscape/deliriants/nutmeg.md)
+    -  [3\.8 未分类](./botscape/unclassified/index.md)
 
-        - 3\.8\.1 Cannabis
-        - 3\.8\.2 Essential Oils
-        - 3\.8\.3 Kava Kava
-        - 3\.8\.4 Kratom
-        - 3\.8\.5 Mad Honey
-        - 3\.8\.6 Mapacho
-        - 3\.8\.7 Opium
-        - 3\.8\.8 Rapé
-        - 3\.8\.9 Sakae Naa
-        - 3\.8\.10 Tobacco
-- [x] 4\. 世界景观?
+        - [3\.8\.1 Cannabis](./botscape/unclassified/cannabis.md)
+        - [3\.8\.2 Essential Oils](./botscape/unclassified/essential_oils.md)
+        - [3\.8\.3 Kava Kava](./botscape/unclassified/kava_kava.md)
+        - [3\.8\.4 Kratom](./botscape/unclassified/kratom.md)
+        - [3\.8\.5 Mad Honey](./botscape/unclassified/mad_honey.md)
+        - [3\.8\.6 Mapacho](./botscape/unclassified/mapacho.md)
+        - [3\.8\.7 Opium](./botscape/unclassified/opium.md)
+        - [3\.8\.8 Rapé](./botscape/unclassified/rapey.md)
+        - [3\.8\.9 Sakae Naa](./botscape/unclassified/sakae_naa.md)
+        - [3\.8\.10 Tobacco](./botscape/unclassified/tobacco.md)
+-  [4\. 世界景观](./worldscape/index.md)
 
-    - [x] 4\.1 有多少人在用药？?
-    - [x] 4\.2 相对危害?
-    - [x] 4\.3 成瘾与过量?
+    -  [4\.1 有多少人在用药呢？](./worldscape/how_many_people_use_drugs/index.md)
+    -  [4\.2 相对危害](./worldscape/the_relative_harm/index.md)
+    -  [4\.3 成瘥与过量](./worldscape/addiction_and_overdose/index.md)
 
-        - 4\.3\.1 成瘾
-        - 4\.3\.2 如果你成瘾了
-        - 4\.3\.3 酗酒
-        - 4\.3\.4 过量与应急响应
-        - 4\.3\.5 药物相关死亡，知名人物
-    - [x] 4\.4 法律景观?
+        - [4\.3\.1 成瘥](./worldscape/addiction_and_overdose/addiction/index.md)
+        - [4\.3\.2 如果你成瘥了](./worldscape/addiction_and_overdose/if_you_are_addicted/index.md)
+        - [4\.3\.3 酗酒](./worldscape/addiction_and_overdose/alcoholism/index.md)
+        - [4\.3\.4 过量与应急应对](./worldscape/addiction_and_overdose/overdose_and_emergency_response/index.md)
+        - [4\.3\.5 药物相关死亡，着名人物](./worldscape/addiction_and_overdose/drug_related_deaths_notable_people/index.md)
+    -  [4\.4 法律景观](./worldscape/the_lawscape/index.md)
 
-        - 4\.4\.1 英国
-        - 4\.4\.2 美国
-        - 4\.4\.3 世界其他地区
-        - 4\.4\.4 贩卖者，不同的视角
-        - 4\.4\.5 媒体的角色
-        - 4\.4\.6 强制药检
-        - 4\.4\.7 行动主义，药物使用者权利宪章
-    - [x] 4\.5 药物旅游?
+        - [4\.4\.1 英国](./worldscape/the_lawscape/the_united_kingdom/index.md)
+        - [4\.4\.2 美国](./worldscape/the_lawscape/the_united_states/index.md)
+        - [4\.4\.3 世界其他地区](./worldscape/the_lawscape/the_rest_of_the_world/index.md)
+        - [4\.4\.4 购毁者，不同的视角](./worldscape/the_lawscape/dealers_a_different_perspective/index.md)
+        - [4\.4\.5 媒体的角色](./worldscape/the_lawscape/the_role_of_the_media/index.md)
+        - [4\.4\.6 强制药检](./worldscape/the_lawscape/mandatory_drug_testing/index.md)
+        - [4\.4\.7 行刈主义，药物使用者权利审上](./worldscape/the_lawscape/activism_the_charter_of_drug_users_rights/index.md)
+    -  [4\.5 药物旅游](./worldscape/drug_tourism/index.md)
 
-        - 4\.5\.1 荷兰联系（阿姆斯特丹）
-        - 4\.5\.2 潜在感兴趣目的地
-    - [x] 4\.6 文化与社会（参考）?
+        - [4\.5\.1 荷兰联系（阿姆斯特丹\uff09](./worldscape/drug_tourism/the_dutch_connection_amsterdam/index.md)
+        - [4\.5\.2 潜在感兴趣目的地](./worldscape/drug_tourism/destinations_of_potential_interest/index.md)
+    -  [4\.6 文化符社会 （参考\uff09](./worldscape/culture_and_society_reference/index.md)
 
-        - 4\.6\.1 艺术、电影、文学、音乐
-        - 4\.6\.2 迷幻思维食物
-        - 4\.6\.3 书籍与参考
-    - [x] 4\.7 实验鼠的忏悔?
+        - [4\.6\.1 艺术、电影、文学、音乐](./worldscape/culture_and_society_reference/art_film_literature_music/index.md)
+        - [4\.6\.2 迷幻思维食物](./worldscape/culture_and_society_reference/food_for_the_psychedelic_mind/index.md)
+        - [4\.6\.3 书籍与参考](./worldscape/culture_and_society_reference/books_and_reference/index.md)
+    -  [4\.7 实验鼠的忙愠](./worldscape/confessions_of_a_lab_rat/index.md)
 
-        - 4\.7\.1 问与答
-        - 4\.7\.2 关于作者——以他自己的话
-    - [x] 4\.8 黑话?
+        - [4\.7\.1 问与答](./worldscape/confessions_of_a_lab_rat/qanda/index.md)
+        - [4\.7\.2 关于作者––以他自己的话](./worldscape/confessions_of_a_lab_rat/about_the_author__in_his_own_words/index.md)
+    -  [4\.8 黑话](./worldscape/argot/index.md)
 
-        - 4\.8\.1 习语与缩写
-        - 4\.8\.2 常见、街头与品牌名称
-        - 4\.8\.3 多药组合
-        - 4\.8\.4 精选分子
-        - 4\.8\.5 字母索引
-    - [x] 4\.9 网络资源?
+        - [4\.8\.1 成语与缩写](./worldscape/argot/idioms_and_acronyms/index.md)
+        - [4\.8\.2 常见、街头与品牦名称](./worldscape/argot/common_street_and_brand_names/index.md)
+        - [4\.8\.3 多種药物阆合](./worldscape/argot/poly_drug_combinations/index.md)
+        - [4\.8\.4 精选分子](./worldscape/argot/selected_molecules/index.md)
+        - [4\.8\.5 字母碤引](./worldscape/argot/alphabetical_index/index.md)
+    -  [4\.9 网络资源](./worldscape/internet_resources/index.md)
 
-        - 4\.9\.1 伤害减少与安全
-        - 4\.9\.2 药物使用者圣经
-    - [x] 4\.10 补充说明?
-    - [x] 4\.11 补充照片?
-    - [x] 4\.11 南无 — 最后说明?
-- [x] 尾声?
+        - [4\.9\.1 伤害减少与安全](./worldscape/internet_resources/harm_reduction_and_safety/index.md)
+        - [4\.9\.2 药物使用者圣经](./worldscape/internet_resources/the_drug_users_bible/index.md)
+    -  [4\.10 补充材料](./worldscape/supplementary_notes/index.md)
+    -  [4\.11 补充照片](./worldscape/supplementary_photographs/index.md)
+    -  [4\.12 南东––最后的说明](./worldscape/namaste/index.md)
+-  [尾声](./epilogue/index.md)
 

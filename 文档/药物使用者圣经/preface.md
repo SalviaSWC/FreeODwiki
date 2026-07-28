@@ -1,769 +1,382 @@
 
 
-
-
-# 艊漏脦膹臉膮脫膫艕脽臉膭木颅
-
-
-
-[?路碌禄艠](../index.md)
-
-
-
-<!--- 脛偶脗慕路颅艊毛碌膫艧脺艛膫艁卢麓媒露篓 ---->
-
-
-
-- [x] 1\. 艊漏脦膹木掳膮虐?
-
-
-
-    - [x] 1\.1 掳藳膶芦碌脷艊禄?
-
-
-
-        - 1\.1\.1 赂眉掳藳膶芦脫膫艊漏碌脛臉庐臍艖藵盲脗脡
-
-        - 1\.1\.2 膶莽艧脦臉膮脫膫艊漏脦膹慕臎藳芒臍脳慕牛
-
-    - [x] 1\.2 藵芒露脕卤篓赂膰?
-
-
-
-        - 1\.2\.1 臉艖脫膹露篓艊暮
-
-        - 1\.2\.2 臉膰露疟藵膽膯艛慕露脕偶卤铆
-
-        - 1\.2\.3 路脰艛艜
-
-        - 1\.2\.4 赂艡艊漏脥木木露 (RoA)
-
-        - 1\.2\.5 膮艠脫脷艛麓脭麓脫毛膮脺膸藵碌脛赂眉露艜脛脷膶脻
-
-    - [x] 1\.3 艊禄掳膬掳藳膶芦臍谩臉木?
-
-
-
-        - 1\.3\.1 膶莽膮疟脛膬藳禄臉脟艂脡脛臋膶脣
-
-        - 1\.3\.2 木藳脗枚脳藰脡盲碌脛路莽膸艕禄艧藵芒
-
-        - 1\.3\.3 卤脟脟禄禄陇艛铆
-
-        - 1\.3\.4 禄呕艃搂膼脭掳庐
-
-        - 1\.3\.5 脡媒脭艌卤艠藵碌
-
-        - 1\.3\.6 脳脭脗煤脰脗膫眉
-
-- [x] 2\. 禄呕艃搂木掳膮虐?
-
-
-
-    - [x] 2\.2 膫脭禄膫慕脕?
-
-
-
-        - 2\.2\.1 1P\-LSD
-
-        - 2\.2\.2 1cP\-LSD
-
-        - 2\.2\.3 1P\-ETH\-LAD
-
-        - 2\.2\.4 2C\-B
-
-        - 2\.2\.5 2C\-B\-AN
-
-        - 2\.2\.6 2C\-B\-FLY
-
-        - 2\.2\.7 2C\-E
-
-        - 2\.2\.8 2C\-I
-
-        - 2\.2\.9 4\-ACO\-DMT
-
-        - 2\.2\.10 4\-HO\-MET
-
-        - 2\.2\.11 5\-MEO\-DALT
-
-        - 2\.2\.12 5\-MEO\-DIBF
-
-        - 2\.2\.13 AL\-LAD
-
-        - 2\.2\.14 AMT
-
-        - 2\.2\.15 BK\-2C\-B
-
-        - 2\.2\.16 Changa
-
-        - 2\.2\.17 DMT
-
-        - 2\.2\.18 DOM
-
-        - 2\.2\.19 LSD
-
-        - 2\.2\.20 LSZ
-
-        - 2\.2\.21 TMA
-
-    - [x] 2\.3 膼脣路脺慕脕?
-
-
-
-        - 2\.3\.1 2\-AI
-
-        - 2\.3\.2 3,4\-CTMP
-
-        - 2\.3\.3 3\-FPM
-
-        - 2\.3\.4 3\-MMC
-
-        - 2\.3\.5 4\-FA
-
-        - 2\.3\.6 4\-Me\-TMP
-
-        - 2\.3\.7 4F\-EPH
-
-        - 2\.3\.8 4F\-MPH
-
-        - 2\.3\.9 Adderall
-
-        - 2\.3\.10 Amphetamine
-
-        - 2\.3\.11 a\-PHP
-
-        - 2\.3\.12 Caffeine
-
-        - 2\.3\.13 Cocaine
-
-        - 2\.3\.14 EPH
-
-        - 2\.3\.15 HDMP\-28
-
-        - 2\.3\.16 Hexen
-
-        - 2\.3\.17 IPPH
-
-        - 2\.3\.18 Methamphetamine
-
-        - 2\.3\.19 Methylphenidate
-
-        - 2\.3\.20 MPA
-
-        - 2\.3\.21 NM2AI
-
-        - 2\.3\.22 PPH
-
-        - 2\.3\.23 Pipradrol
-
-        - 2\.3\.24 TPA
-
-    - [x] 2\.4 偶膮藵膮脗脟慕脕脫毛艕艌木藳慕脕?
-
-
-
-        - 2\.4\.1 Alprazolam
-
-        - 2\.4\.2 Carisoprodol
-
-        - 2\.4\.3 Clonazolam
-
-        - 2\.4\.4 Diazepam
-
-        - 2\.4\.5 Etizolam
-
-        - 2\.4\.6 Gabapentin
-
-        - 2\.4\.7 Pregabalin
-
-        - 2\.4\.8 Pyrazolam
-
-        - 2\.4\.9 Zopiclone
-
-        - 2\.4\.10 Others
-
-    - [x] 2\.5 脰脗脳铆艊脰脰膯慕脕?
-
-
-
-        - 2\.5\.1 Alcohol
-
-        - 2\.5\.2 Codeine
-
-        - 2\.5\.3 Fentanyl
-
-        - 2\.5\.4 GHB
-
-        - 2\.5\.5 Heroin
-
-        - 2\.5\.6 Lean
-
-        - 2\.5\.7 Morphine
-
-        - 2\.5\.8 Oxycodone
-
-        - 2\.5\.9 Poppers
-
-        - 2\.5\.10 Sentia
-
-        - 2\.5\.11 Tramadol
-
-    - [x] 2\.6 藵芒艛毛慕脕?
-
-
-
-        - 2\.6\.1 3\-HO\-PCP
-
-        - 2\.6\.2 3\-MeO\-PCMo
-
-        - 2\.6\.3 Diphenidine
-
-        - 2\.6\.4 脫艊膫艛脡艂路艊
-
-        - 2\.6\.5 Ephenidine
-
-        - 2\.6\.6 Ketamine
-
-        - 2\.6\.7 Mefloquine
-
-        - 2\.6\.8 MXE
-
-        - 2\.6\.9 MXP
-
-        - 2\.6\.10 N2O
-
-    - [x] 2\.7 膮藳脟茅慕脕脫毛脟茅赂膼慕脕?
-
-
-
-        - 2\.7\.1 6\-APB
-
-        - 2\.7\.2 MDA
-
-        - 2\.7\.3 MDAI
-
-        - 2\.7\.4 MDMA
-
-        - 2\.7\.5 MEAI
-
-        - 2\.7\.6 Mephedrone
-
-        - 2\.7\.7 Methylone
-
-        - 2\.7\.8 MNA
-
-        - 2\.7\.9 Mexedrone
-
-    - [x] 2\.8 艧膸艂脡麓贸脗茅脣艠?
-
-
-
-        - 2\.8\.1 5F\-AKB48
-
-        - 2\.8\.2 AM\-2201
-
-        - 2\.8\.3 AM\-694
-
-        - 2\.8\.4 JWH\-018
-
-        - 2\.8\.5 JWH\-073
-
-    - [x] 2\.9 艊膰脰脟艊漏?
-
-
-
-        - 2\.9\.1 5\-HTP
-
-        - 2\.9\.2 Aniracetam (\+ Citicoline)
-
-        - 2\.9\.3 Armodafinil
-
-        - 2\.9\.4 L\-Theanine
-
-        - 2\.9\.5 Modafiendz
-
-        - 2\.9\.6 Modafinil
-
-        - 2\.9\.7 Noopept
-
-        - 2\.9\.8 NSI\-189
-
-        - 2\.9\.9 Phenibut
-
-        - 2\.9\.10 Picamilon
-
-        - 2\.9\.11 PRL\-8\-53
-
-- [x] 3\. 脰藳脦膹木掳膮虐?
-
-
-
-    - [x] 3\.2 膫脭禄膫慕脕?
-
-
-
-        - 3\.2\.1 Ayahuasca
-
-        - 3\.2\.2 Cebil
-
-        - 3\.2\.3 Chaliponga Leaves
-
-        - 3\.2\.4 Fly Agaric
-
-        - 3\.2\.5 HBWS
-
-        - 3\.2\.6 Iboga
-
-        - 3\.2\.7 Magic Mushrooms
-
-        - 3\.2\.8 Magic Truffles
-
-        - 3\.2\.9 Morning Glory Seeds
-
-        - 3\.2\.10 Ololiuqui
-
-        - 3\.2\.11 Salvia Divinorum
-
-        - 3\.2\.12 Sananga
-
-        - 3\.2\.13 San Pedro Cactus
-
-        - 3\.2\.14 Sensory Deprivation
-
-        - 3\.2\.15 Shirodhara
-
-        - 3\.2\.16 Sinicuichi
-
-        - 3\.2\.17 Syrian Rue
-
-        - 3\.2\.18 Yopo
-
-    - [x] 3\.3 膼脣路脺慕脕?
-
-
-
-        - 3\.3\.1 Betel Nut
-
-        - 3\.3\.2 Coca
-
-        - 3\.3\.3 Ephedra
-
-        - 3\.3\.4 Ginseng
-
-        - 3\.3\.5 Green Tea
-
-        - 3\.3\.6 Guarana
-
-        - 3\.3\.7 Guayusa
-
-        - 3\.3\.8 Horny Goat Weed
-
-        - 3\.3\.9 Khaini
-
-        - 3\.3\.10 Kola Nut
-
-        - 3\.3\.11 Wormwood
-
-        - 3\.3\.12 Yerba Mate
-
-        - 3\.3\.13 Yohimbe
-
-    - [x] 3\.4 艕艌木藳慕脕?
-
-
-
-        - 3\.4\.1 Blue Lotus
-
-        - 3\.4\.2 Cacao
-
-        - 3\.4\.3 Catnip
-
-        - 3\.4\.4 Chamomile
-
-        - 3\.4\.5 Damiana
-
-        - 3\.4\.6 Frankincense
-
-        - 3\.4\.7 Hops
-
-        - 3\.4\.8 Imphepho
-
-        - 3\.4\.9 Indian Warrior
-
-        - 3\.4\.10 Kanna
-
-        - 3\.4\.11 Lavender
-
-        - 3\.4\.12 Maconha Brava
-
-        - 3\.4\.13 Marihuanilla
-
-        - 3\.4\.14 Mullein
-
-        - 3\.4\.15 Mulungu
-
-        - 3\.4\.16 Passion Flower
-
-        - 3\.4\.17 Rhodiola
-
-        - 3\.4\.18 Saffron
-
-        - 3\.4\.19 St. John's Wort
-
-        - 3\.4\.20 Skullcap
-
-        - 3\.4\.21 Valerian Root
-
-        - 3\.4\.22 White Sage
-
-        - 3\.4\.23 Wild Dagga
-
-        - 3\.4\.24 Wild Lettuce
-
-    - [x] 3\.5 艊膰脰脟艊漏?
-
-
-
-        - 3\.5\.1 Catuaba
-
-        - 3\.5\.2 Celastrus Paniculatus
-
-        - 3\.5\.3 Ginkgo
-
-    - [x] 3\.6 膫脦木艂慕脕?
-
-
-
-        - 3\.6\.1 Calea
-
-        - 3\.6\.2 Entada Rheedii
-
-        - 3\.6\.3 Mexican Tarragon
-
-        - 3\.6\.4 Mugwort
-
-        - 3\.6\.5 Ubulawu
-
-    - [x] 3\.7 脷泞脥媒慕脕?
-
-
-
-        - 3\.7\.1 Datura
-
-        - 3\.7\.2 Nutmeg
-
-    - [x] 3\.8 脦麓路脰艛艜?
-
-
-
-        - 3\.8\.1 Cannabis
-
-        - 3\.8\.2 Essential Oils
-
-        - 3\.8\.3 Kava Kava
-
-        - 3\.8\.4 Kratom
-
-        - 3\.8\.5 Mad Honey
-
-        - 3\.8\.6 Mapacho
-
-        - 3\.8\.7 Opium
-
-        - 3\.8\.8 Rap篓娄
-
-        - 3\.8\.9 Sakae Naa
-
-        - 3\.8\.10 Tobacco
-
-- [x] 4\. 臉艛藵莽木掳膮虐?
-
-
-
-    - [x] 4\.1 脫膼露艜脡女膶脣脭脷脫膫艊漏艁偶?
-
-    - [x] 4\.2 膸艜露脭脦艁艧娄?
-
-    - [x] 4\.3 艂脡艅芦脫毛膮媒脕偶?
-
-
-
-        - 4\.3\.1 艂脡艅芦
-
-        - 4\.3\.2 膶莽膮疟脛膬艂脡艅芦脕脣
-
-        - 4\.3\.3 膼膹木膯
-
-        - 4\.3\.4 膮媒脕偶脫毛脫娄慕卤膸臎脫娄
-
-        - 4\.3\.5 艊漏脦膹膸艜膮艠脣艛脥枚艁卢脰艦膫疟膶脣脦膹
-
-    - [x] 4\.4 路篓脗脡木掳膮虐?
-
-
-
-        - 4\.4\.1 脫藰膮煤
-
-        - 4\.4\.2 膫艛膮煤
-
-        - 4\.4\.3 臉艛藵莽膯盲脣疟碌艠脟艡
-
-        - 4\.4\.4 路路脗么艕脽艁卢藳禄脥卢碌脛臉脫藵脟
-
-        - 4\.4\.5 膫藵臍暮碌脛藵脟脡芦
-
-        - 4\.4\.6 脟偶脰膯艊漏慕臎
-
-        - 4\.4\.7 膼膼露呕脰梅艊暮艁卢艊漏脦膹臉膮脫膫艕脽膶篓艛疟膸脺艕脗
-
-    - [x] 4\.5 艊漏脦膹脗膫脫脦?
-
-
-
-        - 4\.5\.1 艧脡艛慕脕艦膸碌艁篓掳藰脛路脣膮臍艠碌陇艁漏
-
-        - 4\.5\.2 脟卤脭脷赂膼膼脣膶陇脛偶碌脛碌艠
-
-    - [x] 4\.6 脦脛禄呕脫毛脡莽禄谩艁篓藳脦偶慕艁漏?
-
-
-
-        - 4\.6\.1 艊艕臉艖藝藰碌莽脫掳藝藰脦脛艃搂藝藰艊么艛脰
-
-        - 4\.6\.2 膫脭禄膫脣慕脦卢臉艂脦膹
-
-        - 4\.6\.3 臉茅慕庐脫毛藳脦偶慕
-
-    - [x] 4\.7 臉碌艃茅臉贸碌脛芒膬禄脷?
-
-
-
-        - 4\.7\.1 脦臉脫毛麓膽
-
-        - 4\.7\.2 膮艠脫脷脳梅艕脽藝艦藝艦艊脭脣疟脳脭慕艧碌脛禄掳
-
-    - [x] 4\.8 艧脷禄掳?
-
-
-
-        - 4\.8\.1 膸掳脫膹脫毛脣艖膼麓
-
-        - 4\.8\.2 艂艁慕疟藝藰藵脰脥路脫毛膯路墓膯膫疟艂膯
-
-        - 4\.8\.3 露艜艊漏脳茅艧膸
-
-        - 4\.8\.4 木芦艃藝路脰脳脫
-
-        - 4\.8\.5 脳脰脛赂脣梅艊媒
-
-    - [x] 4\.9 脥艡脗莽脳臉脭麓?
-
-
-
-        - 4\.9\.1 脡脣艧娄慕艖脡女脫毛掳藳膶芦
-
-        - 4\.9\.2 艊漏脦膹臉膮脫膫艕脽臉膭木颅
-
-    - [x] 4\.10 藳膮艂盲脣碌膫梅?
-
-    - [x] 4\.11 藳膮艂盲艕艕膯卢?
-
-    - [x] 4\.11 脛膸脦泞 藝艦 脳卯艧贸脣碌膫梅?
-
-- [x] 脦藳脡暖?
-
-
-
-OFFLINE VERSIONS  
-
-
-
-PDF Download: [Here](http://www.drugusersbible.com/2018/01/pdf.html)  
-
-
-
-The Paperback: [Here](https://www.drugusersbible.com/2019/03/order-from-amazon.html)  
-
-
-
-
-
-
-
-| 脥慕膯卢 |
-
+# 药物使用者圣经
+
+
+<!--- 目录翻译得很烂，待定 ---->
+
+[◀返回](./preface.md)
+
+-  [1\. 药物景观](./drugscape/index.md)
+
+    -  [1\.1 安全第一](./drugscape/safety_first/index.md)
+
+        - [1\.1\.1 更安全用药的十条戒律](./drugscape/safety_first/the_10_commandments_of_safer_drug_use.md)
+        - [1\.1\.2 如何使用药物检测套件](./drugscape/safety_first/how_to_use_a_drug_testing_kit.md)
+    -  [1\.2 解读报告](./drugscape/interpreting_the_reports/index.md)
+
+        - [1\.2\.1 术语定义](./drugscape/interpreting_the_reports/definition_of_terms.md)
+        - [1\.2\.2 舒尔金评级量表](./drugscape/interpreting_the_reports/the_shulgin_rating_scale.md)
+        - [1\.2\.3 分类](./drugscape/interpreting_the_reports/classification.md)
+        - [1\.2\.4 给药途径 (RoA)](./drugscape/interpreting_the_reports/routes_of_administration_roa.md)
+        - [1\.2\.5 关于来源与管辖的更多内容](./drugscape/interpreting_the_reports/more_on_source_and_jurisdiction.md)
+    -  [1\.3 一般安全提示](./drugscape/general_safety_notes/index.md)
+
+        - [1\.3\.1 如果你不是成年人](./drugscape/general_safety_notes/if_you_are_not_an_adult.md)
+        - [1\.3\.2 静脉注射的风险缓解](./drugscape/general_safety_notes/risk_mitigation_for_iv.md)
+        - [1\.3\.3 鼻腔护理](./drugscape/general_safety_notes/nasal_care.md)
+        - [1\.3\.4 化学性爱](./drugscape/general_safety_notes/chemsex.md)
+        - [1\.3\.5 升则必降](./drugscape/general_safety_notes/what_goes_up_must_come_down.md)
+        - [1\.3\.6 自满致命](./drugscape/general_safety_notes/complacency_kills.md)
+-  [2\. 化学景观](./chemscape/index.md)
+
+    -  [2\.2 迷幻剂](./chemscape/psychedelics/index.md)
+
+        - [2\.2\.1 1P\-LSD](./chemscape/psychedelics/1p-lsd.md)
+        - [2\.2\.2 1cP\-LSD](./chemscape/psychedelics/1cp-lsd.md)
+        - [2\.2\.3 1P\-ETH\-LAD](./chemscape/psychedelics/1p-eth-lad.md)
+        - [2\.2\.4 2C\-B](./chemscape/psychedelics/2c-b.md)
+        - [2\.2\.5 2C\-B\-AN](./chemscape/psychedelics/2c-b-an.md)
+        - [2\.2\.6 2C\-B\-FLY](./chemscape/psychedelics/2c-b-fly.md)
+        - [2\.2\.7 2C\-E](./chemscape/psychedelics/2c-e.md)
+        - [2\.2\.8 2C\-I](./chemscape/psychedelics/2c-i.md)
+        - [2\.2\.9 4\-ACO\-DMT](./chemscape/psychedelics/4-aco-dmt.md)
+        - [2\.2\.10 4\-HO\-MET](./chemscape/psychedelics/4-ho-met.md)
+        - [2\.2\.11 5\-MEO\-DALT](./chemscape/psychedelics/5-meo-dalt.md)
+        - [2\.2\.12 5\-MEO\-DIBF](./chemscape/psychedelics/5-meo-dibf.md)
+        - [2\.2\.13 AL\-LAD](./chemscape/psychedelics/al-lad.md)
+        - [2\.2\.14 AMT](./chemscape/psychedelics/amt.md)
+        - [2\.2\.15 BK\-2C\-B](./chemscape/psychedelics/bk-2c-b.md)
+        - [2\.2\.16 Changa](./chemscape/psychedelics/changa.md)
+        - [2\.2\.17 DMT](./chemscape/psychedelics/dmt.md)
+        - [2\.2\.18 DOM](./chemscape/psychedelics/dom.md)
+        - [2\.2\.19 LSD](./chemscape/psychedelics/lsd.md)
+        - [2\.2\.20 LSZ](./chemscape/psychedelics/lsz.md)
+        - [2\.2\.21 TMA](./chemscape/psychedelics/tma.md)
+    -  [2\.3 兴奋剂](./chemscape/stimulants/index.md)
+
+        - [2\.3\.1 2\-AI](./chemscape/stimulants/2-ai.md)
+        - [2\.3\.2 3,4\-CTMP](./chemscape/stimulants/3_4-ctmp.md)
+        - [2\.3\.3 3\-FPM](./chemscape/stimulants/3-fpm.md)
+        - [2\.3\.4 3\-MMC](./chemscape/stimulants/3-mmc.md)
+        - [2\.3\.5 4\-FA](./chemscape/stimulants/4-fa.md)
+        - [2\.3\.6 4\-Me\-TMP](./chemscape/stimulants/4-me-tmp.md)
+        - [2\.3\.7 4F\-EPH](./chemscape/stimulants/4f-eph.md)
+        - [2\.3\.8 4F\-MPH](./chemscape/stimulants/4f-mph.md)
+        - [2\.3\.9 Adderall](./chemscape/stimulants/adderall.md)
+        - [2\.3\.10 Amphetamine](./chemscape/stimulants/amphetamine.md)
+        - [2\.3\.11 a\-PHP](./chemscape/stimulants/a-php.md)
+        - [2\.3\.12 Caffeine](./chemscape/stimulants/caffeine.md)
+        - [2\.3\.13 Cocaine](./chemscape/stimulants/cocaine.md)
+        - [2\.3\.14 EPH](./chemscape/stimulants/eph.md)
+        - [2\.3\.15 HDMP\-28](./chemscape/stimulants/hdmp-28.md)
+        - [2\.3\.16 Hexen](./chemscape/stimulants/hexen.md)
+        - [2\.3\.17 IPPH](./chemscape/stimulants/ipph.md)
+        - [2\.3\.18 Methamphetamine](./chemscape/stimulants/methamphetamine.md)
+        - [2\.3\.19 Methylphenidate](./chemscape/stimulants/methylphenidate.md)
+        - [2\.3\.20 MPA](./chemscape/stimulants/mpa.md)
+        - [2\.3\.21 NM2AI](./chemscape/stimulants/nm2ai.md)
+        - [2\.3\.22 PPH](./chemscape/stimulants/pph.md)
+        - [2\.3\.23 Pipradrol](./chemscape/stimulants/pipradrol.md)
+        - [2\.3\.24 TPA](./chemscape/stimulants/tpa.md)
+    -  [2\.4 抗焦虑剂与镇静剂](./chemscape/anxiolytics_and_sedatives/index.md)
+
+        - [2\.4\.1 Alprazolam](./chemscape/anxiolytics_and_sedatives/alprazolam.md)
+        - [2\.4\.2 Carisoprodol](./chemscape/anxiolytics_and_sedatives/carisoprodol.md)
+        - [2\.4\.3 Clonazolam](./chemscape/anxiolytics_and_sedatives/clonazolam.md)
+        - [2\.4\.4 Diazepam](./chemscape/anxiolytics_and_sedatives/diazepam.md)
+        - [2\.4\.5 Etizolam](./chemscape/anxiolytics_and_sedatives/etizolam.md)
+        - [2\.4\.6 Gabapentin](./chemscape/anxiolytics_and_sedatives/gabapentin.md)
+        - [2\.4\.7 Pregabalin](./chemscape/anxiolytics_and_sedatives/pregabalin.md)
+        - [2\.4\.8 Pyrazolam](./chemscape/anxiolytics_and_sedatives/pyrazolam.md)
+        - [2\.4\.9 Zopiclone](./chemscape/anxiolytics_and_sedatives/zopiclone.md)
+        - [2\.4\.10 Others](./chemscape/anxiolytics_and_sedatives/others.md)
+    -  [2\.5 致醉抑制剂](./chemscape/intoxicating_depressants/index.md)
+
+        - [2\.5\.1 Alcohol](./chemscape/intoxicating_depressants/alcohol.md)
+        - [2\.5\.2 Codeine](./chemscape/intoxicating_depressants/codeine.md)
+        - [2\.5\.3 Fentanyl](./chemscape/intoxicating_depressants/fentanyl.md)
+        - [2\.5\.4 GHB](./chemscape/intoxicating_depressants/ghb.md)
+        - [2\.5\.5 Heroin](./chemscape/intoxicating_depressants/heroin.md)
+        - [2\.5\.6 Lean](./chemscape/intoxicating_depressants/lean.md)
+        - [2\.5\.7 Morphine](./chemscape/intoxicating_depressants/morphine.md)
+        - [2\.5\.8 Oxycodone](./chemscape/intoxicating_depressants/oxycodone.md)
+        - [2\.5\.9 Poppers](./chemscape/intoxicating_depressants/poppers.md)
+        - [2\.5\.10 Sentia](./chemscape/intoxicating_depressants/sentia.md)
+        - [2\.5\.11 Tramadol](./chemscape/intoxicating_depressants/tramadol.md)
+    -  [2\.6 解算剂](./chemscape/dissociatives/index.md)
+
+        - [2\.6\.1 3\-HO\-PCP](./chemscape/dissociatives/3-ho-pcp.md)
+        - [2\.6\.2 3\-MeO\-PCMo](./chemscape/dissociatives/3-meo-pcmo.md)
+        - [2\.6\.3 Diphenidine](./chemscape/dissociatives/diphenidine.md)
+        - [2\.6\.4 右美沙芬](./chemscape/dissociatives/dxm.md)
+        - [2\.6\.5 Ephenidine](./chemscape/dissociatives/ephenidine.md)
+        - [2\.6\.6 Ketamine](./chemscape/dissociatives/ketamine.md)
+        - [2\.6\.7 Mefloquine](./chemscape/dissociatives/mefloquine.md)
+        - [2\.6\.8 MXE](./chemscape/dissociatives/mxe.md)
+        - [2\.6\.9 MXP](./chemscape/dissociatives/mxp.md)
+        - [2\.6\.10 N2O](./chemscape/dissociatives/n2o.md)
+    -  [2\.7 共情剂与情感剂](./chemscape/empathogens_and_entactogens/index.md)
+
+        - [2\.7\.1 6\-APB](./chemscape/empathogens_and_entactogens/6-apb.md)
+        - [2\.7\.2 MDA](./chemscape/empathogens_and_entactogens/mda.md)
+        - [2\.7\.3 MDAI](./chemscape/empathogens_and_entactogens/mdai.md)
+        - [2\.7\.4 MDMA](./chemscape/empathogens_and_entactogens/mdma.md)
+        - [2\.7\.5 MEAI](./chemscape/empathogens_and_entactogens/meai.md)
+        - [2\.7\.6 Mephedrone](./chemscape/empathogens_and_entactogens/mephedrone.md)
+        - [2\.7\.7 Methylone](./chemscape/empathogens_and_entactogens/methylone.md)
+        - [2\.7\.8 MNA](./chemscape/empathogens_and_entactogens/mna.md)
+        - [2\.7\.9 Mexedrone](./chemscape/empathogens_and_entactogens/mexedrone.md)
+    -  [2\.8 合成大麻素](./chemscape/synthetic_cannabinoids/index.md)
+
+        - [2\.8\.1 5F\-AKB48](./chemscape/synthetic_cannabinoids/5f-akb48.md)
+        - [2\.8\.2 AM\-2201](./chemscape/synthetic_cannabinoids/am-2201.md)
+        - [2\.8\.3 AM\-694](./chemscape/synthetic_cannabinoids/am-694.md)
+        - [2\.8\.4 JWH\-018](./chemscape/synthetic_cannabinoids/jwh-018.md)
+        - [2\.8\.5 JWH\-073](./chemscape/synthetic_cannabinoids/jwh-073.md)
+    -  [2\.9 益智药](./chemscape/nootropics/index.md)
+
+        - [2\.9\.1 5\-HTP](./chemscape/nootropics/5-htp.md)
+        - [2\.9\.2 Aniracetam (\+ Citicoline)](./chemscape/nootropics/aniracetam_citicoline.md)
+        - [2\.9\.3 Armodafinil](./chemscape/nootropics/armodafinil.md)
+        - [2\.9\.4 L\-Theanine](./chemscape/nootropics/l-theanine.md)
+        - [2\.9\.5 Modafiendz](./chemscape/nootropics/modafiendz.md)
+        - [2\.9\.6 Modafinil](./chemscape/nootropics/modafinil.md)
+        - [2\.9\.7 Noopept](./chemscape/nootropics/noopept.md)
+        - [2\.9\.8 NSI\-189](./chemscape/nootropics/nsi-189.md)
+        - [2\.9\.9 Phenibut](./chemscape/nootropics/phenibut.md)
+        - [2\.9\.10 Picamilon](./chemscape/nootropics/picamilon.md)
+        - [2\.9\.11 PRL\-8\-53](./chemscape/nootropics/prl-8-53.md)
+-  [3\. 植物景观](./botscape/index.md)
+
+    -  [3\.2 迷幻剂](./botscape/psychedelics/index.md)
+
+        - [3\.2\.1 Ayahuasca](./botscape/psychedelics/ayahuasca.md)
+        - [3\.2\.2 Cebil](./botscape/psychedelics/cebil.md)
+        - [3\.2\.3 Chaliponga Leaves](./botscape/psychedelics/chaliponga_leaves.md)
+        - [3\.2\.4 Fly Agaric](./botscape/psychedelics/fly_agaric.md)
+        - [3\.2\.5 HBWS](./botscape/psychedelics/hbws.md)
+        - [3\.2\.6 Iboga](./botscape/psychedelics/iboga.md)
+        - [3\.2\.7 Magic Mushrooms](./botscape/psychedelics/magic_mushrooms.md)
+        - [3\.2\.8 Magic Truffles](./botscape/psychedelics/magic_truffles.md)
+        - [3\.2\.9 Morning Glory Seeds](./botscape/psychedelics/morning_glory_seeds.md)
+        - [3\.2\.10 Ololiuqui](./botscape/psychedelics/ololiuqui.md)
+        - [3\.2\.11 Salvia Divinorum](./botscape/psychedelics/salvia_divinorum.md)
+        - [3\.2\.12 Sananga](./botscape/psychedelics/sananga.md)
+        - [3\.2\.13 San Pedro Cactus](./botscape/psychedelics/san_pedro_cactus.md)
+        - [3\.2\.14 Sensory Deprivation](./botscape/psychedelics/sensory_deprivation.md)
+        - [3\.2\.15 Shirodhara](./botscape/psychedelics/shirodhara.md)
+        - [3\.2\.16 Sinicuichi](./botscape/psychedelics/sinicuichi.md)
+        - [3\.2\.17 Syrian Rue](./botscape/psychedelics/syrian_rue.md)
+        - [3\.2\.18 Yopo](./botscape/psychedelics/yopo.md)
+    -  [3\.3 兴奋剂](./botscape/stimulants/index.md)
+
+        - [3\.3\.1 Betel Nut](./botscape/stimulants/betel_nut.md)
+        - [3\.3\.2 Coca](./botscape/stimulants/coca.md)
+        - [3\.3\.3 Ephedra](./botscape/stimulants/ephedra.md)
+        - [3\.3\.4 Ginseng](./botscape/stimulants/ginseng.md)
+        - [3\.3\.5 Green Tea](./botscape/stimulants/green_tea.md)
+        - [3\.3\.6 Guarana](./botscape/stimulants/guarana.md)
+        - [3\.3\.7 Guayusa](./botscape/stimulants/guayusa.md)
+        - [3\.3\.8 Horny Goat Weed](./botscape/stimulants/horny_goat_weed.md)
+        - [3\.3\.9 Khaini](./botscape/stimulants/khaini.md)
+        - [3\.3\.10 Kola Nut](./botscape/stimulants/kola_nut.md)
+        - [3\.3\.11 Wormwood](./botscape/stimulants/wormwood.md)
+        - [3\.3\.12 Yerba Mate](./botscape/stimulants/yerba_mate.md)
+        - [3\.3\.13 Yohimbe](./botscape/stimulants/yohimbe.md)
+    -  [3\.4 镇静剂](./botscape/sedatives/index.md)
+
+        - [3\.4\.1 Blue Lotus](./botscape/sedatives/blue_lotus.md)
+        - [3\.4\.2 Cacao](./botscape/sedatives/cacao.md)
+        - [3\.4\.3 Catnip](./botscape/sedatives/catnip.md)
+        - [3\.4\.4 Chamomile](./botscape/sedatives/chamomile.md)
+        - [3\.4\.5 Damiana](./botscape/sedatives/damiana.md)
+        - [3\.4\.6 Frankincense](./botscape/sedatives/frankincense.md)
+        - [3\.4\.7 Hops](./botscape/sedatives/hops.md)
+        - [3\.4\.8 Imphepho](./botscape/sedatives/imphepho.md)
+        - [3\.4\.9 Indian Warrior](./botscape/sedatives/indian_warrior.md)
+        - [3\.4\.10 Kanna](./botscape/sedatives/kanna.md)
+        - [3\.4\.11 Lavender](./botscape/sedatives/lavender.md)
+        - [3\.4\.12 Maconha Brava](./botscape/sedatives/maconha_brava.md)
+        - [3\.4\.13 Marihuanilla](./botscape/sedatives/marihuanilla.md)
+        - [3\.4\.14 Mullein](./botscape/sedatives/mullein.md)
+        - [3\.4\.15 Mulungu](./botscape/sedatives/mulungu.md)
+        - [3\.4\.16 Passion Flower](./botscape/sedatives/passion_flower.md)
+        - [3\.4\.17 Rhodiola](./botscape/sedatives/rhodiola.md)
+        - [3\.4\.18 Saffron](./botscape/sedatives/saffron.md)
+        - [3\.4\.19 St. John's Wort](./botscape/sedatives/st_johns_wort.md)
+        - [3\.4\.20 Skullcap](./botscape/sedatives/skullcap.md)
+        - [3\.4\.21 Valerian Root](./botscape/sedatives/valerian_root.md)
+        - [3\.4\.22 White Sage](./botscape/sedatives/white_sage.md)
+        - [3\.4\.23 Wild Dagga](./botscape/sedatives/wild_dagga.md)
+        - [3\.4\.24 Wild Lettuce](./botscape/sedatives/wild_lettuce.md)
+    -  [3\.5 益智药](./botscape/nootropics/index.md)
+
+        - [3\.5\.1 Catuaba](./botscape/nootropics/catuaba.md)
+        - [3\.5\.2 Celastrus Paniculatus](./botscape/nootropics/celastrus_paniculatus.md)
+        - [3\.5\.3 Ginkgo](./botscape/nootropics/ginkgo.md)
+    -  [3\.6 梦境剂](./botscape/oneirogens/index.md)
+
+        - [3\.6\.1 Calea](./botscape/oneirogens/calea.md)
+        - [3\.6\.2 Entada Rheedii](./botscape/oneirogens/entada_rheedii.md)
+        - [3\.6\.3 Mexican Tarragon](./botscape/oneirogens/mexican_tarragon.md)
+        - [3\.6\.4 Mugwort](./botscape/oneirogens/mugwort.md)
+        - [3\.6\.5 Ubulawu](./botscape/oneirogens/ubulawu.md)
+    -  [3\.7 谵妄剂](./botscape/deliriants/index.md)
+
+        - [3\.7\.1 Datura](./botscape/deliriants/datura.md)
+        - [3\.7\.2 Nutmeg](./botscape/deliriants/nutmeg.md)
+    -  [3\.8 未分类](./botscape/unclassified/index.md)
+
+        - [3\.8\.1 Cannabis](./botscape/unclassified/cannabis.md)
+        - [3\.8\.2 Essential Oils](./botscape/unclassified/essential_oils.md)
+        - [3\.8\.3 Kava Kava](./botscape/unclassified/kava_kava.md)
+        - [3\.8\.4 Kratom](./botscape/unclassified/kratom.md)
+        - [3\.8\.5 Mad Honey](./botscape/unclassified/mad_honey.md)
+        - [3\.8\.6 Mapacho](./botscape/unclassified/mapacho.md)
+        - [3\.8\.7 Opium](./botscape/unclassified/opium.md)
+        - [3\.8\.8 Rapé](./botscape/unclassified/rapey.md)
+        - [3\.8\.9 Sakae Naa](./botscape/unclassified/sakae_naa.md)
+        - [3\.8\.10 Tobacco](./botscape/unclassified/tobacco.md)
+-  [4\. 世界景观](./worldscape/index.md)
+
+    -  [4\.1 有多少人在用药呢？](./worldscape/how_many_people_use_drugs/index.md)
+    -  [4\.2 相对危害](./worldscape/the_relative_harm/index.md)
+    -  [4\.3 成瘥与过量](./worldscape/addiction_and_overdose/index.md)
+
+        - [4\.3\.1 成瘥](./worldscape/addiction_and_overdose/addiction/index.md)
+        - [4\.3\.2 如果你成瘥了](./worldscape/addiction_and_overdose/if_you_are_addicted/index.md)
+        - [4\.3\.3 酗酒](./worldscape/addiction_and_overdose/alcoholism/index.md)
+        - [4\.3\.4 过量与应急应对](./worldscape/addiction_and_overdose/overdose_and_emergency_response/index.md)
+        - [4\.3\.5 药物相关死亡，着名人物](./worldscape/addiction_and_overdose/drug_related_deaths_notable_people/index.md)
+    -  [4\.4 法律景观](./worldscape/the_lawscape/index.md)
+
+        - [4\.4\.1 英国](./worldscape/the_lawscape/the_united_kingdom/index.md)
+        - [4\.4\.2 美国](./worldscape/the_lawscape/the_united_states/index.md)
+        - [4\.4\.3 世界其他地区](./worldscape/the_lawscape/the_rest_of_the_world/index.md)
+        - [4\.4\.4 购毁者，不同的视角](./worldscape/the_lawscape/dealers_a_different_perspective/index.md)
+        - [4\.4\.5 媒体的角色](./worldscape/the_lawscape/the_role_of_the_media/index.md)
+        - [4\.4\.6 强制药检](./worldscape/the_lawscape/mandatory_drug_testing/index.md)
+        - [4\.4\.7 行动主义，药物使用者权利审上](./worldscape/the_lawscape/activism_the_charter_of_drug_users_rights/index.md)
+    -  [4\.5 药物旅游](./worldscape/drug_tourism/index.md)
+
+        - [4\.5\.1 荷兰联系（阿姆斯特丹\uff09](./worldscape/drug_tourism/the_dutch_connection_amsterdam/index.md)
+        - [4\.5\.2 潜在感兴趣目的地](./worldscape/drug_tourism/destinations_of_potential_interest/index.md)
+    -  [4\.6 文化符社会 （参考\uff09](./worldscape/culture_and_society_reference/index.md)
+
+        - [4\.6\.1 艺术、电影、文学、音乐](./worldscape/culture_and_society_reference/art_film_literature_music/index.md)
+        - [4\.6\.2 迷幻思维食物](./worldscape/culture_and_society_reference/food_for_the_psychedelic_mind/index.md)
+        - [4\.6\.3 书籍与参考](./worldscape/culture_and_society_reference/books_and_reference/index.md)
+    -  [4\.7 实验鼠的自白](./worldscape/confessions_of_a_lab_rat/index.md)
+
+        - [4\.7\.1 问与答](./worldscape/confessions_of_a_lab_rat/qanda/index.md)
+        - [4\.7\.2 关于作者––以他自己的话](./worldscape/confessions_of_a_lab_rat/about_the_author__in_his_own_words/index.md)
+    -  [4\.8 黑话](./worldscape/argot/index.md)
+
+        - [4\.8\.1 成语与缩写](./worldscape/argot/idioms_and_acronyms/index.md)
+        - [4\.8\.2 常见、街头与品牦名称](./worldscape/argot/common_street_and_brand_names/index.md)
+        - [4\.8\.3 多種药物阆合](./worldscape/argot/poly_drug_combinations/index.md)
+        - [4\.8\.4 精选分子](./worldscape/argot/selected_molecules/index.md)
+        - [4\.8\.5 字母碤引](./worldscape/argot/alphabetical_index/index.md)
+    -  [4\.9 网络资源](./worldscape/internet_resources/index.md)
+
+        - [4\.9\.1 伤害减少与安全](./worldscape/internet_resources/harm_reduction_and_safety/index.md)
+        - [4\.9\.2 药物使用者圣经](./worldscape/internet_resources/the_drug_users_bible/index.md)
+    -  [4\.10 补充材料](./worldscape/supplementary_notes/index.md)
+    -  [4\.11 补充照片](./worldscape/supplementary_photographs/index.md)
+    -  [4\.12 南东––最后的说明](./worldscape/namaste/index.md)
+-  [尾声](./epilogue/index.md)
+
+
+
+
+
+
+| 图片 |
 |---|
-
-| ![](/脦脛慕牛/image1.jpeg) |
-
-
+| ![](/文件/image1.jpeg) |
 
 **Introduction**
 
+Amazon：*“人们死于无知。他们死于持续不断的宣传剥夺了他们的重要安全信息。他们死于立法者和媒体审查科学，并无情地推动意识形态议程。他们死于战争中的第一受害者是真相，而禁毒战争也不例外。这本书在面对这一可怕而悲惨的叙事时做出了重大贡献。”*
 
+不言而喻的是，为个人提供其所选择药物的安全信息能降低悲剧和死亡风险。然而，政府、主流媒体和国家机关不仅未能向消费者提供此类材料，还经常审查并阻止其获取。《药物使用者圣经》旨在帮助填补由此产生的空白。
 
-Amazon艁艧*藝掳膶脣膫脟脣艛脫脷脦泞脰艦藝艁脣疟膫脟脣艛脫脷艂脰膼艡藳禄露膸碌脛膼疟麓芦掳牛露谩脕脣脣疟膫脟碌脛脰艠艊艦掳藳膶芦膼墓膸藰藝艁脣疟膫脟脣艛脫脷脕藰路篓艕脽艧脥膫藵臍暮脡贸藳茅偶膯艃搂艁卢藳藰脦泞脟茅碌艠脥膯露呕艊芒臉露膼脦臍卢艊茅艂臍藝艁脣疟膫脟脣艛脫脷艕藵艕暖脰膼碌脛碌脷艊禄臉脺艧娄艕脽臉脟艕膰膸艜艁卢露艡藵疟露木艕藵艕暖艊藳藳禄艛媒脥芒藝艁艕芒卤木臉茅脭脷膫膰露脭艕芒艊禄偶脡墓脗露艡卤呕藳艊碌脛膼膽臉脗臉卤脳枚艂枚脕脣脰艠麓贸膮卤膸脳藝艁藝卤*
+作者亲自服用了 180 多种不同的化学品和植物药。对于其中每一种，他记录了关键的安全数据，包括剂量阈值、起效时间和持续时间。此外，他还记录了旅程报告：对其定性体验的主观分析，通常按不同时间检查。这本身又提供了一份伤害减少信息，使评估失控、判断力和能力成为可能。
 
-
-
-藳禄艃脭露艡脫梅碌脛臉脟艁卢脦艦赂枚膶脣臍谩膮漏膯盲脣暖艃藝脭艅艊漏脦膹碌脛掳藳膶芦膼墓膸藰脛脺藵碌碌脥卤呕木莽艧脥脣艛脥枚路莽膸艕藝艁膶禄露艡艁卢艕牛赂庐藝藰脰梅脕梅膫藵臍暮艧脥膮煤慕艊禄煤膮艠藳禄藵枚脦麓脛脺膸艌膸疟路艃艕脽臍谩膮漏麓脣艛艜藳脛脕膸艁卢禄膮木颅艂艁脡贸藳茅藳藰脳膷脰膮膯盲禄艅膶藝藝艁藝露艊漏脦膹臉膮脫膫艕脽臉膭木颅藝路脰慕脭脷掳膹脰煤臍卯藳膮脫脡麓脣藳煤脡煤碌脛偶艕掳脳藝艁
-
-
-
-脳梅艕脽脟脳脳脭路牛脫膫脕脣 180 露艜脰脰藳禄脥卢碌脛禄呕艃搂膯路艧脥脰藳脦膹艊漏藝艁露脭脫脷膯盲脰膼膫偶艊禄脰脰艁卢脣疟慕脟脗慕脕脣膮艠慕眉碌脛掳藳膶芦臉媒木脻艁卢掳眉艛篓慕脕脕偶膬膼脰碌藝藰膯膽膼搂臉卤慕盲艧脥艂脰膼艡臉卤慕盲藝艁麓脣脥芒艁卢脣疟禄膮慕脟脗慕脕脣脗膫艂臍卤篓赂膰艁艧露脭膯盲露篓膼脭臍暮艃茅碌脛脰梅膮虐路脰脦枚艁卢脥篓艂艁掳麓藳禄脥卢臉卤慕盲慕臎藳茅藝艁艕芒卤木脡铆脫脰臍谩膮漏脕脣艊禄路脻脡脣艧娄慕艖脡女膼墓膸藰艁卢臉膮膯艛膮艛臉搂偶艠藝藰墓膼露膸脕娄艧脥脛脺脕娄艂脡脦艦偶脡脛脺藝艁
-
-
-
-艕芒藳偶木泞脰艡脭慕 636 艊艂艁卢艧颅赂脟脕脣艂么膫疟艕艃脰艡脫毛膸臉脦艦膶脣脰艦碌脛脛脷膶脻藝艁脣眉膮膮艂脡脕脣艊禄藳偶露艛臍艠脟艊脟掳脣暖脦麓脫膼碌脛掳女偶膯臉藵艃膼木偶艁卢赂藳赂脟艕疟赂枚艊漏脦膹木掳膮虐碌脛膶芦膫藳藝艁膯盲脛偶卤臋臉脟脦泞脦路脦泞脥脳膼颅碌艠臍谩膮漏艧脣膼脛脟艊膮艠慕眉碌脛膼墓膸藰艁卢艊脭脰搂艂脰膶芦脟艌 2.5 艊脷艃藝脭艅脫膫艊漏艕脽碌脛藵藝偶碌藝藰赂艁艛疟艧脥赂艁臎铆藝艁
-
-
+这部巨著约 636 页，涵盖了臭名昭著与鲜为人知的内容。它构成了一部独特且前所未有的百科式研究，覆盖整个药物景观的全貌。其目标是无畏无妥协地提供核心且关键的信息，以支持全球 2.5 亿选择用药者的健康、福利和福祉。
 
 <a id="preface"></a>
-
-脟掳艃脭
-
+前言
 ----------------------
 
+毒品。这个词在你脑海里勾勒出什么形象？报纸和广播给你描绘了怎样的画面？
 
+这个词已经被污名化和误用到如此程度，在我们的社会里，理性话语几乎不可能出现，事实信息被埋没。结果，关于人类苦难的现实无处不在。
 
-露木膯路藝艁艕芒赂枚麓臉脭脷脛膬脛脭艧艁艛膹膮麓艛艕艂枚臉藳膫麓膼脦膸贸艁偶卤篓脰藵艧脥膮膬藳膭赂艡脛膬膫膷禄膰脕脣脭艖艃暖碌脛禄颅膫膰艁偶
+这就是我写这本书的背景。
 
+我自己的用药入门并不罕见。我一直好奇，但不足以完全投入。我在大学时抽过几次大麻，并在二十多岁时吃过一次 LSD。
 
+随后我暂时走偏了。我偶然发现了亚当·戈特利布的那本小书《合法兴奋剂》，它介绍了植物药的世界。于是我愚蠢地尝了几颗……肉豆蔻。这些带来一场恐怖的体验，以至于我多年都不碰其他精神活性物质。
 
-艕芒赂枚麓臉艊艃木颅卤禄脦虐膫疟禄呕艧脥脦贸脫膫碌藵膶莽麓脣艂臍露膶艁卢脭脷脦艊膫脟碌脛脡莽禄谩艛膹艁卢艛铆膼脭禄掳脫膹慕赂艧艖藳禄偶脡脛脺艂枚膸脰艁卢臉脗臉碌膼墓膸藰卤禄脗艅膫禄藝艁藵谩膮疟艁卢膮艠脫脷膶脣艛艜偶艜脛艃碌脛膸脰臉碌脦泞麓娄藳禄脭脷藝艁
+我又回到了酒精；这个被社会接受却致命的麻醉剂。像我们许多被某种文化困住的人一样，我喝得太多。并不是习惯性的、每日的，只是每次喝酒时我往往有些狂欢。我大概可以说自己完全正常。
 
+大约一代人之后，我对这本书主题的好奇心又被一系列松散关联的话题重新唤起。
 
+第一个是量子物理。当我第一次接触到爱因斯坦的《相对论》时，我就意识到自己最初对生命的认知有偏差。量子物理通过其关于关联（纠缠）和观察者需要将潜能坍缩为物质（双缝实验）的演示，摧毁了所有先入为主的观念，同时似乎把意识置于曼陀罗的中心。
 
-艕芒木脥臉脟脦艊膼麓艕芒卤木臉茅碌脛卤艂木掳藝艁
+在此基础上，通过 YouTube，我发现了富有魅力的特伦斯·麦肯纳。他关于现实本质的一些理论惊人但又似乎可信。迷幻剂就是关键；扩展意识并让我们从有限、静态的视角中短暂远行。他经常提到萨满仪式，使用那些奇怪的诱发幻象的混合剂。其中最常见的这种酿制品是著名的阿育吠陀，几乎被认为可以保证打开通往无法言说之境的大门。
 
+我很着迷；如此着迷以至于我对这个领域进行了深入研究，并最终决定必须前往秘鲁参与该仪式。为这次考察所做的研究伴随着我首次在家中的实验，始终谨慎、始终科学、始终有明确目标。
 
+阿育吠陀不仅带来了不可思议的美好和益处，还赋予了继续追寻知识的信心。至少在迷幻剂方面，这段旅程已经开始。
 
-脦艊脳脭慕艧碌脛脫膫艊漏膶毛膫墓藳藰藳禄艧卤慕疟藝艁脦艊艊禄脰卤艧膫膯膰艁卢碌芦藳禄脳膬艊脭脥臋膶芦脥露膶毛藝艁脦艊脭脷麓贸艃搂臉卤艂茅膮媒慕赂麓脦麓贸脗茅艁卢藳藰脭脷露牛臉庐露艜脣臋臉卤艂脭膮媒艊禄麓脦 LSD藝艁
+不久，我就有兴趣将探索范围至少拓展到解离剂、梦境剂和益智药。在安全方面，我明白与之相比，迷幻剂通常具有优异的安全档案，但越来越明显的是，如果采用系统和科学的方法，其他类别的药物也可以理性地导航。因此我以认为恰当的谨慎继续前进。
 
+我很快遇到了一种令人不安的趋势。当我浏览论坛和留言板时，偶尔会注意到一些常客消失了。有时会传来消息说他们犯了错，已经死了。这令人恐惧，更糟的是我知道大多数死亡本完全可以避免。
 
+人们在死亡，他们之所以死去，是因为他们不知道如何使用他们的药物，因为他们在用疯狂的剂量实验、从可疑来源购买且不检测、低估起效时间又重叠补服，并且服用了危险的药物组合。
 
-脣膰艧贸脦艊脭脻臉卤脳脽膯芦脕脣藝艁脦艊墓慕膶禄路藰膸脰脕脣艃脟碌卤藝陇赂臋臍艠艛疟藳慕碌脛脛脟卤木膼藝臉茅藝露艧膸路篓膼脣路脺慕脕藝路艁卢脣眉藵茅脡脺脕脣脰藳脦膹艊漏碌脛臉艛藵莽藝艁脫脷臉脟脦艊脫泞麓艛碌艠艂藰脕脣慕赂偶墓藝颅藝颅膶芒露膮泞藰藝艁艕芒膼漏麓艡艛麓艊禄艂藝偶脰藳艛碌脛臍暮艃茅艁卢艊脭脰脕脫脷脦艊露艜脛臋露慕藳禄墓枚膯盲脣疟木芦脡艅禄卯膼脭脦膹脰臉藝艁
+他们死去，是因为针对精神活性物质的持续宣传剥夺了他们重要的安全信息。他们死去，是因为立法者和媒体审查科学，并无情地推动意识形态议程。他们死去，是因为战争的首个牺牲品是真相，而禁毒战争也不例外。
 
+禁令会杀人，教育能救命，但所提供的教育通常只不过是“吸毒就会死”。这个谎言如此明显，以至于没有人当真。
 
+然而，在我面前有了自己的 modus operandi，以及我的亲历数据库。它恰好包含了那些对他人肯定有价值的、并且可能真正拯救生命的风险缓解和个人安全信息。这种鲜明的对比使这本书的雏形迅速浮现。
 
-脦艊脫脰禄艠碌藵脕脣木膯木芦艁禄艕芒赂枚卤禄脡莽禄谩藵脫臉脺膶麓脰脗膫眉碌脛脗茅脳铆慕脕藝艁膸艅脦艊膫脟膼铆露艜卤禄脛艂脰脰脦脛禄呕艛搂脳藝碌脛膶脣艊禄艃暖艁卢脦艊艧膶碌膫臍芦露艜藝艁藳藰藳禄臉脟膸掳膮脽膼脭碌脛藝藰膫偶膶艕碌脛艁卢脰禄臉脟膫偶麓脦艧膶木膯臉卤脦艊脥暖脥暖脫膼膼漏偶艅禄露藝艁脦艊麓贸赂墓偶脡艊脭脣碌脳脭慕艧脥臋膶芦艕媒艂艁藝艁
+于是我的方向确定了。我将扩展最初的使命，涵盖所有常见可得的化学品和植物药。我会直接且准确地记录这段旅程，始终强调并解释安全方面。我会努力记录隐藏的真相，贯穿整个药物景观。
 
+这项工作令人畏惧，有时我对社会的盲目性感到愤怒和沮丧，这种盲目迫使这件事变得必要。我克服了这些，以及无数其他问题，提醒自己如果它能救一个人，那就值得。
 
-
-麓贸脭慕艊禄麓煤膶脣脰庐艧贸艁卢脦艊露脭艕芒卤木臉茅脰梅臍芒碌脛艧膫膯膰膼脛脫脰卤禄艊禄膸碌脕膼脣脡脡藰膮艠脕艦碌脛禄掳臍芒脰艠膼脗禄藵膯膽藝艁
-
-
-
-碌脷艊禄赂枚臉脟脕偶脳脫脦膹艛铆藝艁碌卤脦艊碌脷艊禄麓脦藵脫麓膭碌藵掳庐艊艌脣膮臍膮碌脛藝露膸艜露脭脗虐藝路臉卤艁卢脦艊木脥艊芒臉露碌藵脳脭慕艧脳卯艂艖露脭脡煤膫眉碌脛膶膸脰艦脫膼膯芦藳卯藝艁脕偶脳脫脦膹艛铆脥篓膮媒膯盲膮艠脫脷膮艠脕艦艁篓木艛藳艡艁漏艧脥膮虐藳臎艕脽膼膷艊艦藵芦脟卤脛脺臍庐脣艖脦艦脦膹脰臉艁篓脣芦路臎臉碌艃茅艁漏碌脛艃脻臉木艁卢麓脻禄女脕脣脣暖脫膼膸膶膶毛脦艦脰梅碌脛膮虐脛卯艁卢脥卢臉卤脣膯艧艖掳艃艊芒臉露脰膫脫脷脗眉脥脫脗泞碌脛脰膼膼脛藝艁
-
-
-
-脭脷麓脣禄暖麓藝脡膸艁卢脥篓膮媒 YouTube艁卢脦艊路藰膸脰脕脣赂禄脫膼梅膶脕娄碌脛臍艠脗脳脣膮藝陇脗贸偶膸脛脡藝艁脣疟膮艠脫脷膸脰臉碌卤木脰臉碌脛艊禄膼漏艛铆脗虐木艦膶脣碌芦脫脰脣膯艧艖偶脡膼墓藝艁膫脭禄膫慕脕木脥臉脟膮艠慕眉艁禄艛漏艕膮艊芒臉露藳藰膶膫脦艊膫脟麓脫脫膼膸泞藝藰木藳臍卢碌脛臉脫藵脟脰膼露臍脭脻脭露膼膼藝艁脣疟木颅艂艁臍谩碌藵膶艡脗煤艊脟臉藵艁卢臉膮脫膫脛脟膼漏膯膰膮脰碌脛脫艕路藰禄膫膸贸碌脛禄臎艧膸慕脕藝艁膯盲脰膼脳卯艂艁慕疟碌脛艕芒脰脰脛膽脰膯膯路臉脟脰艡膫疟碌脛掳藰脫媒路脥脥脫艁卢慕赂艧艖卤禄膶膸脦艦偶脡艊脭卤艁脰陇麓艌偶艦脥篓脥暖脦泞路篓艃脭脣碌脰庐木艂碌脛麓贸膫墓藝艁
-
-
-
-脦艊艧脺脳墓膫脭艁禄膶莽麓脣脳墓膫脭艊脭脰脕脫脷脦艊露脭艕芒赂枚脕臎脫艌藵艡膼膼脕脣脡卯膶毛艃膼木偶艁卢藳藰脳卯脰艕木枚露篓卤艠膼毛脟掳脥暖膫艠脗艂藳脦脫毛赂膫艊脟臉藵藝艁脦艦艕芒麓脦偶慕藳臎脣暖脳枚碌脛艃膼木偶掳茅脣膰脳墓脦艊臉脳麓脦脭脷慕艊脰膼碌脛臉碌艃茅艁卢臉慕脰艕藵梅脡梅藝藰臉慕脰艕偶膯艃搂藝藰臉慕脰艕脫膼膫梅膶路脛偶卤臋藝艁
-
-
-
-掳藰脫媒路脥脥脫藳禄藵枚麓艡艛麓脕脣藳禄偶脡脣慕艊茅碌脛膫艛艧膫艧脥艊膰麓娄艁卢禄膮赂艂脫膷脕脣慕臍膼艡脳路艃掳脰艦臉露碌脛膼墓膼脛藝艁脰脕脡女脭脷膫脭禄膫慕脕路藵膫膰艁卢艕芒露脦脗膫艂臍艊艃木颅偶艦臉慕藝艁
-
-
-
-藳禄木膫艁卢脦艊木脥脫膼膼脣膶陇藵芦臍藵脣梅路露脦搂脰脕脡女脥艠艕膮碌藵藵芒艛毛慕脕藝藰膫脦木艂慕脕艧脥艊膰脰脟艊漏藝艁脭脷掳藳膶芦路藵膫膰艁卢脦艊膫梅掳脳脫毛脰庐膸艜卤膶艁卢膫脭禄膫慕脕脥篓艂艁木脽脫膼脫墓艊臎碌脛掳藳膶芦碌碌掳赂艁卢碌芦脭藵艛麓脭藵膫梅膸脭碌脛臉脟艁卢膶莽膮疟藳脡脫膫膸碌脥艂艧脥偶膯艃搂碌脛路藵路篓艁卢膯盲脣疟艛艜卤膽碌脛艊漏脦膹艊藳偶脡艊脭艛铆膼脭碌艠碌慕艧藵藝艁艊艌麓脣脦艊艊脭膶膸脦艦脟藝碌卤碌脛藵梅脡梅慕臍膼艡脟掳藵艡藝艁
-
-
-
-脦艊艧脺偶臎脫枚碌藵脕脣艊禄脰脰脕卯膶脣藳禄掳藳碌脛脟梅臉膯藝艁碌卤脦艊盲呕艛艛脗虐臍艂艧脥脕么艃脭掳暮臉卤艁卢墓慕露疟禄谩脳藰艊芒碌藵艊禄膼漏艂艁偶脥膸疟臉搂脕脣藝艁脫膼臉卤禄谩麓芦艛麓膸疟膸藰脣碌脣疟膫脟路赂脕脣麓铆艁卢艊艃木颅脣艛脕脣藝艁艕芒脕卯膶脣偶脰木暮艁卢赂眉脭膬碌脛臉脟脦艊脰艦碌艛麓贸露艜臉媒脣艛脥枚卤木脥臋膶芦偶脡艊脭卤脺膫芒藝艁
-
-
-
-膶脣膫脟脭脷脣艛脥枚艁卢脣疟膫脟脰庐脣暖艊脭脣艛膶膭艁卢臉脟艊艌脦艦脣疟膫脟藳禄脰艦碌艛膶莽艧脦臉膮脫膫脣疟膫脟碌脛艊漏脦膹艁卢艊艌脦艦脣疟膫脟脭脷脫膫路膷偶艅碌脛慕脕脕偶臉碌艃茅藝藰麓脫偶脡艊脡艛麓脭麓膮艧脗艌脟艊藳禄慕臎藳芒藝藰碌脥膮艛膯膽膼搂臉卤慕盲脫脰脰艠碌牛藳膮路牛艁卢藳藰脟艊路牛脫膫脕脣脦艁膸艕碌脛艊漏脦膹脳茅艧膸藝艁
-
-
-
-脣疟膫脟脣艛膶膭艁卢臉脟艊艌脦艦艕毛露脭木芦脡艅禄卯膼脭脦膹脰臉碌脛艂脰膼艡膼疟麓芦掳牛露谩脕脣脣疟膫脟脰艠艊艦碌脛掳藳膶芦膼墓膸藰藝艁脣疟膫脟脣艛膶膭艁卢臉脟艊艌脦艦脕藰路篓艕脽艧脥膫藵臍暮脡贸藳茅偶膯艃搂艁卢藳藰脦泞脟茅碌艠脥膯露呕艊芒臉露膼脦臍卢艊茅艂臍藝艁脣疟膫脟脣艛膶膭艁卢臉脟艊艌脦艦艕藵艕暖碌脛臉脳赂枚脦牛脡眉膯路臉脟艕膰膸艜艁卢露艡藵疟露木艕藵艕暖艊藳藳禄艛媒脥芒藝艁
-
-
-
-藵疟脕卯禄谩脡卤膶脣艁卢藵臍脫媒脛脺木膶膫眉艁卢碌芦脣暖臍谩膮漏碌脛藵臍脫媒脥篓艂艁脰禄藳禄膮媒臉脟藝掳脦眉露木木脥禄谩脣艛藝卤藝艁艕芒赂枚禄艃艃脭膶莽麓脣膫梅膸脭艁卢艊脭脰脕脫脷膫禄脫膼膶脣碌卤艕膰藝艁
-
-
-
-膶禄露艡艁卢脭脷脦艊膫膰脟掳脫膼脕脣脳脭慕艧碌脛 modus operandi艁卢艊脭慕掳脦艊碌脛脟脳艛煤臉媒木脻偶芒藝艁脣眉脟藝艧膫掳眉艧卢脕脣脛脟膼漏露脭脣疟膶脣偶膸露篓脫膼慕虐脰碌碌脛藝藰藳藰脟艊偶脡脛脺艕膰艕媒艕眉木膶脡煤膫眉碌脛路莽膸艕禄艧藵芒艧脥赂枚膶脣掳藳膶芦膼墓膸藰藝艁艕芒脰脰膸臉膫梅碌脛露脭卤膶臉膮艕芒卤木臉茅碌脛艂疟膼脦艃赂脣女赂藝膸脰藝艁
-
-
-
-脫脷臉脟脦艊碌脛路藵膸艌膶路露篓脕脣藝艁脦艊藵芦艛漏艕膮脳卯艂艖碌脛臉膮膫眉艁卢艧颅赂脟脣暖脫膼艂艁慕疟偶脡碌膫碌脛禄呕艃搂膯路艧脥脰藳脦膹艊漏藝艁脦艊禄谩脰卤藵脫脟艊脳慕膶路碌艠慕脟脗慕艕芒露脦脗膫艂臍艁卢臉慕脰艕脟偶碌梅藳藰藵芒臉脥掳藳膶芦路藵膫膰藝艁脦艊禄谩墓卢脕娄慕脟脗慕艊牛藳艠碌脛艕膰膸艜艁卢膮谩麓漏艕疟赂枚艊漏脦膹木掳膮虐藝艁
-
-
-
-艕芒膸卯膮陇脳梅脕卯膶脣脦路木暮艁卢脫膼臉卤脦艊露脭脡莽禄谩碌脛膫陇脛偶膼脭赂膼碌藵路脽墓颅艧脥木脷脡膭艁卢艕芒脰脰膫陇脛偶膯膶臉膮艕芒慕牛臉脗卤盲碌膫卤艠艊艦藝艁脦艊偶脣路牛脕脣艕芒膼漏艁卢艊脭慕掳脦泞臉媒膯盲脣疟脦臉臍芒艁卢臍谩膼艃脳脭慕艧膶莽膮疟脣眉脛脺木膶艊禄赂枚膶脣艁卢脛脟木脥脰碌碌膫藝艁
-
-
-
-木颅膮媒藵眉臉庐脛臋艧贸艁卢艕芒卤木臉茅脰艕脫脷艂枚掳膰藝艁脦艊膸脰脭脷脦篓艊禄膸艁脥疟碌脛臉脟艁卢臉茅脰膼碌脛膼墓膸藰脛脺膮禄麓芦麓膹碌藵脳卯膼膷艊艦脣眉碌脛膶脣臉脰脰膼藝艁
-
-
+经过近十年后，这本书终于出版。我现在唯一希望的是，书中的信息能够传达到最需要它的人手中。
 
 Dominic Milton Trott
 
-
-
 <a id="acknowledgements"></a>
-
-膫暖膼禄
-
+鸣谢
 ----------------------------------------
 
-
-
-臍艠卤膽赂膼膼禄 Dread 碌脛脭卤膮陇艧脥艂脡脭卤脰膯脳梅麓脣脳艦禄禄艁卢脫膶膯盲臉脟艁艧Thotbot藝藰Syntactic_Raven藝藰Shakybeats 艧脥 Paris藝艁
-
-
+特别感谢 Dread 的员工和成员制作此转换，尤其是：Thotbot、Syntactic_Raven、Shakybeats 和 Paris。
 
 <a id="dedication"></a>
-
-膸脳麓脟
-
+献辞
 ----------------------------
 
-
-
-膸脳赂艡藵疟露木艕藵艕暖碌脛臉脺艧娄艕脽藝艁
-
-
+献给禁毒战争的受害者。
 
 <a id="pdf-download"></a>
-
-膫芒路艃膸脗脭艠 PDF 禄艌 禄艅膶藝卤木臉茅
-
+免费下载 PDF 或 获取本书
 --------------------------------------------------------------
 
-
-
-脛膬偶脡艊脭麓脫麓脣脥艡艊艂膫芒路艃膸脗脭艠 PDF 掳膰卤木藝艁膯藵脳掳卤木偶脡脥篓膮媒 Amazon 慕掳膯盲脣疟脰梅艊艦脕膬臉虐脡臍膮艧脗艌藝艁
-
-
+你可以从此网页免费下载 PDF 版本。平装本可通过 Amazon 及其他主要零售商购买。
 
 <a id="disclaimer"></a>
-
-膫芒脭膽脡暖膫梅
-
+免责声明
 ----------------------------
 
+作者和出版方均不承担任何法律责任或因任何不准确、错误或遗漏产生的责任。 其中信息和文本均不作任何保证，也不作为任何形式的服务或建议。 内容仅反映作者的体验和个人观察。
 
+[前往目录](./index.md)
 
-脳梅艕脽艧脥艂枚掳膰路藵木暖藳禄艂膼碌艁膶脦艧脦路篓脗脡脭膽膶脦禄艌艊艌膶脦艧脦藳禄脳慕膶路藝藰麓铆脦贸禄艌艊墓脗漏藳煤脡煤碌脛脭膽膶脦藝艁 膯盲脰膼膼墓膸藰艧脥脦脛卤木木暖藳禄脳梅膶脦艧脦卤艁脰陇艁卢艊藳藳禄脳梅脦艦膶脦艧脦膼脦臉藵碌脛路牛脦艅禄艌藵篓艊茅藝艁 脛脷膶脻藵枚路麓脫艂脳梅艕脽碌脛臍暮艃茅艧脥赂枚膶脣膮虐藳臎藝艁
+[1\. 药物景观 ?](./drugscape/index.md)
 
-
-
-[脟掳脥暖脛偶脗慕](./index.md)
-
-
-
-[1\. 艊漏脦膹木掳膮虐 ?](./drugscape/index.md "1. 艊漏脦膹木掳膮虐")
-
-
-
-[膫芒路艃膸脗脭艠 PDF](http://www.drugusersbible.com/2018/01/pdf.html) ~ [膮艧脗艌膯藵脳掳卤木](https://www.drugusersbible.com/2019/03/order-from-amazon.html)

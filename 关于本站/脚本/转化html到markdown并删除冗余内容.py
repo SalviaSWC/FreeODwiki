@@ -29,7 +29,7 @@ def process_html():
         else:
             cleaned_text = markdown_text.rstrip()
 
-        pattern_header = r'\!\[Menu\]\(\.\./\.\./\.\./\.\./content/svg/menu\.svg\)'
+        pattern_header = r'\!\[Menu\]\((../)+content/svg/menu\.svg\)'
         match = re.search(pattern_header, cleaned_text, re.IGNORECASE)
         if match:
             cleaned_text = cleaned_text[match.end():].lstrip()
