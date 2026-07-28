@@ -378,5 +378,5 @@ Dominic Milton Trott
 
 [前往目录](./index.md)
 
-[1\. 药物景观 ?](./drugscape/index.md)
+[1\.药物景观](./drugscape/index.md)
 
