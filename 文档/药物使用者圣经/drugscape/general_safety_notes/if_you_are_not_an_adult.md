@@ -28,4 +28,4 @@
 
 不要做。
 
-[⮜ 1\.3 一般安全提示](./index.md) [1\.3\.2 静脉注射的风险缓解 ⮞](./mitigating_iv_risks.md)
+[⮜ 1\.3 一般安全提示](./index.md) [1\.3\.2 静脉注射的风险缓解 ⮞](./risk_mitigation_for_iv.md)

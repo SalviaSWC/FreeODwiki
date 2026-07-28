@@ -4,7 +4,7 @@
 [◀返回](../index.md)
 
 * [如果你不是成年人](./if_you_are_not_an_adult.md)
-* [静脉注射的风险缓解](./mitigating_iv_risks.md)
+* [静脉注射的风险缓解](./risk_mitigation_for_iv.md)
 * [鼻腔护理](./nasal_care.md)
 * [化学性爱](./chemsex.md)
 * [升则必降](./what_goes_up_must_come_down.md)
