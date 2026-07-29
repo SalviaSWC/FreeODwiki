@@ -1,77 +1,75 @@
-**3\.2\.6 Iboga**
+伊博格碱
+================
 
-Iboga [\#](#iboga)
-==================
+[◀返回](./index.md)
 
-|  |  |
+| | |
 | --- | --- |
-| Binomial / Botanical Name | Tabernanthe Iboga |
-| Street Names | N/A |
-| Major Active Compound | Ibogaine |
-| Indigenous Source | Cameroon, Gabon, Congo, Central \& West Africa |
-| Form | Root bark |
-| RoA | Oral |
-| Personal Rating On Shulgin Scale | \+ |
+| 学名 / 植物学名 | Tabernanthe Iboga |
+| 街头名称 | 无 |
+| 主要活性成分 | 伊博格碱 |
+| 原产地区 | 喀麦隆、加蓬、刚果、中非和西非 |
+| 形态 | 根皮 |
+| 给药途径 | 口服 |
+| 个人舒尔金评级 | + |
 
-![](../../../../content/images/image336.jpeg)![](../../../../content/images/image337.jpeg)
+![](/文件/image336.jpeg)![](/文件/image337.jpeg)
 
-SUBJECTIVE EXPERIENCE [\#](#subjective-experience)
+主观体验 [\#](#主观体验)
 --------------------------------------------------
 
-Iboga is used ceremonially in Gabon and other Central and West African states, and is fundamental and central to the Bwiti cult. It is used for rites of passage, spiritual communion, resolution of pathological problems, communication with ancestors, and many other intrinsic aspects of this indigenous society.
+伊博格碱在加蓬以及其他中非和西非国家被仪式性使用呢，而且是布维蒂教派的核心和根本哦。它用于成年礼、精神交流、解决病理问题、与祖先沟通，以及这个本土社会许多其他内在方面嘛。
 
-So respected is this plant that in 2000 the Council of Ministers of the Republic of Gabon declared it to be a national treasure.
+这株植物受到如此尊重，以至于2000年加蓬共和国部长会议宣布它为国宝欸。
 
-Beyond this region, its primary alkaloid, ibogaine, is used therapeutically to address addiction. Clinics have been established in nations across the world. It is also claimed to be a true aphrodisiac, when used in the correct circumstance.
+在这个地区之外，它的主要生物碱——伊博格碱——被用于治疗成瘾问题。世界各地都建立了相关诊所呢。据说在合适的情况下使用时，它还是真正的催情剂哦。
 
-However, reports suggest that due to a variety of pressures, including over\-harvesting, the plant population is now under threat, despite a number of conservation efforts.
+不过，报告显示由于包括过度采伐在内的各种压力，尽管有一些保护努力，植物种群现在已经受到威胁啦。
 
-Iboga had been on my must\-do list for a long time before I finally dipped my toe into the water, one Saturday afternoon.
+伊博格碱在我的必试清单上已经待了好久好久，直到某个周六下午，我才终于踮起脚尖试了一下呢。
 
-I had procured 5g from a well known vendor for initial testing: the idea being to start low and to ditch the experiment if the substance was totally inactive, or was nightmarish in some way. The duration, generally cited to be in excess of 24 hours, and for which Erowid stated that “*a user may be immobilised*”, further promoted caution.
+我从一个知名供应商那里买了5克，用来做初步测试：想法是从低剂量开始，如果这东西完全没效果，或者以某种方式变成噩梦，就直接放弃实验嘛。药效时长一般被认为超过24小时，而且Erowid上说“使用者可能会被固定住”，这更让人谨慎哦。
 
-For the first experiment I therefore consumed 1g, intending to take perhaps 2g or 3g as a second pitch, and possibly go for the a more immersive experience sometime thereafter. The mid\-range did appear to be commonly suggested across specialist Internet forums.
+所以第一次实验我吃了1克，打算第二次可能试2克或3克，然后再找机会来一次更沉浸的体验。中等剂量在专业论坛上似乎被普遍建议呢。
 
-Although the 1g had been chosen primarily for safety reasons (containing about 25\-50mg of ibogaine), many commentators considered it to be a sufficient dose with which to experience at least some psychoactivity. The following, for example, is reported on Erowid:
-> “*Even at this small dose, the effect was noticeable. I wasn’t completely sure about attributing the shift in my mental state to the impact of the drug (Shulgin calls this \+1, I think), but my later trial with a larger dose reproduced a very similar state much more vividly (and dramatically).*
+虽然选1克主要是为了安全（大约含有25-50毫克伊博格碱），但很多评论者认为这个剂量已经足够体验到至少一些精神活性了。比如Erowid上有这样的报告：
+
+> “即使在这个小剂量下，效果也很明显。我还不太确定该不该把精神状态的转变完全归因于药物（舒尔金把这叫作+1，我想），但我后来用更大剂量的试验，以更生动（也更戏剧性）的方式重现了非常相似的状态呢。
 >
-> *There were no perceptual changes, but the mood would be best described as tranquil lucidity. At this small dose, it was quite pleasant and kind. The mental effect formed clearly approximately 2 hours after the ingestion, and lasted for a few hours subsiding gradually in waves*”
+> 没有感知变化，但情绪最好用宁静的清醒来形容。在这个小剂量下，感觉相当愉快和友善。精神效应在摄入后大约2小时清晰形成，持续几个小时，然后逐渐以波浪状消退。”
 
-At pre\-threshold and threshold levels like this, detailed commentary is difficult, but I felt broadly as described in those notes. I felt serene, with a strange background headiness, and physically I was a little tingly. I certainly felt that there was at least some sort of effect in play, albeit minor.
+在这种阈值前和阈值水平下，详细评论有点难，但我感觉大致就像那些笔记描述的那样哦。我感到宁静，带着一种奇怪的背景性头部感觉，身体上有点刺刺的。我肯定觉得至少有某种效应在起作用，虽然很轻微嘛。
 
-I also noted that I wasn’t ill, and that there was no body load. After a few hours, I thought that was that.
+我还注意到自己没有生病，也没有身体负担。几个小时后，我以为就这样了。
 
-But it wasn’t.
+但其实没有呢。
 
-On the Saturday, Sunday and Monday I had dreams. These were far more lucid than normal. I didn’t connect them to the iboga at all, particularly as on the Sunday I had consumed alcohol.
+周六、周日和周一，我都做梦了。这些梦比平时清晰多了。我一点都没把它们跟伊博格碱联系起来，尤其是周日还喝了酒欸。
 
-It was the Monday night dreams that made me stop and take stock. What was causing this? Was it something I had consumed last week?
+直到周一晚上的梦让我停下来好好想想。是什么导致的呢？是上周吃过的什么东西吗？
 
-I recalled that my entire intake comprised a few experimental bong hits of powdered acacia confusa root on the Wednesday, which seemed a rather unlikely candidate.
+我回忆起整周的摄入只有周三用粉末状的混淆相思树根做了几次实验性水烟，这看起来不太像候选人呢。
 
-Nonetheless I Googled, using search words of *dream* and *acacia.* There was nothing to suggest any connection.
+尽管如此，我还是用“梦”和“相思树”做了搜索。没什么能说明有关联。
 
-I performed a second search, but this time using i*boga* and *dream*.
+然后我做了第二次搜索，这次用“伊博格碱”和“梦”。
 
-Bingo!
+Bingo！
 
-There was a multitude of reports suggesting that iboga is an oneirogen. The following, for example, was posted on the *BlueLight* forum:
-> “*Also I forgot to mention, I have been having super intense, vivid, varied dreams every single night. Sometimes really bizarre ones. Before the ibogaine it was incredibly rare for me to remember a dream, much less be present in my dreams, but lately I’ve had a number of dreams bordering on lucid*.” \~ Xorkoth
+有大量报告表明伊博格碱是一种促梦剂哦。比如BlueLight论坛上有人发：
 
-There could be a degree of confusion here because large doses of ibogaine apparently cause an awake dreamlike state. Here, however, I refer to dreams, whilst asleep. Reports on the Internet seem to cover both of these states, and often, in a confusing manner.
+> “另外我忘了提，我每天晚上都有超级强烈、生动、多样的梦。有时候真的很古怪。在伊博格碱之前，我几乎很少记得梦，更别说在梦里保持在场感了，但最近我有好几个接近清明的梦。” ～ Xorkoth
 
-I should also note that I woke feeling refreshed and rested on each occasion.
+这里可能会有点混淆，因为大剂量的伊博格碱显然会导致清醒时的梦境般状态。但这里我指的是睡着时的梦呢。网上的报告似乎同时涵盖这两种状态，而且常常搞混。
 
-This experience, of course, influenced my plans, as I felt that a period of contemplation was sensible, prior to diving deeper. I fully intend to return to this strange plant when I am able to find the time to do justice to it.
+我还应该补充说，每次醒来我都感觉神清气爽、休息充分哦。
 
-\[*Shulgin Reference for ibogaine: TiHKAL \#25, p487*\]
+这次体验当然影响了我的计划，我觉得在深入之前先沉思一段时间比较明智。等我能找到足够时间好好对待它时，我完全打算再回来探索这株奇怪的植物呢。
 
-![Iboga is embraced for both spiritual purposes and addiction therapy](../../../../content/images/image338.jpeg)
+[*舒尔金关于伊博格碱的参考：TiHKAL #25，p487*]
 
-Iboga is embraced for both spiritual purposes and addiction therapy
+| | |
+| --- | --- |
+| ![](/文件/image338.jpeg) | 伊博格碱既被用于精神目的，也被用于成瘾治疗哦 |
 
-[⮜ 3\.2\.5 HBWS](../../../../content/botscape/psychedelics/hbws/index.html "3.2.5 HBWS")[3\.2\.7 Magic Mushrooms ⮞](../../../../content/botscape/psychedelics/magic_mushrooms/index.html "3.2.7 Magic Mushrooms")
-
-
-
-[DOWNLOAD THE PDF](http://www.drugusersbible.com/2018/01/pdf.html) \~ [BUY THE PAPERBACK](https://www.drugusersbible.com/2019/03/order-from-amazon.html)
+[⮜ 3.2.5 夏威夷小木玫瑰](./HBWS.md)[3.2.7 赛洛西宾蘑菇 ⮞](./magic_mushrooms.md)
