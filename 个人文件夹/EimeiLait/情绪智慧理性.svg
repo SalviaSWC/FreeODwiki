@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 454.94 298.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231815;
+        font-family: NotoSansHans-Medium-GBpc-EUC-H, 'Noto Sans S Chinese';
+        font-size: 18px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="157.29" cy="143.02" r="114.41"/>
+  <circle class="cls-2" cx="296.21" cy="143.02" r="114.41"/>
+  <text class="cls-1" transform="translate(93.67 147.97)"><tspan x="0" y="0">情绪心念</tspan></text>
+  <text class="cls-1" transform="translate(189.91 149.37)"><tspan x="0" y="0">智慧心念</tspan></text>
+  <text class="cls-1" transform="translate(292.7 149.37)"><tspan x="0" y="0">理性心念</tspan></text>
+</svg>
