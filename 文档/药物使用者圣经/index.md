@@ -2,7 +2,6 @@
 
 # 药物使用者圣经目录
 
-[◀返回](./preface.md)
 
 [◀返回](./preface.md)
 
@@ -281,7 +280,7 @@
 
         - [4\.9\.1 伤害减少与安全](./worldscape/internet_resources/harm_reduction_and_safety.md)
         - [4\.9\.2 药物使用者圣经](./worldscape/internet_resources/the_drug_users_bible.md)
-    -  [4\.10 补充材料](./worldscape/supplementary_notes/index.md)
-    -  [4\.11 补充照片](./worldscape/supplementary_photographs/index.md)
-    -  [4\.12 南东––最后的说明](./worldscape/namaste/index.md)
--  [尾声](./epilogue/index.md)
+    -  [4\.10 补充材料](./worldscape/supplementary_notes.md)
+    -  [4\.11 补充照片](./worldscape/supplementary_photographs.md)
+    -  [4\.12 南东––最后的说明](./worldscape/namaste.md)
+-  [尾声](./epilogue.md)
