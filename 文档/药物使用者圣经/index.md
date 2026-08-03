@@ -238,8 +238,8 @@
         - [3\.8\.10 Tobacco](./botscape/unclassified/tobacco.md)
 -  [4\. 世界景观](./worldscape/index.md)
 
-    -  [4\.1 有多少人在用药呢？](./worldscape/how_many_people_use_drugs/index.md)
-    -  [4\.2 相对危害](./worldscape/the_relative_harm/index.md)
+    -  [4\.1 有多少人在用药呢？](./worldscape/how_many_people_use_drugs.md)
+    -  [4\.2 相对危害](./worldscape/the_relative_harm.md)
     -  [4\.3 成瘥与过量](./worldscape/addiction_and_overdose/index.md)
 
         - [4\.3\.1 成瘥](./worldscape/addiction_and_overdose/addiction.md)
@@ -276,7 +276,7 @@
         - [4\.8\.3 多種药物阆合](./worldscape/argot/poly_drug_combinations.md)
         - [4\.8\.4 精选分子](./worldscape/argot/selected_molecules.md)
         - [4\.8\.5 字母碤引](./worldscape/argot/alphabetical_index.md)
-    -  [4\.9 网络资源](./worldscape/internet_resources.md)
+    -  [4\.9 网络资源](./worldscape/internet_resources/index.md)
 
         - [4\.9\.1 伤害减少与安全](./worldscape/internet_resources/harm_reduction_and_safety.md)
         - [4\.9\.2 药物使用者圣经](./worldscape/internet_resources/the_drug_users_bible.md)
