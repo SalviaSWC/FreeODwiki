@@ -10,7 +10,7 @@
 
 * [5-HTP](./5-htp.md)
 * [Aniracetam (+ Citicoline)](./aniracetam_citicoline.md)
-* [阿莫达菲尼](./armodafinil.md)
+* [阿莫达非尼](./armodafinil.md)
 * [L-茶氨酸](./l-theanine.md)
 * [Modafiendz](./modafiendz.md)
 * [Modafinil](./modafinil.md)

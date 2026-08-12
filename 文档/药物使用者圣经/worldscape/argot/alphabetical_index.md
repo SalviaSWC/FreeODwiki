@@ -47,7 +47,7 @@
 * [阿普唑仑 (2\.4\.1\)](../../chemscape/anxiolytics_and_sedatives/alprazolam.md)
 * [苯丙胺 (2\.3\.10\)](../../chemscape/stimulants/amphetamine.md)
 * [茴拉西坦（+ 胞磷胆碱） (2\.9\.2\)](../../chemscape/nootropics/aniracetam_citicoline.md)
-* [阿莫达菲尼 (2\.9\.3\)](../../chemscape/nootropics/armodafinil.md)
+* [阿莫达非尼 (2\.9\.3\)](../../chemscape/nootropics/armodafinil.md)
 * [死藤水 (3\.2\.1\)](../../botscape/psychedelics/ayahuasca.md)
 
 ### B [\#](#b)
@@ -172,7 +172,7 @@
 * [Mexedrone (2\.7\.9\)](../../chemscape/empathogens_and_entactogens/mexedrone.md)
 * [墨西哥龙蒿 (3\.6\.3\)](../../botscape/oneirogens/mexican_tarragon.md)
 * [Modafiendz (2\.9\.5\)](../../chemscape/nootropics/modafiendz.md)
-* [莫达菲尼 (2\.9\.6\)](../../chemscape/nootropics/modafinil.md)
+* [莫达非尼 (2\.9\.6\)](../../chemscape/nootropics/modafinil.md)
 * [牵牛花种子 (3\.2\.9\)](../../botscape/psychedelics/morning_glory_seeds.md)
 * [吗啡 (2\.5\.7\)](../../chemscape/intoxicating_depressants/morphine.md)
 * [艾蒿 (3\.6\.4\)](../../botscape/oneirogens/mugwort.md)
