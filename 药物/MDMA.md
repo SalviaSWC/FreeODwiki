@@ -64,19 +64,19 @@ description:
 | [单胺氧化酶抑制剂](../文档/单胺氧化酶抑制剂.md) | ⛔ 严禁联用 |
 | [右美沙芬](右美沙芬.md)                         | ⛔ 严禁联用 |
 
-- !!! warning "警告"
-
-        由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始。参见[负责任的用药部分](../文档/负责任的用药索引页.md)。
-
-    !!! info "[免责声明](../关于本站/免责声明.md)"
-
-        本站的[给药剂量](../文档/给药剂量.md)信息收集自用户和[相关资源](../文档/科学信息索引页.md)，仅供教育目的使用。这不是医疗建议，应与其他来源核实以确保准确性。
-
 </div>
+
+!!! warning "警告"
+
+    由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始。参见[负责任的用药部分](../文档/负责任的用药索引页.md)。
+
+!!! info "[免责声明](../关于本站/免责声明.md)"
+
+    本站的[给药剂量](../文档/给药剂量.md)信息收集自用户和[相关资源](../文档/科学信息索引页.md)，仅供教育目的使用。这不是医疗建议，应与其他来源核实以确保准确性。
 
 **MDMA** 是[苯丙胺](../文档/药物分类/苯丙胺类物质.md)类的一种经典[共情剂](../文档/药物分类/共情剂.md)物质，是毒品摇头丸的主要成分。
 
-它是[共情剂](../文档/药物分类/共情剂.md)家族中最著名、使用最广泛的成员，这个多样化的群体还包括[MDA](MDA.md)、[Methylone](Methylone.md)、[4-MMC](4-MMC.md)和[6-APB](6-APB.md)。它通过促进大脑中[血清素](../文档/血清素.md)、[多巴胺](../文档/多巴胺.md)和[去甲肾上腺素](../文档/去甲肾上腺素.md)的释放来产生效果，尤其是血清素。
+它是[共情剂](../文档/药物分类/共情剂.md)家族中最著名、使用最广泛的成员，这个多样化的群体还包括 [MDA](MDA.md)、[Methylone](Methylone.md)、[4-MMC](4-MMC.md) 和 [6-APB](6-APB.md)。它通过促进大脑中[血清素](../文档/血清素.md)、[多巴胺](../文档/多巴胺.md)和[去甲肾上腺素](../文档/去甲肾上腺素.md)的释放来产生效果，尤其是血清素。
 
 MDMA 最早于 1912 年由制药公司[默克](http://en.wikipedia.org/wiki/Merck_Group 'wikipedia:Merck Group')开发。[^1] 然而，直到 1970 年代，它才被报道用于人类，当时它在美国的地下心理治疗圈子中为人所知。[^2] 在 1980 年代初，它传播到夜生活和锐舞文化中，最终导致其在 1985 年被联邦列为管制物质。[^3] 到了 2014 年，据估计它是世界上最受欢迎的娱乐性药物之一，与[可卡因](可卡因.md)和[大麻](大麻.md)并列。[^4]
 
@@ -97,7 +97,7 @@ MDMA 最初由德国化学家 Anton Köllisch 博士于 1912 年在默克制药�
 
 1965 年，美国化学家 [Alexander Shulgin](../文档/TiHKAL.md) 作为学术练习合成了 MDMA，但没有测试其精神活性。[^14] [^2] Shulgin 声称在 1967 年从一名学生那里第一次听说了 MDMA 的效果，并决定自己进行实验。他对这种物质的效果印象深刻，并相信它具有治疗效用。他向治疗师和精神科医生宣传它，导致它作为各种心理障碍的辅助治疗获得了一定的普及。[^2]
 
-在此期间，心理治疗师 Leo Zeff 博士从退休中复出，随后向 4000 多名患者介绍了当时合法的 MDMA。从 1970 年代中期到 1980 年代中期，加利福尼亚州使用 MDMA（当时称为「Adam」）的临床医生数量有所增长。[^15]
+在此期间，心理治疗师 Leo Zeff 博士从退休中复出，随后向 4000 多名患者介绍了当时合法的 MDMA。从 1970 年代中期到 1980 年代中期，加利福尼亚州使用 MDMA（当时称为 Adam）的临床医生数量有所增长。[^15]
 
 MDMA 的娱乐性使用大约在同一时间流行起来，特别是在夜总会，最终引起了缉毒局（DEA）的注意。经过几次听证会，一名美国联邦行政法法官建议将 MDMA 列为附表 III 管制物质，以便可以在医疗领域使用。尽管如此，DEA 局长否决了这一建议，并将 MDMA 归类为附表 I 管制物质。[^16] [^14]
 
@@ -109,11 +109,11 @@ MDMA 的娱乐性使用大约在同一时间流行起来，特别是在夜总会
 
 ## 化学
 
-MDMA，即 3,4-亚甲二氧基-N-甲基苯丙胺，是[取代苯丙胺类物质](../文档/药物分类/苯丙胺类物质.md)的一种合成分子。苯丙胺类的分子都包含一个[苯乙胺](../文档/药物分类/苯乙胺类物质.md)核心，由一个苯环通过乙基链结合到一个氨基（NH<sub>2</sub>）基团上，在 R<sub>α</sub> 位置有一个额外的甲基取代。除此之外，MDMA 在 R<sub>N</sub> 位置包含一个甲基取代，这一特征与[甲基苯丙胺](甲基苯丙胺.md)共有。关键是，MDMA 分子还在苯环的 R<sub>3</sub> 和 R<sub>4</sub> 位置包含氧基团取代——这些氧基团通过亚甲基桥结合成亚甲二氧基环。MDMA 与其他[共情剂](../文档/药物分类/共情剂.md)和[兴奋剂](../文档/药物分类/兴奋剂.md)如[MDA](MDA.md)、[MDEA](MDEA.md)和[MDAI](MDAI.md)共享这个亚甲二氧基环。
+MDMA，即 3,4-亚甲二氧基-N-甲基苯丙胺，是[取代苯丙胺类物质](../文档/药物分类/苯丙胺类物质.md)的一种合成分子。苯丙胺类的分子都包含一个[苯乙胺](../文档/药物分类/苯乙胺类物质.md)核心，由一个苯环通过乙基链结合到一个氨基（NH<sub>2</sub>）基团上，在 R<sub>α</sub> 位置有一个额外的甲基取代。除此之外，MDMA 在 R<sub>N</sub> 位置包含一个甲基取代，这一特征与[甲基苯丙胺](甲基苯丙胺.md)共有。关键是，MDMA 分子还在苯环的 R<sub>3</sub> 和 R<sub>4</sub> 位置包含氧基团取代——这些氧基团通过亚甲基桥结合成亚甲二氧基环。MDMA 与其他[共情剂](../文档/药物分类/共情剂.md)和[兴奋剂](../文档/药物分类/兴奋剂.md)如 [MDA](MDA.md)、[MDEA](MDEA.md) 和 [MDAI](MDAI.md) 共享这个亚甲二氧基环。
 
 ## 药理学
 
-MDMA 主要作为三种主要[单胺神经递质](../文档/单胺.md)[血清素](../文档/血清素.md)、[去甲肾上腺素](../文档/去甲肾上腺素.md)和[多巴胺](../文档/多巴胺.md)的[释放剂](../文档/神经递质释放剂.md)，通过其在痕量胺相关受体 1（TAAR1）和囊泡单胺转运体 2（VMAT2）的作用发挥作用。[^17] [^18] [^19] MDMA 是单胺转运体底物（即多巴胺转运体（**DAT**）、去甲肾上腺素转运体（**NET**）和血清素转运体（**SERT**）的底物），使其能够通过这些神经元膜转运蛋白进入单胺能[神经元](../文档/神经元.md)。[^18] 通过作为单胺转运体底物，MDMA 在神经元膜转运体处产生竞争性[再摄取抑制](../文档/神经递质再摄取抑制剂.md)，与内源性单胺竞争再摄取。[^18] [^20]
+MDMA 主要作为三种主要[单胺神经递质](../文档/单胺.md) [血清素](../文档/血清素.md)、[去甲肾上腺素](../文档/去甲肾上腺素.md)和[多巴胺](../文档/多巴胺.md)的[释放剂](../文档/神经递质释放剂.md)，通过其在痕量胺相关受体 1（TAAR1）和囊泡单胺转运体 2（VMAT2）的作用发挥作用。[^17] [^18] [^19] MDMA 是单胺转运体底物（即多巴胺转运体（**DAT**）、去甲肾上腺素转运体（**NET**）和血清素转运体（**SERT**）的底物），使其能够通过这些神经元膜转运蛋白进入单胺能[神经元](../文档/神经元.md)。[^18] 通过作为单胺转运体底物，MDMA 在神经元膜转运体处产生竞争性[再摄取抑制](../文档/神经递质再摄取抑制剂.md)，与内源性单胺竞争再摄取。[^18] [^20]
 
 MDMA 抑制两种囊泡单胺转运体（VMATs），其中第二种（VMAT2）在单胺[神经元](../文档/神经元.md)囊泡膜内高度表达。[^19] 一旦进入单胺神经元，MDMA 充当 VMAT2 抑制剂和 TAAR1 激动剂。[^18] [^21] MDMA 对 VMAT2 的抑制导致神经元细胞质中上述单胺神经递质浓度的增加。[^19] [^22] MDMA 激活 TAAR1 触发蛋白激酶信号传导事件，然后磷酸化神经元的相关单胺转运体。[^18]
 
@@ -127,7 +127,7 @@ MDMA 在突触后血清素受体 5-HT<sub>1</sub> 和 5-HT<sub>2</sub> 受体上
 
 !!! info "[免责声明](../关于本站/免责声明.md)"
 
-    _下列效应引用自 [**主观效应索引**](../药效/index.md) (**SEI**)，这是一个基于轶事用户报告和个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们。_
+    _下列效应引用自 [**主观效应索引**](../药效/index.md)（**SEI**），这是一个基于轶事用户报告和个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们。_
 
     _同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能引发全方位的效应。同样，**不良反应** 随着剂量的增加变得越来越可能，可能包括 **成瘾、严重伤害或死亡** ☠。_
 
@@ -271,13 +271,13 @@ MDMA 在突触后血清素受体 5-HT<sub>1</sub> 和 5-HT<sub>2</sub> 受体上
     1. [Experience:0.75g MDMA - Possibly some MDA through metabolisation?](https://psychonautwiki.org/wiki/Experience:0.75g_MDMA_-_Possibly_some_MDA_through_metabolisation%3F)
     2. [Experience:150mg MDMA + 20mg 2C-B - I designed it this way myself](https://psychonautwiki.org/wiki/Experience:150mg_MDMA_%2B_20mg_2C-B_-_I_designed_it_this_way_myself)
     3. [Experience:250mg MDA / 250mg MDMA - unnecessarily large dosage](https://psychonautwiki.org/wiki/Experience:250mg_MDA_/_250mg_MDMA_-_unnecessarily_large_dosage)
-    4. [Experience:250mg MDMA (oral) - Pareidolia & paranoia](<https://psychonautwiki.org/wiki/Experience:250mg_MDMA_(oral)_-_Pareidolia_%26_paranoia>)
+    4. [Experience:250mg MDMA (oral) - Pareidolia & paranoia](https://psychonautwiki.org/wiki/Experience:250mg_MDMA_%28oral%29_-_Pareidolia_&_paranoia)
     5. [Experience:450mg MDMA - Quarter consumption through whole night](https://psychonautwiki.org/wiki/Experience:450mg_MDMA_-_Quarter_consumption_through_whole_night)
-    6. [Experience:Cannabis, Ecstasy (3 brownies, 1 pill, Oral) My happy friends Shadow People](<https://psychonautwiki.org/wiki/Experience:Cannabis,_Ecstasy_(3_brownies,_1_pill,_Oral)_My_happy_friends_Shadow_People>)
-    7. [Experience:MDMA (1/2 tab, oral) - My first time ever being high](<https://psychonautwiki.org/wiki/Experience:MDMA_(1/2_tab,_oral)_-_My_first_time_ever_being_high>)
-    8. [Experience:MDMA (100 mg) + Cannabis - Trip Report](<https://psychonautwiki.org/wiki/Experience:MDMA_(100_mg)_%2B_Cannabis_-_Trip_Report>)
-    9. [Experience:MDMA (750mg, Oral) - Finally Free](<https://psychonautwiki.org/wiki/Experience:MDMA_(750mg,_Oral)_-_Finally_Free>)
-    10. [Experience:MDMA (80mg, rectal) - Comments on rectal bioavailability](<https://psychonautwiki.org/wiki/Experience:MDMA_(80mg,_rectal)_-_Comments_on_rectal_bioavailability>)
+    6. [Experience:Cannabis, Ecstasy (3 brownies, 1 pill, Oral) My happy friends Shadow People](https://psychonautwiki.org/wiki/Experience:Cannabis,_Ecstasy_%283_brownies,_1_pill,_Oral%29_My_happy_friends_Shadow_People)
+    7. [Experience:MDMA (1/2 tab, oral) - My first time ever being high](https://psychonautwiki.org/wiki/Experience:MDMA_%281/2_tab,_oral%29_-_My_first_time_ever_being_high)
+    8. [Experience:MDMA (100 mg) + Cannabis - Trip Report](https://psychonautwiki.org/wiki/Experience:MDMA_%28100_mg%29_+_Cannabis_-_Trip_Report)
+    9. [Experience:MDMA (750mg, Oral) - Finally Free](https://psychonautwiki.org/wiki/Experience:MDMA_%28750mg,_Oral%29_-_Finally_Free)
+    10. [Experience:MDMA (80mg, rectal) - Comments on rectal bioavailability](https://psychonautwiki.org/wiki/Experience:MDMA_%2880mg,_rectal%29_-_Comments_on_rectal_bioavailability)
     11. [Experience:MDMA or MDA, 580mg, Oral](https://psychonautwiki.org/wiki/Experience:MDMA_or_MDA,_580mg,_Oral)
     12. [Experience:Nightmare flipping](https://psychonautwiki.org/wiki/Experience:Nightmare_flipping)
 - [Erowid Experience Vaults: MDMA](https://www.erowid.org/experiences/subs/exp_MDMA.shtml)
@@ -288,11 +288,11 @@ MDMA 在突触后血清素受体 5-HT<sub>1</sub> 和 5-HT<sub>2</sub> 受体上
 
 <div class="grid cards" markdown>
 
-| <img src="../文件/Ecstasy_monogram.jpg" width=400 /> |
+| <img src="../文件/Ecstasy_monogram.jpg" width=400> |
 | :--------------------------------------------------: |
 |      MDMA 丸剂，通常称为 **Ecstasy**（摇头丸）       |
 
-| <img src="../文件/1g_MDMA-HCl.jpg" width=400 /> |
+| <img src="../文件/1g_MDMA-HCl.jpg" width=400> |
 | :---------------------------------------------: |
 |      米白色 MDMA 晶体，通常称为 **Molly**       |
 
@@ -352,11 +352,11 @@ MDMA 通常以其[外消旋](../文档/异构体.md)形式（称为 SR-MDMA）�
 
 <div class="grid cards" markdown>
 
-|                                   <img src="../文件/HarmCausedByDrugsTable_zh-cn.svg" width=500 />                                    |
+|                                   <img src="../文件/HarmCausedByDrugsTable_zh-cn.svg" width=500>                                    |
 | :-----------------------------------------------------------------------------------------------------------------------------------: |
 | 2010 年 ISCD 研究根据药物危害专家的陈述对各种药物（合法和非法）进行的排名表。MDMA（Ecstasy）被发现是总体上第 16 位最危险的药物。[^35] |
 
-|     <img src="../文件/Harmchart.png" width=500 />     |
+|     <img src="../文件/Harmchart.png" width=500>     |
 | :---------------------------------------------------: |
 | 显示 MDMA 相对身体伤害、社会伤害和依赖性的雷达图[^57] |
 
