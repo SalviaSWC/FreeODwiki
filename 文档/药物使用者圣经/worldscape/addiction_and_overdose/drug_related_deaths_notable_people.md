@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | Chet Baker（音乐家） | 1988 | 58 | 可卡因、海洛因 |
 | Sid Barnes（板球运动员） | 1973 | 57 | 巴比妥类、溴化物 |
-| Art Bell（广播主持人/作家） | 2018 | 72 | 阿片类、苯二氮卓类 |
+| Art Bell（广播主持人/作家） | 2018 | 72 | 阿片类、苯二氮䓬类 |
 | Len Bias（篮球运动员） | 1986 | 22 | 可卡因 |
 | George Best（足球运动员） | 2005 | 59 | 酒精 |
 | Lenny Bruce（喜剧演员） | 1966 | 40 | 吗啡 |
@@ -24,12 +24,12 @@
 | Tony Hancock（演员） | 1968 | 44 | 苯丙胺、酒精 |
 | Jimi Hendrix（音乐家） | 1970 | 27 | 巴比妥类 |
 | Abbie Hoffman（活动家） | 1989 | 52 | 苯巴比妥 |
-| Philip Seymour Hoffman（演员） | 2014 | 46 | 海洛因、可卡因、苯丙胺、苯二氮卓 |
+| Philip Seymour Hoffman（演员） | 2014 | 46 | 海洛因、可卡因、苯丙胺、苯二氮䓬 |
 | Whitney Houston（音乐家） | 2012 | 48 | 可卡因、阿普唑仑、其他 |
 | Howard Hughes（商人） | 1976 | 70 | 可待因 |
 | Michael Jackson（音乐家） | 2009 | 50 | 劳拉西泮、丙泊酚 |
 | Janis Joplin（音乐家） | 1970 | 27 | 海洛因 |
-| Heath Ledger（演员） | 2008 | 28 | 阿片类、苯二氮卓类 |
+| Heath Ledger（演员） | 2008 | 28 | 阿片类、苯二氮䓬类 |
 | Phil Lynott（音乐家） | 1986 | 36 | 海洛因 |
 | Marilyn Monroe（女演员） | 1962 | 36 | 巴比妥类 |
 | Keith Moon（音乐家） | 1978 | 32 | 处方药 |
