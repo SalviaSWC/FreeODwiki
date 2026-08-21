@@ -83,3 +83,4 @@ description:
 - [5mgMK-801 + 10mg 唑吡坦——最社死的一天](/报告/5mgMK-801+10mgsns.md)
 - [纳洛酮急救氨酚羟考酮](./纳洛酮急救氨酚羟考酮.md)
 - [NEP35mg鼻吸](./nep35mg鼻吸.md)
+- [摄入物质：DXM HBR 290MG 美金刚45MG与其他物质 ](./DXM_HBR_290MG_美金刚45MG与其他物质.md)
