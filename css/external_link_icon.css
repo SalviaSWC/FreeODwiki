@@ -1,0 +1,24 @@
+article [href*="/"]::after {
+    display: inline-block;
+    height: 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* 修复缩放模糊问题 */
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+
+/* 外链小图标 */
+
+article [href^="http"]:not([href^="http://127.0.0.1"]):not([href^="http://lcoalhost"]):not([href^="https://freeodwiki.org"])::after {
+    content: '(external link)';
+    background-image: url("../文件/favicon/VisualEditor_-_Icon_-_External-link.svg");
+    width: 1em;
+    text-indent: 1em;
+}

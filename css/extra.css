@@ -1,0 +1,55 @@
+.md-grid {
+    max-width: 97.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+details {
+    markdown: "1";
+}
+
+/* rt {
+  font-size: 65%;
+} */
+
+
+/* 防止标题锚点后的 # 或 ¶ 被复制 */
+
+.md-typeset .headerlink {
+    user-select: none;
+}
+
+
+/* 数字的有序列表（覆盖原本的英文 a. b. 等） */
+
+.md-typeset ul ol,
+.md-typeset ol ol {
+    list-style-type: decimal;
+}
+
+.md-typeset ul ol ol,
+.md-typeset ol ol ol {
+    list-style-type: decimal;
+}
+
+
+/* 脚注两端显示方括号，自动空格分隔，且不可复制 */
+
+a.footnote-ref::before {
+    content: '[';
+}
+
+a.footnote-ref::after {
+    content: '] ';
+}
+
+a.footnote-ref {
+    user-select: none;
+}
+
+
+/* 让透明图使用 MkDocs 的背景色，这样就不会叠在一起 */
+
+.off-glb {
+    background: var(--md-default-bg-color);
+}

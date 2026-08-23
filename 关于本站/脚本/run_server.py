@@ -24,7 +24,8 @@ repo_name: SalviaSWC/FreeODwiki
 repo_url: https://github.com/SalviaSWC/FreeODwiki
 
 extra_css:
-  - extra.css
+  - css/extra.css
+  - css/external_link_icon.css
   - https://unpkg.com/katex@0/dist/katex.min.css
 
 extra_javascript:
