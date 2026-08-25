@@ -1,6 +1,6 @@
 # 摄入物质：DXM HBR 290MG 美金刚45MG与其他物质 
 
-[◀返回](index.md)
+[◀返回](./index.md)
 
 DXM高原：西格玛高原    
 
