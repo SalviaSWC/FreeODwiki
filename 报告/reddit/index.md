@@ -18,6 +18,7 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 - [你处在一种不依赖药物也能感到快乐的状态时，才是使用药物的最佳时机](./youre_in_the_best_position_to_do_drugs_when_you.md)
 - [如果你努力尝试想要从你关心的人那里得到对你服用药物的认可上，请读一下本文](./if_you_struggle_getting_acceptance_from_those_you.md)
 - [我觉得我们很多人对自己的药物使用比承认的更加自豪](./i_think_a_lot_of_us_are_more_proud_of_our_drug.md)
+- [（触发警告：不适宜内容讨论）这款游戏让我有了药物性癖 ☠️](./tw_nsfw_discussion_this_game_gave_me_a_drug_kink.md)
 
 ### [解离剂](../../文档/药物分类/解离剂.md)
 
