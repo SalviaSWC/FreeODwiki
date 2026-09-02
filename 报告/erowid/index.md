@@ -312,6 +312,12 @@ Erowid网址：<https://www.erowid.org/>
 
 - [**exp105547** - 我相信我过量了](./105547.md) (25I-NBOMe过量和后遗症)
 
+## 4
+
+### 4-MeO-MiPT
+
+- [**exp68459** - 一款迷幻玩具](./68459.md) 【4-MeO-MiPT的体验】
+
 ## 5
 
 ### 5-MeO-EiPT
