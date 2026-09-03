@@ -1,8 +1,7 @@
 
 # 13 联用右美沙芬和其他药物
 
-
-[\[ 上一节 \]](/文档/右美沙芬FAQ/dxm_chemistry.md)[\[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md)[\[ 下一节 \]](/文档/右美沙芬FAQ/dxm_culture.md)
+[\[ 上一节 \]](dxm_culture.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](dxm_experiences.md)
 
 联用右美沙芬和其他药物（不管合不合法）都要很小心哦。每次混用，你都在冒着一种无法预测的身体反应风险呢。虽然如此，还是有人问起这个，下面就是大家联用右美沙芬和其他药物的反馈结果啦。
 除了下面的内容，你也可以去看看 [14.4 节](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.4)，看看大家写的关于右美沙芬和其他药物的体验报告嘛。
@@ -122,4 +121,4 @@
 
 ---
 
-[\[ 上一节 \]](/文档/右美沙芬FAQ/dxm_chemistry.md)[\[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md)[\[ 下一节 \]](/文档/右美沙芬FAQ/dxm_culture.md)
+[\[ 上一节 \]](dxm_culture.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](dxm_experiences.md)
