@@ -1,8 +1,6 @@
 
 # 16 术语表
 
-
-
 [\[ 上一节 \]](dxm_appendices.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](dxm_refs.md)
 
 ---
@@ -516,4 +514,4 @@
 
 ---
 
-[dxm_appendices.md](dxm_appendices.md) [dxm_refs.md](dxm_refs.md) [dxm_faq.md](dxm_faq.md)
+[\[ 上一节 \]](dxm_appendices.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](dxm_refs.md)
