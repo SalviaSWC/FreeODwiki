@@ -245,6 +245,4 @@ P450-2D6 的功能是去除甲氧基并用羟基 (OH) 代替（或者更准确�
 
 我没有关于 3-羟基吗喃本身会发生什么的信息。它可能由肾脏直接排泄，也可能经过进一步代谢。
 
----
-
-- [dxm_paranormal.md](/文档/右美沙芬FAQ/dxm_paranormal.md) [dxm_neuropharm.md](/文档/右美沙芬FAQ/dxm_neuropharm.md) [dxm_faq.md](/文档/右美沙芬FAQ/dxm_faq.md)
+[\[ 上一节 \]](/文档/右美沙芬FAQ/dxm_paranormal.md)[\[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md)[\[ 下一节 \]](/文档/右美沙芬FAQ/dxm_neuropharm.md)
