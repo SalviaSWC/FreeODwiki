@@ -87,6 +87,8 @@ const chineseBodyweight = "70 千克";
 
 
 let s="";
+// 0表示从网页中提取中文
+// 1表示将中文填入翻译
 const translate = 1;
 const captionText = "中文翻译by @SalviaSWC";
 
