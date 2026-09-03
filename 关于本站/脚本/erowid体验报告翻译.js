@@ -87,7 +87,8 @@ const chineseBodyweight = "70 千克";
 
 
 let s="";
-const translate = 0;
+const translate = 1;
+const captionText = "中文翻译by @SalviaSWC";
 
 
 
@@ -246,7 +247,7 @@ const captionTable = bodyWrap.firstElementChild;
 
 const captionSalvia = document.createElement('div');
 captionSalvia.style.opacity = 0.15;
-captionSalvia.textContent = "中文翻译by @SalviaSWC";
+captionSalvia.textContent = captionText;
 
 captionTable.appendChild(captionSalvia);
 
