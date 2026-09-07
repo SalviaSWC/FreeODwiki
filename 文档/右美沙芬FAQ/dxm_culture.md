@@ -3,7 +3,7 @@
 
 经作者 William White 许可在 Erowid 使用
 
-[\[ 上一节 \]](dxm_mixing.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](dxm_experiences.md)
+[\[ 上一节 \]](/文档/右美沙芬FAQ/dxm_chemistry.md)[\[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md)[\[ 下一节 \]](/文档/右美沙芬FAQ/dxm_mixing.md)
 
 这一节将描述一些当前和过去的右美沙芬文化哦。
 这其中的大部分都是巨大的未知数呢，但我正在尝试撰写关于右美沙芬娱乐性使用历史的权威文本（这可能需要我花上好几年的时间嘛）。如果你有关于这个话题的信息，特别是关于 1975 年之前以 罗米拉（Romilar™）形式使用右美沙芬的信息，请联系我哟。
@@ -329,4 +329,4 @@ Usenet 药物新闻组最初分布很差，其成员形成了一个有些孤立�
 
 ---
 
-[\[ 上一节 \]](dxm_mixing.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](dxm_experiences.md)
+[\[ 上一节 \]](/文档/右美沙芬FAQ/dxm_chemistry.md)[\[ 目录 \]](/文档/右美沙芬FAQ/dxm_faq.md)[\[ 下一节 \]](/文档/右美沙芬FAQ/dxm_mixing.md)

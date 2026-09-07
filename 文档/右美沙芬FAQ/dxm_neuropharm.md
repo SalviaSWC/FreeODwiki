@@ -261,6 +261,4 @@ PCP 和氯胺酮都比*右美沙芬*更强地结合到 NMDA，而在 PCP2 和 Si
 
 (+)-3-PPP 和 SKF-10,047 是好的 Sigma 特异性配体；更多 Sigma1 特异性配体包括 1-苯基环烷羧酸衍生物 ([122](dxm_refs.md#r122),[127](dxm_refs.md#r127))。有人觉得勇敢吗？也许你可以成为下一个 Shulgin（有人想要写一本《我所认识和喜爱的内源性精神素》吗？）。不过话又说回来，也许你最好不要；你要是得了什么治不好的疯病，我可不想被起诉呢。
 
----
-
-[dxm_physiological.md](dxm_physiological.md) [dxm_chemistry.md](dxm_chemistry.md) [dxm_faq.md](dxm_faq.md)
+[\[ 上一节 \]](dxm_physiological.md)[\[ 目录 \]](dxm_faq.md)[\[ 下一节 \]](dxm_chemistry.md)
