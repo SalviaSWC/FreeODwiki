@@ -138,6 +138,7 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 ### [普瑞巴林](../../药物/普瑞巴林.md)
 
 - [夜里出去玩时最适合亚洲红脸体质的酒精替代品](./best_alternative_alcohols_for_a_night_out_asian.md) (普瑞巴林, 菲尼布特, GHB&2M2B)
+- [我吃了两年普瑞巴林，一直不知道这玩意儿是种药](./i_was_on_pregablin_for_two_years_without_knowing.md)
 
 
 ## Q

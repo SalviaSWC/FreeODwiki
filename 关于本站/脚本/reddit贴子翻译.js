@@ -112,7 +112,7 @@ const chineseSubstances = ["3-Me-PCPy"];
 
 
 
-const translate = 1
+const translate = 0
 
 
 
