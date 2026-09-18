@@ -86,3 +86,4 @@ description:
 - [摄入物质：DXM HBR 290MG 美金刚45MG与其他物质 ](./DXM_HBR_290MG_美金刚45MG与其他物质.md)
 - [初次服用愈美](./初次服用愈美.md)
 - [3-me-pcpy静脉注射给药，约10mg（可能＜10mg）](./3-me-pcpy静脉注射给药.md)
+- [IHCH-7113使用报告](./IHCH-7113使用报告.md)
