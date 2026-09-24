@@ -68,6 +68,8 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 
 - [亲身经历两边之后，我终于明白为什么人们会离开成瘾者](./i_finally_understand_why_people_abandon_addicts.md) (可卡因&酒精)
 
+- [哪些国家的非处方药最离谱？](./countries_with_craziest_otc_medications.md) (唑吡坦、酒精 & 哌甲酯)
+
 ## G
 
 ### [GHB](../../药物/GHB.md)
@@ -131,6 +133,10 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 
 ## P
 
+### [哌甲酯](../../药物/哌甲酯.md)
+
+- [哪些国家的非处方药最离谱？](./countries_with_craziest_otc_medications.md) (唑吡坦、酒精 & 哌甲酯)
+
 ### [哌乙酯](../../药物/EPH.md)
 
 - [走进兴奋剂精神病的世界](./inside_the_world_of_stimulant_psychosis.md)
@@ -163,6 +169,11 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 - [鼠尾草药物报告：变成一个吊扇活了15年。第一次也是我的唯一一次体验。](./salvia_trip_report_lived_15_years_as_a_ceiling.md)
 
 - [在不知情的情况下抽了鼠尾草，它差点把我整垮](./smoked_salvia_without_knowing_and_it_almost_broke.md)
+
+## Z
+
+### [唑吡坦](../../药物/唑吡坦.md)
+- [哪些国家的非处方药最离谱？](./countries_with_craziest_otc_medications.md) (唑吡坦、酒精 & 哌甲酯)
 
 <!-- 0-9 -->
 
