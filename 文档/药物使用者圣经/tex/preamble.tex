@@ -1,0 +1,273 @@
+% =====================================================================
+%  《药物使用者圣经》 LaTeX 排版模板 (preamble)
+%  由 build_book.py 生成的 book.tex 引入。
+%  可以自由修改本文件来调整版式；改完只需重新编译，无需重新生成正文。
+%  编译引擎：XeLaTeX
+% =====================================================================
+
+% ---------- 页面 ----------
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  top=2.5cm, bottom=2.6cm, left=2.7cm, right=2.7cm,
+  headheight=15pt, headsep=14pt, footskip=1.1cm,
+}
+
+% ---------- 配色 ----------
+\usepackage{xcolor}
+\definecolor{dubaccent}{HTML}{2E6B78}    % 主色：墨青
+\definecolor{dubaccentdk}{HTML}{1D454D}
+\definecolor{dubtint}{HTML}{EDF4F5}      % 浅底
+\definecolor{dubtint2}{HTML}{F7FAFA}
+\definecolor{dubrule}{HTML}{B9CCD0}
+\definecolor{dubink}{HTML}{23272A}
+\definecolor{dubmute}{HTML}{6B7478}
+
+% ---------- 字体 ----------
+% 中文由 ctexbook 的 fontset=windows 提供：\songti \heiti \kaishu \fangsong
+\usepackage{fontspec}
+\IfFontExistsTF{TeX Gyre Termes}{%
+  \setmainfont{TeX Gyre Termes}%
+}{}
+\IfFontExistsTF{TeX Gyre Heros}{%
+  \setsansfont{TeX Gyre Heros}[Scale=MatchLowercase]%
+}{}
+\IfFontExistsTF{Consolas}{\setmonofont{Consolas}[Scale=MatchLowercase]}{}
+
+\usepackage{microtype}
+
+% ---------- 基础宏包 ----------
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage{ragged2e}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+% 正文里的表格没有题注，去掉 tabularray 自动生成的「表 N:」，并汉化跨页提示
+\SetTblrTemplate{caption}{empty}
+\SetTblrTemplate{caption-tag}{empty}
+\SetTblrTemplate{caption-sep}{empty}
+\SetTblrTemplate{caption-text}{empty}
+\AtBeginDocument{%
+  \DefTblrTemplate{contfoot-text}{normal}{\footnotesize\color{dubmute}（接下页）}%
+  \DefTblrTemplate{conthead-text}{normal}{\footnotesize\color{dubmute}（接上页）}%
+  \SetTblrTemplate{contfoot-text}{normal}%
+  \SetTblrTemplate{conthead-text}{normal}%
+}
+\usepackage[most]{tcolorbox}
+\usepackage{fancyhdr}
+\usepackage{emptypage}
+
+% 图片搜索路径（build_book.py 会把用到的图片链接/复制到 images/）
+\graphicspath{{images/}}
+\DeclareGraphicsExtensions{.jpeg,.jpg,.png,.pdf}
+
+% ---------- 段落与断行 ----------
+\setlength{\parskip}{0.42em plus 0.16em minus 0.08em}
+\linespread{1.16}
+\setlength{\emergencystretch}{3em}
+\tolerance=2000
+\hbadness=6000
+\clubpenalty=8000
+\widowpenalty=8000
+\raggedbottom
+
+% ---------- 章节标题样式 ----------
+\ctexset{
+  chapter = {
+    name        = {第,章},
+    number      = \arabic{chapter},
+    format      = \raggedright,
+    nameformat  = \normalsize\sffamily\color{dubaccent},
+    aftername   = {\par\vskip6pt},
+    titleformat = \huge\heiti\color{dubaccentdk},
+    beforeskip  = 0pt,
+    afterskip   = 28pt,
+    aftertitle  = {\par\vskip8pt\noindent\textcolor{dubaccent}{\rule{\linewidth}{1.4pt}}\par},
+    pagestyle   = plain,
+  },
+  section = {
+    format     = \Large\heiti\color{dubaccentdk}\raggedright,
+    aftername  = \enspace,
+    beforeskip = 2.4ex plus .6ex minus .2ex,
+    afterskip  = 1.2ex plus .2ex,
+    aftertitle = {\par\vskip3pt\noindent\textcolor{dubrule}{\rule{\linewidth}{0.7pt}}\par},
+  },
+  subsection = {
+    format     = \large\heiti\color{dubaccent}\raggedright,
+    aftername  = \enspace,
+    beforeskip = 2.6ex plus .6ex minus .2ex,
+    afterskip  = 1.0ex plus .2ex,
+  },
+}
+
+% ---------- 文件内小标题（不编号，但进入 PDF 书签） ----------
+\makeatletter
+\newcommand{\dubheadA}[1]{%
+  \par\needspace{4\baselineskip}%
+  \vspace{1.35em}%
+  {\noindent\heiti\color{dubaccentdk}\large #1}%
+  \par\vspace{0.18em}%
+  {\noindent\textcolor{dubrule}{\rule{0.26\linewidth}{1.1pt}}}%
+  \par\vspace{0.45em}%
+  \phantomsection\addcontentsline{toc}{subsubsection}{#1}%
+  \@afterindentfalse\@afterheading}
+\newcommand{\dubheadB}[1]{%
+  \par\needspace{3\baselineskip}%
+  \vspace{1.0em}%
+  {\noindent\heiti\color{dubaccent}\normalsize #1}%
+  \par\vspace{0.3em}%
+  \phantomsection\addcontentsline{toc}{paragraph}{#1}%
+  \@afterindentfalse\@afterheading}
+\newcommand{\dubheadC}[1]{%
+  \par\needspace{2\baselineskip}%
+  \vspace{0.7em}%
+  {\noindent\heiti\color{dubink}\normalsize #1}%
+  \par\vspace{0.22em}%
+  \@afterindentfalse\@afterheading}
+\makeatother
+
+% ---------- 页眉页脚 ----------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.6pt}
+\renewcommand{\footrulewidth}{0pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{dubrule}\leaders\hrule height \headrulewidth\hfill}}
+\fancyhead[L]{\footnotesize\sffamily\color{dubmute}\nouppercase{\leftmark}}
+\fancyhead[R]{\footnotesize\sffamily\color{dubmute}\nouppercase{\rightmark}}
+\fancyfoot[C]{\footnotesize\sffamily\color{dubmute}\thepage}
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[C]{\footnotesize\sffamily\color{dubmute}\thepage}}
+\renewcommand{\chaptermark}[1]{\markboth{\CTEXifname{\CTEXthechapter\quad}{}#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\quad #1}}
+
+% ---------- 插图 ----------
+\newsavebox{\dubimgbox}
+% 独立插图：保留原始尺寸，但不超过 0.70\linewidth / 0.40\textheight
+\newcommand{\dubgraphic}[1]{%
+  \sbox{\dubimgbox}{\includegraphics{#1}}%
+  \ifdim\wd\dubimgbox>0.70\linewidth
+    \includegraphics[width=0.70\linewidth,height=0.40\textheight,keepaspectratio]{#1}%
+  \else
+    \ifdim\ht\dubimgbox>0.40\textheight
+      \includegraphics[height=0.40\textheight]{#1}%
+    \else
+      \usebox{\dubimgbox}%
+    \fi
+  \fi}
+% 单张居中插图
+\newcommand{\dubfig}[1]{%
+  \par\vspace{0.7em}%
+  \begin{center}\dubgraphic{#1}\end{center}%
+  \vspace{0.25em}\par}
+% 带说明文字的插图（长说明：两端对齐）
+\newcommand{\dubfigcap}[2]{%
+  \par\vspace{0.7em}%
+  \begin{center}%
+    \dubgraphic{#1}%
+    \par\vspace{0.4em}%
+    \begin{minipage}{0.88\linewidth}\small\color{dubmute}\setlength{\parskip}{0pt}#2\end{minipage}%
+  \end{center}%
+  \vspace{0.25em}\par}
+% 带说明文字的插图（短说明：居中）
+\newcommand{\dubfigcapc}[2]{%
+  \par\vspace{0.7em}%
+  \begin{center}%
+    \dubgraphic{#1}%
+    \par\vspace{0.4em}%
+    \begin{minipage}{0.88\linewidth}\centering\small\color{dubmute}\setlength{\parskip}{0pt}#2\end{minipage}%
+  \end{center}%
+  \vspace{0.25em}\par}
+% 并排插图：\dubrow{\dubinline{0.3}{a}\dubinline{0.3}{b}}
+\newcommand{\dubrow}[1]{\par\vspace{0.7em}\noindent\begin{center}#1\end{center}\vspace{0.25em}\par}
+\newcommand{\dubinline}[2]{%
+  \begin{minipage}[c]{#1\linewidth}\centering
+    \includegraphics[width=\linewidth,height=0.30\textheight,keepaspectratio]{#2}%
+  \end{minipage}\hfill}
+% 表格单元格内的插图
+\newcommand{\dubcellimg}[1]{%
+  \sbox{\dubimgbox}{\includegraphics{#1}}%
+  \ifdim\wd\dubimgbox>\linewidth
+    \includegraphics[width=\linewidth,height=6.5cm,keepaspectratio]{#1}%
+  \else
+    \ifdim\ht\dubimgbox>6.5cm
+      \includegraphics[height=6.5cm]{#1}%
+    \else
+      \usebox{\dubimgbox}%
+    \fi
+  \fi}
+% 源库中缺失的图片
+\newcommand{\dubmissing}[1]{%
+  \begin{center}\footnotesize\sffamily\color{dubmute}%
+  \setlength{\fboxsep}{0pt}%
+  \fcolorbox{dubrule}{dubtint2}{\parbox{0.55\linewidth}{\centering\vspace{9pt}〔图片缺失：\texttt{#1}〕\vspace{9pt}}}%
+  \end{center}}
+
+% ---------- 信息卡（药物速览表） ----------
+\newenvironment{dubinfo}{%
+  \par\vspace{0.6em}%
+  \begin{tcolorbox}[
+    enhanced, breakable,
+    colback=dubtint2, colframe=dubtint2,
+    boxrule=0pt, arc=1.4pt, outer arc=1.4pt,
+    left=11pt, right=11pt, top=9pt, bottom=9pt, boxsep=0pt,
+    borderline west={2.6pt}{0pt}{dubaccent},
+  ]%
+  \small
+  \begin{tblr}{
+    colspec={Q[l,mode=text,cmd=\heiti] X[l]},
+    rowsep=2.8pt, colsep=7pt,
+    hline{2-Y}={0.4pt, dubrule},
+  }%
+}{%
+  \end{tblr}%
+  \end{tcolorbox}\par\vspace{0.5em}}
+
+% ---------- 引文 ----------
+\newenvironment{dubquote}{%
+  \par\vspace{0.55em}%
+  \begin{tcolorbox}[
+    enhanced, breakable, blanker,
+    left=14pt, right=6pt, top=3pt, bottom=3pt,
+    borderline west={2.2pt}{0pt}{dubrule},
+  ]%
+  \small\kaishu\color{dubaccentdk}\ignorespaces
+}{%
+  \end{tcolorbox}\par\vspace{0.45em}}
+
+% ---------- 缩进块（源文件中的四空格缩进段落） ----------
+\newenvironment{dubindent}{%
+  \par\vspace{0.4em}%
+  \begin{tcolorbox}[enhanced, breakable, blanker,
+    left=16pt, right=6pt, top=2pt, bottom=2pt]%
+  \small\setlength{\parskip}{0.25em}\ignorespaces
+}{%
+  \end{tcolorbox}\par\vspace{0.35em}}
+
+% ---------- 列表 ----------
+\setlist[itemize]{leftmargin=1.7em, itemsep=0.12em, parsep=0.12em, topsep=0.35em,
+                  label=\textcolor{dubaccent}{\textbullet}}
+\setlist[enumerate]{leftmargin=2.0em, itemsep=0.12em, parsep=0.12em, topsep=0.35em,
+                    font=\color{dubaccent}\bfseries}
+
+% ---------- 超链接 ----------
+\usepackage[
+  unicode,
+  bookmarks=true, bookmarksnumbered=true, bookmarksopen=true, bookmarksopenlevel=1,
+  bookmarksdepth=4,
+  colorlinks=true,
+  linkcolor=dubaccentdk, citecolor=dubaccentdk, urlcolor=dubaccent, filecolor=dubaccent,
+  breaklinks=true, pdfstartview=FitH,
+]{hyperref}
+\usepackage{bookmark}
+\usepackage{xurl}     % 长网址可以在任意位置断行，避免溢出页边
+\urlstyle{same}
+
+% 正文目录只到 subsection；PDF 书签更深
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}

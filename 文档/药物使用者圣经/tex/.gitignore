@@ -1,0 +1,15 @@
+# 构建产物：都能由 build.ps1 / build.sh 重新生成
+book.tex
+book.pdf
+images/
+build-report.txt
+
+# LaTeX 中间文件
+*.aux
+*.log
+*.toc
+*.out
+*.xdv
+*.fls
+*.fdb_latexmk
+*.synctex.gz
