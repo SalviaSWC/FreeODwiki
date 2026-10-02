@@ -71,12 +71,12 @@ FreeODwiki/ ( 关于本站/ ( FreeOD引论.md Markdown语法指南.md 免责声�
 
 
 
-const chineseParas = ["柬埔寨有氯胺酮、吗啡、羟考酮、氯硝西泮、阿普唑仑、地西泮、唑吡坦、普瑞巴林、哌甲酯，全都不用处方就能买到。", "哥伦比亚不用处方就能买到氢可酮、艾司佐匹克隆、普瑞巴林。", "墨西哥就一般般了——普瑞巴林是有的，我还找到一家药店卖给我一些液体氯胺酮。估计苯二氮䓬类也能搞到，但我担心那些是假货或者被掺了别的东西。", "印度也挺一般。莫达非尼、阿莫达非尼一大堆，但没找到苯二氮䓬类。", "泰国更是一般到不行。找了几家看着不太靠谱的药店，卖苯二氮䓬类、唑吡坦、利他林，结果除了利他林是真的，其他全是假货。有天晚上我吞了6片10毫克的“安眠药”，还配了点啤酒，要是那玩意儿是真的，我第二天早上估计就直接没醒过来了。不过在这边医院开苯二氮䓬类处方倒是轻轻松松。", "听说危地马拉也跟柬埔寨一样野。有没有人去过那边？或者非洲有没有类似的地方？目前为止，柬埔寨是我遇到过唯一一个吗啡和苯二氮䓬类多到爆、不用处方就能买的地方。", "编辑一下：告诉大家一声，这帖子其实是柬埔寨政府精心策划的旅游宣传的一部分。我们的新口号大概会是“这里的饭比泰国难吃，但管制药物的供应量绝对甩泰国几条街”。大家觉得怎么样？"];
-const chineseTitle = "哪些国家的非处方药最离谱？";
-const chineseSubstances = ["氯胺酮", "唑吡坦"];
+const chineseParas = ["不一定得是你最喜欢的药物，甚至不一定是你后来还在继续用的东西。我说的是那种第一次体验就让你恍然大悟的物质——“行了，我现在完全懂为什么这玩意儿让人着迷了”。我对这个区别特别感兴趣，因为纸面上知道一种药物有什么作用，和真正理解人们到底看重这段体验里的什么，完全是两码事。有时候是那种明摆着的欣快感，但有时候可能是些没那么戏剧化的东西，比如解脱、让脑子安静下来、终于能跟人正常社交，或者只是有一阵子感觉自己像个正常人。7-羟基米酮对我来说就是这样一个。让我一下子明白的并不是什么疯狂的药效，而是意识到当疼痛不再死死占据我的注意力时，平平无奇的一天能有多么不一样。这比我事先读到的任何东西都更能让我理解它的吸引力在哪。有哪种药物给过你那种当场“噢——原来是这样”的瞬间？", "海洛因，或者任何强效阿片类药物。", "第一次用的时候，那感觉就像是你突然发现自己背上一直驮着一个七十斤的大背包，两只手里各提着一个五十斤的行李箱。而当你第一次用上阿片类药物，它让你把这些东西全都放下歇一会儿。然后从那以后，你就一直知道那些重量的存在了——而在那之前你压根儿不知道。", "而当你第一次用上阿片类药物，它让你把这些东西全都放下歇一会儿。然后从那以后，你就一直知道那些重量的存在了——而在那之前你压根儿不知道。", "这是我读过的最真实的一句话。", "那要怎么才能回到正常生活啊？我是真心在问，因为我总是时刻意识到那些重量的存在，好像怎么都走不出来。", "你就那么扛着，这是你唯一能做的。这事儿已经快接近所谓的“认知危害”了——一旦你知道了，就再也没法不知道，而且它会改变你看世界的方式。从此这就是你视野的一部分了。这也是为什么大多数药物我都绝不会建议别人“浅尝一下”，要么别碰，要么彻底入坑，没有中间状态。", "另外卡痛也挺不错的，前提是你能管得住自己，别发展到每天三十克那种程度。我早上吃八克。感觉跟阿片不是一回事，但确实能挠到一部分痒处。", "可惜我自己在卡痛上已经陷得太深了，今年是第三年。我绝不会建议任何人天天吃这东西。最多一周几次，不然状况会以极快的速度直线下滑。", "我已经天天吃了快五年了。固定八克，不多不少。品质要好，隔一段时间换换品种。我想停一段时间也完全没问题，说停就停。我觉得这事儿真的很看个人，另外我也觉得轮换品种、严格守住剂量这两点是有讲究的。", "另外也有研究显示，卡痛的效应并不会大幅拉高多巴胺，也没有经典的完全激动剂型阿片类药物那些副作用，但它会稍微增强单胺水平，同时还作用于其他一些系统，顺便说一句它也能一定程度上提升血清素。所以它依然让人感觉很舒服，但不会在伏隔核、纹状体、中脑腹侧被盖区等部位引发那种极端的多巴胺冲击，因此即便是长期重度滥用，大脑对它的渴求程度也比不上那些更猛的多巴胺类药物。不过时间长了，精神层面肯定还是会出现一些适应性变化的。", "而且我相当有把握地说，正是这东西基本解决了我的心理健康问题。我说“基本”，是因为问题还是会时不时冒头，我永远不可能被“治好”，但吃它之前的我和之后的我，差别真的是天壤之别。这方面需要更多研究，因为如果调校得当，我觉得在某些情况下，它有可能成为某些更极端药物的一种有力替代方案（这句话我说得非常谨慎）。", "我在回头核实一个说法的时候，发现了一件挺好笑的事：我偶然看到美国康复中心关于卡痛戒断的介绍里写着：“可能出现抑郁，尤其是在那些最初使用卡痛来自我治疗心境障碍症状的人群中。”所以你是想告诉我，我用来压住焦虑和抑郁的东西，一旦从体内撤走，会让我的焦虑和抑郁加重？我们谈论“用药物自我治疗心境障碍”时那种口气真的让我很不爽，好像这是件糟糕可怕的事，可这话本身几乎就是承认了它有效——而且如果它是个经过药监部门批准的药物，停掉它才是个坏主意。当然啦，这确实不理想，但要我选，我宁愿吃卡痛，也不想跟一堆SSRI玩打地鼠。风险当然因物质而异，用酒精来自我治疗就是个相当糟的主意，但我觉得这种事上常识应该能派上用场。", "记忆会随时间淡去。你是能慢慢习惯扛着那份重量的。但对那些本来就比别人背得更多的人来说，这尤其难熬。", "而背得更多的那些人，恰恰就是更容易走向阿片类药物的人。", "我本来压根儿没想过要试，但你这段描述简直绝了，看完之后更加坚定了我这辈子都别碰它的决心。"];
+const chineseTitle = "哪种药物几乎在第一次用的时候就让你瞬间明白了人们为什么用它？";
+const chineseSubstances = ["海洛因", "卡痛"];
 
 const translate = 1; // 0: 提取文本; 1: 插入翻译
-const commentCount = -1; // 0 表示全部评论，>0 表示最多处理多少条评论
+const commentCount = 11; // 0 表示全部评论，>0 表示最多处理多少条评论
 
 const documentURL = document.URL;
 const redditIdMatch = documentURL.match(/\/comments\/([a-z0-9]+)\//i);
@@ -95,6 +95,19 @@ const lineHeight = "1.2";
 let extractIndex = 0;
 let translateIndex = 0;
 let originalText = "<raw>";
+
+// 正文被视作深度 1，于是“正文 → 首条顶层评论(深度 0)”恰好得到 2 条分隔符
+const POST_DEPTH = 1;
+
+// 按 DOM 顺序记录每一个块(正文 / 每条评论)及其深度和消费掉的中文段落
+const segments = [];
+let currentSegment = null;
+
+function startSegment(depth) {
+    currentSegment = { depth, paras: [] };
+    segments.push(currentSegment);
+    return currentSegment;
+}
 
 function addElText(el) {
     if (!el) {
@@ -194,6 +207,7 @@ function getCommentEls() {
     if (!tree) {
         return [];
     }
+    // querySelectorAll 返回文档顺序，对 Reddit 的嵌套评论即为先序遍历
     const allComments = [...tree.querySelectorAll("shreddit-comment")];
     if (commentCount > 0) {
         return allComments.slice(0, commentCount);
@@ -205,11 +219,32 @@ function getCommentEls() {
     return allComments;
 }
 
+function getCommentDepth(commentEl) {
+    const attrDepth = parseInt(commentEl.getAttribute("depth"), 10);
+    if (Number.isFinite(attrDepth) && attrDepth >= 0) {
+        return attrDepth;
+    }
+
+    // 兜底: 数一数自己外面套了几层 shreddit-comment
+    let depth = 0;
+    let parent = commentEl.parentElement;
+    while (parent) {
+        if (parent.nodeName === "SHREDDIT-COMMENT") {
+            depth += 1;
+        }
+        parent = parent.parentElement;
+    }
+    return depth;
+}
+
 function handleNode(el) {
     if (translate) {
         const cnText = chineseParas[translateIndex];
         if (typeof cnText === "string" && cnText.length > 0) {
             makeCnElementOf(el, cnText);
+            if (currentSegment) {
+                currentSegment.paras.push(cnText);
+            }
         }
         translateIndex += 1;
         return;
@@ -233,16 +268,34 @@ function handlePostTitle(titleEl) {
 }
 
 function handlePostBody(bodyEl) {
+    startSegment(POST_DEPTH);
+    if (!translate) {
+        originalText += "<post>";
+    }
     walkTranslatableNodes(bodyEl, handleNode);
+    if (!translate) {
+        originalText += "</post>";
+    }
 }
 
 function handleComments(commentEls) {
     for (const commentEl of commentEls) {
-        const commentBody = commentEl.querySelector("[slot='comment']");
+        // :scope 限定为这条评论自己的正文, 避免抓到嵌套子评论的正文
+        const commentBody = commentEl.querySelector(":scope > [slot='comment']")
+            || commentEl.querySelector("[slot='comment']");
         if (!commentBody) {
             continue;
         }
+
+        const depth = getCommentDepth(commentEl);
+        startSegment(depth);
+        if (!translate) {
+            originalText += `<comment depth="${depth}">`;
+        }
         walkTranslatableNodes(commentBody, handleNode);
+        if (!translate) {
+            originalText += "</comment>";
+        }
     }
 }
 
@@ -265,6 +318,21 @@ function addTranslatorSignature() {
     }
 }
 
+// 分隔符数量编码回复树层级:
+//   深入一层(子回复)      → 1 条 ---
+//   同级或回退 N 层       → N+1 条 ---(至少 2 条)
+// 正文记作深度 POST_DEPTH(=1), 于是“正文 → 首条顶层评论(深度 0)”恰好得到 2 条。
+function separatorCountBetween(prevDepth, curDepth) {
+    if (curDepth > prevDepth) {
+        return 1;
+    }
+    return Math.max(2, prevDepth - curDepth + 1);
+}
+
+function separatorBlock(count) {
+    return new Array(count).fill("---").join("\n\n");
+}
+
 function buildMarkdownDump() {
     let s = `# ${chineseTitle}`;
 
@@ -281,8 +349,18 @@ function buildMarkdownDump() {
     s += "[◀返回](index.md)\n\n";
     s += `原文网址: <${document.URL}>\n\n`;
     s += "---\n\n";
-    s += chineseParas.join("\n\n");
-    s += "\n\n---\n";
+
+    const blocks = segments.filter((seg) => seg.paras.length > 0);
+
+    blocks.forEach((seg, i) => {
+        if (i > 0) {
+            s += `${separatorBlock(separatorCountBetween(blocks[i - 1].depth, seg.depth))}\n\n`;
+        }
+        // 同一条回复内部的多个段落只用空行分开
+        s += `${seg.paras.join("\n\n")}\n\n`;
+    });
+
+    s += "---\n";
     return s;
 }
 
@@ -300,7 +378,10 @@ function main() {
     if (translate) {
         addTranslatorSignature();
         console.log(buildMarkdownDump());
-        console.log(`翻译完成。已消费 chineseParas 数量: ${translateIndex}`);
+        console.log(`翻译完成。已消费 chineseParas 数量: ${translateIndex} / ${chineseParas.length}，块数(正文+评论): ${segments.filter((seg) => seg.paras.length > 0).length}`);
+        if (translateIndex !== chineseParas.length) {
+            console.warn("chineseParas 数量与页面段落数不一致，分隔符层级可能错位。");
+        }
     } else {
         originalText += "</raw>";
         console.log(originalText);

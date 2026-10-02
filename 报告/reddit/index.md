@@ -82,6 +82,7 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 ### [海洛因](../../药物/海洛因.md)
 
 - [献给所有那些每天都发帖“鸦片类药物是什么感觉，我该试试吗？”的人。](./for_all_the_people_who_post_what_are_opiates_like.md) (海洛因&羟考酮)
+- [哪种药物几乎在第一次用的时候就让你瞬间明白了人们为什么用它？](./what_drug_made_you_understand_why_people_use_it.md) (海洛因&卡痛)
 
 ## I
 
@@ -102,6 +103,7 @@ Reddit上有很多交流药物的社区，也有很多有价值的内容，其�
 ### [卡痛](../../药物/卡痛.md)
 
 - [他们要禁掉唯一能让我撑完整个班次的东西](./theyre_banning_the_only_thing_that_helps_me.md)
+- [哪种药物几乎在第一次用的时候就让你瞬间明白了人们为什么用它？](./what_drug_made_you_understand_why_people_use_it.md) (海洛因&卡痛)
 
 ### [可卡因](../../药物/可卡因.md)
 
