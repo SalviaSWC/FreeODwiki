@@ -139,7 +139,7 @@ theme:
 #!/usr/bin/env python3
 
 
-ROOT = Path(r"D:\Projects\FreeODwiki")  # <- 必要时修改为你的仓库根路径
+ROOT = Path(__file__).resolve().parents[2]
 # BACKUP_DIR_NAME = "backup_encoding"
 
 def detect_encoding(b: bytes):
@@ -217,9 +217,12 @@ def resolve_target_path(
     if is_external(clean_path):
         return None
 
-    if clean_path.startswith("/"):
+    # Markdown 中的 \/ 和 Windows 反斜杠都按站点根相对链接处理，
+    # 避免被 pathlib 解析为当前驱动器或 UNC 网络路径。
+    clean_path = clean_path.replace("\\/", "/")
+    if clean_path.startswith(("/", "\\")):
         # 根相对链接：从 docs_root 开始
-        target = (docs_root / clean_path.lstrip("/")).resolve()
+        target = (docs_root / clean_path.lstrip("/\\")).resolve(strict=False)
     else:
         # 相对链接（包括 ./ ../）
         target = (current_file.parent / clean_path).resolve(strict=False)
@@ -337,7 +340,7 @@ def process_src_folder(src_path: Path, target_dir: str) -> bool:
 
 
 def build_mkdocs(target_dir: str, dirty=False, capture_output=True):
-    args = ["mkdocs", "build"]
+    args = [sys.executable, "-m", "mkdocs", "build"]
     if dirty:
         args.append("--dirty")
 
@@ -358,6 +361,28 @@ def build_mkdocs(target_dir: str, dirty=False, capture_output=True):
         return True
 
 
+def install_dependencies(skip=False):
+    if skip:
+        print("...依赖安装已被跳过")
+        return True
+
+    requirements_path = ROOT / "requirements.txt"
+    if not requirements_path.exists():
+        print(f"错误：找不到依赖文件：{requirements_path}")
+        return False
+
+    print(f"检查并安装依赖：{requirements_path}")
+    result = subprocess.run(
+        [sys.executable, "-m", "pip", "install", "-r", str(requirements_path)]
+    )
+    if result.returncode != 0:
+        print("依赖安装失败，请检查网络连接和 Python 环境。")
+        return False
+
+    print("依赖已准备完成")
+    return True
+
+
 def start_server(target_dir: str):
     site_path = Path(target_dir) / "site"
     if not site_path.exists():
@@ -368,7 +393,7 @@ def start_server(target_dir: str):
     print("按 Ctrl+C 停止服务器")
     os.chdir(site_path)
     subprocess.run(
-        ["python", "-m", "http.server", "8000"], cwd=target_dir + r"\site"
+        [sys.executable, "-m", "http.server", "8000"], cwd=target_dir + r"\site"
     )
 
 
@@ -384,9 +409,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "source_dir",
-        default=r"D:\Projects\FreeODwiki",
+        default=str(ROOT),
         nargs="?",
-        help="源目录，默认值是为了保持向后兼容而设置的。",
+        help="源目录，默认使用当前仓库根目录。",
     )
     parser.add_argument(
         "target_dir",
@@ -407,30 +432,45 @@ def main():
         action="store_false",  # 进行一个取反
         help="启用时不会捕获 mkdocs build 的输出，这可以防止你过于无聊。",
     )
+    parser.add_argument(
+        "--skip-install",
+        action="store_true",
+        help="跳过依赖检查和安装。",
+    )
     args = parser.parse_args(namespace=Args)
+    if not install_dependencies(args.skip_install):
+        sys.exit(3)
+
     source_dir = args.source_dir
     target_dir = args.target_dir
-    target_src_dir = args.target_dir + r"\src"
+    target_path = Path(target_dir)
+    target_src_dir = target_path / "src"
+    target_path.mkdir(parents=True, exist_ok=True)
 
-    with open(target_dir + r"\mkdocs.yml", mode="w", encoding="utf-8") as f:
+    with open(target_path / "mkdocs.yml", mode="w", encoding="utf-8") as f:
         f.write(MKDOCS_YML)
 
-    if os.path.exists(target_src_dir):
-        shutil.rmtree(target_src_dir, onexc=remove_readonly)
+    if target_src_dir.exists():
+        shutil.rmtree(target_src_dir, onerror=remove_readonly)
         print("已清空目标目录")
 
     # 步骤2：重新创建空的目录
-    os.makedirs(target_src_dir)
+    target_src_dir.mkdir(parents=True)
 
     # 步骤3：把源目录完整复制过去
-    shutil.copytree(source_dir, target_src_dir, dirs_exist_ok=True)
+    shutil.copytree(
+        source_dir,
+        target_src_dir,
+        dirs_exist_ok=True,
+        ignore=shutil.ignore_patterns(".git"),
+    )
 
     print("复制完成！")
     print(f"源：{source_dir}")
     print(f"目标：{target_src_dir}")
     print()
 
-    os.chdir(target_dir)
+    os.chdir(target_path)
 
     print("=== MkDocs 死链接自动清理 + 构建 + 预览工具 ===")
     if args.debug:
