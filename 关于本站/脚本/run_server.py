@@ -56,7 +56,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
-      smart_enable: all
+      smart_enable: underscore  # 星号不做 smart 处理，否则紧贴中文的 **粗体** 无法渲染
   - pymdownx.snippets
   - pymdownx.blocks.caption
   - pymdownx.critic

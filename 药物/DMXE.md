@@ -177,6 +177,7 @@ DMXE 的整体心境与 MXE 类似，与 [右美沙芬](/药物/右美沙芬.md)
 目前在我们的 [体验索引](/文档/复现索引.md) 中还没有关于该物质的报告喵。
 
 你可以在这里找到更多的体验报告：
+
 * [Erowid 体验库：DMXE](https://www.erowid.org/experiences/subs/exp_DMXE.shtml)
 
 ---

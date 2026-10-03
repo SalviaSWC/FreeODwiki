@@ -136,6 +136,7 @@ MDPHP 的一般认知效应可以描述为与其他典型强效兴奋剂相似�
 目前在我们的[体验索引](/报告/psychounautwiki/index.md)中尚无描述该物质效果的报告。
 
 其他体验报告可以在这里找到：
+
 * [Erowid Experience Vaults: MDPHP](https://www.erowid.org/experiences/subs/exp_MDPHP.shtml)
 
 ### 危险的药物联用
