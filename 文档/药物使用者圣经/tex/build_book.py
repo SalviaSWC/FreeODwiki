@@ -772,25 +772,9 @@ def convert_blocks(ctx: Ctx, lines: list[str], drop_first_heading: bool = True) 
             continue
 
         # 列表
-        if _ULI.match(line) or _OLI.match(line):
+        if list_marker(line):
             flush_para(para)
-            items: list[tuple[int, bool, str]] = []
-            while i < n:
-                cur = lines[i]
-                mu = _ULI.match(cur)
-                mo = _OLI.match(cur)
-                if mu:
-                    items.append((len(mu.group(1)), False, mu.group(2)))
-                    i += 1
-                elif mo:
-                    items.append((len(mo.group(1)), True, mo.group(3)))
-                    i += 1
-                elif cur.strip() and not cur.strip().startswith("|") and items and cur.startswith((" ", "\t")):
-                    d, o, t = items[-1]
-                    items[-1] = (d, o, t + " " + cur.strip())
-                    i += 1
-                else:
-                    break
+            items, i = parse_list(lines, i)
             out.append(render_list(ctx, items))
             out.append("")
             seen_heading_or_body = True
@@ -834,34 +818,102 @@ def convert_blocks(ctx: Ctx, lines: list[str], drop_first_heading: bool = True) 
     return res
 
 
-def render_list(ctx: Ctx, items: list[tuple[int, bool, str]]) -> str:
+_HRULE = re.compile(r"(-{3,}|\*{3,}|_{3,}|={3,}|(?:[-*_]\s+){2,}[-*_])")
+
+
+class ListItem:
+    __slots__ = ("ordered", "number", "body")
+
+    def __init__(self, ordered: bool, number: int, first: str):
+        self.ordered = ordered
+        self.number = number
+        self.body = [first]      # 该项的全部内容行（已去掉相对缩进），递归按块转换
+
+
+def list_marker(line: str) -> tuple[int, bool, int, int, str] | None:
+    """识别列表项行，返回（缩进, 是否有序, 编号, 正文起始列, 正文）。"""
+    line = line.expandtabs(4)
+    if _HRULE.fullmatch(line.strip()):
+        return None
+    mo = _OLI.match(line)
+    if mo:
+        return len(mo.group(1)), True, int(mo.group(2)), mo.start(3), mo.group(3)
+    mu = _ULI.match(line)
+    if mu:
+        return len(mu.group(1)), False, 1, mu.start(2), mu.group(2)
+    return None
+
+
+def _indent_of(line: str) -> int:
+    line = line.expandtabs(4)
+    return len(line) - len(line.lstrip(" "))
+
+
+def parse_list(lines: list[str], i: int) -> tuple[list[ListItem], int]:
+    """从第 i 行起读一整个列表（含跨空行的松散列表、项内缩进段落、引用与子列表）。
+
+    源文件按 Python-Markdown 习惯用 4 空格缩进项内内容，项与项之间常隔空行，
+    所以空行之后只要接着同级列表项或更深的缩进，列表就继续。
+    """
+    n = len(lines)
+    first = list_marker(lines[i])
+    assert first is not None
+    base = first[0]
+    items: list[ListItem] = []
+    strip_w = 4                   # 项内续行要去掉的缩进量（相对 base）
+    while i < n:
+        cur = lines[i].expandtabs(4)
+        s = cur.strip()
+        ind = _indent_of(cur)
+        mk = list_marker(cur)
+        if mk and ind <= base:
+            # 同级新项
+            _, ordered, num, col, text = mk
+            items.append(ListItem(ordered, num, text))
+            strip_w = max(col - ind, 4)
+            i += 1
+            continue
+        if not s:
+            j = i + 1
+            while j < n and not lines[j].strip():
+                j += 1
+            if j < n and (_indent_of(lines[j]) >= base + 2
+                          or (list_marker(lines[j]) and _indent_of(lines[j]) >= base)):
+                items[-1].body.extend([""] * (j - i))
+                i = j
+                continue
+            break
+        if ind > base:
+            # 缩进续行：项内段落、引用、子列表等
+            items[-1].body.append(cur[min(ind, base + strip_w):])
+            i += 1
+            continue
+        # 惰性续行：紧跟在项内容后、没缩进的普通文字或引用
+        if not s.startswith(("|", "#")) and not _HRULE.fullmatch(s):
+            items[-1].body.append(s)
+            i += 1
+            continue
+        break
+    return items, i
+
+
+def render_list(ctx: Ctx, items: list[ListItem]) -> str:
     if not items:
         return ""
-    depths = sorted({d for d, _, _ in items})
-    level_of = {d: idx for idx, d in enumerate(depths)}
     lines: list[str] = []
-    stack: list[tuple[int, bool]] = []  # (level, ordered)
-
-    def close_to(level: int) -> None:
-        while stack and stack[-1][0] >= level:
-            lvl, ordered = stack.pop()
-            lines.append(r"\end{enumerate}" if ordered else r"\end{itemize}")
-
-    for d, ordered, text in items:
-        lvl = level_of[d]
-        if stack and stack[-1][0] == lvl and stack[-1][1] != ordered:
-            close_to(lvl)
-        if not stack or stack[-1][0] < lvl:
-            lines.append(r"\begin{enumerate}" if ordered else r"\begin{itemize}")
-            stack.append((lvl, ordered))
-        elif stack[-1][0] > lvl:
-            close_to(lvl + 1)
-            if not stack or stack[-1][0] < lvl:
-                lines.append(r"\begin{enumerate}" if ordered else r"\begin{itemize}")
-                stack.append((lvl, ordered))
-        lines.append(r"\item %s" % tidy(inline(ctx, text.strip())))
-    while stack:
-        lvl, ordered = stack.pop()
+    k = 0
+    while k < len(items):
+        ordered = items[k].ordered
+        if ordered:
+            start = items[k].number
+            lines.append(r"\begin{enumerate}" + ("[start=%d]" % start if start != 1 else ""))
+        else:
+            lines.append(r"\begin{itemize}")
+        while k < len(items) and items[k].ordered == ordered:
+            body = convert_blocks(ctx, items[k].body, drop_first_heading=False)
+            # 正文以 [ 开头时会被 \item 当成可选参数，补一个空组挡住
+            lines.append(r"\item%s %s" % ("{}" if body.startswith("[") else "", body))
+            k += 1
         lines.append(r"\end{enumerate}" if ordered else r"\end{itemize}")
     return "\n".join(lines)
 
@@ -952,6 +1004,9 @@ def build(book_root: Path, out_dir: Path, repo_root: Path,
 
     preface = book_root / "preface.md"
     epilogue = book_root / "epilogue.md"
+    # 目录里也列了尾声（以及可能的前言），它们另有专门的输出位置，别再当普通章节排一遍
+    specials = {preface.resolve(), epilogue.resolve()}
+    nodes = [nd for nd in nodes if nd.path is None or nd.path not in specials]
 
     used: set[str] = {"index.md"}
     for special in (preface, epilogue):
