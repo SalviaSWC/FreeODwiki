@@ -103,9 +103,9 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
 主观效应
 ------------------
 
-***免责声明：** 下列效应引用自[**主观效应索引**](/药效/index.md "Subjective effect index") (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/文档/关于本站/关于FreeODwiki.md "PsychonautWiki") [贡献者](/wiki/Special:TopUsers "Special:TopUsers")个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。*
+_**免责声明：** 下列效应引用自[**主观效应索引**](/药效/index.md "Subjective effect index") (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/文档/关于本站/关于FreeODwiki.md "PsychonautWiki") [贡献者](/wiki/Special:TopUsers "Special:TopUsers")个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。_
 
-*值得注意的是，这些效应不一定会以可预测或可靠的方式发生，虽然高剂量更可能诱发全方位的效应。同样，**不良反应**也会随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡*** ☠。
+*值得注意的是，这些效应不一定会以可预测或可靠的方式发生，虽然高剂量更可能诱发全方位的效应。同样，**不良反应**也会随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡** ☠。*
 
 ### **[躯体效应](/药效/躯体效应.md)** ![Child.png](/文件/Child.png)
 + **[镇静](/药效/镇静.md "Sedation")** - MDAI 和 [MDMA](/药物/MDMA.md "MDMA") 之间最大的区别在于，MDAI 主要导致中度镇静，因此可能会阻碍跑步、跳舞或攀爬等体力活动。
@@ -122,6 +122,7 @@ MDAI 已被证明可以[抑制血清素的再摄取](/文档/神经递质再摄�
 ### **[视觉效应](/药效/视觉效应.md)** ![Eye](/文件/Eye.png)
 
 MDAI 的视觉效应仅在高剂量下发生，据报道其性质只是轻微的迷幻。这些通常包括：
+
 + **[视觉锐度增强](/药效/视觉锐度增强.md "Visual acuity enhancement")**
 + **[颜色增强](/药效/颜色增强.md "Colour enhancement")**
 + **[残影](/药效/残影.md "Tracers")**
@@ -150,6 +151,7 @@ MDAI 的认知效应可以分为几个部分，随着剂量的增加逐渐加强
 ### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects.png)
 
 在[兴奋剂](/文档/药物分类/兴奋剂.md "Stimulant")体验的[药效褪去](/文档/药效时长.md#Offset "Offset")期间发生的效果，与[药效达峰](/文档/药效时长.md#Peak "Peak")期间发生的效果相比，通常感觉是消极和不舒服的。这通常被称为“下头”（comedown），是因为[神经递质](/文档/神经递质.md "Neurotransmitter")耗尽而发生的。其影响通常包括：
+
 + **[焦虑](/药效/焦虑.md "Anxiety")**
 + **[认知疲劳](/药效/认知效应.md "Cognitive fatigue")**
 + **[抑郁](/药效/认知效应.md "Depression")**

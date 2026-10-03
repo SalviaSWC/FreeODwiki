@@ -9,7 +9,7 @@ description:
 
 
 
-| **4-FA ** | |
+| **4-FA** | |
 | --- | -- |
 | [![4-FA.png](/文件/4-FA.png)](/文件/4-FA.png) |
 | **化学命名** |
@@ -118,7 +118,7 @@ description:
 
 **如果你有心脏相关问题的病史，或者在使用后出现严重头痛，请不要使用 4-FA 哦！** 我们注意到 Trimbos-instituut 和 Nationaal Vergiftigingen Informatie Centrum (NVIC) 发布的一份报告，描述了在 4-FA 使用量增加后发生中风的事件。除了常见的类似苯丙胺的反应（如激越、焦虑、心动过速、高血压、胸痛等），还有关于严重的心脑血管并发症的报告，包括心律失常（窦性心律失常、室性早搏（二联律）、传导障碍）和急性心力衰竭。虽然因果关系尚未确认，但如果在使用 4-FA 后出现严重头痛和偏侧化症状，应立即去急诊科进行医疗评估喵！
 
-***免责声明：** 下列列出的效果引用自[***主观效应索引***](/文档/科学信息索引页.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/index.md) 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待这些内容哦。*
+_**免责声明：** 下列列出的效果引用自[***主观效应索引***](/文档/科学信息索引页.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/关于本站/index.md) 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待这些内容哦。_
 
 *同样值得注意的是，这些效果不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能诱发全方位的效果。*同样，**不良反应**在较高剂量下发生的可能性越来越大，可能包括**成瘾、严重伤害甚至死亡** ☠。
 
@@ -312,6 +312,7 @@ description:
 ----------
 
 *(注：参考文献中的原文链接保持不变，不做翻译)*
+
 1. ↑ 1.0 1.1 Rösner, P., Quednow, B., Girreser, U., Junge, T. (March 2005). "Isomeric Fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs)". Forensic Science International. 148 (2–3): 143–156. doi:10.1016/j.forsciint.2004.05.003. ISSN 0379-0738. 
 2. ↑ 2.0 2.1 Nagai, F., Nonaka, R., Satoh Hisashi Kamimura, K. (22 March 2007). "The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain". European Journal of Pharmacology. 559 (2–3): 132–137. doi:10.1016/j.ejphar.2006.11.075. ISSN 0014-2999. 
 3. ↑ Fuller, R. W., Baker, J. C., Perry, K. W., Molloy, B. B. (1 October 1975). "Comparison of 4-chloro-, 4-bromo- and 4-fluoroamphetamine in rats: Drug levels in brain and effects on brain serotonin metabolism". Neuropharmacology. 14 (10): 739–746. doi:10.1016/0028-3908(75)90099-4. ISSN 0028-3908. 

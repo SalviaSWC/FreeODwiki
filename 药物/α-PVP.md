@@ -110,7 +110,7 @@ description:
 
 ## 主观效应
 
-***免责声明：** 下面列出的效应引用了 [**主观效应索引**](/文档/关于本站/关于FreeODwiki.md) (**SEI**)，这是基于用户轶事报告和 [PsychonautWiki](https://psychonautwiki.org) 贡献者个人分析的开放研究文献。因此，请务必带着健康的怀疑态度来看待这些内容哦喵。*
+_**免责声明：** 下面列出的效应引用了 [**主观效应索引**](/文档/关于本站/关于FreeODwiki.md) (**SEI**)，这是基于用户轶事报告和 [PsychonautWiki](https://psychonautwiki.org) 贡献者个人分析的开放研究文献。因此，请务必带着健康的怀疑态度来看待这些内容哦喵。_
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管更高的剂量更容易引发全方位的效应。同样，**不良反应** 也会随着剂量的增加而变得越来越可能，甚至可能包括 **成瘾、严重伤害或死亡** ☠。*
 
@@ -192,6 +192,7 @@ description:
 目前我们的体验索引中还没有描述这种物质效应的报告呢。
 
 可以在这里找到额外的体验报告：
+
 *   [Erowid Experience Vaults: alpha-PVP Reports](https://www.erowid.org/experiences/subs/exp_alphaPVP.shtml)
 
 ## 毒性和危害

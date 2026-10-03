@@ -96,7 +96,7 @@ AL-LAD 与其母体化合物 [LSD](/药物/LSD.md) 有许多共同特征；在�
 * **[唾液分泌增加](/药效/唾液分泌增加.md)**
 * **[癫痫发作](/药效/癫痫发作.md)** - 这种效应的可能性很大程度上是从使用 [LSD](/药物/LSD.md) 报告的癫痫发作中推断出来的呢。它们被认为主要发生在那些有遗传倾向的人身上，特别是在伴有脱水、疲劳或营养不良等身体劳累的情况下喵。
 
- ### **视觉效应** ![视觉效应](/文件/Eye.png)
+### **视觉效应** ![视觉效应](/文件/Eye.png)
 
 #### 增强
 * **[视觉锐度增强](/药效/视觉锐度增强.md)**
@@ -189,6 +189,7 @@ AL-LAD 能够产生全方位的低级和高级幻觉状态，其方式不如许�
 * [AL-LAD - Microdose out of depression](/报告/psychonautwiki/Experience:AL-LAD_-_Microdose_out_of_depression)
 
 更多的体验报告可以在这里找到：
+
 * [Erowid 体验库: AL-LAD](https://www.erowid.org/experiences/subs/exp_ALLAD.shtml)
 
 ## 毒性与伤害潜力

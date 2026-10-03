@@ -76,9 +76,9 @@ AB-CHMINACA是一种选择性的CB1受体激动剂，其对CB1的活性大约比
 主观效应
 ----
 
-***免责声明：**以下列出的效应引用自[***主观效应索引***](/药效/主观效应索引.md)（**SEI**）。它是一套基于轶事性用户报告与本站贡献者个人分析所整理出的开放研究文献。因此，对这些内容最好还是保留适度怀疑哦。*
+_**免责声明：**以下列出的效应引用自[***主观效应索引***](/药效/主观效应索引.md)（**SEI**）。它是一套基于轶事性用户报告与本站贡献者个人分析所整理出的开放研究文献。因此，对这些内容最好还是保留适度怀疑哦。_
 
-*也值得注意的是，这些效应并不一定会以可预测或可靠的方式出现，虽然更高剂量更容易诱发完整的效应谱。*同样地，**不良效应**在更高剂量下也会越来越常见，其中可能包括**成瘾、重伤甚至死亡**☠。*
+*也值得注意的是，这些效应并不一定会以可预测或可靠的方式出现，虽然更高剂量更容易诱发完整的效应谱。同样地，**不良效应**在更高剂量下也会越来越常见，其中可能包括**成瘾、重伤甚至死亡**☠。*
 
 <a id="躯体效应"></a>
 
@@ -189,7 +189,7 @@ AB-CHMINACA是一种选择性的CB1受体激动剂，其对CB1的活性大约比
 ----
 
 1. [↑](#cite_ref-1) (WO2009106980) INDAZOLE DERIVATIVES (Patentscope) | [https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2009106980](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2009106980)
-2. [↑](#cite_ref-2) Drug and Chemical Evaluation Section, Office of Diversion Control, Drug Enforcement Administration (December 2014). "N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (AB-CHMINACA), N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) and[1-(5-fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone(THJ-2201) - Background Information and Evaluation of 'Three Factor Analysis' (Factors 4, 5, and 6) for Temporary Scheduling". | [https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf](https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf)
+2. [↑](#cite_ref-2) Drug and Chemical Evaluation Section, Office of Diversion Control, Drug Enforcement Administration (December 2014). "N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (AB-CHMINACA), N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) and\[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone(THJ-2201) - Background Information and Evaluation of 'Three Factor Analysis' (Factors 4, 5, and 6) for Temporary Scheduling". | [https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf](https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf)
 3. [↑](#cite_ref-3) Wiley JL, Marusich JA, Lefever TW, et al. AB-CHMINACA, AB-PINACA, and FUBIMINA: Affinity and Potency of Novel Synthetic Cannabinoids in Producing Δ9-Tetrahydrocannabinol–Like Effects in Mice. The Journal of Pharmacology and Experimental Therapeutics. 2015;354(3):328-339. doi:10.1124/jpet.115.225326. | [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538877/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538877/)
 4. [↑](#cite_ref-4) Mechoulam, R. (1984). Cannabinoids as therapeutic agents. Boca Raton, FL: CRC Press. ISBN 0-8493-5772-1.
 5. ↑   How Marijuana Works | [http://science.howstuffworks.com/marijuana4.htm](http://science.howstuffworks.com/marijuana4.htm)
