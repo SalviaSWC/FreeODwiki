@@ -1,7 +1,7 @@
+# 168 [TMPEA](/文档/PiHKAL/pihkal168.md)
 
 [上一个](/文档/PiHKAL/pihkal167.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal169.md)
 
-# 168 [TMPEA](/文档/PiHKAL/pihkal168.md)
 
 **2,4,5-TRIMETHOXYPHENETHYLAMINE**
 **2,4,5-三甲氧基苯乙胺**

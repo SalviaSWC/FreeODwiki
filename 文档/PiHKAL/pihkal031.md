@@ -1,4 +1,3 @@
-
 # 31 [2C-G-N](/药物/2C-G-N.md)
 
 [上一个](/文档/PiHKAL/pihkal030.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal032.md)

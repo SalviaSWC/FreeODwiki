@@ -1,7 +1,7 @@
+# 174 [TP](/文档/PiHKAL/pihkal174.md)
 
 [上一个](/文档/PiHKAL/pihkal173.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal175.md)
 
-# 174 [TP](/文档/PiHKAL/pihkal174.md)
 
 **THIOPROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE**
 **硫代丙斯卡林；3,5-二甲氧基-4-正丙硫基苯乙胺**

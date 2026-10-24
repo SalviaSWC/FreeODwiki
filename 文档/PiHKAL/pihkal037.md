@@ -1,5 +1,5 @@
-
 # 37 [CPM](/药物/CPM.md)
+
 [上一个](/文档/PiHKAL/pihkal036.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal038.md)
 
 **环丙基麦司卡林；4-环丙基甲氧基-3,5-二甲氧基苯乙胺 (CYCLOPROPYLMESCALINE; 4-CYCLOPROPYLMETHOXY-3,5-DIMETHOXYPHENETHYLAMINE)**

@@ -1,7 +1,7 @@
+# 16 BOHD
 
 [上一个](/文档/PiHKAL/pihkal015.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal017.md)
 
-# 16. BOHD
 
 **2,5-DIMETHOXY-beta-HYDROXY-4-METHYLPHENETHYLAMINE**
 **2,5-二甲氧基-β-羟基-4-甲基苯乙胺**

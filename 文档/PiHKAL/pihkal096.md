@@ -1,4 +1,3 @@
-
 # 96 [M](/药物/M.md)
 
 [上一个](/文档/PiHKAL/pihkal095.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal097.md)

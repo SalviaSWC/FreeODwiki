@@ -1,7 +1,7 @@
+# 142 PEA
 
 [上一个](/文档/PiHKAL/pihkal141.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal143.md)
 
-# 142 PEA
 
 **PHENETHYLAMINE**
 **苯乙胺**

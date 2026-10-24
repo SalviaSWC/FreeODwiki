@@ -1,7 +1,7 @@
+# 79 F-2
 
 [上一个](/文档/PiHKAL/pihkal078.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal080.md)
 
-# 79 F-2
 
 **2-M; 6-(2-AMINOPROPYL)-5-METHOXY-2-METHYL-2,3-DIHYDROBENZOFURAN**
 **(2-M; 6-(2-氨基丙基)-5-甲氧基-2-甲基-2,3-二氢苯并呋喃)**

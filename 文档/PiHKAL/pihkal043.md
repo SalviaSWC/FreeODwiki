@@ -1,5 +1,5 @@
-
 # 43 [2C-T-7](/药物/2C-T-7.md)
+
 [上一个](/文档/PiHKAL/pihkal042.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal044.md)
 
 **2,5-二甲氧基-4-(n)-丙基硫基苯乙胺 (2,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE)**

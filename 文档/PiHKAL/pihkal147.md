@@ -1,7 +1,7 @@
+# 147 4-TASB
 
 [上一个](/文档/PiHKAL/pihkal146.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal148.md)
 
-# 147 4-TASB
 
 **4-THIOASYMBESCALINE; 3-ETHOXY-4-ETHYLTHIO-5-METHOXYPHENETHYLAMINE**
 **4-硫代不对称麦司卡林；3-乙氧基-4-乙硫基-5-甲氧基苯乙胺**

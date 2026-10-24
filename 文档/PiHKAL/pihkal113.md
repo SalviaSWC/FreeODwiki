@@ -1,7 +1,7 @@
+# 113 [MDMP](/药物/MDMP.md)
 
 [上一个](/文档/PiHKAL/pihkal112.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal114.md)
 
-# 113 [MDMP](/药物/MDMP.md)
 -------
 **α,α,N-三甲基-3,4-亚甲二氧基苯乙胺；亚甲二氧基美芬丁胺**
 

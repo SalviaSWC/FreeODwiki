@@ -1,7 +1,7 @@
+# 17 BOM
 
 [上一个](/文档/PiHKAL/pihkal016.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal018.md)
 
-# 17. BOM
 
 **beta-METHOXYMESCALINE; 3,4,5,beta-TETRAMETHOXYPHENETHYLAMINE**
 **β-甲氧基麦司卡林；3,4,5,β-四甲氧基苯乙胺**

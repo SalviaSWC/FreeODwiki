@@ -1,7 +1,7 @@
+# 145 TA
 
 [上一个](/文档/PiHKAL/pihkal144.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal146.md)
 
-# 145 TA
 
 **2,3,4,5-TETRAMETHOXYAMPHETAMINE**
 **2,3,4,5-四甲氧基苯丙胺**

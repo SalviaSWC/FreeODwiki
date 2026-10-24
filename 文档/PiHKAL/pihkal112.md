@@ -1,7 +1,7 @@
+# 112 [MDMEOET](/药物/MDMEOET.md)
 
 [上一个](/文档/PiHKAL/pihkal111.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal113.md)
 
-# 112 [MDMEOET](/药物/MDMEOET.md)
 ----------
 **N-甲氧乙基-MDA；3,4-亚甲二氧基-N-(2-甲氧乙基)苯丙胺**
 

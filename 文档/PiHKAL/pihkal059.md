@@ -1,4 +1,3 @@
-
 # 59 [DMMDA\-2](/药物/DMMDA-2.md)
 
 [上一个](/文档/PiHKAL/pihkal058.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal060.md)

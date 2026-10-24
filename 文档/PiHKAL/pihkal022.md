@@ -1,5 +1,5 @@
+# 22 [2C-C](/药物/2C-C.md)
 
-# 22  [2C-C](/药物/2C-C.md)
 [上一个](/文档/PiHKAL/pihkal021.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal023.md)
 
 -------

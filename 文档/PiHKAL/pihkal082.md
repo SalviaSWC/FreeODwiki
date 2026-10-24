@@ -1,7 +1,7 @@
+# 82 G-3
 
 [上一个](/文档/PiHKAL/pihkal081.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal083.md)
 
-# 82 G-3
 
 **2,5-DIMETHOXY-3,4-(TRIMETHYLENE)AMPHETAMINE; 5-(2-AMINOPROPYL)-4,7-DIMETHOXYINDANE**
 **(2,5-二甲氧基-3,4-(三亚甲基)苯丙胺; 5-(2-氨基丙基)-4,7-二甲氧基茚满)**

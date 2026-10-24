@@ -1,7 +1,7 @@
+# 106 [MDE](/药物/MDE.md)
 
 [上一个](/文档/PiHKAL/pihkal105.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal107.md)
 
-# 106 [MDE](/药物/MDE.md)
 ------
 **MDEA；夏娃；N-乙基-MDA；3,4-亚甲二氧基-N-乙基苯丙胺**
 

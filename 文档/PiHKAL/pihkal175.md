@@ -1,7 +1,7 @@
+# 175 [TRIS](/文档/PiHKAL/pihkal175.md)
 
 [上一个](/文档/PiHKAL/pihkal174.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal176.md)
 
-# 175 [TRIS](/文档/PiHKAL/pihkal175.md)
 
 **TRESCALINE; TRISESCALINE; 3,4,5-TRIETHOXYPHENETHYLAMINE**
 **翠斯卡林；三乙氧基麦司卡林；3,4,5-三乙氧基苯乙胺**

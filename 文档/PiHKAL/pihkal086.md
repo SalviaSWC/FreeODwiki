@@ -1,7 +1,7 @@
+# 86 G-N
 
 [上一个](/文档/PiHKAL/pihkal085.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal087.md)
 
-# 86 G-N
 
 **1,4-DIMETHOXYNAPHTHYL-2-ISOPROPYLAMINE**
 **(1,4-二甲氧基萘基-2-异丙胺)**

@@ -1,7 +1,7 @@
+# 154 4-TIM
 
 [上一个](/文档/PiHKAL/pihkal153.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal155.md)
 
-# 154 4-TIM
 
 **4-THIOISOMESCALINE; 2,3-DIMETHOXY-4-METHYLTHIOPHENETHYLAMINE**
 **4-硫代异麦司卡林；2,3-二甲氧基-4-甲硫基苯乙胺**

@@ -1,7 +1,7 @@
+# 144 SB
 
 [上一个](/文档/PiHKAL/pihkal143.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal145.md)
 
-# 144 SB
 
 **SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE**
 **辛贝斯卡林；3,5-二乙氧基-4-甲氧基苯乙胺**

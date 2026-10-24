@@ -1,7 +1,7 @@
+# 15 BOH
 
 [上一个](/文档/PiHKAL/pihkal014.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal016.md)
 
-# 15. BOH
 
 **beta-METHOXY-3,4-METHYLENEDIOXYPHENETHYLAMINE**
 **β-甲氧基-3,4-亚甲二氧基苯乙胺**

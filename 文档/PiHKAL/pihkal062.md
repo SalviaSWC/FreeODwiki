@@ -1,7 +1,7 @@
+# 62 [DOB](/药物/DOB.md)
 
 [上一个](/文档/PiHKAL/pihkal061.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal063.md)
 
-# 62 [DOB](/药物/DOB.md)
 **2,5-二甲氧基-4-溴苯丙胺**
 
 | ![](/文档/PiHKAL/pihkal62.gif) |

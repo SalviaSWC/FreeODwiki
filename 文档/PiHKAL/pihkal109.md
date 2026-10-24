@@ -1,7 +1,7 @@
+# 109 [MDMA](/药物/MDMA.md)
 
 [上一个](/文档/PiHKAL/pihkal108.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal110.md)
 
-# 109 [MDMA](/药物/MDMA.md)
 -------
 **MDM；亚当；摇头丸/狂喜；3,4-亚甲二氧基-N-甲基苯丙胺**
 

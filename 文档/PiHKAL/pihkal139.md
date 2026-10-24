@@ -1,4 +1,3 @@
-
 # 139 [ORTHO-DOT](/药物/ORTHO-DOT.md)
 
 [上一个](/文档/PiHKAL/pihkal138.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal140.md)

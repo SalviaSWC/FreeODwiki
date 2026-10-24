@@ -1,9 +1,9 @@
+# 166 [2T-MMDA-3a](/文档/PiHKAL/pihkal166.md)
 
 [上一个](/文档/PiHKAL/pihkal165.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal167.md)
 
 
 
-# 166 [2T-MMDA-3a](/文档/PiHKAL/pihkal166.md)
 
 **3,4-METHYLENEDIOXY-2-METHYLTHIOAMPHETAMINE**
 **3,4-亚甲二氧基-2-甲硫基苯丙胺**

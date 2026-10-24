@@ -1,7 +1,7 @@
+# 60 [DMPEA](/药物/DMPEA.md)
 
 [上一个](/文档/PiHKAL/pihkal059.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal061.md)
 
-# 60 [DMPEA](/药物/DMPEA.md)
 **3,4-二甲氧基苯乙胺**
 
 | ![](/文档/PiHKAL/pihkal60.gif) |

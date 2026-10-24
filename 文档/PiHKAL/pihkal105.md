@@ -1,7 +1,7 @@
+# 105 [MDDM](/药物/MDDM.md)
 
 [上一个](/文档/PiHKAL/pihkal104.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal106.md)
 
-# 105 [MDDM](/药物/MDDM.md)
 -------
 **N,N-二甲基-MDA；3,4-亚甲二氧基-N,N-二甲基苯丙胺**
 

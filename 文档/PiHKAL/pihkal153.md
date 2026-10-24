@@ -1,7 +1,7 @@
+# 153 3-TIM
 
 [上一个](/文档/PiHKAL/pihkal152.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal154.md)
 
-# 153 3-TIM
 
 **3-THIOMESCALINE; 2,4-DIMETHOXY-3-METHYLTHIOPHENETHYLAMINE**
 **3-硫代麦司卡林；2,4-二甲氧基-3-甲硫基苯乙胺**

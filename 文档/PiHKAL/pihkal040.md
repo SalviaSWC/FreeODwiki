@@ -1,5 +1,5 @@
-
 # 40 [2C-T-2](/药物/2C-T-2.md)
+
 [上一个](/文档/PiHKAL/pihkal039.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal041.md)
 
 **2,5-二甲氧基-4-乙硫基苯乙胺 (2,5-DIMETHOXY-4-ETHYLTHIOPHENETHYLAMINE)**

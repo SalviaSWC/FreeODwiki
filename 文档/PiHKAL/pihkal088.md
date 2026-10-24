@@ -1,5 +1,5 @@
-
 # 88 [HOT-7](/药物/HOT-7.md)
+
 [上一个](/文档/PiHKAL/pihkal087.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal089.md)
 
 **2,5-二甲氧基-N-羟基-4-(正)-丙硫基苯乙胺**

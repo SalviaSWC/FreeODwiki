@@ -1,5 +1,5 @@
-
 # 38 [2C-SE](/药物/2C-SE.md)
+
 [上一个](/文档/PiHKAL/pihkal037.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal039.md)
 
 **2,5-二甲氧基-4-甲基硒基苯乙胺 (2,5-DIMETHOXY-4-METHYLSELENEOPHENETHYLAMINE)**

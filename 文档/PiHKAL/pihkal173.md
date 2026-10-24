@@ -1,8 +1,8 @@
+# 173 [TOMSO](/文档/PiHKAL/pihkal173.md)
 
 [上一个](/文档/PiHKAL/pihkal172.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal174.md)
 
 
-# 173 [TOMSO](/文档/PiHKAL/pihkal173.md)
 
 **2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE**
 **2-甲氧基-4-甲基-5-甲亚磺酰基苯丙胺**

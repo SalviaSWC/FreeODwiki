@@ -1,6 +1,5 @@
+# 3 [ALEPH](/药物/ALEPH.md)
 
-3\ [ALEPH](/药物/ALEPH.md)
-------
 **DOT; PARA-DOT; 2,5-二甲氧基-4-甲硫基苯丙胺**
 
 [上一个](/文档/PiHKAL/pihkal002.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal004.md)

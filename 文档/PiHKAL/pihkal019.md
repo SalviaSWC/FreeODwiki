@@ -1,7 +1,7 @@
+# 19 2-BR-4,5-MDA
 
 [上一个](/文档/PiHKAL/pihkal018.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal020.md)
 
-# 19. 2-BR-4,5-MDA
 
 **6-BR-MDA; 2-BROMO-4,5-METHYLENEDIOXYAMPHETAMINE**
 **6-溴-MDA；2-溴-4,5-亚甲二氧基苯丙胺**

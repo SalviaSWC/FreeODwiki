@@ -1,7 +1,7 @@
+# 162 TMA-6
 
 [上一个](/文档/PiHKAL/pihkal161.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal163.md)
 
-# 162 TMA-6
 
 **2,4,6-三甲氧基苯丙胺 (2,4,6-TRIMETHOXYAMPHETAMINE)**
 

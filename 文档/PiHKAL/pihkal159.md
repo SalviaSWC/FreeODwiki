@@ -1,7 +1,7 @@
+# 159 [TMA-3](/药物/TMA-3.md)
 
 [上一个](/文档/PiHKAL/pihkal158.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal160.md)
 
-# 159 [TMA-3](/药物/TMA-3.md)
 ------
 **2,3,4-三甲氧基苯丙胺**
 

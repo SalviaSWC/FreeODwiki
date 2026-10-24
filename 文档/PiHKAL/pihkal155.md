@@ -1,7 +1,7 @@
+# 155 3-TM
 
 [上一个](/文档/PiHKAL/pihkal154.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal156.md)
 
-# 155 3-TM
 
 **3-THIOMESCALINE; 3,4-DIMETHOXY-5-METHYLTHIOPHENETHYLAMINE**
 **3-硫代麦司卡林；3,4-二甲氧基-5-甲硫基苯乙胺**

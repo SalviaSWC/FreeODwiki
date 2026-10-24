@@ -1,4 +1,3 @@
-
 # 98 [MADAM-6](/药物/MADAM-6.md)
 
 [上一个](/文档/PiHKAL/pihkal097.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal099.md)

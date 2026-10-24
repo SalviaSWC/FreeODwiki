@@ -1,5 +1,5 @@
-
 # 73 [EEE](/药物/EEE.md)
+
 [上一个](/文档/PiHKAL/pihkal072.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal074.md)
 
 **2,4,5-三乙氧基苯丙胺**

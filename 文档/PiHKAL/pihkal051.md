@@ -1,6 +1,4 @@
-
 # 51 [beta\-D](/药物/beta-D.md)
-
 
 [上一个](/文档/PiHKAL/pihkal050.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal052.md)
 

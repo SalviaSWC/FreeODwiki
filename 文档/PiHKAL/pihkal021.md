@@ -1,5 +1,4 @@
-
-# 21  [3C-BZ](/药物/3C-BZ.md)
+# 21 [3C-BZ](/药物/3C-BZ.md)
 
 [上一个](/文档/PiHKAL/pihkal020.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal022.md)
 

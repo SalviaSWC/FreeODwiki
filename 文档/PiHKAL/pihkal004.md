@@ -1,6 +1,5 @@
+# 4 [ALEPH-2](/药物/ALEPH-2.md)
 
-4\ [ALEPH-2](/药物/ALEPH-2.md)
----------
 **2,5-二甲氧基-4-乙硫基苯丙胺**
 
 [上一个](/文档/PiHKAL/pihkal003.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal005.md)

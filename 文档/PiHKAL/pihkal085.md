@@ -1,7 +1,7 @@
+# 85 GANESHA
 
 [上一个](/文档/PiHKAL/pihkal084.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal086.md)
 
-# 85 GANESHA
 
 **G; 2,5-DIMETHOXY-3,4-DIMETHYLAMPHETAMINE**
 **(G; 2,5-二甲氧基-3,4-二甲基苯丙胺)**

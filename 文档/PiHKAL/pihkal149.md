@@ -1,7 +1,7 @@
+# 149 TB
 
 [上一个](/文档/PiHKAL/pihkal148.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal150.md)
 
-# 149 TB
 
 **4-THIOBUSCALINE; 3,5-DIMETHOXY-4-(n)-BUTYLTHIOPHENETHYLAMINE**
 **4-硫代布斯卡林；3,5-二甲氧基-4-(正)-丁硫基苯乙胺**

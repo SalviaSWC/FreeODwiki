@@ -1,6 +1,4 @@
-
-#55 [3,4\-DMA](/药物/3,4-DMA.md)
-
+# 55 [3,4\-DMA](/药物/3,4-DMA.md)
 
 [上一个](/文档/PiHKAL/pihkal054.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal056.md)
 

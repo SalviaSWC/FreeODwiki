@@ -1,7 +1,7 @@
+# 83 G-4
 
 [上一个](/文档/PiHKAL/pihkal082.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal084.md)
 
-# 83 G-4
 
 **2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE; 6-(2-AMINOPROPYL)-5,8-DIMETHOXYTETRALIN**
 **(2,5-二甲氧基-3,4-(四亚甲基)苯丙胺; 6-(2-氨基丙基)-5,8-二甲氧基四氢萘)**

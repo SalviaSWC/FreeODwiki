@@ -1,8 +1,8 @@
+# 171 [2-TOM](/文档/PiHKAL/pihkal171.md)
 
 [上一个](/文档/PiHKAL/pihkal170.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal172.md)
 
 
-# 171 [2-TOM](/文档/PiHKAL/pihkal171.md)
 
 **5-METHOXY-4-METHYL-2-METHYLTHIOAMPHETAMINE**
 **5-甲氧基-4-甲基-2-甲硫基苯丙胺**

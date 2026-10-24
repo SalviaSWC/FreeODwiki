@@ -1,4 +1,3 @@
-
 # 124 [META-DOB](/药物/META-DOB.md)
 
 [上一个](/文档/PiHKAL/pihkal123.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal125.md)

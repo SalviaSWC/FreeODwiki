@@ -1,7 +1,7 @@
+# 143 PROPYNYL
 
 [上一个](/文档/PiHKAL/pihkal142.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal144.md)
 
-# 143 PROPYNYL
 
 **3,5-DIMETHOXY-4-(2-PROPYNYLOXY)PHENETHYLAMINE**
 **3,5-二甲氧基-4-(2-丙炔氧基)苯乙胺**

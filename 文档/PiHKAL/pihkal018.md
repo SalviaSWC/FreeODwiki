@@ -1,7 +1,7 @@
+# 18 4-BR-3,5-DMA
 
 [上一个](/文档/PiHKAL/pihkal017.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal019.md)
 
-# 18. 4-BR-3,5-DMA
 
 **3,5-DIMETHOXY-4-BROMOAMPHETAMINE**
 **3,5-二甲氧基-4-溴苯丙胺**

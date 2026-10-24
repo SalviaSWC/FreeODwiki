@@ -1,7 +1,7 @@
+# 61 [DOAM](/药物/DOAM.md)
 
 [上一个](/文档/PiHKAL/pihkal060.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal062.md)
 
-# 61 [DOAM](/药物/DOAM.md)
 **2,5-二甲氧基-4-(n)-戊基苯丙胺**
 
 | ![](/文档/PiHKAL/pihkal61.gif) |

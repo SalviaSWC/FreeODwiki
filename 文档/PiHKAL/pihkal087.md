@@ -1,7 +1,7 @@
+# 87 HOT-2
 
 [上一个](/文档/PiHKAL/pihkal086.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal088.md)
 
-# 87 HOT-2
 
 **2,5-DIMETHOXY-4-ETHYLTHIO-N-HYDROXYPHENETHYLAMINE**
 **(2,5-二甲氧基-4-乙硫基-N-羟基苯乙胺)**

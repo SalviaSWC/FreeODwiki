@@ -1,5 +1,5 @@
-
 # 52 [DESOXY](/药物/DESOXY.md)
+
 [上一个](/文档/PiHKAL/pihkal051.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal053.md)
 
 --------

@@ -1,4 +1,3 @@
-
 # 95 [LOPHOPHINE](/药物/LOPHOPHINE.md)
 
 [上一个](/文档/PiHKAL/pihkal094.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal096.md)

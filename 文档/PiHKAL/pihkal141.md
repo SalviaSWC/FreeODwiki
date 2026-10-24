@@ -1,7 +1,7 @@
+# 141 PE
 
 [上一个](/文档/PiHKAL/pihkal140.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal142.md)
 
-# 141 PE
 
 **PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE**
 **苯斯卡林；3,5-二甲氧基-4-苯乙氧基苯乙胺**

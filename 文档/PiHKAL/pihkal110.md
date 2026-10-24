@@ -1,7 +1,7 @@
+# 110 [MDMC](/药物/MDMC.md) / EDMA [注：MDMC 是 Shulgin 的爱称，见下文评论。]
 
 [上一个](/文档/PiHKAL/pihkal109.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal111.md)
 
-# 110 [MDMC](/药物/MDMC.md) / EDMA [注：MDMC 是 Shulgin 的爱称，见下文评论。]
 --------------------------------------------------------------------------
 **EDMA；3,4-乙二氧基-N-甲基苯丙胺**
 

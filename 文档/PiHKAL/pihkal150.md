@@ -1,7 +1,7 @@
+# 150 3-TE
 
 [上一个](/文档/PiHKAL/pihkal149.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal151.md)
 
-# 150 3-TE
 
 **3-THIOESCALINE; 4-ETHOXY-5-METHOXY-3-METHYLTHIOPHENETHYLAMINE**
 **3-硫代艾斯卡林；4-乙氧基-5-甲氧基-3-甲硫基苯乙胺**

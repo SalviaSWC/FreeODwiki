@@ -1,7 +1,7 @@
+# 148 5-TASB
 
 [上一个](/文档/PiHKAL/pihkal147.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal149.md)
 
-# 148 5-TASB
 
 **5-THIOASYMBESCALINE; 3,4-DIETHOXY-5-METHYLTHIOPHENETHYLAMINE**
 **5-硫代不对称麦司卡林；3,4-二乙氧基-5-甲硫基苯乙胺**

@@ -1,7 +1,7 @@
+# 77 ETHYL-J
 
 [上一个](/文档/PiHKAL/pihkal076.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal078.md)
 
-# 77 ETHYL-J
 
 **2-ETHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)BUTANE; N-ETHYL-1-(1,3-BENZODIOXOL-5-YL)-2-BUTANAMINE**
 **(2-乙氨基-1-(3,4-亚甲二氧基苯基)丁烷; N-乙基-1-(1,3-苯并二氧杂环戊烯-5-基)-2-丁胺)**

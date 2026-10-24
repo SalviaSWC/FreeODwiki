@@ -1,7 +1,7 @@
+# 84 G-5
 
 [上一个](/文档/PiHKAL/pihkal083.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal085.md)
 
-# 84 G-5
 
 **3,6-DIMETHOXY-4-(2-AMINOPROPYL)BENZONORBORNANE**
 **(3,6-二甲氧基-4-(2-氨基丙基)苯并降冰片烷)**

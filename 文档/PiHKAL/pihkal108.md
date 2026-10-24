@@ -1,7 +1,7 @@
+# 108 [MDIP](/药物/MDIP.md)
 
 [上一个](/文档/PiHKAL/pihkal107.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal109.md)
 
-# 108 [MDIP](/药物/MDIP.md)
 -------
 **N-异丙基-MDA；(3,4-亚甲二氧基-N-异丙基苯丙胺)**
 

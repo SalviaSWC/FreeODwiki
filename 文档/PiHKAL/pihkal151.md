@@ -1,7 +1,7 @@
+# 151 TE
 
 [上一个](/文档/PiHKAL/pihkal150.md) [返回](/文档/PiHKAL/index.md) [下一个](/文档/PiHKAL/pihkal152.md)
 
-# 151 TE
 
 **4-TE; 4-THIOESCALINE; 3,5-DIMETHOXY-4-ETHYLTHIOPHENETHYLAMINE**
 **4-TE；4-硫代艾斯卡林；3,5-二甲氧基-4-乙硫基苯乙胺**
