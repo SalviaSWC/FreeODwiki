@@ -1,0 +1,2 @@
+# 保留原始目录名（否则 zh、admin 会被显示为 Zh、Admin）
+preserve_directory_names: true

@@ -1,5 +1,5 @@
 ---
-title :3-MMC
+title: 3-MMC
 ---
 
 # 3-甲基甲卡西酮

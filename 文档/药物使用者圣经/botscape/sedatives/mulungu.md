@@ -1,6 +1,4 @@
-**3.4.15 Mulungu**  
-Mulungu [\#](#mulungu)
-======================
+# 3.4.15 Mulungu
 
 [◀返回](./index.md)
 

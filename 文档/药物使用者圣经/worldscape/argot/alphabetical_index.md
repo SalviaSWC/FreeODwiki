@@ -1,7 +1,4 @@
-
-
-字母索引 [\#](#字母索引)
-============================================
+# 4.8.5 字母索引
 
 [◀返回](./index.md)
 
@@ -9,29 +6,29 @@
 
 ### \# [\#](#heading)
 
-* [1P\-ETH\-LAD (2\.2\.3\)](../../chemscape/psychedelics/1p-eth-lad.md)
-* [1P\-LSD (2\.2\.1\)](../../chemscape/psychedelics/1p-lsd.md)
-* [1cP\-LSD (2\.2\.2\)](../../chemscape/psychedelics/1cp-lsd.md)
+* [1P\-ETH\-LAD (2\.2\.3\)](../../chemscape/psychedelics/1P-ETH-LAD.md)
+* [1P\-LSD (2\.2\.1\)](../../chemscape/psychedelics/1P-LSD.md)
+* [1cP\-LSD (2\.2\.2\)](../../chemscape/psychedelics/1cP-LSD.md)
 * [2\-AI (2\.3\.1\)](../../chemscape/stimulants/2-ai.md)
-* [2C\-B (2\.2\.4\)](../../chemscape/psychedelics/2c-b.md)
-* [2C\-B\-AN (2\.2\.5\)](../../chemscape/psychedelics/2c-b-an.md)
-* [2C\-B\-FLY (2\.2\.6\)](../../chemscape/psychedelics/2c-b-fly.md)
-* [2C\-E (2\.2\.7\)](../../chemscape/psychedelics/2c-e.md)
-* [2C\-I (2\.2\.8\)](../../chemscape/psychedelics/2c-i.md)
+* [2C\-B (2\.2\.4\)](../../chemscape/psychedelics/2C-B.md)
+* [2C\-B\-AN (2\.2\.5\)](../../chemscape/psychedelics/2C-B-AN.md)
+* [2C\-B\-FLY (2\.2\.6\)](../../chemscape/psychedelics/2C-B-FLY.md)
+* [2C\-E (2\.2\.7\)](../../chemscape/psychedelics/2C-E.md)
+* [2C\-I (2\.2\.8\)](../../chemscape/psychedelics/2C-I.md)
 * [3,4\-CTMP (2\.3\.2\)](../../chemscape/stimulants/3_4-ctmp.md)
 * [3\-FPM (2\.3\.3\)](../../chemscape/stimulants/3-fpm.md)
 * [3\-HO\-PCP (2\.6\.1\)](../../chemscape/dissociatives/3-ho-pcp.md)
 * [3\-MMC (2\.3\.4\)](../../chemscape/stimulants/3-mmc.md)
 * [3\-MeO\-PCMo (2\.6\.2\)](../../chemscape/dissociatives/3-meo-pcmo.md)
-* [4\-ACO\-DMT (2\.2\.9\)](../../chemscape/psychedelics/4-aco-dmt.md)
+* [4\-ACO\-DMT (2\.2\.9\)](../../chemscape/psychedelics/4-AcO-DMT.md)
 * [4\-FA (2\.3\.5\)](../../chemscape/stimulants/4-fa.md)
-* [4\-HO\-MET (2\.2\.10\)](../../chemscape/psychedelics/4-ho-met.md)
+* [4\-HO\-MET (2\.2\.10\)](../../chemscape/psychedelics/4-HO-MET.md)
 * [4\-Me\-TMP (2\.3\.6\)](../../chemscape/stimulants/4-me-tmp.md)
 * [4F\-EPH (2\.3\.7\)](../../chemscape/stimulants/4f-eph.md)
 * [4F\-MPH (2\.3\.8\)](../../chemscape/stimulants/4f-mph.md)
 * [5\-HTP (2\.9\.1\)](../../chemscape/nootropics/5-htp.md)
-* [5\-MEO\-DALT (2\.2\.11\)](../../chemscape/psychedelics/5-meo-dalt.md)
-* [5\-MEO\-DIBF (2\.2\.12\)](../../chemscape/psychedelics/5-meo-dibf.md)
+* [5\-MEO\-DALT (2\.2\.11\)](../../chemscape/psychedelics/5-MEO-DALT.md)
+* [5\-MEO\-DIBF (2\.2\.12\)](../../chemscape/psychedelics/5-MEO-DIBF.md)
 * [5F\-AKB48 (2\.8\.1\)](../../chemscape/synthetic_cannabinoids/5f-akb48.md)
 * [6\-APB (2\.7\.1\)](../../chemscape/empathogens_and_entactogens/6-apb.md)
 
@@ -112,7 +109,7 @@
 
 ### H [\#](#h)
 
-* [HBWS (3\.2\.5\)](../../botscape/psychedelics/hbws.md)
+* [HBWS (3\.2\.5\)](../../botscape/psychedelics/HBWS.md)
 * [HDMP\-28 (2\.3\.15\)](../../chemscape/stimulants/hdmp-28.md)
 * [海洛因 (2\.5\.5\)](../../chemscape/intoxicating_depressants/heroin.md)
 * [Hexen (2\.3\.16\)](../../chemscape/stimulants/hexen.md)

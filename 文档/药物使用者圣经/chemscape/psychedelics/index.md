@@ -1,5 +1,4 @@
-迷幻剂 
-================================
+# 2.2 迷幻剂
 
 [◀返回](../index.md)
 
@@ -19,15 +18,15 @@
 > * [4-HO-MET](./4-HO-MET.md)
 > * [5-MEO-DALT](./5-MEO-DALT.md)
 > * [5-MEO-DIBF](./5-MEO-DIBF.md)
-> * [AL-LAD](./AL-LAD.md)
-> * [AMT](./AMT.md)
-> * [BK-2C-B](./BK-2C-B.md)
-> * [Changa](./Changa.md)
-> * [DMT](./DMT.md)
-> * [DOM](./DOM.md)
-> * [LSD](./LSD.md)
-> * [LSZ](./LSZ.md)
-> * [TMA](./TMA.md)
+> * [AL-LAD](./al-lad.md)
+> * [AMT](./amt.md)
+> * [BK-2C-B](./bk-2c-b.md)
+> * [Changa](./changa.md)
+> * [DMT](./dmt.md)
+> * [DOM](./dom.md)
+> * [LSD](./lsd.md)
+> * [LSZ](./lsz.md)
+> * [TMA](./tma.md)
 
 迷幻剂往往能带来最戏剧性的体验，甚至对人生产生深远影响。从风险谱上看，它们常被认为是相对安全的物质，事实上，撰写本文时，迷幻剂正日益被用于治疗成瘾和其他自毁性行为问题。
 

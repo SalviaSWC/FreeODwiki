@@ -1,7 +1,4 @@
-**2.9.2 Aniracetam (+ Citicoline)**
-
-Aniracetam (+ Citicoline) [\#](#aniracetam--citicoline)
-========================================================
+# 2.9.2 Aniracetam (+ Citicoline)
 
 [◀返回](./index.md)
 

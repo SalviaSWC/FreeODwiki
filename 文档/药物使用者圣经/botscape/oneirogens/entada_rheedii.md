@@ -1,5 +1,4 @@
-**3.6.2 Entada Rheedii** [\#](#entada-rheedii)
-============================================
+# 3.6.2 Entada Rheedii
 
 [◀返回](./index.md)
 

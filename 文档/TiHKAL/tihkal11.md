@@ -1,7 +1,7 @@
+# 11.[a-ET](/药物/a-ET.md)
 
 [上一个](/文档/TiHKAL/tihkal10.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal12.md)
 
-# 11.[a-ET](/药物/a-ET.md)
 **α-乙基色胺；吲哚，3-(2-氨基丁基)；色胺，α-乙基；3-(2-氨基丁基)吲哚；Monase**
 
 | ![](/文档/TiHKAL/tihkal11.gif) |

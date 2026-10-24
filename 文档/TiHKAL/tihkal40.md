@@ -1,5 +1,5 @@
 
-# 40. [5-MEO-MIPT](/药物/5-MEO-MIPT.md)
+# 40. [5-MEO-MIPT](/药物/5-MeO-MiPT.md)
 
 [上一个](/文档/TiHKAL/tihkal39.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal41.md)
 

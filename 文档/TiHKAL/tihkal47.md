@@ -1,5 +1,5 @@
 
-# 47.[MIPT](/药物/MIPT.md)
+# 47.[MIPT](/药物/MiPT.md)
 [上一个](/文档/TiHKAL/tihkal46.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal48.md)
 
 **色胺, N-异丙基-N-甲基；吲哚, 3-[2-(异丙基甲氨基)乙基]；N-异丙基-N-甲基色胺；3-[2-(异丙基甲氨基)乙基]吲哚**

@@ -1,6 +1,4 @@
-
-Phenibut [\#](#phenibut)
-========================
+# 2.9.9 Phenibut
 
 [◀返回](./index.md)
 

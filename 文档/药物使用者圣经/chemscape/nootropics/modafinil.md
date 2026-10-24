@@ -1,7 +1,4 @@
-**2.9.6 Modafinil**
-
-Modafinil [\#](#modafinil)
-==========================
+# 2.9.6 Modafinil
 
 [◀返回](./index.md)
 

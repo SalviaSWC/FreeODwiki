@@ -1,5 +1,5 @@
 
-# 4.[DIPT](/药物/DIPT.md)
+# 4.[DIPT](/药物/DiPT.md)
 [上一个](/文档/TiHKAL/tihkal3.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal5.md)
 
 **色胺, N,N-二异丙基；吲哚, 3-[2-(二异丙基氨基)乙基]；N,N-二异丙基色胺；3-[2-(二异丙基氨基)乙基]吲哚**

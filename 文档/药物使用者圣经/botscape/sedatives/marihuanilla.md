@@ -1,5 +1,4 @@
-**3.4.13 Marihuanilla** [\#](#marihuanilla)
-===========================================
+# 3.4.13 Marihuanilla
 
 [◀返回](./index.md)
 

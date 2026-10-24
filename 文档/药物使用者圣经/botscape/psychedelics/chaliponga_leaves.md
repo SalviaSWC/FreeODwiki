@@ -1,6 +1,4 @@
-
-Chaliponga Leaves [\#](#chaliponga-leaves)
-==========================================
+# 3.2.3 Chaliponga Leaves
 
 [◀返回](./index.md)
 

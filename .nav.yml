@@ -1,3 +1,8 @@
+# 自然排序（pihkal2 < pihkal10）且不区分大小写；子目录 .nav.yml 会继承
+sort:
+  type: natural
+  ignore_case: true
+
 nav:
   - ⚠免责声明: 关于本站/免责声明.md
   - ℹ️隐私条款: 关于本站/隐私条款.md
@@ -28,7 +33,8 @@ nav:
           - 文档/社会学/index.md
           - "文档/社会学/*.md"
       - "文档/*.md"
-      - "文档/**/*.md"
+      # 其余子目录各自折叠为一个分区（而不是全部平铺）
+      - "文档/*/"
   - ✏️报告索引:
       - 报告/index.md
       - Erowid报告:
@@ -41,6 +47,7 @@ nav:
           - 报告/reddit/index.md
           - "报告/reddit/*.md"
       - "报告/*.md"
+      - "报告/*/"
 
 ignore:
   - CONTRIBUTING.md

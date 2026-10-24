@@ -1,0 +1,285 @@
+# 由 index.md 目录生成：按书中顺序排列
+ignore:
+  - prompt.md
+  - combined.md
+  - tex/
+nav:
+  - index.md
+  - preface.md
+  - "1 药物景观":
+      - drugscape/index.md
+      - "1.1 安全第一":
+          - drugscape/safety_first/index.md
+          - drugscape/safety_first/the_10_commandments_of_safer_drug_use.md
+          - drugscape/safety_first/how_to_use_a_drug_testing_kit.md
+      - "1.2 解读报告":
+          - drugscape/interpreting_the_reports/index.md
+          - drugscape/interpreting_the_reports/definition_of_terms.md
+          - drugscape/interpreting_the_reports/the_shulgin_rating_scale.md
+          - drugscape/interpreting_the_reports/classification.md
+          - drugscape/interpreting_the_reports/routes_of_administration_roa.md
+          - drugscape/interpreting_the_reports/more_on_source_and_jurisdiction.md
+      - "1.3 一般安全提示":
+          - drugscape/general_safety_notes/index.md
+          - drugscape/general_safety_notes/if_you_are_not_an_adult.md
+          - drugscape/general_safety_notes/risk_mitigation_for_iv.md
+          - drugscape/general_safety_notes/nasal_care.md
+          - drugscape/general_safety_notes/chemsex.md
+          - drugscape/general_safety_notes/what_goes_up_must_come_down.md
+          - drugscape/general_safety_notes/complacency_kills.md
+  - "2 化学之旅":
+      - chemscape/index.md
+      - "2.2 迷幻剂":
+          - chemscape/psychedelics/index.md
+          - chemscape/psychedelics/1P-LSD.md
+          - chemscape/psychedelics/1cP-LSD.md
+          - chemscape/psychedelics/1P-ETH-LAD.md
+          - chemscape/psychedelics/2C-B.md
+          - chemscape/psychedelics/2C-B-AN.md
+          - chemscape/psychedelics/2C-B-FLY.md
+          - chemscape/psychedelics/2C-E.md
+          - chemscape/psychedelics/2C-I.md
+          - chemscape/psychedelics/4-AcO-DMT.md
+          - chemscape/psychedelics/4-HO-MET.md
+          - chemscape/psychedelics/5-MEO-DALT.md
+          - chemscape/psychedelics/5-MEO-DIBF.md
+          - chemscape/psychedelics/al-lad.md
+          - chemscape/psychedelics/amt.md
+          - chemscape/psychedelics/bk-2c-b.md
+          - chemscape/psychedelics/changa.md
+          - chemscape/psychedelics/dmt.md
+          - chemscape/psychedelics/dom.md
+          - chemscape/psychedelics/lsd.md
+          - chemscape/psychedelics/lsz.md
+          - chemscape/psychedelics/tma.md
+      - "2.3 兴奋剂":
+          - chemscape/stimulants/index.md
+          - chemscape/stimulants/2-ai.md
+          - chemscape/stimulants/3_4-ctmp.md
+          - chemscape/stimulants/3-fpm.md
+          - chemscape/stimulants/3-mmc.md
+          - chemscape/stimulants/4-fa.md
+          - chemscape/stimulants/4-me-tmp.md
+          - chemscape/stimulants/4f-eph.md
+          - chemscape/stimulants/4f-mph.md
+          - chemscape/stimulants/adderall.md
+          - chemscape/stimulants/amphetamine.md
+          - chemscape/stimulants/a-php.md
+          - chemscape/stimulants/caffeine.md
+          - chemscape/stimulants/cocaine.md
+          - chemscape/stimulants/eph.md
+          - chemscape/stimulants/hdmp-28.md
+          - chemscape/stimulants/hexen.md
+          - chemscape/stimulants/ipph.md
+          - chemscape/stimulants/methamphetamine.md
+          - chemscape/stimulants/methylphenidate.md
+          - chemscape/stimulants/mpa.md
+          - chemscape/stimulants/nm2ai.md
+          - chemscape/stimulants/pph.md
+          - chemscape/stimulants/pipradrol.md
+          - chemscape/stimulants/tpa.md
+      - "2.4 抗焦虑药与镇静剂":
+          - chemscape/anxiolytics_and_sedatives/index.md
+          - chemscape/anxiolytics_and_sedatives/alprazolam.md
+          - chemscape/anxiolytics_and_sedatives/carisoprodol.md
+          - chemscape/anxiolytics_and_sedatives/clonazolam.md
+          - chemscape/anxiolytics_and_sedatives/diazepam.md
+          - chemscape/anxiolytics_and_sedatives/etizolam.md
+          - chemscape/anxiolytics_and_sedatives/gabapentin.md
+          - chemscape/anxiolytics_and_sedatives/pregabalin.md
+          - chemscape/anxiolytics_and_sedatives/pyrazolam.md
+          - chemscape/anxiolytics_and_sedatives/zopiclone.md
+          - chemscape/anxiolytics_and_sedatives/others.md
+      - "2.5 致醉抑制剂":
+          - chemscape/intoxicating_depressants/index.md
+          - chemscape/intoxicating_depressants/alcohol.md
+          - chemscape/intoxicating_depressants/codeine.md
+          - chemscape/intoxicating_depressants/fentanyl.md
+          - chemscape/intoxicating_depressants/ghb.md
+          - chemscape/intoxicating_depressants/heroin.md
+          - chemscape/intoxicating_depressants/lean.md
+          - chemscape/intoxicating_depressants/morphine.md
+          - chemscape/intoxicating_depressants/oxycodone.md
+          - chemscape/intoxicating_depressants/poppers.md
+          - chemscape/intoxicating_depressants/sentia.md
+          - chemscape/intoxicating_depressants/tramadol.md
+      - "2.6 解离剂":
+          - chemscape/dissociatives/index.md
+          - chemscape/dissociatives/3-ho-pcp.md
+          - chemscape/dissociatives/3-meo-pcmo.md
+          - chemscape/dissociatives/diphenidine.md
+          - chemscape/dissociatives/dxm.md
+          - chemscape/dissociatives/ephenidine.md
+          - chemscape/dissociatives/ketamine.md
+          - chemscape/dissociatives/mefloquine.md
+          - chemscape/dissociatives/mxe.md
+          - chemscape/dissociatives/mxp.md
+          - chemscape/dissociatives/n2o.md
+      - "2.7 共情剂与共情致幻剂":
+          - chemscape/empathogens_and_entactogens/index.md
+          - chemscape/empathogens_and_entactogens/6-apb.md
+          - chemscape/empathogens_and_entactogens/mda.md
+          - chemscape/empathogens_and_entactogens/mdai.md
+          - chemscape/empathogens_and_entactogens/mdma.md
+          - chemscape/empathogens_and_entactogens/meai.md
+          - chemscape/empathogens_and_entactogens/mephedrone.md
+          - chemscape/empathogens_and_entactogens/methylone.md
+          - chemscape/empathogens_and_entactogens/mna.md
+          - chemscape/empathogens_and_entactogens/mexedrone.md
+      - "2.8 合成大麻素":
+          - chemscape/synthetic_cannabinoids/index.md
+          - chemscape/synthetic_cannabinoids/5f-akb48.md
+          - chemscape/synthetic_cannabinoids/am-2201.md
+          - chemscape/synthetic_cannabinoids/am-694.md
+          - chemscape/synthetic_cannabinoids/jwh-018.md
+          - chemscape/synthetic_cannabinoids/jwh-073.md
+      - "2.9 益智药":
+          - chemscape/nootropics/index.md
+          - chemscape/nootropics/5-htp.md
+          - chemscape/nootropics/aniracetam_citicoline.md
+          - chemscape/nootropics/armodafinil.md
+          - chemscape/nootropics/l-theanine.md
+          - chemscape/nootropics/modafiendz.md
+          - chemscape/nootropics/modafinil.md
+          - chemscape/nootropics/noopept.md
+          - chemscape/nootropics/nsi-189.md
+          - chemscape/nootropics/phenibut.md
+          - chemscape/nootropics/picamilon.md
+          - chemscape/nootropics/prl-8-53.md
+  - "3 植物旅程":
+      - botscape/index.md
+      - "3.2 迷幻剂":
+          - botscape/psychedelics/index.md
+          - botscape/psychedelics/ayahuasca.md
+          - botscape/psychedelics/cebil.md
+          - botscape/psychedelics/chaliponga_leaves.md
+          - botscape/psychedelics/fly_agaric.md
+          - botscape/psychedelics/HBWS.md
+          - botscape/psychedelics/iboga.md
+          - botscape/psychedelics/magic_mushrooms.md
+          - botscape/psychedelics/magic_truffles.md
+          - botscape/psychedelics/morning_glory_seeds.md
+          - botscape/psychedelics/ololiuqui.md
+          - botscape/psychedelics/salvia_divinorum.md
+          - botscape/psychedelics/sananga.md
+          - botscape/psychedelics/san_pedro_cactus.md
+          - botscape/psychedelics/sensory_deprivation.md
+          - botscape/psychedelics/shirodhara.md
+          - botscape/psychedelics/sinicuichi.md
+          - botscape/psychedelics/syrian_rue.md
+          - botscape/psychedelics/yopo.md
+      - "3.3 兴奋剂":
+          - botscape/stimulants/index.md
+          - botscape/stimulants/betel_nut.md
+          - botscape/stimulants/coca.md
+          - botscape/stimulants/ephedra.md
+          - botscape/stimulants/ginseng.md
+          - botscape/stimulants/green_tea.md
+          - botscape/stimulants/guarana.md
+          - botscape/stimulants/guayusa.md
+          - botscape/stimulants/horny_goat_weed.md
+          - botscape/stimulants/khaini.md
+          - botscape/stimulants/kola_nut.md
+          - botscape/stimulants/wormwood.md
+          - botscape/stimulants/yerba_mate.md
+          - botscape/stimulants/yohimbe.md
+      - "3.4 镇静剂":
+          - botscape/sedatives/index.md
+          - botscape/sedatives/blue_lotus.md
+          - botscape/sedatives/cacao.md
+          - botscape/sedatives/catnip.md
+          - botscape/sedatives/chamomile.md
+          - botscape/sedatives/damiana.md
+          - botscape/sedatives/frankincense.md
+          - botscape/sedatives/hops.md
+          - botscape/sedatives/imphepho.md
+          - botscape/sedatives/indian_warrior.md
+          - botscape/sedatives/kanna.md
+          - botscape/sedatives/lavender.md
+          - botscape/sedatives/marihuanilla.md
+          - botscape/sedatives/mullein.md
+          - botscape/sedatives/mulungu.md
+          - botscape/sedatives/passion_flower.md
+          - botscape/sedatives/rhodiola.md
+          - botscape/sedatives/saffron.md
+          - botscape/sedatives/skullcap.md
+          - botscape/sedatives/valerian_root.md
+          - botscape/sedatives/white_sage.md
+          - botscape/sedatives/wild_dagga.md
+          - botscape/sedatives/wild_lettuce.md
+      - "3.5 益智药":
+          - botscape/nootropics/index.md
+          - botscape/nootropics/catuaba.md
+          - botscape/nootropics/celastrus_paniculatus.md
+          - botscape/nootropics/ginkgo.md
+      - "3.6 促梦剂":
+          - botscape/oneirogens/index.md
+          - botscape/oneirogens/calea.md
+          - botscape/oneirogens/entada_rheedii.md
+          - botscape/oneirogens/mexican_tarragon.md
+          - botscape/oneirogens/mugwort.md
+          - botscape/oneirogens/ubulawu.md
+      - "3.7 谵妄剂":
+          - botscape/deliriants/index.md
+          - botscape/deliriants/datura.md
+          - botscape/deliriants/nutmeg.md
+      - "3.8 未分类":
+          - botscape/unclassified/index.md
+          - botscape/unclassified/cannabis.md
+          - botscape/unclassified/essential_oils.md
+          - botscape/unclassified/kava_kava.md
+          - botscape/unclassified/kratom.md
+          - botscape/unclassified/mad_honey.md
+          - botscape/unclassified/mapacho.md
+          - botscape/unclassified/opium.md
+          - botscape/unclassified/rapey.md
+          - botscape/unclassified/sakae_naa.md
+          - botscape/unclassified/tobacco.md
+  - "4 更广阔的背景":
+      - worldscape/index.md
+      - worldscape/how_many_people_use_drugs.md
+      - worldscape/the_relative_harm.md
+      - "4.3 成瘾与过量":
+          - worldscape/addiction_and_overdose/index.md
+          - worldscape/addiction_and_overdose/addiction.md
+          - worldscape/addiction_and_overdose/if_you_are_addicted.md
+          - worldscape/addiction_and_overdose/alcoholism.md
+          - worldscape/addiction_and_overdose/overdose_and_emergency_response.md
+          - worldscape/addiction_and_overdose/drug_related_deaths_notable_people.md
+      - "4.4 法律图景":
+          - worldscape/the_lawscape/index.md
+          - worldscape/the_lawscape/the_united_kingdom.md
+          - worldscape/the_lawscape/the_united_states.md
+          - worldscape/the_lawscape/the_rest_of_the_world.md
+          - worldscape/the_lawscape/dealers_a_different_perspective.md
+          - worldscape/the_lawscape/the_role_of_the_media.md
+          - worldscape/the_lawscape/mandatory_drug_testing.md
+          - worldscape/the_lawscape/activism_the_charter_of_drug_users_rights.md
+      - "4.5 药物旅游":
+          - worldscape/drug_tourism/index.md
+          - worldscape/drug_tourism/the_dutch_connection_amsterdam.md
+          - worldscape/drug_tourism/destinations_of_potential_interest.md
+      - "4.6 文化与社会（参考）":
+          - worldscape/culture_and_society_reference/index.md
+          - worldscape/culture_and_society_reference/art_film_literature_music.md
+          - worldscape/culture_and_society_reference/food_for_the_psychedelic_mind.md
+          - worldscape/culture_and_society_reference/books_and_reference.md
+      - "4.7 实验室老鼠的自白":
+          - worldscape/confessions_of_a_lab_rat/index.md
+          - worldscape/confessions_of_a_lab_rat/qanda.md
+          - worldscape/confessions_of_a_lab_rat/about_the_author__in_his_own_words.md
+      - "4.8 药物行话":
+          - worldscape/argot/index.md
+          - worldscape/argot/idioms_and_acronyms.md
+          - worldscape/argot/common_street_and_brand_names.md
+          - worldscape/argot/poly_drug_combinations.md
+          - worldscape/argot/selected_molecules.md
+          - worldscape/argot/alphabetical_index.md
+      - "4.9 网络资源":
+          - worldscape/internet_resources/index.md
+          - worldscape/internet_resources/harm_reduction_and_safety.md
+          - worldscape/internet_resources/the_drug_users_bible.md
+      - worldscape/supplementary_notes.md
+      - worldscape/supplementary_photographs.md
+      - worldscape/namaste.md
+  - epilogue.md

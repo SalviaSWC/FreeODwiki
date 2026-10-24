@@ -1,5 +1,5 @@
 
-# 37. [5-MEO-DIPT](/药物/5-MEO-DIPT.md)
+# 37. [5-MEO-DIPT](/药物/5-MeO-DiPT.md)
 
 [上一个](/文档/TiHKAL/tihkal36.md) [返回](/文档/TiHKAL/index.md) [下一个](/文档/TiHKAL/tihkal38.md)
 

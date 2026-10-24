@@ -7,7 +7,7 @@
 
 | α-PHP | |
 | --- | --- |
-| [![Α-PHP.svg](../文件/Α-PHP.png)](../文件/Α-PHP.png) | |
+| [![Α-PHP.svg](../文件/α-PHP.png)](../文件/α-PHP.png) | |
 | **化学命名法** | |
 | 常用名 | *α-PHP, alpha-PHP, PV7* |
 | 取代名称 | *alpha-Pyrrolidinohexiophenone* |

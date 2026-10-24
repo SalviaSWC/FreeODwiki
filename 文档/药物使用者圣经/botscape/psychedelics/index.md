@@ -1,6 +1,4 @@
-
-迷幻剂 [\#](#psychedelics)
-================================
+# 3.2 迷幻剂
 
 [◀返回](../index.md)
 
@@ -12,7 +10,7 @@
 * [Cebil](./cebil.md)
 * [Chaliponga Leaves](./chaliponga_leaves.md)
 * [毒蝇伞](./fly_agaric.md)
-* [HBWS](./hbws.md)
+* [HBWS](./HBWS.md)
 * [伊博格](./iboga.md)
 * [赛洛西宾蘑菇](./magic_mushrooms.md)
 * [Magic Truffles](./magic_truffles.md)

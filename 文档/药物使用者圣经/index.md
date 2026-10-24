@@ -1,7 +1,4 @@
-
-
 # 药物使用者圣经目录
-
 
 [◀返回](./preface.md)
 
@@ -30,18 +27,18 @@
 
     -  [2\.2 迷幻剂](./chemscape/psychedelics/index.md)
 
-        - [2\.2\.1 1P\-LSD](./chemscape/psychedelics/1p-lsd.md)
-        - [2\.2\.2 1cP\-LSD](./chemscape/psychedelics/1cp-lsd.md)
-        - [2\.2\.3 1P\-ETH\-LAD](./chemscape/psychedelics/1p-eth-lad.md)
-        - [2\.2\.4 2C\-B](./chemscape/psychedelics/2c-b.md)
-        - [2\.2\.5 2C\-B\-AN](./chemscape/psychedelics/2c-b-an.md)
-        - [2\.2\.6 2C\-B\-FLY](./chemscape/psychedelics/2c-b-fly.md)
-        - [2\.2\.7 2C\-E](./chemscape/psychedelics/2c-e.md)
-        - [2\.2\.8 2C\-I](./chemscape/psychedelics/2c-i.md)
-        - [2\.2\.9 4\-ACO\-DMT](./chemscape/psychedelics/4-aco-dmt.md)
-        - [2\.2\.10 4\-HO\-MET](./chemscape/psychedelics/4-ho-met.md)
-        - [2\.2\.11 5\-MEO\-DALT](./chemscape/psychedelics/5-meo-dalt.md)
-        - [2\.2\.12 5\-MEO\-DIBF](./chemscape/psychedelics/5-meo-dibf.md)
+        - [2\.2\.1 1P\-LSD](./chemscape/psychedelics/1P-LSD.md)
+        - [2\.2\.2 1cP\-LSD](./chemscape/psychedelics/1cP-LSD.md)
+        - [2\.2\.3 1P\-ETH\-LAD](./chemscape/psychedelics/1P-ETH-LAD.md)
+        - [2\.2\.4 2C\-B](./chemscape/psychedelics/2C-B.md)
+        - [2\.2\.5 2C\-B\-AN](./chemscape/psychedelics/2C-B-AN.md)
+        - [2\.2\.6 2C\-B\-FLY](./chemscape/psychedelics/2C-B-FLY.md)
+        - [2\.2\.7 2C\-E](./chemscape/psychedelics/2C-E.md)
+        - [2\.2\.8 2C\-I](./chemscape/psychedelics/2C-I.md)
+        - [2\.2\.9 4\-ACO\-DMT](./chemscape/psychedelics/4-AcO-DMT.md)
+        - [2\.2\.10 4\-HO\-MET](./chemscape/psychedelics/4-HO-MET.md)
+        - [2\.2\.11 5\-MEO\-DALT](./chemscape/psychedelics/5-MEO-DALT.md)
+        - [2\.2\.12 5\-MEO\-DIBF](./chemscape/psychedelics/5-MEO-DIBF.md)
         - [2\.2\.13 AL\-LAD](./chemscape/psychedelics/al-lad.md)
         - [2\.2\.14 AMT](./chemscape/psychedelics/amt.md)
         - [2\.2\.15 BK\-2C\-B](./chemscape/psychedelics/bk-2c-b.md)
@@ -153,7 +150,7 @@
         - [3\.2\.2 Cebil](./botscape/psychedelics/cebil.md)
         - [3\.2\.3 Chaliponga Leaves](./botscape/psychedelics/chaliponga_leaves.md)
         - [3\.2\.4 Fly Agaric](./botscape/psychedelics/fly_agaric.md)
-        - [3\.2\.5 HBWS](./botscape/psychedelics/hbws.md)
+        - [3\.2\.5 HBWS](./botscape/psychedelics/HBWS.md)
         - [3\.2\.6 Iboga](./botscape/psychedelics/iboga.md)
         - [3\.2\.7 Magic Mushrooms](./botscape/psychedelics/magic_mushrooms.md)
         - [3\.2\.8 Magic Truffles](./botscape/psychedelics/magic_truffles.md)
@@ -275,7 +272,7 @@
         - [4\.8\.2 常见、街头与品牦名称](./worldscape/argot/common_street_and_brand_names.md)
         - [4\.8\.3 多種药物阆合](./worldscape/argot/poly_drug_combinations.md)
         - [4\.8\.4 精选分子](./worldscape/argot/selected_molecules.md)
-        - [4\.8\.5 字母碤引](./worldscape/argot/alphabetical_index.md)
+        - [4\.8\.5 字母索引](./worldscape/argot/alphabetical_index.md)
     -  [4\.9 网络资源](./worldscape/internet_resources/index.md)
 
         - [4\.9\.1 伤害减少与安全](./worldscape/internet_resources/harm_reduction_and_safety.md)
