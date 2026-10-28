@@ -133,7 +133,7 @@ MDPHP 的一般认知效应可以描述为与其他典型强效兴奋剂相似�
 
 ### 体验报告
 
-目前在我们的[体验索引](/报告/psychounautwiki/index.md)中尚无描述该物质效果的报告。
+目前在我们的[体验索引](https://psychonautwiki.org/wiki/index)中尚无描述该物质效果的报告。
 
 其他体验报告可以在这里找到：
 

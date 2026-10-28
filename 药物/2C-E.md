@@ -211,10 +211,10 @@ _**免责声明：** 下列效应引用了[***主观效应索引***](/文档/关
 
 ### 体验报告 <a name="experience_reports"></a>
 
-描述这种化合物效果的轶事报告在我们的[体验索引](/报告/psychounautwiki/index.md)中包括：
+描述这种化合物效果的轶事报告在我们的[体验索引](https://psychonautwiki.org/wiki/index)中包括：
 
-*   [体验: 25mg 2C-E (口服) - 一次震撼心灵的体验](/报告/psychounautwiki/Experience:_25mg_2C-E_(oral)_-_A_mindblowing_experience.md)
-*   [体验:2C-E (20mg, 鼻吸) - Mind=Blown](/报告/psychounautwiki/Experience:2C-E_(20mg,_insufflated)_-_Mind%3DBlown.md)
+*   [体验: 25mg 2C-E (口服) - 一次震撼心灵的体验](https://psychonautwiki.org/wiki/Experience:_25mg_2C-E_%28oral%29_-_A_mindblowing_experience)
+*   [体验:2C-E (20mg, 鼻吸) - Mind=Blown](https://psychonautwiki.org/wiki/Experience:2C-E_%2820mg,_insufflated%29_-_Mind%3DBlown)
 
 可以在这里找到更多的体验报告：
 

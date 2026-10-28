@@ -195,7 +195,7 @@ _**免责声明：** 下面列出的效应引用自[***主观效应索引***](/�
 
 目前我们的[体验索引](/文档/复现索引.md)中还没有描述该物质效应的报告喵。
 
-* [1050 µg 1cP-LSD - 矩阵](/报告/psychonautwiki/Experience:1050_%C2%B5g_1cP-LSD_-_The_matrix)
+* [1050 µg 1cP-LSD - 矩阵](https://psychonautwiki.org/wiki/Experience:1050_%C2%B5g_1cP-LSD_-_The_matrix)
 
 ## 毒性与危害潜力
 

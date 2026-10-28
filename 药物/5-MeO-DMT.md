@@ -230,8 +230,8 @@ _**免责声明：** 下列效应引用自 [***主观效应索引***](/文档/�
 
 描述该化合物效应的轶事报告包括：
 
-* [Experience: 40mg 5-MeO-DMT (oral) + 40mg MXE (oral) - Untitled](/报告/psychounautwiki/Experience:_40mg_5-MeO-DMT_(oral)_%2B_40mg_MXE_(oral)_-_Untitled)
-* [Experience:A combination of DOC, 5-MAPB, 5-MeO-DMT, ETH-LAD, Cannabis, Pentedrone](/报告/psychounautwiki/Experience:A_combination_of_DOC,_5-MAPB,_5-MeO-DMT,_ETH-LAD,_Cannabis,_Pentedrone)
+* [Experience: 40mg 5-MeO-DMT (oral) + 40mg MXE (oral) - Untitled](https://psychonautwiki.org/wiki/Experience:_40mg_5-MeO-DMT_%28oral%29_%2B_40mg_MXE_%28oral%29_-_Untitled)
+* [Experience:A combination of DOC, 5-MAPB, 5-MeO-DMT, ETH-LAD, Cannabis, Pentedrone](https://psychonautwiki.org/wiki/Experience:A_combination_of_DOC,_5-MAPB,_5-MeO-DMT,_ETH-LAD,_Cannabis,_Pentedrone)
 
 更多的体验报告可以在这里找到：
 

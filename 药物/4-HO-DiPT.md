@@ -117,7 +117,7 @@ _**免责声明：** 下方列出的效应引用自[**主观效应索引**](/药
 
 ### 体验报告
 
-目前在我们的[体验索引](/报告/psychounautwiki/Experience_index.md)中还没有描述该化合物效果的报告呢。在这里可以找到其他的体验报告哦：
+目前在我们的[体验索引](https://psychonautwiki.org/wiki/Experience_index)中还没有描述该化合物效果的报告呢。在这里可以找到其他的体验报告哦：
 
 * [Erowid 体验库：4-HO-DiPT](https://erowid.org/experiences/subs/exp_4HODiPT.shtml)
 

@@ -191,10 +191,10 @@ ALD-52 的认知效应可以分解为几个组成部分，这些部分随剂量�
 
 描述该化合物效果的轶事报告包括：
 
-*   [体验报告：100ug ALD-52 - 愉快的周末旅程](/报告/psychounautwiki/Experience:_100ug_ALD-52_-_Nice_weekend_trip)
-*   [体验报告：160ug ALD-52 - 心跳加速](/报告/psychounautwiki/Experience:_160ug_ALD-52_-_Heart_racing)
-*   [体验报告：25ug ALD-52 - 无题](/报告/psychounautwiki/Experience:_25ug_ALD-52_-_Untitled)
-*   [体验报告：ALD-52 - 尝试治疗失眠](/报告/psychounautwiki/Experience:ALD-52_-_Insomnia_cure_attempt)
+*   [体验报告：100ug ALD-52 - 愉快的周末旅程](https://psychonautwiki.org/wiki/Experience:_100ug_ALD-52_-_Nice_weekend_trip)
+*   [体验报告：160ug ALD-52 - 心跳加速](https://psychonautwiki.org/wiki/Experience:_160ug_ALD-52_-_Heart_racing)
+*   [体验报告：25ug ALD-52 - 无题](https://psychonautwiki.org/wiki/Experience:_25ug_ALD-52_-_Untitled)
+*   [体验报告：ALD-52 - 尝试治疗失眠](https://psychonautwiki.org/wiki/Experience:ALD-52_-_Insomnia_cure_attempt)
 
 更多体验报告可以在这里找到：
 

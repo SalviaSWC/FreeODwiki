@@ -142,9 +142,9 @@ _**免责声明：** 下面列出的效应引用自[***主观效应索引***](/�
 
 ### 体验报告
 
-描述此化合物在我们[体验索引](/报告/psychounautwiki/)中的轶事报告包括：
+描述此化合物在我们[体验索引](https://psychonautwiki.org/wiki/Experience_index)中的轶事报告包括：
 
-*   [体验:75mg 3-FMA - 欣快感与功能性的完美融合](/报告/psychounautwiki/Experience:75mg_3-FMA_-_Perfect_Blend_of_Euphoria_and_Functionality)
+*   [体验:75mg 3-FMA - 欣快感与功能性的完美融合](https://psychonautwiki.org/wiki/Experience:75mg_3-FMA_-_Perfect_Blend_of_Euphoria_and_Functionality)
 
 ## 毒性和伤害潜能
 
@@ -237,7 +237,7 @@ _**免责声明：** 下面列出的效应引用自[***主观效应索引***](/�
 1. ↑ Rösner, P., Quednow, B., Girreser, U., Junge, T. (March 2005). ["Isomeric Fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs)"](https://linkinghub.elsevier.com/retrieve/pii/S0379073804003251). *Forensic Science International*. **148** (2–3): 143–156. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2004.05.003](//doi.org/10.1016%2Fj.forsciint.2004.05.003). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738). 
 2. ↑ Smart, B. E. (1 June 2001). ["Fluorine substituent effects (on bioactivity)"](https://www.sciencedirect.com/science/article/pii/S002211390100375X). *Journal of Fluorine Chemistry*. **109** (1): 3–11. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0022-1139(01)00375-X](//doi.org/10.1016%2FS0022-1139%2801%2900375-X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-1139](//www.worldcat.org/issn/0022-1139). 
 3. ↑ 3.0 3.1 3.2 Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858). 
-4. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+4. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563).
 5. ↑ <http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf>
 6. ↑ Greenwald, M. K., Lundahl, L. H., Steinmiller, C. L. (December 2010). ["Sustained Release d-Amphetamine Reduces Cocaine but not 'Speedball'-Seeking in Buprenorphine-Maintained Volunteers: A Test of Dual-Agonist Pharmacotherapy for Cocaine/Heroin Polydrug Abusers"](http://www.nature.com/articles/npp2010175). *Neuropsychopharmacology*. **35** (13): 2624–2637. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/npp.2010.175](//doi.org/10.1038%2Fnpp.2010.175). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0893-133X](//www.worldcat.org/issn/0893-133X). 
 7. ↑ Siciliano, C. A., Saha, K., Calipari, E. S., Fordahl, S. C., Chen, R., Khoshbouei, H., Jones, S. R. (10 January 2018). ["Amphetamine Reverses Escalated Cocaine Intake via Restoration of Dopamine Transporter Conformation"](https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.2604-17.2017). *The Journal of Neuroscience*. **38** (2): 484–497. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1523/JNEUROSCI.2604-17.2017](//doi.org/10.1523%2FJNEUROSCI.2604-17.2017). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0270-6474](//www.worldcat.org/issn/0270-6474). 

@@ -194,7 +194,7 @@ SSRIs 还会导致 cAMP（环磷酸腺苷）、BDNF（脑源性神经营养因�
 
 1. ↑ <http://pi.lilly.com/us/prozac.pdf> page 20
 2. ↑ [*Do Antidepressants Work Right Away?*](https://psychcentral.com/depression/how-long-do-antidepressants-take-to-work), 2021 
-3. ↑ Kolb, B., Whishaw, I. Q. (2005). *An introduction to brain and behavior* (2nd ed ed.). Worth Publishers. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780716711872](http://en.wikipedia.org/wiki/Special:BookSources/9780716711872). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+3. ↑ Kolb, B., Whishaw, I. Q. (2005). *An introduction to brain and behavior* (2nd ed ed.). Worth Publishers. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780716711872](http://en.wikipedia.org/wiki/Special:BookSources/9780716711872).
 4. ↑ Pharmacovigilance Risk Assessment Committee (PRAC) (11 June 2019). ["New product information wording – Extracts from PRAC recommendations on signals"](https://www.ema.europa.eu/en/documents/other/new-product-information-wording-extracts-prac-recommendations-signals-adopted-13-16-may-2019-prac_en.pdf#page=2) (PDF). European Medicines Agency. EMA/PRAC/265221/2019. 
 5. ↑ <https://www.med.unc.edu/ibs/files/2017/10/IBS-and-Antidepressants.pdf>
 6. ↑ Barnhart, WJ; Makela, EH; Latocha, MJ (May 2004). "SSRI-induced apathy syndrome: a clinical review". *Journal of psychiatric practice*. **10** (3): 196–9. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/00131746-200405000-00010](//doi.org/10.1097%2F00131746-200405000-00010). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [15330228](//www.ncbi.nlm.nih.gov/pubmed/15330228). 

@@ -154,7 +154,7 @@ _**免责声明：** 下下列出的效应引用了[***主观效应索引***](/�
 
 ### 体验报告
 
-目前我们的[体验索引](/报告/psychounautwiki/index.md)中没有描述该化合物效应的轶事报告。更多的体验报告可以在这里找到：
+目前我们的[体验索引](https://psychonautwiki.org/wiki/index)中没有描述该化合物效应的轶事报告。更多的体验报告可以在这里找到：
 
 *   [Erowid Experience Vaults: 5-MeO-DiPT](https://erowid.org/experiences/subs/exp_5MeODiPT.shtml)
 

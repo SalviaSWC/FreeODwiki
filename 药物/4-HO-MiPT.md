@@ -206,10 +206,10 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/药效/ind
 
 目前我们的[体验报告索引](/文档/复现索引.md)中有描述该化合物效应的轶事报告。
 
-*   [体验报告:30mg 4-HO-MiPT - Positively groovy](/报告/psychounautwiki/Experience:30mg_4-HO-MiPT_-_Positively_groovy.md)
-*   [体验报告:4-HO-MiPT (~10mg) - Very Promising Material](/报告/psychounautwiki/Experience:4-HO-MiPT_(~10mg)_-_Very_Promising_Material.md)
-*   [体验报告:4-HO-MiPT / A care free psychedelic getaway](/报告/psychounautwiki/Experience:4-HO-MiPT_/_A_care_free_psychedelic_getaway.md)
-*   [体验报告:4-HO-MiPT/ Treating lifelong insomnia](/报告/psychounautwiki/Experience:4-HO-MiPT/_Treating_lifelong_insomnia.md)
+*   [体验报告:30mg 4-HO-MiPT - Positively groovy](https://psychonautwiki.org/wiki/Experience:30mg_4-HO-MiPT_-_Positively_groovy)
+*   [体验报告:4-HO-MiPT (~10mg) - Very Promising Material](https://psychonautwiki.org/wiki/Experience:4-HO-MiPT_%28~10mg%29_-_Very_Promising_Material)
+*   [体验报告:4-HO-MiPT / A care free psychedelic getaway](https://psychonautwiki.org/wiki/Experience:4-HO-MiPT_/_A_care_free_psychedelic_getaway)
+*   [体验报告:4-HO-MiPT/ Treating lifelong insomnia](https://psychonautwiki.org/wiki/Experience:4-HO-MiPT/_Treating_lifelong_insomnia)
 
 更多体验报告可以在这里找到：
 

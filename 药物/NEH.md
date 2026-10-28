@@ -216,7 +216,7 @@ NEH 的药后下滑通常被描述为比 [MDMA](/药物/MDMA.md) 或 [甲基苯�
 
 在我们的[体验索引](体验索引)中，描述该化合物效应的轶事性报告包括：
 
-* [Experience:22mg N-Ethylhexedrone (Hexen) - A (Somewhat) Functional Stimulant at Low Doses](/报告/psychounautwiki/Experience:22mg_N-Ethylhexedrone_%28Hexen%29_-_A_%28Somewhat%29_Functional_Stimulant_at_Low_Doses)
+* [Experience:22mg N-Ethylhexedrone (Hexen) - A (Somewhat) Functional Stimulant at Low Doses](https://psychonautwiki.org/wiki/Experience:22mg_N-Ethylhexedrone_%28Hexen%29_-_A_%28Somewhat%29_Functional_Stimulant_at_Low_Doses)
 
 更多体验报告可见这里：
 

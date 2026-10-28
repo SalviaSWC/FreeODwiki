@@ -162,7 +162,7 @@ _**免责声明：** 下面列出的效应引用了[**主观效应索引**](/药
 
 目前我们的[体验索引](/药效/index.md)中有 1 篇描述该物质效果的体验报告。你也可以通过同样的链接提交你自己的体验报告哦。
 
-* [2955mg 2-Methylmethcathinone + 276mg Diacetylmorphine - Stimulant psychosis ego death nightmare](/报告/psychounautwiki/Experience:2955mg_2-Methylmethcathinone_+_276mg_Diacetylmorphine_-_Stimulant_psychosis_ego_death_nightmare)
+* [2955mg 2-Methylmethcathinone + 276mg Diacetylmorphine - Stimulant psychosis ego death nightmare](https://psychonautwiki.org/wiki/Experience:2955mg_2-Methylmethcathinone_+_276mg_Diacetylmorphine_-_Stimulant_psychosis_ego_death_nightmare)
 
 更多的体验报告可以在这里找到：
 

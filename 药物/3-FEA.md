@@ -172,7 +172,7 @@ _**免责声明：** 下面列出的效应引用自[***主观效应索引***](/�
 
 在我们的[体验索引](/文档/复现索引.md)中，描述该化合物效应的匿名报告包括：
 
-* [体验：3-FEA 短报](报告/psychounautwiki/3-FEA_-_Short_Report)
+* [体验：3-FEA 短报](https://psychonautwiki.org/wiki/3-FEA_-_Short_Report)
 
 更多的体验报告可以在这里找到：
 

@@ -230,13 +230,13 @@ _**免责声明：** 下列效应引用自 [***主观效应索引***](/药效/in
 
 ### 体验报告
 
-描述该化合物在我们的[体验索引](/报告/psychounautwiki/Experience_index)中的效果的轶事报告包括：
+描述该化合物在我们的[体验索引](https://psychonautwiki.org/wiki/Experience_index)中的效果的轶事报告包括：
 
-* [体验:17mg 3-MeO-PCP & 大麻油 - 可怕的困惑](/报告/psychounautwiki/Experience:17mg_3-MeO-PCP_%26_Cannabis_oil_-_Terrifying_confusion)
-* [体验:25mg 3-MeO-PCP - 增强的电影体验](/报告/psychounautwiki/Experience:25mg_3-MeO-PCP_-_Enhanced_film_experience)
-* [体验:3-MeO-PCP - 极度精神病](/报告/psychounautwiki/Experience:3-MeO-PCP_-_Extreme_psychosis)
-* [体验:3-MeO-PCP 14mg 口服 - 一个寒冷愉快的夜晚](/报告/psychounautwiki/Experience:3-MeO-PCP_14mg_Oral_-_A_chill_enjoyable_evening)
-* [体验:3-MeO-PCP, LSD, 氯硝唑仑, 和苯丙胺 - 过量和过度的困惑](/报告/psychounautwiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion)
+* [体验:17mg 3-MeO-PCP & 大麻油 - 可怕的困惑](https://psychonautwiki.org/wiki/Experience:17mg_3-MeO-PCP_%26_Cannabis_oil_-_Terrifying_confusion)
+* [体验:25mg 3-MeO-PCP - 增强的电影体验](https://psychonautwiki.org/wiki/Experience:25mg_3-MeO-PCP_-_Enhanced_film_experience)
+* [体验:3-MeO-PCP - 极度精神病](https://psychonautwiki.org/wiki/Experience:3-MeO-PCP_-_Extreme_psychosis)
+* [体验:3-MeO-PCP 14mg 口服 - 一个寒冷愉快的夜晚](https://psychonautwiki.org/wiki/Experience:3-MeO-PCP_14mg_Oral_-_A_chill_enjoyable_evening)
+* [体验:3-MeO-PCP, LSD, 氯硝唑仑, 和苯丙胺 - 过量和过度的困惑](https://psychonautwiki.org/wiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion)
 
 
 更多的体验报告可以在这里找到：

@@ -207,8 +207,8 @@ _**免责声明：** 下列列出的效果引用自[***主观效应索引***](/�
 
 描述这种化合物在我们的[体验索引](/文档/科学信息索引页.md)中的效果的轶事报告包括：
 
-*   [报告/psychounautwiki/Experience:120mg/170mg_4-FA_-_Substance_Overview](报告/psychounautwiki/Experience:120mg/170mg_4-FA_-_Substance_Overview)
-*   [报告/psychounautwiki/Experience:500mg_4-FA_%2B_150mg_5-HTP_-_Irresponsible_%26_unexpected_psychedelic](报告/psychounautwiki/Experience:500mg_4-FA_%2B_150mg_5-HTP_-_Irresponsible_%26_unexpected_psychedelic)
+*   [报告/psychounautwiki/Experience:120mg/170mg_4-FA_-_Substance_Overview](https://psychonautwiki.org/wiki/Experience:120mg/170mg_4-FA_-_Substance_Overview)
+*   [报告/psychounautwiki/Experience:500mg_4-FA_%2B_150mg_5-HTP_-_Irresponsible_%26_unexpected_psychedelic](https://psychonautwiki.org/wiki/Experience:500mg_4-FA_%2B_150mg_5-HTP_-_Irresponsible_%26_unexpected_psychedelic)
 
 其他的体验报告可以在这里找到哦：
 

@@ -121,8 +121,8 @@ _**免责声明哦：** 下列效应引用自 [***主观效应索引***](/药效
 
 在我们的[体验索引](/文档/复现索引.md)中，描述该化合物效应的轶事报告包括：
 
-*   [Experience: 80mg EPT - Bummer](/报告/psychounautwiki/Experience:_80mg_EPT_-_Bummer.md)
-*   [Experience: 80mg EPT - Slight improvement](/报告/psychounautwiki/Experience:_80mg_EPT_-_Slight_improvement.md)
+*   [Experience: 80mg EPT - Bummer](https://psychonautwiki.org/wiki/Experience:_80mg_EPT_-_Bummer)
+*   [Experience: 80mg EPT - Slight improvement](https://psychonautwiki.org/wiki/Experience:_80mg_EPT_-_Slight_improvement)
 
 其他的体验报告可以在这里找到哦：
 

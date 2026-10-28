@@ -175,7 +175,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 ### 体验报告
 
-目前在我们的[体验索引](/报告/psychounautwiki/Experience_index.md)中没有描述此物质效应的体验报告。
+目前在我们的[体验索引](https://psychonautwiki.org/wiki/Experience_index)中没有描述此物质效应的体验报告。
 
 可以在这里找到额外的体验报告：
 

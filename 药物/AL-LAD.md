@@ -40,7 +40,7 @@
 
 **6-烯丙基-6-去甲基麦角酸二乙酰胺**（也被称为 **N-allyl-nor-lysergic acid N,N-diethylamide**，**N-allyl-nor-LSD**，或者通常简称为 **AL-LAD**）是一种[麦角酸酰胺类物质](/文档/药物分类/麦角酸酰胺类物质.md)的新型[迷幻剂](/文档/药物分类/迷幻剂.md)喵。AL-LAD 在化学上与 [LSD](/药物/LSD.md) 相似，并且具有类似的起效机理，主要是通过结合大脑中的[血清素](/文档/血清素.md)受体来发挥作用的哦。
 
-AL-LAD 最初是在 1984 年由 Andrew J. Hoffman 和 [大卫·尼科尔斯](/wiki/David_Nichols) 作为一系列 LSD 类似物研究的一部分被调查的，这一系列还包括了 [ETH-LAD](/药物/ETH-LAD.md) 和 [PRO-LAD](/药物/PRO-LAD.md) 呢。它在人类身上的活性后来由亚历山大·舒尔金在他的著作 [TiHKAL](/文档/舒尔金评级量表.md)（“我所认识和爱过的色胺”）中进行了记录，书中将其描述为“一大系列去甲基 LSD 类似物中几种非常强效的化合物之一”喵。2013 年，AL-LAD 开始在[研究用化学品](/文档/研究用化学品.md)市场上出售，通常与 [1P-LSD](/药物/1P-LSD.md)、[ALD-52](/药物/ALD-52.md) 和 [ETH-LAD](/药物/ETH-LAD.md) 等麦角酸酰胺类物质一起被销售，作为 LSD 的合法灰色市场替代品呢。
+AL-LAD 最初是在 1984 年由 Andrew J. Hoffman 和 大卫·尼科尔斯 作为一系列 LSD 类似物研究的一部分被调查的，这一系列还包括了 [ETH-LAD](/药物/ETH-LAD.md) 和 [PRO-LAD](/药物/PRO-LAD.md) 呢。它在人类身上的活性后来由亚历山大·舒尔金在他的著作 [TiHKAL](/文档/舒尔金评级量表.md)（“我所认识和爱过的色胺”）中进行了记录，书中将其描述为“一大系列去甲基 LSD 类似物中几种非常强效的化合物之一”喵。2013 年，AL-LAD 开始在[研究用化学品](/文档/研究用化学品.md)市场上出售，通常与 [1P-LSD](/药物/1P-LSD.md)、[ALD-52](/药物/ALD-52.md) 和 [ETH-LAD](/药物/ETH-LAD.md) 等麦角酸酰胺类物质一起被销售，作为 LSD 的合法灰色市场替代品呢。
 
 用户报告描述 AL-LAD 的效果与 LSD 相似，但有一些细微的差别喵。它被认为与 [LSD](/药物/LSD.md) 本身的效力相当或略低，报告的有效剂量在 75 到 150 微克之间。它通常被描述为更偏向于视觉效果，而内省的思维空间较少哦。它的持续时间也稍微短一些，通常被认为是比 LSD 更不容易引起[焦虑](/药效/焦虑.md)和挑战性的版本呢。
 
@@ -184,9 +184,9 @@ AL-LAD 能够产生全方位的低级和高级幻觉状态，其方式不如许�
 
 目前我们的[体验索引](/文档/复现索引.md)中有 3 篇描述该化合物效果的轶事报告喵。
 
-* [150mcg AL-LAD: First trip, intense Visuals and Good Vibes](/报告/psychonautwiki/Experience:150mcg_AL-LAD:_First_trip,_intense_Visuals_and_Good_Vibes)
-* [300µg AL-LAD - Don't worry, because you're everyone!](/报告/psychonautwiki/Experience:300%C2%B5g_AL-LAD_-_Don%27t_worry,_because_you%27re_everyone!)
-* [AL-LAD - Microdose out of depression](/报告/psychonautwiki/Experience:AL-LAD_-_Microdose_out_of_depression)
+* [150mcg AL-LAD: First trip, intense Visuals and Good Vibes](https://psychonautwiki.org/wiki/Experience:150mcg_AL-LAD:_First_trip,_intense_Visuals_and_Good_Vibes)
+* [300µg AL-LAD - Don't worry, because you're everyone!](https://psychonautwiki.org/wiki/Experience:300%C2%B5g_AL-LAD_-_Don%27t_worry,_because_you%27re_everyone!)
+* [AL-LAD - Microdose out of depression](https://psychonautwiki.org/wiki/Experience:AL-LAD_-_Microdose_out_of_depression)
 
 更多的体验报告可以在这里找到：
 

@@ -151,8 +151,8 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/药效/ind
 
 描述该化合物效应的轶事报告可以在我们的[体验索引](/文档/复现索引.md)中找到，包括：
 
-* [体验：4-HO-MPT (~130mg，口服) - 令人困惑且被低估的迷幻剂](/报告/psychounautwiki/Experience:4-HO-MPT_(~130mg,_oral)_-_Confusing_and_underrated_psychedelic)
-* [体验：40 mg 4-HO-MPT - 平淡无奇的体验](/报告/psychounautwiki/Experience:40_mg_4-HO-MPT_-_Underwhelming_Experience)
+* [体验：4-HO-MPT (~130mg，口服) - 令人困惑且被低估的迷幻剂](https://psychonautwiki.org/wiki/Experience:4-HO-MPT_%28~130mg,_oral%29_-_Confusing_and_underrated_psychedelic)
+* [体验：40 mg 4-HO-MPT - 平淡无奇的体验](https://psychonautwiki.org/wiki/Experience:40_mg_4-HO-MPT_-_Underwhelming_Experience)
 
 
 更多的体验报告可以在这里找到哦：
@@ -225,7 +225,7 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/药效/ind
 ----------
 
 <!-- 参考文献保持原文格式，不进行过度翻译，仅保留链接 -->
-1. ↑ [Shulgin, Alexander](/wiki/Alexander_Shulgin); Shulgin, Ann (1997). ["#23. 4-HO-MPT"](https://erowid.org/library/books_online/tihkal/tihkal23.shtml). *[TiHKAL: The Continuation](/wiki/TiHKAL)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
+1. ↑ Shulgin, Alexander; Shulgin, Ann (1997). ["#23. 4-HO-MPT"](https://erowid.org/library/books_online/tihkal/tihkal23.shtml). *[TiHKAL: The Continuation](/文档/TiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
 2. ↑ <https://www.erowid.org/library/books_online/tihkal/tihkal23.shtml>
 3. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
 4. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.

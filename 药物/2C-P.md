@@ -180,7 +180,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 描述这种化合物效果的轶事报告在我们的 [体验报告索引](/文档/关于本站/index.md) 中包括：
 
-* [报告/psychounautwiki/Experience:2C-P_(approx._35mg)_-_Asymmetrical_Terror_and_the_Geometric_Sea](报告/psychounautwiki/Experience:2C-P_(approx._35mg)_-_Asymmetrical_Terror_and_the_Geometric_Sea)
+* [报告/psychounautwiki/Experience:2C-P_(approx._35mg)_-_Asymmetrical_Terror_and_the_Geometric_Sea](https://psychonautwiki.org/wiki/Experience:2C-P_%28approx._35mg%29_-_Asymmetrical_Terror_and_the_Geometric_Sea)
 
 其他的体验报告可以在这里找到：
 

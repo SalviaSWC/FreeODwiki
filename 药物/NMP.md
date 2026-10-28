@@ -159,9 +159,9 @@ _**免责声明：** 下列效应引自[***主观效应索引***](/药效/主观
 
 ### 体验报告
 
-在我们的[体验报告索引](/报告/psychounautwiki/)中，描述该化合物效应的轶事报告包括：
+在我们的[体验报告索引](https://psychonautwiki.org/wiki/Experience_index)中，描述该化合物效应的轶事报告包括：
 
-* [Experience:A combination of DOC, 5-MAPB, 5-MeO-DMT, ETH-LAD, Cannabis, Pentedrone](/报告/psychounautwiki/A_combination_of_DOC,_5-MAPB,_5-MeO-DMT,_ETH-LAD,_Cannabis,_Pentedrone)
+* [Experience:A combination of DOC, 5-MAPB, 5-MeO-DMT, ETH-LAD, Cannabis, Pentedrone](https://psychonautwiki.org/wiki/A_combination_of_DOC,_5-MAPB,_5-MeO-DMT,_ETH-LAD,_Cannabis,_Pentedrone)
 
 更多体验报告可在此查看：
 

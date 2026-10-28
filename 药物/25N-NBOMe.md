@@ -177,7 +177,7 @@
 *   **[统一感与互联感](/药效/统一感与互联感.md)**
 
 ### 体验报告
-目前在我们的[体验索引](/报告/psychounautwiki/index.md)中还没有描述该化合物效应的轶事报告呢。更多的体验报告可以在这里找到：
+目前在我们的[体验索引](https://psychonautwiki.org/wiki/index)中还没有描述该化合物效应的轶事报告呢。更多的体验报告可以在这里找到：
 
 *   [Erowid Experience Vaults: 25N-NBOMe](https://www.erowid.org/experiences/subs/exp_25NNBOMe.shtml)
 

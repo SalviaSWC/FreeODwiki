@@ -165,7 +165,7 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 
 ### 体验报告
 
-目前我们的[体验报告索引](/报告/psychounautwiki/index.md)中没有关于此物质的体验报告。
+目前我们的[体验报告索引](https://psychonautwiki.org/wiki/index)中没有关于此物质的体验报告。
 
 其他体验报告可以在这里找到：
 
@@ -283,7 +283,7 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 5.  ↑ 5.0 5.1 [*Clubbers are “turning to new legal high mephedrone”*](https://www.bbc.com/news/newsbeat-10004366), 2010
 6.  ↑ James, D., Adams, R. D., Spears, R., Cooper, G., Lupton, D. J., Thompson, J. P., Thomas, S. H. L., National Poisons Information Service (August 2011). "Clinical characteristics of mephedrone toxicity reported to the U.K. National Poisons Information Service". *Emergency medicine journal: EMJ*. **28** (8): 686–689. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1136/emj.2010.096636](//doi.org/10.1136%2Femj.2010.096636). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1472-0213](//www.worldcat.org/issn/1472-0213).
 7.  ↑ Fort, H. (2015), [*Does your child smell of cat wee? It could be meow meow*](http://www.mirror.co.uk/news/uk-news/symptoms-mephedrone-use-extreme-weight-5130803)
-8.  ↑ Nutt DJ, King LA, Phillips LD (November 2010). "Drug harms in the UK: a multicriteria decision analysis". *Lancet*. **376** (9752): 1558–1565. [CiteSeerX](http://en.wikipedia.org/wiki/CiteSeerX) [10.1.1.690.1283](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.1283) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0140-6736(10)61462-6](//doi.org/10.1016%2FS0140-6736%2810%2961462-6). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [21036393](//www.ncbi.nlm.nih.gov/pubmed/21036393). Unknown parameter `|s2cid=` ignored ([help](/w/index.php?title=Help:CS1_errors&action=edit&redlink=1))
+8.  ↑ Nutt DJ, King LA, Phillips LD (November 2010). "Drug harms in the UK: a multicriteria decision analysis". *Lancet*. **376** (9752): 1558–1565. [CiteSeerX](http://en.wikipedia.org/wiki/CiteSeerX) [10.1.1.690.1283](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.1283) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0140-6736(10)61462-6](//doi.org/10.1016%2FS0140-6736%2810%2961462-6). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [21036393](//www.ncbi.nlm.nih.gov/pubmed/21036393).
 9.  ↑ Winstock, A. R., Mitcheson, L. R., Deluca, P., Davey, Z., Corazza, O., Schifano, F. (January 2011). "Mephedrone, new kid for the chop?". *Addiction (Abingdon, England)*. **106** (1): 154–161. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1360-0443.2010.03130.x](//doi.org/10.1111%2Fj.1360-0443.2010.03130.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1360-0443](//www.worldcat.org/issn/1360-0443).
 10. ↑ Ghodse, H.; Corkery, J.; Ahmed, K.; Naidoo, V.; Oyefeso and, A.; Schifano, F. (July 2010). "Drug-related deaths in the UK: Annual Report 2010". International Centre for Drug Policy, St George's University of London. p. 77. Archived from the original (PDF) on 2010-01-02. Retrieved 2010-01-02.
 11. ↑ [*Man from Hove died after injecting mephedrone*](https://www.bbc.com/news/10176982), 2010, retrieved 9 June 2012

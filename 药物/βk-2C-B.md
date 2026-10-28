@@ -158,11 +158,11 @@
 
 ### 体验报告
 
-在本站的[体验报告索引](/报告/psychounautwiki/)中，描述该化合物效应的轶事性报告包括：
+在本站的[体验报告索引](https://psychonautwiki.org/wiki/Experience_index)中，描述该化合物效应的轶事性报告包括：
 
-* [Experience:120mg - Garden of The Gods](/报告/psychounautwiki/120mg_-_Garden_of_The_Gods.md)
-* [Experience:BK-2C-B - Various experiences](/报告/psychounautwiki/BK-2C-B_-_Various_experiences.md)
-* [Experience:~200mg BK-2C-B - Untitled](/报告/psychounautwiki/~200mg_BK-2C-B_-_Untitled.md)
+* [Experience:120mg - Garden of The Gods](https://psychonautwiki.org/wiki/120mg_-_Garden_of_The_Gods)
+* [Experience:BK-2C-B - Various experiences](https://psychonautwiki.org/wiki/BK-2C-B_-_Various_experiences)
+* [Experience:~200mg BK-2C-B - Untitled](https://psychonautwiki.org/wiki/~200mg_BK-2C-B_-_Untitled)
 
 更多体验报告可见：
 

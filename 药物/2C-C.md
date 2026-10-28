@@ -143,8 +143,8 @@ _**免责声明：** 下面列出的效应引用自 [**主观效应索引**](/�
 
 在本站的体验索引中描述该化合物效果的匿名报告包括：
 
-* [体验报告：2C-C - 多种剂量](/报告/psychounautwiki/2C-C_-_Various_Doses)
-* [体验报告：45mg 2cc & 45mg 4-aco-dmt - 自我死亡与孤独](/报告/psychounautwiki/45mg_2cc_%26_45mg_4-aco-dmt_-_Ego_death_and_loneliness)
+* [体验报告：2C-C - 多种剂量](https://psychonautwiki.org/wiki/2C-C_-_Various_Doses)
+* [体验报告：45mg 2cc & 45mg 4-aco-dmt - 自我死亡与孤独](https://psychonautwiki.org/wiki/45mg_2cc_%26_45mg_4-aco-dmt_-_Ego_death_and_loneliness)
 
 更多的体验报告可以在这里找到：
 

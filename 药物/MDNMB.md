@@ -145,7 +145,7 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 
 ### 体验报告
 
-目前在我们的[体验报告索引](/报告/psychounautwiki/)中，还没有描述这种化合物效应的轶事报告。更多体验报告可以在这里查看：
+目前在我们的[体验报告索引](https://psychonautwiki.org/wiki/Experience_index)中，还没有描述这种化合物效应的轶事报告。更多体验报告可以在这里查看：
 
 * [Erowid Experience Vaults: Butylone](https://www.erowid.org/experiences/subs/exp_bkMBDB.shtml)
 

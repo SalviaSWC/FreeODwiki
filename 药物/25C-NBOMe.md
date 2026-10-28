@@ -234,8 +234,8 @@ _**免责声明：**下列效应引自[***主观效应索引***](/药效/主观�
 
 本网站的[体验报告索引](/文档/复现索引.md)中，描述这种化合物效应的轶事报告包括：
 
-* [Experience:1mg 25c-NBOMe - Experiment in my room](/报告/psychounautwiki/Experience:1mg_25c-NBOMe_-_Experiment_in_my_room.md)
-* [Experience:2mg 25C-NBOMe - Experimental trip to test personal limits of NBOMes](/报告/psychounautwiki/Experience:2mg_25C-NBOMe_-_Experimental_trip_to_test_personal_limits_of_NBOMes.md)
+* [Experience:1mg 25c-NBOMe - Experiment in my room](https://psychonautwiki.org/wiki/Experience:1mg_25c-NBOMe_-_Experiment_in_my_room)
+* [Experience:2mg 25C-NBOMe - Experimental trip to test personal limits of NBOMes](https://psychonautwiki.org/wiki/Experience:2mg_25C-NBOMe_-_Experimental_trip_to_test_personal_limits_of_NBOMes)
 
 更多体验报告也可以在这里找到：
 

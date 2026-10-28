@@ -228,9 +228,9 @@ _**免责声明：**以下列出的效应引用自[***主观效应索引***](/�
 
 ### 体验报告
 
-描述该化合物在我们[体验索引](/报告/psychounautwiki/index.md)中的效果的轶事报告包括：
+描述该化合物在我们[体验索引](https://psychonautwiki.org/wiki/index)中的效果的轶事报告包括：
 
-*   [Experience:A combination of 25mg 4-AcO-DMT and unknown amount of 6-APB (benzofury)](/报告/psychounautwiki/Experience:A_combination_of_25mg_4-AcO-DMT_and_unknown_amount_of_6-APB_(benzofury).md)
+*   [Experience:A combination of 25mg 4-AcO-DMT and unknown amount of 6-APB (benzofury)](https://psychonautwiki.org/wiki/Experience:A_combination_of_25mg_4-AcO-DMT_and_unknown_amount_of_6-APB_%28benzofury%29)
 
 其他体验报告可以在这里找到：
 

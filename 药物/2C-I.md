@@ -190,9 +190,9 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 ### 体验报告
 
-描述该化合物在我们[体验索引](/报告/psychounautwiki/Experience_index)中的效果的轶事报告包括：
+描述该化合物在我们[体验索引](https://psychonautwiki.org/wiki/Experience_index)中的效果的轶事报告包括：
 
-* [体验：18 mg 2C-I - 视觉强烈且有强烈的躯体感觉](/报告/psychounautwiki/Experience:_18_mg_2C-I_-_Visually_intense_and_strong_bodily_sensations)
+* [体验：18 mg 2C-I - 视觉强烈且有强烈的躯体感觉](https://psychonautwiki.org/wiki/Experience:_18_mg_2C-I_-_Visually_intense_and_strong_bodily_sensations)
 
 
 可以在这里找到更多的体验报告：

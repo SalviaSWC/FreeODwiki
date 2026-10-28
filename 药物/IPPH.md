@@ -47,7 +47,7 @@ description:
 | [药效上升](/文档/药效时长.md) | 10 - 30 分钟 |
 | [药效达峰](/文档/药效时长.md) | 1 - 2 小时 |
 | [药效褪去](/文档/药效时长.md) | 1 - 1.5 小时 |
-| **[免责声明](/wiki/Disclaimer):** 本站的[给药剂量](/文档/给药剂量.md)信息仅供教育目的，收集自用户和[资源](/wiki/Network)。这不是推荐，请务必与其他来源核实准确性。 |  |
+| **[免责声明](/关于本站/免责声明.md):** 本站的[给药剂量](/文档/给药剂量.md)信息仅供教育目的，收集自用户和资源。这不是推荐，请务必与其他来源核实准确性。 |  |
 | 药物联用 | |
 | 酒精 | |
 | MXE | |
@@ -103,7 +103,7 @@ description:
 
 ## 主观效应
 
-_**免责声明：** 下列效应引用自[***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/wiki/PsychonautWiki) [贡献者](/wiki/Special:TopUsers)个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待这些内容。_
+_**免责声明：** 下列效应引用自[***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 PsychonautWiki 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待这些内容。_
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更容易引发全方位的效应。同样，**不良反应**随着剂量的增加变得越来越可能出现，可能包括**成瘾、严重伤害或死亡** ☠。*
 
@@ -153,10 +153,10 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 ### 体验报告
 
-目前我们的[体验报告](/报告/psychounautwiki/Experience_index.md)中有一些描述该化合物效应的轶事报告。
+目前我们的[体验报告](https://psychonautwiki.org/wiki/Experience_index)中有一些描述该化合物效应的轶事报告。
 
-* [体验报告:30mg Isopropylphenidate - IPPH As A Study Aid](/报告/psychounautwiki/Experience:30mg_Isopropylphenidate_-_IPPH_As_A_Study_Aid.md)
-* [体验报告:37mg Isopropylphenidate - Getting Shit Done With Isopropylphenidate](/报告/psychounautwiki/Experience:37mg_Isopropylphenidate_-_Getting_Shit_Done_With_Isopropylphenidate.md)
+* [体验报告:30mg Isopropylphenidate - IPPH As A Study Aid](https://psychonautwiki.org/wiki/Experience:30mg_Isopropylphenidate_-_IPPH_As_A_Study_Aid)
+* [体验报告:37mg Isopropylphenidate - Getting Shit Done With Isopropylphenidate](https://psychonautwiki.org/wiki/Experience:37mg_Isopropylphenidate_-_Getting_Shit_Done_With_Isopropylphenidate)
 
 更多的体验报告可以在这里找到：
 
@@ -199,7 +199,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 ## 法律地位
 
-| ![Handcuffs-300px.png](https://psychonautwiki.org/w/thumb.php?f=Handcuffs-300px.png&width=80) | **本法律部分是一个[存根](/wiki/Stub)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](https://psychonautwiki.org/w/index.php?title=Isopropylphenidate&action=edit)来提供帮助喵。* |
+| ![Handcuffs-300px.png](https://psychonautwiki.org/w/thumb.php?f=Handcuffs-300px.png&width=80) | **本法律部分是一个存根。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](https://psychonautwiki.org/w/index.php?title=Isopropylphenidate&action=edit)来提供帮助喵。* |
 | --- | --- |
 
 * **德国**：截至 2016 年 11 月 26 日，异丙基哌醋甲酯受 NpSG（*新精神活性物质法*）管制。\[10\]\[11\] 以将其投放市场为目的的生产和进口、对他人的管理以及交易都是受惩罚的。持有是非法的，但不会受到惩罚。\[12\]
@@ -234,7 +234,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 4. ↑ Portoghese, P. S., Malspeis, L. (June 1961). ["Relative Hydrolytic Rates of Certain Alkyl (b) dl-α-(2-Piperidyl)-phenylacetates"](https://linkinghub.elsevier.com/retrieve/pii/S0022354915331865). *Journal of Pharmaceutical Sciences*. **50** (6): 494–501. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/jps.2600500611](//doi.org/10.1002%2Fjps.2600500611). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3549](//www.worldcat.org/issn/0022-3549).
 5. ↑ Kimko, H. C., Cross, J. T., Abernethy, D. R. (1999). ["Pharmacokinetics and Clinical Effectiveness of Methylphenidate:"](http://link.springer.com/10.2165/00003088-199937060-00002). *Clinical Pharmacokinetics*. **37** (6): 457–470. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2165/00003088-199937060-00002](//doi.org/10.2165%2F00003088-199937060-00002). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0312-5963](//www.worldcat.org/issn/0312-5963).
 6. ↑ 6.0 6.1 6.2 Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858).
-7. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+7. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563).
 8. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
 9. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
 10. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 24, 2019.

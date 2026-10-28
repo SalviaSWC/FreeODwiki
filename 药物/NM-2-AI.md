@@ -95,9 +95,9 @@ _**免责声明：** 下面列出的效应引用自 [***主观效应索引***](/
 
 ### 体验报告
 
-我们[体验报告索引](/报告/psychounautwiki/index.md)中描述该化合物效应的轶事报告包括：
+我们[体验报告索引](https://psychonautwiki.org/wiki/index)中描述该化合物效应的轶事报告包括：
 
-* [体验：NM-2-AI (各种剂量) - 简要描述](/报告/psychounautwiki/Experience:NM-2-AI_(Various_Dosages)_-_Brief_Description)
+* [体验：NM-2-AI (各种剂量) - 简要描述](https://psychonautwiki.org/wiki/Experience:NM-2-AI_%28Various_Dosages%29_-_Brief_Description)
 
 ## 毒性和伤害潜力
 

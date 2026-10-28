@@ -160,8 +160,8 @@ _**免责声明：** 下方列出的效应引用自[***主观效应索引***](/�
 
 描述这种化合物效应的轶事性报告，在我们的体验索引中包括：
 
-* [Experience:3-MeO-PCP, LSD, Clonazolam, and Amphetamine - Excessive Amounts and Excessive Confusion](/报告/psychounautwiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion.md)
-* [Experience:A combination of DOC, 5-MAPB, 5-MeO-DMT, ETH-LAD, Cannabis, Pentedrone](/报告/psychounautwiki/Experience:A_combination_of_DOC,_5-MAPB,_5-MeO-DMT,_ETH-LAD,_Cannabis,_Pentedrone.md)
+* [Experience:3-MeO-PCP, LSD, Clonazolam, and Amphetamine - Excessive Amounts and Excessive Confusion](https://psychonautwiki.org/wiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion)
+* [Experience:A combination of DOC, 5-MAPB, 5-MeO-DMT, ETH-LAD, Cannabis, Pentedrone](https://psychonautwiki.org/wiki/Experience:A_combination_of_DOC,_5-MAPB,_5-MeO-DMT,_ETH-LAD,_Cannabis,_Pentedrone)
 
 还可以在这里找到更多体验报告：
 

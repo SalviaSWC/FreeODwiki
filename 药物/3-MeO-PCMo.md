@@ -145,7 +145,7 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/药效/ind
 
 描述该化合物效应的轶事报告包括：
 
-*   [体验报告:3-MEO-PCMo (420mg) - Trip Report](/报告/psychounautwiki/Experience:3-MEO-PCMo_(420mg)_-_Trip_Report.md)
+*   [体验报告:3-MEO-PCMo (420mg) - Trip Report](https://psychonautwiki.org/wiki/Experience:3-MEO-PCMo_%28420mg%29_-_Trip_Report)
 
 更多体验报告可以在这里找到：
 

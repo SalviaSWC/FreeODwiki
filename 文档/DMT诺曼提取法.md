@@ -106,6 +106,6 @@
 
 **参考文献**
 
-[Salem](/wiki/User:Salem) ([talk](/wiki/User_talk:Salem)) 13:59, 12 January 2015 (UTC)  
+Salem (talk) 13:59, 12 January 2015 (UTC)  
 <http://www.entheogenreview.com/Resources/DMT.pdf>
 

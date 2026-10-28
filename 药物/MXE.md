@@ -186,8 +186,8 @@ MXE 的一般精神空间通常被描述为比[右美沙芬](/药物/右美沙�
 
 描述该化合物效应的轶事报告包括：
 
-*   [Experience: 40mg 5-MeO-DMT (oral) + 40mg MXE (oral) - Untitled](/报告/psychounautwiki/Experience:_40mg_5-MeO-DMT_(oral)_%2B_40mg_MXE_(oral)_-_Untitled)
-*   [Experience:MXE: 37.5 mg - Calm and Cloudy Bliss](/报告/psychounautwiki/Experience:MXE:_37.5_mg_-_Calm_and_Cloudy_Bliss)
+*   [Experience: 40mg 5-MeO-DMT (oral) + 40mg MXE (oral) - Untitled](https://psychonautwiki.org/wiki/Experience:_40mg_5-MeO-DMT_%28oral%29_%2B_40mg_MXE_%28oral%29_-_Untitled)
+*   [Experience:MXE: 37.5 mg - Calm and Cloudy Bliss](https://psychonautwiki.org/wiki/Experience:MXE:_37.5_mg_-_Calm_and_Cloudy_Bliss)
 
 其他体验报告可以在这里找到：
 

@@ -40,7 +40,7 @@ description:
 | [药效时长](/文档/药效时长.md) |  |
 | [总时长](/文档/药效时长.md) | 2 - 6 小时 |
 | [药效发作](/文档/药效时长.md) | 5 - 20 分钟 |
-| **[免责声明](/wiki/Disclaimer):** 本站的[给药剂量](/文档/给药剂量.md)信息仅供教育目的，收集自用户和[资源](/wiki/Network)。这不是推荐，请务必与其他来源核实准确性。 |  |
+| **[免责声明](/关于本站/免责声明.md):** 本站的[给药剂量](/文档/给药剂量.md)信息仅供教育目的，收集自用户和资源。这不是推荐，请务必与其他来源核实准确性。 |  |
 | 药物联用 | |
 | 酒精 | |
 | MXE | |
@@ -102,7 +102,7 @@ description:
 
 乙基哌醋甲酯的总体精神状态被许多人描述为极度精神刺激、注意力集中和强烈的欣快感。它包含大量典型的[兴奋剂](/文档/药物分类/兴奋剂.md)认知效应。虽然副作用在低到中等剂量下通常很轻微，但在剂量较高或长期使用时，它们变得越来越可能显现出来。这点在体验的[药效褪去](/文档/药效时长.md)期间尤其明显。
 
-_**免责声明：** 下列效应引用自[***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/wiki/PsychonautWiki) [贡献者](/wiki/Special:TopUsers)个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待这些内容。_
+_**免责声明：** 下列效应引用自[***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 PsychonautWiki 贡献者个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待这些内容。_
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更容易引发全方位的效应。同样，**不良反应**随着剂量的增加变得越来越可能出现，可能包括**成瘾、严重伤害或死亡** ☠。*
 
@@ -143,10 +143,10 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 ### 体验报告
 
-目前我们的[体验报告](/报告/psychounautwiki/Experience_index.md)中有一些描述该化合物效应的轶事报告。
+目前我们的[体验报告](https://psychonautwiki.org/wiki/Experience_index)中有一些描述该化合物效应的轶事报告。
 
-* [体验报告:10mg EPH - Spontaneous Frank Hallucinations and General "Dirtyness"](/报告/psychounautwiki/Experience:10mg_EPH_-_Spontaneous_Frank_Hallucinations_and_General_%22Dirtyness%22.md)
-* [体验报告:A night with Ethylphenidate](/报告/psychounautwiki/Experience:A_night_with_Ethylphenidate.md)
+* [体验报告:10mg EPH - Spontaneous Frank Hallucinations and General "Dirtyness"](https://psychonautwiki.org/wiki/Experience:10mg_EPH_-_Spontaneous_Frank_Hallucinations_and_General_%22Dirtyness%22)
+* [体验报告:A night with Ethylphenidate](https://psychonautwiki.org/wiki/Experience:A_night_with_Ethylphenidate)
 
 更多的体验报告可以在这里找到：
 
@@ -239,7 +239,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 5. ↑ Markowitz, J. S., Logan, B. K., Diamond, F., Patrick, K. S. (August 1999). "Detection of the novel metabolite ethylphenidate after methylphenidate overdose with alcohol coingestion". *Journal of Clinical Psychopharmacology*. **19** (4): 362–366. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/00004714-199908000-00013](//doi.org/10.1097%2F00004714-199908000-00013). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0271-0749](//www.worldcat.org/issn/0271-0749).
 6. ↑ Bourland, J. A., Martin, D. K., Mayersohn, M. (December 1997). "Carboxylesterase-mediated transesterification of meperidine (Demerol) and methylphenidate (Ritalin) in the presence of [2H6]ethanol: preliminary in vitro findings using a rat liver preparation". *Journal of Pharmaceutical Sciences*. **86** (12): 1494–1496. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/js970072x](//doi.org/10.1021%2Fjs970072x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3549](//www.worldcat.org/issn/0022-3549).
 7. ↑ 7.0 7.1 7.2 Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858).
-8. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+8. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563).
 9. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
 10. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
 11. ↑ ["Order Amending Schedule III to the Controlled Drugs and Substances Act (Methylphenidate)"](http://web.archive.org/web/20170613002201/gazette.gc.ca/rp-pr/p2/2017/2017-04-05/html/sor-dors44-eng.php). Public Works and Government Services Canada. Archived from [the original](http://gazette.gc.ca/rp-pr/p2/2017/2017-04-05/html/sor-dors44-eng.php) on June 13, 2017. Retrieved December 24, 2019.

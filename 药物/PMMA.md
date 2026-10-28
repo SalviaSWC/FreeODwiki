@@ -122,7 +122,7 @@ _**免责声明：**以下列出的效应引用了[***主观效应索引***](/�
 
 ### 体验报告
 
-目前在我们的[体验索引](/报告/psychounautwiki/)中没有描述该化合物效应的轶事报告。其他的体验报告可以在这里找到：
+目前在我们的[体验索引](https://psychonautwiki.org/wiki/Experience_index)中没有描述该化合物效应的轶事报告。其他的体验报告可以在这里找到：
 
 *   [Erowid Experience Vaults: PMMA](https://www.erowid.org/experiences/subs/exp_PMMA.shtml)
 

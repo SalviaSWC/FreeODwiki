@@ -224,10 +224,10 @@ DPT 能够产生全方位的高级幻觉状态，其方式比除 [DMT](/药物/D
 
 描述该化合物效果的轶事报告包括：
 
-*   [体验：口服和鼻吸 DPT，增加剂量](/报告/psychounautwiki/Experience:_Oral_%26_Insufflated_DPT,_Running_up_the_Doses)
-*   [体验：10mg & 20mg 静脉注射 DPT HCl - 熟悉的形状，体验死亡，沉浸在光中](/报告/psychounautwiki/Experience:10mg_%26_20mg_Intravenous_DPT_HCl_-_Familiar_Shapes,_Experiencing_Death,_Immersed_in_The_Light)
-*   [体验：150mg DPT - 走进疯狂深处](/报告/psychounautwiki/Experience:150mg_DPT_-_A_Walk_Into_The_Depths_of_Insanity)
-*   [体验：75 mg - 好曲子 feat. Jeb Bush](/报告/psychounautwiki/Experience:75_mg_-_Good_tunes_feat._Jeb_Bush)
+*   [体验：口服和鼻吸 DPT，增加剂量](https://psychonautwiki.org/wiki/Experience:_Oral_%26_Insufflated_DPT,_Running_up_the_Doses)
+*   [体验：10mg & 20mg 静脉注射 DPT HCl - 熟悉的形状，体验死亡，沉浸在光中](https://psychonautwiki.org/wiki/Experience:10mg_%26_20mg_Intravenous_DPT_HCl_-_Familiar_Shapes,_Experiencing_Death,_Immersed_in_The_Light)
+*   [体验：150mg DPT - 走进疯狂深处](https://psychonautwiki.org/wiki/Experience:150mg_DPT_-_A_Walk_Into_The_Depths_of_Insanity)
+*   [体验：75 mg - 好曲子 feat. Jeb Bush](https://psychonautwiki.org/wiki/Experience:75_mg_-_Good_tunes_feat._Jeb_Bush)
 
 更多体验报告可以在这里找到：
 

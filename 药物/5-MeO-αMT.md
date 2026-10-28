@@ -154,7 +154,7 @@ _**免责声明：** 下面列出的效应引用了[**主观效应索引**](/药
 
 关于这种化合物的轶事报告可以在我们的体验索引中找到：
 
-* [报告/psychounautwiki/5-MeO-aMT](报告/psychounautwiki/5-MeO-aMT)
+* [报告/psychounautwiki/5-MeO-aMT](https://psychonautwiki.org/wiki/5-MeO-aMT)
 
 更多的体验报告可以在这里找到：
 

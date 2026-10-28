@@ -70,7 +70,7 @@ description:
 | [药效达峰](/文档/药效时长.md) | 2 - 3 小时 |
 | [药效褪去](/文档/药效时长.md) | 1 - 2 小时 |
 | [药效残余](/文档/药效时长.md) | 4 - 48 小时 |
-| - **[免责声明](/wiki/Disclaimer):** 本站的[剂量](/文档/给药剂量.md)信息仅供教育用途，收集自用户和[资源](/wiki/Network)。这不构成推荐，使用前请务必通过其他来源核实准确性哦。 | |
+| - **[免责声明](/关于本站/免责声明.md):** 本站的[剂量](/文档/给药剂量.md)信息仅供教育用途，收集自用户和资源。这不构成推荐，使用前请务必通过其他来源核实准确性哦。 | |
 | **相互作用** | |
 | 兴奋剂 | 💔 联用危险 |
 | 抑制剂 | 💔 联用危险 |
@@ -123,10 +123,10 @@ PCE 比 PCP 稍微强效一点，效果相似，但其令人不快的味道和�
 
 ## 主观效应
 
-| ![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png) | **这个主观效应部分是一个[小作品](/wiki/Stub)**。<br>*因此，它仍在进行中，可能包含不完整或错误的信息。*<br>*你可以通过[扩展或修正它](https://psychonautwiki.org/w/index.php?title=PCE&action=edit)来提供帮助哦。* |
+| ![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png) | **这个主观效应部分是一个小作品**。<br>*因此，它仍在进行中，可能包含不完整或错误的信息。*<br>*你可以通过[扩展或修正它](https://psychonautwiki.org/w/index.php?title=PCE&action=edit)来提供帮助哦。* |
 | --- | --- |
 
-_**免责声明：** 下列效应引用自 [***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/wiki/PsychonautWiki) [贡献者](/wiki/Special:TopUsers) 个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。_
+_**免责声明：** 下列效应引用自 [***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 PsychonautWiki 贡献者 个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。_
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能引发全方位的效应。同样，**不良反应**随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡** ☠。*
 
@@ -204,7 +204,7 @@ PCE 的总体精神状态通常被描述为与[右美沙芬](/药物/右美沙�
 
 ### 体验报告
 
-目前我们的[体验报告](/wiki/Experience_index)中没有描述这种化合物效应的轶事报告。其他的体验报告可以在这里找到：
+目前我们的[体验报告](https://psychonautwiki.org/wiki/Experience_index)中没有描述这种化合物效应的轶事报告。其他的体验报告可以在这里找到：
 
 *   [Erowid Experience Vaults: PCE](https://www.erowid.org/experiences/subs/exp_PCE.shtml)
 
@@ -264,7 +264,7 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 
 ## 法律地位
 
-| ![Handcuffs-300px.png](/文件/Handcuffs-300px.png) | **这个法律部分是一个[小作品](/wiki/Stub)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](https://psychonautwiki.org/w/index.php?title=PCE&action=edit)来提供帮助哦。* |
+| ![Handcuffs-300px.png](/文件/Handcuffs-300px.png) | **这个法律部分是一个小作品。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](https://psychonautwiki.org/w/index.php?title=PCE&action=edit)来提供帮助哦。* |
 | --- | --- |
 
 在国际上，PCE 是《精神药物公约》下的附表 I 物质。[17]
@@ -305,7 +305,7 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 4. ↑ PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
 5. ↑ 3-MeO-PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
 6. ↑ 6.0 6.1 Morris, H., Wallach, J. (August 2014). "From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs". *Drug Testing and Analysis*. **6** (7–8): 614–632. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1620](//doi.org/10.1002%2Fdta.1620). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7611](//www.worldcat.org/issn/1942-7611). 
-7. ↑ McKim, W. A. (2000). *Drugs and behavior: an introduction to behavioral pharmacology* (4th ed ed.). Prentice Hall. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780130831460](http://en.wikipedia.org/wiki/Special:BookSources/9780130831460). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+7. ↑ McKim, W. A. (2000). *Drugs and behavior: an introduction to behavioral pharmacology* (4th ed ed.). Prentice Hall. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780130831460](http://en.wikipedia.org/wiki/Special:BookSources/9780130831460).
 8. ↑ Kapur, S., Seeman, P. (September 2002). ["NMDA receptor antagonists ketamine and PCP have direct effects on the dopamine D2 and serotonin 5-HT2 receptors—implications for models of schizophrenia"](https://www.nature.com/articles/4001093). *Molecular Psychiatry*. **7** (8): 837–844. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/sj.mp.4001093](//doi.org/10.1038%2Fsj.mp.4001093). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-5578](//www.worldcat.org/issn/1476-5578). 
 9. ↑ Abuse, N. I. on D. (2019), [*Hallucinogens DrugFacts*](https://nida.nih.gov/publications/drugfacts/hallucinogens) 
 10. ↑ Kalir, A., Edery, H., Pelah, Z., Balderman, D., Porath, G. (May 1969). ["1-Phenylcycloalkylamine derivatives. II. Synthesis and pharmacological activity"](https://pubs.acs.org/doi/abs/10.1021/jm00303a030). *Journal of Medicinal Chemistry*. **12** (3): 473–477. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm00303a030](//doi.org/10.1021%2Fjm00303a030). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). 

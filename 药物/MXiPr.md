@@ -172,12 +172,12 @@ _**免责声明：** 下面列出的效应引用了[***主观效应索引***](/�
 
 ### 体验报告
 
-目前我们的[体验索引](/报告/psychounautwiki/index.md)中还没有描述该物质效应的体验报告喵。
+目前我们的[体验索引](https://psychonautwiki.org/wiki/index)中还没有描述该物质效应的体验报告喵。
 
 其他的体验报告可以在这里找到：
 
 *   [Erowid 体验库：MXiPr](https://www.erowid.org/experiences/subs/exp_MXiPr.shtml)
-*   [Reddit: MXiPr 在较高剂量肌肉注射时持续诱发癫痫](/报告/psychounautwiki/MXiPr_consistently_gives_seizures_at_higher_dosages_administered_IM)
+*   [Reddit: MXiPr 在较高剂量肌肉注射时持续诱发癫痫](https://psychonautwiki.org/wiki/MXiPr_consistently_gives_seizures_at_higher_dosages_administered_IM)
 
 ## 毒性与伤害潜力
 

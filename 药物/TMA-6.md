@@ -129,7 +129,7 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 本网站[体验索引](/文档/复现索引.md)中描述这一化合物效应的轶事报告包括：
 
-* [Experience:42 mg TMA-6: Pure Bliss](/报告/psychounautwiki/Experience:42_mg_TMA-6:_Pure_Bliss)
+* [Experience:42 mg TMA-6: Pure Bliss](https://psychonautwiki.org/wiki/Experience:42_mg_TMA-6:_Pure_Bliss)
 
 更多体验报告也可以在这里找到：
 

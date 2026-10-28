@@ -140,7 +140,7 @@ description:
 
 描述该化合物效果的轶事报告可以在我们的[体验索引](/关于本站/Experience_index.md)中找到：
 
-*   [Experience:5-Hydroxytryptophan (100mg, oral) - strong imagination](/报告/psychounautwiki/Experience:5-Hydroxytryptophan_(100mg,_oral)_-_strong_imagination)
+*   [Experience:5-Hydroxytryptophan (100mg, oral) - strong imagination](https://psychonautwiki.org/wiki/Experience:5-Hydroxytryptophan_%28100mg,_oral%29_-_strong_imagination)
 
 其他的体验报告可以在这里找到：
 

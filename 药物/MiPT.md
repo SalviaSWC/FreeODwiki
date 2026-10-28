@@ -124,7 +124,7 @@ _**免责声明哦：** 下列效应引用自 [***主观效应索引***](/药效
 
 在我们的[体验索引](/文档/复现索引.md)中，描述该化合物效应的轶事报告包括：
 
-*   [Experience:MiPT (15 mg, orally) - Something is missing](/报告/psychounautwiki/Experience:MiPT_(15_mg,_orally)_-_Something_is_missing.md)
+*   [Experience:MiPT (15 mg, orally) - Something is missing](https://psychonautwiki.org/wiki/Experience:MiPT_%2815_mg,_orally%29_-_Something_is_missing)
 
 其他的体验报告可以在这里找到哦：
 

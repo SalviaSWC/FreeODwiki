@@ -238,14 +238,14 @@ _**免责声明：** 下面列出的效应引用了 [***主观效应索引***](/
 
 描述该化合物在我们[体验索引](/文档/复现索引.md)中的效果的轶事报告包括：
 
-*   [报告/psychounautwiki/Experience: 15mg 4-HO-MET My First Trip](报告/psychounautwiki/Experience:_15mg_4-HO-MET_My_First_Trip.md)
-*   [报告/psychounautwiki/Experience:4-HO-MET (20mg, Oral) - Into a Galaxy of Persian Rugs](报告/psychounautwiki/Experience:4-HO-MET_(20mg,_Oral)_-_Into_a_Galaxy_of_Persian_Rugs.md)
-*   [报告/psychounautwiki/Experience:4-HO-MET (25mg, Oral)](报告/psychounautwiki/Experience:4-HO-MET_(25mg,_Oral).md)
-*   [报告/psychounautwiki/Experience:4-HO-MET (35mg, Oral)](报告/psychounautwiki/Experience:4-HO-MET_(35mg,_Oral).md)
-*   [报告/psychounautwiki/Experience:4-HO-MET 22mg oral](报告/psychounautwiki/Experience:4-HO-MET_22mg_oral.md)
-*   [报告/psychounautwiki/Experience:4-HO-MET – 15 mg Insufflated](报告/psychounautwiki/Experience:4-HO-MET_%E2%80%93_15_mg_Insufflated.md)
-*   [报告/psychounautwiki/Experience:Dosage Unknown 4-HO-MET (oral) - Very rapid acting, visual experience with lasting cognitive effects](报告/psychounautwiki/Experience:Dosage_Unknown_4-HO-MET_(oral)_-_Very_rapid_acting,_visual_experience_with_lasting_cognitive_effects.md)
-*   [报告/psychounautwiki/Experience:Zaleplon + 4-HO-MET - Untitled](报告/psychounautwiki/Experience:Zaleplon_%2B_4-HO-MET_-_Untitled.md)
+*   [报告/psychounautwiki/Experience: 15mg 4-HO-MET My First Trip](https://psychonautwiki.org/wiki/Experience:_15mg_4-HO-MET_My_First_Trip)
+*   [报告/psychounautwiki/Experience:4-HO-MET (20mg, Oral) - Into a Galaxy of Persian Rugs](https://psychonautwiki.org/wiki/Experience:4-HO-MET_%2820mg,_Oral%29_-_Into_a_Galaxy_of_Persian_Rugs)
+*   [报告/psychounautwiki/Experience:4-HO-MET (25mg, Oral)](https://psychonautwiki.org/wiki/Experience:4-HO-MET_%2825mg,_Oral%29)
+*   [报告/psychounautwiki/Experience:4-HO-MET (35mg, Oral)](https://psychonautwiki.org/wiki/Experience:4-HO-MET_%2835mg,_Oral%29)
+*   [报告/psychounautwiki/Experience:4-HO-MET 22mg oral](https://psychonautwiki.org/wiki/Experience:4-HO-MET_22mg_oral)
+*   [报告/psychounautwiki/Experience:4-HO-MET – 15 mg Insufflated](https://psychonautwiki.org/wiki/Experience:4-HO-MET_%E2%80%93_15_mg_Insufflated)
+*   [报告/psychounautwiki/Experience:Dosage Unknown 4-HO-MET (oral) - Very rapid acting, visual experience with lasting cognitive effects](https://psychonautwiki.org/wiki/Experience:Dosage_Unknown_4-HO-MET_%28oral%29_-_Very_rapid_acting,_visual_experience_with_lasting_cognitive_effects)
+*   [报告/psychounautwiki/Experience:Zaleplon + 4-HO-MET - Untitled](https://psychonautwiki.org/wiki/Experience:Zaleplon_%2B_4-HO-MET_-_Untitled)
 
 可以在这里找到更多的体验报告：
 

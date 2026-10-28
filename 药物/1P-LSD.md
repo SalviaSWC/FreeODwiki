@@ -214,19 +214,19 @@
 
 ### 体验报告
 
-描述此化合物在我们[体验索引](/报告/psychounautwiki/index.md)中效果的轶事报告包括：
+描述此化合物在我们[体验索引](https://psychonautwiki.org/wiki/index)中效果的轶事报告包括：
 
-*   [体验：1 tab 1P-LSD (口服) - 在森林中发现自己](/报告/psychounautwiki/Experience_1_tab_1P-LSD_(oral)_-_Finding_myself_within_the_forest.md)
-*   [体验：200µg 1P-LSD (舌下) + 12mg CBD - 同理心的漩涡](/报告/psychounautwiki/Experience_200µg_1P-LSD_(sublingual)_+_12mg_CBD_-_The_Vortex_of_Empathy.md)
-*   [体验：200μg 1P-LSD (口服) - 极乐天堂](/报告/psychounautwiki/Experience_200μg_1P-LSD_(oral)_-_Blissful_Paradise.md)
-*   [体验：22mg 2C-B (口服) / 100ug 1P-LSD (舌下) - 我第一次独自旅行（连续2天）](/报告/psychounautwiki/Experience_22mg_2C-B_(oral)_/_100ug_1P-LSD_(sublingual)_-_My_first_time_tripping_alone_(2_days_in_a_row).md)
-*   [体验：100ug 1P-LSD (口服) + 大麻 - 自我实现](/报告/psychounautwiki/Experience_100ug_1P-LSD_(Oral)_+_Cannabis_-_Self_Realizations.md)
-*   [体验：100ug 1P-LSD - 从恐惧和厌恶到极乐](/报告/psychounautwiki/Experience_100ug_1P-LSD_-_A_Fear_and_loathing_into_Bliss.md)
-*   [体验：150μg tab 1P-LSD (口服) - 惊人且非常漫长的旅程 (20+ 小时)](/报告/psychounautwiki/Experience_150μg_tab_1P-LSD_(oral)_-_Amazing_and_very_long_trip_(20+_hours).md)
-*   [体验：1P-LSD (300 ug) - 生活在一个充满爱的模拟中](/报告/psychounautwiki/Experience_1P-LSD_(300_ug)_-_Living_in_a_simulation_filled_with_love.md)
-*   [体验：1P-LSD (500ug, tabs) - 无限统一](/报告/psychounautwiki/Experience_1P-LSD_(500ug,_tabs)_-_Infinite_Unity.md)
-*   [体验：300ug 1P-LSD (口服) - 彩虹管和与人类合一](/报告/psychounautwiki/Experience_300ug_1P-LSD_(Oral)_-_Rainbow_Tubes_and_Becoming_One_With_Humanity.md)
-*   [体验：300μg 1P-LSD + 40mg 二苯啶 - 我第一次精神病发作](/报告/psychounautwiki/Experience_300μg_1P-LSD_+_40mg_diphenidine_-_My_first_psychotic_break.md)
+*   [体验：1 tab 1P-LSD (口服) - 在森林中发现自己](https://psychonautwiki.org/wiki/Experience_1_tab_1P-LSD_%28oral%29_-_Finding_myself_within_the_forest)
+*   [体验：200µg 1P-LSD (舌下) + 12mg CBD - 同理心的漩涡](https://psychonautwiki.org/wiki/Experience_200µg_1P-LSD_%28sublingual%29_+_12mg_CBD_-_The_Vortex_of_Empathy)
+*   [体验：200μg 1P-LSD (口服) - 极乐天堂](https://psychonautwiki.org/wiki/Experience_200μg_1P-LSD_%28oral%29_-_Blissful_Paradise)
+*   [体验：22mg 2C-B (口服) / 100ug 1P-LSD (舌下) - 我第一次独自旅行（连续2天）](https://psychonautwiki.org/wiki/Experience_22mg_2C-B_%28oral%29_/_100ug_1P-LSD_%28sublingual%29_-_My_first_time_tripping_alone_%282_days_in_a_row%29)
+*   [体验：100ug 1P-LSD (口服) + 大麻 - 自我实现](https://psychonautwiki.org/wiki/Experience_100ug_1P-LSD_%28Oral%29_+_Cannabis_-_Self_Realizations)
+*   [体验：100ug 1P-LSD - 从恐惧和厌恶到极乐](https://psychonautwiki.org/wiki/Experience_100ug_1P-LSD_-_A_Fear_and_loathing_into_Bliss)
+*   [体验：150μg tab 1P-LSD (口服) - 惊人且非常漫长的旅程 (20+ 小时)](https://psychonautwiki.org/wiki/Experience_150μg_tab_1P-LSD_%28oral%29_-_Amazing_and_very_long_trip_%2820+_hours%29)
+*   [体验：1P-LSD (300 ug) - 生活在一个充满爱的模拟中](https://psychonautwiki.org/wiki/Experience_1P-LSD_%28300_ug%29_-_Living_in_a_simulation_filled_with_love)
+*   [体验：1P-LSD (500ug, tabs) - 无限统一](https://psychonautwiki.org/wiki/Experience_1P-LSD_%28500ug,_tabs%29_-_Infinite_Unity)
+*   [体验：300ug 1P-LSD (口服) - 彩虹管和与人类合一](https://psychonautwiki.org/wiki/Experience_300ug_1P-LSD_%28Oral%29_-_Rainbow_Tubes_and_Becoming_One_With_Humanity)
+*   [体验：300μg 1P-LSD + 40mg 二苯啶 - 我第一次精神病发作](https://psychonautwiki.org/wiki/Experience_300μg_1P-LSD_+_40mg_diphenidine_-_My_first_psychotic_break)
 
 其他的体验报告可以在这里找到：
 

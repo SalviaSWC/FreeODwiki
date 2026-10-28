@@ -197,12 +197,12 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/文档/科
 
 ### 体验报告
 
-描述该化合物效应的轶事报告可以在我们的[体验索引](/报告/psychounautwiki/Experience_index.md)中找到：
+描述该化合物效应的轶事报告可以在我们的[体验索引](https://psychonautwiki.org/wiki/Experience_index)中找到：
 
-*   [Experience:110mg Diphenidine (vaporized) + 354mg DXM - instant ego death](/报告/psychounautwiki/Experience:110mg_Diphenidine_(vaporized)_%2B_354mg_DXM_-_instant_ego_death.md)
-*   [Experience:300μg 1P-LSD + 40mg diphenidine - My first psychotic break](/报告/psychounautwiki/Experience:300%CE%BCg_1P-LSD_%2B_40mg_diphenidine_-_My_first_psychotic_break.md)
-*   [Experience:50mg - Diphenidine ride](/报告/psychounautwiki/Experience:50mg_-_Diphenidine_ride.md)
-*   [Experience:65mg + 30mg redose - My first experience with diphenedine](/报告/psychounautwiki/Experience:65mg_%2B_30mg_redose_-_My_first_experience_with_diphenedine.md)
+*   [Experience:110mg Diphenidine (vaporized) + 354mg DXM - instant ego death](https://psychonautwiki.org/wiki/Experience:110mg_Diphenidine_%28vaporized%29_%2B_354mg_DXM_-_instant_ego_death)
+*   [Experience:300μg 1P-LSD + 40mg diphenidine - My first psychotic break](https://psychonautwiki.org/wiki/Experience:300%CE%BCg_1P-LSD_%2B_40mg_diphenidine_-_My_first_psychotic_break)
+*   [Experience:50mg - Diphenidine ride](https://psychonautwiki.org/wiki/Experience:50mg_-_Diphenidine_ride)
+*   [Experience:65mg + 30mg redose - My first experience with diphenedine](https://psychonautwiki.org/wiki/Experience:65mg_%2B_30mg_redose_-_My_first_experience_with_diphenedine)
 
 其他体验报告可以在这里找到：
 

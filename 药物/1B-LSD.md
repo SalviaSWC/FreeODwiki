@@ -266,7 +266,7 @@ _**免责声明：** 下面列出的效应引用了[主观效应索引](/药效/
 7. ↑ Armstrong, B. D., et al. (2004). "Potentiation of (DL)‐3,4‐methylenedioxymethamphetamine (MDMA)‐induced toxicity by the serotonin 2A receptior partial agonist d‐lysergic acid diethylamide (LSD)...". *Neuroscience Research Communications*.
 8. ↑ Gudelsky, Gary A., et al. (1994). "Potentiation of 3,4‐methylenedioxymethamphetamine\-induced dopamine release and serotonin neurotoxicity by 5-HT2 receptor agonists". *European Journal of Pharmacology*.
 9. ↑ Capela, J. P., et al. (2007). "Ecstasy induces apoptosis via 5-HT-receptor stimulation in cortical neurons". *Neurotoxicology*.
-10. ↑ [Nichols, David E.](/wiki/David_E._Nichols) (2004). "Hallucinogens". *Pharmacology & Therapeutics*.
+10. ↑ Nichols, David E. (2004). "Hallucinogens". *Pharmacology & Therapeutics*.
 11. ↑ Talaie, H., et al. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*.
 12. ↑ ["Synthetische Drogen: Neues Gesetz soll "Legal Highs" bekämpfen"](https://www.derstandard.at/story/1317018702282/kraeutermischungen-synthetische-drogen-neues-gesetz-soll-legal-highs-bekaempfen).
 13. ↑ ["Entwurf: Bundesgesetz... (Neue-Psychoaktive-Substanzen-Gesetz, NPSG)"](https://www.parlament.gv.at/PAKT/VHG/XXIV/ME/ME_00317/imfname_231611.pdf).

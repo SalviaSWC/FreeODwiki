@@ -301,14 +301,14 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 
 ### 体验报告
 
-描述该化合物在本站[体验索引](/报告/psychounautwiki/index.md)中的轶事报告包括：
+描述该化合物在本站[体验索引](https://psychonautwiki.org/wiki/index)中的轶事报告包括：
 
-*   [Experience: 15mg 2C-B (oral) - A pleasant low-dose evening with Nexus](/报告/psychounautwiki/Experience:_15mg_2C-B_(oral)_-_A_pleasant_low-dose_evening_with_Nexus)
-*   [Experience: 22mg 2C-B (oral) / 100ug 1P-LSD (sublingual) - My first time tripping alone (2 days in a row)](/报告/psychounautwiki/Experience:_22mg_2C-B_(oral)_/_100ug_1P-LSD_(sublingual)_-_My_first_time_tripping_alone_(2_days_in_a_row))
-*   [Experience: 32mg 2C-B - Bromo Mescaline](/报告/psychounautwiki/Experience:_32mg_2C-B_-_Bromo_Mescaline)
-*   [Experience:150mg MDMA + 20mg 2C-B - I designed it this way myself](/报告/psychounautwiki/Experience:150mg_MDMA_%2B_20mg_2C-B_-_I_designed_it_this_way_myself)
-*   [Experience:25mg 2C-B - Hard raving at home](/报告/psychounautwiki/Experience:25mg_2C-B_-_Hard_raving_at_home)
-*   [Experience:35mg Dextromethamphetamine + 305mg 3-Methylmethcathinone + 20mg 2C-B - destroying myself before rebuilding](/报告/psychounautwiki/Experience:35mg_Dextromethamphetamine_%2B_305mg_3-Methylmethcathinone_%2B_20mg_2C-B_-_destroying_myself_before_rebuilding)
+*   [Experience: 15mg 2C-B (oral) - A pleasant low-dose evening with Nexus](https://psychonautwiki.org/wiki/Experience:_15mg_2C-B_%28oral%29_-_A_pleasant_low-dose_evening_with_Nexus)
+*   [Experience: 22mg 2C-B (oral) / 100ug 1P-LSD (sublingual) - My first time tripping alone (2 days in a row)](https://psychonautwiki.org/wiki/Experience:_22mg_2C-B_%28oral%29_/_100ug_1P-LSD_%28sublingual%29_-_My_first_time_tripping_alone_%282_days_in_a_row%29)
+*   [Experience: 32mg 2C-B - Bromo Mescaline](https://psychonautwiki.org/wiki/Experience:_32mg_2C-B_-_Bromo_Mescaline)
+*   [Experience:150mg MDMA + 20mg 2C-B - I designed it this way myself](https://psychonautwiki.org/wiki/Experience:150mg_MDMA_%2B_20mg_2C-B_-_I_designed_it_this_way_myself)
+*   [Experience:25mg 2C-B - Hard raving at home](https://psychonautwiki.org/wiki/Experience:25mg_2C-B_-_Hard_raving_at_home)
+*   [Experience:35mg Dextromethamphetamine + 305mg 3-Methylmethcathinone + 20mg 2C-B - destroying myself before rebuilding](https://psychonautwiki.org/wiki/Experience:35mg_Dextromethamphetamine_%2B_305mg_3-Methylmethcathinone_%2B_20mg_2C-B_-_destroying_myself_before_rebuilding)
 
 更多体验报告可以在这里找到：
 

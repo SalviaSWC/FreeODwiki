@@ -38,7 +38,7 @@ description:
 | [药效达峰](/文档/药效时长.md) | 3 - 5 小时 |
 | [药效褪去](/文档/药效时长.md) | 3 - 5 小时 |
 | [药效残余](/文档/药效时长.md) | 12 - 48 小时 |
-| - **[免责声明](/wiki/Disclaimer):** 本站的[剂量](/文档/给药剂量.md)信息仅供教育用途，收集自用户和[资源](/wiki/Network)。这不构成推荐，使用前请务必通过其他来源核实准确性哦。 | |
+| - **[免责声明](/关于本站/免责声明.md):** 本站的[剂量](/文档/给药剂量.md)信息仅供教育用途，收集自用户和资源。这不构成推荐，使用前请务必通过其他来源核实准确性哦。 | |
 | **相互作用** | |
 | 大麻 | 💔 联用危险 |
 | 兴奋剂 | 💔 联用危险 |
@@ -123,7 +123,7 @@ LSD 的最初合成记录于 1938 年 11 月 16 日，由瑞士化学家阿尔�
 
 然而，直到五年后，当霍夫曼声称在骑自行车回家之前意外摄入未知量的化学物质时，才发现它具有精神活性。[19]
 
-第一次有意摄入记录于 1943 年 4 月 19 日。[20] 霍夫曼摄入了 250 微克 (µg) 的 LSD，根据其他麦角[生物碱](/wiki/Alkaloids)的剂量，他认为这是一个阈值剂量。他发现效果比他预期的要强得多，并对其深刻的改变心智的效果印象深刻。4 月 19 日现在每年都被作为“自行车日”来庆祝呢。
+第一次有意摄入记录于 1943 年 4 月 19 日。[20] 霍夫曼摄入了 250 微克 (µg) 的 LSD，根据其他麦角[生物碱](/文档/药物分类/生物碱类物质.md)的剂量，他认为这是一个阈值剂量。他发现效果比他预期的要强得多，并对其深刻的改变心智的效果印象深刻。4 月 19 日现在每年都被作为“自行车日”来庆祝呢。
 
 1947 年，Sandoz 以 *Delysid* 的名称将 LSD 引入医学界，将其作为一种实验工具进行营销，以在正常人中诱导暂时的类精神病状态（“模型精神病”），随后用于增强心理治疗（“精神松解”或“迷幻”疗法）。[20] 该物质在发布后产生了重大影响——在 15 年内，关于 LSD 和其他[致幻剂](/文档/药物分类/致幻剂.md)的研究产生了 1000 多篇科学论文，并被开给了 40,000 多名患者。[21]
 
@@ -197,13 +197,13 @@ HPPD 的患病率难以估计，但似乎非常罕见 (Halpern et al 2016[42])�
 
 此外，与[赛洛西宾](/药物/赛洛西宾蘑菇.md)或[麦斯卡林](/药物/麦斯卡林.md)相比，它与稍微更多的认知副作用有关，如[焦虑](/药效/焦虑.md)和[偏执](/药效/偏执.md)。一些使用者报告说，他们的药效消退过程更严酷，可能类似于[兴奋剂](/文档/药物分类/兴奋剂.md)，这可能是由于其持续时间长（10 小时以上）和对其[多巴胺能](/文档/多巴胺.md)特性的敏感性。
 
-_**免责声明：** 下列效应引用自 [***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 [PsychonautWiki](/wiki/PsychonautWiki) [贡献者](/wiki/Special:TopUsers) 个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。_
+_**免责声明：** 下列效应引用自 [***主观效应索引***](/药效/index.md) (**SEI**)，这是一个基于轶事用户报告和 PsychonautWiki 贡献者 个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。_
 
 *同样值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管较高的剂量更可能引发全方位的效应。同样，**不良反应**随着剂量的增加而变得越来越可能，可能包括**成瘾、严重伤害或死亡** ☠。*
 
 ### **[躯体效应](/药效/躯体效应.md)** ![Child.png](/文件/Child.png)
 
-*   **[神经发生](/wiki/Neurogenesis)**
+*   **神经发生**
 
 *   **[兴奋](/药效/兴奋.md)** - LSD 通常被描述为非常有活力和刺激性，而不是强迫性的。例如，它倾向于鼓励身体活动，如散步、攀岩或跳舞。相比之下，其他常见的迷幻剂如[赛洛西宾](/药物/赛洛西宾蘑菇.md)或[LSA](/药物/lsa.md)通常具有镇静和久坐的特点。
 
@@ -301,7 +301,7 @@ LSD 能够产生全方位的低级和高级幻觉状态；然而，它们比其�
 *   **[焦虑](/药效/焦虑.md)** & **[偏执](/药效/偏执.md)** - 通常在低到中等剂量下观察不到，并且当考虑到[情景与心境](/文档/情景与心境.md)的基本规则时，发生的可能性较小。
 *   **[概念思维](/药效/思维连通性.md)** - 一个标志性效果。LSD 可能允许使用者绕过正常的认知模式（及其相关限制）。表现为横向或抽象思维模式。
 *   **[认知欣快](/药效/认知欣快.md)** - 与 [MDMA](/药物/MDMA.md)、[可卡因](/药物/可卡因.md) 和 [阿片类药物](/文档/药物分类/阿片类药物.md) 相比，认知欣快感是有限且不一致的。与上述物质不同，迷幻剂的精神欣快感是“非强迫性的”，这意味着它需要预先存在的积极情绪状态。
-*   **[心境平和](/wiki/Euthymia)** - 当一到三剂与心理治疗计划相结合时，这种效果对所有经典迷幻剂都会急性显现。在比较荟萃分析时，迷幻心理治疗在几种心理健康问题上的表现大大优于“黄金标准”治疗。
+*   **心境平和** - 当一到三剂与心理治疗计划相结合时，这种效果对所有经典迷幻剂都会急性显现。在比较荟萃分析时，迷幻心理治疗在几种心理健康问题上的表现大大优于“黄金标准”治疗。
 *   **[内省增强](/药效/内省增强.md)** - 存在于大多数剂量。可能与个人偏见抑制一起发生。
 *   **[个人偏见抑制](/药效/个人偏见抑制.md)** - 使用者可能会觉得他们有能力以更客观的方式分析他们的生活或人际关系。目前尚不清楚这是否属实，或者只是该物质产生的一种感觉。
 *   **[创造力增强](/药效/创造力增强.md)** - LSD 以其增强创造力和跳出框框思考的能力而闻名。大量艺术家、音乐家、科学家和其他知识分子都使用过它，这可以追溯到 1950 年代。[48]
@@ -323,7 +323,7 @@ LSD 能够产生全方位的低级和高级幻觉状态；然而，它们比其�
 *   **[多重思维流](/药效/多重思维流.md)**
 *   **[自我替换](/药效/自我替换.md)** - 自我替换非常罕见，并且以不可预测的方式发生。这种效果通常与[妄想](/药效/妄想.md)同时发生，并且可能表明[精神病发作](/药效/精神病发作.md)的开始。它更可能发生在高剂量下。
 *   **[人格退化](/药效/人格退化.md)** - LSD 上真正的人格退化非常罕见。更常见的是，它采取较温和的形式，即使用者对童年早期有强烈的感受，包括被压抑的记忆。
-*   **[同时情绪](/wiki/Simultaneous_emotions)**
+*   **同时情绪**
 *   **[暗示性强化](/药效/暗示性强化.md)** - 对外部影响的暗示性可能会大大增强。虽然可能对心理治疗有益，但这种特性可能会被不法分子（例如邪教领袖）滥用。建议使用者对与谁一起服用 LSD 保持辨别力。
 *   **[思维加速](/药效/思维加速.md)**
 *   **[思维连通性](/药效/思维连通性.md)** - 一个标志性效果。思维可能会感觉比平时更流畅和相互关联。可能与[概念思维](/药效/思维连通性.md)和[创造力增强](/药效/创造力增强.md)一起发生。
@@ -358,59 +358,59 @@ LSD 能够产生全方位的低级和高级幻觉状态；然而，它们比其�
 *   **[苯二氮䓬类物质](/文档/药物分类/苯二氮䓬类物质.md)** - 苯二氮䓬类物质通过抑制大脑电活动，非常有效地降低 LSD 认知和视觉效应的强度。
 *   **[解离剂](/文档/药物分类/解离剂.md)** - LSD 增强解离剂的认知、视觉和一般致幻效果。解离剂诱导的[孔洞、空间和虚空](/药效/视觉分离.md)和[内部幻觉](/药效/内部幻觉.md)在 LSD 上变得更加生动和强烈。这些效果对应着[混乱](/药效/混乱.md)、[妄想](/药效/妄想.md)和[精神病发作](/药效/精神病发作.md)风险的增加。
 *   **[MDMA](/药物/MDMA.md)** - LSD 协同增强 MDMA 的身体、认知和视觉效果。这些物质之间的协同作用是不可预测的，因此建议从比单独服用任何一种物质都要低得多的剂量开始。有一些证据表明 LSD 可以增加 MDMA 的神经毒性。[50][51][52]
-*   **[抗抑郁药](/wiki/Antidepressants)** 和 **[抗精神病药](/文档/抗精神病药.md)** 可能会通过作用于相同的受体并竞争其结合能力来阻断 LSD 的作用。抗抑郁药[米氮平](/药物/米氮平.md)和[曲唑酮](/wiki/Trazodone)作用于 5-HT2A 和 5-HT2C 受体，阻断血清素和其他分子的结合。[53] 非典型抗精神病药也作用于这些受体，以减少幻觉和认知扭曲。
+*   **[抗抑郁药](/文档/抗抑郁药.md)** 和 **[抗精神病药](/文档/抗精神病药.md)** 可能会通过作用于相同的受体并竞争其结合能力来阻断 LSD 的作用。抗抑郁药[米氮平](/药物/米氮平.md)和曲唑酮作用于 5-HT2A 和 5-HT2C 受体，阻断血清素和其他分子的结合。[53] 非典型抗精神病药也作用于这些受体，以减少幻觉和认知扭曲。
 
 ### 体验报告
 
-目前我们的[体验报告](/wiki/Experience_index)中有 47 篇描述这种物质效应的报告。你也可以使用相同的链接提交你自己的体验报告哦。
+目前我们的[体验报告](https://psychonautwiki.org/wiki/Experience_index)中有 47 篇描述这种物质效应的报告。你也可以使用相同的链接提交你自己的体验报告哦。
 
-*   [报告: 1 tab LSD - First Time Experience](/报告/psychounautwiki/Experience:_1_tab_LSD_-_First_Time_Experience)
-*   [报告: 385μg LSD - A Fruit of My Endeavors](/报告/psychounautwiki/Experience:_385%CE%BCg_LSD_-_A_Fruit_of_My_Endeavors)
-*   [报告: 660ug LSD - First bad trip](/报告/psychounautwiki/Experience:_660ug_LSD_-_First_bad_trip)
-*   [报告: LSD (Unknown dosage) - My experiences with LSD and anorexia/bulemia](/报告/psychounautwiki/Experience:_LSD_(Unknown_dosage)_-_My_experiences_with_LSD_and_anorexia/bulemia)
-*   [报告:1 blotter- LSD - My first exorcism](/报告/psychounautwiki/Experience:1_blotter-_LSD_-_My_first_exorcism)
-*   [报告:1 hit LSD (unknown dosage) - Choose Asia](/报告/psychounautwiki/Experience:1_hit_LSD_(unknown_dosage)_-_Choose_Asia)
-*   [报告:1,55mg LSD - The Report](/报告/psychounautwiki/Experience:1,55mg_LSD_-_The_Report)
-*   [报告:1100ug LSD (oral) - Time reversal, spiders, and the hospital](/报告/psychounautwiki/Experience:1100ug_LSD_(oral)_-_Time_reversal,_spiders,_and_the_hospital)
-*   [报告:120µg LSD - First Bad Acid Trip, Psychosis](/报告/psychounautwiki/Experience:120%C2%B5g_LSD_-_First_Bad_Acid_Trip,_Psychosis)
-*   [报告:130ug LSD - Warmth and the Truth](/报告/psychounautwiki/Experience:130ug_LSD_-_Warmth_and_the_Truth)
-*   [报告:2 hits of LSD + weed - Mindfuck](/报告/psychounautwiki/Experience:2_hits_of_LSD_%2B_weed_-_Mindfuck)
-*   [报告:2 x 150 LSD tabs](/报告/psychounautwiki/Experience:2_x_150_LSD_tabs)
-*   [报告:2.5g Peganum Harmala + 250µg LSD - Ecstasy of Love and Misanthropy](/报告/psychounautwiki/Experience:2.5g_Peganum_Harmala_%2B_250%C2%B5g_LSD_-_Ecstasy_of_Love_and_Misanthropy)
-*   [报告:210ug LSD - Poles at the Peak](/报告/psychounautwiki/Experience:210ug_LSD_-_Poles_at_the_Peak)
-*   [报告:215µg LSD - Supermarket Amnesia](/报告/psychounautwiki/Experience:215%C2%B5g_LSD_-_Supermarket_Amnesia)
-*   [报告:225ug - Sheer Awe and Joy](/报告/psychounautwiki/Experience:225ug_-_Sheer_Awe_and_Joy)
-*   [报告:225ug LSD + 9g cubensis - Galactic Melt and the Meverse](/报告/psychounautwiki/Experience:225ug_LSD_%2B_9g_cubensis_-_Galactic_Melt_and_the_Meverse)
-*   [报告:250ug LSD - Bulk Acid](/报告/psychounautwiki/Experience:250ug_LSD_-_Bulk_Acid)
-*   [报告:3-MeO-PCP, LSD, Clonazolam, and Amphetamine - Excessive Amounts and Excessive Confusion](/报告/psychounautwiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion)
-*   [报告:300 ug of LSD - The mysterious community](/报告/psychounautwiki/Experience:300_ug_of_LSD_-_The_mysterious_community)
-*   [报告:300ug LSD - Profound religious experience](/报告/psychounautwiki/Experience:300ug_LSD_-_Profound_religious_experience)
-*   [报告:300ug LSD - The Pyramid Universe](/报告/psychounautwiki/Experience:300ug_LSD_-_The_Pyramid_Universe)
-*   [报告:300µg LSD - Togetherness and the Silent Dusk](/报告/psychounautwiki/Experience:300%C2%B5g_LSD_-_Togetherness_and_the_Silent_Dusk)
-*   [报告:400ug LSD + 40mg 4-AcO-MET (insufflated) - Meeting Yourself](/报告/psychounautwiki/Experience:400ug_LSD_%2B_40mg_4-AcO-MET_(insufflated)_-_Meeting_Yourself)
-*   [报告:400ug LSD + weed + nitrous -- Fundamental insights into the universe](/报告/psychounautwiki/Experience:400ug_LSD_%2B_weed_%2B_nitrous_--_Fundamental_insights_into_the_universe)
-*   [报告:400µg LSD + 7.9g cannabis - Pure Energy](/报告/psychounautwiki/Experience:400%C2%B5g_LSD_%2B_7.9g_cannabis_-_Pure_Energy)
-*   [报告:437.5μg LSD - Everything at once](/报告/psychounautwiki/Experience:437.5%CE%BCg_LSD_-_Everything_at_once)
-*   [报告:480ug of LSD in a subway train](/报告/psychounautwiki/Experience:480ug_of_LSD_in_a_subway_train)
-*   [报告:4x 200ug tabs - You do not need to understand](/报告/psychounautwiki/Experience:4x_200ug_tabs_-_You_do_not_need_to_understand)
-*   [报告:5 tabs LSD + cannabis + nitrous - A lover's ego death](/报告/psychounautwiki/Experience:5_tabs_LSD_%2B_cannabis_%2B_nitrous_-_A_lover%27s_ego_death)
-*   [报告:660ug LSD - Panic, Terror, Mass Hysteria... Freedom](/报告/psychounautwiki/Experience:660ug_LSD_-_Panic,_Terror,_Mass_Hysteria..._Freedom)
-*   [报告:800ug LSD - 3D Vision](/报告/psychounautwiki/Experience:800ug_LSD_-_3D_Vision)
-*   [报告:An intense slap: 60 μg LSD and 280 mg DXM](/报告/psychounautwiki/Experience:An_intense_slap:_60_%CE%BCg_LSD_and_280_mg_DXM)
-*   [报告:First 105μg LSD - Unlocking The Door](/报告/psychounautwiki/Experience:First_105%CE%BCg_LSD_-_Unlocking_The_Door)
-*   [报告:Into the Multiverse](/报告/psychounautwiki/Experience:Into_the_Multiverse)
-*   [报告:LSD (120ug) - An Overdose of LSD and Trip into Insanity](/报告/psychounautwiki/Experience:LSD_(120ug)_-_An_Overdose_of_LSD_and_Trip_into_Insanity)
-*   [报告:LSD (150µg) + Cannabis - 150µg lsd and a shitload of weed](/报告/psychounautwiki/Experience:LSD_(150%C2%B5g)_%2B_Cannabis_-_150%C2%B5g_lsd_and_a_shitload_of_weed)
-*   [报告:LSD (220 ug) and Cannabis - Tripping at home](/报告/psychounautwiki/Experience:LSD_(220_ug)_and_Cannabis_-_Tripping_at_home)
-*   [报告:LSD (230 ug) - An amazing adventure by vikilikepsych](/报告/psychounautwiki/Experience:LSD_(230_ug)_-_An_amazing_adventure_by_vikilikepsych)
-*   [报告:LSD (300 ug) - A Real Wake-Up](/报告/psychounautwiki/Experience:LSD_(300_ug)_-_A_Real_Wake-Up)
-*   [报告:LSD (388 µg) + Cannabis - The Terror of Eternity](/报告/psychounautwiki/Experience:LSD_(388_%C2%B5g)_%2B_Cannabis_-_The_Terror_of_Eternity)
-*   [报告:LSD (400ug, Oral) - An afternoon in "a" garden](/报告/psychounautwiki/Experience:LSD_(400ug,_Oral)_-_An_afternoon_in_%22a%22_garden)
-*   [报告:LSD (~500μg, sublingual) + Noopept - Mind Reset](/报告/psychounautwiki/Experience:LSD_(~500%CE%BCg,_sublingual)_%2B_Noopept_-_Mind_Reset)
-*   [报告:LSD 500ug Oral Ingestion - Rapid Object Apperance Change](/报告/psychounautwiki/Experience:LSD_500ug_Oral_Ingestion_-_Rapid_Object_Apperance_Change)
-*   [报告:MDMA (750mg, Oral) - Finally Free](/报告/psychounautwiki/Experience:MDMA_(750mg,_Oral)_-_Finally_Free)
-*   [报告:Unity and interconnectedness](/报告/psychounautwiki/Experience:Unity_and_interconnectedness)
-*   [报告:Unknown Dosages: 1 psilocin chocolate, 1 hit LSD; Lawing the Mown](/报告/psychounautwiki/Experience:Unknown_Dosages:_1_psilocin_chocolate,_1_hit_LSD;_Lawing_the_Mown)
+*   [报告: 1 tab LSD - First Time Experience](https://psychonautwiki.org/wiki/Experience:_1_tab_LSD_-_First_Time_Experience)
+*   [报告: 385μg LSD - A Fruit of My Endeavors](https://psychonautwiki.org/wiki/Experience:_385%CE%BCg_LSD_-_A_Fruit_of_My_Endeavors)
+*   [报告: 660ug LSD - First bad trip](https://psychonautwiki.org/wiki/Experience:_660ug_LSD_-_First_bad_trip)
+*   [报告: LSD (Unknown dosage) - My experiences with LSD and anorexia/bulemia](https://psychonautwiki.org/wiki/Experience:_LSD_%28Unknown_dosage%29_-_My_experiences_with_LSD_and_anorexia/bulemia)
+*   [报告:1 blotter- LSD - My first exorcism](https://psychonautwiki.org/wiki/Experience:1_blotter-_LSD_-_My_first_exorcism)
+*   [报告:1 hit LSD (unknown dosage) - Choose Asia](https://psychonautwiki.org/wiki/Experience:1_hit_LSD_%28unknown_dosage%29_-_Choose_Asia)
+*   [报告:1,55mg LSD - The Report](https://psychonautwiki.org/wiki/Experience:1,55mg_LSD_-_The_Report)
+*   [报告:1100ug LSD (oral) - Time reversal, spiders, and the hospital](https://psychonautwiki.org/wiki/Experience:1100ug_LSD_%28oral%29_-_Time_reversal,_spiders,_and_the_hospital)
+*   [报告:120µg LSD - First Bad Acid Trip, Psychosis](https://psychonautwiki.org/wiki/Experience:120%C2%B5g_LSD_-_First_Bad_Acid_Trip,_Psychosis)
+*   [报告:130ug LSD - Warmth and the Truth](https://psychonautwiki.org/wiki/Experience:130ug_LSD_-_Warmth_and_the_Truth)
+*   [报告:2 hits of LSD + weed - Mindfuck](https://psychonautwiki.org/wiki/Experience:2_hits_of_LSD_%2B_weed_-_Mindfuck)
+*   [报告:2 x 150 LSD tabs](https://psychonautwiki.org/wiki/Experience:2_x_150_LSD_tabs)
+*   [报告:2.5g Peganum Harmala + 250µg LSD - Ecstasy of Love and Misanthropy](https://psychonautwiki.org/wiki/Experience:2.5g_Peganum_Harmala_%2B_250%C2%B5g_LSD_-_Ecstasy_of_Love_and_Misanthropy)
+*   [报告:210ug LSD - Poles at the Peak](https://psychonautwiki.org/wiki/Experience:210ug_LSD_-_Poles_at_the_Peak)
+*   [报告:215µg LSD - Supermarket Amnesia](https://psychonautwiki.org/wiki/Experience:215%C2%B5g_LSD_-_Supermarket_Amnesia)
+*   [报告:225ug - Sheer Awe and Joy](https://psychonautwiki.org/wiki/Experience:225ug_-_Sheer_Awe_and_Joy)
+*   [报告:225ug LSD + 9g cubensis - Galactic Melt and the Meverse](https://psychonautwiki.org/wiki/Experience:225ug_LSD_%2B_9g_cubensis_-_Galactic_Melt_and_the_Meverse)
+*   [报告:250ug LSD - Bulk Acid](https://psychonautwiki.org/wiki/Experience:250ug_LSD_-_Bulk_Acid)
+*   [报告:3-MeO-PCP, LSD, Clonazolam, and Amphetamine - Excessive Amounts and Excessive Confusion](https://psychonautwiki.org/wiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion)
+*   [报告:300 ug of LSD - The mysterious community](https://psychonautwiki.org/wiki/Experience:300_ug_of_LSD_-_The_mysterious_community)
+*   [报告:300ug LSD - Profound religious experience](https://psychonautwiki.org/wiki/Experience:300ug_LSD_-_Profound_religious_experience)
+*   [报告:300ug LSD - The Pyramid Universe](https://psychonautwiki.org/wiki/Experience:300ug_LSD_-_The_Pyramid_Universe)
+*   [报告:300µg LSD - Togetherness and the Silent Dusk](https://psychonautwiki.org/wiki/Experience:300%C2%B5g_LSD_-_Togetherness_and_the_Silent_Dusk)
+*   [报告:400ug LSD + 40mg 4-AcO-MET (insufflated) - Meeting Yourself](https://psychonautwiki.org/wiki/Experience:400ug_LSD_%2B_40mg_4-AcO-MET_%28insufflated%29_-_Meeting_Yourself)
+*   [报告:400ug LSD + weed + nitrous -- Fundamental insights into the universe](https://psychonautwiki.org/wiki/Experience:400ug_LSD_%2B_weed_%2B_nitrous_--_Fundamental_insights_into_the_universe)
+*   [报告:400µg LSD + 7.9g cannabis - Pure Energy](https://psychonautwiki.org/wiki/Experience:400%C2%B5g_LSD_%2B_7.9g_cannabis_-_Pure_Energy)
+*   [报告:437.5μg LSD - Everything at once](https://psychonautwiki.org/wiki/Experience:437.5%CE%BCg_LSD_-_Everything_at_once)
+*   [报告:480ug of LSD in a subway train](https://psychonautwiki.org/wiki/Experience:480ug_of_LSD_in_a_subway_train)
+*   [报告:4x 200ug tabs - You do not need to understand](https://psychonautwiki.org/wiki/Experience:4x_200ug_tabs_-_You_do_not_need_to_understand)
+*   [报告:5 tabs LSD + cannabis + nitrous - A lover's ego death](https://psychonautwiki.org/wiki/Experience:5_tabs_LSD_%2B_cannabis_%2B_nitrous_-_A_lover%27s_ego_death)
+*   [报告:660ug LSD - Panic, Terror, Mass Hysteria... Freedom](https://psychonautwiki.org/wiki/Experience:660ug_LSD_-_Panic,_Terror,_Mass_Hysteria..._Freedom)
+*   [报告:800ug LSD - 3D Vision](https://psychonautwiki.org/wiki/Experience:800ug_LSD_-_3D_Vision)
+*   [报告:An intense slap: 60 μg LSD and 280 mg DXM](https://psychonautwiki.org/wiki/Experience:An_intense_slap:_60_%CE%BCg_LSD_and_280_mg_DXM)
+*   [报告:First 105μg LSD - Unlocking The Door](https://psychonautwiki.org/wiki/Experience:First_105%CE%BCg_LSD_-_Unlocking_The_Door)
+*   [报告:Into the Multiverse](https://psychonautwiki.org/wiki/Experience:Into_the_Multiverse)
+*   [报告:LSD (120ug) - An Overdose of LSD and Trip into Insanity](https://psychonautwiki.org/wiki/Experience:LSD_%28120ug%29_-_An_Overdose_of_LSD_and_Trip_into_Insanity)
+*   [报告:LSD (150µg) + Cannabis - 150µg lsd and a shitload of weed](https://psychonautwiki.org/wiki/Experience:LSD_%28150%C2%B5g%29_%2B_Cannabis_-_150%C2%B5g_lsd_and_a_shitload_of_weed)
+*   [报告:LSD (220 ug) and Cannabis - Tripping at home](https://psychonautwiki.org/wiki/Experience:LSD_%28220_ug%29_and_Cannabis_-_Tripping_at_home)
+*   [报告:LSD (230 ug) - An amazing adventure by vikilikepsych](https://psychonautwiki.org/wiki/Experience:LSD_%28230_ug%29_-_An_amazing_adventure_by_vikilikepsych)
+*   [报告:LSD (300 ug) - A Real Wake-Up](https://psychonautwiki.org/wiki/Experience:LSD_%28300_ug%29_-_A_Real_Wake-Up)
+*   [报告:LSD (388 µg) + Cannabis - The Terror of Eternity](https://psychonautwiki.org/wiki/Experience:LSD_%28388_%C2%B5g%29_%2B_Cannabis_-_The_Terror_of_Eternity)
+*   [报告:LSD (400ug, Oral) - An afternoon in "a" garden](https://psychonautwiki.org/wiki/Experience:LSD_%28400ug,_Oral%29_-_An_afternoon_in_%22a%22_garden)
+*   [报告:LSD (~500μg, sublingual) + Noopept - Mind Reset](https://psychonautwiki.org/wiki/Experience:LSD_%28~500%CE%BCg,_sublingual%29_%2B_Noopept_-_Mind_Reset)
+*   [报告:LSD 500ug Oral Ingestion - Rapid Object Apperance Change](https://psychonautwiki.org/wiki/Experience:LSD_500ug_Oral_Ingestion_-_Rapid_Object_Apperance_Change)
+*   [报告:MDMA (750mg, Oral) - Finally Free](https://psychonautwiki.org/wiki/Experience:MDMA_%28750mg,_Oral%29_-_Finally_Free)
+*   [报告:Unity and interconnectedness](https://psychonautwiki.org/wiki/Experience:Unity_and_interconnectedness)
+*   [报告:Unknown Dosages: 1 psilocin chocolate, 1 hit LSD; Lawing the Mown](https://psychonautwiki.org/wiki/Experience:Unknown_Dosages:_1_psilocin_chocolate,_1_hit_LSD;_Lawing_the_Mown)
 
 其他的体验报告可以在这里找到：
 
@@ -445,7 +445,7 @@ LSD 有时也被用于非医疗环境中的自我给药，以克服成瘾。
 
 ### 创伤相关疼痛
 
-Eric Kast 在 1960 年代研究了 LSD 作为癌症或其他重大创伤引起的急性和慢性疼痛的[镇痛剂](/wiki/Analgesic)。[58] 即使在低剂量（即亚迷幻剂量）下，它也被发现至少与传统[阿片类药物](/文档/药物分类/阿片类药物.md)一样有效，同时在减轻疼痛方面持续时间更长（在峰值效应消退后持续长达一周）。
+Eric Kast 在 1960 年代研究了 LSD 作为癌症或其他重大创伤引起的急性和慢性疼痛的镇痛剂。[58] 即使在低剂量（即亚迷幻剂量）下，它也被发现至少与传统[阿片类药物](/文档/药物分类/阿片类药物.md)一样有效，同时在减轻疼痛方面持续时间更长（在峰值效应消退后持续长达一周）。
 
 Kast 将这种效果归因于[焦虑](/药效/焦虑.md)的减少；也就是说，患者并没有感到疼痛*减少*，而是对他们所经历的疼痛*不再那么痛苦*。在一项正在进行的（截至 2006 年）关于[赛洛辛](/药物/赛洛西宾蘑菇.md)对晚期癌症患者[焦虑](/药效/焦虑.md)影响的研究中，正在使用类似的迷幻物质测试这种声称的效果。
 
@@ -465,7 +465,7 @@ LSD 已被用于治疗丛集性头痛，这是一种罕见但极其痛苦的疾�
 
 ### 神经可塑性
 
-2018 年的一项研究表明，LSD 和其他迷幻剂通过 TrkB、mTOR 和 [5-HT2A](/wiki/5-HT2A_receptor) 信号传导诱导神经可塑性。[63]
+2018 年的一项研究表明，LSD 和其他迷幻剂通过 TrkB、mTOR 和 5-HT2A 信号传导诱导神经可塑性。[63]
 
 ## 试剂结果
 
@@ -562,21 +562,21 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 *   **锂盐**：[74][75] 锂盐通常用于治疗双相情感障碍；然而，大量轶事证据表明，将其与迷幻剂一起服用会显著增加[精神病发作](/药效/精神病发作.md)和[癫痫发作](/药效/癫痫发作.md)的风险。[76][77][78] 因此，应**严格避免**这种组合。
 *   **三环类抗抑郁药**：[74] 三环类抗抑郁药会增加对 LSD 的身体、幻觉和心理反应。[79] 轶事证据表明，当与 LSD 结合使用时，TCA 会增加[恶性旅程](/文档/恶性旅程.md)和[精神病发作](/药效/精神病发作.md)的风险。由于症状类似于由锂盐和 LSD 引起的症状，因此不能排除[癫痫发作](/药效/癫痫发作.md)。因此，应避免这种组合。
 *   **[曲马多](/药物/曲马多.md)**：[80] 众所周知，曲马多会降低个体的癫痫阈值，[81] 而 LSD 也有可能在易感人群中诱发癫痫发作。[47]
-*   **利托那韦**：[74] 当将[麦角灵](/wiki/Ergoline_derivative)与利托那韦结合使用时，曾发生过严重的血管收缩。由于不知道这是否延伸到 LSD，建议极其谨慎。
-*   **[谵妄剂](/文档/药物分类/谵妄剂.md)**（例如 ***[苯海拉明](/药物/苯海拉明.md)、[东莨菪碱](/wiki/Scopolamine)***）：谵妄剂通常不应与其他物质结合使用，但在与迷幻剂一起服用时可能会有额外的风险。可能会增加[焦虑](/药效/焦虑.md)、[妄想](/药效/妄想.md)、[躁狂](/药效/躁狂.md)、[精神病发作](/药效/精神病发作.md)和[血清素综合征](/文档/血清素综合征.md)的风险。
+*   **利托那韦**：[74] 当将麦角灵与利托那韦结合使用时，曾发生过严重的血管收缩。由于不知道这是否延伸到 LSD，建议极其谨慎。
+*   **[谵妄剂](/文档/药物分类/谵妄剂.md)**（例如 ***[苯海拉明](/药物/苯海拉明.md)、东莨菪碱***）：谵妄剂通常不应与其他物质结合使用，但在与迷幻剂一起服用时可能会有额外的风险。可能会增加[焦虑](/药效/焦虑.md)、[妄想](/药效/妄想.md)、[躁狂](/药效/躁狂.md)、[精神病发作](/药效/精神病发作.md)和[血清素综合征](/文档/血清素综合征.md)的风险。
 *   **[大麻](/药物/大麻.md)**：[80] 大麻与 LSD 有很强的、不稳定的协同作用。虽然常用于增强或延长 LSD 的效果，但这种组合增加了不良心理影响的风险，如[焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md)、[惊恐发作](/药效/惊恐发作.md)和[精神病发作](/药效/精神病发作.md)。轶事报告经常将大麻使用描述为[恶性旅程](/文档/恶性旅程.md)或[精神病发作](/药效/精神病发作.md)的触发事件。建议谨慎。
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)**（例如 ***[苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md)、[哌甲酯](/药物/哌甲酯.md)***）：[80] 虽然能够增强 LSD 的[欣快](/药效/躯体欣快感.md)效果，但兴奋剂也会提高[焦虑](/药效/焦虑.md)水平并增加[偏执](/药效/偏执.md)、[思维循环](/药效/思维循环.md)和[精神病发作](/药效/精神病发作.md)的风险，特别是在[药效褪去](/文档/药效时长.md)阶段。由于 LSD 对[多巴胺](/文档/多巴胺.md)通路的直接影响，这种风险可能比其他迷幻剂更高。通常不鼓励这种组合。
 
 #### **其他相互作用**
 
-*   [**SSRIs**](/wiki/SSRI)（例如 [***氟西汀***](/wiki/Fluoxetine)、[***舍曲林***](/wiki/Sertraline)）：由于 SSRIs 引起的 5-HT2A 受体下调，迷幻剂的效果可能会降低。较弱的效果可能导致使用者通过增加剂量或补服来补偿，这可能会产生比他们预期的更强的效果。SSRIs 还可能因其[抗焦虑](/药效/焦虑抑制.md)作用而减少发生[恶性旅程](/文档/恶性旅程.md)的机会。
+*   [**SSRIs**](/文档/SSRI.md)（例如 ***氟西汀***、***舍曲林***）：由于 SSRIs 引起的 5-HT2A 受体下调，迷幻剂的效果可能会降低。较弱的效果可能导致使用者通过增加剂量或补服来补偿，这可能会产生比他们预期的更强的效果。SSRIs 还可能因其[抗焦虑](/药效/焦虑抑制.md)作用而减少发生[恶性旅程](/文档/恶性旅程.md)的机会。
 
 ## 知名人士
 
 一些知名人士公开评论了他们使用 LSD 的经历。[82][83] 其中一些评论可以追溯到它在美国和欧洲可以合法用于非医疗用途的时代，另一些则涉及 1950 年代和 1960 年代的精神病治疗。还有一些人描述了出于哲学、艺术、治疗、精神或娱乐目的而获得的非法 LSD 的经历。
 
 *   **奥尔德斯·赫胥黎**，《美丽新世界》的作者，在搬到好莱坞后成为了迷幻剂的使用者。他处于反主流文化使用迷幻剂的最前沿，这导致了他 1954 年的作品《知觉之门》。在死于癌症时，他于 1963 年 11 月 22 日要求他的妻子给他注射 100 µg 的 LSD。[84]
-*   **恩斯特·荣格**，德国作家和哲学家，一生中尝试过[乙醚](/wiki/Diethyl_ether)、[可卡因](/药物/可卡因.md)和[大麻](/药物/大麻.md)等物质；晚年他使用了[麦斯卡林](/药物/麦斯卡林.md)和 LSD。这些实验在《接近》（1970 年，*Annäherungen*）中有全面记录。小说《造访戈登霍尔姆》（1952 年，*Besuch auf Godenholm*）明显受到他早期麦斯卡林和 LSD 实验的影响。他会见了 LSD 发明者阿尔伯特·霍夫曼，他们多次一起服用 LSD。[85] 他是“[精神探索者](/文档/精神探索.md)”（Psychonaut）一词的发明者。
+*   **恩斯特·荣格**，德国作家和哲学家，一生中尝试过乙醚、[可卡因](/药物/可卡因.md)和[大麻](/药物/大麻.md)等物质；晚年他使用了[麦斯卡林](/药物/麦斯卡林.md)和 LSD。这些实验在《接近》（1970 年，*Annäherungen*）中有全面记录。小说《造访戈登霍尔姆》（1952 年，*Besuch auf Godenholm*）明显受到他早期麦斯卡林和 LSD 实验的影响。他会见了 LSD 发明者阿尔伯特·霍夫曼，他们多次一起服用 LSD。[85] 他是“[精神探索者](/文档/精神探索.md)”（Psychonaut）一词的发明者。
 *   **蒂莫西·利里**，美国心理学家和早期迷幻剂研究员，在 1960 年代成为 LSD 最明显的公众倡导者之一。在哈佛大学期间，他共同领导了哈佛赛洛西宾项目，后来在 1963 年被解雇之前从事 LSD 工作。利里提倡将迷幻剂作为内省、行为改变和他所描述的“神经学自我指导”的工具。他还创造了反主流文化短语“turn on, tune in, drop out”（开启、调频、脱离），反映了他对意向性心态和环境的重视。在谈到 LSD 的体验深度时，他说：“LSD 体验让你接触到身体的智慧、神经系统的智慧、细胞的智慧、器官的智慧。你越接近身体的信息，就越明显它是为了繁衍和保持生命流而构建和设计的。”[86]
 
 *   **杰瑞·加西亚**在 1989 年 7 月 3 日的一次采访中，在回答“多年来你对 LSD 的感觉有变化吗？”这个问题时说，“并没有太大变化。我对 LSD 的感觉很复杂。它是我既害怕又喜欢的东西。我从未在服用任何迷幻剂、拥有迷幻体验时，没有那种‘我不知道会发生什么’的感觉。从这个意义上说，它基本上仍然是一个谜和一个奥秘。”[87]
@@ -694,11 +694,11 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 ## 参考文献
 
 1. ↑ Dolder, P. C., Schmid, Y., Haschke, M., Rentsch, K. M., Liechti, M. E. (January 2016). ["Pharmacokinetics and Concentration-Effect Relationship of Oral LSD in Humans"](https://academic.oup.com/ijnp/article-lookup/doi/10.1093/ijnp/pyv072). *International Journal of Neuropsychopharmacology*. **19** (1): 1–7. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/ijnp/pyv072](//doi.org/10.1093%2Fijnp%2Fpyv072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1461-1457](//www.worldcat.org/issn/1461-1457). 
-2. ↑ 2.0 2.1 2.2 [Nichols, David E.](/wiki/David_E._Nichols) (2016). Barker, Eric L., ed. "Psychedelics". *Pharmacological Reviews*. **68** (2): 264–355. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/pr.115.011478](//doi.org/10.1124%2Fpr.115.011478). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0081](//www.worldcat.org/issn/1521-0081). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0031-6997](//www.worldcat.org/issn/0031-6997). 
+2. ↑ 2.0 2.1 2.2 Nichols, David E. (2016). Barker, Eric L., ed. "Psychedelics". *Pharmacological Reviews*. **68** (2): 264–355. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/pr.115.011478](//doi.org/10.1124%2Fpr.115.011478). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0081](//www.worldcat.org/issn/1521-0081). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0031-6997](//www.worldcat.org/issn/0031-6997). 
 3. ↑ Passie, T.; Halpern, J. H.; Stichtenoth, D. O.; Emrich, H. M.; Hintzen, A. ["The Pharmacology of Lysergic Acid Diethylamide: A Review"](https://web.archive.org/web/20130501033627/http://www.maps.org/w3pb/new/2008/2008_Passie_23067_1.pdf) (PDF). *CNS Neuroscience & Therapeutics*. **14**: 295–314. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1755-5949.2008.00059.x](//doi.org/10.1111%2Fj.1755-5949.2008.00059.x). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1755-5949](//www.worldcat.org/issn/1755-5949). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1755-5930](//www.worldcat.org/issn/1755-5930). Archived from [the original](http://www.maps.org/w3pb/new/2008/2008_Passie_23067_1.pdf) (PDF) on May 1, 2013. Retrieved January 1, 2020. 
 4. ↑ 4.0 4.1 4.2 4.3 4.4 4.5 Schmid, Y.; Enzler, F.; Gasser, P.; Grouzmann, E.; Preller, K. H.; Vollenweider, F. X.; Brenneisen, R.; Müller, F.; Borgwardt, S.; Liechti, M. E. (2015). "Acute Effects of Lysergic Acid Diethylamide in Healthy Subjects". *Biological Psychiatry*. **78** (8): 544–553. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.biopsych.2014.11.015](//doi.org/10.1016%2Fj.biopsych.2014.11.015). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1873-2402](//www.worldcat.org/issn/1873-2402). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0006-3223](//www.worldcat.org/issn/0006-3223). 
 5. ↑ 5.0 5.1 ["Joint Hearing before the Select Committee On Intelligence and the Subcommitte On Health And Scientific Research of the Committee On Human Resources: Ninety-fifth congress: First Session"](http://www.nytimes.com/packages/pdf/national/13inmate_ProjectMKULTRA.pdf) (PDF). U.S. Government Printing Office. August 3, 1977. Retrieved January 3, 2020. 
-6. ↑ [David Nichols](/wiki/David_E._Nichols) (December 22, 2005). ["LSD: cultural revolution and medical advances"](https://www.chemistryworld.com/section/feature/lsd-cultural-revolution-and-medical-advances/3004672.article). *Chemistry World*. Royal Society of Chemistry. Retrieved September 27, 2007. 
+6. ↑ David Nichols (December 22, 2005). ["LSD: cultural revolution and medical advances"](https://www.chemistryworld.com/section/feature/lsd-cultural-revolution-and-medical-advances/3004672.article). *Chemistry World*. Royal Society of Chemistry. Retrieved September 27, 2007. 
 7. ↑ 7.0 7.1 7.2 ["Convention On Psychotropic Substances, 1971"](https://www.unodc.org/pdf/convention_1971_en.pdf) (PDF). United Nations Office on Drugs and Crime. Retrieved January 3, 2020. 
 8. ↑ Johnston, L. D., O’Malley, P. M., Bachman, J. G., Schulenberg, J. E., Miech, R. A. (August 2014). [*Monitoring the Future National Survey Results on Drug Use, 1975-2013. Volume 2, College Students & Adults Ages 19-55*](https://eric.ed.gov/?id=ED578547). Institute for Social Research. 
 9. ↑ Sessa, B. (2012). *The psychedelic renaissance: reassassing the role of psychedelic drugs in 21st century psychiatry and society*. Muswell Hill Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9781908995001](http://en.wikipedia.org/wiki/Special:BookSources/9781908995001). 
@@ -711,16 +711,16 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 16. ↑ Grof, Stanislav (1993). [*Realms of the Human Unconscious: Observations from LSD Research*](https://web.archive.org/web/20110128001045/http://www.csp.org/chrestomathy/realms_of3.html). London: Souvenir Press. pp. 13–14. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-285-64882-9](http://en.wikipedia.org/wiki/Special:BookSources/0-285-64882-9). Archived from [the original](http://www.csp.org/chrestomathy/realms_of3.html) on January 28, 2011. Retrieved January 3, 2020. 
 17. ↑ Lüscher, Christian; Ungless, Mark A. (2006). "The Mechanistic Classification of Addictive Drugs". *PLOS Medicine*. **3** (11). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1371/journal.pmed.0030437](//doi.org/10.1371%2Fjournal.pmed.0030437). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1549-1676](//www.worldcat.org/issn/1549-1676). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1549-1277](//www.worldcat.org/issn/1549-1277). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17105338](//www.ncbi.nlm.nih.gov/pubmed/17105338). 
 18. ↑ Strassmann, Rick (1984). "Adverse reactions to psychedelic drugs. A review of the literature". *Journal of Nervous and Mental Disease*. **172** (10): 577–595. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/00005053-198410000-00001](//doi.org/10.1097%2F00005053-198410000-00001). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3018](//www.worldcat.org/issn/0022-3018). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1754691](//www.worldcat.org/oclc/1754691). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [6384428](//www.ncbi.nlm.nih.gov/pubmed/6384428). 
-19. ↑ 19.0 19.1 [Nichols, David](/wiki/David_E._Nichols) (May 24, 2003). ["Hypothesis on Albert Hofmann's Famous 1943 "Bicycle Day""](https://erowid.org/general/conferences/conference_mindstates4_nichols.shtml). at Mindstates IV: Berkeley, CA: Transcription & Editing by Erowid. Retrieved January 3, 2020. 
+19. ↑ 19.0 19.1 Nichols, David (May 24, 2003). ["Hypothesis on Albert Hofmann's Famous 1943 "Bicycle Day""](https://erowid.org/general/conferences/conference_mindstates4_nichols.shtml). at Mindstates IV: Berkeley, CA: Transcription & Editing by Erowid. Retrieved January 3, 2020. 
 20. ↑ 20.0 20.1 20.2 Hofmann, Albert (1980). [*LSD - My Problem Child*](https://erowid.org/library/books_online/lsd_my_problem_child/). Translated by Ott, Jonathan. New York: McGraw-Hill. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-07029-325-0](http://en.wikipedia.org/wiki/Special:BookSources/978-0-07029-325-0). [OCLC](http://en.wikipedia.org/wiki/OCLC) [6251390](//www.worldcat.org/oclc/6251390). 
 21. ↑ Zentner, Joseph L. (1976). "The Recreational Use of LSD-25 and Drug Prohibition". *Journal of Psychedelic Drugs*. **8** (4): 299–305. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1080/02791072.1976.10471853](//doi.org/10.1080%2F02791072.1976.10471853). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [2159-9777](//www.worldcat.org/issn/2159-9777). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0279-1072](//www.worldcat.org/issn/0279-1072). 
 22. ↑ Veysey, Laurence R. (1978). *The Communal Experience: Anarchist and Mystical Communities in Twentieth-Century America*. Chicago IL: University of Chicago Press. p. 437. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-226-85458-2](http://en.wikipedia.org/wiki/Special:BookSources/0-226-85458-2). 
 23. ↑ ["Public Law 90-639"](https://www.erowid.org/psychoactives/law/law_fed_staggers-dodd.pdf) (PDF). Erowid. Retrieved January 3, 2020. 
 24. ↑ Gasser, Peter (1995). ["Psycholytic Therapy with MDMA and LSD in Switzerland"](http://www.maps.org/news-letters/v05n3/05303psy.html). *Newsletter of the Multidisciplinary Association for Psychedelic Studies*. MAPS. **5** (3): 3–7. Retrieved January 3, 2020. 
-25. ↑ 25.0 25.1 [Shulgin, Alexander](/wiki/Alexander_Shulgin); Shulgin, Ann (1997). ["#26. LSD-25"](https://erowid.org/library/books_online/tihkal/tihkal26.shtml). *[TiHKAL: The Continuation](/wiki/TiHKAL)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252). 
+25. ↑ 25.0 25.1 Shulgin, Alexander; Shulgin, Ann (1997). ["#26. LSD-25"](https://erowid.org/library/books_online/tihkal/tihkal26.shtml). *[TiHKAL: The Continuation](/文档/TiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252). 
 26. ↑ ["Chemical Datasheet: D-Lysergic Acid Diethylamide"](https://cameochemicals.noaa.gov/chemical/20577). CAMEO Chemicals. Retrieved November 15, 2020. 
 27. ↑ Li Z, McNally AJ, Wang H, Salamone SJ. [Stability study of LSD under various storage conditions](https://pubmed.ncbi.nlm.nih.gov/9788528/). J Anal Toxicol. 1998 Oct;22(6):520-5. doi: 10.1093/jat/22.6.520. PMID: 9788528.
-28. ↑ Carhart-Harris, R. L.; Muthukumaraswamy, S.; Roseman, L.; Kaelen, M.; Droog, W.; Murphy, K.; Tagliazucchi, E.; Schenberg, E. E.; Nest, T.; Orban, C.; Leech, R.; Williams, L. T.; Williams, T. M.; Bolstridge, M.; Sessa, B.; McGonigle, J.; Sereno, M. I.; [Nichols, D.](/wiki/David_E._Nichols); Hellyer, P. J.; Hobden, P.; Evans, J.; Singh, K. D.; Wise, R. G.; Curran, H. V.; Feilding, A.; Nutt, D. J. (2016). "Neural correlates of the LSD experience revealed by multimodal neuroimaging". *Proceedings of the National Academy of Sciences*. **113** (17): 4853–4858. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1073/pnas.1518377113](//doi.org/10.1073%2Fpnas.1518377113). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1091-6490](//www.worldcat.org/issn/1091-6490). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0027-8424](//www.worldcat.org/issn/0027-8424). [OCLC](http://en.wikipedia.org/wiki/OCLC) [43473694](//www.worldcat.org/oclc/43473694). 
+28. ↑ Carhart-Harris, R. L.; Muthukumaraswamy, S.; Roseman, L.; Kaelen, M.; Droog, W.; Murphy, K.; Tagliazucchi, E.; Schenberg, E. E.; Nest, T.; Orban, C.; Leech, R.; Williams, L. T.; Williams, T. M.; Bolstridge, M.; Sessa, B.; McGonigle, J.; Sereno, M. I.; Nichols, D.; Hellyer, P. J.; Hobden, P.; Evans, J.; Singh, K. D.; Wise, R. G.; Curran, H. V.; Feilding, A.; Nutt, D. J. (2016). "Neural correlates of the LSD experience revealed by multimodal neuroimaging". *Proceedings of the National Academy of Sciences*. **113** (17): 4853–4858. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1073/pnas.1518377113](//doi.org/10.1073%2Fpnas.1518377113). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1091-6490](//www.worldcat.org/issn/1091-6490). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0027-8424](//www.worldcat.org/issn/0027-8424). [OCLC](http://en.wikipedia.org/wiki/OCLC) [43473694](//www.worldcat.org/oclc/43473694). 
 29. ↑ Aghajanian, G. K.; Bing, O. H. (1964). "Persistence Of Lysergic Acid Siethylamide In The Plasma Of Human Subjects". *Clinical Pharmacology & Therapeutics*. **5** (5): 611–614. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/cpt196455611](//doi.org/10.1002%2Fcpt196455611). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1532-6535](//www.worldcat.org/issn/1532-6535). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [14209776](//www.ncbi.nlm.nih.gov/pubmed/14209776). 
 30. ↑ Nelson, D. L. (2004). "5-HT5 receptors". *Current Drug Targets-CNS & Neurological Disorders*. **3** (1): 53–58. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/1568007043482606](//doi.org/10.2174%2F1568007043482606). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1568-007X](//www.worldcat.org/issn/1568-007X). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [14965244](//www.ncbi.nlm.nih.gov/pubmed/14965244). 
 31. ↑ Moreno, J. L.; Holloway, T.; Albizu, L.; Sealfon, S. C.; González-Maeso, J. (2011). "Metabotropic glutamate mGlu2 receptor is necessary for the pharmacological and behavioral effects induced by hallucinogenic 5-HT2A receptor agonists". *Neuroscience Letters*. **493** (3): 76–79. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.neulet.2011.01.046](//doi.org/10.1016%2Fj.neulet.2011.01.046). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0304-3940](//www.worldcat.org/issn/0304-3940). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1874501](//www.worldcat.org/oclc/1874501). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [21276828](//www.ncbi.nlm.nih.gov/pubmed/21276828). 
@@ -729,7 +729,7 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 34. ↑ Titeler, M., Lyon, R. A., Glennon, R. A. (February 1988). ["Radioligand binding evidence implicates the brain 5-HT2 receptor as a site of action for LSD and phenylisopropylamine hallucinogens"](http://link.springer.com/10.1007/BF00176847). *Psychopharmacology*. **94** (2). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF00176847](//doi.org/10.1007%2FBF00176847). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3158](//www.worldcat.org/issn/0033-3158). 
 35. ↑ Backstrom, J. (August 1999). ["Agonist-Directed Signaling of Serotonin 5-HT2C Receptors Differences Between Serotonin and Lysergic Acid Diethylamide (LSD)"](http://www.nature.com/doifinder/10.1016/S0893-133X(99)00005-6). *Neuropsychopharmacology*. **21** (2): 77S–81S. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0893-133X(99)00005-6](//doi.org/10.1016%2FS0893-133X%2899%2900005-6). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0893-133X](//www.worldcat.org/issn/0893-133X). 
 36. ↑ 36.0 36.1 Nichols, C. (May 2002). ["A Single Dose of Lysergic Acid Diethylamide Influences Gene Expression Patterns within the Mammalian Brain"](http://www.nature.com/doifinder/10.1016/S0893-133X(01)00405-5). *Neuropsychopharmacology*. **26** (5): 634–642. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0893-133X(01)00405-5](//doi.org/10.1016%2FS0893-133X%2801%2900405-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0893-133X](//www.worldcat.org/issn/0893-133X). 
-37. ↑ Marona-Lewicka, Danuta; Thisted, Ronald A.; [Nichols, David E.](/wiki/David_E._Nichols) (2005). "Distinct temporal phases in the behavioral pharmacology of LSD: dopamine D2 receptor-mediated effects in the rat and implications for psychosis". *Psychopharmacology*. **180** (3): 427–435. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-005-2183-9](//doi.org/10.1007%2Fs00213-005-2183-9). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3158](//www.worldcat.org/issn/0033-3158). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [15723230](//www.ncbi.nlm.nih.gov/pubmed/15723230). 
+37. ↑ Marona-Lewicka, Danuta; Thisted, Ronald A.; Nichols, David E. (2005). "Distinct temporal phases in the behavioral pharmacology of LSD: dopamine D2 receptor-mediated effects in the rat and implications for psychosis". *Psychopharmacology*. **180** (3): 427–435. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-005-2183-9](//doi.org/10.1007%2Fs00213-005-2183-9). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3158](//www.worldcat.org/issn/0033-3158). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [15723230](//www.ncbi.nlm.nih.gov/pubmed/15723230). 
 38. ↑ Hanna, Jon; Manning, Tania (2012). ["The End of a Chemistry Era...: Dave Nichols Closes Shop"](https://www.erowid.org/culture/characters/nichols_david/nichols_david_interview1.shtml). *Erowid Extracts*. Erowid. **23**: 2–7. Retrieved January 3, 2020. 
 39. ↑ Johansen, PØ; Krebs, TS (March 2015). "Psychedelics not linked to mental health problems or suicidal behavior: a population study". *Journal of psychopharmacology (Oxford, England)*. **29** (3): 270–9. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1177/0269881114568039](//doi.org/10.1177%2F0269881114568039). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [25744618](//www.ncbi.nlm.nih.gov/pubmed/25744618). 
 40. ↑ Holland D, Passie T (2011) Flashback-Phaenomene als Nachwirkung von Halluzinogeneinnahme VWB-Verlag, Berlin
@@ -756,9 +756,9 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 61. ↑ dvp (July 28, 2009). ["Psychiater Gasser bricht sein Schweigen"](https://web.archive.org/web/20140902094708/https://www.bazonline.ch/wissen/medizin-und-psychologie/Psychiater-Gasser-bricht-sein-Schweigen/story/25732295) (in German). Basler Zeitung. Archived from [the original](https://www.bazonline.ch/wissen/medizin-und-psychologie/Psychiater-Gasser-bricht-sein-Schweigen/story/25732295) on September 2, 2014. Retrieved January 6, 2020. 
 62. ↑ David Jay Brown (May 26, 2011). ["Landmark Clinical LSD Study Nears Completion"](https://patch.com/california/santacruz/landmark-clinical-lsd-study-nears-completion). Patch. Retrieved January 6, 2020. 
 63. ↑ Ly, Calvin; Greb, Alexandra C.; Cameron, Lindsay P.; Wong, Jonathan M.; Barragan, Eden V.; Wilson, Paige C.; Burbach, Kyle F.; Soltanzadeh Zarandi, Sina; Sood, Alexander; Paddy, Michael R.; Duim, Whitney C.; Dennis, Megan Y.; McAllister, A. Kimberley; Ori-McKenney, Kassandra M.; Gray, John A.; Olson, David E. (2018). "Psychedelics Promote Structural and Functional Neural Plasticity". *Cell Reports*. **23** (11): 3170–3182. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.celrep.2018.05.022](//doi.org/10.1016%2Fj.celrep.2018.05.022). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2211-1247](//www.worldcat.org/issn/2211-1247). 
-64. ↑ Nutt DJ, King LA, Phillips LD (November 2010). "Drug harms in the UK: a multicriteria decision analysis". *Lancet*. **376** (9752): 1558–1565. [CiteSeerX](http://en.wikipedia.org/wiki/CiteSeerX) [10.1.1.690.1283](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.1283) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0140-6736(10)61462-6](//doi.org/10.1016%2FS0140-6736%2810%2961462-6). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [21036393](//www.ncbi.nlm.nih.gov/pubmed/21036393).  Unknown parameter `|s2cid=` ignored ([help](/w/index.php?title=Help:CS1_errors&action=edit&redlink=1))
+64. ↑ Nutt DJ, King LA, Phillips LD (November 2010). "Drug harms in the UK: a multicriteria decision analysis". *Lancet*. **376** (9752): 1558–1565. [CiteSeerX](http://en.wikipedia.org/wiki/CiteSeerX) [10.1.1.690.1283](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.1283) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0140-6736(10)61462-6](//doi.org/10.1016%2FS0140-6736%2810%2961462-6). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [21036393](//www.ncbi.nlm.nih.gov/pubmed/21036393).
 65. ↑ Nutt, D.; King, L. A.; Saulsbury, W.; Blakemore, C. (2007). "Development of a rational scale to assess the harm of drugs of potential misuse". *Health Policy*. **369** (9566): 1047–1053. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0140-6736(07)60464-4](//doi.org/10.1016%2FS0140-6736%2807%2960464-4). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1872-6054](//www.worldcat.org/issn/1872-6054). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0168-8510](//www.worldcat.org/issn/0168-8510). [OCLC](http://en.wikipedia.org/wiki/OCLC) [10960514](//www.worldcat.org/oclc/10960514). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17382831](//www.ncbi.nlm.nih.gov/pubmed/17382831). 
-66. ↑ 66.0 66.1 66.2 66.3 [Nichols, David E.](/wiki/David_E._Nichols) (2004). "Hallucinogens". *Pharmacology & Therapeutics*. **101** (2): 131–181. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.pharmthera.2003.11.002](//doi.org/10.1016%2Fj.pharmthera.2003.11.002). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-016X](//www.worldcat.org/issn/1879-016X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0163-7258](//www.worldcat.org/issn/0163-7258). [OCLC](http://en.wikipedia.org/wiki/OCLC) [04981366](//www.worldcat.org/oclc/04981366). 
+66. ↑ 66.0 66.1 66.2 66.3 Nichols, David E. (2004). "Hallucinogens". *Pharmacology & Therapeutics*. **101** (2): 131–181. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.pharmthera.2003.11.002](//doi.org/10.1016%2Fj.pharmthera.2003.11.002). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-016X](//www.worldcat.org/issn/1879-016X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0163-7258](//www.worldcat.org/issn/0163-7258). [OCLC](http://en.wikipedia.org/wiki/OCLC) [04981366](//www.worldcat.org/oclc/04981366). 
 67. ↑ ["Does LSD have any medical uses?"](https://drugscience.org.uk/drug-information/lsd/#048630551458760). *LSD*. Drug Science. Retrieved January 7, 2020. 
 68. ↑ Balestrieri, A. (1 September 1959). ["Acquired and Crossed Tolerance to Mescaline, LSD-25, and BOL-148"](http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001/archpsyc.1959.03590030063008). *Archives of General Psychiatry*. **1** (3): 279. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1001/archpsyc.1959.03590030063008](//doi.org/10.1001%2Farchpsyc.1959.03590030063008). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0003-990X](//www.worldcat.org/issn/0003-990X). 
 69. ↑ Isbell, H. (1 November 1956). ["Studies on Lysergic Acid Diethylamide (LSD-25): 1. Effects in Former Morphine Addicts and Development of Tolerance During Chronic Intoxication"](http://archneurpsyc.jamanetwork.com/article.aspx?doi=10.1001/archneurpsyc.1956.02330290012002). *A.M.A. Archives of Neurology & Psychiatry*. **76** (5): 468. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1001/archneurpsyc.1956.02330290012002](//doi.org/10.1001%2Farchneurpsyc.1956.02330290012002). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0096-6886](//www.worldcat.org/issn/0096-6886). 

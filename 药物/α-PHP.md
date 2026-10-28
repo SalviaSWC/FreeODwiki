@@ -198,9 +198,9 @@ _**免责声明：** 下列效应参考自 [***主观效应索引***](../药效/
 
 ### 体验报告
 
-目前在我们的 [体验报告索引](../报告/psychounautwiki/Experience_index.md) 中有 1 篇描述该物质效应的报告。
+目前在我们的 [体验报告索引](https://psychonautwiki.org/wiki/Experience_index) 中有 1 篇描述该物质效应的报告。
 
-*   [体验：40+ mg A-PHP](../报告/psychounautwiki/Experience:_40+_mg_A-PHP.md)
+*   [体验：40+ mg A-PHP](https://psychonautwiki.org/wiki/Experience:_40+_mg_A-PHP)
 
 更多的体验报告可以在这里找到：
 

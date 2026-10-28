@@ -44,7 +44,7 @@
 
 **4-溴-2,5-二甲氧基苯丙胺**（也称为 **dimethoxybromoamphetamine**、**brolamfetamine**、**bromo-DMA**，通常简称为 **DOB**）是一种[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)的[致幻剂](/文档/药物分类/致幻剂.md)，给药后会产生异常持久的致幻效果。它是 [DOx](/文档/药物分类/苯丙胺类物质.md) 系列致幻苯丙胺的一员呢喵。
 
-虽然 DOB 早在 1967 年就已合成并在 1971 年进行了简短测试，但直到 [Alexander Shulgin](/wiki/Alexander_Shulgin) 在 1991 年出版《PiHKAL》一书后，它才得到深入的记录。
+虽然 DOB 早在 1967 年就已合成并在 1971 年进行了简短测试，但直到 Alexander Shulgin 在 1991 年出版《PiHKAL》一书后，它才得到深入的记录。
 
 今天，DOB 被用作娱乐性药物和[宗教致幻剂](/文档/药物分类/宗教致幻剂.md)。它在网上很少出售，但更常在街头以伪装成 [LSD](/药物/LSD.md) 的形式出现，因为它的大小可以印在类似尺寸的邮票纸上呢喵。
 
@@ -161,7 +161,7 @@ DOB 的致幻效果被认为来自它作为[部分激动剂](/文档/受体激�
 
 ### 体验报告
 
-* [体验报告：2 张 DOB 邮票 - 我的 DOB 噩梦](/报告/psychounautwiki/Experience:2_tabs_DOB_-_My_DOB_Nightmare)
+* [体验报告：2 张 DOB 邮票 - 我的 DOB 噩梦](https://psychonautwiki.org/wiki/Experience:2_tabs_DOB_-_My_DOB_Nightmare)
 
 ## 毒性与危害潜力
 

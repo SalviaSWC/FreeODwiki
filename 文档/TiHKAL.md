@@ -12,7 +12,7 @@
 | **出版社** | Transform Press |
 | **出版时间** | 1997年9月 |
 
-**《TiHKAL：续作》**（*TiHKAL: The Continuation*）是 [Alexander Shulgin](/wiki/Alexander_Shulgin)（亚历山大·舒尔金）和 Ann Shulgin 在 1997 年撰写的书籍，内容关于被称为[色胺类物质](/文档/药物分类/色胺类物质.md)的一类精神活性药物。TiHKAL 是“我所认识和深爱的色胺们”（***T**ryptamines **i** **H**ave **K**nown **A**nd **L**oved*）的首字母缩写喵。这本书是《[PiHKAL](./PiHKAL.md)：一个化学爱情故事》的续集哦。
+**《TiHKAL：续作》**（*TiHKAL: The Continuation*）是 Alexander Shulgin（亚历山大·舒尔金）和 Ann Shulgin 在 1997 年撰写的书籍，内容关于被称为[色胺类物质](/文档/药物分类/色胺类物质.md)的一类精神活性药物。TiHKAL 是“我所认识和深爱的色胺们”（***T**ryptamines **i** **H**ave **K**nown **A**nd **L**oved*）的首字母缩写喵。这本书是《[PiHKAL](./PiHKAL.md)：一个化学爱情故事》的续集哦。
 
 TiHKAL 分为两部分呢。第一部分保留了所有权利，以虚构的自传开始，随后是一系列关于各种主题的论文，范围涵盖了心理治疗、荣格心理学，到自然界中 [DMT](/药物/DMT.md) 的普遍性、[死藤水](/药物/死藤水.md)以及毒品战争。TiHKAL 的第二部分（可以在非商业复制的条件下分发）是 55 种迷幻化合物（许多是由 Alexander Shulgin 自己发现的）的详细合成手册，包括它们的化学结构、剂量建议和定性评论。
 

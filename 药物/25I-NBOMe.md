@@ -254,13 +254,13 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 
 ### 体验报告
 
-描述此化合物在我们[体验索引](/报告/psychounautwiki/)中的效应的轶事报告包括：
+描述此化合物在我们[体验索引](https://psychonautwiki.org/wiki/Experience_index)中的效应的轶事报告包括：
 
-* [Experience:1000ug / 1 tab - No sense of enlightenment but absolutely breath taking visuals](/报告/psychounautwiki/Experience:1000ug_/_1_tab_-_No_sense_of_enlightenment_but_absolutely_breath_taking_visuals.md)
-* [Experience:Becoming a god with my boyfriend](/报告/psychounautwiki/Experience:Becoming_a_god_with_my_boyfriend.md)
-* [Experience:Unknown dosage - Ego death and becoming one with a singular entity](/报告/psychounautwiki/Experience:Unknown_dosage_-_Ego_death_and_becoming_one_with_a_singular_entity.md)
-* [Experience:Unknown dosage / 1 tabs - Prolonged unity and messiah syndrome at school](/报告/psychounautwiki/Experience:Unknown_dosage_/_1_tabs_-_Prolonged_unity_and_messiah_syndrome_at_school.md)
-* [Experience:Unknown dosage / 3 tabs - Ego death and a total break through in the snow](/报告/psychounautwiki/Experience:Unknown_dosage_/_3_tabs_-_Ego_death_and_a_total_break_through_in_the_snow.md)
+* [Experience:1000ug / 1 tab - No sense of enlightenment but absolutely breath taking visuals](https://psychonautwiki.org/wiki/Experience:1000ug_/_1_tab_-_No_sense_of_enlightenment_but_absolutely_breath_taking_visuals)
+* [Experience:Becoming a god with my boyfriend](https://psychonautwiki.org/wiki/Experience:Becoming_a_god_with_my_boyfriend)
+* [Experience:Unknown dosage - Ego death and becoming one with a singular entity](https://psychonautwiki.org/wiki/Experience:Unknown_dosage_-_Ego_death_and_becoming_one_with_a_singular_entity)
+* [Experience:Unknown dosage / 1 tabs - Prolonged unity and messiah syndrome at school](https://psychonautwiki.org/wiki/Experience:Unknown_dosage_/_1_tabs_-_Prolonged_unity_and_messiah_syndrome_at_school)
+* [Experience:Unknown dosage / 3 tabs - Ego death and a total break through in the snow](https://psychonautwiki.org/wiki/Experience:Unknown_dosage_/_3_tabs_-_Ego_death_and_a_total_break_through_in_the_snow)
 
 其他体验报告可以在这里找到：
 
@@ -298,7 +298,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 
 由于很难在吸墨纸上放置如此精确的剂量，因此吸墨纸上的剂量也存在不确定性。强烈不建议鼻吸、雾化或饮用此物质的酊剂，这与许多记录在案的死亡事件有关\[1\]\[14\]\[2\]。一项研究发现，25I-NBOMe 和 25C-NBOMe 吸墨纸含有药物含量较高的“热点”，这意味着存在药物过量的固有风险。\[15\]
 
-NBOMes 的过量效应通常是危险的高[心率](/药效/心率增快.md)、[血压](/药效/血压升高.md)、[体温过高](/药效/体温升高.md)和显着的[血管收缩](/药效/血管收缩.md)[\[16\]](### **[认知效应](/药效/认知效应.md)** ![User.png](/文件/User.png)
+NBOMes 的过量效应通常是危险的高[心率](/药效/心率增快.md)、[血压](/药效/血压升高.md)、[体温过高](/药效/体温升高.md)和显着的[血管收缩](/药效/血管收缩.md)\[16\]\[17\]，还伴有[困惑](/药效/认知效应.md)、[妄想](/药效/认知效应.md)、[恐慌发作](/药效/认知效应.md)、攻击性行为、[麻木](/药效/触觉效应.md)或疼痛、[健忘](/药效/认知效应.md)以及经常发生的[癫痫发作](/药效/癫痫发作.md)。过量的风险包括从器官衰竭到心脏骤停和死亡的任何情况。还有多份关于人们因致命伤害自己或坠落身亡的报告\[18\]\[19\]。[苯二氮卓类物质](/文档/药物分类/苯二氮卓类物质.md)或[抗精神病药](/文档/药物分类/抑制剂.md)可以帮助缓解过量期间的心理效应，但在可能出现 25I-NBOMe 过量的情况下，即使是可能的过量，也应始终寻求医疗救助。
 
 ### 危险的相互作用
 
