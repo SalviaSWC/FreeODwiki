@@ -20,82 +20,82 @@ description:
 | 精神活性类别 | *[迷幻剂](/文档/药物分类/迷幻剂.md)* |
 | 化学类别 | *[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
-| **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始。[见伤害减少措施章节](#毒性和危害潜力)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始。见伤害减少措施章节。 | ⇣ [口服](/文档/给药途径.md) |
 | **[剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 0.5 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 1 - 3 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 3 - 5 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 5 - 10 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 10 mg + |
+| [阈值](/文档/药物剂量分类.md) | 0.5 mg |
+| [轻微](/文档/药物剂量分类.md) | 1 - 3 mg |
+| [中等](/文档/药物剂量分类.md) | 3 - 5 mg |
+| [强烈](/文档/药物剂量分类.md) | 5 - 10 mg |
+| [严重](/文档/药物剂量分类.md) | 10 mg + |
 | **[时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 12 - 16 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 1 - 2 小时 |
-| [药效上升](/文档/药效时长.md#药效上升) | 2 - 3 小时 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 6 - 8 小时 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 3 - 5 小时 |
-| [药效残余](/文档/药效时长.md#药效残余) | 4 - 16 小时 |
+| [总时长](/文档/药效时长.md) | 12 - 16 小时 |
+| [药效发作](/文档/药效时长.md) | 1 - 2 小时 |
+| [药效上升](/文档/药效时长.md) | 2 - 3 小时 |
+| [药效达峰](/文档/药效时长.md) | 6 - 8 小时 |
+| [药效褪去](/文档/药效时长.md) | 3 - 5 小时 |
+| [药效残余](/文档/药效时长.md) | 4 - 16 小时 |
 | **[免责声明](/文档/免责声明.md)：** 本站的[剂量](/文档/给药剂量.md)信息汇编自用户报告和[资源](/文档/网络.md)，仅供教育目的。它不是建议，应与其他来源核实以确保准确性。 | |
-| **[相互作用](#危险的相互作用)** | |
+| **相互作用** | |
 | [兴奋剂](/文档/药物分类/兴奋剂.md) | |
 | [曲马多](./曲马多.md) | |
 | [锂](./锂.md) | |
 
 **2,5-二甲氧基-4-甲基苯丙胺**（也称为 **DOM**、**STP** 或 **"Serenity, Tranquility and Peace"**[宁静、安宁与和平]）是一种较少人知晓的[苯丙胺](/文档/药物分类/苯丙胺类物质.md)类[迷幻剂](/文档/药物分类/迷幻剂.md)。DOM 是 [DOx](/文档/药物分类/2,5-二甲氧基苯丙胺类物质.md) 系列化合物的一员，该系列以其高效力、长持续时间和混合了[迷幻](/文档/药物分类/迷幻剂.md)与[兴奋](/文档/药物分类/兴奋剂.md)效应而闻名。它通过作用于大脑中的[血清素](/文档/血清素.md)受体产生效应。
 
-DOM 最初由[亚历山大·舒尔金](/文档/人物/亚历山大·舒尔金.md)于 1963 年合成并测试。[\[1\]](#cite_note-DOM-1) 它在 1967 年夏天以 "STP"（"Serenity, Tranquility, and Peace"）的名字获得了一定的流行度，[\[2\]](#cite_note-2) 但由于其副作用，其使用很短暂。1991 年，DOM 的合成和药理学发表在舒尔金的书 *[PiHKAL](/文档/书籍/PiHKAL.md)*（"我所知和所爱的苯乙胺"）中。[\[3\]](#cite_note-PiHKAL-3)
+DOM 最初由[亚历山大·舒尔金](/文档/人物/亚历山大·舒尔金.md)于 1963 年合成并测试。\[1\] 它在 1967 年夏天以 "STP"（"Serenity, Tranquility, and Peace"）的名字获得了一定的流行度，\[2\] 但由于其副作用，其使用很短暂。1991 年，DOM 的合成和药理学发表在舒尔金的书 *[PiHKAL](/文档/书籍/PiHKAL.md)*（"我所知和所爱的苯乙胺"）中。\[3\]
 
 多年来，DOM 因其高度的剂量敏感性而闻名，通常以吸墨纸的形式出售，并以其强烈的视觉效果、身体负荷以及中性、分析性的思维状态而著称。许多报告还表明，对于那些还没有迷幻药经验的人来说，这种化学物质的效应可能过于难以驾驭。
 
 ## 目录
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
-    * [4.1 **躯体效应**](#躯体效应)
-    * [4.2 **视觉效应**](#视觉效应)
-        * [4.2.1 增强](#增强)
-        * [4.2.2 扭曲](#扭曲)
-        * [4.2.3 几何学](#几何学)
-        * [4.2.4 幻觉状态](#幻觉状态)
-    * [4.3 **认知效应**](#认知效应)
-    * [4.4 **听觉效应**](#听觉效应)
-    * [4.5 **多感官效应**](#多感官效应)
-    * [4.6 **超个人效应**](#超个人效应)
-    * [4.7 体验报告](#体验报告)
-* [5 毒性和危害潜力](#毒性和危害潜力)
-    * [5.1 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    * [5.2 过量](#过量)
-    * [5.3 危险的相互作用](#危险的相互作用)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-    * [8.1 讨论](#讨论)
-* [9 参考资料](#参考资料)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
+    * 4.1 **躯体效应**
+    * 4.2 **视觉效应**
+        * 4.2.1 增强
+        * 4.2.2 扭曲
+        * 4.2.3 几何学
+        * 4.2.4 幻觉状态
+    * 4.3 **认知效应**
+    * 4.4 **听觉效应**
+    * 4.5 **多感官效应**
+    * 4.6 **超个人效应**
+    * 4.7 体验报告
+* 5 毒性和危害潜力
+    * 5.1 耐受性和成瘾潜力
+    * 5.2 过量
+    * 5.3 危险的相互作用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+    * 8.1 讨论
+* 9 参考资料
 
 ## 历史与文化
 
-DOM 最初由亚历山大·舒尔金于 1963 年合成并测试，当时他正在研究 4 位取代对迷幻苯丙胺的影响。[\[1\]](#cite_note-DOM-1) DOM 是所谓的“神奇半打”（magical half-dozen）的一部分，这是指舒尔金自我评价中最重要的苯乙胺化合物，除了[麦斯卡林](./麦斯卡林.md)外，所有这些化合物都是他自己开发和合成的。它们可以在 [PiHKAL](/文档/书籍/PiHKAL.md) 的第一本书中找到，分别是：[麦斯卡林](./麦斯卡林.md)、DOM、[2C-B](./2C-B.md)、[2C-E](./2C-E.md)、[2C-T-2](./2C-T-2.md) 和 [2C-T-7](./2C-T-7.md)。
+DOM 最初由亚历山大·舒尔金于 1963 年合成并测试，当时他正在研究 4 位取代对迷幻苯丙胺的影响。\[1\] DOM 是所谓的“神奇半打”（magical half-dozen）的一部分，这是指舒尔金自我评价中最重要的苯乙胺化合物，除了[麦斯卡林](./麦斯卡林.md)外，所有这些化合物都是他自己开发和合成的。它们可以在 [PiHKAL](/文档/书籍/PiHKAL.md) 的第一本书中找到，分别是：[麦斯卡林](./麦斯卡林.md)、DOM、[2C-B](./2C-B.md)、[2C-E](./2C-E.md)、[2C-T-2](./2C-T-2.md) 和 [2C-T-7](./2C-T-7.md)。
 
 1967 年年中，含有 20 毫克（后来是 10 毫克）DOM 的片剂以 "STP"（"Serenity, Tranquility, and Peace" 的缩写）的名义在旧金山的海特-阿什伯里区广泛分发。\[*[来源请求](/文档/来源请求.md)*\] DOM 在黑市上的这种短暂出现由于几个原因而被证明是灾难性的。首先，这些片剂含有过高剂量的化学物质。这加上 DOM 缓慢的起效时间（这鼓励了一些熟悉起效更快的物质如 LSD 的用户进行补服）及其极长的持续时间，导致许多用户恐慌并将一些人送进了急诊室。其次，由于当时不知道名为 "STP" 的片剂就是 DOM，治疗这种过量服用变得复杂。\[*[来源请求](/文档/来源请求.md)*\]
 
 ## 化学
 
-DOM，或 4-甲基-2,5-二甲氧基苯丙胺，是[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)类的一个分子。苯丙胺是取代苯乙胺，包含一个通过乙基链结合到氨基 (NH2) 的苯环，以及一个结合到 α 碳 Rα 的甲基。DOM 包含连接到苯环 R2 和 R5 碳上的甲氧基官能团 (OCH3) 和连接到 R4 碳上的甲基。DOM 是苯乙胺 [2C-D](./2C-D.md) 的苯丙胺类似物。[\[4\]](#cite_note-:0-4)[\[5\]](#cite_note-5)
+DOM，或 4-甲基-2,5-二甲氧基苯丙胺，是[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)类的一个分子。苯丙胺是取代苯乙胺，包含一个通过乙基链结合到氨基 (NH2) 的苯环，以及一个结合到 α 碳 Rα 的甲基。DOM 包含连接到苯环 R2 和 R5 碳上的甲氧基官能团 (OCH3) 和连接到 R4 碳上的甲基。DOM 是苯乙胺 [2C-D](./2C-D.md) 的苯丙胺类似物。\[4\]\[5\]
 
 这是苯乙胺家族中最后一批在进行人体研究之前进行了任何动物毒性研究的实验性化合物之一。小鼠的 LD50 为 100 - 125 mg/kg。人类的有效剂量 2 mg（对于 80 kg 的男性）相当于 25 μg/kg。
 
-与 DOI 一样，DOB 中重原子（溴原子）的存在使得放射性同位素标记的材料成为一种强大的研究工具。[\[4\]](#cite_note-:0-4)
+与 DOI 一样，DOB 中重原子（溴原子）的存在使得放射性同位素标记的材料成为一种强大的研究工具。\[4\]
 
 ## 药理学
 
 更多信息：[血清素能迷幻剂](/文档/药物分类/迷幻剂.md)
 
-DOM 是 [5-HT2 受体](/文档/血清素.md#5-HT系统)家族的选择性[部分激动剂](/文档/受体激动剂.md)。其迷幻效应由其在 5-HT2A 和 5-HT2B 受体上的[激动](/文档/受体激动剂.md)特性介导，但在 5-HT2C 受体上较少。由于其选择性，DOM 经常在科学研究中用于研究 [5-HT2 受体](/文档/血清素.md#5-HT系统)亚家族。DOM 是一个[手性](/文档/化学/手性.md)分子，*R*-(-)-DOM 是更活跃的[对映异构体](/文档/化学/对映异构体.md)，作为血清素受体家族（主要是 5-HT2 亚型）的强效激动剂发挥作用。[\[6\]](#cite_note-6) 然而，这些相互作用的作用以及它们如何导致迷幻体验仍然难以捉摸。
+DOM 是 [5-HT2 受体](/文档/血清素.md)家族的选择性[部分激动剂](/文档/受体激动剂.md)。其迷幻效应由其在 5-HT2A 和 5-HT2B 受体上的[激动](/文档/受体激动剂.md)特性介导，但在 5-HT2C 受体上较少。由于其选择性，DOM 经常在科学研究中用于研究 [5-HT2 受体](/文档/血清素.md)亚家族。DOM 是一个[手性](/文档/化学/手性.md)分子，*R*-(-)-DOM 是更活跃的[对映异构体](/文档/化学/对映异构体.md)，作为血清素受体家族（主要是 5-HT2 亚型）的强效激动剂发挥作用。\[6\] 然而，这些相互作用的作用以及它们如何导致迷幻体验仍然难以捉摸。
 
-DOM 的 2,6-二甲氧基位置异构体，称为 Ψ-DOM，在 *PiHKAL* 中也被提及为具有活性，其 α-乙基同系物 Ariadne 也是如此。作为识别 DOM 在 5-HT2A 受体上的结合模式的努力的一部分，芳香环 2,5- 位上的甲氧基被改变的类似物也已被合成和测试。2- 和 5- O-去甲基衍生物 2-DM-DOM 和 5-DM-DOM，以及 2- 和 5- 乙基类似物 2-Et-DOM 和 5-Et-DOM 都已被测试，但在所有情况下，其效力都明显低于相应的甲氧基化合物，表明氧孤对电子在 5-HT2A 结合中的重要性。[\[7\]](#cite_note-7)
+DOM 的 2,6-二甲氧基位置异构体，称为 Ψ-DOM，在 *PiHKAL* 中也被提及为具有活性，其 α-乙基同系物 Ariadne 也是如此。作为识别 DOM 在 5-HT2A 受体上的结合模式的努力的一部分，芳香环 2,5- 位上的甲氧基被改变的类似物也已被合成和测试。2- 和 5- O-去甲基衍生物 2-DM-DOM 和 5-DM-DOM，以及 2- 和 5- 乙基类似物 2-Et-DOM 和 5-Et-DOM 都已被测试，但在所有情况下，其效力都明显低于相应的甲氧基化合物，表明氧孤对电子在 5-HT2A 结合中的重要性。\[7\]
 
-有强烈的暗示表明肺部发生了一些代谢转化，只有在此之后，真正的活性代谢物才能用于中枢作用。这与相对缓慢的起效和非常长的作用持续时间相一致。[\[4\]](#cite_note-:0-4)
+有强烈的暗示表明肺部发生了一些代谢转化，只有在此之后，真正的活性代谢物才能用于中枢作用。这与相对缓慢的起效和非常长的作用持续时间相一致。\[4\]
 
 ## 主观效应
 
@@ -230,26 +230,26 @@ DOM 不会导致习惯形成，使用的欲望会随着使用而减少。它通�
 
 *始终进行独立研究（例如 [Google](https://www.google.com)、[DuckDuckGo](https://www.duckduckgo.com)、[PubMed](https://pubmed.ncbi.nlm.nih.gov/)）以确保两种或多种物质的组合可以安全食用。列出的一些相互作用来源于 [TripSit](https://combo.tripsit.me)。*
 
-*   **[锂](./锂.md)**：[\[8\]](#cite_note-8) 锂通常用于治疗双相情感障碍；然而，大量的轶事证据表明，将其与迷幻药一起服用会显著增加[精神病](/药效/精神病发作.md)和[癫痫发作](/文档/癫痫发作.md)的风险。[\[9\]](#cite_note-9)[\[10\]](#cite_note-10)[\[11\]](#cite_note-11) 因此，这种组合应**严格避免**。
-*   **[曲马多](./曲马多.md)** - 曲马多降低癫痫发作阈值[\[12\]](#cite_note-12)，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能作为癫痫发作的触发因素，特别是对于那些有此倾向的人。\[*[来源请求](/文档/来源请求.md)*\]
+*   **[锂](./锂.md)**：\[8\] 锂通常用于治疗双相情感障碍；然而，大量的轶事证据表明，将其与迷幻药一起服用会显著增加[精神病](/药效/精神病发作.md)和[癫痫发作](/文档/癫痫发作.md)的风险。\[9\]\[10\]\[11\] 因此，这种组合应**严格避免**。
+*   **[曲马多](./曲马多.md)** - 曲马多降低癫痫发作阈值\[12\]，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能作为癫痫发作的触发因素，特别是对于那些有此倾向的人。\[*[来源请求](/文档/来源请求.md)*\]
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 兴奋剂影响大脑的许多部分。与迷幻药结合使用，刺激可能会变成无法控制的[焦虑](/药效/焦虑.md)、[恐慌](/药效/惊恐发作.md)、[思维循环](/药效/思维循环.md)和[偏执](/药效/妄想.md)。这种相互作用可能会导致精神病风险升高。\[*[来源请求](/文档/来源请求.md)*\]
 
 ## 法律地位
 
-在国际上，麦斯卡林是 1971 年精神药物公约附表 I 的物质。[\[13\]](#cite_note-13)
+在国际上，麦斯卡林是 1971 年精神药物公约附表 I 的物质。\[13\]
 
-*   **澳大利亚**：澳大利亚对所有取代苯乙胺（包括整个 [DOx](/文档/药物分类/2,5-二甲氧基苯丙胺类物质.md) 家族）实施全面禁令。[\[14\]](#cite_note-14)
+*   **澳大利亚**：澳大利亚对所有取代苯乙胺（包括整个 [DOx](/文档/药物分类/2,5-二甲氧基苯丙胺类物质.md) 家族）实施全面禁令。\[14\]
 *   **奥地利**：根据 SMG (Suchtmittelgesetz Österreich)，拥有、生产和销售 DOM 是非法的。\[*[来源请求](/文档/来源请求.md)*\]
-*   **巴西**：拥有、生产和销售是非法的，因为它以 "STP" 列在 Portaria SVS/MS nº 344 上。[\[15\]](#cite_note-15)
-*   **比利时**：DOM 是一类药物。[\[16\]](#cite_note-16)
-*   **加拿大**：DOM 是一类药物。[\[17\]](#cite_note-17)
-*   **德国**：截至 1971 年 4 月 15 日，DOM 受 Anlage I BtMG（麻醉品法，附表 I，前称：Opiumgesetz 鸦片法）管制。[\[18\]](#cite_note-18)[\[19\]](#cite_note-19) 未经许可制造、拥有、进口、出口、购买、销售、采购或分发它是非法的。[\[20\]](#cite_note-20)
-*   **拉脱维亚**：DOM 是附表 I 管制物质。[\[21\]](#cite_note-21)
+*   **巴西**：拥有、生产和销售是非法的，因为它以 "STP" 列在 Portaria SVS/MS nº 344 上。\[15\]
+*   **比利时**：DOM 是一类药物。\[16\]
+*   **加拿大**：DOM 是一类药物。\[17\]
+*   **德国**：截至 1971 年 4 月 15 日，DOM 受 Anlage I BtMG（麻醉品法，附表 I，前称：Opiumgesetz 鸦片法）管制。\[18\]\[19\] 未经许可制造、拥有、进口、出口、购买、销售、采购或分发它是非法的。\[20\]
+*   **拉脱维亚**：DOM 是附表 I 管制物质。\[21\]
 *   **新西兰**：DOM 是 A 类药物。\[*[来源请求](/文档/来源请求.md)*\]
-*   **瑞士**：DOM 是 Verzeichnis D 中明确列出的管制物质。[\[22\]](#cite_note-22)
-*   **英国**：DOM 是 A 类药物。[\[23\]](#cite_note-23)
+*   **瑞士**：DOM 是 Verzeichnis D 中明确列出的管制物质。\[22\]
+*   **英国**：DOM 是 A 类药物。\[23\]
 *   **美国**：DOM 是附表 I 药物。\[*[来源请求](/文档/来源请求.md)*\]
-*   **捷克共和国**：DOM 是附表 I 药物。[\[24\]](#cite_note-24)
+*   **捷克共和国**：DOM 是附表 I 药物。\[24\]
 
 ## 另见
 
@@ -273,27 +273,27 @@ DOM 不会导致习惯形成，使用的欲望会随着使用而减少。它通�
 
 ## 参考资料
 
-1.  ↑ [1.0](#cite_ref-DOM_1-0) [1.1](#cite_ref-DOM_1-1) [Alexander Shulgin](/文档/人物/亚历山大·舒尔金.md); Ann Shulgin (1991). *[PiHKAL: A Chemical Love Story](/文档/书籍/PiHKAL.md)*. United States: Transform Press. pp. 53–56. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605 "wikipedia:Special:BookSources/0963009605"). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [1166889264](//www.worldcat.org/oclc/1166889264).
-2.  [↑](#cite_ref-2) Berkeley, B. (16 April 1967). ["STP's faster, here's why"](http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGD19670616.1.3). *Independent Voices*: 3–5.
-3.  [↑](#cite_ref-PiHKAL_3-0) [*Erowid Online Books : “PIHKAL” - The Chemical Story*](https://www.erowid.org/library/books_online/pihkal/pihkal.shtml)
-4.  ↑ [4.0](#cite_ref-:0_4-0) [4.1](#cite_ref-:0_4-1) [4.2](#cite_ref-:0_4-2) [*#62 DOB PiHKAL*](http://isomerdesign.com/PiHKAL/read.php?domain=pk&id=62)
-5.  [↑](#cite_ref-5) [*#68 DOM PiHKAL*](http://isomerdesign.com/PiHKAL/read.php?domain=pk&id=68)
-6.  [↑](#cite_ref-6) Sanders-Bush, E., Burris, K. D., Knoth, K. (September 1988). "Lysergic acid diethylamide and 2,5-dimethoxy-4-methylamphetamine are partial agonists at serotonin receptors linked to phosphoinositide hydrolysis". *The Journal of Pharmacology and Experimental Therapeutics*. **246** (3): 924–928. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-3565](//www.worldcat.org/issn/0022-3565).
-7.  [↑](#cite_ref-7) Eckler, J. R., Chang-Fong, J., Rabin, R. A., Smith, C., Teitler, M., Glennon, R. A., Winter, J. C. (July 2003). ["Behavioral characterization of 2-O-desmethyl and 5-O-desmethyl metabolites of the phenylethylamine hallucinogen DOM"](https://linkinghub.elsevier.com/retrieve/pii/S009130570300159X). *Pharmacology Biochemistry and Behavior*. **75** (4): 845–852. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/S0091-3057(03)00159-X](//doi.org/10.1016%2FS0091-3057%2803%2900159-X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0091-3057](//www.worldcat.org/issn/0091-3057).
-8.  [↑](#cite_ref-8) Nayak, S., Gukasyan, N., Barrett, F. S., Erowid, E., Erowid, F., Griffiths, R. R. (2021), [*Classic psychedelic coadministration with lithium, but not lamotrigine, is associated with seizures: an analysis of online psychedelic experience reports*](https://osf.io/r726d), PsyArXiv
-9.  [↑](#cite_ref-9) "wanderlei" (October 3, 2010). ["A Nice Little Trip to the Hospital: Lithium & LSD"](https://erowid.org/experiences/exp.php?ID=83935). *Erowid Experience Vaults*. Erowid. ExpID: 83935. Retrieved January 7, 2020.
-10. [↑](#cite_ref-10) "MissDja1a" (December 16, 2008). ["Having a Seizure and Passing Out: Lithium & LSD"](https://erowid.org/experiences/exp.php?ID=75153). *Erowid Experience Vaults*. Erowid. ExpID: 75153. Retrieved January 7, 2020.
-11. [↑](#cite_ref-11) "throwaway_naut" (2014). ["Please Read: a cautionary tale concerning LSD"](https://www.reddit.com/r/Psychonaut/comments/17uspp/please_read_a_cautionary_tale_concerning_lsd). *r/Psychonaut*. Reddit. Retrieved January 7, 2020.
-12. [↑](#cite_ref-12) Talaie, H., Panahandeh, R., Fayaznouri, M. R., Asadi, Z., Abdollahi, M. (June 2009). ["Dose-independent occurrence of seizure with tramadol"](http://link.springer.com/10.1007/BF03161089). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039).
-13. [↑](#cite_ref-13) ["CONVENTION ON PSYCHOTROPIC SUBSTANCES 1971"](http://www.emcdda.europa.eu/system/files/attachments/10451/convention_1971_en.pdf) (PDF). United Nations. Retrieved December 10, 2019.
-14. [↑](#cite_ref-14) New Psychoactive Substances (National Drug and Alcohol Research Centre 2014) | <https://comorbidity.edu.au/sites/default/files/cre/page/New%20Psychoactive%20Substances.pdf>
-15. [↑](#cite_ref-15) <http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7>
-16. [↑](#cite_ref-16) <https://www.wiv-isp.be/epidemio/epien/birn/EWS03.pdf>
-17. [↑](#cite_ref-17) Branch, L. S. (2022), [*Consolidated federal laws of Canada, Controlled Drugs and Substances Act*](https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-13.html)
-18. [↑](#cite_ref-18) ["Fünfte Verordnung über die den Betäubungsmitteln gleichgestellten Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?start=//*%5B@attr_id=%27bgbl171s0315.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl171s0315.pdf%27%5D__1576103284216) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
-19. [↑](#cite_ref-19) ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-20. [↑](#cite_ref-20) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-21. [↑](#cite_ref-21) [*Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem*](https://likumi.lv/doc.php?id=121086)
-22. [↑](#cite_ref-22) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-23. [↑](#cite_ref-23) [*Misuse of Drugs Act 1971*](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2#commentary-M_F_83d9b65b-d638-43b1-ea64-c129d6f1ef0a)
-24. [↑](#cite_ref-24) [*463/2013 Sb. Nařízení vlády o seznamech návykových látek*](https://www.zakonyprolidi.cz/cs/2013-463)
+1.  ↑ 1.0 1.1 [Alexander Shulgin](/文档/人物/亚历山大·舒尔金.md); Ann Shulgin (1991). *[PiHKAL: A Chemical Love Story](/文档/书籍/PiHKAL.md)*. United States: Transform Press. pp. 53–56. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
+2.  ↑ Berkeley, B. (16 April 1967). ["STP's faster, here's why"](http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGD19670616.1.3). *Independent Voices*: 3–5.
+3.  ↑ [*Erowid Online Books : “PIHKAL” - The Chemical Story*](https://www.erowid.org/library/books_online/pihkal/pihkal.shtml)
+4.  ↑ 4.0 4.1 4.2 [*#62 DOB PiHKAL*](http://isomerdesign.com/PiHKAL/read.php?domain=pk&id=62)
+5.  ↑ [*#68 DOM PiHKAL*](http://isomerdesign.com/PiHKAL/read.php?domain=pk&id=68)
+6.  ↑ Sanders-Bush, E., Burris, K. D., Knoth, K. (September 1988). "Lysergic acid diethylamide and 2,5-dimethoxy-4-methylamphetamine are partial agonists at serotonin receptors linked to phosphoinositide hydrolysis". *The Journal of Pharmacology and Experimental Therapeutics*. **246** (3): 924–928. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565).
+7.  ↑ Eckler, J. R., Chang-Fong, J., Rabin, R. A., Smith, C., Teitler, M., Glennon, R. A., Winter, J. C. (July 2003). ["Behavioral characterization of 2-O-desmethyl and 5-O-desmethyl metabolites of the phenylethylamine hallucinogen DOM"](https://linkinghub.elsevier.com/retrieve/pii/S009130570300159X). *Pharmacology Biochemistry and Behavior*. **75** (4): 845–852. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0091-3057(03)00159-X](//doi.org/10.1016%2FS0091-3057%2803%2900159-X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0091-3057](//www.worldcat.org/issn/0091-3057).
+8.  ↑ Nayak, S., Gukasyan, N., Barrett, F. S., Erowid, E., Erowid, F., Griffiths, R. R. (2021), [*Classic psychedelic coadministration with lithium, but not lamotrigine, is associated with seizures: an analysis of online psychedelic experience reports*](https://osf.io/r726d), PsyArXiv
+9.  ↑ "wanderlei" (October 3, 2010). ["A Nice Little Trip to the Hospital: Lithium & LSD"](https://erowid.org/experiences/exp.php?ID=83935). *Erowid Experience Vaults*. Erowid. ExpID: 83935. Retrieved January 7, 2020.
+10. ↑ "MissDja1a" (December 16, 2008). ["Having a Seizure and Passing Out: Lithium & LSD"](https://erowid.org/experiences/exp.php?ID=75153). *Erowid Experience Vaults*. Erowid. ExpID: 75153. Retrieved January 7, 2020.
+11. ↑ "throwaway_naut" (2014). ["Please Read: a cautionary tale concerning LSD"](https://www.reddit.com/r/Psychonaut/comments/17uspp/please_read_a_cautionary_tale_concerning_lsd). *r/Psychonaut*. Reddit. Retrieved January 7, 2020.
+12. ↑ Talaie, H., Panahandeh, R., Fayaznouri, M. R., Asadi, Z., Abdollahi, M. (June 2009). ["Dose-independent occurrence of seizure with tramadol"](http://link.springer.com/10.1007/BF03161089). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+13. ↑ ["CONVENTION ON PSYCHOTROPIC SUBSTANCES 1971"](http://www.emcdda.europa.eu/system/files/attachments/10451/convention_1971_en.pdf) (PDF). United Nations. Retrieved December 10, 2019.
+14. ↑ New Psychoactive Substances (National Drug and Alcohol Research Centre 2014) | <https://comorbidity.edu.au/sites/default/files/cre/page/New%20Psychoactive%20Substances.pdf>
+15. ↑ <http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7>
+16. ↑ <https://www.wiv-isp.be/epidemio/epien/birn/EWS03.pdf>
+17. ↑ Branch, L. S. (2022), [*Consolidated federal laws of Canada, Controlled Drugs and Substances Act*](https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-13.html)
+18. ↑ ["Fünfte Verordnung über die den Betäubungsmitteln gleichgestellten Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?start=//*%5B@attr_id=%27bgbl171s0315.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl171s0315.pdf%27%5D__1576103284216) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
+19. ↑ ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+20. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+21. ↑ [*Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem*](https://likumi.lv/doc.php?id=121086)
+22. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+23. ↑ [*Misuse of Drugs Act 1971*](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2#commentary-M_F_83d9b65b-d638-43b1-ea64-c129d6f1ef0a)
+24. ↑ [*463/2013 Sb. Nařízení vlády o seznamech návykových látek*](https://www.zakonyprolidi.cz/cs/2013-463)

@@ -2,7 +2,7 @@
 
 [◀返回](index.md)
 
-[Commons-emblem-notice.png](/文件/Commons-emblem-notice.png) 关于[给药途径](/文档/给药途径.md)的小贴士喵：在 PiHKAL 里，没有任何一个体验报告是关于抽吸或雾化苯乙胺类化合物的哦。不过呢，书中没有列出的 [25I-NBOMe](/药物/25I-NBOMe.md)（一种[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)，虽然毒性很大）是有抽吸使用的记录的呢。[\[1\]](#cite_note-erowid_effects-1)
+[Commons-emblem-notice.png](/文件/Commons-emblem-notice.png) 关于[给药途径](/文档/给药途径.md)的小贴士喵：在 PiHKAL 里，没有任何一个体验报告是关于抽吸或雾化苯乙胺类化合物的哦。不过呢，书中没有列出的 [25I-NBOMe](/药物/25I-NBOMe.md)（一种[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)，虽然毒性很大）是有抽吸使用的记录的呢。\[1\]
 
 | 书籍信息 | |
 | :--- | :--- |
@@ -22,12 +22,12 @@
 
 ## 目录
 
-* [1 列出的苯乙胺类物质](#列出的苯乙胺类物质)
-* [2 值得注意的摘录](#值得注意的摘录)
-    + [2.1 神奇的半打](#神奇的半打)
-    + [2.2 基础苯丙胺类](#基础苯丙胺类)
-* [3 另见](#另见)
-* [4 外部链接](#外部链接)
+* 1 列出的苯乙胺类物质
+* 2 值得注意的摘录
+    + 2.1 神奇的半打
+    + 2.2 基础苯丙胺类
+* 3 另见
+* 4 外部链接
 
 ## 列出的苯乙胺类物质
 
@@ -259,4 +259,4 @@
 * [List of naturally occurring phenethylamines (Wikipedia)](https://en.wikipedia.org/wiki/List_of_naturally_occurring_phenethylamines)
 * [*PIHKAL* • Info: A Visual Index and Map of *PIHKAL: A Chemical Love Story* by Alexander & Ann Shulgin](http://isomerdesign.com/PiHKAL/)
 
-1. [↑](#cite_ref-erowid_effects_1-0) ["2C-I-NBOMe (25I) Effects"](https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_effects.shtml). Erowid.
+1. ↑ ["2C-I-NBOMe (25I) Effects"](https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_effects.shtml). Erowid.

@@ -28,31 +28,31 @@ description:
 
 **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请始终从较低剂量开始。[另见负责任的用药部分](/文档/负责任的用药索引页.md)。
 
-#### [口服](/文档/给药途径.md#口服)
+#### [口服](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md) | | [药效时长](/文档/药效时长.md) | |
 | --- | --- | --- | --- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 25 mg | [总时长](/文档/药效时长.md#总时长) | 12 - 20 小时 |
-| [轻微](/文档/药物剂量分类.md#轻微) | 75 - 100 mg | [药效发作](/文档/药效时长.md#药效发作) | 45 - 120 分钟 |
-| [中等](/文档/药物剂量分类.md#中等) | 100 - 170 mg | [药效上升](/文档/药效时长.md#药效上升) | 1 - 2 小时 |
-| [强烈](/文档/药物剂量分类.md#强烈) | 170 - 250 mg | [药效达峰](/文档/药效时长.md#药效达峰) | 3 - 7 小时 |
-| [严重](/文档/药物剂量分类.md#严重) | 250 mg + | [药效褪去](/文档/药效时长.md#药效褪去) | 6 - 10 小时 |
-| | | [药效残余](/文档/药效时长.md#药效残余) | 6+ 小时 |
+| [阈值](/文档/药物剂量分类.md) | 25 mg | [总时长](/文档/药效时长.md) | 12 - 20 小时 |
+| [轻微](/文档/药物剂量分类.md) | 75 - 100 mg | [药效发作](/文档/药效时长.md) | 45 - 120 分钟 |
+| [中等](/文档/药物剂量分类.md) | 100 - 170 mg | [药效上升](/文档/药效时长.md) | 1 - 2 小时 |
+| [强烈](/文档/药物剂量分类.md) | 170 - 250 mg | [药效达峰](/文档/药效时长.md) | 3 - 7 小时 |
+| [严重](/文档/药物剂量分类.md) | 250 mg + | [药效褪去](/文档/药效时长.md) | 6 - 10 小时 |
+| | | [药效残余](/文档/药效时长.md) | 6+ 小时 |
 
-#### [鼻吸](/文档/给药途径.md#鼻吸)
+#### [鼻吸](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md) | | [药效时长](/文档/药效时长.md) | |
 | --- | --- | --- | --- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 15 mg | [总时长](/文档/药效时长.md#总时长) | 12 - 18 小时 |
-| [轻微](/文档/药物剂量分类.md#轻微) | 30 - 75 mg | [药效发作](/文档/药效时长.md#药效发作) | 5 - 15 分钟 |
-| [中等](/文档/药物剂量分类.md#中等) | 75 - 150 mg | [药效上升](/文档/药效时长.md#药效上升) | 15 - 30 分钟 |
-| [强烈](/文档/药物剂量分类.md#强烈) | 150 mg + | [药效达峰](/文档/药效时长.md#药效达峰) | 3 - 6 小时 |
-| | | [药效褪去](/文档/药效时长.md#药效褪去) | 3 小时 |
-| | | [药效残余](/文档/药效时长.md#药效残余) | 3 小时 |
+| [阈值](/文档/药物剂量分类.md) | 15 mg | [总时长](/文档/药效时长.md) | 12 - 18 小时 |
+| [轻微](/文档/药物剂量分类.md) | 30 - 75 mg | [药效发作](/文档/药效时长.md) | 5 - 15 分钟 |
+| [中等](/文档/药物剂量分类.md) | 75 - 150 mg | [药效上升](/文档/药效时长.md) | 15 - 30 分钟 |
+| [强烈](/文档/药物剂量分类.md) | 150 mg + | [药效达峰](/文档/药效时长.md) | 3 - 6 小时 |
+| | | [药效褪去](/文档/药效时长.md) | 3 小时 |
+| | | [药效残余](/文档/药效时长.md) | 3 小时 |
 
 **免责声明：** 本站的[给药剂量](/文档/给药剂量.md)信息收集自用户和[网络](/文档/关于本站/科学信息索引页.md)，仅供教育目的。这不是推荐，应与其他来源核实以确保准确性。
 
-### [药物联用](#危险的药物联用)
+### 药物联用
 
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)**
 *   **[抑制剂](/文档/药物分类/抑制剂.md)**
@@ -65,28 +65,28 @@ description:
 
 ## 目录
 
-*   [1 化学](#化学)
-*   [2 药理学](#药理学)
-*   [3 主观效应](#主观效应)
-    *   [3.1 **躯体效应**](#躯体效应)
-    *   [3.2 **视觉效应**](#视觉效应)
-        *   [3.2.1 抑制](#抑制)
-        *   [3.2.2 扭曲](#扭曲)
-        *   [3.2.3 几何学](#几何学)
-        *   [3.2.4 幻觉状态](#幻觉状态)
-    *   [3.3 **认知效应**](#认知效应)
-    *   [3.4 **听觉效应**](#听觉效应)
-    *   [3.5 体验报告](#体验报告)
-*   [4 潜在的危险联用](#潜在的危险联用)
-*   [5 毒性和伤害潜力](#毒性和伤害潜力)
-    *   [5.1 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    *   [5.2 危险的药物联用](#危险的药物联用)
-    *   [5.3 泌尿道效应](#泌尿道效应)
-*   [6 法律地位](#法律地位)
-*   [7 另见](#另见)
-*   [8 外部链接](#外部链接)
-*   [9 文献](#文献)
-*   [10 参考文献](#参考文献)
+*   1 化学
+*   2 药理学
+*   3 主观效应
+    *   3.1 **躯体效应**
+    *   3.2 **视觉效应**
+        *   3.2.1 抑制
+        *   3.2.2 扭曲
+        *   3.2.3 几何学
+        *   3.2.4 幻觉状态
+    *   3.3 **认知效应**
+    *   3.4 **听觉效应**
+    *   3.5 体验报告
+*   4 潜在的危险联用
+*   5 毒性和伤害潜力
+    *   5.1 耐受性和成瘾潜力
+    *   5.2 危险的药物联用
+    *   5.3 泌尿道效应
+*   6 法律地位
+*   7 另见
+*   8 外部链接
+*   9 文献
+*   10 参考文献
 
 ## 化学
 
@@ -125,7 +125,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 ### **[视觉效应](/药效/视觉效应.md)** ![Eye](/文件/Eye.png)
 
 #### 抑制
-*   **[视觉断连](/药效/视觉断连.md)** - 这最终导致 4-MeO-PCP 等同于著名的“[K洞](https://en.wikipedia.org/wiki/K-hole)”的状态，或者更具体地说，是 *[结构](/药效/视觉断连.md#结构)* 旁边的 *[洞、空间和空隙](/药效/视觉断连.md#洞、空间和空隙)*。
+*   **[视觉断连](/药效/视觉断连.md)** - 这最终导致 4-MeO-PCP 等同于著名的“[K洞](https://en.wikipedia.org/wiki/K-hole)”的状态，或者更具体地说，是 *[结构](/药效/视觉断连.md)* 旁边的 *[洞、空间和空隙](/药效/视觉断连.md)*。
 *   **[视觉锐度抑制](/药效/视觉锐度抑制.md)**
 *   **[复视](/药效/复视.md)**
 *   **[模式识别抑制](/药效/模式识别抑制.md)**
@@ -192,7 +192,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 ## 毒性和伤害潜力
 
-另见：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md#毒性和伤害潜力)，以及[负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+另见：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md)，以及[负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
 娱乐性使用 4-MeO-PCP 的毒性和长期健康影响似乎尚未在任何科学背景下进行过研究，确切的毒性剂量尚不清楚。这是因为 4-MeO-PCP 的人类使用历史非常短。来自社区内尝试过 4-MeO-PCP 的人的轶事证据表明，如果只是单独以低到中等剂量少量使用这种药物，似乎没有任何负面健康影响（但不能完全保证）。在消费之前，应始终进行 [独立研究](https://www.google.com/) 以确保两种或多种物质的组合是安全的。
 
@@ -260,12 +260,12 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 ## 参考文献
 
-1. ↑ [1.0](#cite_ref-From_PCP_to_MXE_1-0) [1.1](#cite_ref-From_PCP_to_MXE_1-1) [1.2](#cite_ref-From_PCP_to_MXE_1-2) [1.3](#cite_ref-From_PCP_to_MXE_1-3) [1.4](#cite_ref-From_PCP_to_MXE_1-4) Morris, H., Wallach, J. (July 2014). ["From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs: PCP to MXE"](https://onlinelibrary.wiley.com/doi/10.1002/dta.1620). *Drug Testing and Analysis*. **6** (7–8): 614–632. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/dta.1620](//doi.org/10.1002%2Fdta.1620). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1942-7603](//www.worldcat.org/issn/1942-7603).
-2. [↑](#cite_ref-2) New drugs coming our way - what are they and how do we detect them? | http://www.emcdda.europa.eu/attachements.cfm/att_78745_EN_4_King.pps
-3. ↑ [3.0](#cite_ref-Ketamine_Analogue_3-0) [3.1](#cite_ref-Ketamine_Analogue_3-1) Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., Iversen, L. (19 March 2013). ["The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059334). *PLOS ONE*. **8** (3): e59334. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1371/journal.pone.0059334](//doi.org/10.1371%2Fjournal.pone.0059334). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1932-6203](//www.worldcat.org/issn/1932-6203).
-4. [↑](#cite_ref-4) [*NpSG - Neue-psychoaktive-Stoffe-Gesetz*](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html)
-5. [↑](#cite_ref-5) Cannabinoider föreslås bli klassade som hälsofarlig vara | http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2014/november/cannabinoider-foreslas-bli-klassade-som-halsofarlig-vara/
-6. [↑](#cite_ref-6) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-7. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_7-0) [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
-8. [↑](#cite_ref-List_of_illegal_substances_for_law_8-0) https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf
-9. [↑](#cite_ref-9) [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)
+1. ↑ 1.0 1.1 1.2 1.3 1.4 Morris, H., Wallach, J. (July 2014). ["From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs: PCP to MXE"](https://onlinelibrary.wiley.com/doi/10.1002/dta.1620). *Drug Testing and Analysis*. **6** (7–8): 614–632. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1620](//doi.org/10.1002%2Fdta.1620). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603).
+2. ↑ New drugs coming our way - what are they and how do we detect them? | http://www.emcdda.europa.eu/attachements.cfm/att_78745_EN_4_King.pps
+3. ↑ 3.0 3.1 Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., Iversen, L. (19 March 2013). ["The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059334). *PLOS ONE*. **8** (3): e59334. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1371/journal.pone.0059334](//doi.org/10.1371%2Fjournal.pone.0059334). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1932-6203](//www.worldcat.org/issn/1932-6203).
+4. ↑ [*NpSG - Neue-psychoaktive-Stoffe-Gesetz*](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html)
+5. ↑ Cannabinoider föreslås bli klassade som hälsofarlig vara | http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2014/november/cannabinoider-foreslas-bli-klassade-som-halsofarlig-vara/
+6. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+7. ↑ [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
+8. ↑ https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf
+9. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)

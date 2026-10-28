@@ -71,7 +71,7 @@ description:
 | [药效褪去](/文档/药效时长.md) | 1 - 2 小时 |
 | [药效残余](/文档/药效时长.md) | 4 - 48 小时 |
 | - **[免责声明](/wiki/Disclaimer):** 本站的[剂量](/文档/给药剂量.md)信息仅供教育用途，收集自用户和[资源](/wiki/Network)。这不构成推荐，使用前请务必通过其他来源核实准确性哦。 | |
-| **[相互作用](#危险的相互作用)** | |
+| **相互作用** | |
 | 兴奋剂 | 💔 联用危险 |
 | 抑制剂 | 💔 联用危险 |
 
@@ -83,29 +83,29 @@ PCP 在 1950 年代作为[麻醉](/药效/镇痛.md)药物上市，但由于解�
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **身体效应**](#身体效应)
-    + [3.2 **解离效应**](#解离效应)
-    + [3.3 **视觉效应**](#视觉效应)
-        - [3.3.1 抑制](#抑制)
-        - [3.3.2 扭曲](#扭曲)
-        - [3.3.3 几何](#几何)
-        - [3.3.4 幻觉状态](#幻觉状态)
-    + [3.4 **认知效应**](#认知效应)
-    + [3.5 **听觉效应**](#听觉效应)
-    + [3.6 体验报告](#体验报告)
-* [4 毒性和危害潜力](#毒性和危害潜力)
-    + [4.1 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    + [4.2 精神病发作](#精神病发作)
-    + [4.3 泌尿道效应](#泌尿道效应)
-    + [4.4 危险的相互作用](#危险的相互作用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 文献](#文献)
-* [9 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 **身体效应**
+    + 3.2 **解离效应**
+    + 3.3 **视觉效应**
+        - 3.3.1 抑制
+        - 3.3.2 扭曲
+        - 3.3.3 几何
+        - 3.3.4 幻觉状态
+    + 3.4 **认知效应**
+    + 3.5 **听觉效应**
+    + 3.6 体验报告
+* 4 毒性和危害潜力
+    + 4.1 耐受性和成瘾潜力
+    + 4.2 精神病发作
+    + 4.3 泌尿道效应
+    + 4.4 危险的相互作用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 文献
+* 9 参考文献
 
 ## 化学
 
@@ -299,22 +299,22 @@ _**警告：** 许多精神活性物质单独使用时相对安全，但与某�
 
 ## 参考文献
 
-1. [↑](#cite_ref-one_1-0) Luisada, P. V. M. D. (1978), [*The Phencyclidine Psychosis: Phenomenology and Treatment." Phencyclidine (PCP) Abuse: An Appraisal.*](https://www.ojp.gov/ncjrs/virtual-library/abstracts/phencyclidine-psychosis-phenomenology-and-treatment-phencyclidine), National Institute on Drug Abuse 
-2. [↑](#cite_ref-two_2-0) Tasman, A., Kay, J., Lieberman, J. A., First, M. B., Riba, M. (5 February 2015). *Psychiatry*. John Wiley & Sons. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9781118753361](http://en.wikipedia.org/wiki/Special:BookSources/9781118753361). 
-3. [↑](#cite_ref-3) PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
-4. [↑](#cite_ref-4) PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
-5. [↑](#cite_ref-psychosis_5-0) 3-MeO-PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
-6. ↑ [6.0](#cite_ref-Morris2014_6-0) [6.1](#cite_ref-Morris2014_6-1) Morris, H., Wallach, J. (August 2014). "From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs". *Drug Testing and Analysis*. **6** (7–8): 614–632. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1620](//doi.org/10.1002%2Fdta.1620). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7611](//www.worldcat.org/issn/1942-7611). 
-7. [↑](#cite_ref-7) McKim, W. A. (2000). *Drugs and behavior: an introduction to behavioral pharmacology* (4th ed ed.). Prentice Hall. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780130831460](http://en.wikipedia.org/wiki/Special:BookSources/9780130831460). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
-8. [↑](#cite_ref-8) Kapur, S., Seeman, P. (September 2002). ["NMDA receptor antagonists ketamine and PCP have direct effects on the dopamine D2 and serotonin 5-HT2 receptors—implications for models of schizophrenia"](https://www.nature.com/articles/4001093). *Molecular Psychiatry*. **7** (8): 837–844. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/sj.mp.4001093](//doi.org/10.1038%2Fsj.mp.4001093). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-5578](//www.worldcat.org/issn/1476-5578). 
-9. [↑](#cite_ref-9) Abuse, N. I. on D. (2019), [*Hallucinogens DrugFacts*](https://nida.nih.gov/publications/drugfacts/hallucinogens) 
-10. [↑](#cite_ref-10) Kalir, A., Edery, H., Pelah, Z., Balderman, D., Porath, G. (May 1969). ["1-Phenylcycloalkylamine derivatives. II. Synthesis and pharmacological activity"](https://pubs.acs.org/doi/abs/10.1021/jm00303a030). *Journal of Medicinal Chemistry*. **12** (3): 473–477. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm00303a030](//doi.org/10.1021%2Fjm00303a030). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). 
-11. ↑ [11.0](#cite_ref-Tasman2015_11-0) [11.1](#cite_ref-Tasman2015_11-1) Tasman, A., Kay, J., Lieberman, J. A., First, M. B., Riba, M. (5 February 2015). *Psychiatry*. John Wiley & Sons. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9781118753361](http://en.wikipedia.org/wiki/Special:BookSources/9781118753361). 
-12. [↑](#cite_ref-erowid_12-0) PCE Effects by Erowid | <https://www.erowid.org/chemicals/PCE/PCE_effects.shtml>
-13. [↑](#cite_ref-13) Olney, J. W., Labruyere, J., Price, M. T. (16 June 1989). "Pathological changes induced in cerebrocortical neurons by phencyclidine and related drugs". *Science (New York, N.Y.)*. **244** (4910): 1360–1362. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1126/science.2660263](//doi.org/10.1126%2Fscience.2660263). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0036-8075](//www.worldcat.org/issn/0036-8075). 
-14. [↑](#cite_ref-14) Hargreaves, R. J., Hill, R. G., Iversen, L. L. (1994). "Neuroprotective NMDA antagonists: the controversy over their potential for adverse effects on cortical neuronal morphology". *Acta Neurochirurgica. Supplementum*. **60**: 15–19. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/978-3-7091-9334-1_4](//doi.org/10.1007%2F978-3-7091-9334-1_4). 
-15. [↑](#cite_ref-15) Reynolds, L. M., Cochran, S. M., Morris, B. J., Pratt, J. A., Reynolds, G. P. (1 March 2005). "Chronic phencyclidine administration induces schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate in rat brain". *Schizophrenia Research*. **73** (2–3): 147–152. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.schres.2004.02.003](//doi.org/10.1016%2Fj.schres.2004.02.003). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0920-9964](//www.worldcat.org/issn/0920-9964). 
-16. [↑](#cite_ref-16) Murray, J. B. (May 2002). "Phencyclidine (PCP): a dangerous drug, but useful in schizophrenia research". *The Journal of Psychology*. **136** (3): 319–327. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1080/00223980209604159](//doi.org/10.1080%2F00223980209604159). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3980](//www.worldcat.org/issn/0022-3980). 
-17. [↑](#cite_ref-17) ["List of psychotropic substances under international control (Green List)"](http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf) (PDF) (23rd ed.). International Narcotics Control Board (INCB). August 2003. Archived from [the original](http://www.incb.org/pdf/e/list/green.pdf) (PDF) on March 2, 2007. 
-18. [↑](#cite_ref-18) [*Anlage I BtMG - Einzelnorm*](http://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) 
-19. [↑](#cite_ref-19) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+1. ↑ Luisada, P. V. M. D. (1978), [*The Phencyclidine Psychosis: Phenomenology and Treatment." Phencyclidine (PCP) Abuse: An Appraisal.*](https://www.ojp.gov/ncjrs/virtual-library/abstracts/phencyclidine-psychosis-phenomenology-and-treatment-phencyclidine), National Institute on Drug Abuse 
+2. ↑ Tasman, A., Kay, J., Lieberman, J. A., First, M. B., Riba, M. (5 February 2015). *Psychiatry*. John Wiley & Sons. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9781118753361](http://en.wikipedia.org/wiki/Special:BookSources/9781118753361). 
+3. ↑ PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
+4. ↑ PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
+5. ↑ 3-MeO-PCP Psychosis (PsychonautWiki) | <https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential>
+6. ↑ 6.0 6.1 Morris, H., Wallach, J. (August 2014). "From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs". *Drug Testing and Analysis*. **6** (7–8): 614–632. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1620](//doi.org/10.1002%2Fdta.1620). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7611](//www.worldcat.org/issn/1942-7611). 
+7. ↑ McKim, W. A. (2000). *Drugs and behavior: an introduction to behavioral pharmacology* (4th ed ed.). Prentice Hall. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780130831460](http://en.wikipedia.org/wiki/Special:BookSources/9780130831460). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+8. ↑ Kapur, S., Seeman, P. (September 2002). ["NMDA receptor antagonists ketamine and PCP have direct effects on the dopamine D2 and serotonin 5-HT2 receptors—implications for models of schizophrenia"](https://www.nature.com/articles/4001093). *Molecular Psychiatry*. **7** (8): 837–844. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/sj.mp.4001093](//doi.org/10.1038%2Fsj.mp.4001093). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-5578](//www.worldcat.org/issn/1476-5578). 
+9. ↑ Abuse, N. I. on D. (2019), [*Hallucinogens DrugFacts*](https://nida.nih.gov/publications/drugfacts/hallucinogens) 
+10. ↑ Kalir, A., Edery, H., Pelah, Z., Balderman, D., Porath, G. (May 1969). ["1-Phenylcycloalkylamine derivatives. II. Synthesis and pharmacological activity"](https://pubs.acs.org/doi/abs/10.1021/jm00303a030). *Journal of Medicinal Chemistry*. **12** (3): 473–477. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm00303a030](//doi.org/10.1021%2Fjm00303a030). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). 
+11. ↑ 11.0 11.1 Tasman, A., Kay, J., Lieberman, J. A., First, M. B., Riba, M. (5 February 2015). *Psychiatry*. John Wiley & Sons. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9781118753361](http://en.wikipedia.org/wiki/Special:BookSources/9781118753361). 
+12. ↑ PCE Effects by Erowid | <https://www.erowid.org/chemicals/PCE/PCE_effects.shtml>
+13. ↑ Olney, J. W., Labruyere, J., Price, M. T. (16 June 1989). "Pathological changes induced in cerebrocortical neurons by phencyclidine and related drugs". *Science (New York, N.Y.)*. **244** (4910): 1360–1362. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1126/science.2660263](//doi.org/10.1126%2Fscience.2660263). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0036-8075](//www.worldcat.org/issn/0036-8075). 
+14. ↑ Hargreaves, R. J., Hill, R. G., Iversen, L. L. (1994). "Neuroprotective NMDA antagonists: the controversy over their potential for adverse effects on cortical neuronal morphology". *Acta Neurochirurgica. Supplementum*. **60**: 15–19. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/978-3-7091-9334-1_4](//doi.org/10.1007%2F978-3-7091-9334-1_4). 
+15. ↑ Reynolds, L. M., Cochran, S. M., Morris, B. J., Pratt, J. A., Reynolds, G. P. (1 March 2005). "Chronic phencyclidine administration induces schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate in rat brain". *Schizophrenia Research*. **73** (2–3): 147–152. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.schres.2004.02.003](//doi.org/10.1016%2Fj.schres.2004.02.003). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0920-9964](//www.worldcat.org/issn/0920-9964). 
+16. ↑ Murray, J. B. (May 2002). "Phencyclidine (PCP): a dangerous drug, but useful in schizophrenia research". *The Journal of Psychology*. **136** (3): 319–327. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1080/00223980209604159](//doi.org/10.1080%2F00223980209604159). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3980](//www.worldcat.org/issn/0022-3980). 
+17. ↑ ["List of psychotropic substances under international control (Green List)"](http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf) (PDF) (23rd ed.). International Narcotics Control Board (INCB). August 2003. Archived from [the original](http://www.incb.org/pdf/e/list/green.pdf) (PDF) on March 2, 2007. 
+18. ↑ [*Anlage I BtMG - Einzelnorm*](http://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) 
+19. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.

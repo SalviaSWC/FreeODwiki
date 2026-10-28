@@ -17,30 +17,30 @@
 
 | [给药途径](/文档/给药途径.md)                                                            |                        |
 | ------------------------------------------------------------------------------ | ---------------------- |
-| - **警告：** 由于个体体重、耐受、代谢和个人敏感性之间存在差异，务必从较低剂量开始哦。另见[负责任的用药索引页](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **警告：** 由于个体体重、耐受、代谢和个人敏感性之间存在差异，务必从较低剂量开始哦。另见[负责任的用药索引页](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |             |
 | ---------------------- | ----------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 20 mg       |
-| [轻微](/文档/药物剂量分类.md#轻微) | 40 - 60 mg  |
-| [中等](/文档/药物剂量分类.md#中等) | 60 - 80 mg  |
-| [强烈](/文档/药物剂量分类.md#强烈) | 80 - 100 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 100 mg +    |
+| [阈值](/文档/药物剂量分类.md) | 20 mg       |
+| [轻微](/文档/药物剂量分类.md) | 40 - 60 mg  |
+| [中等](/文档/药物剂量分类.md) | 60 - 80 mg  |
+| [强烈](/文档/药物剂量分类.md) | 80 - 100 mg |
+| [严重](/文档/药物剂量分类.md) | 100 mg +    |
 
 | [药效时长](/文档/药效时长.md)      |            |
 | ------------------------ | ---------- |
-| [总时长](/文档/药效时长.md#总时长)   | 5 - 8 小时   |
-| [药效发作](/文档/药效时长.md#药效发作) | 20 - 60 分钟 |
-| [药效上升](/文档/药效时长.md#药效上升) | 45 - 90 分钟 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 2 - 4 小时   |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1.5 - 3 小时 |
-| [药效残余](/文档/药效时长.md#药效残余) | 6 - 48 小时  |
+| [总时长](/文档/药效时长.md)   | 5 - 8 小时   |
+| [药效发作](/文档/药效时长.md) | 20 - 60 分钟 |
+| [药效上升](/文档/药效时长.md) | 45 - 90 分钟 |
+| [药效达峰](/文档/药效时长.md) | 2 - 4 小时   |
+| [药效褪去](/文档/药效时长.md) | 1.5 - 3 小时 |
+| [药效残余](/文档/药效时长.md) | 6 - 48 小时  |
 
 | 说明                                                                                                                  |   |
 | ------------------------------------------------------------------------------------------------------------------- | - |
 | - **[免责声明](/关于本站/免责声明.md)：** 本站的[给药剂量](/文档/给药剂量.md)信息仅为基于用户与各类[资料](/文档/index.md)收集而成的教育用途内容，并不是推荐哦，准确性还应结合其他来源进一步核实。 |   |
 
-| [危险的药物联用](#危险的药物联用)                                           |   |
+| 危险的药物联用                                           |   |
 | ------------------------------------------------------------- | - |
 | [酒精](/药物/酒精.md)                                               |   |
 | [MXE](/药物/MXE.md)                                             |   |
@@ -52,7 +52,7 @@
 | [25x-NBOH](/文档/药物分类/N-苄基苯乙胺类物质.md)                            |   |
 | [曲马多](/药物/曲马多.md)                                             |   |
 | [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)                                   |   |
-| [SNRIs](http://en.wikipedia.org/wiki/SNRIs "wikipedia:SNRIs") |   |
+| [SNRIs](http://en.wikipedia.org/wiki/SNRIs) |   |
 | [血清素释放剂](/文档/神经递质释放剂.md)                                      |   |
 | [SSRI](/文档/SSRI.md)                                           |   |
 | [5-HTP](/药物/5-HTP.md)                                         |   |
@@ -65,26 +65,26 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **视觉效应**](#视觉效应)
-  * [3.3 **认知效应**](#认知效应)
-  * [3.4 **药效残余**](#药效残余)
-  * [3.5 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **视觉效应**
+  * 3.3 **认知效应**
+  * 3.4 **药效残余**
+  * 3.5 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [4.2 精神病发作](#精神病发作)
-  * [4.3 危险的药物联用](#危险的药物联用)
+  * 4.1 耐受性与成瘾潜力
+  * 4.2 精神病发作
+  * 4.3 危险的药物联用
 
-    * [4.3.1 [血清素综合征](/文档/血清素综合征.md)风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+    * 4.3.1 [血清素综合征](/文档/血清素综合征.md)风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -92,13 +92,13 @@
 
 ## 药理学
 
-5-MAPB 是一种针对单胺类神经递质的三重[神经递质再摄取抑制剂](/文档/神经递质再摄取抑制剂.md)，作用对象包括[norepinephrine](/文档/去甲肾上腺素.md)、[dopamine](/文档/多巴胺.md)和[serotonin](/文档/血清素.md)；同时，它也是 [5-HT](/文档/血清素.md#the_5-ht_system) 与 [5-HT](/文档/血清素.md#the_5-ht_system) [受体](/文档/受体.md)的[受体激动剂](/文档/受体激动剂.md)。此外，还有推测认为 5-MAPB 也会作为上述[神经递质](/文档/神经递质.md)的[神经递质释放剂](/文档/神经递质释放剂.md)发挥作用。
+5-MAPB 是一种针对单胺类神经递质的三重[神经递质再摄取抑制剂](/文档/神经递质再摄取抑制剂.md)，作用对象包括[norepinephrine](/文档/去甲肾上腺素.md)、[dopamine](/文档/多巴胺.md)和[serotonin](/文档/血清素.md)；同时，它也是 [5-HT](/文档/血清素.md) 与 [5-HT](/文档/血清素.md) [受体](/文档/受体.md)的[受体激动剂](/文档/受体激动剂.md)。此外，还有推测认为 5-MAPB 也会作为上述[神经递质](/文档/神经递质.md)的[神经递质释放剂](/文档/神经递质释放剂.md)发挥作用。
 
 因此，像 5-MAPB 这样的释放剂，可能会通过结合并部分阻断通常负责从突触间隙清除并再摄取这些单胺的转运蛋白，来有效提高脑内血清素、去甲肾上腺素和多巴胺的水平。这样一来，血清素、多巴胺和去甲肾上腺素就会在大脑中与奖赏和认知相关的多个区域积累，从而带来[兴奋](/药效/兴奋.md)和[躯体欣快感](/药效/躯体欣快感.md)等效应哦。
 
 ## 主观效应
 
-| [![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png)](/文件/Metacogghjgjvghnition.png) | **本节“主观效应”还是一个[短页面](/文档/index.md)**。<br>*因此它仍在完善中，可能包含不完整或不准确的信息。*<br>*你可以帮助我们[扩充或修正它](#主观效应)。* |
+| [![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png)](/文件/Metacogghjgjvghnition.png) | **本节“主观效应”还是一个[短页面](/文档/index.md)**。<br>*因此它仍在完善中，可能包含不完整或不准确的信息。*<br>*你可以帮助我们扩充或修正它。* |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 _**免责声明：** 下方列出的效应引用自[***主观效应索引***](/药效/主观效应索引.md)（**SEI**）。这是一份基于轶事性用户报告以及 PsychonautWiki 贡献者个人分析所整理出的开放研究文献。因此，应当以适度怀疑的态度来看待这些内容。_
@@ -146,7 +146,7 @@ _**免责声明：** 下方列出的效应引用自[***主观效应索引***](/�
 
 ### **药效残余** ![Aftereffects (3).svg](/文件/Aftereffects.png)
 
-在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)期间所出现的效应，通常与其[药效达峰](/文档/药效时长.md#药效达峰)时的体验相比，会显得更负面也更不舒服。这通常被称为“comedown”，其发生是因为[神经递质](/文档/神经递质.md)耗竭。其常见表现包括：
+在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)期间所出现的效应，通常与其[药效达峰](/文档/药效时长.md)时的体验相比，会显得更负面也更不舒服。这通常被称为“comedown”，其发生是因为[神经递质](/文档/神经递质.md)耗竭。其常见表现包括：
 
 * **[焦虑](/药效/焦虑.md)**
 * **[认知疲劳](/药效/认知疲劳.md)**
@@ -169,7 +169,7 @@ _**免责声明：** 下方列出的效应引用自[***主观效应索引***](/�
 
 ## 毒性与伤害潜力
 
-更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 关于娱乐性使用 5-MAPB 的毒性以及长期健康影响，似乎尚未在任何科学语境下得到研究，确切的中毒剂量也仍然未知。这是因为 5-MAPB 的人类使用史非常有限。来自社区中尝试过 5-MAPB 的人的轶事证据表明，单独以低到中等剂量尝试这种药物并偶尔使用，似乎并不会带来明显的负面健康影响，不过嘛，这一点当然无法被完全保证。
 
@@ -220,12 +220,12 @@ _**免责声明：** 下方列出的效应引用自[***主观效应索引***](/�
 * **单胺氧化酶抑制剂** - 如 *banisteriopsis caapi*、syrian rue、phenelzine、selegiline 和 moclobemide。
 * **血清素释放剂** - 如 [MDMA](/药物/MDMA.md)、[4-FA](/药物/4-FA.md)、[甲基苯丙胺](/药物/甲基苯丙胺.md)、methylone 和 [αMT](/药物/αMT.md)。
 * **[SSRI](/文档/SSRI.md)** - 如 citalopram 和 sertraline
-* **[SNRIs](http://en.wikipedia.org/wiki/SNRIs "wikipedia:SNRIs")** - 如 [曲马多](/药物/曲马多.md) 和 venlafaxine
+* **[SNRIs](http://en.wikipedia.org/wiki/SNRIs)** - 如 [曲马多](/药物/曲马多.md) 和 venlafaxine
 * **[5-HTP](/药物/5-HTP.md)**
 
 ## 法律地位
 
-| [![Handcuffs-300px.png](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **本节“法律地位”还是一个[短页面](/文档/index.md)。**<br>*因此它可能包含不完整或不准确的信息。你可以帮助我们[扩充它](#法律地位)。* |
+| [![Handcuffs-300px.png](/文件/Handcuffs-300px.png)](/文件/Handcuffs-300px.png) | **本节“法律地位”还是一个[短页面](/文档/index.md)。**<br>*因此它可能包含不完整或不准确的信息。你可以帮助我们扩充它。* |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 
 * **法国**：自 2018 年 5 月 9 日起，5-MAPB 与其他苯并呋喃衍生物一同被归类为麻醉药品。
@@ -257,17 +257,17 @@ _**免责声明：** 下方列出的效应引用自[***主观效应索引***](/�
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) [*EMCDDA–Europol 2010 Annual Report on the implementation of Council Decision 2005/387/JHA*](https://www.emcdda.europa.eu/publications/implementation-reports/2010)
-2. [↑](#cite_ref-2) Dawson, P., Opacka-Juffry, J., Moffatt, J. D., Daniju, Y., Dutta, N., Ramsey, J., Davidson, C. (3 January 2014). "The effects of benzofury (5-APB) on the dopamine transporter and 5-HT2-dependent vasoconstriction in the rat". *Progress in Neuro-Psychopharmacology & Biological Psychiatry*. **48**: 57–63. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.pnpbp.2013.08.013](//doi.org/10.1016%2Fj.pnpbp.2013.08.013). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1878-4216](//www.worldcat.org/issn/1878-4216).
-3. [↑](#cite_ref-3) Iversen, L., Gibbons, S., Treble, R., Setola, V., Huang, X.-P., Roth, B. L. (30 January 2013). ["Neurochemical profiles of some novel psychoactive substances"](https://www.sciencedirect.com/science/article/pii/S0014299912010114). *European Journal of Pharmacology*. **700** (1): 147–151. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2012.12.006](//doi.org/10.1016%2Fbja%2Faei210). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-4. [↑](#cite_ref-4) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-5. [↑](#cite_ref-5) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-6. [↑](#cite_ref-6) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-7. [↑](#cite_ref-7) ["Article Annexe IV - Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants"](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043529751) (in French). Légifrance. Retrieved September 23, 2022.
-8. [↑](#cite_ref-8) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-9. [↑](#cite_ref-9) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
-10. [↑](#cite_ref-10) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-11. [↑](#cite_ref-11) ["平成26年8月15日付けで以下の21物質が指定薬物に指定されました。（施行日：平成26年8月25日）"](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/ihou-drug/20140815.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved on May 2, 2022.
-12. [↑](#cite_ref-12) Loi du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie. | [http://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo](http://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo)
-13. [↑](#cite_ref-13) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-14. [↑](#cite_ref-14) UK Home Office (2014-03-05). "[The Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014](https://www.legislation.gov.uk/ukdsi/2014/9780111110904)". UK Government. Retrieved 2014-03-11.
+1. ↑ [*EMCDDA–Europol 2010 Annual Report on the implementation of Council Decision 2005/387/JHA*](https://www.emcdda.europa.eu/publications/implementation-reports/2010)
+2. ↑ Dawson, P., Opacka-Juffry, J., Moffatt, J. D., Daniju, Y., Dutta, N., Ramsey, J., Davidson, C. (3 January 2014). "The effects of benzofury (5-APB) on the dopamine transporter and 5-HT2-dependent vasoconstriction in the rat". *Progress in Neuro-Psychopharmacology & Biological Psychiatry*. **48**: 57–63. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.pnpbp.2013.08.013](//doi.org/10.1016%2Fj.pnpbp.2013.08.013). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1878-4216](//www.worldcat.org/issn/1878-4216).
+3. ↑ Iversen, L., Gibbons, S., Treble, R., Setola, V., Huang, X.-P., Roth, B. L. (30 January 2013). ["Neurochemical profiles of some novel psychoactive substances"](https://www.sciencedirect.com/science/article/pii/S0014299912010114). *European Journal of Pharmacology*. **700** (1): 147–151. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.ejphar.2012.12.006](//doi.org/10.1016%2Fbja%2Faei210). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999).
+4. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+5. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+6. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+7. ↑ ["Article Annexe IV - Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants"](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043529751) (in French). Légifrance. Retrieved September 23, 2022.
+8. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+9. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
+10. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+11. ↑ ["平成26年8月15日付けで以下の21物質が指定薬物に指定されました。（施行日：平成26年8月25日）"](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/ihou-drug/20140815.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved on May 2, 2022.
+12. ↑ Loi du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie. | [http://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo](http://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo)
+13. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+14. ↑ UK Home Office (2014-03-05). "[The Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014](https://www.legislation.gov.uk/ukdsi/2014/9780111110904)". UK Government. Retrieved 2014-03-11.

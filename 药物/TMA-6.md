@@ -15,22 +15,22 @@
 | 精神药效分类                                                                                               | *[迷幻剂](/文档/药物分类/迷幻剂.md) / [兴奋剂](/文档/药物分类/兴奋剂.md)* |
 | 化学分类                                                                                                 | *[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)*                    |
 | [给药途径](/文档/给药途径.md)                                                                                  |                                                   |
-| - **警告：** 由于个体体重、耐受、代谢和个人敏感性有所不同，请务必从较低剂量开始呢。参见[负责任用药部分](/文档/负责任的用药索引页.md)。                          | ⇣ [口服](/文档/给药途径.md#口服)                            |
+| - **警告：** 由于个体体重、耐受、代谢和个人敏感性有所不同，请务必从较低剂量开始呢。参见[负责任用药部分](/文档/负责任的用药索引页.md)。                          | ⇣ [口服](/文档/给药途径.md)                            |
 | [给药剂量](/文档/给药剂量.md)                                                                                  |                                                   |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                               | 5 mg                                              |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                               | 10 - 20 mg                                        |
-| [中等](/文档/药物剂量分类.md#中等)                                                                               | 20 - 35 mg                                        |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                               | 35 - 50 mg                                        |
-| [严重](/文档/药物剂量分类.md#严重)                                                                               | 50 mg +                                           |
+| [阈值](/文档/药物剂量分类.md)                                                                               | 5 mg                                              |
+| [轻微](/文档/药物剂量分类.md)                                                                               | 10 - 20 mg                                        |
+| [中等](/文档/药物剂量分类.md)                                                                               | 20 - 35 mg                                        |
+| [强烈](/文档/药物剂量分类.md)                                                                               | 35 - 50 mg                                        |
+| [严重](/文档/药物剂量分类.md)                                                                               | 50 mg +                                           |
 | [药效时长](/文档/药效时长.md)                                                                                  |                                                   |
-| [总时长](/文档/药效时长.md#总时长)                                                                               | 10 - 16 小时                                        |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                             | 30 - 90 分钟                                        |
-| [药效上升](/文档/药效时长.md#药效上升)                                                                             | 1.5 - 3 小时                                        |
-| [药效达峰](/文档/药效时长.md#药效达峰)                                                                             | 5 - 8 小时                                          |
-| [药效褪去](/文档/药效时长.md#药效褪去)                                                                             | 3 - 5 小时                                          |
-| [药效残余](/文档/药效时长.md#药效残余)                                                                             | 6 - 18 小时                                         |
+| [总时长](/文档/药效时长.md)                                                                               | 10 - 16 小时                                        |
+| [药效发作](/文档/药效时长.md)                                                                             | 30 - 90 分钟                                        |
+| [药效上升](/文档/药效时长.md)                                                                             | 1.5 - 3 小时                                        |
+| [药效达峰](/文档/药效时长.md)                                                                             | 5 - 8 小时                                          |
+| [药效褪去](/文档/药效时长.md)                                                                             | 3 - 5 小时                                          |
+| [药效残余](/文档/药效时长.md)                                                                             | 6 - 18 小时                                         |
 | - **[免责声明](/关于本站/免责声明.md)：** 本网站的[给药剂量](/文档/给药剂量.md)信息仅为教育目的而基于用户报告与相关资料整理，不构成任何建议哦；请务必结合其他来源核实其准确性。 |                                                   |
-| [相互作用](#危险的相互作用)                                                                                     |                                                   |
+| 相互作用                                                                                     |                                                   |
 |                                                                                                      | SNRI                                              |
 |                                                                                                      | MAOI                                              |
 |                                                                                                      | 血清素释放剂                                            |
@@ -113,7 +113,7 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 #### 扭曲
 
-* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md#熔化)、[流动](/药效/漂移.md#流动)、[呼吸](/药效/漂移.md#呼吸)与[变形](/药效/漂移.md#变形)）* - 与其他迷幻剂相比，这种效应可以描述为细节丰富、运动缓慢而顺滑、外观偏静态，并带有一种不真实、卡通化的风格。
+* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md)、[流动](/药效/漂移.md)、[呼吸](/药效/漂移.md)与[变形](/药效/漂移.md)）* - 与其他迷幻剂相比，这种效应可以描述为细节丰富、运动缓慢而顺滑、外观偏静态，并带有一种不真实、卡通化的风格。
 * **[视觉拖尾](/药效/视觉拖尾.md)**
 * **[对称纹理重复](/药效/对称纹理重复.md)**
 * **[颜色偏移](/药效/颜色偏移.md)**
@@ -137,7 +137,7 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 ## 毒性和伤害潜力
 
-更多信息：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md#毒性和伤害潜力)，以及[负责任用药 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md)，以及[负责任用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
 TMA-6 用于娱乐性使用时的毒性与长期健康影响，似乎尚未在任何科学语境中得到研究，而其确切中毒剂量也仍然未知。这是因为 TMA-6 基本没有多少人体使用历史。来自精神探索社群的轶事证据表明，单独以低至中等剂量尝试该药物、且使用频率非常低时，似乎不会带来明显的负面健康影响（但当然，没有任何事情是可以被完全保证的哦）。在摄入前，始终都应自行做好调查，以确保两种或更多物质的[药物联用](/文档/危险药物联用.md)是安全的。
 
@@ -164,7 +164,7 @@ TMA-6 用于娱乐性使用时的毒性与长期健康影响，似乎尚未在�
 * **[单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)** - 例如卡比藤、叙利亚芸香、苯乙肼、司来吉兰和吗氯贝胺。
 * **血清素释放剂** - 例如[MDMA](/药物/MDMA.md)、[4-FA](/药物/4-FA.md)、[甲基苯丙胺](/药物/甲基苯丙胺.md)、甲基酮苯丙胺和[αMT](/药物/αMT.md)。
 * **SSRI** - 例如西酞普兰和舍曲林。
-* **[SNRI](http://en.wikipedia.org/wiki/SNRIs "wikipedia:SNRIs")** - 例如[曲马多](/药物/曲马多.md)和文拉法辛。
+* **[SNRI](http://en.wikipedia.org/wiki/SNRIs)** - 例如[曲马多](/药物/曲马多.md)和文拉法辛。
 * **[5-HTP](/药物/5-HTP.md)**
 
 ## 法律地位
@@ -196,11 +196,11 @@ TMA-6 用于娱乐性使用时的毒性与长期健康影响，似乎尚未在�
 ## 参考文献
 
 1. ↑   [*Erowid Online Books : “PIHKAL” - #162 TMA-6*](https://www.erowid.org/library/books_online/pihkal/pihkal162.shtml)
-2. [↑](#cite_ref-2) Talaie, H., Panahandeh, R., Fayaznouri, M. R., Asadi, Z., Abdollahi, M. (June 2009). ["Dose-independent occurrence of seizure with tramadol"](http://link.springer.com/10.1007/BF03161089). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039).
-3. [↑](#cite_ref-3) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-4. [↑](#cite_ref-4) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
-5. [↑](#cite_ref-5) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-6. [↑](#cite_ref-6) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-7. [↑](#cite_ref-7) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-8. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_8-0) [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
-9. [↑](#cite_ref-List_of_illegal_substances_for_law_9-0)  [https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf)
+2. ↑ Talaie, H., Panahandeh, R., Fayaznouri, M. R., Asadi, Z., Abdollahi, M. (June 2009). ["Dose-independent occurrence of seizure with tramadol"](http://link.springer.com/10.1007/BF03161089). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+3. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+4. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
+5. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+6. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+7. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+8. ↑ [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
+9. ↑  [https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf)

@@ -13,18 +13,18 @@
 | **精神活性分类** | *[致幻剂](/文档/药物分类/致幻剂.md)* |
 | **化学分类** | *[色胺类物质](/文档/药物分类/色胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
-| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [鼻吸](/文档/给药途径.md#鼻吸) |
+| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [鼻吸](/文档/给药途径.md) |
 | **[给药剂量](/文档/给药剂量.md)** | |
-| [轻微](/文档/药物剂量分类.md#轻微) | 20 - 40 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 40 - 80 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 80 - 110 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 110 mg + |
+| [轻微](/文档/药物剂量分类.md) | 20 - 40 mg |
+| [中等](/文档/药物剂量分类.md) | 40 - 80 mg |
+| [强烈](/文档/药物剂量分类.md) | 80 - 110 mg |
+| [严重](/文档/药物剂量分类.md) | 110 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 2 - 4 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 5 - 20 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 1 - 3 小时 |
+| [总时长](/文档/药效时长.md) | 2 - 4 小时 |
+| [药效发作](/文档/药效时长.md) | 5 - 20 分钟 |
+| [药效残余](/文档/药效时长.md) | 1 - 3 小时 |
 | **免责声明哦：** 本站的[给药剂量](/文档/给药剂量.md)信息是从用户和[资源](/关于本站/index.md)中收集的，仅用于教育目的呢。这不是推荐，应该与其他来源核实准确性喵。 | |
-| **[药物联用](#危险的药物联用)** | |
+| **药物联用** | |
 
 **N-乙基-N-丙基色胺**（也称为 **Ethylpropyltryptamine** 和 **EPT**）是一种冷门的新型[致幻](/文档/药物分类/致幻剂.md)[色胺类物质](/文档/药物分类/色胺类物质.md)。EPT 在化学上与 [DMT](/药物/DMT.md) 相关，属于一系列被称为未取代色胺的致幻化合物。
 
@@ -36,25 +36,25 @@ EPT 的最初合成日期不详。它于 2016 年首次出现在在线[研究用
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 身体效应](#身体效应)
-    * [3.2 视觉效应](#视觉效应)
-        * [3.2.1 视觉增强](#视觉增强)
-        * [3.2.2 视觉扭曲](#视觉扭曲)
-        * [3.2.3 几何图形](#几何图形)
-        * [3.2.4 幻觉状态](#幻觉状态)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 听觉效应](#听觉效应)
-    * [3.5 体验报告](#体验报告)
-* [4 毒性和伤害潜能](#毒性和伤害潜能)
-    * [4.1 依赖性和滥用潜能](#依赖性和滥用潜能)
-* [5 法律地位](#法律地位)
-    * [6 另见](#另见)
-    * [7 外部链接](#外部链接)
-        * [7.1 讨论](#讨论)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 身体效应
+    * 3.2 视觉效应
+        * 3.2.1 视觉增强
+        * 3.2.2 视觉扭曲
+        * 3.2.3 几何图形
+        * 3.2.4 幻觉状态
+    * 3.3 认知效应
+    * 3.4 听觉效应
+    * 3.5 体验报告
+* 4 毒性和伤害潜能
+    * 4.1 依赖性和滥用潜能
+* 5 法律地位
+    * 6 另见
+    * 7 外部链接
+        * 7.1 讨论
+* 8 参考文献
 
 ## 化学
 
@@ -181,9 +181,9 @@ _**免责声明哦：** 下列效应引用自 [***主观效应索引***](/药效
 | [![Question_book-new.svg](/文件/Question_book-new.png)](/文件/Question_book-new.png) | **这篇文章没有引用足够的参考文献。**<br>*大家可以帮忙[添加一些](https://psychonautwiki.org/w/index.php?title=EPT&action=edit)哦。* |
 | --- | --- |
 
-1. [↑](#cite_ref-1) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-2. [↑](#cite_ref-2) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-3. [↑](#cite_ref-3) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-4. [↑](#cite_ref-4) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-5. [↑](#cite_ref-5) ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
-6. [↑](#cite_ref-6) [*Tabella 1*](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf) (PDF) (in Italian), Ministero della Salute (Ministry of Health), retrieved 24 November 2020
+1. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+2. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+3. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+4. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+5. ↑ ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
+6. ↑ [*Tabella 1*](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf) (PDF) (in Italian), Ministero della Salute (Ministry of Health), retrieved 24 November 2020

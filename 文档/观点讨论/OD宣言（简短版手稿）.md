@@ -4,7 +4,7 @@
 
 ##  FREEODWIKI  
 
-### [OD是什么？](https://github.com/SalviaSWC/FreeODwiki/discussions/57 "讨论区")  
+### [OD是什么？](https://github.com/SalviaSWC/FreeODwiki/discussions/57)  
 
 OD即过量用药，任何超出“医疗计量”的使用均为OD。（过量是滥用但滥用可以不过量）
 

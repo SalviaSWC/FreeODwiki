@@ -14,24 +14,24 @@ description: 提取dmt来吸，听起来挺诱人，来看看如何提取dmt吧
 
 本文档记录了使用传统的酸碱（**A/B**）方法，利用碱液（氢氧化钠）和石脑油从天然植物来源中提取高纯度结晶[DMT](/%E8%8D%AF%E7%89%A9/DMT.md)的最常用方法之一。
 
-这项技术通常被推荐给初学者作为入门点，以熟悉执行[化学提取](/%E6%96%87%E6%A1%A3/%E6%95%99%E5%AD%A6%E7%B4%A2%E5%BC%95%E9%A1%B5.md#%E6%8F%90%E5%8F%96)的基础知识。它的设计旨在平衡简易性、可操作性和产品质量，同时优先考虑安全性。
+这项技术通常被推荐给初学者作为入门点，以熟悉执行[化学提取](/%E6%96%87%E6%A1%A3/%E6%95%99%E5%AD%A6%E7%B4%A2%E5%BC%95%E9%A1%B5.md)的基础知识。它的设计旨在平衡简易性、可操作性和产品质量，同时优先考虑安全性。
 
 目录
 ------
 
-* [1 背景](#%E8%83%8C%E6%99%AF)
-    + [1\.1 台湾相思树根皮](#%E5%8F%B0%E6%B9%BE%E7%9B%B8%E6%80%9D%E6%A0%91%E6%A0%B9%E7%9A%AE)
-    + [1\.2 细花含羞草根皮 (替代方案)](#%E7%BB%86%E8%8A%B1%E5%90%AB%E7%BE%9E%E8%8D%89%E6%A0%B9%E7%9A%AE_%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88)
-* [2 原理](#%E5%8E%9F%E7%90%86)
-* [3 材料](#%E6%9D%90%E6%96%99)
-    + [3\.1 设备](#%E8%AE%BE%E5%A4%87)
-        - [3\.1\.1 可选](#%E5%8F%AF%E9%80%89)
-* [4 风险与危害](#%E9%A3%8E%E9%99%A9%E4%B8%8E%E5%8D%B1%E5%AE%B3)
-* [5 准备工作](#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C)
-* [6 步骤](#%E6%AD%A5%E9%AA%A4)
-* [7 另见](#%E5%8F%A6%E8%A7%81)
-* [8 外部链接](#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5)
-* [9 参考文献](#%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)
+* 1 背景
+    + 1\.1 台湾相思树根皮
+    + 1\.2 细花含羞草根皮 (替代方案)
+* 2 原理
+* 3 材料
+    + 3\.1 设备
+        - 3\.1\.1 可选
+* 4 风险与危害
+* 5 准备工作
+* 6 步骤
+* 7 另见
+* 8 外部链接
+* 9 参考文献
 
 
 背景
@@ -39,7 +39,7 @@ description: 提取dmt来吸，听起来挺诱人，来看看如何提取dmt吧
 
 ### 台湾相思树根皮
 
-*台湾相思树* (*Acacia confusa*) 的根皮已被证明含有高达 1\.15% 的 [DMT](/%E8%8D%AF%E7%89%A9/DMT.md)。[\[1\]](#cite_note-1) 如果严格按照此提取步骤处理 500克 相思树根皮，预期的最大（理论）产量为 5\.75克 DMT。  
+*台湾相思树* (*Acacia confusa*) 的根皮已被证明含有高达 1\.15% 的 [DMT](/%E8%8D%AF%E7%89%A9/DMT.md)。\[1\] 如果严格按照此提取步骤处理 500克 相思树根皮，预期的最大（理论）产量为 5\.75克 DMT。  
 实际实验产量高度依赖于对步骤的遵守程度，并且也会因所用根皮的质量而异。因此，此提取可能产生 0克 \- 4\.5克 的 DMT。
 
 建议先在较少量的 *台湾相思树* 根皮（例如 200克）上进行测试提取。随着经验和对过程熟悉程度的增加，提取的产量往往会提高。
@@ -47,7 +47,7 @@ description: 提取dmt来吸，听起来挺诱人，来看看如何提取dmt吧
 ### 细花含羞草根皮 (替代方案)
 
 此提取也可以使用 *细花含羞草* (*Mimosa hostilis*) 根皮（通常缩写为 **MHRB**，也称为 *Mimosa tenuifluora*）进行。  
-在过去的研究中，MHRB 被证明含有 0\.31% 至 0\.57% 的 DMT 含量 (Schultes 1977\)，而内根皮据报道含有高达 2% 的活性生物碱。干燥的墨西哥 MHRB 最近被证明具有约 1% 的 DMT 含量，而茎皮约有 0\.03% 的 DMT。[\[2\]](#cite_note-2)
+在过去的研究中，MHRB 被证明含有 0\.31% 至 0\.57% 的 DMT 含量 (Schultes 1977\)，而内根皮据报道含有高达 2% 的活性生物碱。干燥的墨西哥 MHRB 最近被证明具有约 1% 的 DMT 含量，而茎皮约有 0\.03% 的 DMT。\[2\]
 
 对于在美国的人来说，需要注意的是，当局对进口 **MHRB** 进行了打击，这使得相对于 *台湾相思树* 根皮而言，获取它相对更加困难。
 
@@ -109,18 +109,18 @@ description: 提取dmt来吸，听起来挺诱人，来看看如何提取dmt吧
 
 为了发生爆炸，需要同时存在氧气、点火源或热源以及燃料（在这种情况下是石脑油蒸气）。
 
-* **石脑油** (**警告：极易燃**) \- 石脑油是一种石油溶剂，强度与油漆稀释剂相当，但挥发性更强。石脑油的挥发性意味着其蒸气可以在不通风的空间内迅速积聚。石脑油的闪点低，意味着它高度易燃，表现类似于打火机油。石脑油可以安全处理，但如果吸入、吞咽或液体吸入肺部是有害的。石脑油也是眼睛和皮肤的刺激物。如果皮肤接触，用肥皂彻底洗手可防止刺激。[\[3\]](#cite_note-3) 为了防止接触，请给予充足的时间让最终产品完全干燥。石脑油可以在许多五金店或油漆店找到（例如 VM\&P Naphtha；在加利福尼亚州被禁止）。[\[4\]](#cite_note-4)
+* **石脑油** (**警告：极易燃**) \- 石脑油是一种石油溶剂，强度与油漆稀释剂相当，但挥发性更强。石脑油的挥发性意味着其蒸气可以在不通风的空间内迅速积聚。石脑油的闪点低，意味着它高度易燃，表现类似于打火机油。石脑油可以安全处理，但如果吸入、吞咽或液体吸入肺部是有害的。石脑油也是眼睛和皮肤的刺激物。如果皮肤接触，用肥皂彻底洗手可防止刺激。\[3\] 为了防止接触，请给予充足的时间让最终产品完全干燥。石脑油可以在许多五金店或油漆店找到（例如 VM\&P Naphtha；在加利福尼亚州被禁止）。\[4\]
 
 * **氢氧化钠** (也称为 **碱液** 或 **苛性钠**) \- 氢氧化钠在皮肤或眼睛接触、摄入或吸入的情况下非常危险。眼睛接触可能导致角膜损伤或失明，而皮肤接触可能产生炎症和起泡。接触可能导致化学烧伤，因为氢氧化钠溶液可以通过水解迅速分解身体组织。接触后会让皮肤感觉像涂了肥皂，并且不会立即损伤皮肤；如果感觉到这种肥皂感或刺激，请彻底洗手。处理此物质时请戴手套和护目镜。
 
-请注意，重复或长时间接触此物质可能有毒。[\[5\]](#cite_note-5) **当向玻璃罐中加入氢氧化钠时，必须逐渐加入，以防止强烈的放热反应使容器破裂。** 氢氧化钠容易从空气中吸收水分，因此在不使用时应保持容器密封。它可以在许多五金店找到，品牌名称如 "Red Devil Lye"。[\[6\]](#cite_note-6)
+请注意，重复或长时间接触此物质可能有毒。\[5\] **当向玻璃罐中加入氢氧化钠时，必须逐渐加入，以防止强烈的放热反应使容器破裂。** 氢氧化钠容易从空气中吸收水分，因此在不使用时应保持容器密封。它可以在许多五金店找到，品牌名称如 "Red Devil Lye"。\[6\]
 
 准备工作
 ------------
 
 1. 从粉末状的根皮开始。如果根皮未粉末化，请使用咖啡研磨机或搅拌机将树皮粉碎成细块。请注意，标准的咖啡研磨机不足以处理大块的根皮，根皮可能需要切割以适应研磨机或搅拌机。因此，如果可能的话，建议购买预碎的树皮。粉碎后的根皮颗粒越细，对提取产量的影响越大，因为细碎或粉末状的树皮会导致化学反应的表面积增大。
 
-2. 冷冻根皮，然后让其解冻。**重复三次**。冻融循环会导致植物细胞发生裂解（细胞壁和膜的破坏），从而导致细胞解体。[\[7\]](#cite_note-7) 分解细胞膜允许在接下来的步骤中从植物物质中更高程度地吸收 DMT。
+2. 冷冻根皮，然后让其解冻。**重复三次**。冻融循环会导致植物细胞发生裂解（细胞壁和膜的破坏），从而导致细胞解体。\[7\] 分解细胞膜允许在接下来的步骤中从植物物质中更高程度地吸收 DMT。
 
 步骤
 ------
@@ -198,10 +198,10 @@ description: 提取dmt来吸，听起来挺诱人，来看看如何提取dmt吧
 参考文献
 ------------
 
-1. [↑](#cite_ref-1) Study of the composition of the root bark of the Thoughtful Tree, Liu et al, Chemistry (Chinese Chemical Soc, Taiwan) \#1:15\-16, 1977\.
-2. [↑](#cite_ref-2) Mimosa hostilis. (2011\). In DMT\-Nexus Wiki. Retrieved May 1, 2017, from \<<https://wiki.dmt-nexus.me/Mimosa_hostilis>\>
-3. [↑](#cite_ref-3) Naphtha MSDS \<<http://www.sciencelab.com/msds.php?msdsId=9926175>\>
-4. [↑](#cite_ref-4) MSDS Naphtha, Nova Chemicals (Calgary, Alberta, Canada) NOVA\-0025, 2013\.
-5. [↑](#cite_ref-5) Sodium Hydroxide MSDS \<<http://www.certified-lye.com/MSDS-Lye.pdf>\>
-6. [↑](#cite_ref-6) MSDS Sodium Hydroxide, Scienelab.com, Inc. (Houston, Texas) CAS 1310\-73\-2, 2014\.
-7. [↑](#cite_ref-7) Thermo Scientific Pierce Cell Lysis Technical Handbook Featuring Cell Lysis Reagents and Detergents \<<https://tools.thermofisher.com/content/sfs/brochures/1601757-Cell-Lysis-Handbook.pdf>\>
+1. ↑ Study of the composition of the root bark of the Thoughtful Tree, Liu et al, Chemistry (Chinese Chemical Soc, Taiwan) \#1:15\-16, 1977\.
+2. ↑ Mimosa hostilis. (2011\). In DMT\-Nexus Wiki. Retrieved May 1, 2017, from \<<https://wiki.dmt-nexus.me/Mimosa_hostilis>\>
+3. ↑ Naphtha MSDS \<<http://www.sciencelab.com/msds.php?msdsId=9926175>\>
+4. ↑ MSDS Naphtha, Nova Chemicals (Calgary, Alberta, Canada) NOVA\-0025, 2013\.
+5. ↑ Sodium Hydroxide MSDS \<<http://www.certified-lye.com/MSDS-Lye.pdf>\>
+6. ↑ MSDS Sodium Hydroxide, Scienelab.com, Inc. (Houston, Texas) CAS 1310\-73\-2, 2014\.
+7. ↑ Thermo Scientific Pierce Cell Lysis Technical Handbook Featuring Cell Lysis Reagents and Detergents \<<https://tools.thermofisher.com/content/sfs/brochures/1601757-Cell-Lysis-Handbook.pdf>\>

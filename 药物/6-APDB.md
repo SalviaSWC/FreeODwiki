@@ -14,22 +14,22 @@
 | 精神药效分类                                                                                             | *[共情剂](/文档/药物分类/共情剂.md) / [兴奋剂](/文档/药物分类/兴奋剂.md)*         |
 | 化学分类                                                                                               | *[苯丙胺](/文档/药物分类/苯丙胺类物质.md) / [苯并呋喃](/文档/药物分类/苯并呋喃类物质.md)* |
 | [给药途径](/文档/给药途径.md)                                                                                |                                                           |
-| - **警告：** 由于个体体重、耐受性、代谢与个人敏感度存在差异，请始终从较低剂量开始。参见[负责任的用药索引页](/文档/负责任的用药索引页.md)。                      | ⇣ [口服](/文档/给药途径.md#口服)                                    |
+| - **警告：** 由于个体体重、耐受性、代谢与个人敏感度存在差异，请始终从较低剂量开始。参见[负责任的用药索引页](/文档/负责任的用药索引页.md)。                      | ⇣ [口服](/文档/给药途径.md)                                    |
 | [给药剂量](/文档/给药剂量.md)                                                                                |                                                           |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                             | 20 mg                                                     |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                             | 30 - 70 mg                                                |
-| [中等](/文档/药物剂量分类.md#中等)                                                                             | 70 - 100 mg                                               |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                             | 100 - 130 mg                                              |
-| [严重](/文档/药物剂量分类.md#严重)                                                                             | 130 mg +                                                  |
+| [阈值](/文档/药物剂量分类.md)                                                                             | 20 mg                                                     |
+| [轻微](/文档/药物剂量分类.md)                                                                             | 30 - 70 mg                                                |
+| [中等](/文档/药物剂量分类.md)                                                                             | 70 - 100 mg                                               |
+| [强烈](/文档/药物剂量分类.md)                                                                             | 100 - 130 mg                                              |
+| [严重](/文档/药物剂量分类.md)                                                                             | 130 mg +                                                  |
 | [药效时长](/文档/药效时长.md)                                                                                |                                                           |
-| [总时长](/文档/药效时长.md#总时长)                                                                             | 6 - 8 小时                                                  |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                           | 30 - 60 分钟                                                |
-| [药效上升](/文档/药效时长.md#药效上升)                                                                           | 30 - 60 分钟                                                |
-| [药效达峰](/文档/药效时长.md#药效达峰)                                                                           | 2 - 3 小时                                                  |
-| [药效褪去](/文档/药效时长.md#药效褪去)                                                                           | 2 - 3 小时                                                  |
+| [总时长](/文档/药效时长.md)                                                                             | 6 - 8 小时                                                  |
+| [药效发作](/文档/药效时长.md)                                                                           | 30 - 60 分钟                                                |
+| [药效上升](/文档/药效时长.md)                                                                           | 30 - 60 分钟                                                |
+| [药效达峰](/文档/药效时长.md)                                                                           | 2 - 3 小时                                                  |
+| [药效褪去](/文档/药效时长.md)                                                                           | 2 - 3 小时                                                  |
 | **[免责声明](/关于本站/免责声明.md)：** 本站的[给药剂量](/文档/给药剂量.md)信息仅为出于教育目的而从用户与其他资料中整理汇编，并不构成推荐，准确性也应以其他来源进一步核实哦。 |                                                           |
 
-| [相互作用](#危险相互作用) |
+| 相互作用 |
 | --------------- |
 | 酒精              |
 | MXE             |
@@ -54,33 +54,33 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **视觉效应**](#视觉效应)
+  * 3.1 **躯体效应**
+  * 3.2 **视觉效应**
 
-    * [3.2.1 强化](#强化)
-    * [3.2.2 变形](#变形)
-    * [3.2.3 几何](#几何)
-    * [3.2.4 幻觉状态](#幻觉状态)
-  * [3.3 **认知效应**](#认知效应)
-  * [3.4 **听觉效应**](#听觉效应)
-  * [3.5 **药效残余**](#药效残余)
-  * [3.6 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+    * 3.2.1 强化
+    * 3.2.2 变形
+    * 3.2.3 几何
+    * 3.2.4 幻觉状态
+  * 3.3 **认知效应**
+  * 3.4 **听觉效应**
+  * 3.5 **药效残余**
+  * 3.6 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 短期健康问题](#短期健康问题)
-  * [4.2 长期健康问题](#长期健康问题)
-  * [4.3 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [4.4 危险相互作用](#危险相互作用)
+  * 4.1 短期健康问题
+  * 4.2 长期健康问题
+  * 4.3 耐受性与成瘾潜力
+  * 4.4 危险相互作用
 
-    * [4.4.1 血清素综合征风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+    * 4.4.1 血清素综合征风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -148,7 +148,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/主
 
 #### 幻觉状态
 
-6-APDB 能产生一系列独特的低级与高级幻觉状态，但其一致性与可重复性明显低于许多常见[迷幻剂](/文档/药物分类/迷幻剂.md)。这些效应在体验[药效褪去](/文档/药效时长.md#药效褪去)阶段更为常见，通常包括：
+6-APDB 能产生一系列独特的低级与高级幻觉状态，但其一致性与可重复性明显低于许多常见[迷幻剂](/文档/药物分类/迷幻剂.md)。这些效应在体验[药效褪去](/文档/药效时长.md)阶段更为常见，通常包括：
 
 * **[外部幻觉](/药效/外部幻觉.md)**（*[自主实体](/药效/自主实体.md)*；*[场景、布景和景观](/药效/场景、布景和景观.md)*；*[视角幻觉](/药效/视角幻觉.md)* 与 *[情景与情节](/药效/情景与情节.md)*）- 这种效应与[谵妄剂](/文档/药物分类/谵妄剂.md)中的同类体验很相似，但并不会稳定出现，通常只会在高剂量下发生。若通过其[变化维度](/药效/外部幻觉.md)进行完整描述，可说它在可信度上具有谵妄性、在可控性上具自主性、在风格上则较为实体化。它们通常围绕记忆回放以及半写实或符合预期的事件展开。比如说，人们可能看起来正自然地拿着某些物体或执行某些在现实中“理应如此”的动作，但在进一步观察时又会消失或溶解。常见例子包括：看到别人戴着实际上并不存在的眼镜或帽子、把朋友的脸误认为陌生人，或把物体错认成人类或动物呢。
 * **[内部幻觉](/药效/内部幻觉.md)** - 6-APDB 诱发的内部幻觉通常只会在极高剂量下，以自发性突破的形式出现。该效应的[变化维度](/药效/内部幻觉.md)表现为：可信度上具有谵妄性、风格上具有互动性、内容上偏向全新体验、可控性上具自主性，外观上则较为实体化。它最常见的表现方式，是用户在连续使用一夜后、逐渐入睡时经历的[入睡前幻觉](/文档/睡眠瘫痪.md)式情景；这些内容通常可描述为过去数小时记忆的回放。它们短暂而转瞬即逝，却频繁发生，并在发生当下显得完全真实可信。就主题而言，它们常表现为与你当时在场的人进行对话，或呈现出怪诞而极度荒谬的情节。
@@ -185,7 +185,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/主
 
 ### **药效残余** ![](/文件/Aftereffects.png)
 
-* 在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)阶段出现的效应，通常与其[药效达峰](/文档/药效时长.md#药效达峰)阶段相比更偏负面且令人不适。这通常被称为“落差期”，其产生原因是[神经递质](/文档/神经递质.md)耗竭。其常见效应包括：
+* 在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)阶段出现的效应，通常与其[药效达峰](/文档/药效时长.md)阶段相比更偏负面且令人不适。这通常被称为“落差期”，其产生原因是[神经递质](/文档/神经递质.md)耗竭。其常见效应包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[食欲抑制](/药效/食欲抑制.md)**
@@ -206,7 +206,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/主
 
 ## 毒性与伤害潜力
 
-更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力) 以及 [负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md) 以及 [负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md)
 
 由于其仅有较短的人体使用历史，目前尚不完全清楚其毒性与伤害潜力。鉴于它与 MDMA 的相似性，重复或高剂量使用 6-APDB 很可能在某种形式上具有神经毒性与心脏毒性。
 
@@ -288,21 +288,21 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/主
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Monte, A. P., Marona-Lewicka, D., Cozzi, N. V., Nichols, D. E. (12 November 1993). "Synthesis and pharmacological examination of benzofuran, indan, and tetralin analogues of 3,4-(methylenedioxy)amphetamine". *Journal of Medicinal Chemistry*. **36** (23): 3700–3706. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/jm00075a027](//doi.org/10.1021%2Fjm00075a027). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-2623](//www.worldcat.org/issn/0022-2623).
-2. [↑](#cite_ref-2) Iversen, L., Gibbons, S., Treble, R., Setola, V., Huang, X.-P., Roth, B. L. (30 January 2013). ["Neurochemical Profiles of some novel psychoactive substances"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3582025/). *European journal of pharmacology*. **700** (1–3): 147–151. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2012.12.006](//doi.org/10.1016%2Fj.ejphar.2012.12.006). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-3. [↑](#cite_ref-3) Fleckenstein, A. E., Volz, T. J., Riddle, E. L., Gibb, J. W., Hanson, G. R. (1 February 2007). ["New Insights into the Mechanism of Action of Amphetamines"](https://www.annualreviews.org/doi/10.1146/annurev.pharmtox.47.120505.105140). *Annual Review of Pharmacology and Toxicology*. **47** (1): 681–698. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1146/annurev.pharmtox.47.120505.105140](//doi.org/10.1146%2Fannurev.pharmtox.47.120505.105140). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0362-1642](//www.worldcat.org/issn/0362-1642).
-4. ↑   Elangbam, C. S. (October 2010). ["Drug-induced Valvulopathy: An Update"](http://journals.sagepub.com/doi/10.1177/0192623310378027). *Toxicologic Pathology*. **38** (6): 837–848. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1177/0192623310378027](//doi.org/10.1177%2F0192623310378027). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0192-6233](//www.worldcat.org/issn/0192-6233).
-5. ↑   Droogmans, S., Cosyns, B., D’haenen, H., Creeten, E., Weytjens, C., Franken, P. R., Scott, B., Schoors, D., Kemdem, A., Close, L., Vandenbossche, J.-L., Bechet, S., Van Camp, G. (1 November 2007). "Possible association between 3,4-methylenedioxymethamphetamine abuse and valvular heart disease". *The American Journal of Cardiology*. **100** (9): 1442–1445. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.amjcard.2007.06.045](//doi.org/10.1016%2Fj.amjcard.2007.06.045). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0002-9149](//www.worldcat.org/issn/0002-9149).
-6. [↑](#cite_ref-6) Nimmo, S. M., Kennedy, B. W., Tullett, W. M., Blyth, A. S., Dougall, J. R. (October 1993). ["Drug-induced hyperthermia"](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2044.1993.tb07423.x). *Anaesthesia*. **48** (10): 892–895. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1365-2044.1993.tb07423.x](//doi.org/10.1111%2Fj.1365-2044.1993.tb07423.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0003-2409](//www.worldcat.org/issn/0003-2409).
-7. [↑](#cite_ref-7) Malberg, J. E., Seiden, L. S. (1 July 1998). "Small changes in ambient temperature cause large changes in 3,4-methylenedioxymethamphetamine (MDMA)-induced serotonin neurotoxicity and core body temperature in the rat". *The Journal of Neuroscience: The Official Journal of the Society for Neuroscience*. **18** (13): 5086–5094. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0270-6474](//www.worldcat.org/issn/0270-6474).
-8. [↑](#cite_ref-8) Wolff, K., Tsapakis, E. M., Winstock, A. R., Hartley, D., Holt, D., Forsling, M. L., Aitchison, K. J. (May 2006). ["Vasopressin and oxytocin secretion in response to the consumption of ecstasy in a clubbing population"](http://journals.sagepub.com/doi/10.1177/0269881106061514). *Journal of Psychopharmacology*. **20** (3): 400–410. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1177/0269881106061514](//doi.org/10.1177%2F0269881106061514). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0269-8811](//www.worldcat.org/issn/0269-8811).
-9. [↑](#cite_ref-9) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-10. [↑](#cite_ref-10) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-11. [↑](#cite_ref-11) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-12. [↑](#cite_ref-12) ["Article Annexe IV - Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants"](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043529751) (in French). Légifrance. Retrieved September 23, 2022.
-13. [↑](#cite_ref-13) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-14. [↑](#cite_ref-14) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
-15. [↑](#cite_ref-15) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-16. [↑](#cite_ref-16) [http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf)
-17. [↑](#cite_ref-17) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-18. [↑](#cite_ref-18) [*The Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014*](https://www.legislation.gov.uk/uksi/2014/1106/contents/made)
+1. ↑ Monte, A. P., Marona-Lewicka, D., Cozzi, N. V., Nichols, D. E. (12 November 1993). "Synthesis and pharmacological examination of benzofuran, indan, and tetralin analogues of 3,4-(methylenedioxy)amphetamine". *Journal of Medicinal Chemistry*. **36** (23): 3700–3706. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm00075a027](//doi.org/10.1021%2Fjm00075a027). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623).
+2. ↑ Iversen, L., Gibbons, S., Treble, R., Setola, V., Huang, X.-P., Roth, B. L. (30 January 2013). ["Neurochemical Profiles of some novel psychoactive substances"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3582025/). *European journal of pharmacology*. **700** (1–3): 147–151. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.ejphar.2012.12.006](//doi.org/10.1016%2Fj.ejphar.2012.12.006). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999).
+3. ↑ Fleckenstein, A. E., Volz, T. J., Riddle, E. L., Gibb, J. W., Hanson, G. R. (1 February 2007). ["New Insights into the Mechanism of Action of Amphetamines"](https://www.annualreviews.org/doi/10.1146/annurev.pharmtox.47.120505.105140). *Annual Review of Pharmacology and Toxicology*. **47** (1): 681–698. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1146/annurev.pharmtox.47.120505.105140](//doi.org/10.1146%2Fannurev.pharmtox.47.120505.105140). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0362-1642](//www.worldcat.org/issn/0362-1642).
+4. ↑   Elangbam, C. S. (October 2010). ["Drug-induced Valvulopathy: An Update"](http://journals.sagepub.com/doi/10.1177/0192623310378027). *Toxicologic Pathology*. **38** (6): 837–848. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1177/0192623310378027](//doi.org/10.1177%2F0192623310378027). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0192-6233](//www.worldcat.org/issn/0192-6233).
+5. ↑   Droogmans, S., Cosyns, B., D’haenen, H., Creeten, E., Weytjens, C., Franken, P. R., Scott, B., Schoors, D., Kemdem, A., Close, L., Vandenbossche, J.-L., Bechet, S., Van Camp, G. (1 November 2007). "Possible association between 3,4-methylenedioxymethamphetamine abuse and valvular heart disease". *The American Journal of Cardiology*. **100** (9): 1442–1445. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.amjcard.2007.06.045](//doi.org/10.1016%2Fj.amjcard.2007.06.045). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0002-9149](//www.worldcat.org/issn/0002-9149).
+6. ↑ Nimmo, S. M., Kennedy, B. W., Tullett, W. M., Blyth, A. S., Dougall, J. R. (October 1993). ["Drug-induced hyperthermia"](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2044.1993.tb07423.x). *Anaesthesia*. **48** (10): 892–895. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1365-2044.1993.tb07423.x](//doi.org/10.1111%2Fj.1365-2044.1993.tb07423.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0003-2409](//www.worldcat.org/issn/0003-2409).
+7. ↑ Malberg, J. E., Seiden, L. S. (1 July 1998). "Small changes in ambient temperature cause large changes in 3,4-methylenedioxymethamphetamine (MDMA)-induced serotonin neurotoxicity and core body temperature in the rat". *The Journal of Neuroscience: The Official Journal of the Society for Neuroscience*. **18** (13): 5086–5094. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0270-6474](//www.worldcat.org/issn/0270-6474).
+8. ↑ Wolff, K., Tsapakis, E. M., Winstock, A. R., Hartley, D., Holt, D., Forsling, M. L., Aitchison, K. J. (May 2006). ["Vasopressin and oxytocin secretion in response to the consumption of ecstasy in a clubbing population"](http://journals.sagepub.com/doi/10.1177/0269881106061514). *Journal of Psychopharmacology*. **20** (3): 400–410. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1177/0269881106061514](//doi.org/10.1177%2F0269881106061514). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0269-8811](//www.worldcat.org/issn/0269-8811).
+9. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+10. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+11. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+12. ↑ ["Article Annexe IV - Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants"](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043529751) (in French). Légifrance. Retrieved September 23, 2022.
+13. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+14. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
+15. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+16. ↑ [http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf)
+17. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+18. ↑ [*The Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014*](https://www.legislation.gov.uk/uksi/2014/1106/contents/made)

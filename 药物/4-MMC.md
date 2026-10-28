@@ -35,7 +35,7 @@ description:
 
 **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从较低剂量开始。[参见负责任的用药部分](/文档/负责任的用药索引页.md)。
 
-#### ⇣ [口服](/文档/给药途径.md#Oral)
+#### ⇣ [口服](/文档/给药途径.md)
 
 | 类型 | 数据 |
 | --- | --- |
@@ -53,7 +53,7 @@ description:
 | [药效褪去](/文档/药效时长.md) | 45 - 90 分钟 |
 | [药效残余](/文档/药效时长.md) | 2 - 4 小时 |
 
-#### ⇣ [鼻吸](/文档/给药途径.md#Insufflated)
+#### ⇣ [鼻吸](/文档/给药途径.md)
 
 | 类型 | 数据 |
 | --- | --- |
@@ -73,7 +73,7 @@ description:
 
 **[免责声明](/文档/关于本站/免责声明.md)：** 本站的[剂量](/文档/给药剂量.md)信息汇总自用户报告和教育资源，仅供参考。这并非推荐，使用前应通过其他来源核实准确性。
 
-### [相互作用](#危险的相互作用)
+### 相互作用
 
 详细信息请见下文“危险的相互作用”章节。
 
@@ -81,21 +81,21 @@ description:
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 **躯体效应**](#躯体效应)
-    * [3.2 **认知效应**](#认知效应)
-    * [3.3 **药效残余**](#药效残余)
-    * [3.4 体验报告](#体验报告)
-* [4 毒性与危害潜力](#毒性与危害潜力)
-    * [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-    * [4.2 危险的相互作用](#危险的相互作用)
-        * [4.2.1 血清素综合征风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 **躯体效应**
+    * 3.2 **认知效应**
+    * 3.3 **药效残余**
+    * 3.4 体验报告
+* 4 毒性与危害潜力
+    * 4.1 耐受性与成瘾潜力
+    * 4.2 危险的相互作用
+        * 4.2.1 血清素综合征风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -276,53 +276,53 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 
 ## 参考文献
 
-1.  ↑ [1.0](#cite_ref-Schifano2011_1-0) [1.1](#cite_ref-Schifano2011_1-1) Schifano, F., Albanese, A., Fergus, S., Stair, J. L., Deluca, P., Corazza, O., Davey, Z., Corkery, J., Siemann, H., Scherbaum, N., Farre’, M., Torrens, M., Demetrovics, Z., Ghodse, A. H., Psychonaut Web Mapping, ReDNet Research Groups (1 April 2011). ["Mephedrone (4-methylmethcathinone; 'meow meow'): chemical, pharmacological and clinical issues"](https://doi.org/10.1007/s00213-010-2070-x). *Psychopharmacology*. **214** (3): 593–602. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s00213-010-2070-x](//doi.org/10.1007%2Fs00213-010-2070-x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1432-2072](//www.worldcat.org/issn/1432-2072).
-2.  [↑](#cite_ref-2) Winstock, A. R., Marsden, J., Mitcheson, L. (23 March 2010). "What should be done about mephedrone?". *BMJ (Clinical research ed.)*. **340**: c1605. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1136/bmj.c1605](//doi.org/10.1136%2Fbmj.c1605). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1756-1833](//www.worldcat.org/issn/1756-1833).
-3.  [↑](#cite_ref-3) Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., Yoshitake, T. (December 2011). ["Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3246659/). *British Journal of Pharmacology*. **164** (8): 1949–1958. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1476-5381.2011.01499.x](//doi.org/10.1111%2Fj.1476-5381.2011.01499.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1188](//www.worldcat.org/issn/0007-1188).
-4.  [↑](#cite_ref-4) Hadlock, G. C., Webb, K. M., McFadden, L. M., Chu, P. W., Ellis, J. D., Allen, S. C., Andrenyak, D. M., Vieira-Brock, P. L., German, C. L., Conrad, K. M., Hoonakker, A. J., Gibb, J. W., Wilkins, D. G., Hanson, G. R., Fleckenstein, A. E. (November 2011). "4-Methylmethcathinone (mephedrone): neuropharmacological effects of a designer stimulant of abuse". *The Journal of Pharmacology and Experimental Therapeutics*. **339** (2): 530–536. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1124/jpet.111.184119](//doi.org/10.1124%2Fjpet.111.184119). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1521-0103](//www.worldcat.org/issn/1521-0103).
-5.  ↑ [5.0](#cite_ref-Clubbers2010_5-0) [5.1](#cite_ref-Clubbers2010_5-1) [*Clubbers are “turning to new legal high mephedrone”*](https://www.bbc.com/news/newsbeat-10004366), 2010
-6.  [↑](#cite_ref-6) James, D., Adams, R. D., Spears, R., Cooper, G., Lupton, D. J., Thompson, J. P., Thomas, S. H. L., National Poisons Information Service (August 2011). "Clinical characteristics of mephedrone toxicity reported to the U.K. National Poisons Information Service". *Emergency medicine journal: EMJ*. **28** (8): 686–689. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1136/emj.2010.096636](//doi.org/10.1136%2Femj.2010.096636). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1472-0213](//www.worldcat.org/issn/1472-0213).
-7.  [↑](#cite_ref-7) Fort, H. (2015), [*Does your child smell of cat wee? It could be meow meow*](http://www.mirror.co.uk/news/uk-news/symptoms-mephedrone-use-extreme-weight-5130803)
-8.  [↑](#cite_ref-Nutt_2010_8-0) Nutt DJ, King LA, Phillips LD (November 2010). "Drug harms in the UK: a multicriteria decision analysis". *Lancet*. **376** (9752): 1558–1565. [CiteSeerX](http://en.wikipedia.org/wiki/CiteSeerX "wikipedia:CiteSeerX") [10.1.1.690.1283](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.1283) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png "Freely accessible"). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/S0140-6736(10)61462-6](//doi.org/10.1016%2FS0140-6736%2810%2961462-6). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [21036393](//www.ncbi.nlm.nih.gov/pubmed/21036393). Unknown parameter `|s2cid=` ignored ([help](/w/index.php?title=Help:CS1_errors&action=edit&redlink=1 "Help:CS1 errors (page does not exist)"))
-9.  [↑](#cite_ref-9) Winstock, A. R., Mitcheson, L. R., Deluca, P., Davey, Z., Corazza, O., Schifano, F. (January 2011). "Mephedrone, new kid for the chop?". *Addiction (Abingdon, England)*. **106** (1): 154–161. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1360-0443.2010.03130.x](//doi.org/10.1111%2Fj.1360-0443.2010.03130.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1360-0443](//www.worldcat.org/issn/1360-0443).
-10. [↑](#cite_ref-10) Ghodse, H.; Corkery, J.; Ahmed, K.; Naidoo, V.; Oyefeso and, A.; Schifano, F. (July 2010). "Drug-related deaths in the UK: Annual Report 2010". International Centre for Drug Policy, St George's University of London. p. 77. Archived from the original (PDF) on 2010-01-02. Retrieved 2010-01-02.
-11. [↑](#cite_ref-11) [*Man from Hove died after injecting mephedrone*](https://www.bbc.com/news/10176982), 2010, retrieved 9 June 2012
-12. [↑](#cite_ref-12) [*Teenagers’ deaths “not caused by mephedrone”*](https://www.bbc.com/news/10184803), 2010, retrieved 20 September 2010
-13. [↑](#cite_ref-13) Torrance, H., Cooper, G. (10 October 2010). "The detection of mephedrone (4-methylmethcathinone) in 4 fatalities in Scotland". *Forensic Science International*. **202** (1–3): e62–63. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.forsciint.2010.07.014](//doi.org/10.1016%2Fj.forsciint.2010.07.014). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1872-6283](//www.worldcat.org/issn/1872-6283).
-14. [↑](#cite_ref-14) Angoa-Pérez, M., Kane, M. J., Francescutti, D. M., Sykes, K. E., Shah, M. M., Mohammed, A. M., Thomas, D. M., Kuhn, D. M. (March 2012). "Mephedrone, an abused psychoactive component of "bath salts" and methamphetamine congener, does not cause neurotoxicity to dopamine nerve endings of the striatum". *Journal of Neurochemistry*. **120** (6): 1097–1107. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1471-4159.2011.07632.x](//doi.org/10.1111%2Fj.1471-4159.2011.07632.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1471-4159](//www.worldcat.org/issn/1471-4159).
-15. [↑](#cite_ref-15) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-16. [↑](#cite_ref-16) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-17. [↑](#cite_ref-17) ["Council Decision on submitting 4-methylmethcathinone (mephedrone) to control measures"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:321:0064:0065:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published December 8, 2010). December 2, 2010. pp. 44–45. [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [52224955](//www.worldcat.org/oclc/52224955). L 322.
-18. [↑](#cite_ref-18) ["Poisons Standard June 2021"](https://www.legislation.gov.au/Details/F2021L00650) (in English). May 26, 2021.
-19. [↑](#cite_ref-19) ["Mode-Droge Mephedron in Österreich verboten"](https://www.diepresse.com/589205/mode-droge-mephedron-in-osterreich-verboten) (in German). Die Presse. August 22, 2010. Retrieved December 27, 2019.
-20. [↑](#cite_ref-20) <http://www.anvisa.gov.br/hotsite/talidomida/legis/RDC_36_2011.pdf>
-21. [↑](#cite_ref-21) ["Mephedrone regulated as psychotropic substances"](https://web.archive.org/web/20100815082133/http://eng.sfda.gov.cn/cmsweb/webportal/W43879541/A64031541.html). State Food and Drug Administration. Archived from [the original](http://eng.sfda.gov.cn/cmsweb/webportal/W43879541/A64031541.html) on 15 August 2010. Retrieved December 27, 2019.
-22. [↑](#cite_ref-22) ["Dopuna popisa opojnih droga, psihotropnih tvari i biljaka iz kojih se može dobiti opojna droga te tvari koje se mogu uporabiti za izradu opojnih droga"](http://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_2_12.html) (in Croatian). Croatian Ministry of Health and Social Welfare. Retrieved December 27, 2019.
-23. [↑](#cite_ref-23) <https://www.retsinformation.dk/forms/R0710.aspx?id=140430>
-24. [↑](#cite_ref-24) ["Sotsiaalministri 27.11.2009 määrus number 87"](https://www.webcitation.org/5suaZrvK9?url=http://www.estlex.ee/tasuta/?id=8&aktid=118262&fd=1&asutus=&grupp=3&leht=2) (in Estonian). Estonian Ministry of Social Affairs. Archived from [the original](http://www.estlex.ee/tasuta/?id=8&aktid=118262&fd=1&asutus=&grupp=3&leht=2) on September 21, 2010. Retrieved December 27, 2019.
-25. [↑](#cite_ref-25) Juha Matias Lehtonen (September 5, 2008). ["Rapujuhlat saaristossa"](http://www.city.fi/artikkeli/Rapujuhlat+saaristossa+/2783/) (in Finnish). City Magazine. Retrieved December 27, 2019.
-26. [↑](#cite_ref-26) <http://www.sante-sports.gouv.fr/la-mephedrone-classee-comme-stupefiant.html>
-27. [↑](#cite_ref-27) ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
-28. [↑](#cite_ref-28) ["Vierundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl109s3944.pdf) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 27, 2019.
-29. [↑](#cite_ref-29) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
-30. [↑](#cite_ref-30) ["Guernsey makes Mephedrone class B drug"](http://news.bbc.co.uk/1/hi/world/europe/guernsey/8618651.stm). BBC News. April 13, 2010. Retrieved December 27, 2019.
-31. [↑](#cite_ref-31) ["MAGYAR KÖZLÖNY: A MAGYAR KÖZTÁRSASÁG HIVATALOS LAPJA"](http://www.kozlonyok.hu/nkonline/MKPDF/hiteles/MK10190.pdf) (PDF) (in Hungarian). Retrieved December 10, 2019.
-32. [↑](#cite_ref-32) ["Now illegal to import drug 'plant food' to Isle of Man"](https://web.archive.org/web/20100228070359/http://www.iomtoday.co.im/news/Now-illegal-to-import-drug.6103144.jp). Isle of Man Today. February 25, 2010. Archived from [the original](http://www.iomtoday.co.im/news/Now-illegal-to-import-drug.6103144.jp) on February 28, 2010. Retrieved December 27, 2019.
-33. [↑](#cite_ref-33) ["Minister for Health and Children announces immediate criminal ban on list of head shop products"](https://web.archive.org/web/20110221174712/http://www.dohc.ie/press/releases/2010/20100511.html). Irish Department of Health and Children. Archived from [the original](http://www.dohc.ie/press/releases/2010/20100511.html) on February 21, 2011. Retrieved December 27, 2019.
-34. [↑](#cite_ref-34) <http://www.jpost.com/Israel/Article.aspx?id=181254>
-35. [↑](#cite_ref-35) ["TABELLA I"](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf) (PDF) (in Italian). Ministero della Salute. Retrieved December 27, 2019.
-36. [↑](#cite_ref-36) Adina Campbell (March 4, 2010). ["Call to ban legal high mephedrone test change"](http://news.bbc.co.uk/newsbeat/hi/health/newsid_10050000/newsid_10059100/10059133.stm). BBC Newsbeat. Retrieved December 26, 2019.
-37. [↑](#cite_ref-37) ["DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2000 M. SAUSIO 6 D. ĮSAKYMO Nr. 5 „DĖL NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ SĄRAŠŲ PATVIRTINIMO" PAKEITIMO"](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.375830) (in Lithuanian). Lietuvos Respublikos Seimo kanceliarija, biudžetinė įstaiga. Retrieved December 27, 2019.
-38. [↑](#cite_ref-38) ["January 2014 - Mexico: Mephedrone, TFMPP and synthetic cannabinoids placed under control"](https://www.unodc.org/LSS/Announcement/Details/816ab930-efcf-4e92-a65c-404b022f25eb). United Nations Office on Drugs and Crime. Retrieved December 27, 2019.
-39. [↑](#cite_ref-39) legemiddelverket.no
-40. [↑](#cite_ref-40) <http://isap.sejm.gov.pl/DetailsServlet?id=WDU20101430962>
-41. [↑](#cite_ref-41) <http://salviadivinorum.ro/noile-substante-intezise/>
-42. [↑](#cite_ref-42) <http://gazeta.ru/news/lenta/2010/08/04/n_1529350.shtml>
-43. [↑](#cite_ref-43) <http://www.nrsr.sk/Dynamic/Download.aspx?DocID=350863>
-44. [↑](#cite_ref-44) Andre Yeo (November 13, 2010). ["Three synthetic drugs to be banned"](https://www.webcitation.org/5wOfQKDTu?url=http://www.todayonline.com/Singapore/EDC101113-0000075/Three-synthetic-drugs-to-be-banned). TODAY. Archived from [the original](http://www.todayonline.com/Singapore/EDC101113-0000075/Three-synthetic-drugs-to-be-banned) on February 10, 2011. Retrieved December 27, 2019.
-45. [↑](#cite_ref-45) ["Documento BOE-A-2011-2490"](https://boe.es/diario_boe/txt.php?id=BOE-A-2011-2490) (in Spanish). Agencia Estatal Boletín Oficial del Estado. Retrieved December 27, 2019.
-46. [↑](#cite_ref-46) ["Svensk författningssamling Förordning om ändring i förordningen (1999:58) om förbud mot vissa hälsofarliga varor"](https://www.webcitation.org/5wOfbf5sB?url=http://62.95.69.3/SFSDOC/08/080908.PDF) (PDF) (in Swedish). Thomson Förlag. Archived from [the original](http://62.95.69.3/SFSDOC/08/080908.PDF) (PDF) on February 10, 2011. Retrieved December 27, 2019.
-47. [↑](#cite_ref-47) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-48. [↑](#cite_ref-48) 17 şubat 2012, BAKANLAR KURULU KARARI Karar Sayısı : 2012/2861 | <https://resmigazete.gov.tr/eskiler/2012/03/20120322-1-6-1.pdf>
-49. [↑](#cite_ref-49) [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)
-50. [↑](#cite_ref-50) <https://www.deadiversion.usdoj.gov/21cfr/21usc/812.htm>
+1.  ↑ 1.0 1.1 Schifano, F., Albanese, A., Fergus, S., Stair, J. L., Deluca, P., Corazza, O., Davey, Z., Corkery, J., Siemann, H., Scherbaum, N., Farre’, M., Torrens, M., Demetrovics, Z., Ghodse, A. H., Psychonaut Web Mapping, ReDNet Research Groups (1 April 2011). ["Mephedrone (4-methylmethcathinone; 'meow meow'): chemical, pharmacological and clinical issues"](https://doi.org/10.1007/s00213-010-2070-x). *Psychopharmacology*. **214** (3): 593–602. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-010-2070-x](//doi.org/10.1007%2Fs00213-010-2070-x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1432-2072](//www.worldcat.org/issn/1432-2072).
+2.  ↑ Winstock, A. R., Marsden, J., Mitcheson, L. (23 March 2010). "What should be done about mephedrone?". *BMJ (Clinical research ed.)*. **340**: c1605. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1136/bmj.c1605](//doi.org/10.1136%2Fbmj.c1605). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1756-1833](//www.worldcat.org/issn/1756-1833).
+3.  ↑ Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., Yoshitake, T. (December 2011). ["Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3246659/). *British Journal of Pharmacology*. **164** (8): 1949–1958. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1476-5381.2011.01499.x](//doi.org/10.1111%2Fj.1476-5381.2011.01499.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188).
+4.  ↑ Hadlock, G. C., Webb, K. M., McFadden, L. M., Chu, P. W., Ellis, J. D., Allen, S. C., Andrenyak, D. M., Vieira-Brock, P. L., German, C. L., Conrad, K. M., Hoonakker, A. J., Gibb, J. W., Wilkins, D. G., Hanson, G. R., Fleckenstein, A. E. (November 2011). "4-Methylmethcathinone (mephedrone): neuropharmacological effects of a designer stimulant of abuse". *The Journal of Pharmacology and Experimental Therapeutics*. **339** (2): 530–536. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.111.184119](//doi.org/10.1124%2Fjpet.111.184119). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1521-0103](//www.worldcat.org/issn/1521-0103).
+5.  ↑ 5.0 5.1 [*Clubbers are “turning to new legal high mephedrone”*](https://www.bbc.com/news/newsbeat-10004366), 2010
+6.  ↑ James, D., Adams, R. D., Spears, R., Cooper, G., Lupton, D. J., Thompson, J. P., Thomas, S. H. L., National Poisons Information Service (August 2011). "Clinical characteristics of mephedrone toxicity reported to the U.K. National Poisons Information Service". *Emergency medicine journal: EMJ*. **28** (8): 686–689. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1136/emj.2010.096636](//doi.org/10.1136%2Femj.2010.096636). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1472-0213](//www.worldcat.org/issn/1472-0213).
+7.  ↑ Fort, H. (2015), [*Does your child smell of cat wee? It could be meow meow*](http://www.mirror.co.uk/news/uk-news/symptoms-mephedrone-use-extreme-weight-5130803)
+8.  ↑ Nutt DJ, King LA, Phillips LD (November 2010). "Drug harms in the UK: a multicriteria decision analysis". *Lancet*. **376** (9752): 1558–1565. [CiteSeerX](http://en.wikipedia.org/wiki/CiteSeerX) [10.1.1.690.1283](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.1283) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0140-6736(10)61462-6](//doi.org/10.1016%2FS0140-6736%2810%2961462-6). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [21036393](//www.ncbi.nlm.nih.gov/pubmed/21036393). Unknown parameter `|s2cid=` ignored ([help](/w/index.php?title=Help:CS1_errors&action=edit&redlink=1))
+9.  ↑ Winstock, A. R., Mitcheson, L. R., Deluca, P., Davey, Z., Corazza, O., Schifano, F. (January 2011). "Mephedrone, new kid for the chop?". *Addiction (Abingdon, England)*. **106** (1): 154–161. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1360-0443.2010.03130.x](//doi.org/10.1111%2Fj.1360-0443.2010.03130.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1360-0443](//www.worldcat.org/issn/1360-0443).
+10. ↑ Ghodse, H.; Corkery, J.; Ahmed, K.; Naidoo, V.; Oyefeso and, A.; Schifano, F. (July 2010). "Drug-related deaths in the UK: Annual Report 2010". International Centre for Drug Policy, St George's University of London. p. 77. Archived from the original (PDF) on 2010-01-02. Retrieved 2010-01-02.
+11. ↑ [*Man from Hove died after injecting mephedrone*](https://www.bbc.com/news/10176982), 2010, retrieved 9 June 2012
+12. ↑ [*Teenagers’ deaths “not caused by mephedrone”*](https://www.bbc.com/news/10184803), 2010, retrieved 20 September 2010
+13. ↑ Torrance, H., Cooper, G. (10 October 2010). "The detection of mephedrone (4-methylmethcathinone) in 4 fatalities in Scotland". *Forensic Science International*. **202** (1–3): e62–63. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2010.07.014](//doi.org/10.1016%2Fj.forsciint.2010.07.014). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1872-6283](//www.worldcat.org/issn/1872-6283).
+14. ↑ Angoa-Pérez, M., Kane, M. J., Francescutti, D. M., Sykes, K. E., Shah, M. M., Mohammed, A. M., Thomas, D. M., Kuhn, D. M. (March 2012). "Mephedrone, an abused psychoactive component of "bath salts" and methamphetamine congener, does not cause neurotoxicity to dopamine nerve endings of the striatum". *Journal of Neurochemistry*. **120** (6): 1097–1107. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1471-4159.2011.07632.x](//doi.org/10.1111%2Fj.1471-4159.2011.07632.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1471-4159](//www.worldcat.org/issn/1471-4159).
+15. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+16. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+17. ↑ ["Council Decision on submitting 4-methylmethcathinone (mephedrone) to control measures"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:321:0064:0065:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published December 8, 2010). December 2, 2010. pp. 44–45. [OCLC](http://en.wikipedia.org/wiki/OCLC) [52224955](//www.worldcat.org/oclc/52224955). L 322.
+18. ↑ ["Poisons Standard June 2021"](https://www.legislation.gov.au/Details/F2021L00650) (in English). May 26, 2021.
+19. ↑ ["Mode-Droge Mephedron in Österreich verboten"](https://www.diepresse.com/589205/mode-droge-mephedron-in-osterreich-verboten) (in German). Die Presse. August 22, 2010. Retrieved December 27, 2019.
+20. ↑ <http://www.anvisa.gov.br/hotsite/talidomida/legis/RDC_36_2011.pdf>
+21. ↑ ["Mephedrone regulated as psychotropic substances"](https://web.archive.org/web/20100815082133/http://eng.sfda.gov.cn/cmsweb/webportal/W43879541/A64031541.html). State Food and Drug Administration. Archived from [the original](http://eng.sfda.gov.cn/cmsweb/webportal/W43879541/A64031541.html) on 15 August 2010. Retrieved December 27, 2019.
+22. ↑ ["Dopuna popisa opojnih droga, psihotropnih tvari i biljaka iz kojih se može dobiti opojna droga te tvari koje se mogu uporabiti za izradu opojnih droga"](http://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_2_12.html) (in Croatian). Croatian Ministry of Health and Social Welfare. Retrieved December 27, 2019.
+23. ↑ <https://www.retsinformation.dk/forms/R0710.aspx?id=140430>
+24. ↑ ["Sotsiaalministri 27.11.2009 määrus number 87"](https://www.webcitation.org/5suaZrvK9?url=http://www.estlex.ee/tasuta/?id=8&aktid=118262&fd=1&asutus=&grupp=3&leht=2) (in Estonian). Estonian Ministry of Social Affairs. Archived from [the original](http://www.estlex.ee/tasuta/?id=8&aktid=118262&fd=1&asutus=&grupp=3&leht=2) on September 21, 2010. Retrieved December 27, 2019.
+25. ↑ Juha Matias Lehtonen (September 5, 2008). ["Rapujuhlat saaristossa"](http://www.city.fi/artikkeli/Rapujuhlat+saaristossa+/2783/) (in Finnish). City Magazine. Retrieved December 27, 2019.
+26. ↑ <http://www.sante-sports.gouv.fr/la-mephedrone-classee-comme-stupefiant.html>
+27. ↑ ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
+28. ↑ ["Vierundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl109s3944.pdf) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 27, 2019.
+29. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
+30. ↑ ["Guernsey makes Mephedrone class B drug"](http://news.bbc.co.uk/1/hi/world/europe/guernsey/8618651.stm). BBC News. April 13, 2010. Retrieved December 27, 2019.
+31. ↑ ["MAGYAR KÖZLÖNY: A MAGYAR KÖZTÁRSASÁG HIVATALOS LAPJA"](http://www.kozlonyok.hu/nkonline/MKPDF/hiteles/MK10190.pdf) (PDF) (in Hungarian). Retrieved December 10, 2019.
+32. ↑ ["Now illegal to import drug 'plant food' to Isle of Man"](https://web.archive.org/web/20100228070359/http://www.iomtoday.co.im/news/Now-illegal-to-import-drug.6103144.jp). Isle of Man Today. February 25, 2010. Archived from [the original](http://www.iomtoday.co.im/news/Now-illegal-to-import-drug.6103144.jp) on February 28, 2010. Retrieved December 27, 2019.
+33. ↑ ["Minister for Health and Children announces immediate criminal ban on list of head shop products"](https://web.archive.org/web/20110221174712/http://www.dohc.ie/press/releases/2010/20100511.html). Irish Department of Health and Children. Archived from [the original](http://www.dohc.ie/press/releases/2010/20100511.html) on February 21, 2011. Retrieved December 27, 2019.
+34. ↑ <http://www.jpost.com/Israel/Article.aspx?id=181254>
+35. ↑ ["TABELLA I"](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf) (PDF) (in Italian). Ministero della Salute. Retrieved December 27, 2019.
+36. ↑ Adina Campbell (March 4, 2010). ["Call to ban legal high mephedrone test change"](http://news.bbc.co.uk/newsbeat/hi/health/newsid_10050000/newsid_10059100/10059133.stm). BBC Newsbeat. Retrieved December 26, 2019.
+37. ↑ ["DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2000 M. SAUSIO 6 D. ĮSAKYMO Nr. 5 „DĖL NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ SĄRAŠŲ PATVIRTINIMO" PAKEITIMO"](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.375830) (in Lithuanian). Lietuvos Respublikos Seimo kanceliarija, biudžetinė įstaiga. Retrieved December 27, 2019.
+38. ↑ ["January 2014 - Mexico: Mephedrone, TFMPP and synthetic cannabinoids placed under control"](https://www.unodc.org/LSS/Announcement/Details/816ab930-efcf-4e92-a65c-404b022f25eb). United Nations Office on Drugs and Crime. Retrieved December 27, 2019.
+39. ↑ legemiddelverket.no
+40. ↑ <http://isap.sejm.gov.pl/DetailsServlet?id=WDU20101430962>
+41. ↑ <http://salviadivinorum.ro/noile-substante-intezise/>
+42. ↑ <http://gazeta.ru/news/lenta/2010/08/04/n_1529350.shtml>
+43. ↑ <http://www.nrsr.sk/Dynamic/Download.aspx?DocID=350863>
+44. ↑ Andre Yeo (November 13, 2010). ["Three synthetic drugs to be banned"](https://www.webcitation.org/5wOfQKDTu?url=http://www.todayonline.com/Singapore/EDC101113-0000075/Three-synthetic-drugs-to-be-banned). TODAY. Archived from [the original](http://www.todayonline.com/Singapore/EDC101113-0000075/Three-synthetic-drugs-to-be-banned) on February 10, 2011. Retrieved December 27, 2019.
+45. ↑ ["Documento BOE-A-2011-2490"](https://boe.es/diario_boe/txt.php?id=BOE-A-2011-2490) (in Spanish). Agencia Estatal Boletín Oficial del Estado. Retrieved December 27, 2019.
+46. ↑ ["Svensk författningssamling Förordning om ändring i förordningen (1999:58) om förbud mot vissa hälsofarliga varor"](https://www.webcitation.org/5wOfbf5sB?url=http://62.95.69.3/SFSDOC/08/080908.PDF) (PDF) (in Swedish). Thomson Förlag. Archived from [the original](http://62.95.69.3/SFSDOC/08/080908.PDF) (PDF) on February 10, 2011. Retrieved December 27, 2019.
+47. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+48. ↑ 17 şubat 2012, BAKANLAR KURULU KARARI Karar Sayısı : 2012/2861 | <https://resmigazete.gov.tr/eskiler/2012/03/20120322-1-6-1.pdf>
+49. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)
+50. ↑ <https://www.deadiversion.usdoj.gov/21cfr/21usc/812.htm>

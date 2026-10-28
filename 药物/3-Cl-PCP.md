@@ -20,7 +20,7 @@ title: 3-Cl-PCP
 | **[给药途径](/文档/给药途径.md)** | |
 | ⚠️ **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见负责任的用药部分](/文档/负责任的用药索引页.md)。 | |
 | **[免责声明](/文档/免责声明.md)：** 本站的[剂量](/文档/给药剂量.md)信息仅汇集自用户和[资源](/文档/科学信息索引页.md)用于教育目的。它不是推荐，应与其他来源核实准确性哦。 | |
-| **[相互作用](#危险的相互作用)** | |
+| **相互作用** | |
 | [兴奋剂](/文档/药物分类/兴奋剂.md) | ⚠️ **谨慎联用** |
 | [抑制剂](/文档/药物分类/抑制剂.md) | ⛔ **严禁联用** |
 
@@ -37,26 +37,26 @@ title: 3-Cl-PCP
 目录
 --------
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
-    + [4.1 **身体效应**](#身体效应)
-    + [4.2 **解离效应**](#解离效应)
-    + [4.3 **认知效应**](#认知效应)
-    + [4.4 **听觉效应**](#听觉效应)
-    + [4.5 **视觉效应**](#视觉效应)
-        - [4.5.1 扭曲](#扭曲)
-        - [4.5.2 幻觉状态](#幻觉状态)
-    + [4.6 体验报告](#体验报告)
-* [5 毒性与伤害潜力](#毒性与伤害潜力)
-    + [5.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-    + [5.2 泌尿道效应](#泌尿道效应)
-    + [5.3 危险的相互作用](#危险的相互作用)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-* [9 参考文献](#参考文献)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
+    + 4.1 **身体效应**
+    + 4.2 **解离效应**
+    + 4.3 **认知效应**
+    + 4.4 **听觉效应**
+    + 4.5 **视觉效应**
+        - 4.5.1 扭曲
+        - 4.5.2 幻觉状态
+    + 4.6 体验报告
+* 5 毒性与伤害潜力
+    + 5.1 耐受性与成瘾潜力
+    + 5.2 泌尿道效应
+    + 5.3 危险的相互作用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+* 9 参考文献
 
 历史与文化
 -------------------
@@ -136,7 +136,7 @@ _**免责声明：** 以下列出的效应引用了 [***主观效应索引***](/
 *   **[焦虑抑制](/药效/焦虑抑制.md)**
 *   **[去抑制](/药效/去抑制.md)**
 *   **[认知欣快](/药效/认知欣快.md)**
-*   **[强迫性补量](/药效/强迫性补量.md)** - 这种效应根据给药途径的不同而更加突出。例如，当 [抽吸](/文档/给药途径.md#抽吸) 或 [雾化](/文档/给药途径.md#雾化) 时尤其明显，因为物质进入和离开血液相对突然。
+*   **[强迫性补量](/药效/强迫性补量.md)** - 这种效应根据给药途径的不同而更加突出。例如，当 [抽吸](/文档/给药途径.md) 或 [雾化](/文档/给药途径.md) 时尤其明显，因为物质进入和离开血液相对突然。
 *   **[概念性思维](/药效/概念性思维.md)**
 *   **[沉浸感强化](/药效/沉浸感强化.md)**
 *   **[创造力增强](/药效/创造力增强.md)**
@@ -255,9 +255,9 @@ _**免责声明：** 以下列出的效应引用了 [***主观效应索引***](/
 参考文献
 ----------
 
-1. [↑](#cite_ref-1) <https://www.policija.si/apps/nfl_response_web/0_Analytical_Reports_final/3Cl-PCP-ID-2201-20_report.pdf>
-2. [↑](#cite_ref-2) Catalani, V., Arillotta, D., Corkery, J. M., Guirguis, A., Vento, A., Schifano, F. (9 February 2021). ["Identifying New/Emerging Psychoactive Substances at the Time of COVID-19; A Web-Based Approach"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7900492/). *Frontiers in Psychiatry*. **11**: 632405. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fpsyt.2020.632405](//doi.org/10.3389%2Ffpsyt.2020.632405). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1664-0640](//www.worldcat.org/issn/1664-0640). 
-3. [↑](#cite_ref-3) Fusar-Poli, P., Crippa, J. A., Bhattacharyya, S., Borgwardt, S. J., Allen, P., Martin-Santos, R., Seal, M., Surguladze, S. A., O’Carrol, C., Atakan, Z., Zuardi, A. W., McGuire, P. K. (1 January 2009). ["Distinct Effects of Δ9-Tetrahydrocannabinol and Cannabidiol on Neural Activation During Emotional Processing"](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/482939). *Archives of General Psychiatry*. **66** (1): 95. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1001/archgenpsychiatry.2008.519](//doi.org/10.1001%2Farchgenpsychiatry.2008.519). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0003-990X](//www.worldcat.org/issn/0003-990X). 
-4. [↑](#cite_ref-4) Doyle, O. M., De Simoni, S., Schwarz, A. J., Brittain, C., O’Daly, O. G., Williams, S. C. R., Mehta, M. A. (April 2013). ["Quantifying the Attenuation of the Ketamine Pharmacological Magnetic Resonance Imaging Response in Humans: A Validation Using Antipsychotic and Glutamatergic Agents"](http://jpet.aspetjournals.org/lookup/doi/10.1124/jpet.112.201665). *Journal of Pharmacology and Experimental Therapeutics*. **345** (1): 151–160. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.112.201665](//doi.org/10.1124%2Fjpet.112.201665). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565). 
-5. [↑](#cite_ref-5) Gisselgård, J., Anda, L. G., Brønnick, K., Langeveld, J., Velden Hegelstad, W. ten, Joa, I., Johannessen, J. O., Larsen, T. K. (March 2014). ["Verbal working memory deficits predict levels of auditory hallucination in first-episode psychosis"](https://linkinghub.elsevier.com/retrieve/pii/S0920996413006968). *Schizophrenia Research*. **153** (1–3): 38–41. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.schres.2013.12.018](//doi.org/10.1016%2Fj.schres.2013.12.018). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0920-9964](//www.worldcat.org/issn/0920-9964). 
-6. [↑](#cite_ref-6) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+1. ↑ <https://www.policija.si/apps/nfl_response_web/0_Analytical_Reports_final/3Cl-PCP-ID-2201-20_report.pdf>
+2. ↑ Catalani, V., Arillotta, D., Corkery, J. M., Guirguis, A., Vento, A., Schifano, F. (9 February 2021). ["Identifying New/Emerging Psychoactive Substances at the Time of COVID-19; A Web-Based Approach"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7900492/). *Frontiers in Psychiatry*. **11**: 632405. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fpsyt.2020.632405](//doi.org/10.3389%2Ffpsyt.2020.632405). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1664-0640](//www.worldcat.org/issn/1664-0640). 
+3. ↑ Fusar-Poli, P., Crippa, J. A., Bhattacharyya, S., Borgwardt, S. J., Allen, P., Martin-Santos, R., Seal, M., Surguladze, S. A., O’Carrol, C., Atakan, Z., Zuardi, A. W., McGuire, P. K. (1 January 2009). ["Distinct Effects of Δ9-Tetrahydrocannabinol and Cannabidiol on Neural Activation During Emotional Processing"](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/482939). *Archives of General Psychiatry*. **66** (1): 95. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1001/archgenpsychiatry.2008.519](//doi.org/10.1001%2Farchgenpsychiatry.2008.519). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0003-990X](//www.worldcat.org/issn/0003-990X). 
+4. ↑ Doyle, O. M., De Simoni, S., Schwarz, A. J., Brittain, C., O’Daly, O. G., Williams, S. C. R., Mehta, M. A. (April 2013). ["Quantifying the Attenuation of the Ketamine Pharmacological Magnetic Resonance Imaging Response in Humans: A Validation Using Antipsychotic and Glutamatergic Agents"](http://jpet.aspetjournals.org/lookup/doi/10.1124/jpet.112.201665). *Journal of Pharmacology and Experimental Therapeutics*. **345** (1): 151–160. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.112.201665](//doi.org/10.1124%2Fjpet.112.201665). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565). 
+5. ↑ Gisselgård, J., Anda, L. G., Brønnick, K., Langeveld, J., Velden Hegelstad, W. ten, Joa, I., Johannessen, J. O., Larsen, T. K. (March 2014). ["Verbal working memory deficits predict levels of auditory hallucination in first-episode psychosis"](https://linkinghub.elsevier.com/retrieve/pii/S0920996413006968). *Schizophrenia Research*. **153** (1–3): 38–41. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.schres.2013.12.018](//doi.org/10.1016%2Fj.schres.2013.12.018). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0920-9964](//www.worldcat.org/issn/0920-9964). 
+6. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.

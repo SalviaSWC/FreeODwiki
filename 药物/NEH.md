@@ -22,39 +22,39 @@
 | -------------------------------------------------------------------------- | - |
 | - **警告：**由于个体体重、耐受、代谢以及个人敏感性存在差异，请务必从较低剂量开始呢。参见[负责任的用药](/文档/负责任的用药索引页.md)。 |   |
 
-| ⇣ [抽吸](/文档/给药途径.md#抽吸)   |            |
+| ⇣ [抽吸](/文档/给药途径.md)   |            |
 | ------------------------ | ---------- |
 | [给药剂量](/文档/给药剂量.md)      |            |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 1 mg       |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 2 - 5 mg   |
-| [中等](/文档/药物剂量分类.md#中等)   | 5 - 10 mg  |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 10 - 20 mg |
-| [严重](/文档/药物剂量分类.md#严重)   | 20 mg +    |
+| [阈值](/文档/药物剂量分类.md)   | 1 mg       |
+| [轻微](/文档/药物剂量分类.md)   | 2 - 5 mg   |
+| [中等](/文档/药物剂量分类.md)   | 5 - 10 mg  |
+| [强烈](/文档/药物剂量分类.md)   | 10 - 20 mg |
+| [严重](/文档/药物剂量分类.md)   | 20 mg +    |
 | [药效时长](/文档/药效时长.md)      |            |
-| [总时长](/文档/药效时长.md#总时长)   | 1 - 4 小时   |
-| [药效发作](/文档/药效时长.md#药效发作) | 2 - 10 分钟  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 10 - 30 分钟 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 15 - 30 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 2 - 4 小时   |
+| [总时长](/文档/药效时长.md)   | 1 - 4 小时   |
+| [药效发作](/文档/药效时长.md) | 2 - 10 分钟  |
+| [药效达峰](/文档/药效时长.md) | 10 - 30 分钟 |
+| [药效褪去](/文档/药效时长.md) | 15 - 30 分钟 |
+| [药效残余](/文档/药效时长.md) | 2 - 4 小时   |
 
-| ⇣ [鼻吸](/文档/给药途径.md#鼻吸)   |            |
+| ⇣ [鼻吸](/文档/给药途径.md)   |            |
 | ------------------------ | ---------- |
 | [给药剂量](/文档/给药剂量.md)      |            |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 5 mg       |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 5 - 24 mg  |
-| [中等](/文档/药物剂量分类.md#中等)   | 24 - 30 mg |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 30 - 40 mg |
-| [严重](/文档/药物剂量分类.md#严重)   | 40 mg +    |
+| [阈值](/文档/药物剂量分类.md)   | 5 mg       |
+| [轻微](/文档/药物剂量分类.md)   | 5 - 24 mg  |
+| [中等](/文档/药物剂量分类.md)   | 24 - 30 mg |
+| [强烈](/文档/药物剂量分类.md)   | 30 - 40 mg |
+| [严重](/文档/药物剂量分类.md)   | 40 mg +    |
 | [药效时长](/文档/药效时长.md)      |            |
-| [总时长](/文档/药效时长.md#总时长)   | 2 - 5 小时   |
-| [药效发作](/文档/药效时长.md#药效发作) | 2 - 8 分钟   |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 30 - 90 分钟 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1 - 4 小时   |
-| [药效残余](/文档/药效时长.md#药效残余) | 1 - 8 小时   |
+| [总时长](/文档/药效时长.md)   | 2 - 5 小时   |
+| [药效发作](/文档/药效时长.md) | 2 - 8 分钟   |
+| [药效达峰](/文档/药效时长.md) | 30 - 90 分钟 |
+| [药效褪去](/文档/药效时长.md) | 1 - 4 小时   |
+| [药效残余](/文档/药效时长.md) | 1 - 8 小时   |
 
 * **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为出于教育目的，从用户与相关[资料](/文档/index.md)中汇总而来，并不构成推荐嘛，且应再结合其他来源核实其准确性。
 
-| [危险的药物联用](#危险的药物联用)                 |   |
+| 危险的药物联用                 |   |
 | ----------------------------------- | - |
 | [酒精](/药物/酒精.md)                     |   |
 | [MXE](/药物/MXE.md)                   |   |
@@ -71,31 +71,31 @@
 
 NEH 最早由勃林格殷格翰于 1964 年首次合成。它似乎于 2015 年末出现在在线[研究用化学品](/文档/研究用化学品.md)市场上。这是一种典型的新型精神活性物质，之所以被特意选择出来，是为了模仿被禁止物质的特征并规避药物法规。它也是一系列被统称为“浴盐”的物质之一。
 
-用户报告认为，N-ethylhexedrone 的欣快型兴奋作用与[霹雳可卡因](/药物/可卡因.md)和 [α-PVP](/药物/α-PVP.md) 一类化合物相近，尤其是在[鼻吸](/文档/给药途径.md#鼻吸)或汽化使用时更是如此。和其他[取代卡西酮类物质](/文档/药物分类/卡西酮类物质.md)一样，NEH 因与[强迫性补量](/药效/强迫性补量.md)以及滥用时的成瘾行为有关而逐渐臭名昭著。
+用户报告认为，N-ethylhexedrone 的欣快型兴奋作用与[霹雳可卡因](/药物/可卡因.md)和 [α-PVP](/药物/α-PVP.md) 一类化合物相近，尤其是在[鼻吸](/文档/给药途径.md)或汽化使用时更是如此。和其他[取代卡西酮类物质](/文档/药物分类/卡西酮类物质.md)一样，NEH 因与[强迫性补量](/药效/强迫性补量.md)以及滥用时的成瘾行为有关而逐渐臭名昭著。
 
 目前几乎没有关于 N-ethylhexedrone 的药理学、代谢和毒性的资料。因此，若要使用这种物质，强烈建议采取[伤害减少措施](/文档/负责任的用药索引页.md)哦。
 
 ## 目录
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
 
-  * [4.1 **躯体效应**](#躯体效应)
-  * [4.2 **认知效应**](#认知效应)
-  * [4.3 **听觉效应**](#听觉效应)
-  * [4.4 **药效残余**](#药效残余)
-  * [4.5 体验报告](#体验报告)
-* [5 毒性与伤害潜力](#毒性与伤害潜力)
+  * 4.1 **躯体效应**
+  * 4.2 **认知效应**
+  * 4.3 **听觉效应**
+  * 4.4 **药效残余**
+  * 4.5 体验报告
+* 5 毒性与伤害潜力
 
-  * [5.1 耐受与成瘾潜力](#耐受与成瘾潜力)
-  * [5.2 精神病发作](#精神病发作)
-  * [5.3 危险的药物联用](#危险的药物联用)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-* [9 References](#references)
+  * 5.1 耐受与成瘾潜力
+  * 5.2 精神病发作
+  * 5.3 危险的药物联用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+* 9 References
 
 ## 历史与文化
 
@@ -202,7 +202,7 @@ _**免责声明：**下方列出的效应引用自 [***主观效应索引***](/�
 
 NEH 的药后下滑通常被描述为比 [MDMA](/药物/MDMA.md) 或 [甲基苯丙胺](/药物/甲基苯丙胺.md) 的同类效应更缓慢、烦躁感更低，但比 [NEP](/药物/NEP.md) 更难受，并伴有强烈的不适性躯体负荷。
 
-在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)阶段出现的效应，通常会比其[药效达峰](/文档/药效时长.md#药效达峰)时的效应更负面、更令人不适。这通常被称为“comedown”，其发生原因在于[神经递质](神经递质)耗竭。常见效应包括：
+在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)阶段出现的效应，通常会比其[药效达峰](/文档/药效时长.md)时的效应更负面、更令人不适。这通常被称为“comedown”，其发生原因在于[神经递质](神经递质)耗竭。常见效应包括：
 
 * **[焦虑](/药效/焦虑.md)**
 * **[认知疲劳](/药效/认知疲劳.md)**
@@ -224,7 +224,7 @@ NEH 的药后下滑通常被描述为比 [MDMA](/药物/MDMA.md) 或 [甲基苯�
 
 ## 毒性与伤害潜力
 
-更多信息参见：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息参见：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 娱乐性使用 N-ethylhexedrone 的毒性和长期健康影响似乎尚未在任何科学语境下得到研究，其确切中毒剂量也未知。这是因为 N-ethylhexedrone 的人类使用历史非常短暂。
 
@@ -297,31 +297,31 @@ NEH 的许多效应在持续和重复使用后都会产生耐受。这会导致�
 ## References
 
 1. ↑                         [*Critical Review Report: N-Ethylhexedrone*](https://www.who.int/medicines/access/controlled-substances/Final_N-ethylhexedrone.pdf?ua=1) (PDF). Expert Committee on Drug Dependence (ECDD). Forty-second Meeting. World Health Organisation (WHO). October 2019.
-2. [↑](#cite_ref-2) ["N-Ethylhexedrone"](https://trends.google.com/trends/explore?date=all&q=N-Ethylhexedrone). Google Trends. Retrieved October 16, 2020.
-3. ↑   Eshleman, A. J.; Nagarajan, S.; Wolfrum, K. M.; Reed, J. F.; Swanson, T. L.; Nilsen, A.; Janowsky, A. (2019). ["Structure-activity relationships of bath salt components: substituted cathinones and benzofurans at biogenic amine transporters"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6500773). *Psychopharmacology*. **236** (3): 939–952. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s00213-018-5059-5](//doi.org/10.1007%2Fs00213-018-5059-5). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0033-3158](//www.worldcat.org/issn/0033-3158). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [2409222](//www.worldcat.org/oclc/2409222). [PMC](http://en.wikipedia.org/wiki/PubMed_Central "wikipedia:PubMed Central") [6500773](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6500773) ![Freely accessible](/文件/Lock-green.svg.png). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [30397775](//www.ncbi.nlm.nih.gov/pubmed/30397775).
-4. [↑](#cite_ref-4) Guillou, C.; Reniero, F.; Vicente, J. L.; Holland, M.; Kolar, K.; Chassaigne, H.; Tirendi, S.; Schepers, H. (2018). ["Collaboration of the Joint Research Centre and European Customs Laboratories for the Identification of New Psychoactive Substances"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6110040). *Current Pharmaceutical Biotechnology*. **19** (2): 91–98. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.2174/1389201019666180523122717](//doi.org/10.2174%2F1389201019666180523122717). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1389-2010](//www.worldcat.org/issn/1389-2010). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [1085815223](//www.worldcat.org/oclc/1085815223). [PMC](http://en.wikipedia.org/wiki/PubMed_Central "wikipedia:PubMed Central") [6110040](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6110040) ![Freely accessible](/文件/Lock-green.svg.png). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [29792142](//www.ncbi.nlm.nih.gov/pubmed/29792142).
-5. [↑](#cite_ref-5) ["EU Drug Markets Report 2019"](https://www.emcdda.europa.eu/system/files/publications/12078/20192630_TD0319332ENN_PDF.pdf) (PDF). European Monitoring Centre for Drugs and Drug Addiction (EMCDDA); Europol. 2019. p. 185. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.2810/796253](//doi.org/10.2810%2F796253) ![Freely accessible](/文件/Lock-green.svg.png). [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [978-92-9497-459-4](http://en.wikipedia.org/wiki/Special:BookSources/978-92-9497-459-4 "wikipedia:Special:BookSources/978-92-9497-459-4").
-6. [↑](#cite_ref-6) Liu, C.; Jia, W.; Li, T.; Hua, Z.; Qian, Z. (2017). "Identification and analytical characterization of nine synthetic cathinone derivatives N-ethylhexedrone, 4-Cl-pentedrone, 4-Cl-α-EAPP, propylone, N-ethylnorpentylone, 6-MeO-bk-MDMA, α-PiHP, 4-Cl-α-PHP, and 4-F-α-PHP". *Drug Testing and Analysis*. **9** (8): 1162–1171. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/dta.2136](//doi.org/10.1002%2Fdta.2136). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1942-7611](//www.worldcat.org/issn/1942-7611). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1942-7603](//www.worldcat.org/issn/1942-7603). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [231680670](//www.worldcat.org/oclc/231680670). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [27863142](//www.ncbi.nlm.nih.gov/pubmed/27863142).
-7. [↑](#cite_ref-7) Cozzi, N. V.; Sievert, M. K.; [Shulgin, A. T.](Alexander_Shulgin); Jacob 3rd, P.; Ruoho, A. E. (1999). "Inhibition of plasma membrane monoamine transporters by β-ketoamphetamines". *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/s0014-2999(99)00538-5](//doi.org/10.1016%2Fs0014-2999%2899%2900538-5). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1879-0712](//www.worldcat.org/issn/1879-0712). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01568459](//www.worldcat.org/oclc/01568459). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [10528135](//www.ncbi.nlm.nih.gov/pubmed/10528135).
-8. [↑](#cite_ref-8) Meyer, M. R.; Maurer, H. H. (2010). "Metabolism of Designer Drugs of Abuse: An Updated Review". *Current Drug Metabolism*. **11** (5): 468–482. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.2174/138920010791526042](//doi.org/10.2174%2F138920010791526042). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1875-5453](//www.worldcat.org/issn/1875-5453). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1389-2002](//www.worldcat.org/issn/1389-2002). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [55201006](//www.worldcat.org/oclc/55201006). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [20540700](//www.ncbi.nlm.nih.gov/pubmed/20540700).
-9. [↑](#cite_ref-9) [https://www.who.int/medicines/access/controlled-substances/Final_N-ethylhexedrone.pdf?ua=1](https://www.who.int/medicines/access/controlled-substances/Final_N-ethylhexedrone.pdf?ua=1)
-10. ↑    Shoptaw, S.; Kao, U.; Ling, W. (2009). ["Treatment for amphetamine psychosis"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7004251). *Cochrane Database of Systematic Reviews* (1). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3) ![Freely accessible](/文件/Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1469-493X](//www.worldcat.org/issn/1469-493X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [2044-4702](//www.worldcat.org/issn/2044-4702). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [99039924](//www.worldcat.org/oclc/99039924). [PMC](http://en.wikipedia.org/wiki/PubMed_Central "wikipedia:PubMed Central") [7004251](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7004251) ![Freely accessible](/文件/Lock-green.svg.png). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [19160215](//www.ncbi.nlm.nih.gov/pubmed/19160215). CD003026.
-11. [↑](#cite_ref-11) Frederick G. Hofmann (1983). *A Handbook on Drug and Alcohol Abuse: The Biomedical Aspects* (2nd ed.). New York: Oxford University Press. p. 329. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780195030570](http://en.wikipedia.org/wiki/Special:BookSources/9780195030570 "wikipedia:Special:BookSources/9780195030570"). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [899099215](//www.worldcat.org/oclc/899099215).
-12. [↑](#cite_ref-12) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-13. [↑](#cite_ref-13) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-14. [↑](#cite_ref-14) ["WHO: World Health Organization recommends 12 NPS for scheduling"](https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3). December 2019. Retrieved October 16, 2020.
-15. [↑](#cite_ref-15) ["CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting"](https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d). World Health Organization (WHO). March 18, 2020. Retrieved October 16, 2020.
-16. [↑](#cite_ref-16) ["RESOLUÇÃO-RDC No- 159, DE 2 DE JUNHO DE 2017"](https://web.archive.org/web/20200116020728/http://portal.anvisa.gov.br/documents/33868/3233596/56+-+RDC+N%C2%BA+159-2017-DOU.pdf/27be30ee-3884-46fe-b7ba-ae2f94b74693). *Diário Official da União* (in Portuguese). Governo Federal do Brasil [Federal Government of Brazil] (published June 5, 2017). May 23, 2017. p. 103. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1677-7042](//www.worldcat.org/issn/1677-7042). N°106. Archived from [the original](http://portal.anvisa.gov.br/documents/33868/3233596/56+-+RDC+Nº+159-2017-DOU.pdf/27be30ee-3884-46fe-b7ba-ae2f94b74693) on January 16, 2020.
-17. [↑](#cite_ref-17) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-18. [↑](#cite_ref-18) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2016 Teil I Nr. 55* (in German). Bundesanzeiger Verlag (published November 25, 2016). November 21, 2016. pp. 2615–2622. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [1004462279](//www.worldcat.org/oclc/1004462279).
-19. [↑](#cite_ref-19) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-20. [↑](#cite_ref-20) ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-21. [↑](#cite_ref-21) ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
-22. [↑](#cite_ref-22) ["Information Note-COM (2019) 631 Final"](https://opac.oireachtas.ie/AWData/Library3/Documents%20Laid/pdf/DOHdoclaid140120_140120_174002.pdf) (PDF). Controlled Drugs and Pharmacy Legislation Unit. January 13, 2020.
-23. [↑](#cite_ref-23) ["指定薬物一覧"](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/dl/meisho.pdf) (PDF) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved December 27, 2019.
-24. [↑](#cite_ref-24) ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/DU/rok/2021/pozycja/518). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
-25. [↑](#cite_ref-25) ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/D2021000051801.pdf) (PDF). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
-26. [↑](#cite_ref-26) ["31 nya ämnen kan klassas som narkotika eller hälsofarlig vara"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2018/februari/tio-nya-amnen-kan-klassas-som-narkotika-eller-halsofarlig-vara/) (in Swedish). Folkhälsomyndigheten [Public Health Agency of Sweden]. June 21, 2016. Retrieved October 17, 2020.
-27. [↑](#cite_ref-27) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-28. [↑](#cite_ref-28) ["Part II: Class B Drugs"](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/II). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved October 18, 2020.
-29. [↑](#cite_ref-29) ["Temporary Placement of N-Ethylhexedrone, α-PHP, 4–MEAP, MPHP, PV8, and 4-Chloro-α-PVP in Schedule I"](https://www.deadiversion.usdoj.gov/fed_regs/rules/2019/fr0718.htm). *Federal Register*. Vol. 84 (138). Drug Enforcement Administration (DEA). July 18, 2019. pp. 34291–34297. Retrieved October 18, 2020.
+2. ↑ ["N-Ethylhexedrone"](https://trends.google.com/trends/explore?date=all&q=N-Ethylhexedrone). Google Trends. Retrieved October 16, 2020.
+3. ↑   Eshleman, A. J.; Nagarajan, S.; Wolfrum, K. M.; Reed, J. F.; Swanson, T. L.; Nilsen, A.; Janowsky, A. (2019). ["Structure-activity relationships of bath salt components: substituted cathinones and benzofurans at biogenic amine transporters"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6500773). *Psychopharmacology*. **236** (3): 939–952. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-018-5059-5](//doi.org/10.1007%2Fs00213-018-5059-5). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3158](//www.worldcat.org/issn/0033-3158). [OCLC](http://en.wikipedia.org/wiki/OCLC) [2409222](//www.worldcat.org/oclc/2409222). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [6500773](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6500773) ![Freely accessible](/文件/Lock-green.svg.png). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [30397775](//www.ncbi.nlm.nih.gov/pubmed/30397775).
+4. ↑ Guillou, C.; Reniero, F.; Vicente, J. L.; Holland, M.; Kolar, K.; Chassaigne, H.; Tirendi, S.; Schepers, H. (2018). ["Collaboration of the Joint Research Centre and European Customs Laboratories for the Identification of New Psychoactive Substances"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6110040). *Current Pharmaceutical Biotechnology*. **19** (2): 91–98. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/1389201019666180523122717](//doi.org/10.2174%2F1389201019666180523122717). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1389-2010](//www.worldcat.org/issn/1389-2010). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1085815223](//www.worldcat.org/oclc/1085815223). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [6110040](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6110040) ![Freely accessible](/文件/Lock-green.svg.png). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29792142](//www.ncbi.nlm.nih.gov/pubmed/29792142).
+5. ↑ ["EU Drug Markets Report 2019"](https://www.emcdda.europa.eu/system/files/publications/12078/20192630_TD0319332ENN_PDF.pdf) (PDF). European Monitoring Centre for Drugs and Drug Addiction (EMCDDA); Europol. 2019. p. 185. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2810/796253](//doi.org/10.2810%2F796253) ![Freely accessible](/文件/Lock-green.svg.png). [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-92-9497-459-4](http://en.wikipedia.org/wiki/Special:BookSources/978-92-9497-459-4).
+6. ↑ Liu, C.; Jia, W.; Li, T.; Hua, Z.; Qian, Z. (2017). "Identification and analytical characterization of nine synthetic cathinone derivatives N-ethylhexedrone, 4-Cl-pentedrone, 4-Cl-α-EAPP, propylone, N-ethylnorpentylone, 6-MeO-bk-MDMA, α-PiHP, 4-Cl-α-PHP, and 4-F-α-PHP". *Drug Testing and Analysis*. **9** (8): 1162–1171. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.2136](//doi.org/10.1002%2Fdta.2136). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1942-7611](//www.worldcat.org/issn/1942-7611). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603). [OCLC](http://en.wikipedia.org/wiki/OCLC) [231680670](//www.worldcat.org/oclc/231680670). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [27863142](//www.ncbi.nlm.nih.gov/pubmed/27863142).
+7. ↑ Cozzi, N. V.; Sievert, M. K.; [Shulgin, A. T.](Alexander_Shulgin); Jacob 3rd, P.; Ruoho, A. E. (1999). "Inhibition of plasma membrane monoamine transporters by β-ketoamphetamines". *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/s0014-2999(99)00538-5](//doi.org/10.1016%2Fs0014-2999%2899%2900538-5). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-0712](//www.worldcat.org/issn/1879-0712). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01568459](//www.worldcat.org/oclc/01568459). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [10528135](//www.ncbi.nlm.nih.gov/pubmed/10528135).
+8. ↑ Meyer, M. R.; Maurer, H. H. (2010). "Metabolism of Designer Drugs of Abuse: An Updated Review". *Current Drug Metabolism*. **11** (5): 468–482. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/138920010791526042](//doi.org/10.2174%2F138920010791526042). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1875-5453](//www.worldcat.org/issn/1875-5453). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1389-2002](//www.worldcat.org/issn/1389-2002). [OCLC](http://en.wikipedia.org/wiki/OCLC) [55201006](//www.worldcat.org/oclc/55201006). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [20540700](//www.ncbi.nlm.nih.gov/pubmed/20540700).
+9. ↑ [https://www.who.int/medicines/access/controlled-substances/Final_N-ethylhexedrone.pdf?ua=1](https://www.who.int/medicines/access/controlled-substances/Final_N-ethylhexedrone.pdf?ua=1)
+10. ↑    Shoptaw, S.; Kao, U.; Ling, W. (2009). ["Treatment for amphetamine psychosis"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7004251). *Cochrane Database of Systematic Reviews* (1). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3) ![Freely accessible](/文件/Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1469-493X](//www.worldcat.org/issn/1469-493X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2044-4702](//www.worldcat.org/issn/2044-4702). [OCLC](http://en.wikipedia.org/wiki/OCLC) [99039924](//www.worldcat.org/oclc/99039924). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [7004251](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7004251) ![Freely accessible](/文件/Lock-green.svg.png). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [19160215](//www.ncbi.nlm.nih.gov/pubmed/19160215). CD003026.
+11. ↑ Frederick G. Hofmann (1983). *A Handbook on Drug and Alcohol Abuse: The Biomedical Aspects* (2nd ed.). New York: Oxford University Press. p. 329. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030570](http://en.wikipedia.org/wiki/Special:BookSources/9780195030570). [OCLC](http://en.wikipedia.org/wiki/OCLC) [899099215](//www.worldcat.org/oclc/899099215).
+12. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+13. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+14. ↑ ["WHO: World Health Organization recommends 12 NPS for scheduling"](https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3). December 2019. Retrieved October 16, 2020.
+15. ↑ ["CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting"](https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d). World Health Organization (WHO). March 18, 2020. Retrieved October 16, 2020.
+16. ↑ ["RESOLUÇÃO-RDC No- 159, DE 2 DE JUNHO DE 2017"](https://web.archive.org/web/20200116020728/http://portal.anvisa.gov.br/documents/33868/3233596/56+-+RDC+N%C2%BA+159-2017-DOU.pdf/27be30ee-3884-46fe-b7ba-ae2f94b74693). *Diário Official da União* (in Portuguese). Governo Federal do Brasil [Federal Government of Brazil] (published June 5, 2017). May 23, 2017. p. 103. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1677-7042](//www.worldcat.org/issn/1677-7042). N°106. Archived from [the original](http://portal.anvisa.gov.br/documents/33868/3233596/56+-+RDC+Nº+159-2017-DOU.pdf/27be30ee-3884-46fe-b7ba-ae2f94b74693) on January 16, 2020.
+17. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+18. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2016 Teil I Nr. 55* (in German). Bundesanzeiger Verlag (published November 25, 2016). November 21, 2016. pp. 2615–2622. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1004462279](//www.worldcat.org/oclc/1004462279).
+19. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+20. ↑ ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+21. ↑ ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
+22. ↑ ["Information Note-COM (2019) 631 Final"](https://opac.oireachtas.ie/AWData/Library3/Documents%20Laid/pdf/DOHdoclaid140120_140120_174002.pdf) (PDF). Controlled Drugs and Pharmacy Legislation Unit. January 13, 2020.
+23. ↑ ["指定薬物一覧"](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/dl/meisho.pdf) (PDF) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved December 27, 2019.
+24. ↑ ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/DU/rok/2021/pozycja/518). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
+25. ↑ ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/D2021000051801.pdf) (PDF). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
+26. ↑ ["31 nya ämnen kan klassas som narkotika eller hälsofarlig vara"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2018/februari/tio-nya-amnen-kan-klassas-som-narkotika-eller-halsofarlig-vara/) (in Swedish). Folkhälsomyndigheten [Public Health Agency of Sweden]. June 21, 2016. Retrieved October 17, 2020.
+27. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+28. ↑ ["Part II: Class B Drugs"](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/II). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved October 18, 2020.
+29. ↑ ["Temporary Placement of N-Ethylhexedrone, α-PHP, 4–MEAP, MPHP, PV8, and 4-Chloro-α-PVP in Schedule I"](https://www.deadiversion.usdoj.gov/fed_regs/rules/2019/fr0718.htm). *Federal Register*. Vol. 84 (138). Drug Enforcement Administration (DEA). July 18, 2019. pp. 34291–34297. Retrieved October 18, 2020.

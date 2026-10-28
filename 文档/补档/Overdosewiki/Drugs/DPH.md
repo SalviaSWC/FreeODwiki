@@ -6,29 +6,29 @@ description:
 # 苯海拉明^*谵妄、抗过敏*^
 
 
-[¶](#苯海拉明) 苯海拉明
+¶ 苯海拉明
 ================================
 > 苯海拉明基本不能用于od，且作为谵妄剂具有高毒性
 
 **苯海拉明(Diphenhydramine, DPH)** 是第一代抗过敏药、抗晕动病药，属于谵妄剂。一般以盐酸配合物，即**盐酸苯海拉明**
 
-[¶](#药理作用) 药理作用
+¶ 药理作用
 --------------------------------
 
-#### [¶](#作用机理-1) 作用机理 [\[1\]](#fn1)
+#### ¶ 作用机理 \[1\]
 
 * 反激受体：组胺/H1
 * 拮抗受体：毒蕈碱乙酰胆碱/mAChR/M1, M2, M3, M4, M5
 * 阻滞通道：Na\+
 
 
-#### [¶](#药物作用) 药物作用
+#### ¶ 药物作用
 
 * **主要的副作用：[谵妄](../Effects/Delirium.md)、精神病状、记忆力丧失、阿兹海默症(老年痴呆)、死亡、抗胆碱能综合征、呼吸抑制**
 * 主要的主作用：镇静
 
 
-#### [¶](#药代动力学2) 药代动力学[\[2\]](#fn2)
+#### ¶ 药代动力学\[2\]
 
 苯海拉明的口服生物利用度为40%至60%。约2h\~3h，血药浓度达到峰值。于体内经两次代谢，主要途径是叔胺的两次连续去甲基化，通俗点说就是拔两根草
 
@@ -46,10 +46,10 @@ description:
 
 一般取5h就好啦
 
-[¶](#药物使用) 药物使用
+¶ 药物使用
 --------------------------------
 
-#### [¶](#药物品牌) 药物品牌
+#### ¶ 药物品牌
 
 苯海拉明片——  
 玉威：瓶装25mg×100片，价格约33元  
@@ -60,14 +60,14 @@ description:
 7\.5mg苯海拉明  
 7\.5mg麻黄碱
 
-#### [¶](#剂量-以60kg为标准) 剂量 【以60kg为标准】
+#### ¶ 剂量 【以60kg为标准】
 > 别再靠近了！苯海拉明根本不好玩！笔者推荐你玩[这个](https://tieba.baidu.com/f?kw=%D5%BD%B5%D85&fr=ala0&tpl=5&dyTabStr=MCwyLDEsMyw2LDQsNSw3LDgsOQ%3D%3D)或者[这个](DXM.md)
 
 医学剂量：一次一片，每日两次  
 **拒绝写入滥用剂量**  
-██剂量：至少在40t×25mg左右[\[3\]](#fn3)
+██剂量：至少在40t×25mg左右\[3\]
 
-#### [¶](#期间以距离服药已过去的时间为标准缺少数据4) 期间【以距离服药已过去的时间为标准】【缺少数据】[\[4\]](#fn4)
+#### ¶ 期间【以距离服药已过去的时间为标准】【缺少数据】\[4\]
 
 起效时：30min\~1\.5h  
 来效时：45min\~1\.5h  
@@ -76,24 +76,24 @@ description:
 残效时：24h\+  
 总效时：3h\~10h
 
-[¶](#一些事项) 一些事项
+¶ 一些事项
 --------------------------------
 
 苯海拉明引起记忆力废退、谵妄、阿兹海默症，原因是抗胆碱能
 
 据称，苯海拉明与右美沙芬联用具有特殊的加成？报告表明，加成并不明显
 
-苯海拉明是美国最常被滥用的非处方药之一[\[5\]](#fn5)
+苯海拉明是美国最常被滥用的非处方药之一\[5\]
 
 ---
 
 
-1. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) [↩︎](#fnref1)
+1. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) ↩︎
 
-2. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) [↩︎](#fnref2)
+2. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) ↩︎
 
-3. [这啥网站](https://www.wenmi.com/article/pyvfuw02qjd2.md) [↩︎](#fnref3)
+3. [这啥网站](https://www.wenmi.com/article/pyvfuw02qjd2.md) ↩︎
 
-4. [psywiki](https://m.psychonautwiki.org/w/index.php?title=Diphenhydramine&_=#Dimenhydrinate) [↩︎](#fnref4)
+4. [psywiki](https://m.psychonautwiki.org/w/index.php?title=Diphenhydramine&_=#Dimenhydrinate) ↩︎
 
-5. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) [↩︎](#fnref5)
+5. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) ↩︎

@@ -6,17 +6,17 @@ description:
 # 咖啡因^*兴奋*^
 
 
-[¶](#咖啡因) 咖啡因
+¶ 咖啡因
 ==========================
 
 **咖啡因(Caffeine, CFI)** 是咖啡的主要活性成分、食品药品添加剂，属于兴奋剂。  
-化学上是黄嘌呤类物质，纯咖啡因是苦味、白色、无臭粉末，熔点为235 \~ 238°C，遇水发热。咖啡因在室温下适度溶于水（2g/100mL），但极易溶于沸水（66g/100mL）[\[1\]](#fn1)  
+化学上是黄嘌呤类物质，纯咖啡因是苦味、白色、无臭粉末，熔点为235 \~ 238°C，遇水发热。咖啡因在室温下适度溶于水（2g/100mL），但极易溶于沸水（66g/100mL）\[1\]  
 于世界上，咖啡因是使用最广泛的合法精神活性物质
 
-[¶](#药理作用) 药理作用
+¶ 药理作用
 --------------------------------
 
-#### [¶](#作用机理2) 作用机理[\[2\]](#fn2)
+#### ¶ 作用机理\[2\]
 
 * 抑制酶：乙酰胆碱酯酶/AChE（中度）
 * 抑制酶：磷酸二酯酶/PDE（竞争性）（非选择性）
@@ -29,16 +29,16 @@ description:
 * 影响活性：多巴胺（在纹状体受体上的结合）
 
 
-#### [¶](#药物作用) 药物作用
+#### ¶ 药物作用
 
-* **主要的副作用**：躁狂、成瘾[\[3\]](#fn3)
+* **主要的副作用**：躁狂、成瘾\[3\]
 * **急性的副作用**：心悸、高血压、恶心、忧郁（药效后）
 * 主要的主作用：兴奋、抗困意、体力提升、利尿
 
 
-#### [¶](#药代动力学4) 药代动力学[\[4\]](#fn4)
+#### ¶ 药代动力学\[4\]
 
-（图片引用自）[\[5\]](#fn5)  
+（图片引用自）\[5\]  
 ![caffeine_metabolites.jpg](../caffeine_metabolites.jpg)
 
 如图所示，咖啡因在体内主要代谢为三种产物，并代谢广泛。从左到右分别是，副黄嘌呤(84%)、可可碱(12%)、茶碱(4%)，每个都有不一样的作用。
@@ -51,21 +51,21 @@ description:
 * 新生儿，半衰期为80小时以上，并随着年龄的增长而迅速下降，到6个月时可能低于成人值
 * 成年男性吸烟者，半衰期减少30\~50%
 * 服用口服避孕药的女性，半衰期大约增加一倍，并在妊娠最后三个月延长
-* 氟伏沙明可使咖啡因的清除率降低90%以上，并将其消除半衰期延长十倍以上——从4\.9小时到56小时[\[6\]](#fn6)
+* 氟伏沙明可使咖啡因的清除率降低90%以上，并将其消除半衰期延长十倍以上——从4\.9小时到56小时\[6\]
 
 
-**咖啡因的耐药性增长极为夸张迅速**。作为存疑的数据，停药后，耐受性会在7\~14天内恢复到基线[\[7\]](#fn7)，但在实际体验中来看，至少需要一个月
+**咖啡因的耐药性增长极为夸张迅速**。作为存疑的数据，停药后，耐受性会在7\~14天内恢复到基线\[7\]，但在实际体验中来看，至少需要一个月
 
-[¶](#药物使用) 药物使用
+¶ 药物使用
 --------------------------------
 
-#### [¶](#药物品牌) 药物品牌
+#### ¶ 药物品牌
 
 你喜欢哪个咖啡厅咖啡馆？[嗯](https://hikarifield.co.jp/stella/)
 
 咖啡因耐力片或20%粉也行。20%粉所附赠的药勺的规格是1g/每勺
 
-#### [¶](#剂量-以60kg无耐药性为标准8) 剂量 【以60kg，无耐药性为标准】[\[8\]](#fn8)
+#### ¶ 剂量 【以60kg，无耐药性为标准】\[8\]
 
 轻\-起效剂量：10mg  
 轻\-正常剂量：20mg\~50mg  
@@ -73,7 +73,7 @@ description:
 重\-正常剂量：200mg\~500mg  
 重\-中毒剂量：500mg以上，确信在3500mg
 
-#### [¶](#期间9) 期间[\[9\]](#fn9)
+#### ¶ 期间\[9\]
 
 起效时：5min\~10min  
 来效时：10min\~1h  
@@ -83,10 +83,10 @@ description:
 总效时：2h\~5h
 > 需注意，体重不同剂量不同，上述剂量是针对60kg的人的。你的体重除以60，再乘以上述之中的剂量，即为适应你的剂量。
 
-[¶](#一些事项) 一些事项
+¶ 一些事项
 --------------------------------
 
-#### [¶](#关于药物的信息) 关于药物的信息
+#### ¶ 关于药物的信息
 
 据观测，在至少空出两顿后服用咖啡因，等到药效退去后便会非常疲困。这不仅可以被利用于一种邪门的安眠手段，还说明一个事实：服用咖啡因需要使用食物
 
@@ -116,47 +116,47 @@ od咖啡因不舒服，一名药师曾说过：[第一句](https://twitter.com/S
 若再加入15%\~24%茶氨酸，味道独特，香微苦带茶甜，很好喝，很舒适。茶氨酸高浓度可表达出味精味道。饮用后心情不错
 
 
-截至2007年，尚无已知的咖啡因中毒解毒剂或逆转剂[\[10\]](#fn10)
+截至2007年，尚无已知的咖啡因中毒解毒剂或逆转剂\[10\]
 
-#### [¶](#关于咖啡因的成瘾) 关于咖啡因的成瘾
+#### ¶ 关于咖啡因的成瘾
 
 尽管社会风流认为咖啡因会导致成瘾，但这种成瘾性较弱，也并不是有必要地依赖——那就不是依赖性。因此，除了纯粉或过量到每日1g滥用，并不用担心咖啡因的成瘾性
 
-咖啡因的戒断症状包括头痛、烦躁、注意力不集中、困倦、失眠、胃部和上半身和关节疼痛 [\[11\]](#fn11)
+咖啡因的戒断症状包括头痛、烦躁、注意力不集中、困倦、失眠、胃部和上半身和关节疼痛 \[11\]
 
-戒断症状可能会在停药后12 \~ 24小时内出现，大约在48小时内达到高峰。[\[12\]](#fn12) 低程度下不会超过一天 [\[13\]](#fn13) ，高程度下通常会持续2至9天。[\[14\]](#fn14)
+戒断症状可能会在停药后12 \~ 24小时内出现，大约在48小时内达到高峰。\[12\] 低程度下不会超过一天 \[13\] ，高程度下通常会持续2至9天。\[14\]
 
-对于平均每天摄入235毫克咖啡因的人，有52%在停止摄入咖啡因两天后，会出现戒断性头痛。长期饮用咖啡因的人，也会出现抑郁和焦虑加剧、恶心、呕吐、身体疼痛、咖啡因渴望等症状。[\[15\]](#fn15)
+对于平均每天摄入235毫克咖啡因的人，有52%在停止摄入咖啡因两天后，会出现戒断性头痛。长期饮用咖啡因的人，也会出现抑郁和焦虑加剧、恶心、呕吐、身体疼痛、咖啡因渴望等症状。\[15\]
 
 ---
 
 
-1. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) [↩︎](#fnref1)
+1. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) ↩︎
 
-2. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) [↩︎](#fnref2)
+2. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) ↩︎
 
-3. 实际上，尽管应该说咖啡因具有成瘾性，但这种成瘾性仍在可控范围内 [↩︎](#fnref3)
+3. 实际上，尽管应该说咖啡因具有成瘾性，但这种成瘾性仍在可控范围内 ↩︎
 
-4. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) [↩︎](#fnref4)
+4. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) ↩︎
 
-5. [wikipedia](https://en.wikipedia.org/wiki/Caffeine#/media/File:Caffeine_metabolites.png) [↩︎](#fnref5)
+5. [wikipedia](https://en.wikipedia.org/wiki/Caffeine#/media/File:Caffeine_metabolites.png) ↩︎
 
-6. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) [↩︎](#fnref6)
+6. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) ↩︎
 
-7. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) [↩︎](#fnref7)
+7. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) ↩︎
 
-8. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) [↩︎](#fnref8)
+8. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) ↩︎
 
-9. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) [↩︎](#fnref9)
+9. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) ↩︎
 
-10. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) [↩︎](#fnref10)
+10. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) ↩︎
 
-11. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) [↩︎](#fnref11)
+11. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) ↩︎
 
-12. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) [↩︎](#fnref12)
+12. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) ↩︎
 
-13. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) [↩︎](#fnref13)
+13. [wikipedia](https://en.wikipedia.org/wiki/Caffeine) ↩︎
 
-14. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) [↩︎](#fnref14)
+14. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) ↩︎
 
-15. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) [↩︎](#fnref15)
+15. [psywiki](https://m.psychonautwiki.org/wiki/Caffeine#) ↩︎

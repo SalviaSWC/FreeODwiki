@@ -19,7 +19,7 @@ description:
 | 精神活性分类 | *[益智药](/文档/药物分类/益智药.md)* |
 | 化学分类 | *[胆碱衍生物](/文档/药物分类/胆碱衍生物.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
-| **警告：** 由于个体体重、耐药性、新陈代谢和个人敏感度的差异，请务必从较低剂量开始。[参见伤害减少措施部分](#毒性和危害性)。 <br> <br> **⇣ [口服](/文档/给药途径.md)** | |
+| **警告：** 由于个体体重、耐药性、新陈代谢和个人敏感度的差异，请务必从较低剂量开始。参见伤害减少措施部分。 <br> <br> **⇣ [口服](/文档/给药途径.md)** | |
 | **[给药剂量](/文档/给药剂量.md)** | |
 | [阈值](/文档/药物剂量分类.md) | 50 mg |
 | [轻微](/文档/药物剂量分类.md) | 100 - 300 mg |
@@ -30,33 +30,33 @@ description:
 | [总时长](/文档/药效时长.md) | 4 - 8 小时 |
 | [药效发作](/文档/药效时长.md) | 45 - 75 分钟 |
 | <br> **[免责声明](/关于本站/观前提醒.md)：** 本站的[给药剂量](/文档/给药剂量.md)信息收集自用户和[网络资源](/文档/科学信息索引页.md)，仅供教育用途。这不是医疗建议，应与其他来源核实以确保准确性。 | |
-| **[相互作用](#危险的相互作用)** | |
+| **相互作用** | |
 
-***Alpha*-GPC** (**L-*alpha*-甘油磷酰胆碱**，**胆碱甘油磷酸酯**) 是一种水溶性营养素，在某种程度上是大脑中[胆碱](./胆碱.md)和甘油磷酸酯的前体。在人类中，胆碱被认为是一种必需营养素，其在降低神经管缺陷、脂肪肝和其他病理风险方面的作用已有充分的记录。[\[1\]](#cite_note-1)
+***Alpha*-GPC** (**L-*alpha*-甘油磷酰胆碱**，**胆碱甘油磷酸酯**) 是一种水溶性营养素，在某种程度上是大脑中[胆碱](./胆碱.md)和甘油磷酸酯的前体。在人类中，胆碱被认为是一种必需营养素，其在降低神经管缺陷、脂肪肝和其他病理风险方面的作用已有充分的记录。\[1\]
 
 值得注意的是，Alpha-GPC 是三种可以口服补充的含胆碱磷脂之一（另外两种是[胞磷胆碱](./胞磷胆碱.md)和磷脂酰胆碱），其流行可能是因为它是胆碱最有效的前药（能够影响系统和大脑中的胆碱浓度）。由于提供了 Alpha-GPC 分子的另一半（甘油磷酸酯），它似乎也像[胞磷胆碱](./胞磷胆碱.md)一样支持细胞膜的结构和维护。
 
-众所周知，运动员使用 Alpha-GPC 是因为其据称能够增强生长激素的产生并提高功率输出（这基于一项单独的试点研究，支持受试者在运动前摄入 600 毫克 Alpha-GPC[\[2\]](#cite_note-2)）。
+众所周知，运动员使用 Alpha-GPC 是因为其据称能够增强生长激素的产生并提高功率输出（这基于一项单独的试点研究，支持受试者在运动前摄入 600 毫克 Alpha-GPC\[2\]）。
 
-当作为补充剂服用时，该化合物具有[益智](/文档/药物分类/益智药.md)作用，可能具有治疗阿尔茨海默病[\[3\]](#cite_note-3)和其他相关疾病的潜力。[\[4\]](#cite_note-4) 它很容易获得，通常通过在线补充剂和益智药供应商为此目的出售。
+当作为补充剂服用时，该化合物具有[益智](/文档/药物分类/益智药.md)作用，可能具有治疗阿尔茨海默病\[3\]和其他相关疾病的潜力。\[4\] 它很容易获得，通常通过在线补充剂和益智药供应商为此目的出售。
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 躯体效应](#躯体效应)
-    * [3.2 认知效应](#认知效应)
-    * [3.3 体验报告](#体验报告)
-* [4 毒性和危害性](#毒性和危害性)
-    * [4.1 耐药性和成瘾潜力](#耐药性和成瘾潜力)
-    * [4.2 危险的相互作用](#危险的相互作用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 文献](#文献)
-    * [8.1 相关非特定文献](#相关非特定文献)
-* [9 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 躯体效应
+    * 3.2 认知效应
+    * 3.3 体验报告
+* 4 毒性和危害性
+    * 4.1 耐药性和成瘾潜力
+    * 4.2 危险的相互作用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 文献
+    * 8.1 相关非特定文献
+* 9 参考文献
 
 ## 化学
 
@@ -69,7 +69,7 @@ Alpha-GPC 是一种天然存在的胆碱化合物，内源性（自然）存在�
 ## 药理学
 
 Alpha-GPC 分解为两个关键成分：[胆碱](./胆碱.md)和甘油磷酸酯。
-胆碱及其代谢物是三个主要生理目的所需的：细胞膜的结构完整性和信号作用以及胆碱能神经传递（[乙酰胆碱](/文档/乙酰胆碱.md)合成）。[\[5\]](#cite_note-5) 这个过程本质上允许乙酰胆碱积累到比原本更高的水平。由于乙酰胆碱参与记忆和其他基本认知功能的功能，这可能解释了其[益智](/文档/药物分类/益智药.md)作用。
+胆碱及其代谢物是三个主要生理目的所需的：细胞膜的结构完整性和信号作用以及胆碱能神经传递（[乙酰胆碱](/文档/乙酰胆碱.md)合成）。\[5\] 这个过程本质上允许乙酰胆碱积累到比原本更高的水平。由于乙酰胆碱参与记忆和其他基本认知功能的功能，这可能解释了其[益智](/文档/药物分类/益智药.md)作用。
 
 另一种成分甘油磷酸酯也有助于细胞膜的产生，但这在很大程度上尚未被研究，科学文献对其了解甚少。
 
@@ -91,7 +91,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/ind
 
 *   **[清醒](/药效/清醒.md)** - 与[胞磷胆碱](./胞磷胆碱.md)相比，Alpha-GPC 主要表现为生理上的刺激，而不是精神上的刺激。
 *   **[梦境增强](/药效/梦境增强.md)**
-*   **[专注力强化](/药效/专注力强化.md)**[\[6\]](#cite_note-6)
+*   **[专注力强化](/药效/专注力强化.md)**\[6\]
 *   **[正念](/药效/正念.md)**
 *   **[记忆增强](/药效/记忆增强.md)**
 *   **[动机增强](/药效/动机增强.md)**
@@ -116,7 +116,7 @@ Alpha-GPC 不会形成习惯，使用欲望实际上可能会随着使用而减�
 
 ### 危险的相互作用
 
-*Alpha*-GPC 是一种疑似单胺能物质。[\[7\]](#cite_note-7)[\[8\]](#cite_note-8) Alpha-GPC 和 [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md) 是一种潜在的危险组合。MAOI 可能会不可预测地增加 Alpha-GPC 的作用。强烈建议不要在服用处方 MAOI 时服用此化学物质。
+*Alpha*-GPC 是一种疑似单胺能物质。\[7\]\[8\] Alpha-GPC 和 [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md) 是一种潜在的危险组合。MAOI 可能会不可预测地增加 Alpha-GPC 的作用。强烈建议不要在服用处方 MAOI 时服用此化学物质。
 
 ## 法律地位
 
@@ -154,11 +154,11 @@ Alpha-GPC 不会形成习惯，使用欲望实际上可能会随着使用而减�
 
 ## 参考文献
 
-1.  [↑](#cite_ref-1) Zeisel, S. H., Costa, K.-A. da (November 2009). ["Choline: an essential nutrient for public health"](https://academic.oup.com/nutritionreviews/article-lookup/doi/10.1111/j.1753-4887.2009.00246.x). *Nutrition Reviews*. **67** (11): 615–623. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1753-4887.2009.00246.x](//doi.org/10.1111%2Fj.1753-4887.2009.00246.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0029-6643](//www.worldcat.org/issn/0029-6643).
-2.  [↑](#cite_ref-2) Ziegenfuss, T., Landis, J., Hofheins, J. (17 September 2008). ["Acute supplementation with alpha-glycerylphosphorylcholine augments growth hormone response to, and peak force production during, resistance exercise"](https://www.tandfonline.com/doi/full/10.1186/1550-2783-5-S1-P15). *Journal of the International Society of Sports Nutrition*. **5** (sup1): P15. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1186/1550-2783-5-S1-P15](//doi.org/10.1186%2F1550-2783-5-S1-P15). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1550-2783](//www.worldcat.org/issn/1550-2783).
-3.  [↑](#cite_ref-3) Parnetti, L., Mignini, F., Tomassoni, D., Traini, E., Amenta, F. (June 2007). ["Cholinergic precursors in the treatment of cognitive impairment of vascular origin: Ineffective approaches or need for re-evaluation?"](https://linkinghub.elsevier.com/retrieve/pii/S0022510X07000597). *Journal of the Neurological Sciences*. **257** (1–2): 264–269. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.jns.2007.01.043](//doi.org/10.1016%2Fj.jns.2007.01.043). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-510X](//www.worldcat.org/issn/0022-510X).
-4.  [↑](#cite_ref-4) Doggrell, S. A., Evans, S. (October 2003). ["Treatment of dementia with neurotransmission modulation"](http://www.tandfonline.com/doi/full/10.1517/13543784.12.10.1633). *Expert Opinion on Investigational Drugs*. **12** (10): 1633–1654. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1517/13543784.12.10.1633](//doi.org/10.1517%2F13543784.12.10.1633). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1354-3784](//www.worldcat.org/issn/1354-3784).
-5.  [↑](#cite_ref-5) Glier, M. B., Green, T. J., Devlin, A. M. (January 2014). ["Methyl nutrients, DNA methylation, and cardiovascular disease"](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.201200636). *Molecular Nutrition & Food Research*. **58** (1): 172–182. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/mnfr.201200636](//doi.org/10.1002%2Fmnfr.201200636). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1613-4125](//www.worldcat.org/issn/1613-4125).
-6.  [↑](#cite_ref-6) McGlade, E., Locatelli, A., Hardy, J., Kamiya, T., Morita, M., Morishita, K., Sugimura, Y., Yurgelun-Todd, D. (2012). ["Improved Attentional Performance Following Citicoline Administration in Healthy Adult Women"](http://www.scirp.org/journal/doi.aspx?DOI=10.4236/fns.2012.36103). *Food and Nutrition Sciences*. **03** (06): 769–773. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.4236/fns.2012.36103](//doi.org/10.4236%2Ffns.2012.36103). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2157-944X](//www.worldcat.org/issn/2157-944X).
-7.  [↑](#cite_ref-7) Tayebati, S. K., Tomassoni, D., Nwankwo, I. E., Di Stefano, A., Sozio, P., Cerasa, L. S., Amenta, F. (1 February 2013). "Modulation of monoaminergic transporters by choline-containing phospholipids in rat brain". *CNS & neurological disorders drug targets*. **12** (1): 94–103. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/1871527311312010015](//doi.org/10.2174%2F1871527311312010015). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1996-3181](//www.worldcat.org/issn/1996-3181).
-8.  [↑](#cite_ref-8) Trabucchi, M., Govoni, S., Battaini, F. (April 1986). "Changes in the interaction between CNS cholinergic and dopaminergic neurons induced by L-alpha-glycerylphosphorylcholine, a cholinomimetic drug". *Il Farmaco; Edizione Scientifica*. **41** (4): 325–334. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0430-0920](//www.worldcat.org/issn/0430-0920).
+1.  ↑ Zeisel, S. H., Costa, K.-A. da (November 2009). ["Choline: an essential nutrient for public health"](https://academic.oup.com/nutritionreviews/article-lookup/doi/10.1111/j.1753-4887.2009.00246.x). *Nutrition Reviews*. **67** (11): 615–623. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1753-4887.2009.00246.x](//doi.org/10.1111%2Fj.1753-4887.2009.00246.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0029-6643](//www.worldcat.org/issn/0029-6643).
+2.  ↑ Ziegenfuss, T., Landis, J., Hofheins, J. (17 September 2008). ["Acute supplementation with alpha-glycerylphosphorylcholine augments growth hormone response to, and peak force production during, resistance exercise"](https://www.tandfonline.com/doi/full/10.1186/1550-2783-5-S1-P15). *Journal of the International Society of Sports Nutrition*. **5** (sup1): P15. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1186/1550-2783-5-S1-P15](//doi.org/10.1186%2F1550-2783-5-S1-P15). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1550-2783](//www.worldcat.org/issn/1550-2783).
+3.  ↑ Parnetti, L., Mignini, F., Tomassoni, D., Traini, E., Amenta, F. (June 2007). ["Cholinergic precursors in the treatment of cognitive impairment of vascular origin: Ineffective approaches or need for re-evaluation?"](https://linkinghub.elsevier.com/retrieve/pii/S0022510X07000597). *Journal of the Neurological Sciences*. **257** (1–2): 264–269. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.jns.2007.01.043](//doi.org/10.1016%2Fj.jns.2007.01.043). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-510X](//www.worldcat.org/issn/0022-510X).
+4.  ↑ Doggrell, S. A., Evans, S. (October 2003). ["Treatment of dementia with neurotransmission modulation"](http://www.tandfonline.com/doi/full/10.1517/13543784.12.10.1633). *Expert Opinion on Investigational Drugs*. **12** (10): 1633–1654. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1517/13543784.12.10.1633](//doi.org/10.1517%2F13543784.12.10.1633). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1354-3784](//www.worldcat.org/issn/1354-3784).
+5.  ↑ Glier, M. B., Green, T. J., Devlin, A. M. (January 2014). ["Methyl nutrients, DNA methylation, and cardiovascular disease"](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.201200636). *Molecular Nutrition & Food Research*. **58** (1): 172–182. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/mnfr.201200636](//doi.org/10.1002%2Fmnfr.201200636). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1613-4125](//www.worldcat.org/issn/1613-4125).
+6.  ↑ McGlade, E., Locatelli, A., Hardy, J., Kamiya, T., Morita, M., Morishita, K., Sugimura, Y., Yurgelun-Todd, D. (2012). ["Improved Attentional Performance Following Citicoline Administration in Healthy Adult Women"](http://www.scirp.org/journal/doi.aspx?DOI=10.4236/fns.2012.36103). *Food and Nutrition Sciences*. **03** (06): 769–773. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.4236/fns.2012.36103](//doi.org/10.4236%2Ffns.2012.36103). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2157-944X](//www.worldcat.org/issn/2157-944X).
+7.  ↑ Tayebati, S. K., Tomassoni, D., Nwankwo, I. E., Di Stefano, A., Sozio, P., Cerasa, L. S., Amenta, F. (1 February 2013). "Modulation of monoaminergic transporters by choline-containing phospholipids in rat brain". *CNS & neurological disorders drug targets*. **12** (1): 94–103. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/1871527311312010015](//doi.org/10.2174%2F1871527311312010015). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1996-3181](//www.worldcat.org/issn/1996-3181).
+8.  ↑ Trabucchi, M., Govoni, S., Battaini, F. (April 1986). "Changes in the interaction between CNS cholinergic and dopaminergic neurons induced by L-alpha-glycerylphosphorylcholine, a cholinomimetic drug". *Il Farmaco; Edizione Scientifica*. **41** (4): 325–334. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0430-0920](//www.worldcat.org/issn/0430-0920).

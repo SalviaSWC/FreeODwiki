@@ -14,7 +14,7 @@
 | 分类归属                                                        |                                |
 | 精神药效分类                                                      | *[迷幻剂](/文档/药物分类/迷幻剂.md)*       |
 | 化学分类                                                        | *[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)* |
-| [相互作用](#危险的相互作用)                                            |                                |
+| 相互作用                                            |                                |
 | [大麻](/药物/大麻.md)                                             |                                |
 | [兴奋剂](/文档/药物分类/兴奋剂.md)                                      |                                |
 | [曲马多](/药物/曲马多.md)                                           |                                |
@@ -24,41 +24,41 @@
 
 * **警告：**由于个体体重、耐受、代谢和个人敏感性都可能不同嘛，请务必从较低剂量开始。[参见负责任的用药部分](/文档/负责任的用药索引页.md)。
 
-#### ⇣ [口服](/文档/给药途径.md#口服)
+#### ⇣ [口服](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md)    |            |
 | ---------------------- | ---------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 20 mg      |
-| [轻微](/文档/药物剂量分类.md#轻微) | 30 - 40 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 40 - 60 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 60 - 80 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 80 mg+     |
+| [阈值](/文档/药物剂量分类.md) | 20 mg      |
+| [轻微](/文档/药物剂量分类.md) | 30 - 40 mg |
+| [中等](/文档/药物剂量分类.md) | 40 - 60 mg |
+| [强烈](/文档/药物剂量分类.md) | 60 - 80 mg |
+| [严重](/文档/药物剂量分类.md) | 80 mg+     |
 
 | [药效时长](/文档/药效时长.md)      |            |
 | ------------------------ | ---------- |
-| [总时长](/文档/药效时长.md#总时长)   | 10 - 16 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 1 - 2 小时   |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 4 - 8 小时   |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 3 - 6 小时   |
-| [药效残余](/文档/药效时长.md#药效残余) | 3 - 6 小时   |
+| [总时长](/文档/药效时长.md)   | 10 - 16 小时 |
+| [药效发作](/文档/药效时长.md) | 1 - 2 小时   |
+| [药效达峰](/文档/药效时长.md) | 4 - 8 小时   |
+| [药效褪去](/文档/药效时长.md) | 3 - 6 小时   |
+| [药效残余](/文档/药效时长.md) | 3 - 6 小时   |
 
-#### ⇣ [鼻吸](/文档/给药途径.md#鼻吸)
+#### ⇣ [鼻吸](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md)    |            |
 | ---------------------- | ---------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 15 mg      |
-| [轻微](/文档/药物剂量分类.md#轻微) | 20 - 35 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 35 - 60 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 60 - 70 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 70 mg+     |
+| [阈值](/文档/药物剂量分类.md) | 15 mg      |
+| [轻微](/文档/药物剂量分类.md) | 20 - 35 mg |
+| [中等](/文档/药物剂量分类.md) | 35 - 60 mg |
+| [强烈](/文档/药物剂量分类.md) | 60 - 70 mg |
+| [严重](/文档/药物剂量分类.md) | 70 mg+     |
 
 | [药效时长](/文档/药效时长.md)      |           |
 | ------------------------ | --------- |
-| [总时长](/文档/药效时长.md#总时长)   | 5 - 12 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 5 - 90 分钟 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 4 - 7 小时  |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 2 - 5 小时  |
-| [药效残余](/文档/药效时长.md#药效残余) | 3 - 5 小时  |
+| [总时长](/文档/药效时长.md)   | 5 - 12 小时 |
+| [药效发作](/文档/药效时长.md) | 5 - 90 分钟 |
+| [药效达峰](/文档/药效时长.md) | 4 - 7 小时  |
+| [药效褪去](/文档/药效时长.md) | 2 - 5 小时  |
+| [药效残余](/文档/药效时长.md) | 3 - 5 小时  |
 
 * **免责声明：**本网站的[给药剂量](/文档/给药剂量.md)信息来自使用者与各类资料，仅供教育用途呢。它并不是使用建议，准确性也应当结合其他来源进一步核实哦。
 
@@ -82,7 +82,7 @@
 
 它的药理作用可能会与 5-HT2A 受体产生较强相互作用，这在理论上或许有助于预防丛集性头痛，或赋予该化合物缓解终末期癌症相关心理痛苦的可能性。
 
-一般认为，3C-E 的[迷幻剂](/文档/药物分类/迷幻剂.md)效应来源于它在[5-HT 受体](/文档/血清素.md#5-ht-系统)上作为[部分激动剂](/文档/受体激动剂.md)的活性。不过，这些相互作用具体扮演了什么角色，以及它们是如何最终产生迷幻体验的，目前仍然不清楚呢。
+一般认为，3C-E 的[迷幻剂](/文档/药物分类/迷幻剂.md)效应来源于它在[5-HT 受体](/文档/血清素.md)上作为[部分激动剂](/文档/受体激动剂.md)的活性。不过，这些相互作用具体扮演了什么角色，以及它们是如何最终产生迷幻体验的，目前仍然不清楚呢。
 
 ## 主观效应
 
@@ -130,7 +130,7 @@ _**免责声明：**下方列出的效应援引自[***主观效应索引***](/�
 
 #### 扭曲
 
-* **[漂移](/药效/漂移.md)**（[液化](/药效/漂移.md#液化)、[流动](/药效/漂移.md#流动)、[呼吸](/药效/漂移.md#呼吸)和[形变](/药效/漂移.md#形变)）
+* **[漂移](/药效/漂移.md)**（[液化](/药效/漂移.md)、[流动](/药效/漂移.md)、[呼吸](/药效/漂移.md)和[形变](/药效/漂移.md)）
 * **[颜色偏移](/药效/颜色偏移.md)**
 * **[深度感知扭曲](/药效/深度感知扭曲.md)**
 * **[透视扭曲](/药效/透视扭曲.md)**
@@ -142,14 +142,14 @@ _**免责声明：**下方列出的效应援引自[***主观效应索引***](/�
 
 #### [几何](/药效/几何.md)
 
-这场体验中持续出现的视觉几何，与其说更接近[2C-B](/药物/2C-B.md)、[赛洛辛](/药物/赛洛辛.md)或[LSD](/药物/LSD.md)，不如说在外观上更类似于[DOC](/药物/DOC.md)或[麦斯卡林](/药物/麦斯卡林.md)。若以其[变体](/药效/几何.md#变体)来整体描述，它的复杂度偏精细、形态偏抽象、质感偏人工合成、组织方式较有结构感、整体明亮、多彩、表面光滑、边缘锐利、尺寸较大、速度较快、运动流畅、棱角与圆润并存、纵深感不具沉浸性，且强度较为稳定呢。
+这场体验中持续出现的视觉几何，与其说更接近[2C-B](/药物/2C-B.md)、[赛洛辛](/药物/赛洛辛.md)或[LSD](/药物/LSD.md)，不如说在外观上更类似于[DOC](/药物/DOC.md)或[麦斯卡林](/药物/麦斯卡林.md)。若以其[变体](/药效/几何.md)来整体描述，它的复杂度偏精细、形态偏抽象、质感偏人工合成、组织方式较有结构感、整体明亮、多彩、表面光滑、边缘锐利、尺寸较大、速度较快、运动流畅、棱角与圆润并存、纵深感不具沉浸性，且强度较为稳定呢。
 
 #### 幻觉状态
 
 3C-E 与其他苯丙胺类物质能够产生完整范围的高层级幻觉状态，而且这种出现方式比许多其他常见[迷幻剂](/文档/药物分类/迷幻剂.md)更稳定、也更容易复现。与[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)家族中的其他物质相比，这一点尤其明显。这些效应包括：
 
 * **转化**
-* **[内部幻觉](/药效/内部幻觉.md)**（*[自主实体](/药效/自主实体.md)*、*[场景、布景和景观](/药效/场景、布景和景观.md)*、*[视角幻觉](/药效/视角幻觉.md)*以及*[情景与情节](/药效/情景与情节.md)*）：与诸如[LSD](/药物/LSD.md)之类的其他[迷幻剂](/文档/药物分类/迷幻剂.md)相比，3C-E 的内部幻觉程度非常高。它们在黑暗环境中更为常见，并且若根据其[变体](/药效/内部幻觉.md#变体)来整体描述，则往往具有较高的真实感、互动性强、内容偏向全新体验、可控性较低而更具自主性、风格上以[几何](/药效/几何.md)为基础，整体主题则几乎都带有个人性、宗教性、灵性、科幻、奇幻、超现实、荒诞或超越性的色彩。
+* **[内部幻觉](/药效/内部幻觉.md)**（*[自主实体](/药效/自主实体.md)*、*[场景、布景和景观](/药效/场景、布景和景观.md)*、*[视角幻觉](/药效/视角幻觉.md)*以及*[情景与情节](/药效/情景与情节.md)*）：与诸如[LSD](/药物/LSD.md)之类的其他[迷幻剂](/文档/药物分类/迷幻剂.md)相比，3C-E 的内部幻觉程度非常高。它们在黑暗环境中更为常见，并且若根据其[变体](/药效/内部幻觉.md)来整体描述，则往往具有较高的真实感、互动性强、内容偏向全新体验、可控性较低而更具自主性、风格上以[几何](/药效/几何.md)为基础，整体主题则几乎都带有个人性、宗教性、灵性、科幻、奇幻、超现实、荒诞或超越性的色彩。
 
 ### **认知效应** ![User.svg](/文件/User.png)
 
@@ -225,9 +225,9 @@ _**免责声明：**下方列出的效应援引自[***主观效应索引***](/�
 | ![Ambulance2.png](/文件/Ambulance2.png) | **本节关于毒性与伤害潜力的内容还是一则小作品。**<br>*因此，其中可能包含不完整，甚至**危险地错误**的信息！你可以帮助扩充或修正它。* |
 | ------------------------------------- | ------------------------------------------------------------------------ |
 
-*注意：如果要使用这种物质，请务必自行开展独立研究，并采取**[伤害减少措施](/文档/负责任的用药索引页.md#一般)**。*
+*注意：如果要使用这种物质，请务必自行开展独立研究，并采取**[伤害减少措施](/文档/负责任的用药索引页.md)**。*
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)以及[负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)以及[负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
 关于娱乐性使用 3C-E 的毒性与长期健康影响，目前似乎还没有任何科学背景下的研究，确切的中毒剂量也尚不清楚。这是因为 3C-E 作为一种[研究用化学品](/文档/研究用化学品.md)，在人类使用史上所积累的资料非常有限。
 
@@ -281,11 +281,11 @@ _**免责声明：**下方列出的效应援引自[***主观效应索引***](/�
 | ![Question book-new.svg](/文件/Question%20book-new.png) | **本文引用的参考文献还不够充分。**<br>*你可以帮助补充它。* |
 | ----------------------------------------------------- | ---------------------------------- |
 
-1. [↑](#cite_ref-1) [*Erowid Online Books : “PIHKAL” - #25 3C-E*](https://erowid.org/library/books_online/pihkal/pihkal025.shtml)
-2. [↑](#cite_ref-2) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039).
-3. [↑](#cite_ref-3) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
-4. [↑](#cite_ref-4) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-5. [↑](#cite_ref-5) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-6. [↑](#cite_ref-6) [*危険ドラッグの成分１６物質を新たに指定薬物に指定*](https://www.mhlw.go.jp/stf/houdou/0000078803.html) (in Japanese), 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)], retrieved 2 May 2022
-7. [↑](#cite_ref-7) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-8. [↑](#cite_ref-8) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+1. ↑ [*Erowid Online Books : “PIHKAL” - #25 3C-E*](https://erowid.org/library/books_online/pihkal/pihkal025.shtml)
+2. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+3. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
+4. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+5. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+6. ↑ [*危険ドラッグの成分１６物質を新たに指定薬物に指定*](https://www.mhlw.go.jp/stf/houdou/0000078803.html) (in Japanese), 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)], retrieved 2 May 2022
+7. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+8. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

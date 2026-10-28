@@ -11,7 +11,7 @@ description:
 
 **即使在中等剂量下，PMMA 也可能引起严重的副作用，例如[体温升高](/药效/体温升高.md)和[血清素综合征](/文档/血清素综合征.md)，这可是很容易导致死亡或住院的哦。**
 
-因此，强烈不建议大家使用这种物质。请查看[本节](#毒性和危害潜力)以了解更多详情喵。
+因此，强烈不建议大家使用这种物质。请查看本节以了解更多详情喵。
 
 | PMMA | |
 | --- | --- |
@@ -32,7 +32,7 @@ description:
 | **[药效时长](/文档/药效时长.md)** | |
 | [总时长](/文档/药效时长.md) | 短 |
 | **[免责声明](/文档/免责声明.md)**：本站的[给药剂量](/文档/给药剂量.md)信息收集自用户和[资源](/文档/网络.md)，仅供教育用途。它不是推荐，应与其他来源核实以确保准确性。 | |
-| **[药物联用](#危险药物联用)** | |
+| **药物联用** | |
 
 **对甲氧基甲基苯丙胺**（para-Methoxymethamphetamine，也称为 **4-甲氧基甲基苯丙胺**、**4-MeOMA**，不准确地称为 **"4-MMA"**（该名称应保留给 [4-MMA](/药物/4-MMA.md) (4-MeMA)），更常见的是 **PMMA**）是一种非常危险且有毒的[苯丙胺](/文档/药物分类/苯丙胺类物质.md)类合成物质，与 [PMA](/药物/PMA.md) 密切相关哦。就像 PMA 一样，它以产生极度危险、危及生命的副作用而闻名呢。在较低剂量下，它的效果与 PMA 有点不同，引起严重[体温升高](/药效/体温升高.md)的倾向较低，同时产生更多的[共情](/文档/药物分类/共情剂.md)效应，可能会被误认为是 [MDMA](/药物/MDMA.md)（尽管在较高剂量下，它的风险与 PMA 是一样的喵）。它的使用历史不详，但在 2000 年代和 2010 年代出现得更频繁了。它的效力通常比 PMA 低。
 
@@ -41,20 +41,20 @@ description:
 目录
 --------
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **躯体效应**](#躯体效应)
-    + [3.2 **认知效应**](#认知效应)
-    + [3.3 **视觉效应**](#视觉效应)
-        - [3.3.1 抑制](#抑制)
-        - [3.3.2 扭曲](#扭曲)
-    + [3.4 体验报告](#体验报告)
-* [4 毒性和危害潜力](#毒性和危害潜力)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 **躯体效应**
+    + 3.2 **认知效应**
+    + 3.3 **视觉效应**
+        - 3.3.1 抑制
+        - 3.3.2 扭曲
+    + 3.4 体验报告
+* 4 毒性和危害潜力
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 化学
 ---------
@@ -139,15 +139,15 @@ _**免责声明：**以下列出的效应引用了[***主观效应索引***](/�
 法律地位
 ------------
 
-2002 年 2 月，欧洲理事会决定成员国应在三个月内对 PMMA 采取控制措施和刑事处罚。[\[1\]](#cite_note-1)
+2002 年 2 月，欧洲理事会决定成员国应在三个月内对 PMMA 采取控制措施和刑事处罚。\[1\]
 
 *   **奥地利**：根据 SMG (Suchtmittelgesetz Österreich)，持有、生产和销售 PMMA 是非法的。
-*   **巴西**：由于列入 Portaria SVS/MS nº 344，持有、生产和销售是非法的。[\[2\]](#cite_note-2)
+*   **巴西**：由于列入 Portaria SVS/MS nº 344，持有、生产和销售是非法的。\[2\]
 *   **加拿大**：PMMA 是附表 I 物质。
-*   **德国**：截至 2000 年 10 月 10 日，PMMA 根据 Anlage I BtMG（麻醉品法，附表 I）受管制。[\[3\]](#cite_note-3)[\[4\]](#cite_note-4) 未经许可，制造、持有、进口、出口、购买、销售、采购或分发均属违法。[\[5\]](#cite_note-5)
-*   **瑞士**：PMMA 是 Verzeichnis D 中明确列出的受管制物质。[\[6\]](#cite_note-6)
+*   **德国**：截至 2000 年 10 月 10 日，PMMA 根据 Anlage I BtMG（麻醉品法，附表 I）受管制。\[3\]\[4\] 未经许可，制造、持有、进口、出口、购买、销售、采购或分发均属违法。\[5\]
+*   **瑞士**：PMMA 是 Verzeichnis D 中明确列出的受管制物质。\[6\]
 *   **英国**：PMMA 是 A 类药物。
-*   **美国**：截至 2021 年 7 月 26 日，PMMA 是附表 I 药物。[\[7\]](#cite_note-7)
+*   **美国**：截至 2021 年 7 月 26 日，PMMA 是附表 I 药物。\[7\]
 
 另见
 --------
@@ -171,10 +171,10 @@ _**免责声明：**以下列出的效应引用了[***主观效应索引***](/�
 | ![Question book-new.png](/文件/Question_book-new.png) | **本文引用的参考文献不足。**<br>*您可以帮忙[添加一些](/文档/关于本站/index.md)。* |
 | --- | --- |
 
-1.  [↑](#cite_ref-1) ["Council Decision concerning control measures and criminal sanctions in respect of the new synthetic drug PMMA"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:063:0014:0014:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published March 6, 2003). February 28, 2002. p. 14. [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [52224955](//www.worldcat.org/oclc/52224955). L 63.
-2.  [↑](#cite_ref-2) <http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7>
-3.  [↑](#cite_ref-3) ["Vierzehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D__1576702069328) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
-4.  [↑](#cite_ref-4) ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-5.  [↑](#cite_ref-5) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-6.  [↑](#cite_ref-6) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei \[Federal Chancellery of Switzerland\]. Retrieved January 1, 2020.
-7.  [↑](#cite_ref-7) <https://www.federalregister.gov/documents/2021/06/25/2021-13460/schedules-of-controlled-substances-placement-of-para-methoxymethamphetamine-pmma-in-schedule-i>
+1.  ↑ ["Council Decision concerning control measures and criminal sanctions in respect of the new synthetic drug PMMA"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:063:0014:0014:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published March 6, 2003). February 28, 2002. p. 14. [OCLC](http://en.wikipedia.org/wiki/OCLC) [52224955](//www.worldcat.org/oclc/52224955). L 63.
+2.  ↑ <http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7>
+3.  ↑ ["Vierzehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D__1576702069328) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
+4.  ↑ ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+5.  ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+6.  ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei \[Federal Chancellery of Switzerland\]. Retrieved January 1, 2020.
+7.  ↑ <https://www.federalregister.gov/documents/2021/06/25/2021-13460/schedules-of-controlled-substances-placement-of-para-methoxymethamphetamine-pmma-in-schedule-i>

@@ -6,7 +6,7 @@ description:
 # 茶苯海明^*谵妄、止吐*^
 
 
-[¶](#茶苯海明) 茶苯海明
+¶ 茶苯海明
 ================================
 > **2024\.7\.11修正**：茶苯海明是**单方制剂**而非复方制剂，它是8\-氯茶碱和苯海拉明的**化合物**而非混合物，是一个有CAS号（523\-87\-5）的单一纯净物质
 
@@ -17,10 +17,10 @@ description:
 
 **茶苯海明(Dimenhydrinate, DMH)** 是抗晕动病药、抗放射病药，属于谵妄剂，为单方药物。茶苯海明本身整合了8\-氨茶碱，即[苯海拉明](DPH.md)8\-氨茶碱。**基本不能od**
 
-[¶](#药理作用) 药理作用
+¶ 药理作用
 --------------------------------
 
-#### [¶](#作用机理-1) 作用机理 [\[1\]](#fn1)
+#### ¶ 作用机理 \[1\]
 
 [苯海拉明](DPH.md)部分——
 
@@ -34,20 +34,20 @@ description:
 * 提供兴奋，反制由苯海拉明带来的嗜睡副作用
 
 
-#### [¶](#药物作用) 药物作用
+#### ¶ 药物作用
 
 * **主要的副作用：[谵妄](../Effects/Delirium.md)、精神病状、记忆力丧失、阿兹海默症(老年痴呆)、死亡、抗胆碱能综合征、呼吸抑制**
 * 主要的主作用：镇静
 
 
-#### [¶](#药代动力学2) 药代动力学[\[2\]](#fn2)
+#### ¶ 药代动力学\[2\]
 
 茶苯海明被口服或舌下含服后，约2小时，血药浓度达到峰值。半衰期为5\~6h
 
-[¶](#药物使用) 药物使用
+¶ 药物使用
 --------------------------------
 
-#### [¶](#药物品牌3-4) 药物品牌[\[3\]](#fn3) [\[4\]](#fn4)
+#### ¶ 药物品牌\[3\] \[4\]
 
 茶苯海明片——  
 北京益民京益（蓝）：小瓶装25mg×20片，价格约22元  
@@ -59,17 +59,17 @@ description:
 江苏黄河万邦：盒装25mg×每盒12片，价格不明  
 江苏黄河宁新宝：盒装25mg×每盒50板×每板12片，价格不明  
 茶苯海明含片——  
-北京益民怡含宁（绿）：盒装20mg×每板6片×1板，价格约28元[\[5\]](#fn5)  
-北京益民怡含宁（蓝）：盒装40mg×每板4片×1板，价格不明[\[6\]](#fn6)
+北京益民怡含宁（绿）：盒装20mg×每板6片×1板，价格约28元\[5\]  
+北京益民怡含宁（蓝）：盒装40mg×每板4片×1板，价格不明\[6\]
 
-#### [¶](#剂量-以60kg为标准) 剂量 【以60kg为标准】
+#### ¶ 剂量 【以60kg为标准】
 > 别再靠近了！茶苯海明根本不好玩！笔者推荐你玩[这个](https://tieba.baidu.com/f?ie=utf-8&kw=insurgencysandstorm)或者[这个](DXM.md)
 
 医学剂量：25mg\~50mg，每日两次  
 **拒绝写入滥用剂量**  
-██剂量：至少在40t×25mg左右[\[7\]](#fn7)
+██剂量：至少在40t×25mg左右\[7\]
 
-#### [¶](#期间以距离服药已过去的时间为标准缺少数据8) 期间【以距离服药已过去的时间为标准】【缺少数据】[\[8\]](#fn8)
+#### ¶ 期间【以距离服药已过去的时间为标准】【缺少数据】\[8\]
 
 起效时：30min\~1\.5h  
 来效时：45min\~1\.5h  
@@ -78,7 +78,7 @@ description:
 残效时：24h\+  
 总效时：3h\~10h
 
-#### [¶](#一些事项) 一些事项
+#### ¶ 一些事项
 
 茶苯海明引起记忆力废退、谵妄、阿兹海默症，原因是抗胆碱能
 
@@ -91,18 +91,18 @@ description:
 ---
 
 
-1. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) [↩︎](#fnref1)
+1. [wikipedia](https://en.wikipedia.org/wiki/Diphenhydramine) ↩︎
 
-2. [wikipedia](https://en.wikipedia.org/wiki/Dimenhydrinate) [↩︎](#fnref2)
+2. [wikipedia](https://en.wikipedia.org/wiki/Dimenhydrinate) ↩︎
 
-3. [药房网网站](https://www.yaofangwang.com/list/5894/) [↩︎](#fnref3)
+3. [药房网网站](https://www.yaofangwang.com/list/5894/) ↩︎
 
-4. [药房网网站](https://www.yaofangwang.com/list/5894/) [↩︎](#fnref4)
+4. [药房网网站](https://www.yaofangwang.com/list/5894/) ↩︎
 
-5. 这个是甜的 [↩︎](#fnref5)
+5. 这个是甜的 ↩︎
 
-6. 这个估计也是甜的 [↩︎](#fnref6)
+6. 这个估计也是甜的 ↩︎
 
-7. [这啥网站](https://www.wenmi.com/article/pyvfuw02qjd2.md) [↩︎](#fnref7)
+7. [这啥网站](https://www.wenmi.com/article/pyvfuw02qjd2.md) ↩︎
 
-8. [psywiki](https://m.psychonautwiki.org/w/index.php?title=Diphenhydramine&_=#Dimenhydrinate) [↩︎](#fnref8)
+8. [psywiki](https://m.psychonautwiki.org/w/index.php?title=Diphenhydramine&_=#Dimenhydrinate) ↩︎

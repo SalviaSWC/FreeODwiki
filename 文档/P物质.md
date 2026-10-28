@@ -11,18 +11,18 @@
 
 ## 目录
 
-*   [1 化学组成](#化学组成)
-*   [2 受体](#受体)
-    *   [2.1 作为神经递质或神经调质的功能](#作为神经递质或神经调质的功能)
-*   [3 在疼痛感知中的作用以及与阿片类药物的相互作用](#在疼痛感知中的作用以及与阿片类药物的相互作用)
-    *   [3.1 与阿片类药物的相互作用](#与阿片类药物的相互作用)
-*   [4 在呕吐中的作用](#在呕吐中的作用)
-*   [5 在情绪和压力调节中的作用](#在情绪和压力调节中的作用)
-*   [6 其他作用](#其他作用)
-*   [7 靶向P物质的药物](#靶向p物质的药物)
-*   [8 另见](#另见)
-*   [9 外部链接](#外部链接)
-*   [10 参考文献](#参考文献)
+*   1 化学组成
+*   2 受体
+    *   2.1 作为神经递质或神经调质的功能
+*   3 在疼痛感知中的作用以及与阿片类药物的相互作用
+    *   3.1 与阿片类药物的相互作用
+*   4 在呕吐中的作用
+*   5 在情绪和压力调节中的作用
+*   6 其他作用
+*   7 靶向P物质的药物
+*   8 另见
+*   9 外部链接
+*   10 参考文献
 
 ## 化学组成
 
@@ -101,15 +101,15 @@ SP是一种血管扩张剂呢。
 
 1.  ↑ Zubrzycka, M., Janecka, A. (December 2000). "Substance P: transmitter of nociception (Minireview)". *Endocrine Regulations*. **34** (4): 195–201. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1210-0668](//www.worldcat.org/issn/1210-0668).
 2.  ↑ Ebner, K., Singewald, N. (October 2006). ["The role of substance P in stress and anxiety responses"](http://link.springer.com/10.1007/s00726-006-0335-9). *Amino Acids*. **31** (3): 251–272. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00726-006-0335-9](//doi.org/10.1007%2Fs00726-006-0335-9). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0939-4451](//www.worldcat.org/issn/0939-4451).
-3.  [↑](#cite_ref-3) Neumann, S., Doubell, T. P., Leslie, T., Woolf, C. J. (November 1996). ["Inflammatory pain hypersensitivity mediated by phenotypic switch in myelinated primary sensory neurons"](https://www.nature.com/articles/384360a0). *Nature*. **384** (6607): 360–364. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/384360a0](//doi.org/10.1038%2F384360a0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-4687](//www.worldcat.org/issn/1476-4687).
-4.  [↑](#cite_ref-analgesia_4-0) Hill, R. (1 July 2000). ["NK1 (substance P) receptor antagonists – why are they not analgesic in humans?"](https://www.sciencedirect.com/science/article/pii/S0165614700015029). *Trends in Pharmacological Sciences*. **21** (7): 244–246. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0165-6147(00)01502-9](//doi.org/10.1016%2FS0165-6147%2800%2901502-9). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0165-6147](//www.worldcat.org/issn/0165-6147).
-5.  [↑](#cite_ref-5) Kravitz, H. M., Katz, R., Kot, E., Helmke, N., Fawcett, J. (1 September 1992). "Biochemical clues to a fibromyalgia-depression link: imipramine binding in patients with fibromyalgia or depression and in healthy controls". *The Journal of rheumatology*. **19** (9): 1428–1432. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0315-162X](//www.worldcat.org/issn/0315-162X).
-6.  [↑](#cite_ref-6) Okifuji, A., Turk, D. C., Sherman, J. J. (1 January 2000). "Evaluation of the relationship between depression and fibromyalgia syndrome: why aren't all patients depressed". *The Journal of rheumatology*. **27** (1): 212–219. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0315-162X](//www.worldcat.org/issn/0315-162X).
-7.  [↑](#cite_ref-7) Crofford, L. J., Rowbotham, M. C., Mease, P. J., Russell, I. J., Dworkin, R. H., Corbin, A. E., Young, J. P., LaMoreaux, L. K., Martin, S. A., Sharma, U. (April 2005). ["Pregabalin for the treatment of fibromyalgia syndrome: Results of a randomized, double-blind, placebo-controlled trial"](https://onlinelibrary.wiley.com/doi/10.1002/art.20983). *Arthritis & Rheumatism*. **52** (4): 1264–1273. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/art.20983](//doi.org/10.1002%2Fart.20983). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0004-3591](//www.worldcat.org/issn/0004-3591).
+3.  ↑ Neumann, S., Doubell, T. P., Leslie, T., Woolf, C. J. (November 1996). ["Inflammatory pain hypersensitivity mediated by phenotypic switch in myelinated primary sensory neurons"](https://www.nature.com/articles/384360a0). *Nature*. **384** (6607): 360–364. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/384360a0](//doi.org/10.1038%2F384360a0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-4687](//www.worldcat.org/issn/1476-4687).
+4.  ↑ Hill, R. (1 July 2000). ["NK1 (substance P) receptor antagonists – why are they not analgesic in humans?"](https://www.sciencedirect.com/science/article/pii/S0165614700015029). *Trends in Pharmacological Sciences*. **21** (7): 244–246. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0165-6147(00)01502-9](//doi.org/10.1016%2FS0165-6147%2800%2901502-9). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0165-6147](//www.worldcat.org/issn/0165-6147).
+5.  ↑ Kravitz, H. M., Katz, R., Kot, E., Helmke, N., Fawcett, J. (1 September 1992). "Biochemical clues to a fibromyalgia-depression link: imipramine binding in patients with fibromyalgia or depression and in healthy controls". *The Journal of rheumatology*. **19** (9): 1428–1432. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0315-162X](//www.worldcat.org/issn/0315-162X).
+6.  ↑ Okifuji, A., Turk, D. C., Sherman, J. J. (1 January 2000). "Evaluation of the relationship between depression and fibromyalgia syndrome: why aren't all patients depressed". *The Journal of rheumatology*. **27** (1): 212–219. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0315-162X](//www.worldcat.org/issn/0315-162X).
+7.  ↑ Crofford, L. J., Rowbotham, M. C., Mease, P. J., Russell, I. J., Dworkin, R. H., Corbin, A. E., Young, J. P., LaMoreaux, L. K., Martin, S. A., Sharma, U. (April 2005). ["Pregabalin for the treatment of fibromyalgia syndrome: Results of a randomized, double-blind, placebo-controlled trial"](https://onlinelibrary.wiley.com/doi/10.1002/art.20983). *Arthritis & Rheumatism*. **52** (4): 1264–1273. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/art.20983](//doi.org/10.1002%2Fart.20983). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0004-3591](//www.worldcat.org/issn/0004-3591).
 8.  ↑ Felipe, C. D., Herrero, J. F., O’Brien, J. A., Palmer, J. A., Doyle, C. A., Smith, A. J. H., Laird, J. M. A., Belmonte, C., Cervero, F., Hunt, S. P. (March 1998). ["Altered nociception, analgesia and aggression in mice lacking the receptor for substance P"](https://www.nature.com/articles/32904). *Nature*. **392** (6674): 394–397. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/32904](//doi.org/10.1038%2F32904). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-4687](//www.worldcat.org/issn/1476-4687).
-9.  [↑](#cite_ref-9) Lin, C.-C. J., Chen, W.-N., Chen, C.-J., Lin, Y.-W., Zimmer, A., Chen, C.-C. (10 January 2012). ["An antinociceptive role for substance P in acid-induced chronic muscle pain"](https://pnas.org/doi/full/10.1073/pnas.1108903108). *Proceedings of the National Academy of Sciences*. **109** (2). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1073/pnas.1108903108](//doi.org/10.1073%2Fpnas.1108903108). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0027-8424](//www.worldcat.org/issn/0027-8424).
-10. [↑](#cite_ref-absent_10-0) Murtra, P., Sheasby, A. M., Hunt, S. P., De Felipe, C. (May 2000). ["Rewarding effects of opiates are absent in mice lacking the receptor for substance P"](https://www.nature.com/articles/35012069). *Nature*. **405** (6783): 180–183. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/35012069](//doi.org/10.1038%2F35012069). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-4687](//www.worldcat.org/issn/1476-4687).
-11. [↑](#cite_ref-11) Yaksh, T. L., Jessell, T. M., Gamse, R., Mudge, A. W., Leeman, S. E. (July 1980). ["Intrathecal morphine inhibits substance P release from mammalian spinal cord in vivo"](https://www.nature.com/articles/286155a0). *Nature*. **286** (5769): 155–157. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/286155a0](//doi.org/10.1038%2F286155a0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-4687](//www.worldcat.org/issn/1476-4687).
-12. [↑](#cite_ref-12) [*Drug Approval Package: EMEND (Aprepitant) NDA #21-549*](https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-549_Emend.cfm)
-13. [↑](#cite_ref-13) <http://www.drugs.com/newdrugs/fda-approves-akynzeo-netupitant-palonosetron-chemotherapy-induced-nausea-vomiting-4096.html>
-14. [↑](#cite_ref-14) Hornby, P. J. (3 December 2001). ["Central neurocircuitry associated with emesis"](https://www.sciencedirect.com/science/article/pii/S000293430100849X). *The American Journal of Medicine*. **111**
+9.  ↑ Lin, C.-C. J., Chen, W.-N., Chen, C.-J., Lin, Y.-W., Zimmer, A., Chen, C.-C. (10 January 2012). ["An antinociceptive role for substance P in acid-induced chronic muscle pain"](https://pnas.org/doi/full/10.1073/pnas.1108903108). *Proceedings of the National Academy of Sciences*. **109** (2). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1073/pnas.1108903108](//doi.org/10.1073%2Fpnas.1108903108). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0027-8424](//www.worldcat.org/issn/0027-8424).
+10. ↑ Murtra, P., Sheasby, A. M., Hunt, S. P., De Felipe, C. (May 2000). ["Rewarding effects of opiates are absent in mice lacking the receptor for substance P"](https://www.nature.com/articles/35012069). *Nature*. **405** (6783): 180–183. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/35012069](//doi.org/10.1038%2F35012069). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-4687](//www.worldcat.org/issn/1476-4687).
+11. ↑ Yaksh, T. L., Jessell, T. M., Gamse, R., Mudge, A. W., Leeman, S. E. (July 1980). ["Intrathecal morphine inhibits substance P release from mammalian spinal cord in vivo"](https://www.nature.com/articles/286155a0). *Nature*. **286** (5769): 155–157. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/286155a0](//doi.org/10.1038%2F286155a0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-4687](//www.worldcat.org/issn/1476-4687).
+12. ↑ [*Drug Approval Package: EMEND (Aprepitant) NDA #21-549*](https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-549_Emend.cfm)
+13. ↑ <http://www.drugs.com/newdrugs/fda-approves-akynzeo-netupitant-palonosetron-chemotherapy-induced-nausea-vomiting-4096.html>
+14. ↑ Hornby, P. J. (3 December 2001). ["Central neurocircuitry associated with emesis"](https://www.sciencedirect.com/science/article/pii/S000293430100849X). *The American Journal of Medicine*. **111**

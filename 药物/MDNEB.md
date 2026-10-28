@@ -21,28 +21,28 @@
 | ----------------------------------------------------------------------- | - |
 | **警告：**由于个体体重、耐受、代谢和个人敏感性存在差异，请务必从更低剂量开始哦。参见[负责任的用药](/文档/负责任的用药索引页.md)。 |   |
 
-#### [口服](/文档/给药途径.md#口服)
+#### [口服](/文档/给药途径.md)
 
 | 项目                     | 数值         |
 | ---------------------- | ---------- |
-| [中等](/文档/药物剂量分类.md#中等) | 50 - 80 mg |
-| [总时长](/文档/药效时长.md#总时长) | 4 - 8 小时   |
+| [中等](/文档/药物剂量分类.md) | 50 - 80 mg |
+| [总时长](/文档/药效时长.md) | 4 - 8 小时   |
 
-#### [鼻吸](/文档/给药途径.md#鼻吸)
+#### [鼻吸](/文档/给药途径.md)
 
 | 项目                       | 数值          |
 | ------------------------ | ----------- |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 5 mg        |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 15 - 45 mg  |
-| [中等](/文档/药物剂量分类.md#中等)   | 45 - 80 mg  |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 80 - 125 mg |
-| [严重](/文档/药物剂量分类.md#严重)   | 125 mg +    |
-| [总时长](/文档/药效时长.md#总时长)   | 3 - 6 小时    |
-| [药效发作](/文档/药效时长.md#药效发作) | 15 - 45 分钟  |
-| [药效上升](/文档/药效时长.md#药效上升) | 15 - 30 分钟  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 30 - 60 分钟  |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 30 - 90 分钟  |
-| [药效残余](/文档/药效时长.md#药效残余) | 2 - 4 小时    |
+| [阈值](/文档/药物剂量分类.md)   | 5 mg        |
+| [轻微](/文档/药物剂量分类.md)   | 15 - 45 mg  |
+| [中等](/文档/药物剂量分类.md)   | 45 - 80 mg  |
+| [强烈](/文档/药物剂量分类.md)   | 80 - 125 mg |
+| [严重](/文档/药物剂量分类.md)   | 125 mg +    |
+| [总时长](/文档/药效时长.md)   | 3 - 6 小时    |
+| [药效发作](/文档/药效时长.md) | 15 - 45 分钟  |
+| [药效上升](/文档/药效时长.md) | 15 - 30 分钟  |
+| [药效达峰](/文档/药效时长.md) | 30 - 60 分钟  |
+| [药效褪去](/文档/药效时长.md) | 30 - 90 分钟  |
+| [药效残余](/文档/药效时长.md) | 2 - 4 小时    |
 
 **免责声明：**本网站的[给药剂量](/文档/给药剂量.md)信息仅为教育目的而汇编自使用者与各类[资料](/文档/index.md)，并不构成推荐，使用前还应以其他来源交叉核实其准确性哦。
 
@@ -56,25 +56,25 @@ MDNEB的人体使用史很短，关于其药理性质、代谢与毒性的资料
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **认知效应**](#认知效应)
-  * [3.3 **药效残余**](#药效残余)
-  * [3.4 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **认知效应**
+  * 3.3 **药效残余**
+  * 3.4 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [4.2 精神病发作](#精神病发作)
-  * [4.3 危险的相互作用](#危险的相互作用)
+  * 4.1 耐受性与成瘾潜力
+  * 4.2 精神病发作
+  * 4.3 危险的相互作用
 
-    * [4.3.1 血清素综合征风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+    * 4.3.1 血清素综合征风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -125,7 +125,7 @@ MDNEB的认知效应可以被拆分为若干个组成部分，并会随着剂量
 
 ### **药效残余** [![](/文件/Aftereffects%20\(3\).png)](/文件/Aftereffects%20%283%29.png)
 
-* 在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)阶段所出现的效应，通常与其[药效达峰](/文档/药效时长.md#药效达峰)期间的感受相比，更偏向负面且令人不适。这通常被称为“下坠”，其发生与[神经递质](/文档/神经递质.md)耗竭有关。其常见表现包括：
+* 在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)阶段所出现的效应，通常与其[药效达峰](/文档/药效时长.md)期间的感受相比，更偏向负面且令人不适。这通常被称为“下坠”，其发生与[神经递质](/文档/神经递质.md)耗竭有关。其常见表现包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[认知疲劳](/药效/认知疲劳.md)**
@@ -141,7 +141,7 @@ MDNEB的认知效应可以被拆分为若干个组成部分，并会随着剂量
 
 ## 毒性与伤害潜力
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 在任何科学语境下，娱乐性使用MDNEB的毒性与长期健康影响似乎都尚未被系统研究，其确切中毒剂量也仍然未知。这是因为MDNEB的人体使用史非常短。来自社群中尝试过MDNEB的人所提供的轶事证据表明，在低至中等剂量且非频繁使用的情况下，似乎并不存在明显归因于该物质的强烈不良效应。
 
@@ -206,17 +206,17 @@ MDNEB的认知效应可以被拆分为若干个组成部分，并会随着剂量
 
 ## 参考文献
 
-1. [↑](#cite_ref-urlCathinone_.7C_Ask_Dr._Shulgin_Online_1-0) ["Cathinone | Ask Dr. Shulgin Online"](http://www.cognitiveliberty.org/shulgin/adsarchive/cathinone.htm).
-2. [↑](#cite_ref-2) Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines (PubMed.gov / NCBI) | [http://www.ncbi.nlm.nih.gov/pubmed/10528135](http://www.ncbi.nlm.nih.gov/pubmed/10528135)
-3. [↑](#cite_ref-3) The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain (ScienceDirect) | [http://www.sciencedirect.com/science/article/pii/S0014299906013811](http://www.sciencedirect.com/science/article/pii/S0014299906013811)
-4. [↑](#cite_ref-4) "Pharmacological characterization of designer cathinones in vitro" | [http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf](http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf)
-5. [↑](#cite_ref-5) The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain (ScienceDirect) | [http://www.sciencedirect.com/science/article/pii/S0014299906013811](http://www.sciencedirect.com/science/article/pii/S0014299906013811)
-6. [↑](#cite_ref-6) "Pharmacological characterization of designer cathinones in vitro" | [http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf](http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf)
-7. [↑](#cite_ref-7) Treatment for amphetamine psychosis | [[1]](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003026.pub3/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)
-8. [↑](#cite_ref-8) Treatment for amphetamine psychosis | [[2]](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003026.pub3/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)
-9. [↑](#cite_ref-9) Hofmann FG (1983). A Handbook on Drug and Alcohol Abuse: The Biomedical Aspects (2nd ed.). New York: Oxford University Press. p. 329. ISBN 9780195030570.
-10. [↑](#cite_ref-10) Treatment for amphetamine psychosis | [[3]](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003026.pub3/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)
-11. [↑](#cite_ref-11) Stimulant Misuse: Strategies to Manage a Growing Problem | [http://www.acha.org/prof_dev/ADHD_docs/ADHD_PDprogram_Article2.pdf](http://www.acha.org/prof_dev/ADHD_docs/ADHD_PDprogram_Article2.pdf)
-12. [↑](#cite_ref-12) [http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf](http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf)
-13. [↑](#cite_ref-13) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-14. [↑](#cite_ref-14) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+1. ↑ ["Cathinone | Ask Dr. Shulgin Online"](http://www.cognitiveliberty.org/shulgin/adsarchive/cathinone.htm).
+2. ↑ Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines (PubMed.gov / NCBI) | [http://www.ncbi.nlm.nih.gov/pubmed/10528135](http://www.ncbi.nlm.nih.gov/pubmed/10528135)
+3. ↑ The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain (ScienceDirect) | [http://www.sciencedirect.com/science/article/pii/S0014299906013811](http://www.sciencedirect.com/science/article/pii/S0014299906013811)
+4. ↑ "Pharmacological characterization of designer cathinones in vitro" | [http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf](http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf)
+5. ↑ The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain (ScienceDirect) | [http://www.sciencedirect.com/science/article/pii/S0014299906013811](http://www.sciencedirect.com/science/article/pii/S0014299906013811)
+6. ↑ "Pharmacological characterization of designer cathinones in vitro" | [http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf](http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x/pdf)
+7. ↑ Treatment for amphetamine psychosis | [[1]](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003026.pub3/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)
+8. ↑ Treatment for amphetamine psychosis | [[2]](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003026.pub3/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)
+9. ↑ Hofmann FG (1983). A Handbook on Drug and Alcohol Abuse: The Biomedical Aspects (2nd ed.). New York: Oxford University Press. p. 329. ISBN 9780195030570.
+10. ↑ Treatment for amphetamine psychosis | [[3]](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003026.pub3/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)
+11. ↑ Stimulant Misuse: Strategies to Manage a Growing Problem | [http://www.acha.org/prof_dev/ADHD_docs/ADHD_PDprogram_Article2.pdf](http://www.acha.org/prof_dev/ADHD_docs/ADHD_PDprogram_Article2.pdf)
+12. ↑ [http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf](http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf)
+13. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+14. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).

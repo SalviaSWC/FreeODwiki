@@ -17,28 +17,28 @@
 
 | [给药途径](/文档/给药途径.md)                                                       |                        |
 | ------------------------------------------------------------------------- | ---------------------- |
-| **警告：**由于每个人的体重、耐受性、代谢和个人敏感性都不同嘛，请务必从更低剂量开始。参见[负责任的用药](/文档/负责任的用药索引页.md)。 | ⇣ [抽吸](/文档/给药途径.md#抽吸) |
+| **警告：**由于每个人的体重、耐受性、代谢和个人敏感性都不同嘛，请务必从更低剂量开始。参见[负责任的用药](/文档/负责任的用药索引页.md)。 | ⇣ [抽吸](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |            |
 | ---------------------- | ---------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 0.5 mg     |
-| [轻微](/文档/药物剂量分类.md#轻微) | 0.5 - 1 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 1 - 2 mg   |
-| [强烈](/文档/药物剂量分类.md#强烈) | 2 - 4 mg   |
-| [严重](/文档/药物剂量分类.md#严重) | 4 mg+      |
+| [阈值](/文档/药物剂量分类.md) | 0.5 mg     |
+| [轻微](/文档/药物剂量分类.md) | 0.5 - 1 mg |
+| [中等](/文档/药物剂量分类.md) | 1 - 2 mg   |
+| [强烈](/文档/药物剂量分类.md) | 2 - 4 mg   |
+| [严重](/文档/药物剂量分类.md) | 4 mg+      |
 
 | [药效时长](/文档/药效时长.md)      |           |
 | ------------------------ | --------- |
-| [总时长](/文档/药效时长.md#总时长)   | 30 - 60分钟 |
-| [药效发作](/文档/药效时长.md#药效发作) | 0 - 20分钟  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 10 - 30分钟 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 5 - 10分钟  |
-| [药效残余](/文档/药效时长.md#药效残余) | 15 - 30分钟 |
+| [总时长](/文档/药效时长.md)   | 30 - 60分钟 |
+| [药效发作](/文档/药效时长.md) | 0 - 20分钟  |
+| [药效达峰](/文档/药效时长.md) | 10 - 30分钟 |
+| [药效褪去](/文档/药效时长.md) | 5 - 10分钟  |
+| [药效残余](/文档/药效时长.md) | 15 - 30分钟 |
 
 | **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为基于用户与资源整理的教育用途内容，并不是建议哦，也应当结合其他来源核实准确性。 |   |
 | ------------------------------------------------------------------------------------------- | - |
 
-| [相互作用](#危险的药物联用) |   |
+| 相互作用 |   |
 | ---------------- | - |
 | 2C-T-x           |   |
 | 2C-x             |   |
@@ -60,7 +60,7 @@
 
 据报告，它的[主观效应](/药效/主观效应索引.md)与[大麻](/药物/大麻.md)有些相似呢，不过持续时间较短，而且更强调强烈的身体感觉。
 
-大麻素通常会通过抽吸或蒸发吸入来获得更快的[药效发作](/文档/药效时长.md#药效发作)与迅速的[药效褪去](/文档/药效时长.md#药效褪去)。5F-AKB48在溶于脂质后也具有[口服](/文档/给药途径.md#口服)活性，这会显著延长持续时间。和其他大麻素一样，它不溶于水，但可溶于[酒精](/药物/酒精.md)与脂质。
+大麻素通常会通过抽吸或蒸发吸入来获得更快的[药效发作](/文档/药效时长.md)与迅速的[药效褪去](/文档/药效时长.md)。5F-AKB48在溶于脂质后也具有[口服](/文档/给药途径.md)活性，这会显著延长持续时间。和其他大麻素一样，它不溶于水，但可溶于[酒精](/药物/酒精.md)与脂质。
 
 与[大麻](/药物/大麻.md)不同，长期滥用[合成大麻素](/文档/药物分类/合成大麻素类物质.md)已经被认为与多起严重伤害和死亡事件有关，而且总体上也具有更危险的副作用与毒性。因此呢，并不建议长时间或大剂量使用这种物质。
 
@@ -115,7 +115,7 @@ _**免责声明：**下列效应引自[***主观效应索引***](/药效/主观�
 
 ## 毒性与伤害可能性
 
-更多信息：[*合成大麻素 § 毒性与伤害可能性*](/文档/药物分类/合成大麻素类物质.md#毒性与伤害可能性)以及[*研究用化学品 § 毒性与伤害可能性*](/文档/研究用化学品.md#毒性与伤害可能性)
+更多信息：[*合成大麻素 § 毒性与伤害可能性*](/文档/药物分类/合成大麻素类物质.md)以及[*研究用化学品 § 毒性与伤害可能性*](/文档/研究用化学品.md)
 
 娱乐性使用5F-AKB48的毒性与长期健康影响，似乎尚未在任何科学语境下得到研究，而其确切中毒剂量也未知。这是因为5F-AKB48几乎没有人类使用史。来自社区内尝试过5F-AKB48者的轶事证据表明，单独以低至中等剂量偶尔使用时，似乎并不会带来明显的负面健康影响（不过嘛，这当然不能被完全保证）。非正式实验表明，过量使用会在远低于致命剂量时就引起身体不适，包括心悸、眩晕与镇静，通常还会使使用者承受大量[焦虑](/药效/焦虑.md)，或者直接睡着。
 
@@ -179,30 +179,30 @@ _**免责声明：**下列效应引自[***主观效应索引***](/药效/主观�
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) AKB48 (APINACA) and 5F-AKB48 (5F-APINACA).
+1. ↑ AKB48 (APINACA) and 5F-AKB48 (5F-APINACA).
    | [http://deadiversion.usdoj.gov/drug_chem_info/spice/akb48.pdf](http://deadiversion.usdoj.gov/drug_chem_info/spice/akb48.pdf)
-2. [↑](#cite_ref-2) Jang, M., Shin, I., Kim, J., Yang, W. (1 July 2015). ["Simultaneous quantification of 37 synthetic cannabinoid metabolites in human urine by liquid chromatography-tandem mass spectrometry"](https://doi.org/10.1007/s11419-015-0265-x). *Forensic Toxicology*. **33** (2): 221–234. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s11419-015-0265-x](//doi.org/10.1007%2Fs11419-015-0265-x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1860-8973](//www.worldcat.org/issn/1860-8973).
-3. [↑](#cite_ref-3) Karinen, R., Tuv, S. S., Øiestad, E. L., Vindenes, V. (January 2015). "Concentrations of APINACA, 5F-APINACA, UR-144 and its degradant product in blood samples from six impaired drivers compared to previous reported concentrations of other synthetic cannabinoids". *Forensic Science International*. **246**: 98–103. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.forsciint.2014.11.012](//doi.org/10.1016%2Fj.forsciint.2014.11.012). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1872-6283](//www.worldcat.org/issn/1872-6283).
-4. [↑](#cite_ref-4) Holm, N. B., Pedersen, A. J., Dalsgaard, P. W., Linnet, K. (March 2015). "Metabolites of 5F-AKB-48, a synthetic cannabinoid receptor agonist, identified in human urine and liver microsomal preparations using liquid chromatography high-resolution mass spectrometry". *Drug Testing and Analysis*. **7** (3): 199–206. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/dta.1663](//doi.org/10.1002%2Fdta.1663). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1942-7611](//www.worldcat.org/issn/1942-7611).
-5. [↑](#cite_ref-5) Wohlfarth, A., Castaneto, M. S., Zhu, M., Pang, S., Scheidweiler, K. B., Kronstrand, R., Huestis, M. A. (May 2015). "Pentylindole/Pentylindazole Synthetic Cannabinoids and Their 5-Fluoro Analogs Produce Different Primary Metabolites: Metabolite Profiling for AB-PINACA and 5F-AB-PINACA". *The AAPS journal*. **17** (3): 660–677. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1208/s12248-015-9721-0](//doi.org/10.1208%2Fs12248-015-9721-0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1550-7416](//www.worldcat.org/issn/1550-7416).
-6. [↑](#cite_ref-6) Chung, H., Choi, H., Heo, S., Kim, E., Lee, J. (1 January 2014). ["Synthetic cannabinoids abused in South Korea: drug identifications by the National Forensic Service from 2009 to June 2013"](https://doi.org/10.1007/s11419-013-0213-6). *Forensic Toxicology*. **32** (1): 82–88. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s11419-013-0213-6](//doi.org/10.1007%2Fs11419-013-0213-6). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1860-8973](//www.worldcat.org/issn/1860-8973).
-7. [↑](#cite_ref-7) Mechoulam, R., ed. (1986). *Cannabinoids as therapeutic agents*. CRC Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780849357725](http://en.wikipedia.org/wiki/Special:BookSources/9780849357725 "wikipedia:Special:BookSources/9780849357725").
+2. ↑ Jang, M., Shin, I., Kim, J., Yang, W. (1 July 2015). ["Simultaneous quantification of 37 synthetic cannabinoid metabolites in human urine by liquid chromatography-tandem mass spectrometry"](https://doi.org/10.1007/s11419-015-0265-x). *Forensic Toxicology*. **33** (2): 221–234. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s11419-015-0265-x](//doi.org/10.1007%2Fs11419-015-0265-x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1860-8973](//www.worldcat.org/issn/1860-8973).
+3. ↑ Karinen, R., Tuv, S. S., Øiestad, E. L., Vindenes, V. (January 2015). "Concentrations of APINACA, 5F-APINACA, UR-144 and its degradant product in blood samples from six impaired drivers compared to previous reported concentrations of other synthetic cannabinoids". *Forensic Science International*. **246**: 98–103. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2014.11.012](//doi.org/10.1016%2Fj.forsciint.2014.11.012). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1872-6283](//www.worldcat.org/issn/1872-6283).
+4. ↑ Holm, N. B., Pedersen, A. J., Dalsgaard, P. W., Linnet, K. (March 2015). "Metabolites of 5F-AKB-48, a synthetic cannabinoid receptor agonist, identified in human urine and liver microsomal preparations using liquid chromatography high-resolution mass spectrometry". *Drug Testing and Analysis*. **7** (3): 199–206. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1663](//doi.org/10.1002%2Fdta.1663). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7611](//www.worldcat.org/issn/1942-7611).
+5. ↑ Wohlfarth, A., Castaneto, M. S., Zhu, M., Pang, S., Scheidweiler, K. B., Kronstrand, R., Huestis, M. A. (May 2015). "Pentylindole/Pentylindazole Synthetic Cannabinoids and Their 5-Fluoro Analogs Produce Different Primary Metabolites: Metabolite Profiling for AB-PINACA and 5F-AB-PINACA". *The AAPS journal*. **17** (3): 660–677. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1208/s12248-015-9721-0](//doi.org/10.1208%2Fs12248-015-9721-0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1550-7416](//www.worldcat.org/issn/1550-7416).
+6. ↑ Chung, H., Choi, H., Heo, S., Kim, E., Lee, J. (1 January 2014). ["Synthetic cannabinoids abused in South Korea: drug identifications by the National Forensic Service from 2009 to June 2013"](https://doi.org/10.1007/s11419-013-0213-6). *Forensic Toxicology*. **32** (1): 82–88. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s11419-013-0213-6](//doi.org/10.1007%2Fs11419-013-0213-6). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1860-8973](//www.worldcat.org/issn/1860-8973).
+7. ↑ Mechoulam, R., ed. (1986). *Cannabinoids as therapeutic agents*. CRC Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780849357725](http://en.wikipedia.org/wiki/Special:BookSources/9780849357725).
 8. ↑   [*How Marijuana Works*](https://science.howstuffworks.com/marijuana.htm), 2001
-9. [↑](#cite_ref-9) Martín-Sánchez, E., Furukawa, T. A., Taylor, J., Martin, J. L. R. (November 2009). ["Systematic Review and Meta-analysis of Cannabis Treatment for Chronic Pain"](https://academic.oup.com/painmedicine/article-lookup/doi/10.1111/j.1526-4637.2009.00703.x). *Pain Medicine*. **10** (8): 1353–1368. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1526-4637.2009.00703.x](//doi.org/10.1111%2Fj.1526-4637.2009.00703.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1526-2375](//www.worldcat.org/issn/1526-2375).
-10. [↑](#cite_ref-10) CLynch, M. E., Campbell, F. (November 2011). ["Cannabinoids for treatment of chronic non-cancer pain; a systematic review of randomized trials: Cannabinoids for pain"](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2011.03970.x). *British Journal of Clinical Pharmacology*. **72** (5): 735–744. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1365-2125.2011.03970.x](//doi.org/10.1111%2Fj.1365-2125.2011.03970.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0306-5251](//www.worldcat.org/issn/0306-5251).
-11. ↑   Arseneault, L., Cannon, M., Witton, J., Murray, R. M. (February 2004). ["Causal association between cannabis and psychosis: examination of the evidence"](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4). *The British Journal of Psychiatry*. **184** (2): 110–117. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1192/bjp.184.2.110](//doi.org/10.1192%2Fbjp.184.2.110). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1250](//www.worldcat.org/issn/0007-1250).
-12. ↑   Every-Palmer, S. (September 2011). ["Synthetic cannabinoid JWH-018 and psychosis: An explorative study"](https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639). *Drug and Alcohol Dependence*. **117** (2–3): 152–157. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.drugalcdep.2011.01.012](//doi.org/10.1016%2Fj.drugalcdep.2011.01.012). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0376-8716](//www.worldcat.org/issn/0376-8716).
-13. ↑   Schneir, A. B., Cullen, J., Ly, B. T. (1 March 2011). [""Spice" Girls: Synthetic Cannabinoid Intoxication"](https://www.sciencedirect.com/science/article/pii/S0736467910008802). *The Journal of Emergency Medicine*. **40** (3): 296–299. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.jemermed.2010.10.014](//doi.org/10.1016%2Fj.jemermed.2010.10.014). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0736-4679](//www.worldcat.org/issn/0736-4679).
-14. ↑   Vearrier, D., Osterhoudt, K. C. (June 2010). ["A Teenager With Agitation: Higher Than She Should Have Climbed"](http://journals.lww.com/00006565-201006000-00016). *Pediatric Emergency Care*. **26** (6): 462–465. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1097/PEC.0b013e3181e4f416](//doi.org/10.1097%2FPEC.0b013e3181e4f416). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0749-5161](//www.worldcat.org/issn/0749-5161).
-15. [↑](#cite_ref-15) [http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7)
-16. [↑](#cite_ref-16) 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | [http://www.sfda.gov.cn/WS01/CL0056/130753.html](http://www.sfda.gov.cn/WS01/CL0056/130753.html)
-17. [↑](#cite_ref-17) Látky, o které byl doplněn seznam č. 4 psychotropních látek (příloha č. 4 k nařízení vlády č. 463/2013 Sb.)
+9. ↑ Martín-Sánchez, E., Furukawa, T. A., Taylor, J., Martin, J. L. R. (November 2009). ["Systematic Review and Meta-analysis of Cannabis Treatment for Chronic Pain"](https://academic.oup.com/painmedicine/article-lookup/doi/10.1111/j.1526-4637.2009.00703.x). *Pain Medicine*. **10** (8): 1353–1368. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1526-4637.2009.00703.x](//doi.org/10.1111%2Fj.1526-4637.2009.00703.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1526-2375](//www.worldcat.org/issn/1526-2375).
+10. ↑ CLynch, M. E., Campbell, F. (November 2011). ["Cannabinoids for treatment of chronic non-cancer pain; a systematic review of randomized trials: Cannabinoids for pain"](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2011.03970.x). *British Journal of Clinical Pharmacology*. **72** (5): 735–744. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1365-2125.2011.03970.x](//doi.org/10.1111%2Fj.1365-2125.2011.03970.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0306-5251](//www.worldcat.org/issn/0306-5251).
+11. ↑   Arseneault, L., Cannon, M., Witton, J., Murray, R. M. (February 2004). ["Causal association between cannabis and psychosis: examination of the evidence"](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4). *The British Journal of Psychiatry*. **184** (2): 110–117. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1192/bjp.184.2.110](//doi.org/10.1192%2Fbjp.184.2.110). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1250](//www.worldcat.org/issn/0007-1250).
+12. ↑   Every-Palmer, S. (September 2011). ["Synthetic cannabinoid JWH-018 and psychosis: An explorative study"](https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639). *Drug and Alcohol Dependence*. **117** (2–3): 152–157. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.drugalcdep.2011.01.012](//doi.org/10.1016%2Fj.drugalcdep.2011.01.012). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0376-8716](//www.worldcat.org/issn/0376-8716).
+13. ↑   Schneir, A. B., Cullen, J., Ly, B. T. (1 March 2011). [""Spice" Girls: Synthetic Cannabinoid Intoxication"](https://www.sciencedirect.com/science/article/pii/S0736467910008802). *The Journal of Emergency Medicine*. **40** (3): 296–299. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.jemermed.2010.10.014](//doi.org/10.1016%2Fj.jemermed.2010.10.014). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0736-4679](//www.worldcat.org/issn/0736-4679).
+14. ↑   Vearrier, D., Osterhoudt, K. C. (June 2010). ["A Teenager With Agitation: Higher Than She Should Have Climbed"](http://journals.lww.com/00006565-201006000-00016). *Pediatric Emergency Care*. **26** (6): 462–465. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/PEC.0b013e3181e4f416](//doi.org/10.1097%2FPEC.0b013e3181e4f416). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0749-5161](//www.worldcat.org/issn/0749-5161).
+15. ↑ [http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7)
+16. ↑ 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | [http://www.sfda.gov.cn/WS01/CL0056/130753.html](http://www.sfda.gov.cn/WS01/CL0056/130753.html)
+17. ↑ Látky, o které byl doplněn seznam č. 4 psychotropních látek (příloha č. 4 k nařízení vlády č. 463/2013 Sb.)
     | [http://www.mzcr.cz/Admin/_upload/files/3/Nov%C3%A9%20PL.pdf](http://www.mzcr.cz/Admin/_upload/files/3/Nov%C3%A9%20PL.pdf)
-18. [↑](#cite_ref-18) ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-19. [↑](#cite_ref-19) ["Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl113s2274.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2013 Teil I Nr. 37* (in German). Bundesanzeiger Verlag. July 16, 2013. pp. 2274–2275. Retrieved December 18, 2019.
-20. [↑](#cite_ref-20) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-21. [↑](#cite_ref-21) [*Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem*](https://likumi.lv/doc.php?id=121086)
-22. [↑](#cite_ref-22) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-23. [↑](#cite_ref-23) [*The Misuse of Drugs Act 1971 (Amendment) Order 2016*](https://www.legislation.gov.uk/uksi/2016/1109/made)
-24. [↑](#cite_ref-24) [*2016 - Notice of Intent: Temporary Placement of Six Synthetic Cannabinoids (5F-ADB, 5F-AMB, 5F-APINACA, ADB-FUBINACA, MDMB-CHMICA and MDMB-FUBINACA) Into Schedule I*](https://www.deadiversion.usdoj.gov/fed_regs/rules/2016/fr1221.htm)
-25. [↑](#cite_ref-25) [Tabella 1](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf), (PDF) (in Italian), Ministero della Salute [Ministry of Health], p. 4. Retrieved November 24, 2020.
+18. ↑ ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+19. ↑ ["Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl113s2274.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2013 Teil I Nr. 37* (in German). Bundesanzeiger Verlag. July 16, 2013. pp. 2274–2275. Retrieved December 18, 2019.
+20. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+21. ↑ [*Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem*](https://likumi.lv/doc.php?id=121086)
+22. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+23. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2016*](https://www.legislation.gov.uk/uksi/2016/1109/made)
+24. ↑ [*2016 - Notice of Intent: Temporary Placement of Six Synthetic Cannabinoids (5F-ADB, 5F-AMB, 5F-APINACA, ADB-FUBINACA, MDMB-CHMICA and MDMB-FUBINACA) Into Schedule I*](https://www.deadiversion.usdoj.gov/fed_regs/rules/2016/fr1221.htm)
+25. ↑ [Tabella 1](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf), (PDF) (in Italian), Ministero della Salute [Ministry of Health], p. 4. Retrieved November 24, 2020.

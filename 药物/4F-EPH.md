@@ -14,19 +14,19 @@
 | 精神活性分类                                                                                       | *[兴奋剂](/文档/药物分类/兴奋剂.md)*         |
 | 化学分类                                                                                         | *[苄基哌啶类物质](/文档/药物分类/苄基哌啶类物质.md)* |
 | **[给药途径](/文档/给药途径.md)**                                                                      |                                  |
-| **警告：**由于个体体重、耐受性、代谢和个人敏感性存在差异，请务必从较低剂量开始哦。参见[负责任用药章节](/文档/负责任的用药索引页.md)。                    | ⇣ [口服](/文档/给药途径.md#口服)           |
+| **警告：**由于个体体重、耐受性、代谢和个人敏感性存在差异，请务必从较低剂量开始哦。参见[负责任用药章节](/文档/负责任的用药索引页.md)。                    | ⇣ [口服](/文档/给药途径.md)           |
 | **[给药剂量](/文档/给药剂量.md)**                                                                      |                                  |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                       | < 5 mg                           |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                       | 5 - 10 mg                        |
-| [中等](/文档/药物剂量分类.md#中等)                                                                       | 10 - 15 mg                       |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                       | 15 - 30 mg                       |
-| [严重](/文档/药物剂量分类.md#严重)                                                                       | 30 mg +                          |
+| [阈值](/文档/药物剂量分类.md)                                                                       | < 5 mg                           |
+| [轻微](/文档/药物剂量分类.md)                                                                       | 5 - 10 mg                        |
+| [中等](/文档/药物剂量分类.md)                                                                       | 10 - 15 mg                       |
+| [强烈](/文档/药物剂量分类.md)                                                                       | 15 - 30 mg                       |
+| [严重](/文档/药物剂量分类.md)                                                                       | 30 mg +                          |
 | **[药效时长](/文档/药效时长.md)**                                                                      |                                  |
-| [总时长](/文档/药效时长.md#总时长)                                                                       | 5 - 6小时                          |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                     | 10 - 25分钟                        |
-| [药效残余](/文档/药效时长.md#药效残余)                                                                     | 4 - 12小时                         |
+| [总时长](/文档/药效时长.md)                                                                       | 5 - 6小时                          |
+| [药效发作](/文档/药效时长.md)                                                                     | 10 - 25分钟                        |
+| [药效残余](/文档/药效时长.md)                                                                     | 4 - 12小时                         |
 | **[免责声明](/关于本站/免责声明.md)：**本网站的[给药剂量](/文档/给药剂量.md)信息来自用户和资料，仅用于教育目的哦。它不是用药建议，并且应通过其他来源核实其准确性。 |                                  |
-| **[药物联用](#危险药物联用)**                                                                          |                                  |
+| **药物联用**                                                                          |                                  |
 | 酒精                                                                                           |                                  |
 | MXE                                                                                          |                                  |
 | 解离剂                                                                                          |                                  |
@@ -102,7 +102,7 @@ _**免责声明：**下列效应引用自[***主观效应索引***](/药效/主�
 
 ### **药效残余** ![Aftereffects (3).svg](/文件/Aftereffects.png)
 
- 在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)期间出现的效应，与[药效达峰](/文档/药效时长.md#药效达峰)期间的效应相比，通常会感觉更负面、更不舒服。这通常被称为“药效下降期”，由[神经递质](/文档/神经递质.md)耗竭所致。其效应通常包括：
+ 在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)期间出现的效应，与[药效达峰](/文档/药效时长.md)期间的效应相比，通常会感觉更负面、更不舒服。这通常被称为“药效下降期”，由[神经递质](/文档/神经递质.md)耗竭所致。其效应通常包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[认知疲劳](/药效/认知疲劳.md)**
@@ -117,9 +117,9 @@ _**免责声明：**下列效应引用自[***主观效应索引***](/药效/主�
 | ![Ambulance2.png](/文件/Ambulance2.png) | **本毒性与危害潜力章节是一个[小作品](/文档/小作品.md)。**因此，它可能包含不完整、甚至**危险地错误**的信息！你可以帮忙扩充或更正它哦。 |
 | ------------------------------------- | --------------------------------------------------------------------------- |
 
-*注：使用这种物质时，请务必进行独立研究，并采用**[伤害减少措施](/文档/负责任的用药索引页.md#通用)**。*
+*注：使用这种物质时，请务必进行独立研究，并采用**[伤害减少措施](/文档/负责任的用药索引页.md)**。*
 
-更多信息：[研究用化学品§毒性与危害潜力](/文档/研究用化学品.md#毒性与危害潜力)
+更多信息：[研究用化学品§毒性与危害潜力](/文档/研究用化学品.md)
 
 娱乐性使用4F-EPH的毒性和长期健康影响似乎尚未在任何科学背景下得到研究，确切的毒性剂量也未知。这是因为4F-EPH是一种[研究用化学品](/文档/研究用化学品.md)，人类使用历史非常短。来自尝试过4F-EPH者的轶事证据提示，在低到中等剂量下、非常少量且谨慎地单独尝试这种药物，并没有被归因于该药物本身的负面健康影响；不过嘛，没有什么可以被完全保证。
 
@@ -172,15 +172,15 @@ _**免责声明：**下列效应引用自[***主观效应索引***](/药效/主�
 
 ## 参考文献
 
-[^1]: Davies, H. M. L., Hopper, D. W., Hansen, T., Liu, Q., Childers, S. R. (5 April 2004). "Synthesis of methylphenidate analogues and their binding affinities at dopamine and serotonin transport sites". *Bioorganic & Medicinal Chemistry Letters*. **14** (7): 1799–1802. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.bmcl.2003.12.097](//doi.org/10.1016%2Fj.bmcl.2003.12.097). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0960-894X](//www.worldcat.org/issn/0960-894X).
+[^1]: Davies, H. M. L., Hopper, D. W., Hansen, T., Liu, Q., Childers, S. R. (5 April 2004). "Synthesis of methylphenidate analogues and their binding affinities at dopamine and serotonin transport sites". *Bioorganic & Medicinal Chemistry Letters*. **14** (7): 1799–1802. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.bmcl.2003.12.097](//doi.org/10.1016%2Fj.bmcl.2003.12.097). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0960-894X](//www.worldcat.org/issn/0960-894X).
 
-[^2]: Misra, M., Shi, Q., Ye, X., Gruszecka-Kowalik, E., Bu, W., Liu, Z., Schweri, M. M., Deutsch, H. M., Venanzi, C. A. (15 October 2010). "Quantitative structure-activity relationship studies of threo-methylphenidate analogs". *Bioorganic & Medicinal Chemistry*. **18** (20): 7221–7238. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.bmc.2010.08.034](//doi.org/10.1016%2Fj.bmc.2010.08.034). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1464-3391](//www.worldcat.org/issn/1464-3391).
+[^2]: Misra, M., Shi, Q., Ye, X., Gruszecka-Kowalik, E., Bu, W., Liu, Z., Schweri, M. M., Deutsch, H. M., Venanzi, C. A. (15 October 2010). "Quantitative structure-activity relationship studies of threo-methylphenidate analogs". *Bioorganic & Medicinal Chemistry*. **18** (20): 7221–7238. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.bmc.2010.08.034](//doi.org/10.1016%2Fj.bmc.2010.08.034). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1464-3391](//www.worldcat.org/issn/1464-3391).
 
-[^3]: Singh, S. (8 March 2000). "Chemistry, design, and structure-activity relationship of cocaine antagonists". *Chemical Reviews*. **100** (3): 925–1024. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/cr9700538](//doi.org/10.1021%2Fcr9700538). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1520-6890](//www.worldcat.org/issn/1520-6890).
+[^3]: Singh, S. (8 March 2000). "Chemistry, design, and structure-activity relationship of cocaine antagonists". *Chemical Reviews*. **100** (3): 925–1024. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/cr9700538](//doi.org/10.1021%2Fcr9700538). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1520-6890](//www.worldcat.org/issn/1520-6890).
 
-[^4]: Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
+[^4]: Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
 
-[^5]: Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+[^5]: Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
 
 [^6]: ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 23, 2019.
 

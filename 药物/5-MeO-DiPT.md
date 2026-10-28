@@ -18,19 +18,19 @@ description:
 | 精神活性分类 | *[迷幻剂](/文档/药物分类/迷幻剂.md)* |
 | 化学分类 | *[色胺类物质](/文档/药物分类/色胺类物质.md)* |
 
-| [给药途径](/文档/给药途径.md) | [口服](/文档/给药途径.md#口服) |
+| [给药途径](/文档/给药途径.md) | [口服](/文档/给药途径.md) |
 | --- | --- |
 | **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请始终从低剂量开始。[参见负责任的用药部分](/文档/负责任的用药索引页.md)。 | |
 | **[给药剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 3 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 3 - 10 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 10 - 15 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 15 - 20 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 20 mg + |
+| [阈值](/文档/药物剂量分类.md) | 3 mg |
+| [轻微](/文档/药物剂量分类.md) | 3 - 10 mg |
+| [中等](/文档/药物剂量分类.md) | 10 - 15 mg |
+| [强烈](/文档/药物剂量分类.md) | 15 - 20 mg |
+| [严重](/文档/药物剂量分类.md) | 20 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 4 - 8 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 20 - 40 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 2 - 6 小时 |
+| [总时长](/文档/药效时长.md) | 4 - 8 小时 |
+| [药效发作](/文档/药效时长.md) | 20 - 40 分钟 |
+| [药效残余](/文档/药效时长.md) | 2 - 6 小时 |
 
 <br>
 
@@ -38,7 +38,7 @@ description:
 
 **5-甲氧基-N,N-二异丙基色胺**（也称为 **5-MeO-DiPT**、**Foxy** 和 **Foxy Methoxy**）是一种[色胺类物质](/文档/药物分类/色胺类物质.md)类别的新型[迷幻剂](/文档/药物分类/迷幻剂.md)物质，在[给药](/文档/给药途径.md)时会产生[迷幻](/文档/药物分类/迷幻剂.md)效应。其结构与 [DiPT](./DiPT.md) 和 [5-MeO-MiPT](./5-MeO-MiPT.md) 相关。
 
-5-MeO-DiPT 的首次人体试验由亚历山大·舒尔金于 1975 年进行[\[1\]](#cite_note-1)，他于 1981 年合著并发表了一篇详细介绍其合成和人体精神药理学的论文[\[2\]](#cite_note-2)。舒尔金 1997 年出版的书籍《*TiHKAL*》（“我所知和喜爱的色胺”）中包含了其合成摘要和人体使用报告[\[3\]](#cite_note-Shulgin1997-3)。
+5-MeO-DiPT 的首次人体试验由亚历山大·舒尔金于 1975 年进行\[1\]，他于 1981 年合著并发表了一篇详细介绍其合成和人体精神药理学的论文\[2\]。舒尔金 1997 年出版的书籍《*TiHKAL*》（“我所知和喜爱的色胺”）中包含了其合成摘要和人体使用报告\[3\]。
 
 轶事报告将该化合物的效应描述为高度[兴奋](/药效/兴奋.md)和轻度[共情剂](/文档/药物分类/共情剂.md)，缺乏典型的迷幻视觉扭曲。许多用户报告有强烈的身体和触觉效应，有助于[增强性欲](/药效/性欲增强.md)和性快感。许多用户指出，较高剂量会伴随令人不适的身体负荷。一些用户还报告了声音扭曲，这一点在相关化合物 [DiPT](./DiPT.md) 中也有记录。
 
@@ -46,27 +46,27 @@ description:
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 躯体效应](#躯体效应)
-    * [3.2 视觉效应](#视觉效应)
-        * [3.2.1 增强](#增强)
-        * [3.2.2 扭曲](#扭曲)
-        * [3.2.3 几何](#几何)
-        * [3.2.4 幻觉状态](#幻觉状态)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 听觉效应](#听觉效应)
-    * [3.5 体验报告](#体验报告)
-* [4 毒性和伤害潜力](#毒性和伤害潜力)
-    * [4.1 过量](#过量)
-    * [4.2 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    * [4.3 危险的相互作用](#危险的相互作用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-    * [7.1 讨论](#讨论)
-* [8 参考资料](#参考资料)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 躯体效应
+    * 3.2 视觉效应
+        * 3.2.1 增强
+        * 3.2.2 扭曲
+        * 3.2.3 几何
+        * 3.2.4 幻觉状态
+    * 3.3 认知效应
+    * 3.4 听觉效应
+    * 3.5 体验报告
+* 4 毒性和伤害潜力
+    * 4.1 过量
+    * 4.2 耐受性和成瘾潜力
+    * 4.3 危险的相互作用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+    * 7.1 讨论
+* 8 参考资料
 
 ## 化学
 
@@ -78,9 +78,9 @@ description:
 
 更多信息：[血清素能迷幻剂](/文档/药物分类/迷幻剂.md)
 
-5-MeO-DiPT 产生的所谓致幻和致神效应的机制被认为主要源于 5-HT2A 受体激动作用，尽管其他作用机制如单胺氧化酶抑制 (MAOI) 也可能参与其中。[\[4\]](#cite_note-pmid17223101-4) 5-MeO-DiPT 最强的受体结合亲和力是在 5-HT1A 受体上。[\[5\]](#cite_note-5) 然而，这些相互作用的作用以及它们如何导致[迷幻](/文档/药物分类/迷幻剂.md)体验仍然难以捉摸。
+5-MeO-DiPT 产生的所谓致幻和致神效应的机制被认为主要源于 5-HT2A 受体激动作用，尽管其他作用机制如单胺氧化酶抑制 (MAOI) 也可能参与其中。\[4\] 5-MeO-DiPT 最强的受体结合亲和力是在 5-HT1A 受体上。\[5\] 然而，这些相互作用的作用以及它们如何导致[迷幻](/文档/药物分类/迷幻剂.md)体验仍然难以捉摸。
 
-5-MeO-DiPT 在大鼠中具有神经毒性。[\[6\]](#cite_note-Noworyta-Sokolowska2016-6)
+5-MeO-DiPT 在大鼠中具有神经毒性。\[6\]
 
 ## 主观效应
 
@@ -165,7 +165,7 @@ _**免责声明：** 下下列出的效应引用了[***主观效应索引***](/�
 
 更多信息：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md)，以及 [负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
-娱乐性使用 5-MeO-DiPT 的长期健康影响似乎尚未在任何科学背景下进行研究，确切的毒性剂量尚不清楚。这是因为 5-MeO-DiPT 是一种人类使用历史非常短的[研究用化学品](/文档/研究用化学品.md)。其神经毒性效应已在大鼠中进行了研究。[\[6\]](#cite_note-Noworyta-Sokolowska2016-6)
+娱乐性使用 5-MeO-DiPT 的长期健康影响似乎尚未在任何科学背景下进行研究，确切的毒性剂量尚不清楚。这是因为 5-MeO-DiPT 是一种人类使用历史非常短的[研究用化学品](/文档/研究用化学品.md)。其神经毒性效应已在大鼠中进行了研究。\[6\]
 
 轶事报告表明，单独以低至中等剂量尝试或非常少量地使用它似乎没有负面健康影响（但没有任何事情是可以完全保证的）。在消费前，应始终进行[独立研究](https://www.google.com/)以确保两种或多种物质的组合是安全的。
 
@@ -173,7 +173,7 @@ _**免责声明：** 下下列出的效应引用了[***主观效应索引***](/�
 
 ### 过量
 
-过量服用在一些年轻人中引起了[恶心](/药效/恶心.md)、呕吐、激越、[血压降低](/药效/血压降低.md)、[瞳孔扩大](/药效/瞳孔扩大.md)、[心率增快](/药效/心率增快.md)和幻觉。一名年轻男子发生了横纹肌溶解和肾衰竭，另一名男子在明显的直肠给药过量后 3-4 小时死亡。[\[7\]](#cite_note-7) 一名 24 岁男子也因将该化合物注入结肠而死亡。
+过量服用在一些年轻人中引起了[恶心](/药效/恶心.md)、呕吐、激越、[血压降低](/药效/血压降低.md)、[瞳孔扩大](/药效/瞳孔扩大.md)、[心率增快](/药效/心率增快.md)和幻觉。一名年轻男子发生了横纹肌溶解和肾衰竭，另一名男子在明显的直肠给药过量后 3-4 小时死亡。\[7\] 一名 24 岁男子也因将该化合物注入结肠而死亡。
 
 ### 耐受性和成瘾潜力
 
@@ -202,23 +202,23 @@ _**免责声明：** 下下列出的效应引用了[***主观效应索引***](/�
 *   **[单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)** - ⛔ 增加[血清素综合征](/文档/血清素综合征.md)的风险。
 *   **[PCP](./PCP.md)** - 关于这种组合的信息很少。可能增加精神病和过度刺激的风险。
 
-5-MeO-DiPT 是一种单胺再摄取抑制剂 (MRI)。[\[8\]](#cite_note-8)[\[9\]](#cite_note-9) 5-MeO-DiPT 和 [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md) 是一种潜在的危险组合。MAOI 很可能会不可预测地增加 5-MeO-DiPT 的效应。强烈不建议在服用处方 MAOI 时服用此化学品。
+5-MeO-DiPT 是一种单胺再摄取抑制剂 (MRI)。\[8\]\[9\] 5-MeO-DiPT 和 [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md) 是一种潜在的危险组合。MAOI 很可能会不可预测地增加 5-MeO-DiPT 的效应。强烈不建议在服用处方 MAOI 时服用此化学品。
 
 ## 法律地位
 
-*   **巴西**：持有、生产和销售是非法的，因为它被列在 Portaria SVS/MS nº 344 中。[\[10\]](#cite_note-10)
-*   **中国**：5-MeO-DiPT 在中国是非法的。[\[11\]](#cite_note-11)
+*   **巴西**：持有、生产和销售是非法的，因为它被列在 Portaria SVS/MS nº 344 中。\[10\]
+*   **中国**：5-MeO-DiPT 在中国是非法的。\[11\]
 *   **丹麦**：5-MeO-DiPT 在丹麦是非法的。\[*[来源请求](/文档/科学信息索引页.md)*\]
-*   **德国**：自 2000 年 10 月 10 日起，5-MeO-DiPT 受 Anlage I BtMG（*麻醉品法，附表 I*）管制[\[12\]](#cite_note-12)[\[13\]](#cite_note-13)。未经许可，制造、拥有、进口、出口、购买、出售、采购或分发它是非法的。[\[14\]](#cite_note-14)
+*   **德国**：自 2000 年 10 月 10 日起，5-MeO-DiPT 受 Anlage I BtMG（*麻醉品法，附表 I*）管制\[12\]\[13\]。未经许可，制造、拥有、进口、出口、购买、出售、采购或分发它是非法的。\[14\]
 *   **希腊**：5-MeO-DiPT 在希腊是非法的。\[*[来源请求](/文档/科学信息索引页.md)*\]
 *   **日本**：5-MeO-DiPT 在日本是非法的。\[*[来源请求](/文档/科学信息索引页.md)*\]
 *   **拉脱维亚**：5-MeO-DiPT 在拉脱维亚是非法的。\[*[来源请求](/文档/科学信息索引页.md)*\]
-*   **新西兰**：5-MeO-DiPT 可被视为 DMT 的类似物，这使其在新西兰成为 C 类受控药物。[\[15\]](#cite_note-15)
+*   **新西兰**：5-MeO-DiPT 可被视为 DMT 的类似物，这使其在新西兰成为 C 类受控药物。\[15\]
 *   **新加坡**：5-MeO-DiPT 在新加坡是非法的。\[*[来源请求](/文档/科学信息索引页.md)*\]
-*   **瑞典**：5-MeO-DiPT 在瑞典是非法的。[\[16\]](#cite_note-16)
-*   **瑞士**：5-MeO-DiPT 是 Verzeichnis E 中明确列出的受控物质。[\[17\]](#cite_note-17)
-*   **英国**：5-MeO-DiPT 在英国是 A 类药物，因为它是药物 5-HO-DiPT 的醚，由于色胺包罗条款，后者是 A 类药物。[\[18\]](#cite_note-18)
-*   **美国**：5-MeO-DiPT 是附表 1 受控物质。2003 年 4 月 4 日，美国缉毒局（DEA）根据“紧急列管”程序将 5-MeO-DiPT 和 αMT 列入受控物质法案附表 I。这些药物于 2004 年 9 月 29 日正式列入附表 I。[\[19\]](#cite_note-19)
+*   **瑞典**：5-MeO-DiPT 在瑞典是非法的。\[16\]
+*   **瑞士**：5-MeO-DiPT 是 Verzeichnis E 中明确列出的受控物质。\[17\]
+*   **英国**：5-MeO-DiPT 在英国是 A 类药物，因为它是药物 5-HO-DiPT 的醚，由于色胺包罗条款，后者是 A 类药物。\[18\]
+*   **美国**：5-MeO-DiPT 是附表 1 受控物质。2003 年 4 月 4 日，美国缉毒局（DEA）根据“紧急列管”程序将 5-MeO-DiPT 和 αMT 列入受控物质法案附表 I。这些药物于 2004 年 9 月 29 日正式列入附表 I。\[19\]
 
 ## 另见
 
@@ -241,22 +241,22 @@ _**免责声明：** 下下列出的效应引用了[***主观效应索引***](/�
 
 ## 参考资料
 
-1.  [↑](#cite_ref-1) [Alexander Shulgin] (1976). [*Pharmacology Notes I (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf) (PDF). Lafayette, CA: Erowid. p. 176.
-2.  [↑](#cite_ref-2) [Shulgin, A. T.]; Carter, M. F. (1980). "N, N-Diisopropyltryptamine (DIPT) and 5-methoxy-N,N-diisopropyltryptamine (5-MeO-DIPT). Two orally active tryptamine analogs with CNS activity". *Communications in psychopharmacology*. **4** (5): 363–369. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0145-5699](//www.worldcat.org/issn/0145-5699). [OCLC](http://en.wikipedia.org/wiki/OCLC) [3012956](//www.worldcat.org/oclc/3012956). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [6949674](//www.ncbi.nlm.nih.gov/pubmed/6949674).
-3.  [↑](#cite_ref-Shulgin1997_3-0) [Shulgin, Alexander]; Shulgin, Ann (1997). *[TiHKAL: The Continuation]* United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
-4.  [↑](#cite_ref-pmid17223101_4-0) Nagai, F.; Nonaka, R.; Satoh, K.; Kamimura, H. (2007). "The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain". *European Journal of Pharmacology*. **559** (2–3): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-0712](//www.worldcat.org/issn/1879-0712). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01568459](//www.worldcat.org/oclc/01568459). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17223101](//www.ncbi.nlm.nih.gov/pubmed/17223101).
-5.  [↑](#cite_ref-5) Ray, T. S. (2 February 2010). Manzoni, O. J., ed. ["Psychedelics and the Human Receptorome"](https://dx.plos.org/10.1371/journal.pone.0009019). *PLoS ONE*. **5** (2): e9019. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1371/journal.pone.0009019](//doi.org/10.1371%2Fjournal.pone.0009019). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1932-6203](//www.worldcat.org/issn/1932-6203).
-6.  ↑ [6.0](#cite_ref-Noworyta-Sokolowska2016_6-0) [6.1](#cite_ref-Noworyta-Sokolowska2016_6-1) Noworyta-Sokołowska, K.; Kamińska, K.; Kreiner, G.; Rogóż, Z.; Gołembiowska, K. (2016). ["Neurotoxic Effects of 5-MeO-DIPT: A Psychoactive Tryptamine Derivative in Rats"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5047954). *Neurotoxicity Research*. **30** (4): 606–619. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s12640-016-9654-0](//doi.org/10.1007%2Fs12640-016-9654-0). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1476-3524](//www.worldcat.org/issn/1476-3524). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1029-8428](//www.worldcat.org/issn/1029-8428). [OCLC](http://en.wikipedia.org/wiki/OCLC) [50166444](//www.worldcat.org/oclc/50166444). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [5047954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5047954). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [27461536](//www.ncbi.nlm.nih.gov/pubmed/27461536).
-7.  [↑](#cite_ref-7) Randall C. Baselt (2008). *Disposition of Toxic Drugs and Chemicals in Man* (8th ed.). Foster City, CA: Biomedical Publications. pp. 975–976. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-9626523-7-0](http://en.wikipedia.org/wiki/Special:BookSources/978-0-9626523-7-0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0009-9147](//www.worldcat.org/issn/0009-9147).
-8.  [↑](#cite_ref-8) Tayebati, S. K.; Tomassoni, D.; Nwankwo, I. E.; Di Stefano, A.; Sozio, P.; Cerasa, L. S.; Amenta, F. (2013). "Modulation of monoaminergic transporters by choline-containing phospholipids in rat brain". *Drug Targets - CNS & Neurological Disorders*. **12** (1): 94–103. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/1871527311312010015](//doi.org/10.2174%2F1871527311312010015). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1568-007X](//www.worldcat.org/issn/1568-007X). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [23244432](//www.ncbi.nlm.nih.gov/pubmed/23244432).
-9.  [↑](#cite_ref-9) Trabucchi, M.; Govoni, S.; Battaini, F. (1986). "Changes in the interaction between CNS cholinergic and dopaminergic neurons induced by L-alpha-glycerylphosphorylcholine, a cholinomimetic drug". *Il Farmaco, Edizione Scientifica*. **41** (4): 325–334. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0430-0920](//www.worldcat.org/issn/0430-0920). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1064491979](//www.worldcat.org/oclc/1064491979). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [3709792](//www.ncbi.nlm.nih.gov/pubmed/3709792).
-10. [↑](#cite_ref-10) ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (Anvisa) [National Sanitary Surveillance Agency]. December 5, 2016. Retrieved January 8, 2020.
-11. [↑](#cite_ref-11) ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170906191704/http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). 国家食品药品监督管理总局 [China Food and Drug Administration (CFDA)]. September 27, 2015. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on September 6, 2017. Retrieved August 19, 2020.
-12. [↑](#cite_ref-12) ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-13. [↑](#cite_ref-13) ["Vierzehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D__1576702069328). *Bundesgesetzblatt Jahrgang 2000 Teil I Nr. 44* (in German). Bundesanzeiger Verlag (published September 30, 2000). September 27, 2000. pp. 1414–1415. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). Retrieved December 18, 2019.
-14. [↑](#cite_ref-14) ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-15. [↑](#cite_ref-15) ["Schedule 1: Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *Misuse of Drugs Act 1975*. Parliamentary Counsel Office (PCO). Retrieved September 19, 2020.
-16. [↑](#cite_ref-16) ["Svensk författningssamling Förordning om ändring i förordningen (1999:58) om förbud mot vissa hälsofarliga varor"](http://www.notisum.se/rnp/sls/sfs/20040696.pdf) (PDF) (in Swedish) (published September 7, 2004). August 19, 2004. SFS 2004:696.
-17. [↑](#cite_ref-17) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-18. [↑](#cite_ref-18) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
-19. [↑](#cite_ref-19) [*Schedules of Controlled Substances: Placement of Alpha- Methyltryptamine and 5-Methoxy-N,N-Diisopropyltryptamine Into Schedule I*](https://www.deadiversion.usdoj.gov/fed_regs/rules/2004/fr0929.htm)
+1.  ↑ [Alexander Shulgin] (1976). [*Pharmacology Notes I (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf) (PDF). Lafayette, CA: Erowid. p. 176.
+2.  ↑ [Shulgin, A. T.]; Carter, M. F. (1980). "N, N-Diisopropyltryptamine (DIPT) and 5-methoxy-N,N-diisopropyltryptamine (5-MeO-DIPT). Two orally active tryptamine analogs with CNS activity". *Communications in psychopharmacology*. **4** (5): 363–369. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0145-5699](//www.worldcat.org/issn/0145-5699). [OCLC](http://en.wikipedia.org/wiki/OCLC) [3012956](//www.worldcat.org/oclc/3012956). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [6949674](//www.ncbi.nlm.nih.gov/pubmed/6949674).
+3.  ↑ [Shulgin, Alexander]; Shulgin, Ann (1997). *[TiHKAL: The Continuation]* United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
+4.  ↑ Nagai, F.; Nonaka, R.; Satoh, K.; Kamimura, H. (2007). "The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain". *European Journal of Pharmacology*. **559** (2–3): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-0712](//www.worldcat.org/issn/1879-0712). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01568459](//www.worldcat.org/oclc/01568459). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17223101](//www.ncbi.nlm.nih.gov/pubmed/17223101).
+5.  ↑ Ray, T. S. (2 February 2010). Manzoni, O. J., ed. ["Psychedelics and the Human Receptorome"](https://dx.plos.org/10.1371/journal.pone.0009019). *PLoS ONE*. **5** (2): e9019. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1371/journal.pone.0009019](//doi.org/10.1371%2Fjournal.pone.0009019). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1932-6203](//www.worldcat.org/issn/1932-6203).
+6.  ↑ 6.0 6.1 Noworyta-Sokołowska, K.; Kamińska, K.; Kreiner, G.; Rogóż, Z.; Gołembiowska, K. (2016). ["Neurotoxic Effects of 5-MeO-DIPT: A Psychoactive Tryptamine Derivative in Rats"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5047954). *Neurotoxicity Research*. **30** (4): 606–619. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s12640-016-9654-0](//doi.org/10.1007%2Fs12640-016-9654-0). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1476-3524](//www.worldcat.org/issn/1476-3524). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1029-8428](//www.worldcat.org/issn/1029-8428). [OCLC](http://en.wikipedia.org/wiki/OCLC) [50166444](//www.worldcat.org/oclc/50166444). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [5047954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5047954). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [27461536](//www.ncbi.nlm.nih.gov/pubmed/27461536).
+7.  ↑ Randall C. Baselt (2008). *Disposition of Toxic Drugs and Chemicals in Man* (8th ed.). Foster City, CA: Biomedical Publications. pp. 975–976. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-9626523-7-0](http://en.wikipedia.org/wiki/Special:BookSources/978-0-9626523-7-0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0009-9147](//www.worldcat.org/issn/0009-9147).
+8.  ↑ Tayebati, S. K.; Tomassoni, D.; Nwankwo, I. E.; Di Stefano, A.; Sozio, P.; Cerasa, L. S.; Amenta, F. (2013). "Modulation of monoaminergic transporters by choline-containing phospholipids in rat brain". *Drug Targets - CNS & Neurological Disorders*. **12** (1): 94–103. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/1871527311312010015](//doi.org/10.2174%2F1871527311312010015). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1568-007X](//www.worldcat.org/issn/1568-007X). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [23244432](//www.ncbi.nlm.nih.gov/pubmed/23244432).
+9.  ↑ Trabucchi, M.; Govoni, S.; Battaini, F. (1986). "Changes in the interaction between CNS cholinergic and dopaminergic neurons induced by L-alpha-glycerylphosphorylcholine, a cholinomimetic drug". *Il Farmaco, Edizione Scientifica*. **41** (4): 325–334. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0430-0920](//www.worldcat.org/issn/0430-0920). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1064491979](//www.worldcat.org/oclc/1064491979). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [3709792](//www.ncbi.nlm.nih.gov/pubmed/3709792).
+10. ↑ ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (Anvisa) [National Sanitary Surveillance Agency]. December 5, 2016. Retrieved January 8, 2020.
+11. ↑ ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170906191704/http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). 国家食品药品监督管理总局 [China Food and Drug Administration (CFDA)]. September 27, 2015. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on September 6, 2017. Retrieved August 19, 2020.
+12. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+13. ↑ ["Vierzehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl100s1414b.pdf%27%5D__1576702069328). *Bundesgesetzblatt Jahrgang 2000 Teil I Nr. 44* (in German). Bundesanzeiger Verlag (published September 30, 2000). September 27, 2000. pp. 1414–1415. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). Retrieved December 18, 2019.
+14. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+15. ↑ ["Schedule 1: Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *Misuse of Drugs Act 1975*. Parliamentary Counsel Office (PCO). Retrieved September 19, 2020.
+16. ↑ ["Svensk författningssamling Förordning om ändring i förordningen (1999:58) om förbud mot vissa hälsofarliga varor"](http://www.notisum.se/rnp/sls/sfs/20040696.pdf) (PDF) (in Swedish) (published September 7, 2004). August 19, 2004. SFS 2004:696.
+17. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+18. ↑ ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
+19. ↑ [*Schedules of Controlled Substances: Placement of Alpha- Methyltryptamine and 5-Methoxy-N,N-Diisopropyltryptamine Into Schedule I*](https://www.deadiversion.usdoj.gov/fed_regs/rules/2004/fr0929.htm)

@@ -41,7 +41,7 @@
 
 > **[免责声明](/文档/关于本站/关于FreeODwiki.md)：** 本站的[给药剂量](/文档/给药剂量.md)信息收集自用户和资源，仅供教育用途。它不是推荐，应与其他来源核实以确保准确性哦。
 
-**[药物联用](#危险的药物联用)**
+**药物联用**
 
 | | |
 | --- | --- |
@@ -50,10 +50,10 @@
 | [曲马多](/药物/曲马多.md) | 💔 联用危险 |
 | [锂盐](https://zh.wikipedia.org/wiki/%E9%94%82_(%E8%8D%AF%E7%89%A9)) | ⛔ 严禁联用 |
 
-**2,5-二甲氧基-4-碘苯乙胺**（也称为 **2C-I** 和 "**Smiles**"）是[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)中的一种[迷幻剂](/文档/药物分类/迷幻剂.md)哦。它是[2,5-二甲氧基苯乙胺类物质](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md)家族的一员，这些家族成员都是通过对[麦斯卡林](/药物/麦斯卡林.md)分子进行系统性修饰而衍生出来的呢。[\[1\]](#cite_note-PiHKAL-1)
+**2,5-二甲氧基-4-碘苯乙胺**（也称为 **2C-I** 和 "**Smiles**"）是[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)中的一种[迷幻剂](/文档/药物分类/迷幻剂.md)哦。它是[2,5-二甲氧基苯乙胺类物质](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md)家族的一员，这些家族成员都是通过对[麦斯卡林](/药物/麦斯卡林.md)分子进行系统性修饰而衍生出来的呢。\[1\]
 
-2C-I 最初由 [亚历山大·舒尔金](/文档/精神探索.md) 于 1976 年合成并研究其对人类的活性[\[2\]](#cite_note-2)，后来在他 1991 年的书 [PiHKAL](/文档/精神探索.md)（"我所认识和喜爱的苯乙胺"）中进行了描述。
-它在 PiHKAL 中的条目指出它“色彩非常丰富且活跃”，但没有“洞察力、启示或朝着宇宙真谛进步的感觉”[\[1\]](#cite_note-PiHKAL-1)。它在 90 年代末和 2000 年代初曾短暂流行过一段时间，当时它是作为 [2C-B](/药物/2C-B.md) 在 1995 年被列管后的替代品在一些聪明店（smart shops）里出售的[\[3\]](#cite_note-3)。在被列管之前，它也有作为[研究用化学品](/文档/研究用化学品.md)在线销售的历史呢。
+2C-I 最初由 [亚历山大·舒尔金](/文档/精神探索.md) 于 1976 年合成并研究其对人类的活性\[2\]，后来在他 1991 年的书 [PiHKAL](/文档/精神探索.md)（"我所认识和喜爱的苯乙胺"）中进行了描述。
+它在 PiHKAL 中的条目指出它“色彩非常丰富且活跃”，但没有“洞察力、启示或朝着宇宙真谛进步的感觉”\[1\]。它在 90 年代末和 2000 年代初曾短暂流行过一段时间，当时它是作为 [2C-B](/药物/2C-B.md) 在 1995 年被列管后的替代品在一些聪明店（smart shops）里出售的\[3\]。在被列管之前，它也有作为[研究用化学品](/文档/研究用化学品.md)在线销售的历史呢。
 
 2C-I 通常被用于[娱乐性用药](/文档/娱乐性用药.md)，因为它具有[迷幻](/文档/药物分类/迷幻剂.md)效果，以及适度的[兴奋](/药效/兴奋.md)和[共情剂](/文档/药物分类/共情剂.md)效应。
 在 1-8mg 的剂量范围内，有人探索过它作为潜在的[兴奋剂](/文档/药物分类/兴奋剂.md)或[益智药](/文档/药物分类/益智药.md)的可能性哦。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
@@ -62,28 +62,28 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **躯体效应**](#躯体效应)
-    + [3.2 **视觉效应**](#视觉效应)
-        - [3.2.1 增强](#增强)
-        - [3.2.2 扭曲](#扭曲)
-        - [3.2.3 几何学](#几何学)
-        - [3.2.4 幻觉状态](#幻觉状态)
-    + [3.3 **认知效应**](#认知效应)
-    + [3.4 **听觉效应**](#听觉效应)
-    + [3.5 **多感官效应**](#多感官效应)
-    + [3.6 **超个人效应**](#超个人效应)
-    + [3.7 体验报告](#体验报告)
-* [4 毒性和危害潜力](#毒性和危害潜力)
-    + [4.1 耐药性和成瘾潜力](#耐药性和成瘾潜力)
-    + [4.2 危险的药物联用](#危险的药物联用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-    + [7.1 社区](#社区)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 **躯体效应**
+    + 3.2 **视觉效应**
+        - 3.2.1 增强
+        - 3.2.2 扭曲
+        - 3.2.3 几何学
+        - 3.2.4 幻觉状态
+    + 3.3 **认知效应**
+    + 3.4 **听觉效应**
+    + 3.5 **多感官效应**
+    + 3.6 **超个人效应**
+    + 3.7 体验报告
+* 4 毒性和危害潜力
+    + 4.1 耐药性和成瘾潜力
+    + 4.2 危险的药物联用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+    + 7.1 社区
+* 8 参考文献
 
 ## 化学
 
@@ -228,29 +228,29 @@ _**警告：** 许多本身可以相当安全地使用的精神活性物质，�
 * **[锂盐](http://en.wikipedia.org/wiki/Lithium_(medication))** - 锂盐通常用于治疗[双相情感障碍](https://en.wikipedia.org/wiki/Bipolar_disorder)。大量的轶事证据表明，将其与[迷幻剂](/文档/药物分类/迷幻剂.md)一起服用会显着增加[精神病](/药效/精神病发作.md)和[癫痫发作](/文档/癫痫发作.md)的风险。因此，**严禁**这种组合。
 * **[大麻](/药物/大麻.md)** - 大麻可能会与 2C-I 的效果产生意想不到的强烈且不可预测的协同作用。建议谨慎使用这种组合，因为它会显着增加不良心理反应的风险，如[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[恐慌发作](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)。建议用户仅从正常大麻剂量的一小部分开始，并在两次抽吸之间长时间休息，以避免意外过量。
 * **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像[苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md)或[哌甲酯](/药物/哌甲酯.md)等兴奋剂会影响大脑的许多部分并改变[多巴胺](/文档/多巴胺.md)功能。这种组合可能会增加[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[恐慌发作](/药效/认知效应.md)和[思维循环](/药效/认知效应.md)的风险。这种相互作用也可能导致[躁狂](/药效/躁狂.md)和[精神病](/药效/精神病发作.md)的风险升高。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
-* **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值[\[4\]](#cite_note-4)，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能会在易感个体中引发癫痫发作。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
+* **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值\[4\]，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能会在易感个体中引发癫痫发作。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
 
 
 ## 法律地位
 
-2003 年 11 月，欧洲理事会决定成员国应在三个月内对 2C-I 实施管制措施和刑事处罚。[\[5\]](#cite_note-5)
+2003 年 11 月，欧洲理事会决定成员国应在三个月内对 2C-I 实施管制措施和刑事处罚。\[5\]
 
 * **奥地利**: 根据 SMG (Suchtmittelgesetz Österreich)，持有、生产和销售 2C-I 是非法的。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
-* **巴西**: 由于列于 Portaria SVS/MS nº 344，持有、生产和销售是非法的。[\[6\]](#cite_note-6)
-* **加拿大**: 2C-I 在加拿大是附表 III 管制物质。[\[7\]](#cite_note-7)
-* **丹麦**: 2C-I 在丹麦是管制物质。[\[8\]](#cite_note-erowid-law-8)
-* **德国**: 自 1999 年 10 月 10 日起，2C-I 根据 Anlage I BtMG[\[9\]](#cite_note-9)（*麻醉剂法，附表 I*）受到管制。[\[10\]](#cite_note-10) 未经许可制造、持有、进出口、购买、销售、获取或分发均属违法。[\[11\]](#cite_note-11)
-* **希腊**: 2C-I 在希腊是管制物质。[\[8\]](#cite_note-erowid-law-8)
-* **爱尔兰**: 2C-I 在爱尔兰是管制物质。[\[8\]](#cite_note-erowid-law-8)
-* **意大利**: 2C-I 在意大利是管制物质。[\[8\]](#cite_note-erowid-law-8)
-* **拉脱维亚**: 2C-I 是拉脱维亚的附表 I 管制物质。[\[12\]](#cite_note-12)
-* **荷兰**: 2C-I 在荷兰是管制物质。[\[8\]](#cite_note-erowid-law-8)
-* **波兰**: 2C-I 在波兰是管制物质。[\[8\]](#cite_note-erowid-law-8)
-* **瑞典**: 自 2004 年 3 月 16 日起，*Sveriges riksdag* 将 2C-I 作为麻醉剂添加到瑞典的附表 I（*“通常没有医疗用途的物质、植物材料和真菌”*）中。[\[13\]](#cite_note-13)
-* **瑞士**: 2C-I 是 Verzeichnis D 下特别列出的管制物质。[\[14\]](#cite_note-14)
-* **土耳其**: 2C-I 被归类为毒品，持有、生产、供应或进口均属非法。[\[15\]](#cite_note-15)
-* **英国**: 由于苯乙胺类物质的统称条款，2C-I 在英国是 A 类药物。[\[16\]](#cite_note-16)
-* **美国**: 截至 2012 年 7 月 9 日，根据《2012 年合成药物滥用预防法》，2C-I 在美国属于附表 I 物质，持有、分销和制造均属非法。[\[8\]](#cite_note-erowid-law-8)
+* **巴西**: 由于列于 Portaria SVS/MS nº 344，持有、生产和销售是非法的。\[6\]
+* **加拿大**: 2C-I 在加拿大是附表 III 管制物质。\[7\]
+* **丹麦**: 2C-I 在丹麦是管制物质。\[8\]
+* **德国**: 自 1999 年 10 月 10 日起，2C-I 根据 Anlage I BtMG\[9\]（*麻醉剂法，附表 I*）受到管制。\[10\] 未经许可制造、持有、进出口、购买、销售、获取或分发均属违法。\[11\]
+* **希腊**: 2C-I 在希腊是管制物质。\[8\]
+* **爱尔兰**: 2C-I 在爱尔兰是管制物质。\[8\]
+* **意大利**: 2C-I 在意大利是管制物质。\[8\]
+* **拉脱维亚**: 2C-I 是拉脱维亚的附表 I 管制物质。\[12\]
+* **荷兰**: 2C-I 在荷兰是管制物质。\[8\]
+* **波兰**: 2C-I 在波兰是管制物质。\[8\]
+* **瑞典**: 自 2004 年 3 月 16 日起，*Sveriges riksdag* 将 2C-I 作为麻醉剂添加到瑞典的附表 I（*“通常没有医疗用途的物质、植物材料和真菌”*）中。\[13\]
+* **瑞士**: 2C-I 是 Verzeichnis D 下特别列出的管制物质。\[14\]
+* **土耳其**: 2C-I 被归类为毒品，持有、生产、供应或进口均属非法。\[15\]
+* **英国**: 由于苯乙胺类物质的统称条款，2C-I 在英国是 A 类药物。\[16\]
+* **美国**: 截至 2012 年 7 月 9 日，根据《2012 年合成药物滥用预防法》，2C-I 在美国属于附表 I 物质，持有、分销和制造均属非法。\[8\]
 
 
 ## 另见
@@ -279,22 +279,22 @@ _**警告：** 许多本身可以相当安全地使用的精神活性物质，�
 
 ## 参考文献
 
-1. ↑ [1.0](#cite_ref-PiHKAL_1-0) [1.1](#cite_ref-PiHKAL_1-1) [Alexander Shulgin](/文档/精神探索.md); Ann Shulgin (1991). ["#33. 2C-I"](https://erowid.org/library/books_online/pihkal/pihkal033.shtml). *[PiHKAL: A Chemical Love Story](/文档/精神探索.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
-2. [↑](#cite_ref-2) [Alexander Shulgin](/文档/精神探索.md). [*Pharmacology Notes I (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf) (PDF). Erowid. p. 177.
-3. [↑](#cite_ref-3) Eric Johnson (March 19, 2011). Ellen Wulfhorst, ed. ["Synthetic drug, subject of proposed bans, kill teen"](http://in.reuters.com/article/us-drugs-overdose-idINTRE72I3QT20110319). Reuters. Retrieved October 11, 2020.
-4. [↑](#cite_ref-4) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
-5. [↑](#cite_ref-5) ["COUNCIL DECISION 2003/847/JHA"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:321:0064:0065:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published December 6, 2003). November 27, 2003. pp. 64–65. [OCLC](http://en.wikipedia.org/wiki/OCLC) [52224955](//www.worldcat.org/oclc/52224955). L 321.
-6. [↑](#cite_ref-6) ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (ANVISA) \[Brazilian Health Regulatory Agency (ANVISA)\]. December 5, 2016.
-7. [↑](#cite_ref-7) ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
-8. ↑ [8.0](#cite_ref-erowid-law_8-0) [8.1](#cite_ref-erowid-law_8-1) [8.2](#cite_ref-erowid-law_8-2) [8.3](#cite_ref-erowid-law_8-3) [8.4](#cite_ref-erowid-law_8-4) [8.5](#cite_ref-erowid-law_8-5) [8.6](#cite_ref-erowid-law_8-6) ["2C-I: Legal Status"](http://www.erowid.org/chemicals/2ci/2ci_law.shtml). Erowid. Retrieved March 13, 2014.
-9. [↑](#cite_ref-9) ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) ["Dreizehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl199s1935.pdf) (PDF). *Bundesgesetzblatt Jahrgang 1999 Teil I Nr. 46* (in German). Bundesanzeiger Verlag \[Federal Gazette\] (published September 30, 1999). September 24, 1999. p. 1935. [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [0344-7634](//www.worldcat.org/issn/0344-7634).
-11. [↑](#cite_ref-11) ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
-12. [↑](#cite_ref-12) ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
-13. [↑](#cite_ref-13) ["Föreskrifter om ändring i Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika"](https://web.archive.org/web/20180613184606/http://www.lakemedelsverket.se/upload/lvfs/LVFS_2004-3.pdf) (PDF) (in Swedish). Läkemedelsverket \[Medical Products Agency \] (published March 16, 2004). February 24, 2004. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1101-5225](//www.worldcat.org/issn/1101-5225). LVFS 2004:3. Archived from [the original](http://www.lakemedelsverket.se/upload/lvfs/LVFS_2004-3.pdf) (PDF) on June 13, 2018.
-14. [↑](#cite_ref-14) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei \[Federal Chancellery of Switzerland\]. Retrieved January 1, 2020.
-15. [↑](#cite_ref-15) Bakanlar Kurulu Kararı Karar Sayısı : 2013/4827 | <https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf>
-16. [↑](#cite_ref-16) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
+1. ↑ 1.0 1.1 [Alexander Shulgin](/文档/精神探索.md); Ann Shulgin (1991). ["#33. 2C-I"](https://erowid.org/library/books_online/pihkal/pihkal033.shtml). *[PiHKAL: A Chemical Love Story](/文档/精神探索.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
+2. ↑ [Alexander Shulgin](/文档/精神探索.md). [*Pharmacology Notes I (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf) (PDF). Erowid. p. 177.
+3. ↑ Eric Johnson (March 19, 2011). Ellen Wulfhorst, ed. ["Synthetic drug, subject of proposed bans, kill teen"](http://in.reuters.com/article/us-drugs-overdose-idINTRE72I3QT20110319). Reuters. Retrieved October 11, 2020.
+4. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+5. ↑ ["COUNCIL DECISION 2003/847/JHA"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:321:0064:0065:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published December 6, 2003). November 27, 2003. pp. 64–65. [OCLC](http://en.wikipedia.org/wiki/OCLC) [52224955](//www.worldcat.org/oclc/52224955). L 321.
+6. ↑ ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (ANVISA) \[Brazilian Health Regulatory Agency (ANVISA)\]. December 5, 2016.
+7. ↑ ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
+8. ↑ 8.0 8.1 8.2 8.3 8.4 8.5 8.6 ["2C-I: Legal Status"](http://www.erowid.org/chemicals/2ci/2ci_law.shtml). Erowid. Retrieved March 13, 2014.
+9. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
+10. ↑ ["Dreizehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl199s1935.pdf) (PDF). *Bundesgesetzblatt Jahrgang 1999 Teil I Nr. 46* (in German). Bundesanzeiger Verlag \[Federal Gazette\] (published September 30, 1999). September 24, 1999. p. 1935. [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [0344-7634](//www.worldcat.org/issn/0344-7634).
+11. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
+12. ↑ ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
+13. ↑ ["Föreskrifter om ändring i Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika"](https://web.archive.org/web/20180613184606/http://www.lakemedelsverket.se/upload/lvfs/LVFS_2004-3.pdf) (PDF) (in Swedish). Läkemedelsverket \[Medical Products Agency \] (published March 16, 2004). February 24, 2004. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1101-5225](//www.worldcat.org/issn/1101-5225). LVFS 2004:3. Archived from [the original](http://www.lakemedelsverket.se/upload/lvfs/LVFS_2004-3.pdf) (PDF) on June 13, 2018.
+14. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei \[Federal Chancellery of Switzerland\]. Retrieved January 1, 2020.
+15. ↑ Bakanlar Kurulu Kararı Karar Sayısı : 2013/4827 | <https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf>
+16. ↑ ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
 
 [1]: /文件/2C-I.png
 [2]: /文件/Molecule.png

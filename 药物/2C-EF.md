@@ -54,30 +54,30 @@
 目录
 --------
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
-    + [4.1 **躯体效应**](#躯体效应)
-    + [4.2 **视觉效应**](#视觉效应)
-        - [4.2.1 增强](#视觉增强)
-        - [4.2.2 扭曲](#视觉扭曲)
-        - [4.2.3 几何](#几何)
-        - [4.2.4 幻觉状态](#幻觉状态)
-    + [4.3 **认知效应**](#认知效应)
-    + [4.4 **听觉效应**](#听觉效应)
-    + [4.5 **多感官效应**](#多感官效应)
-    + [4.6 **超个人效应**](#超个人效应)
-    + [4.7 联用效应](#联用效应)
-    + [4.8 体验报告](#体验报告)
-* [5 毒性与伤害潜能](#毒性与伤害潜能)
-    + [5.1 耐受性与成瘾潜能](#耐受性与成瘾潜能)
-    + [5.2 危险联用](#危险联用)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-    + [8.1 讨论](#讨论)
-* [9 参考文献](#参考文献)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
+    + 4.1 **躯体效应**
+    + 4.2 **视觉效应**
+        - 4.2.1 增强
+        - 4.2.2 扭曲
+        - 4.2.3 几何
+        - 4.2.4 幻觉状态
+    + 4.3 **认知效应**
+    + 4.4 **听觉效应**
+    + 4.5 **多感官效应**
+    + 4.6 **超个人效应**
+    + 4.7 联用效应
+    + 4.8 体验报告
+* 5 毒性与伤害潜能
+    + 5.1 耐受性与成瘾潜能
+    + 5.2 危险联用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+    + 8.1 讨论
+* 9 参考文献
 
 ## 历史与文化
 
@@ -230,7 +230,7 @@
 
 *总是进行独立研究（例如 Google、DuckDuckGo、PubMed）以确保两种或更多物质联用安全。部分列出的联用来源于 TripSit。*
 
-* **[Lithium](http://en.wikipedia.org/wiki/Lithium_(medication) "wikipedia:Lithium (medication)")** - Lithium 常用于治疗双相障碍。有大量轶事证据表明，与迷幻剂联用会显著增加精神病发作和癫痫发作风险。因此，此联用严格不推荐。
+* **[Lithium](http://en.wikipedia.org/wiki/Lithium_(medication))** - Lithium 常用于治疗双相障碍。有大量轶事证据表明，与迷幻剂联用会显著增加精神病发作和癫痫发作风险。因此，此联用严格不推荐。
 * **[大麻](/药物/大麻.md)** - 大麻可能与 2C-EF 效应产生意外强烈且不可预测的协同作用。此联用请谨慎，因为它可能显著增加不良心理反应风险，如焦虑、偏执、惊恐发作和精神病发作。用户建议仅从正常大麻剂量的一小部分开始，并间隔较长时间吸食以避免意外过量呢。
 * **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像苯丙胺、可卡因或哌甲酯等兴奋剂会影响大脑多个部分并改变多巴胺功能。此联用可能增加焦虑、偏执、惊恐发作和思维循环风险。此联用还可能导致躁狂和精神病发作风险升高呢。
 * **[曲马多](/药物/曲马多.md)** - 曲马多有充分记录会降低癫痫阈值，而迷幻剂可能在易感者中诱发癫痫发作。
@@ -263,8 +263,8 @@
 
 ## 参考文献
 
-1. ↑     [Alexander Shulgin](/wiki/Alexander_Shulgin "Alexander Shulgin"); Ann Shulgin (1991). ["#63. DOEF"](https://www.erowid.org/library/books_online/pihkal/pihkal065.shtml). *PiHKAL: A Chemical Love Story*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605 "wikipedia:Special:BookSources/0963009605"). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [1166889264](//www.worldcat.org/oclc/1166889264). 
-2. [↑](#cite_ref-Psychedelic_phenethylamines_and_related_compounds_2-0) [Alexander Shulgin](/w/index.php?title=Alexander_T._Shulgin&action=edit&redlink=1 "Alexander T. Shulgin (page does not exist)"); Tania Mamming; Paul F. Daley (2010). *The Shulgin index: Psychedelic phenethylamines and related compounds*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780963009630](http://en.wikipedia.org/wiki/Special:BookSources/9780963009630 "wikipedia:Special:BookSources/9780963009630"). 
-3. [↑](#cite_ref-3) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). 
-4. [↑](#cite_ref-4) [*Convention of 1971 on psychotropic substances*](https://www.incb.org/documents/Psychotropics/conventions/convention_1971_en.pdf) (PDF) 
-5. [↑](#cite_ref-5) [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/) 
+1. ↑     [Alexander Shulgin](/wiki/Alexander_Shulgin); Ann Shulgin (1991). ["#63. DOEF"](https://www.erowid.org/library/books_online/pihkal/pihkal065.shtml). *PiHKAL: A Chemical Love Story*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264). 
+2. ↑ [Alexander Shulgin](/w/index.php?title=Alexander_T._Shulgin&action=edit&redlink=1); Tania Mamming; Paul F. Daley (2010). *The Shulgin index: Psychedelic phenethylamines and related compounds*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780963009630](http://en.wikipedia.org/wiki/Special:BookSources/9780963009630). 
+3. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). 
+4. ↑ [*Convention of 1971 on psychotropic substances*](https://www.incb.org/documents/Psychotropics/conventions/convention_1971_en.pdf) (PDF) 
+5. ↑ [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/) 

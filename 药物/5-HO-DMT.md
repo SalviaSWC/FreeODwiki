@@ -14,22 +14,22 @@
 | 精神药理分类                                                                                              | *[迷幻剂](/文档/药物分类/迷幻剂.md)*     |
 | 化学分类                                                                                                | *[色胺类物质](/文档/药物分类/色胺类物质.md)* |
 | [给药途径](/文档/给药途径.md)                                                                                 |                              |
-| - **警告：** 由于个体体重、耐受性、代谢和个人敏感性存在差异，请务必总是从较低剂量开始。参见[负责任使用部分](/文档/负责任的用药索引页.md)。                       | ⇣ [抽吸](/文档/给药途径.md#抽吸)       |
+| - **警告：** 由于个体体重、耐受性、代谢和个人敏感性存在差异，请务必总是从较低剂量开始。参见[负责任使用部分](/文档/负责任的用药索引页.md)。                       | ⇣ [抽吸](/文档/给药途径.md)       |
 | [给药剂量](/文档/给药剂量.md)                                                                                 |                              |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                              | 2 mg                         |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                              | 5 - 20 mg                    |
-| [中等](/文档/药物剂量分类.md#中等)                                                                              | 20 - 40 mg                   |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                              | 40 - 60 mg                   |
-| [严重](/文档/药物剂量分类.md#严重)                                                                              | 60 mg +                      |
+| [阈值](/文档/药物剂量分类.md)                                                                              | 2 mg                         |
+| [轻微](/文档/药物剂量分类.md)                                                                              | 5 - 20 mg                    |
+| [中等](/文档/药物剂量分类.md)                                                                              | 20 - 40 mg                   |
+| [强烈](/文档/药物剂量分类.md)                                                                              | 40 - 60 mg                   |
+| [严重](/文档/药物剂量分类.md)                                                                              | 60 mg +                      |
 | [药效时长](/文档/药效时长.md)                                                                                 |                              |
-| [总时长](/文档/药效时长.md#总时长)                                                                              | 15 - 90 分钟                   |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                            | 15 - 30 秒                    |
-| [药效上升](/文档/药效时长.md#药效上升)                                                                            | 15 - 30 秒                    |
-| [药效达峰](/文档/药效时长.md#药效达峰)                                                                            | 1 - 5 分钟                     |
-| [药效褪去](/文档/药效时长.md#药效褪去)                                                                            | 5 - 10 分钟                    |
-| [药效残余](/文档/药效时长.md#药效残余)                                                                            | 10 - 60 分钟                   |
+| [总时长](/文档/药效时长.md)                                                                              | 15 - 90 分钟                   |
+| [药效发作](/文档/药效时长.md)                                                                            | 15 - 30 秒                    |
+| [药效上升](/文档/药效时长.md)                                                                            | 15 - 30 秒                    |
+| [药效达峰](/文档/药效时长.md)                                                                            | 1 - 5 分钟                     |
+| [药效褪去](/文档/药效时长.md)                                                                            | 5 - 10 分钟                    |
+| [药效残余](/文档/药效时长.md)                                                                            | 10 - 60 分钟                   |
 | - **[免责声明](/关于本站/免责声明.md)：** 本网站的[给药剂量](/文档/给药剂量.md)信息仅为教育目的而整理自用户与其他资料来源，并不构成推荐；其准确性也应结合其他来源进一步核实。 |                              |
-| [相互作用](#危险的相互作用)                                                                                    |                              |
+| 相互作用                                                                                    |                              |
 | [大麻](/药物/大麻.md)                                                                                     |                              |
 | [兴奋剂](/文档/药物分类/兴奋剂.md)                                                                              |                              |
 | [曲马多](/药物/曲马多.md)                                                                                   |                              |
@@ -39,28 +39,28 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **视觉效应**](#视觉效应)
+  * 3.1 **躯体效应**
+  * 3.2 **视觉效应**
 
-    * [3.2.1 几何](#几何)
-  * [3.3 **认知效应**](#认知效应)
-  * [3.4 **听觉效应**](#听觉效应)
-  * [3.5 体验报告](#体验报告)
-* [4 自然来源](#自然来源)
+    * 3.2.1 几何
+  * 3.3 **认知效应**
+  * 3.4 **听觉效应**
+  * 3.5 体验报告
+* 4 自然来源
 
-  * [4.1 科罗拉多河蟾蜍](#科罗拉多河蟾蜍)
-* [5 毒性与伤害潜力](#毒性与伤害潜力)
+  * 4.1 科罗拉多河蟾蜍
+* 5 毒性与伤害潜力
 
-  * [5.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [5.2 危险的相互作用](#危险的相互作用)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-* [9 参考文献](#参考文献)
+  * 5.1 耐受性与成瘾潜力
+  * 5.2 危险的相互作用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+* 9 参考文献
 
 ## 化学
 
@@ -116,7 +116,7 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 #### [几何](/药效/几何.md)
 
-这段旅程中出现的视觉几何通常并不常见，并且即便在最强状态下也不会超过7级。它与[DMT](/药物/DMT.md)非常相似，不过尺寸明显更小，也更容易在黑暗中或没有干扰时显现。就外观而言，它可以通过其[变体](/药效/几何.md#变体)来被全面描述为：复杂度精细、形态抽象、质感上同时具有有机与数字化特征、结构上有条理、明亮、多彩、光泽感强、边缘既锐利又柔和、体积较小、速度较快、运动平滑、转角同时带有圆润与棱角感、深度沉浸，并且强度稳定。
+这段旅程中出现的视觉几何通常并不常见，并且即便在最强状态下也不会超过7级。它与[DMT](/药物/DMT.md)非常相似，不过尺寸明显更小，也更容易在黑暗中或没有干扰时显现。就外观而言，它可以通过其[变体](/药效/几何.md)来被全面描述为：复杂度精细、形态抽象、质感上同时具有有机与数字化特征、结构上有条理、明亮、多彩、光泽感强、边缘既锐利又柔和、体积较小、速度较快、运动平滑、转角同时带有圆润与棱角感、深度沉浸，并且强度稳定。
 
 ### **认知效应** ![User.png](/文件/User.png)
 
@@ -181,7 +181,7 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 *始终都应进行独立研究（例如 [Google](https://www.google.com/)、[DuckDuckGo](https://www.duckduckgo.com)、[PubMed](https://pubmed.ncbi.nlm.nih.gov/)），以确保两种或以上物质联用时可安全摄入。下列部分相互作用资料来源于[TripSit](https://combo.tripsit.me)。*
 
-* **[锂](http://en.wikipedia.org/wiki/Lithium_%28medication%29 "wikipedia:Lithium (medication)")** - 锂常用于治疗[双相情感障碍](https://en.wikipedia.org/wiki/Bipolar_disorder)。大量轶事证据表明，将其与[迷幻剂](/文档/药物分类/迷幻剂.md)联用会显著增加[精神病发作](/药效/精神病发作.md)和[癫痫发作](/药效/癫痫发作.md)的风险。因此，强烈不建议这样联用。
+* **[锂](http://en.wikipedia.org/wiki/Lithium_%28medication%29)** - 锂常用于治疗[双相情感障碍](https://en.wikipedia.org/wiki/Bipolar_disorder)。大量轶事证据表明，将其与[迷幻剂](/文档/药物分类/迷幻剂.md)联用会显著增加[精神病发作](/药效/精神病发作.md)和[癫痫发作](/药效/癫痫发作.md)的风险。因此，强烈不建议这样联用。
 * **[大麻](/药物/大麻.md)** - 大麻可能会与蟾毒色胺的效应产生出乎意料地强烈且不可预测的协同作用。对此种联用应保持谨慎，因为它会显著增加诸如[焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md)、[惊恐发作](/药效/惊恐发作.md)和[精神病发作](/药效/精神病发作.md)等不良心理反应的风险。建议使用者只从平时大麻剂量的一小部分开始，并在每次吸入之间留出较长间隔，以避免无意中过量。
 * **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像[苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md)或[哌甲酯](/药物/哌甲酯.md)这样的兴奋剂会影响大脑的多个部位，并改变[多巴胺](/文档/多巴胺.md)能功能。此种联用会增加[焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md)、[惊恐发作](/药效/惊恐发作.md)和[思维循环](/药效/思维循环.md)的风险。这种相互作用也可能导致[躁狂](/药效/躁狂.md)和[精神病发作](/药效/精神病发作.md)风险升高。
 * **[曲马多](/药物/曲马多.md)** - 有充分文献证明曲马多会降低癫痫发作阈值，而[迷幻剂](/文档/药物分类/迷幻剂.md)则可能在易感个体中诱发癫痫发作。
@@ -212,18 +212,18 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Fuller, R. W., Snoddy, H. D., Perry, K. W. (July 1995). ["Tissue distribution, metabolism and effects of bufotenine administered to rats"](https://linkinghub.elsevier.com/retrieve/pii/002839089500049C). *Neuropharmacology*. **34** (7): 799–804. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/0028-3908(95)00049-C](//doi.org/10.1016%2F0028-3908%2895%2900049-C). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0028-3908](//www.worldcat.org/issn/0028-3908).
-2. [↑](#cite_ref-Krebs-ThomsonRuiz2006_2-0) Krebs-Thomson, K.; Ruiz, E. M.; Masten, V.; Buell, M.; Geyer, M. A. (2006). "The roles of 5-HT and 5-HT receptors in the effects of 5-MeO-DMT on locomotor activity and prepulse inhibition in rats". *Psychopharmacology*. **189** (3): 319–329. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s00213-006-0566-1](//doi.org/10.1007%2Fs00213-006-0566-1). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0033-3158](//www.worldcat.org/issn/0033-3158). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [2409222](//www.worldcat.org/oclc/2409222). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [17013638](//www.ncbi.nlm.nih.gov/pubmed/17013638).
-3. [↑](#cite_ref-pmid17223101_3-0) Nagai, F.; Nonaka, R.; Satoh, K.; Kamimura, H. (2007). "The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain". *European Journal of Pharmacology*. **559** (2–3): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1879-0712](//www.worldcat.org/issn/1879-0712). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01568459](//www.worldcat.org/oclc/01568459). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [17223101](//www.ncbi.nlm.nih.gov/pubmed/17223101).
-4. [↑](#cite_ref-desertmuseum_4-0) Steven J. Phillips (2000). Patricia Wentworth Comus, ed. *A Natural History of the Sonoran Desert*. University of California Press. p. 537. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [0-520-21980-5](http://en.wikipedia.org/wiki/Special:BookSources/0-520-21980-5 "wikipedia:Special:BookSources/0-520-21980-5"). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [837703609](//www.worldcat.org/oclc/837703609).
-5. [↑](#cite_ref-5) ["The Sonoran Desert Toad: Bufo alvarius"](http://www.erowid.org/archive/sonoran_desert_toad/erspamer.htm). Erowid. Retrieved August 27, 2020.
-6. [↑](#cite_ref-6) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039).
-7. [↑](#cite_ref-7) Brush, D. E.; Bird, S. B.; Boyer, E. W. (2004). "Monoamine oxidase inhibitor poisoning resulting from Internet misinformation on illicit substances". *Journal of Toxicology: Clinical Toxicology*. **42** (2): 191–195. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1081/clt-120030949](//doi.org/10.1081%2Fclt-120030949). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1556-9519](//www.worldcat.org/issn/1556-9519). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-3650](//www.worldcat.org/issn/1556-3650). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [15214625](//www.ncbi.nlm.nih.gov/pubmed/15214625).
-8. [↑](#cite_ref-8) Sklerov, J.; Levine, B.; Moore, K. A.; King, T.; Fowler, D. (2005). "A fatal intoxication following the ingestion of 5-methoxy-N,N-dimethyltryptamine in an ayahuasca preparation". *Journal of Analytical Toxicology*. **29** (8): 838–841. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/jat/29.8.838](//doi.org/10.1093%2Fjat%2F29.8.838). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1945-2403](//www.worldcat.org/issn/1945-2403). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0146-4760](//www.worldcat.org/issn/0146-4760). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [02942106](//www.worldcat.org/oclc/02942106). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16356341](//www.ncbi.nlm.nih.gov/pubmed/16356341).
-9. [↑](#cite_ref-9) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0341-1095](//www.worldcat.org/issn/0341-1095).
-11. [↑](#cite_ref-11) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-12. [↑](#cite_ref-12) ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-13. [↑](#cite_ref-13) ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
-14. [↑](#cite_ref-14) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-15. [↑](#cite_ref-15) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
+1. ↑ Fuller, R. W., Snoddy, H. D., Perry, K. W. (July 1995). ["Tissue distribution, metabolism and effects of bufotenine administered to rats"](https://linkinghub.elsevier.com/retrieve/pii/002839089500049C). *Neuropharmacology*. **34** (7): 799–804. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0028-3908(95)00049-C](//doi.org/10.1016%2F0028-3908%2895%2900049-C). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0028-3908](//www.worldcat.org/issn/0028-3908).
+2. ↑ Krebs-Thomson, K.; Ruiz, E. M.; Masten, V.; Buell, M.; Geyer, M. A. (2006). "The roles of 5-HT and 5-HT receptors in the effects of 5-MeO-DMT on locomotor activity and prepulse inhibition in rats". *Psychopharmacology*. **189** (3): 319–329. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-006-0566-1](//doi.org/10.1007%2Fs00213-006-0566-1). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3158](//www.worldcat.org/issn/0033-3158). [OCLC](http://en.wikipedia.org/wiki/OCLC) [2409222](//www.worldcat.org/oclc/2409222). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17013638](//www.ncbi.nlm.nih.gov/pubmed/17013638).
+3. ↑ Nagai, F.; Nonaka, R.; Satoh, K.; Kamimura, H. (2007). "The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain". *European Journal of Pharmacology*. **559** (2–3): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-0712](//www.worldcat.org/issn/1879-0712). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01568459](//www.worldcat.org/oclc/01568459). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17223101](//www.ncbi.nlm.nih.gov/pubmed/17223101).
+4. ↑ Steven J. Phillips (2000). Patricia Wentworth Comus, ed. *A Natural History of the Sonoran Desert*. University of California Press. p. 537. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-520-21980-5](http://en.wikipedia.org/wiki/Special:BookSources/0-520-21980-5). [OCLC](http://en.wikipedia.org/wiki/OCLC) [837703609](//www.worldcat.org/oclc/837703609).
+5. ↑ ["The Sonoran Desert Toad: Bufo alvarius"](http://www.erowid.org/archive/sonoran_desert_toad/erspamer.htm). Erowid. Retrieved August 27, 2020.
+6. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+7. ↑ Brush, D. E.; Bird, S. B.; Boyer, E. W. (2004). "Monoamine oxidase inhibitor poisoning resulting from Internet misinformation on illicit substances". *Journal of Toxicology: Clinical Toxicology*. **42** (2): 191–195. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1081/clt-120030949](//doi.org/10.1081%2Fclt-120030949). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1556-9519](//www.worldcat.org/issn/1556-9519). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-3650](//www.worldcat.org/issn/1556-3650). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [15214625](//www.ncbi.nlm.nih.gov/pubmed/15214625).
+8. ↑ Sklerov, J.; Levine, B.; Moore, K. A.; King, T.; Fowler, D. (2005). "A fatal intoxication following the ingestion of 5-methoxy-N,N-dimethyltryptamine in an ayahuasca preparation". *Journal of Analytical Toxicology*. **29** (8): 838–841. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/29.8.838](//doi.org/10.1093%2Fjat%2F29.8.838). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1945-2403](//www.worldcat.org/issn/1945-2403). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0146-4760](//www.worldcat.org/issn/0146-4760). [OCLC](http://en.wikipedia.org/wiki/OCLC) [02942106](//www.worldcat.org/oclc/02942106). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16356341](//www.ncbi.nlm.nih.gov/pubmed/16356341).
+9. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+10. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095).
+11. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+12. ↑ ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+13. ↑ ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
+14. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+15. ↑ ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.

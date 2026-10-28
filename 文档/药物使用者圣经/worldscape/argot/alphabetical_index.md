@@ -4,7 +4,7 @@
 
 这是一份作者采样并收录在本书中的化学物质与植物材料的纯字母顺序索引哦。
 
-### \# [\#](#heading)
+### \# \#
 
 * [1P\-ETH\-LAD (2\.2\.3\)](../../chemscape/psychedelics/1P-ETH-LAD.md)
 * [1P\-LSD (2\.2\.1\)](../../chemscape/psychedelics/1P-LSD.md)
@@ -32,7 +32,7 @@
 * [5F\-AKB48 (2\.8\.1\)](../../chemscape/synthetic_cannabinoids/5f-akb48.md)
 * [6\-APB (2\.7\.1\)](../../chemscape/empathogens_and_entactogens/6-apb.md)
 
-### A [\#](#a)
+### A \#
 
 * [α\-PHP (2\.3\.11\)](../../chemscape/stimulants/a-php.md)
 * [AL\-LAD (2\.2\.13\)](../../chemscape/psychedelics/al-lad.md)
@@ -47,13 +47,13 @@
 * [阿莫达非尼 (2\.9\.3\)](../../chemscape/nootropics/armodafinil.md)
 * [死藤水 (3\.2\.1\)](../../botscape/psychedelics/ayahuasca.md)
 
-### B [\#](#b)
+### B \#
 
 * [βk\-2C\-B (2\.2\.15\)](../../chemscape/psychedelics/bk-2c-b.md)
 * [槟榔 (3\.3\.1\)](../../botscape/stimulants/betel_nut.md)
 * [蓝莲花 (3\.4\.1\)](../../botscape/sedatives/blue_lotus.md)
 
-### C [\#](#c)
+### C \#
 
 * [可可 (3\.4\.2\)](../../botscape/sedatives/cacao.md)
 * [咖啡因 (2\.3\.12\)](../../chemscape/stimulants/caffeine.md)
@@ -72,7 +72,7 @@
 * [可卡因 (2\.3\.13\)](../../chemscape/stimulants/cocaine.md)
 * [可待因 (2\.5\.2\)](../../chemscape/intoxicating_depressants/codeine.md)
 
-### D [\#](#d)
+### D \#
 
 * [DMT (2\.2\.17\)](../../chemscape/psychedelics/dmt.md)
 * [DOM (2\.2\.18\)](../../chemscape/psychedelics/dom.md)
@@ -82,7 +82,7 @@
 * [地西泮 (2\.4\.4\)](../../chemscape/anxiolytics_and_sedatives/diazepam.md)
 * [二苯那定 (2\.6\.3\)](../../chemscape/dissociatives/diphenidine.md)
 
-### E [\#](#e)
+### E \#
 
 * [EPH (2\.3\.14\)](../../chemscape/stimulants/eph.md)
 * [海红豆 (3\.6\.2\)](../../botscape/oneirogens/entada_rheedii.md)
@@ -91,13 +91,13 @@
 * [精油 (3\.8\.2\)](../../botscape/unclassified/essential_oils.md)
 * [依替唑仑 (2\.4\.5\)](../../chemscape/anxiolytics_and_sedatives/etizolam.md)
 
-### F [\#](#f)
+### F \#
 
 * [芬太尼 (2\.5\.3\)](../../chemscape/intoxicating_depressants/fentanyl.md)
 * [毒蝇伞 (3\.2\.4\)](../../botscape/psychedelics/fly_agaric.md)
 * [乳香 (3\.4\.6\)](../../botscape/sedatives/frankincense.md)
 
-### G [\#](#g)
+### G \#
 
 * [GHB (2\.5\.4\)](../../chemscape/intoxicating_depressants/ghb.md)
 * [加巴喷丁 (2\.4\.6\)](../../chemscape/anxiolytics_and_sedatives/gabapentin.md)
@@ -107,7 +107,7 @@
 * [瓜拉纳 (3\.3\.6\)](../../botscape/stimulants/guarana.md)
 * [瓜尤萨 (3\.3\.7\)](../../botscape/stimulants/guayusa.md)
 
-### H [\#](#h)
+### H \#
 
 * [HBWS (3\.2\.5\)](../../botscape/psychedelics/HBWS.md)
 * [HDMP\-28 (2\.3\.15\)](../../chemscape/stimulants/hdmp-28.md)
@@ -116,19 +116,19 @@
 * [啤酒花 (3\.4\.7\)](../../botscape/sedatives/hops.md)
 * [淫羊藿 (3\.3\.8\)](../../botscape/stimulants/horny_goat_weed.md)
 
-### I [\#](#i)
+### I \#
 
 * [IPPH (2\.3\.17\)](../../chemscape/stimulants/ipph.md)
 * [伊博格 (3\.2\.6\)](../../botscape/psychedelics/iboga.md)
 * [因菲霍 (3\.4\.8\)](../../botscape/sedatives/imphepho.md)
 * [印度战士 (3\.4\.9\)](../../botscape/sedatives/indian_warrior.md)
 
-### J [\#](#j)
+### J \#
 
 * [JWH\-018 (2\.8\.4\)](../../chemscape/synthetic_cannabinoids/jwh-018.md)
 * [JWH\-073 (2\.8\.5\)](../../chemscape/synthetic_cannabinoids/jwh-073.md)
 
-### K [\#](#k)
+### K \#
 
 * [卡纳 (3\.4\.10\)](../../botscape/sedatives/kanna.md)
 * [卡瓦 (3\.8\.3\)](../../botscape/unclassified/kava_kava.md)
@@ -137,7 +137,7 @@
 * [可乐果 (3\.3\.10\)](../../botscape/stimulants/kola_nut.md)
 * [卡痛 (3\.8\.4\)](../../botscape/unclassified/kratom.md)
 
-### L [\#](#l)
+### L \#
 
 * [茶氨酸 (2\.9\.4\)](../../chemscape/nootropics/l-theanine.md)
 * [LSD (2\.2\.19\)](../../chemscape/psychedelics/lsd.md)
@@ -145,7 +145,7 @@
 * [薰衣草 (3\.4\.11\)](../../botscape/sedatives/lavender.md)
 * [Lean (2\.5\.6\)](../../chemscape/intoxicating_depressants/lean.md)
 
-### M [\#](#m)
+### M \#
 
 * [MDA (2\.7\.2\)](../../chemscape/empathogens_and_entactogens/mda.md)
 * [MDAI (2\.7\.3\)](../../chemscape/empathogens_and_entactogens/mdai.md)
@@ -176,7 +176,7 @@
 * [毛蕊花 (3\.4\.14\)](../../botscape/sedatives/mullein.md)
 * [木伦古 (3\.4\.15\)](../../botscape/sedatives/mulungu.md)
 
-### N [\#](#n)
+### N \#
 
 * [氧化亚氮 (2\.6\.10\)](../../chemscape/dissociatives/n2o.md)
 * [NM2AI (2\.3\.21\)](../../chemscape/stimulants/nm2ai.md)
@@ -184,14 +184,14 @@
 * [Noopept (2\.9\.7\)](../../chemscape/nootropics/noopept.md)
 * [肉豆蔻 (3\.7\.2\)](../../botscape/deliriants/nutmeg.md)
 
-### O [\#](#o)
+### O \#
 
 * [奥洛柳基 (3\.2\.10\)](../../botscape/psychedelics/ololiuqui.md)
 * [鸦片 (3\.8\.7\)](../../botscape/unclassified/opium.md)
 * [其他 (2\.4\.10\)](../../chemscape/anxiolytics_and_sedatives/others.md)
 * [羟考酮 (2\.5\.8\)](../../chemscape/intoxicating_depressants/oxycodone.md)
 
-### P [\#](#p)
+### P \#
 
 * [PPH (2\.3\.22\)](../../chemscape/stimulants/pph.md)
 * [PRL\-8\-53 (2\.9\.11\)](../../chemscape/nootropics/prl-8-53.md)
@@ -203,12 +203,12 @@
 * [普瑞巴林 (2\.4\.7\)](../../chemscape/anxiolytics_and_sedatives/pregabalin.md)
 * [吡溴唑仑 (2\.4\.8\)](../../chemscape/anxiolytics_and_sedatives/pyrazolam.md)
 
-### R [\#](#r)
+### R \#
 
 * [拉佩 (3\.8\.8\)](../../botscape/unclassified/rapey.md)
 * [红景天 (3\.4\.17\)](../../botscape/sedatives/rhodiola.md)
 
-### S [\#](#s)
+### S \#
 
 * [藏红花 (3\.4\.18\)](../../botscape/sedatives/saffron.md)
 * [萨卡纳 (3\.8\.9\)](../../botscape/unclassified/sakae_naa.md)
@@ -223,35 +223,35 @@
 * [圣约翰草 (3\.4\.19\)](../../botscape/sedatives/st_johns_wort.md)
 * [骆驼蓬 (3\.2\.17\)](../../botscape/psychedelics/syrian_rue.md)
 
-### T [\#](#t)
+### T \#
 
 * [TMA (2\.2\.21\)](../../chemscape/psychedelics/tma.md)
 * [TPA (2\.3\.24\)](../../chemscape/stimulants/tpa.md)
 * [烟草 (3\.8\.10\)](../../botscape/unclassified/tobacco.md)
 * [曲马多 (2\.5\.11\)](../../chemscape/intoxicating_depressants/tramadol.md)
 
-### U [\#](#u)
+### U \#
 
 * [乌布拉乌 (3\.6\.5\)](../../botscape/oneirogens/ubulawu.md)
 
-### V [\#](#v)
+### V \#
 
 * [缬草根 (3\.4\.21\)](../../botscape/sedatives/valerian_root.md)
 
-### W [\#](#w)
+### W \#
 
 * [白鼠尾草 (3\.4\.22\)](../../botscape/sedatives/white_sage.md)
 * [野生达加 (3\.4\.23\)](../../botscape/sedatives/wild_dagga.md)
 * [野生莴苣 (3\.4\.24\)](../../botscape/sedatives/wild_lettuce.md)
 * [苦艾 (3\.3\.11\)](../../botscape/stimulants/wormwood.md)
 
-### Y [\#](#y)
+### Y \#
 
 * [马黛茶 (3\.3\.12\)](../../botscape/stimulants/yerba_mate.md)
 * [育亨宾 (3\.3\.13\)](../../botscape/stimulants/yohimbe.md)
 * [约波 (3\.2\.18\)](../../botscape/psychedelics/yopo.md)
 
-### Z [\#](#z)
+### Z \#
 
 * [佐匹克隆 (2\.4\.9\)](../../chemscape/anxiolytics_and_sedatives/zopiclone.md)
 

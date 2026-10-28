@@ -19,24 +19,24 @@
 
 * **警告：** 由于个体体重、耐受、代谢与个人敏感性存在差异，请务必从更低剂量开始哦。 [参见负责任用药部分](/文档/负责任的用药索引页.md)
 
-**⇣ [口服](/文档/给药途径.md#口服)**
+**⇣ [口服](/文档/给药途径.md)**
 
 | [给药剂量](/文档/给药剂量.md)    |           |
 | ---------------------- | --------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 10 mg     |
-| [轻微](/文档/药物剂量分类.md#轻微) | 10-30 mg  |
-| [中等](/文档/药物剂量分类.md#中等) | 30-60 mg  |
-| [强烈](/文档/药物剂量分类.md#强烈) | 60-100 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 100 mg以上  |
+| [阈值](/文档/药物剂量分类.md) | 10 mg     |
+| [轻微](/文档/药物剂量分类.md) | 10-30 mg  |
+| [中等](/文档/药物剂量分类.md) | 30-60 mg  |
+| [强烈](/文档/药物剂量分类.md) | 60-100 mg |
+| [严重](/文档/药物剂量分类.md) | 100 mg以上  |
 
 | [药效时长](/文档/药效时长.md)      |           |
 | ------------------------ | --------- |
-| [总时长](/文档/药效时长.md#总时长)   | 4-10小时    |
-| [药效发作](/文档/药效时长.md#药效发作) | 20-45分钟   |
-| [药效上升](/文档/药效时长.md#药效上升) | 30-60分钟   |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 1.5-4.5小时 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1.5-4小时   |
-| [药效残余](/文档/药效时长.md#药效残余) | 1-8小时     |
+| [总时长](/文档/药效时长.md)   | 4-10小时    |
+| [药效发作](/文档/药效时长.md) | 20-45分钟   |
+| [药效上升](/文档/药效时长.md) | 30-60分钟   |
+| [药效达峰](/文档/药效时长.md) | 1.5-4.5小时 |
+| [药效褪去](/文档/药效时长.md) | 1.5-4小时   |
+| [药效残余](/文档/药效时长.md) | 1-8小时     |
 
 * **免责声明：** 本网站的[给药剂量](/文档/给药剂量.md)信息仅为基于用户与相关资料整理的教育性内容，并不构成推荐，准确性也应结合其他来源进一步核实呢。
 
@@ -48,33 +48,33 @@
 
 ## 目录
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
 
-  * [4.1 **躯体效应**](#躯体效应)
-  * [4.2 **视觉效应**](#视觉效应)
+  * 4.1 **躯体效应**
+  * 4.2 **视觉效应**
 
-    * [4.2.1 增强](#增强)
-    * [4.2.2 扭曲](#扭曲)
-    * [4.2.3 几何](#几何)
-    * [4.2.4 幻觉状态](#幻觉状态)
-  * [4.3 **认知效应**](#认知效应)
-  * [4.4 **听觉效应**](#听觉效应)
-  * [4.5 **多感官效应**](#多感官效应)
-  * [4.6 **超个人效应**](#超个人效应)
-  * [4.7 体验报告](#体验报告)
-* [5 毒性与伤害潜力](#毒性与伤害潜力)
+    * 4.2.1 增强
+    * 4.2.2 扭曲
+    * 4.2.3 几何
+    * 4.2.4 幻觉状态
+  * 4.3 **认知效应**
+  * 4.4 **听觉效应**
+  * 4.5 **多感官效应**
+  * 4.6 **超个人效应**
+  * 4.7 体验报告
+* 5 毒性与伤害潜力
 
-  * [5.1 耐受与成瘾潜力](#耐受与成瘾潜力)
-  * [5.2 危险的相互作用](#危险的相互作用)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
+  * 5.1 耐受与成瘾潜力
+  * 5.2 危险的相互作用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
 
-  * [8.1 讨论](#讨论)
-* [9 参考文献](#参考文献)
+  * 8.1 讨论
+* 9 参考文献
 
 ## 历史与文化
 
@@ -93,7 +93,7 @@
 
 补充信息：血清素能迷幻剂
 
-4C-D的[迷幻](/文档/药物分类/迷幻剂.md)效应被认为来源于其作为[部分激动剂](/文档/受体激动剂.md#部分激动剂)对[5-HT受体](/文档/血清素.md#5-ht系统)的效力。然而，这些相互作用在其中扮演的具体角色，以及它们究竟如何产生[迷幻](/文档/药物分类/迷幻剂.md)体验，至今仍未被完全阐明。
+4C-D的[迷幻](/文档/药物分类/迷幻剂.md)效应被认为来源于其作为[部分激动剂](/文档/受体激动剂.md)对[5-HT受体](/文档/血清素.md)的效力。然而，这些相互作用在其中扮演的具体角色，以及它们究竟如何产生[迷幻](/文档/药物分类/迷幻剂.md)体验，至今仍未被完全阐明。
 
 在一个论坛讨论串中，用户曾提出4C-D可能会作为[MAOI](/文档/单胺氧化酶抑制剂.md)发挥作用，这一推测基于它与5-MeO-7-Me-AET或[7-Me-AET](https://en.wikipedia.org/wiki/7-Methyl-%CE%B1-ethyltryptamine)在结构上的相似性；后者已被证明是一种强效MAOI和血清素释放剂。目前并没有证据支持4C-D也具有这些性质，不过在决定将这种物质与其他单胺能药物联用时，仍应将这一点纳入考虑呢。
 
@@ -130,7 +130,7 @@ _**免责声明：** 下列效应引自[***主观效应索引***](/药效/主观
 
 #### 扭曲
 
-* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md#熔化)、[流动](/药效/漂移.md#流动)、[呼吸](/药效/漂移.md#呼吸)与[形变](/药效/漂移.md#形变)）* —— 与其他迷幻剂相比，这种效应可以描述为结构复杂度较低、运动缓慢而平滑、外观静态且风格写实。
+* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md)、[流动](/药效/漂移.md)、[呼吸](/药效/漂移.md)与[形变](/药效/漂移.md)）* —— 与其他迷幻剂相比，这种效应可以描述为结构复杂度较低、运动缓慢而平滑、外观静态且风格写实。
 * **[视觉拖尾](/药效/视觉拖尾.md)**
 * **[残影](/药效/残影.md)**
 * **[颜色偏移](/药效/颜色偏移.md)**
@@ -191,7 +191,7 @@ _**免责声明：** 下列效应引自[***主观效应索引***](/药效/主观
 
 ## 毒性与伤害潜力
 
-补充信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)、[负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+补充信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)、[负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md)
 
 娱乐性使用4C-D的毒性与长期健康影响，似乎尚未在任何科学语境下得到研究，其确切毒性剂量也不清楚。这是因为4C-D作为一种[研究用化学品](/文档/研究用化学品.md)，几乎没有人体使用史呢。
 
@@ -244,11 +244,11 @@ _**免责声明：** 下列效应引自[***主观效应索引***](/药效/主观
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) [https://erowid.org/library/books_online/pihkal/pihkal008.shtml](https://erowid.org/library/books_online/pihkal/pihkal008.shtml)
-2. [↑](#cite_ref-2) [https://www.bluelight.org/xf/threads/4c-d-ariadne.859113/](https://www.bluelight.org/xf/threads/4c-d-ariadne.859113/)
-3. [↑](#cite_ref-3) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039).
-4. [↑](#cite_ref-4) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 10, 2019.
-5. [↑](#cite_ref-5) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
-6. [↑](#cite_ref-6) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
-7. [↑](#cite_ref-7) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-8. [↑](#cite_ref-8) United Kingdom. (1977). Misuse of Drugs Act 1971 (S.I. 1977/1243). London: The Stationery Office Limited. Retrieved July 5, 2017, from [http://www.legislation.gov.uk/uksi/1977/1243/made](http://www.legislation.gov.uk/uksi/1977/1243/made)
+1. ↑ [https://erowid.org/library/books_online/pihkal/pihkal008.shtml](https://erowid.org/library/books_online/pihkal/pihkal008.shtml)
+2. ↑ [https://www.bluelight.org/xf/threads/4c-d-ariadne.859113/](https://www.bluelight.org/xf/threads/4c-d-ariadne.859113/)
+3. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+4. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 10, 2019.
+5. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
+6. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 10, 2019.
+7. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+8. ↑ United Kingdom. (1977). Misuse of Drugs Act 1971 (S.I. 1977/1243). London: The Stationery Office Limited. Retrieved July 5, 2017, from [http://www.legislation.gov.uk/uksi/1977/1243/made](http://www.legislation.gov.uk/uksi/1977/1243/made)

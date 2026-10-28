@@ -14,7 +14,7 @@
 
 ![](/文件/image323.jpeg)![](/文件/image324.jpeg)
 
-**主观体验** [\#](#subjective-experience)
+**主观体验** \#
 --------------------------------------------------
 
 死藤水 是一种传统药用汤剂，在亚马逊原住民的仪式中被当作灵性药物使用。它的成分包括卡皮藤（banisteriopsis caapi）和含有 DMT 的植物叶子，比如绿九节（psychotria viridis）或 diplopterys cabrerana。准备过程至少需要几个小时，有时甚至要花上一天或更多时间呢。

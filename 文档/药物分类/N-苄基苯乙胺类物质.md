@@ -23,18 +23,18 @@ description:
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 N-苄基苯乙胺化合物列表](#N-苄基苯乙胺化合物列表)
-* [3 毒性和伤害潜能](#毒性和伤害潜能)
-    * [3.1 依赖性和滥用潜能](#依赖性和滥用潜能)
-    * [3.2 药物过量](#药物过量)
-    * [3.3 危险的相互作用](#危险的相互作用)
-        * [3.3.1 血清素综合征风险](#血清素综合征风险)
-* [4 法律地位](#法律地位)
-* [5 另见](#另见)
-* [6 外部链接](#外部链接)
-* [7 文献](#文献)
-* [8 参考资料](#参考资料)
+* 1 化学
+* 2 N-苄基苯乙胺化合物列表
+* 3 毒性和伤害潜能
+    * 3.1 依赖性和滥用潜能
+    * 3.2 药物过量
+    * 3.3 危险的相互作用
+        * 3.3.1 血清素综合征风险
+* 4 法律地位
+* 5 另见
+* 6 外部链接
+* 7 文献
+* 8 参考资料
 
 ## 化学
 
@@ -50,7 +50,7 @@ x 表示与亚类相关的可能取代基字符。
 
 | ***X*-NB…** <br> 此子类别专注于分子苯乙胺部分的苯环。 |
 | --- |
-| **25*x*-NB…** - 25*x*-NB… 化合物衍生自 [2C-x](/文档/药物分类/2C-x.md) 系列，其中 25 指的是苯环上 2 位和 5 位的两个甲氧基取代，而 *x* 用相应 2C-*x* 中的字母 *x* 表示任何取代。<br>例如：[25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md)、[25x-NBOH](/文档/药物分类/25x-NBOH.md)、25T-7-NBOMe。<br><br>***x1x2*-NB…** - 如果 N-苄基衍生物的苯乙胺部分没有官方认可的名称，但仅在 2、3、5 和/或 6 位有甲氧基取代，则 ***x1*** 将被指定为连接到苯环上的甲氧基位置。***x2*** 表示 4 位的取代。[\[1\]](#cite_note-1)<br>例如：236H-NBOMe、35C-NBOMe。<br><br>***x*-NB…** 或 **NB…-*x*** - 其中 ***x*** 可以表示已命名的苯乙胺化合物。如果可以使用其他符号代替，则应将其视为已过时（例如，应使用 25I-NBOMe 而不是 2C-I-NBOMe）。<br>例如：DOI-NBOMe、2C-B-FLY-NBOMe、麦斯卡林-NBOMe = NBOMe-麦斯卡林。 |
+| **25*x*-NB…** - 25*x*-NB… 化合物衍生自 [2C-x](/文档/药物分类/2C-x.md) 系列，其中 25 指的是苯环上 2 位和 5 位的两个甲氧基取代，而 *x* 用相应 2C-*x* 中的字母 *x* 表示任何取代。<br>例如：[25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md)、[25x-NBOH](/文档/药物分类/25x-NBOH.md)、25T-7-NBOMe。<br><br>***x1x2*-NB…** - 如果 N-苄基衍生物的苯乙胺部分没有官方认可的名称，但仅在 2、3、5 和/或 6 位有甲氧基取代，则 ***x1*** 将被指定为连接到苯环上的甲氧基位置。***x2*** 表示 4 位的取代。\[1\]<br>例如：236H-NBOMe、35C-NBOMe。<br><br>***x*-NB…** 或 **NB…-*x*** - 其中 ***x*** 可以表示已命名的苯乙胺化合物。如果可以使用其他符号代替，则应将其视为已过时（例如，应使用 25I-NBOMe 而不是 2C-I-NBOMe）。<br>例如：DOI-NBOMe、2C-B-FLY-NBOMe、麦斯卡林-NBOMe = NBOMe-麦斯卡林。 |
 
 | **…NB*X*** <br> 此子类别专注于分子 N-苄基取代的苯环。 |
 | --- |
@@ -167,7 +167,7 @@ x 表示与亚类相关的可能取代基字符。
 关于 [25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md) 系列，以及较小程度上的 [25x-NBOH](/文档/药物分类/25x-NBOH.md) 系列，药物过量是严重的。
 由于极高的效力和看似不可预测的效果，与许多其他物质相比，NBOMe 化合物的正常剂量和过量剂量之间的余地非常小。确切的中毒剂量尚不清楚，因为它似乎在很大程度上取决于个人生理状况，而不仅仅是剂量。然而，各种轶事报告表明，当超过 1000 μg 时开始出现危险的副作用，对于更敏感的人来说，大约 2000 μg 可能致命。也有文件记录了其他人幸存于更高剂量的情况，有时甚至没有任何主要副作用。
 
-在吸墨纸上的剂量也存在不确定性，因为很难铺设如此精确的剂量。因此，强烈不建议[鼻吸](../鼻腔喷雾指南.md)、雾化或饮用该物质的酊剂，这些方式已与许多记录在案的死亡事件有关[\[2\]](#cite_note-25Ifatal-2)[\[3\]](#cite_note-25Cfatal-3)[\[4\]](#cite_note-25Xfatal-4)。一项研究发现，25I-NBOMe 和 25C-NBOMe 吸墨纸含有药物含量较高的“热点”，意味着存在固有的过量风险。[\[5\]](#cite_note-5)
+在吸墨纸上的剂量也存在不确定性，因为很难铺设如此精确的剂量。因此，强烈不建议[鼻吸](../鼻腔喷雾指南.md)、雾化或饮用该物质的酊剂，这些方式已与许多记录在案的死亡事件有关\[2\]\[3\]\[4\]。一项研究发现，25I-NBOMe 和 25C-NBOMe 吸墨纸含有药物含量较高的“热点”，意味着存在固有的过量风险。\[5\]
 
 NBOMe 药物过量的效果通常是危险的[高心率](../药效/心率增快.md)、[高血压](../药效/血压升高.md)、[体温过高](../药效/体温升高.md)和显著的[血管收缩](../药效/血管收缩.md)[\[6\]](### **[认知效应](/药效/认知效应.md)** ![User.png](/文件/User.png)
 
@@ -196,7 +196,7 @@ NBOMe 药物过量的效果通常是危险的[高心率](../药效/心率增快.
 
 与以下物质结合使用可能会导致危险的高[血清素](../文档/血清素.md)水平。[血清素综合征](../文档/血清素综合征.md)需要立即就医，如果不治疗可能会致命。
 
-* **[单胺氧化酶抑制剂](../文档/单胺氧化酶抑制剂.md)** - 如[死藤水](../药物/死藤水.md)、骆驼蓬、苯乙肼、司来吉兰和吗氯贝胺。[\[10\]](#cite_note-10)
+* **[单胺氧化酶抑制剂](../文档/单胺氧化酶抑制剂.md)** - 如[死藤水](../药物/死藤水.md)、骆驼蓬、苯乙肼、司来吉兰和吗氯贝胺。\[10\]
 * **血清素释放剂** - 如 [MDMA](../药物/MDMA.md)、[4-FA](/文档/药物分类/2,5-二甲氧基苯丙胺类物质.md)、[甲基苯丙胺](../药物/甲基苯丙胺.md)、[甲基酮](../药物/甲卡西酮.md)和 [αMT](../药物/色胺类物质.md)。
 * **SSRIs** - 如西酞普兰和舍曲林。
 * **SNRIs** - 如[曲马多](../药物/曲马多.md)和文拉法辛。
@@ -208,7 +208,7 @@ NBOMe 药物过量的效果通常是危险的[高心率](../药效/心率增快.
 | --- | --- |
 
 * **美国：** 在美国，一些 NBx 化学品被列为附表 I 物质，其他可能被视为联邦模拟法案下的类似物。
-* **英国：** 由于 N-苄基苯乙胺的概括性条款，大多数合成的 NBx 物质在英国属于 A 类药物。[\[11\]](#cite_note-11) 任何未包含在该条款中的化合物，根据 2016 年 5 月 26 日生效的精神活性物质法案，生产、供应或进口均属违法。[\[12\]](#cite_note-12)
+* **英国：** 由于 N-苄基苯乙胺的概括性条款，大多数合成的 NBx 物质在英国属于 A 类药物。\[11\] 任何未包含在该条款中的化合物，根据 2016 年 5 月 26 日生效的精神活性物质法案，生产、供应或进口均属违法。\[12\]
 
 ## 另见
 
@@ -235,15 +235,15 @@ NBOMe 药物过量的效果通常是危险的[高心率](../药效/心率增快.
 
 ## 参考资料
 
-1. <a name="cite_note-1"></a>[↑](#cite_ref-1) Pottie, E., Kupriyanova, O. V., Brandt, A. L., Laprairie, R. B., Shevyrin, V. A., Stove, C. P. (9 April 2021). ["Serotonin 2A Receptor (5-HT 2A R) Activation by 25H-NBOMe Positional Isomers: In Vitro Functional Evaluation and Molecular Docking"](https://pubs.acs.org/doi/10.1021/acsptsci.0c00189). *ACS Pharmacology & Translational Science*. **4** (2): 479–487. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/acsptsci.0c00189](//doi.org/10.1021%2Facsptsci.0c00189). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2575-9108](//www.worldcat.org/issn/2575-9108).
-2. <a name="cite_note-25Ifatal-2"></a>[↑](#cite_ref-25Ifatal_2-0) [*Erowid 25I-NBOMe (2C-I-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_death.shtml)
-3. <a name="cite_note-25Cfatal-3"></a>[↑](#cite_ref-25Cfatal_3-0) [*Erowid 2C-C-NBOMe (25C-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_death.shtml)
-4. <a name="cite_note-25Xfatal-4"></a>[↑](#cite_ref-25Xfatal_4-0) [*Erowid NBOMe (Other or Unknown NBOMe-Compound) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/nbome/nbome_death.shtml)
-5. <a name="cite_note-5"></a>[↑](#cite_ref-5) Lützen, E., Holtkamp, M., Stamme, I., Schmid, R., Sperling, M., Pütz, M., Karst, U. (April 2020). ["Multimodal imaging of hallucinogens 25C‐ and 25I‐NBOMe on blotter papers"](https://onlinelibrary.wiley.com/doi/10.1002/dta.2751). *Drug Testing and Analysis*. **12** (4): 465–471. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.2751](//doi.org/10.1002%2Fdta.2751). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603).
-6. <a name="cite_note-6"></a>[↑](#cite_ref-6) Marchi, N. C., Scherer, J. N., Fara, L. S., Remy, L., Ornel, R., Reis, M., Zamboni, A., Paim, M., Fiorentin, T. R., Wayhs, C. A. Y., Von Diemen, L., Pechansky, F., Kessler, F. H. P., Limberger, R. P. (1 March 2019). ["Clinical and Toxicological Profile of NBOMes: A Systematic Review"](https://www.sciencedirect.com/science/article/pii/S0033318218304882). *Psychosomatics*. **60** (2): 129–138. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.psym.2018.11.002](//doi.org/10.1016%2Fj.psym.2018.11.002). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3182](//www.worldcat.org/issn/0033-3182).
-7. <a name="cite_note-7"></a>[↑](#cite_ref-7) Yoon, K. S., Yun, J., Kim, Y.-H., Shin, J., Kim, S. J., Seo, J.-W., Hyun, S.-A., Suh, S. K., Cha, H. J. (1 April 2019). ["2-(2,5-Dimethoxy-4-methylphenyl)-N-(2-methoxybenzyl)ethanamine (25D-NBOMe) and N-(2-methoxybenzyl)-2,5-dimethoxy-4-chlorophenethylamine (25C-NBOMe) induce adverse cardiac effects in vitro and in vivo"](https://www.sciencedirect.com/science/article/pii/S0378427418317533). *Toxicology Letters*. **304**: 50–57. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.toxlet.2019.01.004](//doi.org/10.1016%2Fj.toxlet.2019.01.004). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0378-4274](//www.worldcat.org/issn/0378-4274).
-8. <a name="cite_note-8"></a>[↑](#cite_ref-8) <https://psychonautwiki.org/wiki/File:Nbome_death_news_i2013e0190_disp.jpg> (Original Link Preserved per instruction for external/image source if not in file system)
-9. <a name="cite_note-9"></a>[↑](#cite_ref-9) <https://psychonautwiki.org/wiki/File:Nbome_death_news_i2013e0191_disp.jpg> (Original Link Preserved per instruction for external/image source if not in file system)
-10. <a name="cite_note-10"></a>[↑](#cite_ref-10) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-11. <a name="cite_note-11"></a>[↑](#cite_ref-11) United Kingdom. (2014). Misuse of Drugs Act 1971 (S.I. 2014/1106). London: The Stationery Office Limited. Retrieved July 5, 2017, from <http://www.legislation.gov.uk/uksi/2014/1106/made>
-12. <a name="cite_note-12"></a>[↑](#cite_ref-12) Psychoactive Substances Act 2016 (Legislation.gov.uk) | <http://www.legislation.gov.uk/ukpga/2016/2/contents/enacted>
+1. <a name="cite_note-1"></a>↑ Pottie, E., Kupriyanova, O. V., Brandt, A. L., Laprairie, R. B., Shevyrin, V. A., Stove, C. P. (9 April 2021). ["Serotonin 2A Receptor (5-HT 2A R) Activation by 25H-NBOMe Positional Isomers: In Vitro Functional Evaluation and Molecular Docking"](https://pubs.acs.org/doi/10.1021/acsptsci.0c00189). *ACS Pharmacology & Translational Science*. **4** (2): 479–487. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/acsptsci.0c00189](//doi.org/10.1021%2Facsptsci.0c00189). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2575-9108](//www.worldcat.org/issn/2575-9108).
+2. <a name="cite_note-25Ifatal-2"></a>↑ [*Erowid 25I-NBOMe (2C-I-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_death.shtml)
+3. <a name="cite_note-25Cfatal-3"></a>↑ [*Erowid 2C-C-NBOMe (25C-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_death.shtml)
+4. <a name="cite_note-25Xfatal-4"></a>↑ [*Erowid NBOMe (Other or Unknown NBOMe-Compound) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/nbome/nbome_death.shtml)
+5. <a name="cite_note-5"></a>↑ Lützen, E., Holtkamp, M., Stamme, I., Schmid, R., Sperling, M., Pütz, M., Karst, U. (April 2020). ["Multimodal imaging of hallucinogens 25C‐ and 25I‐NBOMe on blotter papers"](https://onlinelibrary.wiley.com/doi/10.1002/dta.2751). *Drug Testing and Analysis*. **12** (4): 465–471. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.2751](//doi.org/10.1002%2Fdta.2751). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603).
+6. <a name="cite_note-6"></a>↑ Marchi, N. C., Scherer, J. N., Fara, L. S., Remy, L., Ornel, R., Reis, M., Zamboni, A., Paim, M., Fiorentin, T. R., Wayhs, C. A. Y., Von Diemen, L., Pechansky, F., Kessler, F. H. P., Limberger, R. P. (1 March 2019). ["Clinical and Toxicological Profile of NBOMes: A Systematic Review"](https://www.sciencedirect.com/science/article/pii/S0033318218304882). *Psychosomatics*. **60** (2): 129–138. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.psym.2018.11.002](//doi.org/10.1016%2Fj.psym.2018.11.002). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3182](//www.worldcat.org/issn/0033-3182).
+7. <a name="cite_note-7"></a>↑ Yoon, K. S., Yun, J., Kim, Y.-H., Shin, J., Kim, S. J., Seo, J.-W., Hyun, S.-A., Suh, S. K., Cha, H. J. (1 April 2019). ["2-(2,5-Dimethoxy-4-methylphenyl)-N-(2-methoxybenzyl)ethanamine (25D-NBOMe) and N-(2-methoxybenzyl)-2,5-dimethoxy-4-chlorophenethylamine (25C-NBOMe) induce adverse cardiac effects in vitro and in vivo"](https://www.sciencedirect.com/science/article/pii/S0378427418317533). *Toxicology Letters*. **304**: 50–57. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.toxlet.2019.01.004](//doi.org/10.1016%2Fj.toxlet.2019.01.004). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0378-4274](//www.worldcat.org/issn/0378-4274).
+8. <a name="cite_note-8"></a>↑ <https://psychonautwiki.org/wiki/File:Nbome_death_news_i2013e0190_disp.jpg> (Original Link Preserved per instruction for external/image source if not in file system)
+9. <a name="cite_note-9"></a>↑ <https://psychonautwiki.org/wiki/File:Nbome_death_news_i2013e0191_disp.jpg> (Original Link Preserved per instruction for external/image source if not in file system)
+10. <a name="cite_note-10"></a>↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+11. <a name="cite_note-11"></a>↑ United Kingdom. (2014). Misuse of Drugs Act 1971 (S.I. 2014/1106). London: The Stationery Office Limited. Retrieved July 5, 2017, from <http://www.legislation.gov.uk/uksi/2014/1106/made>
+12. <a name="cite_note-12"></a>↑ Psychoactive Substances Act 2016 (Legislation.gov.uk) | <http://www.legislation.gov.uk/ukpga/2016/2/contents/enacted>

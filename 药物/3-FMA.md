@@ -37,7 +37,7 @@
 
 **免责声明：** 本站的[给药剂量](/文档/给药剂量.md)信息收集自用户和[相关资源](/文档/科学信息索引页.md)，仅供教育用途。这不是推荐，应与其他来源核实以确保准确性哦。
 
-| **[药物联用](#危险的药物联用)** |
+| **药物联用** |
 | --- |
 | [酒精](/药物/酒精.md) |
 | [GHB](/药物/GHB.md) |
@@ -68,21 +68,21 @@
 鉴于它强效的精神兴奋作用、可能成瘾的特性以及未知的毒性资料，如果一定要使用这种物质，**强烈建议**大家采取适当的[伤害减少措施](/文档/负责任的用药索引页.md)哦。
 
 ## 目录
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 躯体效应](#躯体效应)
-    * [3.2 药效残余](#药效残余)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 体验报告](#体验报告)
-* [4 毒性和伤害潜能](#毒性和伤害潜能)
-    * [4.1 耐受性和成瘾潜能](#耐受性和成瘾潜能)
-    * [4.2 精神病](#精神病)
-    * [4.3 危险的药物联用](#危险的药物联用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考资料](#参考资料)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 躯体效应
+    * 3.2 药效残余
+    * 3.3 认知效应
+    * 3.4 体验报告
+* 4 毒性和伤害潜能
+    * 4.1 耐受性和成瘾潜能
+    * 4.2 精神病
+    * 4.3 危险的药物联用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考资料
 
 ## 化学
 
@@ -234,22 +234,22 @@ _**免责声明：** 下面列出的效应引用自[***主观效应索引***](/�
 
 ## 参考资料
 
-1. [↑](#cite_ref-1) Rösner, P., Quednow, B., Girreser, U., Junge, T. (March 2005). ["Isomeric Fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs)"](https://linkinghub.elsevier.com/retrieve/pii/S0379073804003251). *Forensic Science International*. **148** (2–3): 143–156. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.forsciint.2004.05.003](//doi.org/10.1016%2Fj.forsciint.2004.05.003). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0379-0738](//www.worldcat.org/issn/0379-0738). 
-2. [↑](#cite_ref-2) Smart, B. E. (1 June 2001). ["Fluorine substituent effects (on bioactivity)"](https://www.sciencedirect.com/science/article/pii/S002211390100375X). *Journal of Fluorine Chemistry*. **109** (1): 3–11. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/S0022-1139(01)00375-X](//doi.org/10.1016%2FS0022-1139%2801%2900375-X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-1139](//www.worldcat.org/issn/0022-1139). 
-3. ↑ [3.0](#cite_ref-Shoptaw2009_3-0) [3.1](#cite_ref-Shoptaw2009_3-1) [3.2](#cite_ref-Shoptaw2009_3-2) Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1465-1858](//www.worldcat.org/issn/1465-1858). 
-4. [↑](#cite_ref-4) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563 "wikipedia:Special:BookSources/9780195030563"). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1 "Category:CS1 maint: Extra text (page does not exist)"))
-5. [↑](#cite_ref-5) <http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf>
-6. [↑](#cite_ref-Greenwald2010_6-0) Greenwald, M. K., Lundahl, L. H., Steinmiller, C. L. (December 2010). ["Sustained Release d-Amphetamine Reduces Cocaine but not 'Speedball'-Seeking in Buprenorphine-Maintained Volunteers: A Test of Dual-Agonist Pharmacotherapy for Cocaine/Heroin Polydrug Abusers"](http://www.nature.com/articles/npp2010175). *Neuropsychopharmacology*. **35** (13): 2624–2637. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1038/npp.2010.175](//doi.org/10.1038%2Fnpp.2010.175). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0893-133X](//www.worldcat.org/issn/0893-133X). 
-7. [↑](#cite_ref-Siciliano2018_7-0) Siciliano, C. A., Saha, K., Calipari, E. S., Fordahl, S. C., Chen, R., Khoshbouei, H., Jones, S. R. (10 January 2018). ["Amphetamine Reverses Escalated Cocaine Intake via Restoration of Dopamine Transporter Conformation"](https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.2604-17.2017). *The Journal of Neuroscience*. **38** (2): 484–497. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1523/JNEUROSCI.2604-17.2017](//doi.org/10.1523%2FJNEUROSCI.2604-17.2017). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0270-6474](//www.worldcat.org/issn/0270-6474). 
-8. [↑](#cite_ref-Krystal2005_8-0) Krystal, J. H., Perry, E. B., Gueorguieva, R., Belger, A., Madonick, S. H., Abi-Dargham, A., Cooper, T. B., MacDougall, L., Abi-Saab, W., D’Souza, D. C. (1 September 2005). ["Comparative and Interactive Human Psychopharmacologic Effects of Ketamine and Amphetamine: Implications for Glutamatergic and Dopaminergic Model Psychoses and Cognitive Function"](http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001/archpsyc.62.9.985). *Archives of General Psychiatry*. **62** (9): 985. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1001/archpsyc.62.9.985](//doi.org/10.1001%2Farchpsyc.62.9.985). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0003-990X](//www.worldcat.org/issn/0003-990X). 
-9. [↑](#cite_ref-9) Branch, L. S. (2022), [*Consolidated federal laws of Canada, Controlled Drugs and Substances Act*](https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html) 
-10. [↑](#cite_ref-10) 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | <http://www.sfda.gov.cn/WS01/CL0056/130753.html>
-11. [↑](#cite_ref-11) [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/) 
-12. [↑](#cite_ref-12) ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019. 
-13. [↑](#cite_ref-13) ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl114s1999.pdf%27%5D) (in German). Bundesanzeiger Verlag. Retrieved December 19, 2019. 
-14. [↑](#cite_ref-14) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019. 
-15. [↑](#cite_ref-15) [*Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act – New Zealand Legislation*](https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html) 
-16. [↑](#cite_ref-16) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
-17. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_17-0) [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm) 
-18. [↑](#cite_ref-List_of_illegal_substances_for_law_18-0) <https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf>
-19. [↑](#cite_ref-19) [*Misuse of Drugs Act 1971*](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I)
+1. ↑ Rösner, P., Quednow, B., Girreser, U., Junge, T. (March 2005). ["Isomeric Fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs)"](https://linkinghub.elsevier.com/retrieve/pii/S0379073804003251). *Forensic Science International*. **148** (2–3): 143–156. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2004.05.003](//doi.org/10.1016%2Fj.forsciint.2004.05.003). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738). 
+2. ↑ Smart, B. E. (1 June 2001). ["Fluorine substituent effects (on bioactivity)"](https://www.sciencedirect.com/science/article/pii/S002211390100375X). *Journal of Fluorine Chemistry*. **109** (1): 3–11. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0022-1139(01)00375-X](//doi.org/10.1016%2FS0022-1139%2801%2900375-X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-1139](//www.worldcat.org/issn/0022-1139). 
+3. ↑ 3.0 3.1 3.2 Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858). 
+4. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+5. ↑ <http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf>
+6. ↑ Greenwald, M. K., Lundahl, L. H., Steinmiller, C. L. (December 2010). ["Sustained Release d-Amphetamine Reduces Cocaine but not 'Speedball'-Seeking in Buprenorphine-Maintained Volunteers: A Test of Dual-Agonist Pharmacotherapy for Cocaine/Heroin Polydrug Abusers"](http://www.nature.com/articles/npp2010175). *Neuropsychopharmacology*. **35** (13): 2624–2637. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/npp.2010.175](//doi.org/10.1038%2Fnpp.2010.175). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0893-133X](//www.worldcat.org/issn/0893-133X). 
+7. ↑ Siciliano, C. A., Saha, K., Calipari, E. S., Fordahl, S. C., Chen, R., Khoshbouei, H., Jones, S. R. (10 January 2018). ["Amphetamine Reverses Escalated Cocaine Intake via Restoration of Dopamine Transporter Conformation"](https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.2604-17.2017). *The Journal of Neuroscience*. **38** (2): 484–497. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1523/JNEUROSCI.2604-17.2017](//doi.org/10.1523%2FJNEUROSCI.2604-17.2017). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0270-6474](//www.worldcat.org/issn/0270-6474). 
+8. ↑ Krystal, J. H., Perry, E. B., Gueorguieva, R., Belger, A., Madonick, S. H., Abi-Dargham, A., Cooper, T. B., MacDougall, L., Abi-Saab, W., D’Souza, D. C. (1 September 2005). ["Comparative and Interactive Human Psychopharmacologic Effects of Ketamine and Amphetamine: Implications for Glutamatergic and Dopaminergic Model Psychoses and Cognitive Function"](http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001/archpsyc.62.9.985). *Archives of General Psychiatry*. **62** (9): 985. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1001/archpsyc.62.9.985](//doi.org/10.1001%2Farchpsyc.62.9.985). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0003-990X](//www.worldcat.org/issn/0003-990X). 
+9. ↑ Branch, L. S. (2022), [*Consolidated federal laws of Canada, Controlled Drugs and Substances Act*](https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html) 
+10. ↑ 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | <http://www.sfda.gov.cn/WS01/CL0056/130753.html>
+11. ↑ [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/) 
+12. ↑ ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019. 
+13. ↑ ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl114s1999.pdf%27%5D) (in German). Bundesanzeiger Verlag. Retrieved December 19, 2019. 
+14. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019. 
+15. ↑ [*Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act – New Zealand Legislation*](https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html) 
+16. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
+17. ↑ [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm) 
+18. ↑ <https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf>
+19. ↑ [*Misuse of Drugs Act 1971*](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I)

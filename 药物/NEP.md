@@ -24,35 +24,35 @@ NEP 最初于 2016 年出现在[研究用化学品](/文档/研究用化学品.m
 | 精神活性类别 | *[兴奋剂](/文档/药物分类/兴奋剂.md)* |
 | 化学类别 | *[卡西酮类物质](/文档/药物分类/卡西酮类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
-| - **⚠️ 警告：** 务必从低剂量开始尝试。请参阅[伤害减少措施](/文档/负责任的用药索引页.md)喵。 | ⇣ [抽吸](/文档/给药途径.md#抽吸) |
+| - **⚠️ 警告：** 务必从低剂量开始尝试。请参阅[伤害减少措施](/文档/负责任的用药索引页.md)喵。 | ⇣ [抽吸](/文档/给药途径.md) |
 | **[给药剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 5 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 5 - 15 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 15 - 30 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 30 - 50 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 50 mg + |
+| [阈值](/文档/药物剂量分类.md) | 5 mg |
+| [轻微](/文档/药物剂量分类.md) | 5 - 15 mg |
+| [中等](/文档/药物剂量分类.md) | 15 - 30 mg |
+| [强烈](/文档/药物剂量分类.md) | 30 - 50 mg |
+| [严重](/文档/药物剂量分类.md) | 50 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 1.5 - 3 小时 |
-| | ⇣ [口服](/文档/给药途径.md#口服) |
-| [阈值](/文档/药物剂量分类.md#阈值) | 10 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 10 - 25 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 25 - 40 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 40 - 60 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 60 mg + |
-| [总时长](/文档/药效时长.md#总时长) | 4 - 6 小时 |
-| | ⇣ [鼻吸](/文档/给药途径.md#鼻吸) |
-| [阈值](/文档/药物剂量分类.md#阈值) | 10 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 10 - 20 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 20 - 40 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 40 - 60 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 60 mg + |
+| [总时长](/文档/药效时长.md) | 1.5 - 3 小时 |
+| | ⇣ [口服](/文档/给药途径.md) |
+| [阈值](/文档/药物剂量分类.md) | 10 mg |
+| [轻微](/文档/药物剂量分类.md) | 10 - 25 mg |
+| [中等](/文档/药物剂量分类.md) | 25 - 40 mg |
+| [强烈](/文档/药物剂量分类.md) | 40 - 60 mg |
+| [严重](/文档/药物剂量分类.md) | 60 mg + |
+| [总时长](/文档/药效时长.md) | 4 - 6 小时 |
+| | ⇣ [鼻吸](/文档/给药途径.md) |
+| [阈值](/文档/药物剂量分类.md) | 10 mg |
+| [轻微](/文档/药物剂量分类.md) | 10 - 20 mg |
+| [中等](/文档/药物剂量分类.md) | 20 - 40 mg |
+| [强烈](/文档/药物剂量分类.md) | 40 - 60 mg |
+| [严重](/文档/药物剂量分类.md) | 60 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 1 - 3 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 1 - 8 分钟 |
-| [药效上升](/文档/药效时长.md#药效上升) | 5 - 15 分钟 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 30 - 60 分钟 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 30 - 90 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 1 - 4 小时 |
+| [总时长](/文档/药效时长.md) | 1 - 3 小时 |
+| [药效发作](/文档/药效时长.md) | 1 - 8 分钟 |
+| [药效上升](/文档/药效时长.md) | 5 - 15 分钟 |
+| [药效达峰](/文档/药效时长.md) | 30 - 60 分钟 |
+| [药效褪去](/文档/药效时长.md) | 30 - 90 分钟 |
+| [药效残余](/文档/药效时长.md) | 1 - 4 小时 |
 | - **免责声明：** 这里的剂量信息仅出于教育目的。这并不是用药建议哦。 | |
 | **药物联用** | |
 | 酒精 | 💔 联用危险 |
@@ -131,7 +131,7 @@ _**免责声明：** 下面列出的效应引用了[主观效应索引](/药效/
 
 ## 毒性与伤害潜力
 
-更多信息请参阅：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息请参阅：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 目前似乎还没有在任何科学背景下研究过娱乐性使用 NEP 的毒性和长期健康影响，确切的致毒剂量也是未知的喵。这是因为 NEP 的人类使用历史极其短暂。来自社区中尝试过 NEP 的人们的早期轶事证据表明，仅仅尝试中低剂量的这种物质并有节制、受控地使用，似乎没有发现任何负面的健康影响（但同样，谁也不能完全保证哦）。
 
@@ -202,10 +202,10 @@ _**免责声明：** 下面列出的效应引用了[主观效应索引](/药效/
 ## 参考文献
 
 1. [↑] Duart-Castells, L., 等 (2021年3月). ["Role of amino terminal substitutions..."](https://linkinghub.elsevier.com/retrieve/pii/S0028390821000290). *Neuropharmacology*.
-2. [↑](#cite_ref-2) Liu, C., 等 (2017年8月). ["Identification and analytical characterization of nine synthetic cathinone derivatives..."](https://onlinelibrary.wiley.com/doi/10.1002/dta.2136). *Drug Testing and Analysis*.
+2. ↑ Liu, C., 等 (2017年8月). ["Identification and analytical characterization of nine synthetic cathinone derivatives..."](https://onlinelibrary.wiley.com/doi/10.1002/dta.2136). *Drug Testing and Analysis*.
 3. [↑] Shoptaw, S. J., 等 (2009). ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*.
-4. [↑](#cite_ref-4) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse*.
-5. [↑](#cite_ref-5) Talaie, H., 等 (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*.
-6. [↑](#cite_ref-6) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext).
-7. [↑](#cite_ref-8) [巴西关于合成非法药物的新禁令](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil)
-8. [↑](#cite_ref-16) [荷兰关于策划药的禁令](https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs)
+4. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse*.
+5. ↑ Talaie, H., 等 (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*.
+6. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext).
+7. ↑ [巴西关于合成非法药物的新禁令](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil)
+8. ↑ [荷兰关于策划药的禁令](https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs)

@@ -68,7 +68,7 @@ description:
 
 > **免责声明：** FreeODwiki 的[剂量](/文档/给药剂量.md)信息是基于用户报告和网络资源收集的，仅供教育用途喵。这不是医疗建议，请务必多方核实，确保准确性哦。
 
-### ⚠️ [危险的药物联用](#Dangerous_interactions)
+### ⚠️ 危险的药物联用
 *   **[大麻](/药物/大麻.md)**
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)**
 *   **[曲马多](/药物/曲马多.md)**
@@ -77,31 +77,31 @@ description:
 ---
 
 ## 目录
-*   [1 历史与文化](#History_and_culture)
-*   [2 化学](#Chemistry)
-*   [3 药理学](#Pharmacology)
-*   [4 主观效应](#Subjective_effects)
-    *   [4.1 躯体效应](#Physical_effects)
-    *   [4.2 视觉效应](#Visual_effects)
-        *   [4.2.1 增强](#Enhancements)
-        *   [4.2.2 扭曲](#Distortions)
-        *   [4.2.3 几何](#Geometry)
-        *   [4.2.4 幻觉状态](#Hallucinatory_states)
-    *   [4.3 认知效应](#Cognitive_effects)
-    *   [4.4 听觉效应](#Auditory_effects)
-    *   [4.5 多感官效应](#Multi-sensory_effects)
-    *   [4.6 超个人效应](#Transpersonal_effects)
-    *   [4.7 药物联用效应](#Combination_effects)
-    *   [4.8 体验报告](#Experience_reports)
-*   [5 毒性与伤害潜能](#Toxicity_and_harm_potential)
-    *   [5.1 依赖性与滥用潜力](#Dependence_and_abuse_potential)
-    *   [5.2 危险的相互作用](#Dangerous_interactions)
-*   [6 法律地位](#Legal_status)
-*   [7 另见](#See_also)
-*   [8 外部链接](#External_links)
-    *   [8.1 论坛讨论](#Forum_discussion)
-*   [9 文献](#Literature)
-*   [10 参考资料](#References)
+*   1 历史与文化
+*   2 化学
+*   3 药理学
+*   4 主观效应
+    *   4.1 躯体效应
+    *   4.2 视觉效应
+        *   4.2.1 增强
+        *   4.2.2 扭曲
+        *   4.2.3 几何
+        *   4.2.4 幻觉状态
+    *   4.3 认知效应
+    *   4.4 听觉效应
+    *   4.5 多感官效应
+    *   4.6 超个人效应
+    *   4.7 药物联用效应
+    *   4.8 体验报告
+*   5 毒性与伤害潜能
+    *   5.1 依赖性与滥用潜力
+    *   5.2 危险的相互作用
+*   6 法律地位
+*   7 另见
+*   8 外部链接
+    *   8.1 论坛讨论
+*   9 文献
+*   10 参考资料
 
 ## 历史与文化
 

@@ -15,7 +15,7 @@ description:
 | --- | --- |
 | [![2C-E.png](/文件/2C-E.png)](/文件/2C-E.png) | |
 | **化学命名** | |
-| 俗名 | *2C-E, 永恒[\[1\]](#cite_note-pubchemSYN-1), "水锈"[\[1\]](#cite_note-pubchemSYN-1)* |
+| 俗名 | *2C-E, 永恒\[1\], "水锈"\[1\]* |
 | 取代名称 | *2,5-二甲氧基-4-乙基苯乙胺* |
 | 系统名称 | *2-(4-乙基-2,5-二甲氧基苯基)乙胺* |
 | **分类归属** | |
@@ -50,7 +50,7 @@ description:
 | [药效褪去](/文档/药效时长.md) | 1 - 2 小时 |
 | [药效残余](/文档/药效时长.md) | 2 - 4 小时 |
 | **[免责声明](/关于本站/关于本站.md):** 本站的[给药剂量](/文档/给药剂量.md)信息收集自用户和[资源](/关于本站/关于本站.md)，仅供教育目的哦。这不是推荐，应该通过其他来源核实准确性呢。 |  |
-| [药物联用](#dangerous_interactions) | |
+| 药物联用 | |
 | 大麻 | |
 | 兴奋剂 | |
 | 曲马多 | |
@@ -58,9 +58,9 @@ description:
 
 
 
-**2,5-二甲氧基-4-乙基苯乙胺**（也被称为 **2C-E**，俗称 **"水锈"**[\[1\]](#cite_note-pubchemSYN-1) 和 **"永恒"**[\[1\]](#cite_note-pubchemSYN-1)）是一种鲜为人知的[迷幻剂](/文档/药物分类/迷幻剂.md)，属于[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)。它是[2,5-二甲氧基苯乙胺类物质](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md)家族的一员，与经典的迷幻剂[麦斯卡林](/药物/麦斯卡林.md)关系密切呢。像其他迷幻剂一样，人们认为它通过结合大脑中的[血清素](/文档/血清素.md)受体产生效果，尽管具体的机制还不太清楚嘛。
+**2,5-二甲氧基-4-乙基苯乙胺**（也被称为 **2C-E**，俗称 **"水锈"**\[1\] 和 **"永恒"**\[1\]）是一种鲜为人知的[迷幻剂](/文档/药物分类/迷幻剂.md)，属于[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)。它是[2,5-二甲氧基苯乙胺类物质](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md)家族的一员，与经典的迷幻剂[麦斯卡林](/药物/麦斯卡林.md)关系密切呢。像其他迷幻剂一样，人们认为它通过结合大脑中的[血清素](/文档/血清素.md)受体产生效果，尽管具体的机制还不太清楚嘛。
 
-2C-E 最早由 [亚历山大·舒尔金](/文档/关于本站/关于FreeODwiki.md) 在1977年合成并进行了人体活性测试，[\[2\]](#cite_note-Shulgin1980-2) 他在1991年的书《[PiHKAL](/文档/关于本站/关于FreeODwiki.md)》（"我所知和所爱的苯乙胺"）中记录了他的发现。[\[3\]](#cite_note-PiHKAL-3) 它大约在2004年开始出现在查获的毒品中。[\[4\]](#cite_note-4) 虽然主要作为[研究用化学品](/文档/研究用化学品.md)在网上分发，但有时也在街头作为“麦斯卡林”或“合成麦斯卡林”分发哦。
+2C-E 最早由 [亚历山大·舒尔金](/文档/关于本站/关于FreeODwiki.md) 在1977年合成并进行了人体活性测试，\[2\] 他在1991年的书《[PiHKAL](/文档/关于本站/关于FreeODwiki.md)》（"我所知和所爱的苯乙胺"）中记录了他的发现。\[3\] 它大约在2004年开始出现在查获的毒品中。\[4\] 虽然主要作为[研究用化学品](/文档/研究用化学品.md)在网上分发，但有时也在街头作为“麦斯卡林”或“合成麦斯卡林”分发哦。
 
 [主观效应](/文档/关于本站/关于FreeODwiki.md)包括[睁眼和闭眼视觉](/药效/视觉效应.md)、[时间感知扭曲](/药效/认知效应.md)、[内省增强](/药效/认知效应.md)、[自我消解](/药效/认知效应.md)和[欣快感](/药效/躯体欣快感.md)。用户报告将 2C-E 描述为一种高度不可预测、剂量敏感的迷幻剂，能够产生强烈的视觉扭曲以及显著的“身体负荷”，包括恶心和身体不适呢。
 
@@ -69,41 +69,41 @@ description:
 目录
 --------
 
-* [1 历史与文化](#history_and_culture)
-* [2 化学](#chemistry)
-* [3 药理学](#pharmacology)
-* [4 主观效应](#subjective_effects)
-    + [4.1 **躯体效应**](#physical_effects)
-    + [4.2 **视觉效应**](#visual_effects)
-        - [4.2.1 视觉增强](#enhancements)
-        - [4.2.2 视觉扭曲](#distortions)
-        - [4.2.3 几何图形](#geometry)
-        - [4.2.4 幻觉状态](#hallucinatory_states)
-    + [4.3 **认知效应**](#cognitive_effects)
-    + [4.4 **听觉效应**](#auditory_effects)
-    + [4.5 **多感官效应**](#multi-sensory_effects)
-    + [4.6 **超个人效应**](#transpersonal_effects)
-    + [4.7 组合效应](#combination_effects)
-    + [4.8 体验报告](#experience_reports)
-* [5 毒性与伤害潜力](#toxicity_and_harm_potential)
-    + [5.1 耐受性与成瘾潜力](#tolerance_and_addiction_potential)
-    + [5.2 危险的相互作用](#dangerous_interactions)
-* [6 法律地位](#legal_status)
-* [7 另见](#see_also)
-* [8 外部链接](#external_links)
-    + [8.1 讨论](#discussion)
-* [9 参考资料](#references)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
+    + 4.1 **躯体效应**
+    + 4.2 **视觉效应**
+        - 4.2.1 视觉增强
+        - 4.2.2 视觉扭曲
+        - 4.2.3 几何图形
+        - 4.2.4 幻觉状态
+    + 4.3 **认知效应**
+    + 4.4 **听觉效应**
+    + 4.5 **多感官效应**
+    + 4.6 **超个人效应**
+    + 4.7 组合效应
+    + 4.8 体验报告
+* 5 毒性与伤害潜力
+    + 5.1 耐受性与成瘾潜力
+    + 5.2 危险的相互作用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+    + 8.1 讨论
+* 9 参考资料
 
 ## 历史与文化 <a name="history_and_culture"></a>
 
 | ![History icon.png](/文件/History_icon.png) | **这个 *历史与文化* 章节是个[小条目](/文档/关于本站/关于FreeODwiki.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩充它](/文档/关于本站/关于FreeODwiki.md)来帮忙哦。* |
 | --- | --- |
 
-2C-E 最早由 [亚历山大·舒尔金](/文档/关于本站/关于FreeODwiki.md) 在1977年合成并进行了人体活性测试，[\[2\]](#cite_note-Shulgin1980-2) 他在1991年的书《[PiHKAL](/文档/关于本站/关于FreeODwiki.md)》（"我所知和所爱的苯乙胺"）中记录了他的发现。[\[3\]](#cite_note-PiHKAL-3) 它是所谓的“神奇半打”的一员，这指的是舒尔金自评的最重要的[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)衍生化合物，除[麦斯卡林](/药物/麦斯卡林.md)外，所有这些都是他自己开发和合成的。它们在《[PiHKAL](/文档/关于本站/关于FreeODwiki.md)》的第一本书中可以找到，分别是：[麦斯卡林](/药物/麦斯卡林.md)、[DOM](/药物/DOM.md)、[2C-B](/药物/2C-B.md)、2C-E、[2C-T-2](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md) 和 [2C-T-7](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md)。
+2C-E 最早由 [亚历山大·舒尔金](/文档/关于本站/关于FreeODwiki.md) 在1977年合成并进行了人体活性测试，\[2\] 他在1991年的书《[PiHKAL](/文档/关于本站/关于FreeODwiki.md)》（"我所知和所爱的苯乙胺"）中记录了他的发现。\[3\] 它是所谓的“神奇半打”的一员，这指的是舒尔金自评的最重要的[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)衍生化合物，除[麦斯卡林](/药物/麦斯卡林.md)外，所有这些都是他自己开发和合成的。它们在《[PiHKAL](/文档/关于本站/关于FreeODwiki.md)》的第一本书中可以找到，分别是：[麦斯卡林](/药物/麦斯卡林.md)、[DOM](/药物/DOM.md)、[2C-B](/药物/2C-B.md)、2C-E、[2C-T-2](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md) 和 [2C-T-7](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md)。
 
 ## 化学 <a name="chemistry"></a>
 
-2C-E 或 2,5-二甲氧基-4-乙基苯乙胺是一种[苯乙胺](/文档/药物分类/苯乙胺类物质.md)，其苯环通过乙基链结合到一个氨基（NH2）上。2C-E 含有甲氧基功能团 CH3O- 连接到苯环的 R2 和 R5 碳上，以及一个乙基链结合到苯环的 R4 碳上。2C-E 属于苯乙胺的 2C 家族，这类物质在苯环的 2 和 5 位置上都含有甲氧基哦。[\[3\]](#cite_note-PiHKAL-3)
+2C-E 或 2,5-二甲氧基-4-乙基苯乙胺是一种[苯乙胺](/文档/药物分类/苯乙胺类物质.md)，其苯环通过乙基链结合到一个氨基（NH2）上。2C-E 含有甲氧基功能团 CH3O- 连接到苯环的 R2 和 R5 碳上，以及一个乙基链结合到苯环的 R4 碳上。2C-E 属于苯乙胺的 2C 家族，这类物质在苯环的 2 和 5 位置上都含有甲氧基哦。\[3\]
 
 ## 药理学 <a name="pharmacology"></a>
 
@@ -248,25 +248,25 @@ _**免责声明：** 下列效应引用了[***主观效应索引***](/文档/关
 *   **[锂盐](http://en.wikipedia.org/wiki/Lithium_(medication))** - 锂盐通常用于治疗双相情感障碍。有大量的轶事证据表明，将其与[迷幻剂](/文档/药物分类/迷幻剂.md)一起服用会显著增加[精神病](/药效/精神病发作.md)和[癫痫发作](/药效/癫痫发作.md)的风险。因此，严格不建议这种组合哦。
 *   **[大麻](/药物/大麻.md)** - 大麻可能与 2C-E 的效果产生意想不到的强烈且不可预测的协同作用。这种组合建议谨慎，因为它可能显著增加不良心理反应的风险，如[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[惊恐发作](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)。建议用户从正常大麻剂量的一小部分开始，并在吸食之间长时间休息，以避免无意的过量。
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像[苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md)或[哌甲酯](/药物/哌甲酯.md)这样的兴奋剂会影响大脑的许多部分并改变[多巴胺](/文档/多巴胺.md)功能。这种组合可能会增加[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[惊恐发作](/药效/认知效应.md)和[思维循环](/药效/认知效应.md)的风险。这种相互作用也可能导致[躁狂](/药效/躁狂.md)和[精神病](/药效/精神病发作.md)的风险升高。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
-*   **[曲马多](/药物/曲马多.md)** - 曲马多被充分证明会降低癫痫发作阈值[\[5\]](#cite_note-5)，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能会在易感人群中引发癫痫发作。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
+*   **[曲马多](/药物/曲马多.md)** - 曲马多被充分证明会降低癫痫发作阈值\[5\]，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能会在易感人群中引发癫痫发作。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
 
 ## 法律地位 <a name="legal_status"></a>
 
-*   **奥地利**: 根据 NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich)，2C-E 的拥有、生产和销售是非法的。在其附表 II 中，进一步规定的 NPSV (Neue-Psychoaktive-Substanzen-Verordnung Österreich) 明确禁止所有取代苯乙胺。[\[6\]](#cite_note-6)
-*   **巴西**: 拥有、生产和销售是非法的，因为它被列在 Portaria SVS/MS nº 344 上。[\[7\]](#cite_note-7)
-*   **加拿大**: 2C-E 被认为是附表 III，因为它是 2,5-二甲氧基苯乙胺的衍生物。[\[8\]](#cite_note-8)
-*   **中国**: 截至 2015 年 10 月，2C-E 在中国是受管制物质。[\[9\]](#cite_note-9)
+*   **奥地利**: 根据 NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich)，2C-E 的拥有、生产和销售是非法的。在其附表 II 中，进一步规定的 NPSV (Neue-Psychoaktive-Substanzen-Verordnung Österreich) 明确禁止所有取代苯乙胺。\[6\]
+*   **巴西**: 拥有、生产和销售是非法的，因为它被列在 Portaria SVS/MS nº 344 上。\[7\]
+*   **加拿大**: 2C-E 被认为是附表 III，因为它是 2,5-二甲氧基苯乙胺的衍生物。\[8\]
+*   **中国**: 截至 2015 年 10 月，2C-E 在中国是受管制物质。\[9\]
 *   **丹麦**: 2C-E 是一级管制药物。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
 *   **芬兰**: 拥有、生产和销售是非法的。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
-*   **德国**: 截至 2014 年 12 月 13 日，2C-E 根据 Anlage I BtMG (*麻醉品法，附表 I*) 受管制[\[10\]](#cite_note-10)。[\[11\]](#cite_note-11) 未经许可制造、拥有、进口、出口、购买、销售、采购或分发它是非法的。[\[12\]](#cite_note-12)
+*   **德国**: 截至 2014 年 12 月 13 日，2C-E 根据 Anlage I BtMG (*麻醉品法，附表 I*) 受管制\[10\]。\[11\] 未经许可制造、拥有、进口、出口、购买、销售、采购或分发它是非法的。\[12\]
 *   **以色列**: 拥有、生产和销售是非法的。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
-*   **拉脱维亚**: 2C-E 是一级受管制物质。[\[13\]](#cite_note-13)
+*   **拉脱维亚**: 2C-E 是一级受管制物质。\[13\]
 *   **新西兰**: 2C-E 是 C 类药物。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
-*   **波兰**: 2C-E 是属于 IV-P 精神药物组的受管制物质。[\[14\]](#cite_note-14)
+*   **波兰**: 2C-E 是属于 IV-P 精神药物组的受管制物质。\[14\]
 *   **瑞典**: 2C-E 被归类为有害物质。\[*[来源请求](/文档/关于本站/关于FreeODwiki.md)*\]
-*   **瑞士**: 2C-E 是 Verzeichnis E 下特别列出的受管制物质。[\[15\]](#cite_note-15)
-*   **英国**: 由于苯乙胺包罗条款，2C-E 在英国是 A 类药物。[\[16\]](#cite_note-16)
-*   **美国**: 2C-E 是一级管制药物。[\[17\]](#cite_note-17)
+*   **瑞士**: 2C-E 是 Verzeichnis E 下特别列出的受管制物质。\[15\]
+*   **英国**: 由于苯乙胺包罗条款，2C-E 在英国是 A 类药物。\[16\]
+*   **美国**: 2C-E 是一级管制药物。\[17\]
 
 ## 另见 <a name="see_also"></a>
 
@@ -290,20 +290,20 @@ _**免责声明：** 下列效应引用了[***主观效应索引***](/文档/关
 
 ## 参考资料 <a name="references"></a>
 
-1. ↑ [1.0](#cite_ref-pubchemSYN_1-0) [1.1](#cite_ref-pubchemSYN_1-1) [1.2](#cite_ref-pubchemSYN_1-2) [1.3](#cite_ref-pubchemSYN_1-3) ["Compound Summary: 2,5-Dimethoxy-4-ethylphenethylamine: 2.4 Synonyms"](https://pubchem.ncbi.nlm.nih.gov/compound/2C-E#section=Synonyms). PubChem. Retrieved October 11, 2020.
-2. ↑ [2.0](#cite_ref-Shulgin1980_2-0) [2.1](#cite_ref-Shulgin1980_2-1) [Alexander Shulgin](/文档/关于本站/关于FreeODwiki.md) (1980). [*Pharmacology Notes II (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_pharmacology_notebook9_searchable.pdf) (PDF). Lafayette, CA, USA: Erowid. p. 236.
-3. ↑ [3.0](#cite_ref-PiHKAL_3-0) [3.1](#cite_ref-PiHKAL_3-1) [3.2](#cite_ref-PiHKAL_3-2) [Alexander Shulgin](/文档/关于本站/关于FreeODwiki.md); Ann Shulgin (1991). ["#24. 2C-E"](https://erowid.org/library/books_online/pihkal/pihkal024.shtml). *[PiHKAL: A Chemical Love Story](/文档/关于本站/关于FreeODwiki.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
-4. [↑](#cite_ref-4) ["2,5-Dimethoxy-4-Ethylphenethylamine (2C-E) encountered in Ft. Pierce, Florida and Royal Oak, Michigan"](https://erowid.org/library/periodicals/microgram/microgram_2004-11.pdf) (PDF). *Microgram Bulletin*. Drug Enforcement Agency. **37** (11): 193–194. November 2004. [OCLC](http://en.wikipedia.org/wiki/OCLC) [54464390](//www.worldcat.org/oclc/54464390).
-5. [↑](#cite_ref-5) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
-6. [↑](#cite_ref-6) ["Bundesrecht konsolidiert: Gesamte Rechtsvorschrift für Neue-Psychoaktive-Substanzen-Verordnung"](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642) (in German). June 26, 2019. Retrieved January 10, 2021.
-7. [↑](#cite_ref-7) ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (ANVISA) [Brazilian Health Regulatory Agency (ANVISA)]. December 5, 2016.
-8. [↑](#cite_ref-8) ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
-9. [↑](#cite_ref-9) ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170906191704/http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). 国家食品药品监督管理总局 [China Food and Drug Administration (CFDA)]. September 27, 2015. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on September 6, 2017.
-10. [↑](#cite_ref-10) ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-11. [↑](#cite_ref-11) ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57* (in German). Bundesanzeiger Verlag (published December 12, 2014). December 5, 2014. p. 1999-2002. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC) [231871244](//www.worldcat.org/oclc/231871244).
-12. [↑](#cite_ref-12) ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-13. [↑](#cite_ref-13) ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
-14. [↑](#cite_ref-14) <https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20220001665/O/D20221665.pdf>
-15. [↑](#cite_ref-15) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-16. [↑](#cite_ref-16) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
-17. [↑](#cite_ref-17) Ronald Weich (Assistant Attorney General) (September 30, 2011). ["Additional Synthetic Drugs for Inclusion in section 202(c) of the Controlled Substances Act"](http://www.justice.gov/ola/views-letters/112/093011-ltr-re-hr1254-synthetic-drug-control-act-2011.pdf) (PDF). Letter to F. James Sensenbrenner Jr. (Subcommittee on Crime, Terrorism, and Homeland Security). Office of Legislative Affairs.
+1. ↑ 1.0 1.1 1.2 1.3 ["Compound Summary: 2,5-Dimethoxy-4-ethylphenethylamine: 2.4 Synonyms"](https://pubchem.ncbi.nlm.nih.gov/compound/2C-E#section=Synonyms). PubChem. Retrieved October 11, 2020.
+2. ↑ 2.0 2.1 [Alexander Shulgin](/文档/关于本站/关于FreeODwiki.md) (1980). [*Pharmacology Notes II (The Shulgin Lab Books)*](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_pharmacology_notebook9_searchable.pdf) (PDF). Lafayette, CA, USA: Erowid. p. 236.
+3. ↑ 3.0 3.1 3.2 [Alexander Shulgin](/文档/关于本站/关于FreeODwiki.md); Ann Shulgin (1991). ["#24. 2C-E"](https://erowid.org/library/books_online/pihkal/pihkal024.shtml). *[PiHKAL: A Chemical Love Story](/文档/关于本站/关于FreeODwiki.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
+4. ↑ ["2,5-Dimethoxy-4-Ethylphenethylamine (2C-E) encountered in Ft. Pierce, Florida and Royal Oak, Michigan"](https://erowid.org/library/periodicals/microgram/microgram_2004-11.pdf) (PDF). *Microgram Bulletin*. Drug Enforcement Agency. **37** (11): 193–194. November 2004. [OCLC](http://en.wikipedia.org/wiki/OCLC) [54464390](//www.worldcat.org/oclc/54464390).
+5. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+6. ↑ ["Bundesrecht konsolidiert: Gesamte Rechtsvorschrift für Neue-Psychoaktive-Substanzen-Verordnung"](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642) (in German). June 26, 2019. Retrieved January 10, 2021.
+7. ↑ ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (ANVISA) [Brazilian Health Regulatory Agency (ANVISA)]. December 5, 2016.
+8. ↑ ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
+9. ↑ ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170906191704/http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). 国家食品药品监督管理总局 [China Food and Drug Administration (CFDA)]. September 27, 2015. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on September 6, 2017.
+10. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+11. ↑ ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57* (in German). Bundesanzeiger Verlag (published December 12, 2014). December 5, 2014. p. 1999-2002. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC) [231871244](//www.worldcat.org/oclc/231871244).
+12. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+13. ↑ ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
+14. ↑ <https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20220001665/O/D20221665.pdf>
+15. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+16. ↑ ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
+17. ↑ Ronald Weich (Assistant Attorney General) (September 30, 2011). ["Additional Synthetic Drugs for Inclusion in section 202(c) of the Controlled Substances Act"](http://www.justice.gov/ola/views-letters/112/093011-ltr-re-hr1254-synthetic-drug-control-act-2011.pdf) (PDF). Letter to F. James Sensenbrenner Jr. (Subcommittee on Crime, Terrorism, and Homeland Security). Office of Legislative Affairs.

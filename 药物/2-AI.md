@@ -26,7 +26,7 @@
 | [总时长](/文档/药效时长.md) | 1 - 2 小时 |
 | [药效发作](/文档/药效时长.md) | 10 - 30 分钟 |
 | [药效残余](/文档/药效时长.md) | 2 - 4 小时 |
-| **[互交作用](#危险相互作用)** |
+| **互交作用** |
 | 酒精 | ⚠️ |
 | MXE | 💔 |
 | 解离剂 | ⚠️ |
@@ -39,28 +39,28 @@
 | 单胺氧化酶抑制剂 | ⛔ |
 | 可卡因 | 💔 |
 
-**2-氨基茚满** (**2-AI**) 是一种具有[兴奋剂](/文档/药物分类/兴奋剂.md)特性的[精神活性药物](/文档/药物分类/index.md)和[研究用化学品](/文档/研究用化学品.md)呢。它是[苯丙胺](/药物/苯丙胺.md)的一种类似物哦。[\[1\]](#cite_note-1)
+**2-氨基茚满** (**2-AI**) 是一种具有[兴奋剂](/文档/药物分类/兴奋剂.md)特性的[精神活性药物](/文档/药物分类/index.md)和[研究用化学品](/文档/研究用化学品.md)呢。它是[苯丙胺](/药物/苯丙胺.md)的一种类似物哦。\[1\]
 
 虽然关于这种物质的了解还非常少，但它最近作为[策划药](/文档/药物分类/index.md)在网上的[研究用化学品](/文档/研究用化学品.md)供应商那里很容易买到嘛。
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **身体效应**](#身体效应)
-    + [3.2 **视觉效应**](#视觉效应)
-    + [3.3 **认知效应**](#认知效应)
-    + [3.4 **药效残余**](#药效残余)
-    + [3.5 体验报告](#体验报告)
-* [4 毒性与伤害潜能](#毒性与伤害潜能)
-    + [4.1 耐受性与成瘾潜能](#耐受性与成瘾潜能)
-    + [4.2 精神病](#精神病)
-    + [4.3 危险相互作用](#危险相互作用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考资料](#参考资料)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 **身体效应**
+    + 3.2 **视觉效应**
+    + 3.3 **认知效应**
+    + 3.4 **药效残余**
+    + 3.5 体验报告
+* 4 毒性与伤害潜能
+    + 4.1 耐受性与成瘾潜能
+    + 4.2 精神病
+    + 4.3 危险相互作用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考资料
 
 ## 化学
 
@@ -146,7 +146,7 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/文档/关
 
 主条目：[兴奋剂精神病](/文档/兴奋剂精神病.md)
 
-长期高剂量滥用兴奋剂类化合物可能会导致兴奋剂精神病，表现出各种症状（如[偏执](/药效/认知效应.md)、[幻觉](/药效/视觉效应.md)或[妄想](/药效/认知效应.md)）。[\[2\]](#cite_note-Shoptaw2009-2) 一篇关于治疗[苯丙胺](/药物/苯丙胺.md)、[右旋苯丙胺](/药物/苯丙胺.md)和[甲基苯丙胺](/药物/甲基苯丙胺.md)滥用引起的精神病的综述指出，大约5–15%的使用者无法完全康复。[\[2\]](#cite_note-Shoptaw2009-2)[\[3\]](#cite_note-3) 同一篇综述断言，基于至少一项试验，[抗精神病药](/文档/抗精神病药.md)可以有效解决急性苯丙胺精神病的症状。[\[2\]](#cite_note-Shoptaw2009-2)
+长期高剂量滥用兴奋剂类化合物可能会导致兴奋剂精神病，表现出各种症状（如[偏执](/药效/认知效应.md)、[幻觉](/药效/视觉效应.md)或[妄想](/药效/认知效应.md)）。\[2\] 一篇关于治疗[苯丙胺](/药物/苯丙胺.md)、[右旋苯丙胺](/药物/苯丙胺.md)和[甲基苯丙胺](/药物/甲基苯丙胺.md)滥用引起的精神病的综述指出，大约5–15%的使用者无法完全康复。\[2\]\[3\] 同一篇综述断言，基于至少一项试验，[抗精神病药](/文档/抗精神病药.md)可以有效解决急性苯丙胺精神病的症状。\[2\]
 
 ### 危险相互作用
 
@@ -162,9 +162,9 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/文档/关
 * **💔 [MXE](/药物/MXE.md)** - 一些报告表明，与MXE联用可能会危险地增加血压，并增加[躁狂](/药效/躁狂.md)和[精神病](/药效/精神病发作.md)的风险。
 * **⚠️ [解离剂](/文档/药物分类/解离剂.md)** - 这两类药物都带有[妄想](/药效/认知效应.md)、[躁狂](/药效/躁狂.md)和[精神病](/药效/精神病发作.md)的风险，联用时这些风险可能会倍增。
 * **💔 [兴奋剂](/文档/药物分类/兴奋剂.md)** - 2-氨基茚满与[可卡因](/药物/可卡因.md)等其他[兴奋剂](/文档/药物分类/兴奋剂.md)联用可能很危险，因为它们会将[心率](/药效/心率增快.md)和[血压](/药效/血压升高.md)提高到危险水平。
-* **⛔ [曲马多](/药物/曲马多.md)** - 已知曲马多会降低癫痫发作阈值[\[4\]](#cite_note-4)，与兴奋剂联用可能会进一步增加这种风险。
+* **⛔ [曲马多](/药物/曲马多.md)** - 已知曲马多会降低癫痫发作阈值\[4\]，与兴奋剂联用可能会进一步增加这种风险。
 * **💔 MDMA** - 当与[苯丙胺](/药物/苯丙胺.md)和其他兴奋剂联用时，MDMA的神经毒性效应可能会增加。
-* **⛔ [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)** - 这种组合可能会将多巴胺等神经递质的量增加到危险甚至致命的水平。例子包括[骆驼蓬](/药物/骆驼蓬.md)、[卡皮木](/药物/卡皮木.md)和一些[抗抑郁药](/文档/药物分类/index.md)。[\[5\]](#cite_note-5)
+* **⛔ [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)** - 这种组合可能会将多巴胺等神经递质的量增加到危险甚至致命的水平。例子包括[骆驼蓬](/药物/骆驼蓬.md)、[卡皮木](/药物/卡皮木.md)和一些[抗抑郁药](/文档/药物分类/index.md)。\[5\]
 * **💔 可卡因** - 这种组合可能会增加心脏负荷。
 
 ## 法律地位
@@ -172,10 +172,10 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/文档/关
 2-AI目前在世界大部分地区被认为是处于灰色地带的化合物。这意味着它并不在任何国家的具体非法名单中，但在某些情况下（例如根据类似物法，以及出于销售或消费意图），人们仍可能因持有它而受到指控。
 
 * **奥地利**: 根据NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich)，2-AI是非法持有、生产和销售的。\[*[来源请求](/文档/关于本站/index.md)*\]
-* **中国**: 2-AI是管制物质哦。[\[6\]](#cite_note-6)
-* **德国**: 截至2016年11月26日，2-AI受NpSG (*新精神活性物质法*)[\[7\]](#cite_note-7) 管制。[\[8\]](#cite_note-8) 以投放市场为目的的生产和进口、对他人的管理以及交易均受到惩罚。持有是非法的，但不会受到惩罚。[\[9\]](#cite_note-9)
-* **瑞士**: 2-AI是Verzeichnis E下明确列出的管制物质。[\[10\]](#cite_note-10)
-* **英国**: 根据2016年5月26日生效的《精神活性物质法》，生产、供应或进口2-AI均属违法。[\[11\]](#cite_note-11)
+* **中国**: 2-AI是管制物质哦。\[6\]
+* **德国**: 截至2016年11月26日，2-AI受NpSG (*新精神活性物质法*)\[7\] 管制。\[8\] 以投放市场为目的的生产和进口、对他人的管理以及交易均受到惩罚。持有是非法的，但不会受到惩罚。\[9\]
+* **瑞士**: 2-AI是Verzeichnis E下明确列出的管制物质。\[10\]
+* **英国**: 根据2016年5月26日生效的《精神活性物质法》，生产、供应或进口2-AI均属违法。\[11\]
 
 ## 另见
 
@@ -193,14 +193,14 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/文档/关
 
 ## 参考资料
 
-1. [↑](#cite_ref-1) Oberlender, R., Nichols, D. E. (March 1991). "Structural variation and (+)-amphetamine-like discriminative stimulus properties". *Pharmacology, Biochemistry, and Behavior*. **38** (3): 581–586. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/0091-3057(91)90017-v](//doi.org/10.1016%2F0091-3057%2891%2990017-v). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0091-3057](//www.worldcat.org/issn/0091-3057). 
-2. ↑ [2.0](#cite_ref-Shoptaw2009_2-0) [2.1](#cite_ref-Shoptaw2009_2-1) [2.2](#cite_ref-Shoptaw2009_2-2) Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1465-1858](//www.worldcat.org/issn/1465-1858). 
-3. [↑](#cite_ref-3) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563 "wikipedia:Special:BookSources/9780195030563"). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1 "Category:CS1 maint: Extra text (page does not exist)"))
-4. [↑](#cite_ref-4) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183). 
-5. [↑](#cite_ref-5) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
-6. [↑](#cite_ref-6) ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170210033939/www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). China Food and Drug Administration. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on February 10, 2017. Retrieved December 28, 2019. 
-7. [↑](#cite_ref-7) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019. 
-8. [↑](#cite_ref-8) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 25, 2019. 
-9. [↑](#cite_ref-9) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019. 
-10. [↑](#cite_ref-10) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
-11. [↑](#cite_ref-11) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+1. ↑ Oberlender, R., Nichols, D. E. (March 1991). "Structural variation and (+)-amphetamine-like discriminative stimulus properties". *Pharmacology, Biochemistry, and Behavior*. **38** (3): 581–586. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0091-3057(91)90017-v](//doi.org/10.1016%2F0091-3057%2891%2990017-v). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0091-3057](//www.worldcat.org/issn/0091-3057). 
+2. ↑ 2.0 2.1 2.2 Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858). 
+3. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+4. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183). 
+5. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647). 
+6. ↑ ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170210033939/www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). China Food and Drug Administration. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on February 10, 2017. Retrieved December 28, 2019. 
+7. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019. 
+8. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 25, 2019. 
+9. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019. 
+10. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
+11. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

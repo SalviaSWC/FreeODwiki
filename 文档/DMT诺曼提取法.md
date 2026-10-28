@@ -53,10 +53,10 @@
 
 **目录**
 
-* [1 所需材料](#材料)
-* [2 操作步骤](#过程)
-* [3 重结晶](#重结晶)
-* [4 参考文献](#参考文献)
+* 1 所需材料
+* 2 操作步骤
+* 3 重结晶
+* 4 参考文献
 
 ### 材料
 
@@ -106,6 +106,6 @@
 
 **参考文献**
 
-[Salem](/wiki/User:Salem "User:Salem") ([talk](/wiki/User_talk:Salem "User talk:Salem")) 13:59, 12 January 2015 (UTC)  
+[Salem](/wiki/User:Salem) ([talk](/wiki/User_talk:Salem)) 13:59, 12 January 2015 (UTC)  
 <http://www.entheogenreview.com/Resources/DMT.pdf>
 

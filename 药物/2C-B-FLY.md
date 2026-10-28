@@ -37,7 +37,7 @@ description:
 | [药效褪去](/文档/药效时长.md) | 2 - 3 小时 |
 | [药效残余](/文档/药效时长.md) | 6 - 24 小时 |
 | <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>    - **[免责声明](/关于本站/关于FreeODwiki.md)：** 本站的[剂量](/文档/给药剂量.md)信息收集自用户和[相关资源](/文档/科学信息索引页.md)，仅供教育用途。它不是医疗建议，为了准确性，请务必与其他来源进行核对哦。 | |
-| **[药物联用](#危险药物联用)** | |
+| **药物联用** | |
 | 大麻 | ⚠️ 谨慎联用 |
 | 兴奋剂 | ⚠️ 谨慎联用 |
 | 曲马多 | 💔 联用危险 |
@@ -54,29 +54,29 @@ description:
 由于它的高效力和敏感的剂量反应关系，许多报告也指出，这种物质的效果不应被视为[2C-B](/药物/2C-B.md)的简单替代品。如果要选择使用这种强效、持久且不可预测的致幻物质，强烈建议采取适当的预防措施和[伤害减少措施](/文档/负责任的用药索引页.md)哦！
 
 ## 目录
-- [1 历史与文化](#历史与文化)
-- [2 化学](#化学)
-- [3 药理学](#药理学)
-- [4 主观效应](#主观效应)
-    - [4.1 躯体效应](#躯体效应)
-    - [4.2 视觉效应](#视觉效应)
-        - [4.2.1 视觉增强](#视觉增强)
-        - [4.2.2 视觉扭曲](#视觉扭曲)
-        - [4.2.3 几何图形](#几何图形)
-        - [4.2.4 幻觉状态](#幻觉状态)
-    - [4.3 认知效应](#认知效应)
-    - [4.4 听觉效应](#听觉效应)
-    - [4.5 药效残余](#药效残余)
-    - [4.6 体验报告](#体验报告)
-- [5 毒性和危害潜力](#毒性和危害潜力)
-    - [5.1 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    - [5.2 危险药物联用](#危险药物联用)
-- [6 法律地位](#法律地位)
-- [7 另见](#另见)
-- [8 外部链接](#外部链接)
-    - [8.1 讨论](#讨论)
-- [9 文献](#文献)
-- [10 参考文献](#参考文献)
+- 1 历史与文化
+- 2 化学
+- 3 药理学
+- 4 主观效应
+    - 4.1 躯体效应
+    - 4.2 视觉效应
+        - 4.2.1 视觉增强
+        - 4.2.2 视觉扭曲
+        - 4.2.3 几何图形
+        - 4.2.4 幻觉状态
+    - 4.3 认知效应
+    - 4.4 听觉效应
+    - 4.5 药效残余
+    - 4.6 体验报告
+- 5 毒性和危害潜力
+    - 5.1 耐受性和成瘾潜力
+    - 5.2 危险药物联用
+- 6 法律地位
+- 7 另见
+- 8 外部链接
+    - 8.1 讨论
+- 9 文献
+- 10 参考文献
 
 ## 历史与文化
 
@@ -309,21 +309,21 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) [*Erowid 2C-B-Fly Vaults : 2C-B-FLY*](https://erowid.org/chemicals/2cb_fly/2cb_fly_info1.shtml) 
-2. [↑](#cite_ref-2) [*Erowid 2C-B-Fly Vault: Death Reports 2009*](https://www.erowid.org/chemicals/2cb_fly/2cb_fly_death1.shtml) 
-3. [↑](#cite_ref-3) ["An Interview with Ann Shulgin on Psychedelics and Self-Discovery"](https://maps.org/news-letters/v17n2/v17n2_annshulgin-23.pdf) (PDF). *MAPS*. **17** (2): 23–24. 2007. 
-4. [↑](#cite_ref-4) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). 
-5. [↑](#cite_ref-5) Gallardo-Godoy, A., Fierro, A., McLean, T. H., Castillo, M., Cassels, B. K., Reyes-Parada, M., Nichols, D. E. (1 April 2005). ["Sulfur-Substituted α-Alkyl Phenethylamines as Selective and Reversible MAO-A Inhibitors: Biological Activities, CoMFA Analysis, and Active Site Modeling"](https://pubs.acs.org/doi/10.1021/jm0493109). *Journal of Medicinal Chemistry*. **48** (7): 2407–2419. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/jm0493109](//doi.org/10.1021%2Fjm0493109). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-2623](//www.worldcat.org/issn/0022-2623). 
-6. [↑](#cite_ref-6) Controlled Drugs and Substances Act (S.C. 1996, c. 19) |http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html#h-28
-7. [↑](#cite_ref-7) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019. 
-8. [↑](#cite_ref-8) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
-9. [↑](#cite_ref-9) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
-10. [↑](#cite_ref-10) ["Wykaz substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/wykaz-substancji-psychotropowych-srodkow-odurzajacych-oraz-nowych-18747849) (in Polish). Retrieved 5 June, 2024. 
-11. [↑](#cite_ref-11) [*Nyhetsarkiv — Folkhälsomyndigheten*](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/) 
-12. [↑](#cite_ref-12) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
-13. [↑](#cite_ref-13) [*Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen (Dutch)*](https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2022Z14042&dossier=36159), 2024 
-14. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_14-0) https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm
-15. [↑](#cite_ref-List_of_illegal_substances_for_law_15-0)  https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf
-16. [↑](#cite_ref-16) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted) 
-17. [↑](#cite_ref-17) Drug control: Highlights of P.L. 99-570, Anti Drug Abuse Act of 1986: (drug-related provisions only) (1986). bill.
-18. [↑](#cite_ref-18) "[Controlled Substances: by CSA Schedule](https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf#page=1)" (PDF). U.S. Department of Justice. November 18, 2021. p. 1.
+1. ↑ [*Erowid 2C-B-Fly Vaults : 2C-B-FLY*](https://erowid.org/chemicals/2cb_fly/2cb_fly_info1.shtml) 
+2. ↑ [*Erowid 2C-B-Fly Vault: Death Reports 2009*](https://www.erowid.org/chemicals/2cb_fly/2cb_fly_death1.shtml) 
+3. ↑ ["An Interview with Ann Shulgin on Psychedelics and Self-Discovery"](https://maps.org/news-letters/v17n2/v17n2_annshulgin-23.pdf) (PDF). *MAPS*. **17** (2): 23–24. 2007. 
+4. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). 
+5. ↑ Gallardo-Godoy, A., Fierro, A., McLean, T. H., Castillo, M., Cassels, B. K., Reyes-Parada, M., Nichols, D. E. (1 April 2005). ["Sulfur-Substituted α-Alkyl Phenethylamines as Selective and Reversible MAO-A Inhibitors: Biological Activities, CoMFA Analysis, and Active Site Modeling"](https://pubs.acs.org/doi/10.1021/jm0493109). *Journal of Medicinal Chemistry*. **48** (7): 2407–2419. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm0493109](//doi.org/10.1021%2Fjm0493109). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). 
+6. ↑ Controlled Drugs and Substances Act (S.C. 1996, c. 19) |http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html#h-28
+7. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019. 
+8. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
+9. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
+10. ↑ ["Wykaz substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/wykaz-substancji-psychotropowych-srodkow-odurzajacych-oraz-nowych-18747849) (in Polish). Retrieved 5 June, 2024. 
+11. ↑ [*Nyhetsarkiv — Folkhälsomyndigheten*](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/) 
+12. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
+13. ↑ [*Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen (Dutch)*](https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2022Z14042&dossier=36159), 2024 
+14. ↑ https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm
+15. ↑  https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf
+16. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted) 
+17. ↑ Drug control: Highlights of P.L. 99-570, Anti Drug Abuse Act of 1986: (drug-related provisions only) (1986). bill.
+18. ↑ "[Controlled Substances: by CSA Schedule](https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf#page=1)" (PDF). U.S. Department of Justice. November 18, 2021. p. 1.

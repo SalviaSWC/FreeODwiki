@@ -18,28 +18,28 @@
 
 | [给药途径](/文档/给药途径.md)                                                          |                        |
 | ---------------------------------------------------------------------------- | ---------------------- |
-| - **警告：**由于个体体重、耐受、代谢和个人敏感性存在差异，务必要从更低剂量开始哦。可参见[负责任的用药章节](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **警告：**由于个体体重、耐受、代谢和个人敏感性存在差异，务必要从更低剂量开始哦。可参见[负责任的用药章节](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |              |
 | ---------------------- | ------------ |
-| [阈值](/文档/药物剂量分类.md#阈值) | 75 mg        |
-| [轻微](/文档/药物剂量分类.md#轻微) | 75 - 150 mg  |
-| [中等](/文档/药物剂量分类.md#中等) | 150 - 225 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 225 - 325 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 325 mg +     |
+| [阈值](/文档/药物剂量分类.md) | 75 mg        |
+| [轻微](/文档/药物剂量分类.md) | 75 - 150 mg  |
+| [中等](/文档/药物剂量分类.md) | 150 - 225 mg |
+| [强烈](/文档/药物剂量分类.md) | 225 - 325 mg |
+| [严重](/文档/药物剂量分类.md) | 325 mg +     |
 
 | [药效时长](/文档/药效时长.md)      |             |
 | ------------------------ | ----------- |
-| [总时长](/文档/药效时长.md#总时长)   | 2 - 4 小时    |
-| [药效发作](/文档/药效时长.md#药效发作) | 15 - 45 分钟  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 60 - 90 分钟  |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 60 - 120 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 2 - 12 小时   |
+| [总时长](/文档/药效时长.md)   | 2 - 4 小时    |
+| [药效发作](/文档/药效时长.md) | 15 - 45 分钟  |
+| [药效达峰](/文档/药效时长.md) | 60 - 90 分钟  |
+| [药效褪去](/文档/药效时长.md) | 60 - 120 分钟 |
+| [药效残余](/文档/药效时长.md) | 2 - 12 小时   |
 
 | **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为基于用户与资料整理的教育用途内容，并不是推荐用量，准确性仍建议结合其他来源核实呢。 |
 | --------------------------------------------------------------------------------------------- |
 
-| [相互作用](#危险的相互作用) |   |
+| 相互作用 |   |
 | ---------------- | - |
 | 酒精               |   |
 | MXE              |   |
@@ -64,27 +64,27 @@ MDEC在人类中的使用历史很短，据报道它的效力低于其近缘物�
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **认知效应**](#认知效应)
-  * [3.3 **药效残余**](#药效残余)
-  * [3.4 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **认知效应**
+  * 3.3 **药效残余**
+  * 3.4 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 依赖性与滥用潜力](#依赖性与滥用潜力)
-  * [4.2 精神病](#精神病)
-  * [4.3 危险的相互作用](#危险的相互作用)
+  * 4.1 依赖性与滥用潜力
+  * 4.2 精神病
+  * 4.3 危险的相互作用
 
-    * [4.3.1 血清素综合征风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
+    * 4.3.1 血清素综合征风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
 
-  * [7.1 讨论](#讨论)
-* [8 参考文献](#参考文献)
+  * 7.1 讨论
+* 8 参考文献
 
 ## 化学
 
@@ -133,7 +133,7 @@ MDEC的认知效应可以拆分为若干组成部分，并会随着剂量增加�
 
 ### **药效残余** ![](/文件/Aftereffects.png)
 
-一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验在[药效褪去](/文档/药效时长.md#药效褪去)阶段出现的效应，通常会比其[药效达峰](/文档/药效时长.md#药效达峰)阶段更负面、也更令人不适。这通常被称为“回落”，其产生与[神经递质](/文档/神经递质.md)耗竭有关。常见效应包括：
+一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验在[药效褪去](/文档/药效时长.md)阶段出现的效应，通常会比其[药效达峰](/文档/药效时长.md)阶段更负面、也更令人不适。这通常被称为“回落”，其产生与[神经递质](/文档/神经递质.md)耗竭有关。常见效应包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[认知疲劳](/药效/认知疲劳.md)**
@@ -154,7 +154,7 @@ MDEC的认知效应可以拆分为若干组成部分，并会随着剂量增加�
 | ![](/文件/Ambulance2.png) | **本毒性与伤害潜力章节仍是一个占位条目。**因此，它可能包含不完整甚至**危险地错误**的信息！你也可以帮助扩充或修正它。<br><br>*注意：如果要使用这种物质，请务必自行独立研究，并采取**[伤害减少措施](/文档/负责任的用药索引页.md)**哦。* |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 娱乐性使用MDEC所带来的毒性与长期健康影响，似乎尚未在任何科学语境中得到研究，而确切的中毒剂量也未知。这是因为甲酮隆在人类中的使用历史非常有限。来自社区内尝试过MDEC的人们的轶事证据表明，单独以低到中等剂量尝试这种药物、并且只是偶尔使用时，似乎并没有明显可归因于它的负面健康影响（不过这当然无法被完全保证嘛）。
 
@@ -194,7 +194,7 @@ MDEC的认知效应可以拆分为若干组成部分，并会随着剂量增加�
 * **[单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)** - 例如[死藤水](/药物/死藤水.md)、syrian rue、phenelzine、selegiline 和 moclobemide。
 * **血清素释放剂** - 例如 [MDMA](/药物/MDMA.md)、[4-FA](/药物/4-FA.md)、[甲基苯丙胺](/药物/甲基苯丙胺.md)、[甲酮隆](/药物/MDMC.md) 和 [αMT](/药物/αMT.md)。
 * **[SSRI](/文档/SSRI.md)** - 例如 citalopram 和 sertraline
-* **[SNRIs](http://en.wikipedia.org/wiki/SNRIs "wikipedia:SNRIs")** - 例如 [曲马多](/药物/曲马多.md) 和 venlafaxine
+* **[SNRIs](http://en.wikipedia.org/wiki/SNRIs)** - 例如 [曲马多](/药物/曲马多.md) 和 venlafaxine
 * **[5-HTP](/药物/5-HTP.md)**
 
 ## 法律地位
@@ -231,12 +231,12 @@ MDEC的认知效应可以拆分为若干组成部分，并会随着剂量增加�
 
 ## 参考文献
 
-1. [↑](#cite_ref-urlCathinone_.7C_Ask_Dr._Shulgin_Online_1-0) ["Cathinone | Ask Dr. Shulgin Online"](http://www.cognitiveliberty.org/shulgin/adsarchive/cathinone.htm).
-2. [↑](#cite_ref-2) Cozzi, N. V., Sievert, M. K., Shulgin, A. T., Jacob, P., Ruoho, A. E. (17 September 1999). "Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines". *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/s0014-2999(99)00538-5](//doi.org/10.1016%2Fs0014-2999%2899%2900538-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-3. ↑   Nagai, F., Nonaka, R., Satoh Hisashi Kamimura, K. (22 March 2007). ["The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain"](https://www.sciencedirect.com/science/article/pii/S0014299906013811). *European Journal of Pharmacology*. **559** (2): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-4. ↑   Simmler, L., Buser, T., Donzelli, M., Schramm, Y., Dieu, L.-H., Huwyler, J., Chaboz, S., Hoener, M., Liechti, M. (January 2013). ["Pharmacological characterization of designer cathinones in vitro: Pharmacology of cathinones"](https://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x). *British Journal of Pharmacology*. **168** (2): 458–470. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1476-5381.2012.02145.x](//doi.org/10.1111%2Fj.1476-5381.2012.02145.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1188](//www.worldcat.org/issn/0007-1188).
-5. ↑    Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1465-1858](//www.worldcat.org/issn/1465-1858).
-6. [↑](#cite_ref-6) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563 "wikipedia:Special:BookSources/9780195030563"). CS1 maint: Extra text ([link])
-7. [↑](#cite_ref-7) [http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf](http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf)
-8. [↑](#cite_ref-8) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-9. [↑](#cite_ref-9) Gillm
+1. ↑ ["Cathinone | Ask Dr. Shulgin Online"](http://www.cognitiveliberty.org/shulgin/adsarchive/cathinone.htm).
+2. ↑ Cozzi, N. V., Sievert, M. K., Shulgin, A. T., Jacob, P., Ruoho, A. E. (17 September 1999). "Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines". *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/s0014-2999(99)00538-5](//doi.org/10.1016%2Fs0014-2999%2899%2900538-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999).
+3. ↑   Nagai, F., Nonaka, R., Satoh Hisashi Kamimura, K. (22 March 2007). ["The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain"](https://www.sciencedirect.com/science/article/pii/S0014299906013811). *European Journal of Pharmacology*. **559** (2): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999).
+4. ↑   Simmler, L., Buser, T., Donzelli, M., Schramm, Y., Dieu, L.-H., Huwyler, J., Chaboz, S., Hoener, M., Liechti, M. (January 2013). ["Pharmacological characterization of designer cathinones in vitro: Pharmacology of cathinones"](https://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x). *British Journal of Pharmacology*. **168** (2): 458–470. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1476-5381.2012.02145.x](//doi.org/10.1111%2Fj.1476-5381.2012.02145.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188).
+5. ↑    Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858).
+6. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link])
+7. ↑ [http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf](http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf)
+8. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+9. ↑ Gillm

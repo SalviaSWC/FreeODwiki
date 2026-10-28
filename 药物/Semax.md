@@ -17,34 +17,34 @@
 | 精神药效分类                                       | *[兴奋剂](/文档/药物分类/兴奋剂.md) / [益智药](/文档/药物分类/益智药.md)*                                                                                                                                                                                          |
 | 化学分类                                         | *[肽](/文档/药物分类/肽.md)*                                                                                                                                                                                                                       |
 | [给药途径](/文档/给药途径.md)                          | 见下                                                                                                                                                                                                                                         |
-| [相互作用](#危险的相互作用)                             | 见下                                                                                                                                                                                                                                         |
+| 相互作用                             | 见下                                                                                                                                                                                                                                         |
 
 * **警告：**由于个体在体重、耐受、代谢和个人敏感性上都存在差异嘛，请务必从较低剂量开始。[参见负责任用药部分](/文档/负责任的用药索引页.md)。
 
-#### ⇣ [鼻吸](/文档/给药途径.md#鼻吸)
+#### ⇣ [鼻吸](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md)        |            |
 | -------------------------- | ---------- |
-| [生物利用度](/文档/给药剂量.md#生物利用度) | 60-70%     |
-| [阈值](/文档/药物剂量分类.md#阈值)     | 50µg       |
-| [轻微](/文档/药物剂量分类.md#轻微)     | 50-100µg   |
-| [中等](/文档/药物剂量分类.md#中等)     | 100-500µg  |
-| [强烈](/文档/药物剂量分类.md#强烈)     | 500-1200µg |
-| [严重](/文档/药物剂量分类.md#严重)     | 1200µg+    |
+| [生物利用度](/文档/给药剂量.md) | 60-70%     |
+| [阈值](/文档/药物剂量分类.md)     | 50µg       |
+| [轻微](/文档/药物剂量分类.md)     | 50-100µg   |
+| [中等](/文档/药物剂量分类.md)     | 100-500µg  |
+| [强烈](/文档/药物剂量分类.md)     | 500-1200µg |
+| [严重](/文档/药物剂量分类.md)     | 1200µg+    |
 
 | [药效时长](/文档/药效时长.md)      |         |
 | ------------------------ | ------- |
-| [总时长](/文档/药效时长.md#总时长)   | 8-20小时  |
-| [药效发作](/文档/药效时长.md#药效发作) | 1-30分钟  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 4-8小时   |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 2-12小时  |
-| [药效残余](/文档/药效时长.md#药效残余) | 12-24小时 |
+| [总时长](/文档/药效时长.md)   | 8-20小时  |
+| [药效发作](/文档/药效时长.md) | 1-30分钟  |
+| [药效达峰](/文档/药效时长.md) | 4-8小时   |
+| [药效褪去](/文档/药效时长.md) | 2-12小时  |
+| [药效残余](/文档/药效时长.md) | 12-24小时 |
 
-#### ⇣ [皮下注射](/文档/给药途径.md#皮下注射)
+#### ⇣ [皮下注射](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md)        |      |
 | -------------------------- | ---- |
-| [生物利用度](/文档/给药剂量.md#生物利用度) | 约99% |
+| [生物利用度](/文档/给药剂量.md) | 约99% |
 
 | [药效时长](/文档/药效时长.md) |   |
 | ------------------- | - |
@@ -144,18 +144,18 @@ Semax的致死剂量尚未确定；不过，相关测试表明，即使将有效
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) [http://www.semaxint.com/pharmacology.htm](http://www.semaxint.com/pharmacology.htm)
-2. [↑](#cite_ref-2) [http://www.semaxint.com/history.htm](http://www.semaxint.com/history.htm)
-3. [↑](#cite_ref-3) [https://pubmed.ncbi.nlm.nih.gov/30225715/](https://pubmed.ncbi.nlm.nih.gov/30225715/)
-4. [↑](#cite_ref-4) [https://pubmed.ncbi.nlm.nih.gov/29798983/](https://pubmed.ncbi.nlm.nih.gov/29798983/)
-5. [↑](#cite_ref-5) [https://www.researchgate.net/publication/6798584_Semax_an_analog_of_ACTH4-10_with_cognitive_effects_regulates_BDNF_and_trkB_expression_in_the_rat_hippocampus](https://www.researchgate.net/publication/6798584_Semax_an_analog_of_ACTH4-10_with_cognitive_effects_regulates_BDNF_and_trkB_expression_in_the_rat_hippocampus)
-6. [↑](#cite_ref-6) [https://pubmed.ncbi.nlm.nih.gov/15792140/](https://pubmed.ncbi.nlm.nih.gov/15792140/)
+1. ↑ [http://www.semaxint.com/pharmacology.htm](http://www.semaxint.com/pharmacology.htm)
+2. ↑ [http://www.semaxint.com/history.htm](http://www.semaxint.com/history.htm)
+3. ↑ [https://pubmed.ncbi.nlm.nih.gov/30225715/](https://pubmed.ncbi.nlm.nih.gov/30225715/)
+4. ↑ [https://pubmed.ncbi.nlm.nih.gov/29798983/](https://pubmed.ncbi.nlm.nih.gov/29798983/)
+5. ↑ [https://www.researchgate.net/publication/6798584_Semax_an_analog_of_ACTH4-10_with_cognitive_effects_regulates_BDNF_and_trkB_expression_in_the_rat_hippocampus](https://www.researchgate.net/publication/6798584_Semax_an_analog_of_ACTH4-10_with_cognitive_effects_regulates_BDNF_and_trkB_expression_in_the_rat_hippocampus)
+6. ↑ [https://pubmed.ncbi.nlm.nih.gov/15792140/](https://pubmed.ncbi.nlm.nih.gov/15792140/)
 7. ↑   [http://www.semaxint.com/pharmacology.htm](http://www.semaxint.com/pharmacology.htm)
-8. [↑](#cite_ref-8) [https://pubmed.ncbi.nlm.nih.gov/16996037](https://pubmed.ncbi.nlm.nih.gov/16996037)
-9. [↑](#cite_ref-9) [https://pubmed.ncbi.nlm.nih.gov/16362768/](https://pubmed.ncbi.nlm.nih.gov/16362768/)
-10. [↑](#cite_ref-10) [https://pubmed.ncbi.nlm.nih.gov/17850024/](https://pubmed.ncbi.nlm.nih.gov/17850024/)
-11. [↑](#cite_ref-11) [https://link.springer.com/article/10.1134%2FS0012496613060161](https://link.springer.com/article/10.1134%2FS0012496613060161)
-12. [↑](#cite_ref-12) [https://pubmed.ncbi.nlm.nih.gov/21476267/](https://pubmed.ncbi.nlm.nih.gov/21476267/)
-13. [↑](#cite_ref-13) [https://patents.google.com/patent/RU2045958C1/en](https://patents.google.com/patent/RU2045958C1/en)
-14. [↑](#cite_ref-14) [http://apps.who.int/medicinedocs/en/d/Js19766ru/](http://apps.who.int/medicinedocs/en/d/Js19766ru/)
-15. [↑](#cite_ref-15) [https://www.reddit.com/r/Nootropics/comments/47ql5f/german_customs_seized_and_destroyed_my/](https://www.reddit.com/r/Nootropics/comments/47ql5f/german_customs_seized_and_destroyed_my/)
+8. ↑ [https://pubmed.ncbi.nlm.nih.gov/16996037](https://pubmed.ncbi.nlm.nih.gov/16996037)
+9. ↑ [https://pubmed.ncbi.nlm.nih.gov/16362768/](https://pubmed.ncbi.nlm.nih.gov/16362768/)
+10. ↑ [https://pubmed.ncbi.nlm.nih.gov/17850024/](https://pubmed.ncbi.nlm.nih.gov/17850024/)
+11. ↑ [https://link.springer.com/article/10.1134%2FS0012496613060161](https://link.springer.com/article/10.1134%2FS0012496613060161)
+12. ↑ [https://pubmed.ncbi.nlm.nih.gov/21476267/](https://pubmed.ncbi.nlm.nih.gov/21476267/)
+13. ↑ [https://patents.google.com/patent/RU2045958C1/en](https://patents.google.com/patent/RU2045958C1/en)
+14. ↑ [http://apps.who.int/medicinedocs/en/d/Js19766ru/](http://apps.who.int/medicinedocs/en/d/Js19766ru/)
+15. ↑ [https://www.reddit.com/r/Nootropics/comments/47ql5f/german_customs_seized_and_destroyed_my/](https://www.reddit.com/r/Nootropics/comments/47ql5f/german_customs_seized_and_destroyed_my/)

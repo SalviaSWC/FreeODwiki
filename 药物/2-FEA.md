@@ -15,20 +15,20 @@
 
 | [给药途径](/文档/给药途径.md) | |
 | --- | --- |
-| - **⚠️ 警告：** 由于个人体重、耐受性、代谢和敏感性的差异，请务必从低剂量开始呢。请参考[负责任的用药](/文档/负责任的用药索引页.md)部分哦。 | ⇣ [鼻吸](/文档/给药途径.md#鼻吸) |
+| - **⚠️ 警告：** 由于个人体重、耐受性、代谢和敏感性的差异，请务必从低剂量开始呢。请参考[负责任的用药](/文档/负责任的用药索引页.md)部分哦。 | ⇣ [鼻吸](/文档/给药途径.md) |
 | [给药剂量](/文档/给药剂量.md) | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 15 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 20 - 30 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 30 - 40 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 40 - 60 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 60 mg + |
+| [阈值](/文档/药物剂量分类.md) | 15 mg |
+| [轻微](/文档/药物剂量分类.md) | 20 - 30 mg |
+| [中等](/文档/药物剂量分类.md) | 30 - 40 mg |
+| [强烈](/文档/药物剂量分类.md) | 40 - 60 mg |
+| [严重](/文档/药物剂量分类.md) | 60 mg + |
 | [药效时长](/文档/药效时长.md) | |
-| [总时长](/文档/药效时长.md#总时长) | 1 - 2.5 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 5 - 15 分钟 |
-| [药效上升](/文档/药效时长.md#药效上升) | 5 - 10 分钟 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 30 - 60 分钟 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 30 - 60 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 1 - 3 小时 |
+| [总时长](/文档/药效时长.md) | 1 - 2.5 小时 |
+| [药效发作](/文档/药效时长.md) | 5 - 15 分钟 |
+| [药效上升](/文档/药效时长.md) | 5 - 10 分钟 |
+| [药效达峰](/文档/药效时长.md) | 30 - 60 分钟 |
+| [药效褪去](/文档/药效时长.md) | 30 - 60 分钟 |
+| [药效残余](/文档/药效时长.md) | 1 - 3 小时 |
 
 **2-氟乙基苯丙胺**（**2-FEA**）是一种[苯丙胺类](/文档/药物分类/苯丙胺类物质.md)的新型[兴奋剂](/文档/药物分类/兴奋剂.md)物质哦。在服用后，它会产生典型的兴奋效果，比如[兴奋](/药效/兴奋.md)、[专注力强化](/药效/专注力强化.md)和[欣快感](/药效/认知欣快.md)呢。
 
@@ -38,23 +38,23 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 躯体效应](#躯体效应)
-    + [3.2 视觉效应](#视觉效应)
-        - [3.2.1 扭曲](#扭曲)
-        - [3.2.2 幻觉状态](#幻觉状态)
-    + [3.3 认知效应](#认知效应)
-    + [3.4 药效残余](#药效残余)
-    + [3.5 体验报告](#体验报告)
-* [4 毒性和伤害潜力](#毒性和伤害潜力)
-    + [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-    + [4.2 危险药物联用](#危险药物联用)
-* [5 法律状态](#法律状态)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 躯体效应
+    + 3.2 视觉效应
+        - 3.2.1 扭曲
+        - 3.2.2 幻觉状态
+    + 3.3 认知效应
+    + 3.4 药效残余
+    + 3.5 体验报告
+* 4 毒性和伤害潜力
+    + 4.1 耐受性与成瘾潜力
+    + 4.2 危险药物联用
+* 5 法律状态
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -102,7 +102,7 @@ _**免责声明：** 下面列出的效应引用了[**主观效应索引**](/药
 * 2-FEA 的视觉效应通常不太一致，而且只有在较高剂量下才会轻微察觉到。它们在某种程度上可以与[谵妄剂](/文档/药物分类/谵妄剂.md)相比，并且更容易在黑暗区域发生喵。
 
 #### 扭曲
-* **[漂移](/药效/漂移.md)** *（[呼吸](/药效/漂移.md#呼吸)与[变形](/药效/漂移.md#变形)）* - 这种效应通常很微妙，几乎察觉不到，通常只在较高剂量或与[大麻](/药物/大麻.md)联用时才会发生呢。
+* **[漂移](/药效/漂移.md)** *（[呼吸](/药效/漂移.md)与[变形](/药效/漂移.md)）* - 这种效应通常很微妙，几乎察觉不到，通常只在较高剂量或与[大麻](/药物/大麻.md)联用时才会发生呢。
 * **[亮度改变](/药效/亮度改变.md)** - 由于瞳孔扩大的作用，2-FEA 会让空间看起来更亮哦。
 
 #### 幻觉状态
@@ -132,7 +132,7 @@ _**免责声明：** 下面列出的效应引用了[**主观效应索引**](/药
 
 ### **药效残余** ![Aftereffects.png](/文件/Aftereffects.png)
 
-* 在兴奋剂体验的[药效褪去](/药效/药效时长.md#药效褪去)阶段发生的效应，通常与[药效达峰](/药效/药效时长.md#药效达峰)期间的感觉相比显得负面且不舒服喵。这通常被称为“[药效下降期](/文档/药效下降期.md)”，是由于[神经递质](/文档/神经递质.md)耗尽而发生的。其效应通常包括：
+* 在兴奋剂体验的[药效褪去](/药效/药效时长.md)阶段发生的效应，通常与[药效达峰](/药效/药效时长.md)期间的感觉相比显得负面且不舒服喵。这通常被称为“[药效下降期](/文档/药效下降期.md)”，是由于[神经递质](/文档/神经递质.md)耗尽而发生的。其效应通常包括：
 * **[焦虑](/药效/焦虑.md)**
 * **[认知疲劳](/药效/认知疲劳.md)**
 * **[妄想](/药效/妄想.md)**
@@ -155,7 +155,7 @@ _**免责声明：** 下面列出的效应引用了[**主观效应索引**](/药
 
 ## 毒性和伤害潜力
 
-更多信息请见：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md#毒性和伤害潜力)
+更多信息请见：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md)
 
 娱乐性使用 2-FEA 的毒性和长期健康影响似乎还没有在任何科学背景下进行过研究，确切的毒性剂量也是未知的呢。这是因为 2-FEA 的人类使用历史非常有限喵。
 
@@ -217,15 +217,15 @@ _**免责声明：** 下面列出的效应引用了[**主观效应索引**](/药
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Tessel, R. E., Woods, J. H. (1978年5月). "Substituted N-ethylamphetamine self injection responding in the rhesus monkey: structure-activity relationships". *The Journal of Pharmacology and Experimental Therapeutics*. **205** (2): 274–281. ISSN 0022-3565.
-2. [↑](#cite_ref-2) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. doi:10.1007/BF03161089.
-3. [↑](#cite_ref-3) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. doi:10.1093/bja/aei210.
-4. [↑](#cite_ref-4) Branch, L. S. (2022), [*Consolidated federal laws of Canada, Controlled Drugs and Substances Act*](https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html)
-5. [↑](#cite_ref-5) [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/)
-6. [↑](#cite_ref-6) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (德语). Bundesministerium der Justiz und für Verbraucherschutz. 检索于 2019年12月19日.
-7. [↑](#cite_ref-7) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf) (PDF) (德语). Bundesanzeiger Verlag. 检索于 2019年12月19日.
-8. [↑](#cite_ref-8) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (德语). Bundesministerium der Justiz und für Verbraucherschutz. 检索于 2019年12月19日.
-9. [↑](#cite_ref-9) [*Misuse of Drugs Act 1975 No 116 (截至 2022年7月1日), Public Act – New Zealand Legislation*](https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html)
-10. [↑](#cite_ref-10) [*Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden.*](https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs), 2025
-11. [↑](#cite_ref-11) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel..."](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (德语). Bundeskanzlei. 检索于 2020年1月1日.
-12. [↑](#cite_ref-12) [*Misuse of Drugs Act 1971*](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I)
+1. ↑ Tessel, R. E., Woods, J. H. (1978年5月). "Substituted N-ethylamphetamine self injection responding in the rhesus monkey: structure-activity relationships". *The Journal of Pharmacology and Experimental Therapeutics*. **205** (2): 274–281. ISSN 0022-3565.
+2. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. doi:10.1007/BF03161089.
+3. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. doi:10.1093/bja/aei210.
+4. ↑ Branch, L. S. (2022), [*Consolidated federal laws of Canada, Controlled Drugs and Substances Act*](https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html)
+5. ↑ [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/)
+6. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (德语). Bundesministerium der Justiz und für Verbraucherschutz. 检索于 2019年12月19日.
+7. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf) (PDF) (德语). Bundesanzeiger Verlag. 检索于 2019年12月19日.
+8. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (德语). Bundesministerium der Justiz und für Verbraucherschutz. 检索于 2019年12月19日.
+9. ↑ [*Misuse of Drugs Act 1975 No 116 (截至 2022年7月1日), Public Act – New Zealand Legislation*](https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html)
+10. ↑ [*Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden.*](https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs), 2025
+11. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel..."](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (德语). Bundeskanzlei. 检索于 2020年1月1日.
+12. ↑ [*Misuse of Drugs Act 1971*](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I)

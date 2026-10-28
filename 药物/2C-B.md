@@ -10,15 +10,15 @@ description:
 **4-溴-2,5-二甲氧基苯乙胺**（又名 **Nexus**、**Bromo Mescaline**、**BDMPEA**、**Venus** 和 **2C-B**）是一种[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)的[迷幻剂](/文档/药物分类/迷幻剂.md)。
 它是 [2C家族](/文档/药物分类/苯乙胺类物质.md)（2C-x family）中最著名的成员，该家族在结构上与经典迷幻剂[麦斯卡林](/药物/麦斯卡林.md)相关。其作用机制尚未完全明了，但通常认为主要涉及[血清素](/文档/血清素.md)[受体](/文档/受体激动剂.md)的结合活性。
 
-2C-B 于 1974 年由美国化学家亚历山大·舒尔金（Alexander Shulgin）发现，当时他正在研究源自[麦斯卡林](/药物/麦斯卡林.md)的迷幻苯乙胺类物质。[\[2\]](#cite_note-PiHKAL-2)[\[3\]](#cite_note-3) 在 20 世纪 70 年代，它首先被一小部分美国心理治疗师用作治疗辅助手段，并因其持续时间短、副作用相对较少且性质相对温和而被认为是此类用途的最佳物质之一。[\[4\]](#cite_note-4)
+2C-B 于 1974 年由美国化学家亚历山大·舒尔金（Alexander Shulgin）发现，当时他正在研究源自[麦斯卡林](/药物/麦斯卡林.md)的迷幻苯乙胺类物质。\[2\]\[3\] 在 20 世纪 70 年代，它首先被一小部分美国心理治疗师用作治疗辅助手段，并因其持续时间短、副作用相对较少且性质相对温和而被认为是此类用途的最佳物质之一。\[4\]
 
-不久之后，人们观察到了它的娱乐用途，并在 1995 年被联邦列管之前，曾以 "Erox" 和 "Nexus" 等名称在“Head shop”/“Smart shop”和成人音像店进行商业制造和销售。[\[5\]](#cite_note-DEA2001-5)
+不久之后，人们观察到了它的娱乐用途，并在 1995 年被联邦列管之前，曾以 "Erox" 和 "Nexus" 等名称在“Head shop”/“Smart shop”和成人音像店进行商业制造和销售。\[5\]
 
 [主观效应](/文档/情景与心境.md)包括[睁眼和闭眼视觉](/药效/视觉效应.md)、[时间扭曲](/药效/认知效应.md)、[欣快感](/药效/躯体欣快感.md)和[自我死](/文档/精神探索.md)（Ego loss）。用户报告描述 2C-B 的效果温和、温暖、色彩丰富且非常感性。与[麦斯卡林](/药物/麦斯卡林.md)类似，它被描述为拥有一种比[LSD](/药物/LSD.md)或[赛洛西宾蘑菇](/药物/赛洛西宾蘑菇.md)等[色胺类物质](/文档/药物分类/色胺类物质.md)更不严肃或宏大的精神状态（headspace），更强调视觉和触觉领域。
 
 据报道，较小剂量（低于 15 mg）可用作感官和美学增强剂（在某种程度上类似于 [MDMA](/药物/MDMA.md)），而较大剂量据报道会产生独特的显化心灵（mind-manifesting）的迷幻效果。
 
-虽然需要更多的研究，但通常认为它在生理上耐受性良好\[*[来源请求]*\]。它可能具有[与经典迷幻剂相似的安全性](/文档/药物分类/迷幻剂.md)，经典迷幻剂已知具有低滥用潜力和低毒性。然而，严重的心理不良反应，如严重的[焦虑](/药效/认知效应.md)、[妄想](/药效/认知效应.md)、[错觉](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)总是可能的，特别是对于那些有精神障碍倾向的人。[\[6\]](#cite_note-6)
+虽然需要更多的研究，但通常认为它在生理上耐受性良好\[*[来源请求]*\]。它可能具有[与经典迷幻剂相似的安全性](/文档/药物分类/迷幻剂.md)，经典迷幻剂已知具有低滥用潜力和低毒性。然而，严重的心理不良反应，如严重的[焦虑](/药效/认知效应.md)、[妄想](/药效/认知效应.md)、[错觉](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)总是可能的，特别是对于那些有精神障碍倾向的人。\[6\]
 
 如果使用该物质，强烈建议采取[伤害减少措施](/文档/负责任的用药索引页.md)。
 
@@ -56,7 +56,7 @@ description:
 | [总时长](/文档/药效时长.md) | 5 - 7 小时 |
 | [药效发作](/文档/药效时长.md) | 20 - 40 分钟 |
 | [药效上升](/文档/药效时长.md) | 60 - 90 分钟 |
-| [药效达峰](/文档/药效时长.md) | 60 - 90 分钟 [\[1\]](#cite_note-1) |
+| [药效达峰](/文档/药效时长.md) | 60 - 90 分钟 \[1\] |
 | [药效褪去](/文档/药效时长.md) | 2.5 - 3.5 小时 |
 | [药效残余](/文档/药效时长.md) | 2 - 4 小时 |
 
@@ -113,7 +113,7 @@ description:
 
 **免责声明：** 本站的[剂量](/文档/给药剂量.md)信息仅汇集自用户和[资源](/文档/科学信息索引页.md)用于教育目的。它不是建议，应与其他来源核实以确保准确性。
 
-**[药物联用](#危险的相互作用)**
+**药物联用**
 
 *   [大麻](/药物/大麻.md)
 *   [兴奋剂](/文档/药物分类/兴奋剂.md)
@@ -125,52 +125,52 @@ description:
 目录
 --------
 
-*   [1 历史与文化](#历史与文化)
-*   [2 化学](#化学)
-*   [3 药理学](#药理学)
-*   [4 主观效应](#主观效应)
-    *   [4.1 **躯体效应**](#躯体效应)
-    *   [4.2 **视觉效应**](#视觉效应)
-        *   [4.2.1 增强](#增强)
-        *   [4.2.2 扭曲](#扭曲)
-        *   [4.2.3 几何](#几何)
-        *   [4.2.4 幻觉状态](#幻觉状态)
-    *   [4.3 **认知效应**](#认知效应)
-    *   [4.4 **听觉效应**](#听觉效应)
-    *   [4.5 **多重感官效应**](#多重感官效应)
-    *   [4.6 **超个人效应**](#超个人效应)
-    *   [4.7 药物联用效应](#药物联用效应)
-    *   [4.8 体验报告](#体验报告)
-*   [5 试剂结果](#试剂结果)
-*   [6 毒性和危害潜力](#毒性和危害潜力)
-    *   [6.1 神经毒性](#神经毒性)
-    *   [6.2 心脏风险](#心脏风险)
-    *   [6.3 致死剂量](#致死剂量)
-    *   [6.4 依赖性和滥用潜力](#依赖性和滥用潜力)
-    *   [6.5 危险的相互作用](#危险的相互作用)
-*   [7 法律地位](#法律地位)
-*   [8 另见](#另见)
-*   [9 外部链接](#外部链接)
-    *   [9.1 讨论](#讨论)
-*   [10 文献](#文献)
-*   [11 参考文献](#参考文献)
+*   1 历史与文化
+*   2 化学
+*   3 药理学
+*   4 主观效应
+    *   4.1 **躯体效应**
+    *   4.2 **视觉效应**
+        *   4.2.1 增强
+        *   4.2.2 扭曲
+        *   4.2.3 几何
+        *   4.2.4 幻觉状态
+    *   4.3 **认知效应**
+    *   4.4 **听觉效应**
+    *   4.5 **多重感官效应**
+    *   4.6 **超个人效应**
+    *   4.7 药物联用效应
+    *   4.8 体验报告
+*   5 试剂结果
+*   6 毒性和危害潜力
+    *   6.1 神经毒性
+    *   6.2 心脏风险
+    *   6.3 致死剂量
+    *   6.4 依赖性和滥用潜力
+    *   6.5 危险的相互作用
+*   7 法律地位
+*   8 另见
+*   9 外部链接
+    *   9.1 讨论
+*   10 文献
+*   11 参考文献
 
 历史与文化
 -------------------
 
 2C-B 于 1974 年由美国化学家和迷幻药研究员亚历山大·舒尔金（Alexander Shulgin）首次合成并测试了其精神活性，当时他正在研究基于[麦斯卡林](/药物/麦斯卡林.md)化学结构的新型迷幻化合物。
 
-舒尔金的发现后来发表在 1995 年的著作《[PiHKAL](/关于本站/CopyLeft精神.md)》中，他在书中将 2C-B 列为他认为最重要的“神奇半打”[迷幻](/文档/药物分类/迷幻剂.md)[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)之一。[\[2\]](#cite_note-PiHKAL-2) 该列表包括[麦斯卡林](/药物/麦斯卡林.md)、[DOM](/药物/DOM.md)、2C-B、[2C-E](/文档/药物分类/苯乙胺类物质.md)、[2C-T-2](/文档/药物分类/苯乙胺类物质.md)和[2C-T-7](/文档/药物分类/苯乙胺类物质.md)。[\[7\]](#cite_note-7) 在采访中，舒尔金多次宣称这是他最喜欢的迷幻旅程。[\[8\]](#cite_note-8)
+舒尔金的发现后来发表在 1995 年的著作《[PiHKAL](/关于本站/CopyLeft精神.md)》中，他在书中将 2C-B 列为他认为最重要的“神奇半打”[迷幻](/文档/药物分类/迷幻剂.md)[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)之一。\[2\] 该列表包括[麦斯卡林](/药物/麦斯卡林.md)、[DOM](/药物/DOM.md)、2C-B、[2C-E](/文档/药物分类/苯乙胺类物质.md)、[2C-T-2](/文档/药物分类/苯乙胺类物质.md)和[2C-T-7](/文档/药物分类/苯乙胺类物质.md)。\[7\] 在采访中，舒尔金多次宣称这是他最喜欢的迷幻旅程。\[8\]
 
-在 20 世纪 70 年代，美国的少数心理治疗师将其用于患者。这些治疗师报告说，它在他们与患者之间建立了温暖、共情的纽带，有助于打破患者的自我防御和内在阻力，并允许患者接触被压抑的情绪和记忆。除了副作用轻微和持续时间短之外，2C-B 的温和性质被认为是治疗环境中的理想特征。[\[9\]](#cite_note-9)
+在 20 世纪 70 年代，美国的少数心理治疗师将其用于患者。这些治疗师报告说，它在他们与患者之间建立了温暖、共情的纽带，有助于打破患者的自我防御和内在阻力，并允许患者接触被压抑的情绪和记忆。除了副作用轻微和持续时间短之外，2C-B 的温和性质被认为是治疗环境中的理想特征。\[9\]
 
 在地下心理治疗社区获得关注后不久，2C-B 开始在娱乐性药物场景中流行。由于其极小的药效消退期（comedown）和清晰、欣快的精神状态，它在锐舞（rave）和俱乐部派对中作为 [MDMA](/药物/MDMA.md) 的替代品而受到欢迎。
 
-在 20 世纪 80 年代和 90 年代初，几家外国公司以“Nexus”、“Erox”和“Performax”等品牌名称合法生产该物质，并宣传它可以缓解阳痿、性冷淡和性欲减退。它在成人书店和音像店、“Head”商店和一些夜总会出售。DEA 报告称，它以黄色药丸的形式在佛罗里达州迈阿密分销，并作为春药销售。[\[10\]](#cite_note-10)
+在 20 世纪 80 年代和 90 年代初，几家外国公司以“Nexus”、“Erox”和“Performax”等品牌名称合法生产该物质，并宣传它可以缓解阳痿、性冷淡和性欲减退。它在成人书店和音像店、“Head”商店和一些夜总会出售。DEA 报告称，它以黄色药丸的形式在佛罗里达州迈阿密分销，并作为春药销售。\[10\]
 
-在美国，MDMA 在 1985 年被列为附表 I 物质后，2C-B 作为 MDMA 的替代品而受到欢迎。2C-B 日益流行导致它也在 1995 年被列入附表 I。[\[5\]](#cite_note-DEA2001-5) 在 2000 年代，随着["策划药"](/文档/研究用化学品.md)/“设计师药物”场景和暗网市场的出现，人们对它的兴趣再次高涨。
+在美国，MDMA 在 1985 年被列为附表 I 物质后，2C-B 作为 MDMA 的替代品而受到欢迎。2C-B 日益流行导致它也在 1995 年被列入附表 I。\[5\] 在 2000 年代，随着["策划药"](/文档/研究用化学品.md)/“设计师药物”场景和暗网市场的出现，人们对它的兴趣再次高涨。
 
-1993 年至 1996 年初，2C-B 在南部非洲合法销售。它以“Ubulawu Nomathotholo”（大致翻译为“歌唱祖先的药物”）的名义作为桑格玛（传统治疗师）的药物进行销售。[\[11\]](#cite_note-11)[\[12\]](#cite_note-12)[\[13\]](#cite_note-13)
+1993 年至 1996 年初，2C-B 在南部非洲合法销售。它以“Ubulawu Nomathotholo”（大致翻译为“歌唱祖先的药物”）的名义作为桑格玛（传统治疗师）的药物进行销售。\[11\]\[12\]\[13\]
 
 化学
 ---------
@@ -180,7 +180,7 @@ description:
 
 2C-B，即 2,5-二甲氧基-4-溴苯乙胺，是一种[取代苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)。取代苯乙胺是一类基于苯乙胺结构的有机化合物，即一个苯环通过乙基链与一个氨基 (NH2) 结合。2C-B 在苯环的 R2 和 R5 碳上连接有甲氧基官能团 CH3O-，以及在 R4 碳上连接有一个溴原子。
 
-2C-B 属于苯乙胺的 [2C家族](/文档/药物分类/苯乙胺类物质.md)，该家族的所有成员都在苯环的 2 和 5 位上拥有甲氧基。[\[2\]](#cite_note-PiHKAL-2)
+2C-B 属于苯乙胺的 [2C家族](/文档/药物分类/苯乙胺类物质.md)，该家族的所有成员都在苯环的 2 和 5 位上拥有甲氧基。\[2\]
 
 药理学
 ------------
@@ -190,7 +190,7 @@ description:
 
 更多信息：[血清素能迷幻剂](/文档/药物分类/迷幻剂.md)
 
-与大多数[迷幻剂](/文档/药物分类/迷幻剂.md)不同，2C-B 已被证明是低效的[血清素](/文档/血清素.md) 5-HT2A 受体[部分激动剂](/文档/受体激动剂.md)[\[14\]](#cite_note-Moya2007-14) 甚至完全[拮抗剂](/文档/受体拮抗剂.md)。[\[15\]](#cite_note-15) 这表明 5-HT2C 受体主要负责介导 2C-B 用户体验到的效果。[\[14\]](#cite_note-Moya2007-14) 研究还表明，2C-B 会增加大鼠大脑中的[多巴胺](/文档/多巴胺.md)水平，这可能有助于其精神活性。[\[16\]](#cite_note-16)
+与大多数[迷幻剂](/文档/药物分类/迷幻剂.md)不同，2C-B 已被证明是低效的[血清素](/文档/血清素.md) 5-HT2A 受体[部分激动剂](/文档/受体激动剂.md)\[14\] 甚至完全[拮抗剂](/文档/受体拮抗剂.md)。\[15\] 这表明 5-HT2C 受体主要负责介导 2C-B 用户体验到的效果。\[14\] 研究还表明，2C-B 会增加大鼠大脑中的[多巴胺](/文档/多巴胺.md)水平，这可能有助于其精神活性。\[16\]
 
 然而，这些相互作用的作用以及它们如何导致[迷幻](/文档/药物分类/迷幻剂.md)体验仍然难以捉摸。
 
@@ -207,9 +207,9 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 *   **[恶心](/药效/恶心.md)** - 当以中等至高剂量服用时，据报道会出现轻微到极度的恶心，一旦用户呕吐或随着药效达峰的到来，恶心就会自行消退。
 *   **[食欲抑制](/药效/食欲抑制.md)** - 虽然不如 [MDMA](/药物/MDMA.md) 等兴奋剂那样强烈，但大多数剂量都会导致食欲下降。
 *   **[躯体控制增强](/药效/躯体控制增强.md)**
-*   **[血压升高](/药效/血压升高.md)**[\[17\]](#cite_note-17)
+*   **[血压升高](/药效/血压升高.md)**\[17\]
 *   **[体温升高](/药效/体温升高.md)**\[*[来源请求]*\]
-*   **[心率增快](/药效/心率增快.md)**[\[18\]](#cite_note-18)
+*   **[心率增快](/药效/心率增快.md)**\[18\]
 *   **[出汗增加](/药效/出汗增加.md)**
 *   **[脱水](/药效/脱水.md)**\[*[来源请求]*\]
 *   **[瞳孔扩大](/药效/瞳孔扩大.md)**
@@ -294,7 +294,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 *   **[大麻](/药物/大麻.md)** - 大麻主要加强并延长 2C-B 的感官和认知效果。这种组合应极其谨慎地使用，因为它也会增加大麻的[焦虑](/药效/认知效应.md)、[困惑](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)风险。
 *   **[解离剂](/文档/药物分类/解离剂.md)** - 当与解离剂结合使用时，几何形状、欣快感、解离和幻觉效果通常会大大增强。在 2C-B 的影响下，解离剂诱导的[洞、空间和虚空](/药效/视觉效应.md)比单独使用解离剂具有明显更生动的视觉效果。它还会导致更强烈的[内部幻觉](/药效/视觉效应.md)和相应的[困惑](/药效/认知效应.md)，这可能会发展成[妄想](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)。
 *   **[氧化亚氮](/药物/氧化亚氮.md)** - 氧化亚氮通常与迷幻剂结合使用。众所周知，两者具有强大的交叉协同效应，包括将用户直接送入["自我死"](/文档/精神探索.md)状态的能力。这种情况发生的速度和强度非常快，产生的欣快感通常会导致[强迫性补量](/文档/药物过量.md)的冲动。
-*   **[MDMA](/药物/MDMA.md)** - MDMA 强烈放大 2C-B 的躯体、视觉和认知效应。据报道，这种组合通过独特的身体高潮、精神状态和色彩独特的视觉效果产生强烈的欣快愉悦感。这些物质之间的协同作用是不可预测的，建议从比单独服用这两种物质明显更低的剂量开始。基于其与 LSD 的相似性，这种组合可能会增加 MDMA 的神经毒性作用，LSD 已被发现会增加 MDMA 的神经毒性。[\[19\]](#cite_note-19)
+*   **[MDMA](/药物/MDMA.md)** - MDMA 强烈放大 2C-B 的躯体、视觉和认知效应。据报道，这种组合通过独特的身体高潮、精神状态和色彩独特的视觉效果产生强烈的欣快愉悦感。这些物质之间的协同作用是不可预测的，建议从比单独服用这两种物质明显更低的剂量开始。基于其与 LSD 的相似性，这种组合可能会增加 MDMA 的神经毒性作用，LSD 已被发现会增加 MDMA 的神经毒性。\[19\]
 *   **[酒精](/药物/酒精.md)** - 酒精可以增加 2C-B 的去抑制和欣快效果，有助于其在娱乐环境中的使用。它可以少量使用以“缓解”旅程的边缘，以及以类似于苯二氮䓬类药物的方式减弱其迷幻效果。然而，通常不建议这样做，因为酒精能够引起[脱水](/药效/脱水.md)和[恶心](/药效/恶心.md)以及[躯体疲劳](/药效/躯体疲劳.md)，如果在中等到高剂量下服用，这可能会对旅程产生负面影响。强烈不鼓励大量饮酒，因为它很容易导致断片和不可预测的行为。
 *   **[苯二氮䓬类物质](/文档/药物分类/苯二氮䓬类物质.md)** - 根据剂量的不同，苯二氮䓬类药物可以轻微到完全降低 2C-B 旅程的认知、躯体和视觉效应的强度。它们非常有效地停止["恶性旅程"](/文档/恶性旅程.md)，代价是健忘和降低旅程强度。由于它们的高滥用和成瘾潜力，建议在获取它们用于此目的时要谨慎。
 *   **[迷幻剂](/文档/药物分类/迷幻剂.md)** - 当与其他迷幻剂结合使用时，每种物质的躯体、认知和视觉效果都会强烈增强和协同。这些物质之间的协同作用是不可预测的，因此通常不建议这样做。如果选择结合迷幻剂，建议从比单独服用任何一种物质明显更低的剂量开始。
@@ -341,15 +341,15 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 
 ### 神经毒性
 
-正常剂量的 2C-B 不太可能具有神经毒性。[\[20\]](#cite_note-20) 通过对大鼠皮层培养物数据的粗略推断，神经元活性的 IC50 可能由至少 330-650mg 的剂量引起。[\[21\]](#cite_note-21) 换句话说，用户应避免如此大的剂量以避免长期损害，但典型剂量应在安全范围内。
+正常剂量的 2C-B 不太可能具有神经毒性。\[20\] 通过对大鼠皮层培养物数据的粗略推断，神经元活性的 IC50 可能由至少 330-650mg 的剂量引起。\[21\] 换句话说，用户应避免如此大的剂量以避免长期损害，但典型剂量应在安全范围内。
 
 ### 心脏风险
 
-用户报告称在较高剂量下会出现高血压、体温过高和心动过速。[\[22\]](#cite_note-22) 因此，患有既往心脏病的人应避免使用 2C-B，用户应监测体温和心率并做出相应反应。不鼓励在服用 2C-B 时进行剧烈的体力消耗。
+用户报告称在较高剂量下会出现高血压、体温过高和心动过速。\[22\] 因此，患有既往心脏病的人应避免使用 2C-B，用户应监测体温和心率并做出相应反应。不鼓励在服用 2C-B 时进行剧烈的体力消耗。
 
 ### 致死剂量
 
-目前没有 2C-B 的 LD50 数据，但认为它比活性剂量高得多。[亚历山大·舒尔金](/关于本站/关于FreeODwiki.md)报告了 100 mg 的口服剂量，没有明显的伤害。[\[2\]](#cite_note-PiHKAL-2)
+目前没有 2C-B 的 LD50 数据，但认为它比活性剂量高得多。[亚历山大·舒尔金](/关于本站/关于FreeODwiki.md)报告了 100 mg 的口服剂量，没有明显的伤害。\[2\]
 
 ### 依赖性和滥用潜力
 
@@ -368,39 +368,39 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 *   **[锂](http://en.wikipedia.org/wiki/Lithium_(medication))** - 锂通常用于治疗双相情感障碍。有大量的轶事证据表明，将其与[迷幻剂](/文档/药物分类/迷幻剂.md)一起服用会显着增加[精神病](/药效/精神病发作.md)和[癫痫发作](/文档/癫痫发作.md)的风险。因此，严格不鼓励这种组合。
 *   **[大麻](/药物/大麻.md)** - 大麻可能与 2C-B 的效果产生意想不到的强烈且不可预测的协同作用。这种组合建议谨慎使用，因为它会显着增加不良心理反应的风险，如[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[惊恐发作](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)。建议用户从正常大麻剂量的一小部分开始，并在两次吸入之间长时间休息，以避免意外过量。
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像[苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md)或[哌甲酯](/药物/哌甲酯.md)这样的兴奋剂会影响大脑的许多部分并改变[多巴胺能](/文档/多巴胺.md)功能。这种组合会增加[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[惊恐发作](/药效/认知效应.md)和[思维循环](/药效/认知效应.md)的风险。这种相互作用也可能导致[躁狂](/药效/躁狂.md)和[精神病](/药效/精神病发作.md)的风险升高。\[*[来源请求]*\]
-*   **[曲马多](/文档/药物分类/阿片类药物.md)** - 有充分的文献证明曲马多会降低癫痫发作阈值[\[23\]](#cite_note-23)，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能会在易感个体中引发癫痫发作。\[*[来源请求]*\]
+*   **[曲马多](/文档/药物分类/阿片类药物.md)** - 有充分的文献证明曲马多会降低癫痫发作阈值\[23\]，而[迷幻剂](/文档/药物分类/迷幻剂.md)可能会在易感个体中引发癫痫发作。\[*[来源请求]*\]
 
 法律地位
 ------------
 
-在国际上，2C-B 于 2001 年 3 月 20 日被列入联合国精神药物公约附表 II 物质。[\[24\]](#cite_note-24)
+在国际上，2C-B 于 2001 年 3 月 20 日被列入联合国精神药物公约附表 II 物质。\[24\]
 
-*   **阿根廷**：2C-B 是附表 I 管制物质。[\[25\]](#cite_note-25)
-*   **澳大利亚**：根据毒物标准，2C-B 在澳大利亚被视为附表 9 违禁物质。[\[26\]](#cite_note-Poisons_Standard-26) 附表 9 物质是指可能被滥用或误用的物质，除经联邦和/或州或领地卫生当局批准用于医学或科学研究，或用于分析、教学或培训目的外，法律禁止制造、拥有、销售或使用。[\[26\]](#cite_note-Poisons_Standard-26)
-*   **奥地利**：根据 SMG (Suchtmittelgesetz Österreich)，在奥地利拥有、生产和销售 2C-B 是非法的。2C-B 被列入 Suchtgiftverordnung 的附表 V，该附表进一步规定了 SMG。[\[27\]](#cite_note-27)
+*   **阿根廷**：2C-B 是附表 I 管制物质。\[25\]
+*   **澳大利亚**：根据毒物标准，2C-B 在澳大利亚被视为附表 9 违禁物质。\[26\] 附表 9 物质是指可能被滥用或误用的物质，除经联邦和/或州或领地卫生当局批准用于医学或科学研究，或用于分析、教学或培训目的外，法律禁止制造、拥有、销售或使用。\[26\]
+*   **奥地利**：根据 SMG (Suchtmittelgesetz Österreich)，在奥地利拥有、生产和销售 2C-B 是非法的。2C-B 被列入 Suchtgiftverordnung 的附表 V，该附表进一步规定了 SMG。\[27\]
 *   **比利时**：在比利时拥有、生产和销售 2C-B 是非法的。\[*[来源请求]*\]
-*   **巴西**：在巴西拥有、生产和销售 2C-B 是非法的，因为它被列在 Portaria SVS/MS nº 344 上。[\[28\]](#cite_note-28)
-*   **加拿大**：2C-B 在加拿大是附表 III 药物。[\[29\]](#cite_note-29)
-*   **克罗地亚**：由于 2C-B 是一种 2,5-二甲氧基苯乙胺，因此在克罗地亚拥有、生产和销售它是非法的。[\[30\]](#cite_note-30)
-*   **捷克共和国**：2-CB 是附表 II 药物。[\[31\]](#cite_note-31)
-*   **丹麦**：2C-B 是清单 B 管制物质。[\[32\]](#cite_note-32)
+*   **巴西**：在巴西拥有、生产和销售 2C-B 是非法的，因为它被列在 Portaria SVS/MS nº 344 上。\[28\]
+*   **加拿大**：2C-B 在加拿大是附表 III 药物。\[29\]
+*   **克罗地亚**：由于 2C-B 是一种 2,5-二甲氧基苯乙胺，因此在克罗地亚拥有、生产和销售它是非法的。\[30\]
+*   **捷克共和国**：2-CB 是附表 II 药物。\[31\]
+*   **丹麦**：2C-B 是清单 B 管制物质。\[32\]
 *   **爱沙尼亚**：2C-B 在爱沙尼亚是附表 I 药物。\[*[来源请求]*\]
 *   **芬兰**：在芬兰拥有、生产和销售 2C-B 是非法的。\[*[来源请求]*\]
-*   **德国**：自 1993 年 1 月 31 日起，2C-B 受 Anlage I BtMG（麻醉品法，附表 I）管制[\[33\]](#cite_note-33)。[\[34\]](#cite_note-34) 未经许可制造、拥有、进口、出口、购买、出售、获取或分发它是非法的。[\[35\]](#cite_note-35)
-*   **意大利**：2C-B 在意大利是附表 I (tabella I) 药物。[\[36\]](#cite_note-36)
+*   **德国**：自 1993 年 1 月 31 日起，2C-B 受 Anlage I BtMG（麻醉品法，附表 I）管制\[33\]。\[34\] 未经许可制造、拥有、进口、出口、购买、出售、获取或分发它是非法的。\[35\]
+*   **意大利**：2C-B 在意大利是附表 I (tabella I) 药物。\[36\]
 *   **日本**：拥有、生产和销售是非法的。\[*[来源请求]*\]
-*   **拉脱维亚**：2C-B 是附表 I 管制物质。[\[37\]](#cite_note-37)
-*   **卢森堡**：自 2001 年以来，2C-B 是违禁物质。[\[38\]](#cite_note-38)
+*   **拉脱维亚**：2C-B 是附表 I 管制物质。\[37\]
+*   **卢森堡**：自 2001 年以来，2C-B 是违禁物质。\[38\]
 *   **荷兰**：拥有、生产和销售是非法的。\[*[来源请求]*\]
 *   **挪威**：2C-B 是附表 II 药物。\[*[来源请求]*\]
-*   **波兰**：自 2015 年以来，根据“Wykaz środków odurzających i substancji psychotropowych”，拥有 2C-B 是非法的。[\[39\]](#cite_note-39)
+*   **波兰**：自 2015 年以来，根据“Wykaz środków odurzających i substancji psychotropowych”，拥有 2C-B 是非法的。\[39\]
 *   **俄罗斯**：拥有、生产和销售是非法的。\[*[来源请求]*\]
 *   **西班牙**：2C-B 是第 2 类药物。\[*[来源请求]*\]
-*   **瑞典**：2C-B 是附表 I 药物。[\[40\]](#cite_note-40)
-*   **瑞士**：2C-B 是 Verzeichnis D 中特别指明的管制物质。[\[41\]](#cite_note-41)
-*   **土耳其**：2C-B 被归类为药物，拥有、生产、供应或进口是非法的。[\[42\]](#cite_note-42)
-*   **英国**：由于苯乙胺兜底条款，2C-B 在英国是 A 类药物。[\[43\]](#cite_note-43)
-*   **美国**：2C-B 是附表 I 药物。[\[44\]](#cite_note-44)
+*   **瑞典**：2C-B 是附表 I 药物。\[40\]
+*   **瑞士**：2C-B 是 Verzeichnis D 中特别指明的管制物质。\[41\]
+*   **土耳其**：2C-B 被归类为药物，拥有、生产、供应或进口是非法的。\[42\]
+*   **英国**：由于苯乙胺兜底条款，2C-B 在英国是 A 类药物。\[43\]
+*   **美国**：2C-B 是附表 I 药物。\[44\]
 
 另见
 --------
@@ -434,47 +434,47 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/文档/科
 参考文献
 ----------
 
-1.  [↑](#cite_ref-1) Pablo Mallaroni, Natasha L. Mason , Johannes T. Reckweg, Riccardo Paci, Sabrina Ritscher, Stefan W. Toennes, Eef L. Theunissen, Kim P.C. Kuypers, Johannes G. Ramaekers (May 2023). ["Assessment of the acute effects of 2C-B vs psilocybin on subjective experience, mood and cognition"](https://doi.org/10.1002/cpt.2958). *Clinical Pharmacology and Therapeutics*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/cpt.2958](//doi.org/10.1002%2Fcpt.2958).
-2.  ↑ [2.0](#cite_ref-PiHKAL_2-0) [2.1](#cite_ref-PiHKAL_2-1) [2.2](#cite_ref-PiHKAL_2-2) [2.3](#cite_ref-PiHKAL_2-3) [Alexander Shulgin](/关于本站/关于FreeODwiki.md); Ann Shulgin (1991). ["#20. 2C-B"](https://erowid.org/library/books_online/pihkal/pihkal020.shtml). *[PiHKAL: A Chemical Love Story](/关于本站/CopyLeft精神.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
-3.  [↑](#cite_ref-3) [Shulgin, A. T.](/关于本站/关于FreeODwiki.md); Carter, M. F. (1975). "Centrally active phenethylamines". *Psychopharmacology Communications*. **1** (1): 93–98. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0098-616X](//www.worldcat.org/issn/0098-616X). [OCLC](http://en.wikipedia.org/wiki/OCLC) [924603662](//www.worldcat.org/oclc/924603662). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [1223994](//www.ncbi.nlm.nih.gov/pubmed/1223994).
-4.  [↑](#cite_ref-4) ["2C-B: Effects"](http://www.erowid.org/chemicals/2cb/2cb_effects.shtml). Erowid. February 12, 1998 \[Modified 2015\]. Retrieved February 10, 2020.
-5.  ↑ [5.0](#cite_ref-DEA2001_5-0) [5.1](#cite_ref-DEA2001_5-1) ["2C-B (Nexus) Reappears on the Club Drug Scene"](http://www.justice.gov/archive/ndic/pubs0/665/665p.pdf) (PDF). *Information Bulletin*. Drug Enforcement Agency (DEA). May 2001. 2001-L0424-002.
-6.  [↑](#cite_ref-6) Strassmann, Rick (1984). "Adverse reactions to psychedelic drugs. A review of the literature". *Journal of Nervous and Mental Disease*. **172** (10): 577–595. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/00005053-198410000-00001](//doi.org/10.1097%2F00005053-198410000-00001). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3018](//www.worldcat.org/issn/0022-3018). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1754691](//www.worldcat.org/oclc/1754691). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [6384428](//www.ncbi.nlm.nih.gov/pubmed/6384428).
-7.  [↑](#cite_ref-7) [Alexander Shulgin](/关于本站/关于FreeODwiki.md); Ann Shulgin (1991). [*PiHKAL: A Chemical Love Story*](https://erowid.org/library/books_online/pihkal/pihkal.shtml). United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
-8.  [↑](#cite_ref-8) David Biello (March 20, 2008). ["Self-Experimenters: Psychedelic Chemist Explores the Surreality of Inner Space, One Drug at a Time"](https://www.scientificamerican.com/article/self-experimenter-chemist-explores-new-psychedelics/). *Scientific American*. Nature Publishing Group. [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1946-7087](//www.worldcat.org/issn/1946-7087). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0036-8733](//www.worldcat.org/issn/0036-8733). Retrieved October 10, 2020.
-9.  [↑](#cite_ref-9) ["2C-B (Nexus)"](http://www.encyclopedia.com/science/applied-and-social-sciences-magazines/2c-b-nexus). *Encyclopedia.com*. Retrieved October 10, 2020.
-10. [↑](#cite_ref-10) <https://www.justice.gov/archive/ndic/pubs0/665/665p.pdf>
-11. [↑](#cite_ref-11) ["History of Nexus"](http://www.tacethno.com/info/2cb/2cbhistory.html#South%20Africa). *Tacethno.com*. March 27, 2008. Retrieved May 15, 2012. \[*[可疑]*\]
-12. [↑](#cite_ref-12) "Anu" (February 1996) \[Modified 2016\]. ["The Nexus Factor: An Introduction to 2C-B"](http://www.erowid.org/chemicals/2cb/2cb_article1.shtml). Erowid. Retrieved October 10, 2020.
-13. [↑](#cite_ref-13) [*Ubulawu Nomathotholo Package*](http://www.erowid.org/chemicals/show_image.php?i=2cb/ubulawu_pack.jpg) (Picture). Erowid. 2002.
-14. ↑ [14.0](#cite_ref-Moya2007_14-0) [14.1](#cite_ref-Moya2007_14-1) Moya, P. R.; Berg, K. A.; Gutiérrez-Hernandez, M. A.; Sáez-Briones, P.; Reyes-Parada, M.; Cassels, B. K.; Clarke, W. P. (2007). "Functional Selectivity of Hallucinogenic Phenethylamine and Phenylisopropylamine Derivatives at Human 5-Hydroxytryptamine (5-HT)2A and 5-HT2C Receptors". *Journal of Pharmacology and Experimental Therapeutics*. **321** (3): 1054–1061. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.106.117507](//doi.org/10.1124%2Fjpet.106.117507). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0103](//www.worldcat.org/issn/1521-0103). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1606914](//www.worldcat.org/oclc/1606914). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17337633](//www.ncbi.nlm.nih.gov/pubmed/17337633).
-15. [↑](#cite_ref-15) Villalobos, C. A.; Bull, P.; Sáez, P.; Cassels, B. K.; Huidobro‐Toro, J. P. (2004). ["4‐Bromo‐2,5‐dimethoxyphenethylamine (2C‐B) and structurally related phenylethylamines are potent 5‐HT2A receptor antagonists in Xenopus laevis oocytes"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1574890). *British Journal of Pharmacology*. **141** (7): 1167–1174. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/sj.bjp.0705722](//doi.org/10.1038%2Fsj.bjp.0705722) [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1476-5381](//www.worldcat.org/issn/1476-5381). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01240522](//www.worldcat.org/oclc/01240522). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [1574890](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1574890). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [15006903](//www.ncbi.nlm.nih.gov/pubmed/15006903).
-16. [↑](#cite_ref-16) Páleníček, T.; Fujáková, M.; Brunovský, M.; Horáček, J.; Gorman, I.; Balíková, M.; Rambousek, L.; Syslová, K.; Kačer, P.; Zach, P.; Bubeníková-Valešová, V.; Tylš, F.; Kubešová, A.; Puskarčíková, J.; Höschl, C. (2013). "Behavioral, neurochemical and pharmaco-EEG profiles of the psychedelic drug 4-bromo-2,5-dimethoxyphenethylamine (2C-B) in rats". *Psychopharmacology*. **225**: 75–93. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-012-2797-7](//doi.org/10.1007%2Fs00213-012-2797-7). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3158](//www.worldcat.org/issn/0033-3158). [OCLC](http://en.wikipedia.org/wiki/OCLC) [2409222](//www.worldcat.org/oclc/2409222). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [22842791](//www.ncbi.nlm.nih.gov/pubmed/22842791).
-17. [↑](#cite_ref-17) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368/>
-18. [↑](#cite_ref-18) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368/>
-19. [↑](#cite_ref-19) Armstrong, B. D.; Paik, E.; Chhith, S.; Lelievre, V.; Waschek, J. A.; Howard, S. G. (October 26, 2004). "Potentiation of (DL)‐3, 4‐methylenedioxymethamphetamine (MDMA)‐induced toxicity by the serotonin 2A receptor partial agonist d‐lysergic acid diethylamide (LSD), and the protection of same by the serotonin 2A/2C receptor antagonist MDL 11,939". *Neuroscience Research Communications*. **35** (2): 83–95. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/nrc.20023](//doi.org/10.1002%2Fnrc.20023). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-6769](//www.worldcat.org/issn/1520-6769).
-20. [↑](#cite_ref-20) Hondebrink, L.; Zwartsen, A.; Westerink, R. H. S. (2018). ["Effect fingerprinting of new psychoactive substances (NPS): What can we learn from in vitro data?"](https://www.sciencedirect.com/science/article/pii/S0163725817302723). *Pharmacology & Therapeutics*. **182**: 193–224. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.pharmthera.2017.10.022](//doi.org/10.1016%2Fj.pharmthera.2017.10.022). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-016X](//www.worldcat.org/issn/1879-016X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0163-7258](//www.worldcat.org/issn/0163-7258). [OCLC](http://en.wikipedia.org/wiki/OCLC) [04981366](//www.worldcat.org/oclc/04981366). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29097307](//www.ncbi.nlm.nih.gov/pubmed/29097307).
-21. [↑](#cite_ref-21) Zwartsen, A.; Hondebrink, L.; Westerink, R. H. S. (2018). "Neurotoxicity screening of new psychoactive substances (NPS): Effects on neuronal activity in rat cortical cultures using microelectrode arrays (MEA)". *NeuroToxicology*. **66**: 87–97. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.neuro.2018.03.007](//doi.org/10.1016%2Fj.neuro.2018.03.007). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0161-813X](//www.worldcat.org/issn/0161-813X). [OCLC](http://en.wikipedia.org/wiki/OCLC) [47153737](//www.worldcat.org/oclc/47153737). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29572046](//www.ncbi.nlm.nih.gov/pubmed/29572046).
-22. [↑](#cite_ref-22) Papaseit, E.; Farré, M.; Pérez-Mañá, C.; Torrens, M.; Ventura, M.; Pujadas, M.; de la Torre, R.; González, D. (2018). ["Acute Pharmacological Effects of 2C-B in Humans: An Observational Study"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368). *Frontiers in Pharmacology*. **9**: 206. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fphar.2018.00206](//doi.org/10.3389%2Ffphar.2018.00206). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1663-9812](//www.worldcat.org/issn/1663-9812). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1198838203](//www.worldcat.org/oclc/1198838203). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [5859368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29593537](//www.ncbi.nlm.nih.gov/pubmed/29593537).
-23. [↑](#cite_ref-23) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
-24. [↑](#cite_ref-24) ["Inclusion of 4-bromo-2,5-dimethoxyphenethylamine (2C -B) in Schedule II of the Convention on Psychotropic Substances of 1971"](https://www.unodc.org/unodc/en/Resolutions/resolution_2001-03-20_1.html). United Nations Office on Drugs and Crime (UNODC). March 20, 2001. CND Dec.44/1. Retrieved December 10, 2019.
-25. [↑](#cite_ref-25) ["Decreto 299/2010: Actualización de la lista de estupefacientes y demás sustancias químicas que deberán ser incluidas en losalcances de la Ley Nº 23.737"](http://www.cicad.oas.org/fortalecimiento_institucional/legislations/PDF/AR/decreto_299.pdf) (PDF) (in Spanish). February 3, 2010. Retrieved December 10, 2019.
-26. ↑ [26.0](#cite_ref-Poisons_Standard_26-0) [26.1](#cite_ref-Poisons_Standard_26-1) ["Poisons Standard October 2015"](https://www.comlaw.gov.au/Details/F2015L01534). *Federal Register of Legislation*.
-27. [↑](#cite_ref-27) ["Bundesrecht konsolidiert: Gesamte Rechtsvorschrift für Suchtgiftverordnung"](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053) (in German). May 18, 2020. Retrieved January 10, 2021.
-28. [↑](#cite_ref-28) ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (ANVISA) \[Brazilian Health Regulatory Agency (ANVISA)\]. December 5, 2016.
-29. [↑](#cite_ref-29) ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
-30. [↑](#cite_ref-30) ["Popis: Droga, psihotropnih tvari i biljaka iz kojih se može dobiti droga te tvari koje se mogu uporabiti za izradu droga"](https://narodne-novine.nn.hr/clanci/sluzbeni/2016_01_10_258.html). *Narodne novine* (in Croatian). January 29, 2016. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1331-7725](//www.worldcat.org/issn/1331-7725). [OCLC](http://en.wikipedia.org/wiki/OCLC) [299165185](//www.worldcat.org/oclc/299165185).
-31. [↑](#cite_ref-31) <https://www.zakonyprolidi.cz/cs/2013-463#f5150333>
-32. [↑](#cite_ref-32) ["Bekendtgørelse om euforiserende stoffer"](https://www.retsinformation.dk/Forms/R0710.aspx?id=137169) (in Danish). Civilstyrelsen \[Civil Agency\]. May 31, 2011. BEK Nr. 557. Retrieved December 10, 2019.
-33. [↑](#cite_ref-33) ["Betäubungsmittelgesetz (BtMG) Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) \[Narcotics Act (BtMG) Schedule I\] (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
-34. [↑](#cite_ref-34) ["Vierte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl192s2483.pdf) (PDF). *Bundesgesetzblatt Jahrgang 1992 Teil I Nr. 61* (in German). Bundesanzeiger Verlag \[Federal Gazette\] (published December 31, 1992). December 23, 1992. p. 1058. [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [0344-7634](//www.worldcat.org/issn/0344-7634).
-35. [↑](#cite_ref-35) ["Betäubungsmittelgesetz (BtMG) § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) \[Narcotics Act (BtMG) § 29\] (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
-36. [↑](#cite_ref-36) ["Tabella I"](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf) (PDF) (in Italian). Ministero della Salute \[Ministry of Health\]. p. 8. Retrieved January 7, 2020.
-37. [↑](#cite_ref-37) ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
-38. [↑](#cite_ref-38) Règlement grand-ducal du 14 décembre 2001 modifiant l'annexe du règlement grand-ducal modifié du 4 mars 1974 concernant certaines substances toxiques. | <http://legilux.public.lu/eli/etat/leg/rgd/2001/12/14/n10/jo>
-39. [↑](#cite_ref-39) <https://pl.wikipedia.org/wiki/2C-B#Stan_prawny_w_Polsce>
-40. [↑](#cite_ref-40) ["Föreskrifter om ändring i Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika"](https://web.archive.org/web/20180916034638/https://lakemedelsverket.se/upload/lvfs/LVFS_2009-22.pdf) (PDF). *Läkemedelsverkets författningssamling (LVFS)* (in Swedish). Läkemedelsverket \[Swedish Medical Products Agency\] (published December 8, 2009). November 25, 2009. p. 1. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1101-5225](//www.worldcat.org/issn/1101-5225). [OCLC](http://en.wikipedia.org/wiki/OCLC) [185277860](//www.worldcat.org/oclc/185277860). LVFS 2009:22. Archived from [the original](http://www.lakemedelsverket.se/upload/lvfs/LVFS_2009-22.pdf) (PDF) on September 16, 2018.
-41. [↑](#cite_ref-41) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei \[Federal Chancellery of Switzerland\]. Retrieved January 1, 2020.
-42. [↑](#cite_ref-42) ["Bakanlar Kurulu Kararı - Karar Sayısı : 2011/1310"](https://resmigazete.gov.tr/eskiler/2011/02/20110213-4.htm). *Resmî Gazete, Sayı: 27845* (in Turkish). Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü \[General Directorate of Legislation Development and Publication\] (published February 13, 2011). January 7, 2011.
-43. [↑](#cite_ref-43) ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
-44. [↑](#cite_ref-44) ["Part 1308: Schedules of Controlled Substances: §1308.11 Schedule I"](https://www.deadiversion.usdoj.gov/21cfr/cfr/1308/1308_11.htm). *Title 21 Code of Federal Regulations*. Diversion Control Devision. Retrieved November 5, 2019.
+1.  ↑ Pablo Mallaroni, Natasha L. Mason , Johannes T. Reckweg, Riccardo Paci, Sabrina Ritscher, Stefan W. Toennes, Eef L. Theunissen, Kim P.C. Kuypers, Johannes G. Ramaekers (May 2023). ["Assessment of the acute effects of 2C-B vs psilocybin on subjective experience, mood and cognition"](https://doi.org/10.1002/cpt.2958). *Clinical Pharmacology and Therapeutics*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/cpt.2958](//doi.org/10.1002%2Fcpt.2958).
+2.  ↑ 2.0 2.1 2.2 2.3 [Alexander Shulgin](/关于本站/关于FreeODwiki.md); Ann Shulgin (1991). ["#20. 2C-B"](https://erowid.org/library/books_online/pihkal/pihkal020.shtml). *[PiHKAL: A Chemical Love Story](/关于本站/CopyLeft精神.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
+3.  ↑ [Shulgin, A. T.](/关于本站/关于FreeODwiki.md); Carter, M. F. (1975). "Centrally active phenethylamines". *Psychopharmacology Communications*. **1** (1): 93–98. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0098-616X](//www.worldcat.org/issn/0098-616X). [OCLC](http://en.wikipedia.org/wiki/OCLC) [924603662](//www.worldcat.org/oclc/924603662). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [1223994](//www.ncbi.nlm.nih.gov/pubmed/1223994).
+4.  ↑ ["2C-B: Effects"](http://www.erowid.org/chemicals/2cb/2cb_effects.shtml). Erowid. February 12, 1998 \[Modified 2015\]. Retrieved February 10, 2020.
+5.  ↑ 5.0 5.1 ["2C-B (Nexus) Reappears on the Club Drug Scene"](http://www.justice.gov/archive/ndic/pubs0/665/665p.pdf) (PDF). *Information Bulletin*. Drug Enforcement Agency (DEA). May 2001. 2001-L0424-002.
+6.  ↑ Strassmann, Rick (1984). "Adverse reactions to psychedelic drugs. A review of the literature". *Journal of Nervous and Mental Disease*. **172** (10): 577–595. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/00005053-198410000-00001](//doi.org/10.1097%2F00005053-198410000-00001). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3018](//www.worldcat.org/issn/0022-3018). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1754691](//www.worldcat.org/oclc/1754691). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [6384428](//www.ncbi.nlm.nih.gov/pubmed/6384428).
+7.  ↑ [Alexander Shulgin](/关于本站/关于FreeODwiki.md); Ann Shulgin (1991). [*PiHKAL: A Chemical Love Story*](https://erowid.org/library/books_online/pihkal/pihkal.shtml). United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
+8.  ↑ David Biello (March 20, 2008). ["Self-Experimenters: Psychedelic Chemist Explores the Surreality of Inner Space, One Drug at a Time"](https://www.scientificamerican.com/article/self-experimenter-chemist-explores-new-psychedelics/). *Scientific American*. Nature Publishing Group. [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1946-7087](//www.worldcat.org/issn/1946-7087). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0036-8733](//www.worldcat.org/issn/0036-8733). Retrieved October 10, 2020.
+9.  ↑ ["2C-B (Nexus)"](http://www.encyclopedia.com/science/applied-and-social-sciences-magazines/2c-b-nexus). *Encyclopedia.com*. Retrieved October 10, 2020.
+10. ↑ <https://www.justice.gov/archive/ndic/pubs0/665/665p.pdf>
+11. ↑ ["History of Nexus"](http://www.tacethno.com/info/2cb/2cbhistory.html#South%20Africa). *Tacethno.com*. March 27, 2008. Retrieved May 15, 2012. \[*[可疑]*\]
+12. ↑ "Anu" (February 1996) \[Modified 2016\]. ["The Nexus Factor: An Introduction to 2C-B"](http://www.erowid.org/chemicals/2cb/2cb_article1.shtml). Erowid. Retrieved October 10, 2020.
+13. ↑ [*Ubulawu Nomathotholo Package*](http://www.erowid.org/chemicals/show_image.php?i=2cb/ubulawu_pack.jpg) (Picture). Erowid. 2002.
+14. ↑ 14.0 14.1 Moya, P. R.; Berg, K. A.; Gutiérrez-Hernandez, M. A.; Sáez-Briones, P.; Reyes-Parada, M.; Cassels, B. K.; Clarke, W. P. (2007). "Functional Selectivity of Hallucinogenic Phenethylamine and Phenylisopropylamine Derivatives at Human 5-Hydroxytryptamine (5-HT)2A and 5-HT2C Receptors". *Journal of Pharmacology and Experimental Therapeutics*. **321** (3): 1054–1061. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.106.117507](//doi.org/10.1124%2Fjpet.106.117507). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0103](//www.worldcat.org/issn/1521-0103). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1606914](//www.worldcat.org/oclc/1606914). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17337633](//www.ncbi.nlm.nih.gov/pubmed/17337633).
+15. ↑ Villalobos, C. A.; Bull, P.; Sáez, P.; Cassels, B. K.; Huidobro‐Toro, J. P. (2004). ["4‐Bromo‐2,5‐dimethoxyphenethylamine (2C‐B) and structurally related phenylethylamines are potent 5‐HT2A receptor antagonists in Xenopus laevis oocytes"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1574890). *British Journal of Pharmacology*. **141** (7): 1167–1174. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/sj.bjp.0705722](//doi.org/10.1038%2Fsj.bjp.0705722) [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1476-5381](//www.worldcat.org/issn/1476-5381). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01240522](//www.worldcat.org/oclc/01240522). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [1574890](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1574890). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [15006903](//www.ncbi.nlm.nih.gov/pubmed/15006903).
+16. ↑ Páleníček, T.; Fujáková, M.; Brunovský, M.; Horáček, J.; Gorman, I.; Balíková, M.; Rambousek, L.; Syslová, K.; Kačer, P.; Zach, P.; Bubeníková-Valešová, V.; Tylš, F.; Kubešová, A.; Puskarčíková, J.; Höschl, C. (2013). "Behavioral, neurochemical and pharmaco-EEG profiles of the psychedelic drug 4-bromo-2,5-dimethoxyphenethylamine (2C-B) in rats". *Psychopharmacology*. **225**: 75–93. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00213-012-2797-7](//doi.org/10.1007%2Fs00213-012-2797-7). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1432-2072](//www.worldcat.org/issn/1432-2072). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0033-3158](//www.worldcat.org/issn/0033-3158). [OCLC](http://en.wikipedia.org/wiki/OCLC) [2409222](//www.worldcat.org/oclc/2409222). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [22842791](//www.ncbi.nlm.nih.gov/pubmed/22842791).
+17. ↑ <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368/>
+18. ↑ <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368/>
+19. ↑ Armstrong, B. D.; Paik, E.; Chhith, S.; Lelievre, V.; Waschek, J. A.; Howard, S. G. (October 26, 2004). "Potentiation of (DL)‐3, 4‐methylenedioxymethamphetamine (MDMA)‐induced toxicity by the serotonin 2A receptor partial agonist d‐lysergic acid diethylamide (LSD), and the protection of same by the serotonin 2A/2C receptor antagonist MDL 11,939". *Neuroscience Research Communications*. **35** (2): 83–95. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/nrc.20023](//doi.org/10.1002%2Fnrc.20023). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-6769](//www.worldcat.org/issn/1520-6769).
+20. ↑ Hondebrink, L.; Zwartsen, A.; Westerink, R. H. S. (2018). ["Effect fingerprinting of new psychoactive substances (NPS): What can we learn from in vitro data?"](https://www.sciencedirect.com/science/article/pii/S0163725817302723). *Pharmacology & Therapeutics*. **182**: 193–224. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.pharmthera.2017.10.022](//doi.org/10.1016%2Fj.pharmthera.2017.10.022). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1879-016X](//www.worldcat.org/issn/1879-016X). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0163-7258](//www.worldcat.org/issn/0163-7258). [OCLC](http://en.wikipedia.org/wiki/OCLC) [04981366](//www.worldcat.org/oclc/04981366). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29097307](//www.ncbi.nlm.nih.gov/pubmed/29097307).
+21. ↑ Zwartsen, A.; Hondebrink, L.; Westerink, R. H. S. (2018). "Neurotoxicity screening of new psychoactive substances (NPS): Effects on neuronal activity in rat cortical cultures using microelectrode arrays (MEA)". *NeuroToxicology*. **66**: 87–97. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.neuro.2018.03.007](//doi.org/10.1016%2Fj.neuro.2018.03.007). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0161-813X](//www.worldcat.org/issn/0161-813X). [OCLC](http://en.wikipedia.org/wiki/OCLC) [47153737](//www.worldcat.org/oclc/47153737). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29572046](//www.ncbi.nlm.nih.gov/pubmed/29572046).
+22. ↑ Papaseit, E.; Farré, M.; Pérez-Mañá, C.; Torrens, M.; Ventura, M.; Pujadas, M.; de la Torre, R.; González, D. (2018). ["Acute Pharmacological Effects of 2C-B in Humans: An Observational Study"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368). *Frontiers in Pharmacology*. **9**: 206. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fphar.2018.00206](//doi.org/10.3389%2Ffphar.2018.00206). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1663-9812](//www.worldcat.org/issn/1663-9812). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1198838203](//www.worldcat.org/oclc/1198838203). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [5859368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5859368). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29593537](//www.ncbi.nlm.nih.gov/pubmed/29593537).
+23. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+24. ↑ ["Inclusion of 4-bromo-2,5-dimethoxyphenethylamine (2C -B) in Schedule II of the Convention on Psychotropic Substances of 1971"](https://www.unodc.org/unodc/en/Resolutions/resolution_2001-03-20_1.html). United Nations Office on Drugs and Crime (UNODC). March 20, 2001. CND Dec.44/1. Retrieved December 10, 2019.
+25. ↑ ["Decreto 299/2010: Actualización de la lista de estupefacientes y demás sustancias químicas que deberán ser incluidas en losalcances de la Ley Nº 23.737"](http://www.cicad.oas.org/fortalecimiento_institucional/legislations/PDF/AR/decreto_299.pdf) (PDF) (in Spanish). February 3, 2010. Retrieved December 10, 2019.
+26. ↑ 26.0 26.1 ["Poisons Standard October 2015"](https://www.comlaw.gov.au/Details/F2015L01534). *Federal Register of Legislation*.
+27. ↑ ["Bundesrecht konsolidiert: Gesamte Rechtsvorschrift für Suchtgiftverordnung"](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053) (in German). May 18, 2020. Retrieved January 10, 2021.
+28. ↑ ["RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N° 130, DE 2 DE DEZEMBRO DE 2016"](http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7) (in Portuguese). Agência Nacional de Vigilância Sanitária (ANVISA) \[Brazilian Health Regulatory Agency (ANVISA)\]. December 5, 2016.
+29. ↑ ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
+30. ↑ ["Popis: Droga, psihotropnih tvari i biljaka iz kojih se može dobiti droga te tvari koje se mogu uporabiti za izradu droga"](https://narodne-novine.nn.hr/clanci/sluzbeni/2016_01_10_258.html). *Narodne novine* (in Croatian). January 29, 2016. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1331-7725](//www.worldcat.org/issn/1331-7725). [OCLC](http://en.wikipedia.org/wiki/OCLC) [299165185](//www.worldcat.org/oclc/299165185).
+31. ↑ <https://www.zakonyprolidi.cz/cs/2013-463#f5150333>
+32. ↑ ["Bekendtgørelse om euforiserende stoffer"](https://www.retsinformation.dk/Forms/R0710.aspx?id=137169) (in Danish). Civilstyrelsen \[Civil Agency\]. May 31, 2011. BEK Nr. 557. Retrieved December 10, 2019.
+33. ↑ ["Betäubungsmittelgesetz (BtMG) Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) \[Narcotics Act (BtMG) Schedule I\] (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
+34. ↑ ["Vierte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl192s2483.pdf) (PDF). *Bundesgesetzblatt Jahrgang 1992 Teil I Nr. 61* (in German). Bundesanzeiger Verlag \[Federal Gazette\] (published December 31, 1992). December 23, 1992. p. 1058. [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [0344-7634](//www.worldcat.org/issn/0344-7634).
+35. ↑ ["Betäubungsmittelgesetz (BtMG) § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) \[Narcotics Act (BtMG) § 29\] (in German). Bundesamt für Justiz \[Federal Office of Justice\]. Retrieved December 10, 2019.
+36. ↑ ["Tabella I"](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf) (PDF) (in Italian). Ministero della Salute \[Ministry of Health\]. p. 8. Retrieved January 7, 2020.
+37. ↑ ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
+38. ↑ Règlement grand-ducal du 14 décembre 2001 modifiant l'annexe du règlement grand-ducal modifié du 4 mars 1974 concernant certaines substances toxiques. | <http://legilux.public.lu/eli/etat/leg/rgd/2001/12/14/n10/jo>
+39. ↑ <https://pl.wikipedia.org/wiki/2C-B#Stan_prawny_w_Polsce>
+40. ↑ ["Föreskrifter om ändring i Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika"](https://web.archive.org/web/20180916034638/https://lakemedelsverket.se/upload/lvfs/LVFS_2009-22.pdf) (PDF). *Läkemedelsverkets författningssamling (LVFS)* (in Swedish). Läkemedelsverket \[Swedish Medical Products Agency\] (published December 8, 2009). November 25, 2009. p. 1. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1101-5225](//www.worldcat.org/issn/1101-5225). [OCLC](http://en.wikipedia.org/wiki/OCLC) [185277860](//www.worldcat.org/oclc/185277860). LVFS 2009:22. Archived from [the original](http://www.lakemedelsverket.se/upload/lvfs/LVFS_2009-22.pdf) (PDF) on September 16, 2018.
+41. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei \[Federal Chancellery of Switzerland\]. Retrieved January 1, 2020.
+42. ↑ ["Bakanlar Kurulu Kararı - Karar Sayısı : 2011/1310"](https://resmigazete.gov.tr/eskiler/2011/02/20110213-4.htm). *Resmî Gazete, Sayı: 27845* (in Turkish). Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü \[General Directorate of Legislation Development and Publication\] (published February 13, 2011). January 7, 2011.
+43. ↑ ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
+44. ↑ ["Part 1308: Schedules of Controlled Substances: §1308.11 Schedule I"](https://www.deadiversion.usdoj.gov/21cfr/cfr/1308/1308_11.htm). *Title 21 Code of Federal Regulations*. Diversion Control Devision. Retrieved November 5, 2019.

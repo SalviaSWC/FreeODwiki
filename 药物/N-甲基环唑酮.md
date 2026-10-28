@@ -4,7 +4,7 @@
 
 * ![](/文件/Yellow-warning-sign1.png) **本页面尚未获得 PsychonautWiki 管理员的完整批准哦。** *其中可能包含**错误信息**，尤其是在[给药剂量](/文档/给药剂量.md)、[药效时长](/文档/药效时长.md)、[主观效应](/药效/主观效应索引.md)、毒性及其他风险等方面呢。它也可能尚未符合 PW 的文风与语法标准。*
 
-| ![](/文件/Songbird-egg.png) | **本文是一个[词条草稿](#)。**<br>*因此，它可能包含不完整或错误的信息哦。你可以通过扩充它来帮忙呢。* |
+| ![](/文件/Songbird-egg.png) | **本文是一个词条草稿。**<br>*因此，它可能包含不完整或错误的信息哦。你可以通过扩充它来帮忙呢。* |
 | ------------------------- | --------------------------------------------------------- |
 
 | N-甲基环唑酮                                                                                      |                                                          |
@@ -20,17 +20,17 @@
 | [给药途径](/文档/给药途径.md)                                                                          |                                                          |
 | **警告：** 由于个体体重、耐受、代谢和个人敏感性的差异，请始终从更低剂量开始哦。参见[负责任的用药](/文档/负责任的用药索引页.md)。                      | **口服**                                                   |
 | [给药剂量](/文档/给药剂量.md)                                                                          |                                                          |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                       | 5 mg                                                     |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                       | 5 - 10 mg                                                |
-| [中等](/文档/药物剂量分类.md#中等)                                                                       | 10 - 20 mg                                               |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                       | 20 - 30 mg                                               |
-| [严重](/文档/药物剂量分类.md#严重)                                                                       | 30 mg + **高剂量或持续使用可能导致肝损伤。**                             |
+| [阈值](/文档/药物剂量分类.md)                                                                       | 5 mg                                                     |
+| [轻微](/文档/药物剂量分类.md)                                                                       | 5 - 10 mg                                                |
+| [中等](/文档/药物剂量分类.md)                                                                       | 10 - 20 mg                                               |
+| [强烈](/文档/药物剂量分类.md)                                                                       | 20 - 30 mg                                               |
+| [严重](/文档/药物剂量分类.md)                                                                       | 30 mg + **高剂量或持续使用可能导致肝损伤。**                             |
 | [药效时长](/文档/药效时长.md)                                                                          |                                                          |
-| [总时长](/文档/药效时长.md#总时长)                                                                       | 9 - 12 小时                                                |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                     | 20 - 35 分钟                                               |
-| [药效上升](/文档/药效时长.md#药效上升)                                                                     | 15 - 25 分钟                                               |
-| [药效达峰](/文档/药效时长.md#药效达峰)                                                                     | 5 - 7 小时                                                 |
-| [药效褪去](/文档/药效时长.md#药效褪去)                                                                     | 3 - 4 小时                                                 |
+| [总时长](/文档/药效时长.md)                                                                       | 9 - 12 小时                                                |
+| [药效发作](/文档/药效时长.md)                                                                     | 20 - 35 分钟                                               |
+| [药效上升](/文档/药效时长.md)                                                                     | 15 - 25 分钟                                               |
+| [药效达峰](/文档/药效时长.md)                                                                     | 5 - 7 小时                                                 |
+| [药效褪去](/文档/药效时长.md)                                                                     | 3 - 4 小时                                                 |
 | **[免责声明](/关于本站/免责声明.md)：** PW 的[给药剂量](/文档/给药剂量.md)信息仅为基于用户与资源整理的教育性资料，不构成推荐，且应以其他来源交叉核实其准确性。 |                                                          |
 
 **N-环丙基-N-甲基匹莫林**（也称为 **N-甲基环唑酮** 或 **NMC**）是一种新型的[兴奋剂](/文档/药物分类/兴奋剂.md)，属于 4-氧唑烷酮类。它在结构上与 thozalinone 和 cyclazodone 有关。与[苯丙胺](/药物/苯丙胺.md)类似，cyclazodone 上甲基的加入被认为会提高其效力与持续时间。其作用机制涉及促进脑内[多巴胺](/文档/多巴胺.md)、[去甲肾上腺素](/文档/去甲肾上腺素.md)和[血清素](/文档/血清素.md)的释放。
@@ -47,28 +47,28 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **视觉效应**](#视觉效应)
+  * 3.1 **躯体效应**
+  * 3.2 **视觉效应**
 
-    * [3.2.1 变形](#变形)
-    * [3.2.2 幻觉状态](#幻觉状态)
-  * [3.3 **认知效应**](#认知效应)
-  * [3.4 **药效残余**](#药效残余)
-  * [3.5 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+    * 3.2.1 变形
+    * 3.2.2 幻觉状态
+  * 3.3 **认知效应**
+  * 3.4 **药效残余**
+  * 3.5 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [4.2 精神病](#精神病)
-  * [4.3 危险的药物联用](#危险的药物联用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 文献](#文献)
-* [9 参考文献](#参考文献)
+  * 4.1 耐受性与成瘾潜力
+  * 4.2 精神病
+  * 4.3 危险的药物联用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 文献
+* 9 参考文献
 
 ## 化学
 
@@ -150,7 +150,7 @@ _**免责声明：** 下列效应引用自[***主观效应索引***](/药效/主
 
 ### **药效残余** ![](/文件/Aftereffects%20\(3\).png)
 
-在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)期间发生的效应，通常与其[药效达峰](/文档/药效时长.md#药效达峰)时出现的效应相比，会让人感觉更负面、更不适。这通常被称为“comedown”，其发生是因为[神经递质](/文档/神经递质.md)耗竭。N-甲基环唑酮的“comedown”通常比 cyclazodone 更弱、更平滑，有些使用者甚至报告完全没有药效残余。其常见效应包括：
+在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)期间发生的效应，通常与其[药效达峰](/文档/药效时长.md)时出现的效应相比，会让人感觉更负面、更不适。这通常被称为“comedown”，其发生是因为[神经递质](/文档/神经递质.md)耗竭。N-甲基环唑酮的“comedown”通常比 cyclazodone 更弱、更平滑，有些使用者甚至报告完全没有药效残余。其常见效应包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[认知疲劳](/药效/认知疲劳.md)**
@@ -230,17 +230,17 @@ N-甲基环唑酮目前在世界各地都属于灰色地带化合物，也就是
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Gallant DM, Bishop MP, Scrignar CB, Hornsby L, Moore B, Inturrisi BB (December 1966). "A double-blind study of thozalinone (C1 39,808) in depressed outpatients". *Current Therapeutic Research, Clinical and Experimental*. **8** (12): 621–2. [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [4962734](//www.ncbi.nlm.nih.gov/pubmed/4962734).
-2. [↑](#cite_ref-2) "Cylert (Pemoline)" (PDF). FDA. December 2002.
-3. [↑](#cite_ref-3) [https://www.ncbi.nlm.nih.gov/pubmed/11083709](https://www.ncbi.nlm.nih.gov/pubmed/11083709)
-4. [↑](#cite_ref-4) Marotta, P. J., & Roberts, E. A. (1998). Pemoline hepatotoxicity in children. The Journal of Pediatrics, 132(5), 894-897.
-5. [↑](#cite_ref-5) [http://www.drugabuse.gov/drugs-abuse/emerging-trends](http://www.drugabuse.gov/drugs-abuse/emerging-trends)
+1. ↑ Gallant DM, Bishop MP, Scrignar CB, Hornsby L, Moore B, Inturrisi BB (December 1966). "A double-blind study of thozalinone (C1 39,808) in depressed outpatients". *Current Therapeutic Research, Clinical and Experimental*. **8** (12): 621–2. [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [4962734](//www.ncbi.nlm.nih.gov/pubmed/4962734).
+2. ↑ "Cylert (Pemoline)" (PDF). FDA. December 2002.
+3. ↑ [https://www.ncbi.nlm.nih.gov/pubmed/11083709](https://www.ncbi.nlm.nih.gov/pubmed/11083709)
+4. ↑ Marotta, P. J., & Roberts, E. A. (1998). Pemoline hepatotoxicity in children. The Journal of Pediatrics, 132(5), 894-897.
+5. ↑ [http://www.drugabuse.gov/drugs-abuse/emerging-trends](http://www.drugabuse.gov/drugs-abuse/emerging-trends)
 6. ↑    Shoptaw, S. J., Kao, U., & Ling, W. (2009). Treatment for amphetamine psychosis. The Cochrane Library.
-7. [↑](#cite_ref-7) Hofmann FG (1983). A Handbook on Drug and Alcohol Abuse: The Biomedical Aspects (2nd ed.). New York: Oxford University Press. p. 329. ISBN 9780195030570.
-8. [↑](#cite_ref-8) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-9. [↑](#cite_ref-9) ["Gesetz über den Verkehr mit Betäubungsmitteln (Betäubungsmittelgesetz - BtMG)"](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 28, 2019.
-10. [↑](#cite_ref-10) ["Neue-psychoaktive-Stoffe-Gesetz (NpSG)"](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 28, 2019.
-11. [↑](#cite_ref-11) ["§ 2 AMG"](https://www.gesetze-im-internet.de/amg_1976/__2.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 28, 2019.
-12. [↑](#cite_ref-12) Prof. Dr. Helmut Pollähne (July 11, 2014). ["Cannabinoide Kräutermischungen vor dem EuGH: Legal Highs bleiben legal"](https://www.lto.de/recht/hintergruende/h/eugh-urteil-c35813-c18114-legal-highs-kein-arzneimittel-strafbar-amg-btmg/) [Cannabinoid herbal mixtures at the ECJ: Legal highs stay legal] (in German). LTO. Retrieved December 28, 2019.
-13. [↑](#cite_ref-13) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-14. [↑](#cite_ref-14) [https://www.law.cornell.edu/uscode/text/21/813](https://www.law.cornell.edu/uscode/text/21/813)
+7. ↑ Hofmann FG (1983). A Handbook on Drug and Alcohol Abuse: The Biomedical Aspects (2nd ed.). New York: Oxford University Press. p. 329. ISBN 9780195030570.
+8. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+9. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln (Betäubungsmittelgesetz - BtMG)"](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 28, 2019.
+10. ↑ ["Neue-psychoaktive-Stoffe-Gesetz (NpSG)"](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 28, 2019.
+11. ↑ ["§ 2 AMG"](https://www.gesetze-im-internet.de/amg_1976/__2.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 28, 2019.
+12. ↑ Prof. Dr. Helmut Pollähne (July 11, 2014). ["Cannabinoide Kräutermischungen vor dem EuGH: Legal Highs bleiben legal"](https://www.lto.de/recht/hintergruende/h/eugh-urteil-c35813-c18114-legal-highs-kein-arzneimittel-strafbar-amg-btmg/) [Cannabinoid herbal mixtures at the ECJ: Legal highs stay legal] (in German). LTO. Retrieved December 28, 2019.
+13. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+14. ↑ [https://www.law.cornell.edu/uscode/text/21/813](https://www.law.cornell.edu/uscode/text/21/813)

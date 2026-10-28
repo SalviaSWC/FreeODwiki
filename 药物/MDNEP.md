@@ -5,7 +5,7 @@
 | ![Skull and crossbones darktextred2.png](/文件/Skull_and_crossbones_darktextred2.png) | **MDNEP 已与多起药物过量和死亡事件有关。** |
 | ----------------------------------------------------------------------------------- | -------------------------- |
 
-强烈不建议以高剂量使用本物质、连续多次补量使用，或与其他已知会增加[精神病发作](/药效/精神病发作.md)或[血清素综合征](/文档/血清素综合征.md)风险的物质联用哦。更多细节请见[本节](#毒性与伤害潜力)嘛。
+强烈不建议以高剂量使用本物质、连续多次补量使用，或与其他已知会增加[精神病发作](/药效/精神病发作.md)或[血清素综合征](/文档/血清素综合征.md)风险的物质联用哦。更多细节请见本节嘛。
 
 请不要将其与[MDEC](/药物/MDEC.md)混淆呢。
 
@@ -24,19 +24,19 @@
 | 化学分类                                                                                                           | *[卡西酮类物质](/文档/药物分类/卡西酮类物质.md) / [亚甲双氧基苯类物质](/文档/药物分类/亚甲双氧基苯类物质.md)* |
 | [给药途径](/文档/给药途径.md)                                                                                            |                                                                     |
 | - **警告：**由于个体体重、耐受、代谢与个人敏感性的差异，请始终从更低剂量开始哦。详见[负责任的用药部分](/文档/负责任的用药索引页.md)。                                     |                                                                     |
-| ⇣ [口服](/文档/给药途径.md#口服)                                                                                         |                                                                     |
+| ⇣ [口服](/文档/给药途径.md)                                                                                         |                                                                     |
 | [给药剂量](/文档/给药剂量.md)                                                                                            |                                                                     |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                                         | 5 mg                                                                |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                                         | 10 - 20 mg                                                          |
-| [中等](/文档/药物剂量分类.md#中等)                                                                                         | 20 - 40 mg                                                          |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                                         | 40 - 80 mg                                                          |
-| [严重](/文档/药物剂量分类.md#严重)                                                                                         | **MDNEP 在严重剂量下可能致命。**                                               |
+| [阈值](/文档/药物剂量分类.md)                                                                                         | 5 mg                                                                |
+| [轻微](/文档/药物剂量分类.md)                                                                                         | 10 - 20 mg                                                          |
+| [中等](/文档/药物剂量分类.md)                                                                                         | 20 - 40 mg                                                          |
+| [强烈](/文档/药物剂量分类.md)                                                                                         | 40 - 80 mg                                                          |
+| [严重](/文档/药物剂量分类.md)                                                                                         | **MDNEP 在严重剂量下可能致命。**                                               |
 | [药效时长](/文档/药效时长.md)                                                                                            |                                                                     |
-| [总时长](/文档/药效时长.md#总时长)                                                                                         | 4 - 8 小时                                                            |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                                       | 15 - 30 分钟                                                          |
-| [药效残余](/文档/药效时长.md#药效残余)                                                                                       | 6 - 24 小时                                                           |
+| [总时长](/文档/药效时长.md)                                                                                         | 4 - 8 小时                                                            |
+| [药效发作](/文档/药效时长.md)                                                                                       | 15 - 30 分钟                                                          |
+| [药效残余](/文档/药效时长.md)                                                                                       | 6 - 24 小时                                                           |
 | - **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅基于用户与各类[资料](/文档/index.md)整理，目的仅为教育用途，并非建议，准确性应以其他来源进一步核实呢。 |                                                                     |
-| [相互作用](#危险的相互作用)                                                                                               |                                                                     |
+| 相互作用                                                                                               |                                                                     |
 | 酒精                                                                                                             |                                                                     |
 | MXE                                                                                                            |                                                                     |
 | 解离剂                                                                                                            |                                                                     |
@@ -62,7 +62,7 @@ MDNEP 会与其他合成卡西酮一起，在线上作为[研究用化学品](/�
 
 ## 历史与文化
 
-更多信息： [研究用化学品 § 历史与文化](/文档/研究用化学品.md#历史与文化)
+更多信息： [研究用化学品 § 历史与文化](/文档/研究用化学品.md)
 
 合成卡西酮最早在 1920 年代末被首次合成，其中包括 methcathinone 和 mephedrone。不过，由于其副作用，它们并未进入医疗用途。到了 2000 年代初，合成卡西酮开始在“head shop”和网络上作为策划药出售，也被称作研究用化学品和“legal highs”。由于它们处于一种半合法状态，并且能够替代如[可卡因](/药物/可卡因.md)或[苯丙胺](/药物/苯丙胺.md)这类传统兴奋剂，因此在某些群体中变得相当流行。又因为它们曾被错误宣传成“浴盐”产品，媒体中也常把它们称作“bath salts”呢。
 
@@ -86,7 +86,7 @@ MDNEP 是 pentylone 的结构类似物。Pentylone 的化学结构由一个卡�
 
 ## 主观效应
 
-| ![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png) | **本主观效应章节仍为[未完成条目](/文档/index.md)**。<br>*因此，它仍在编写中，可能包含不完整或错误的信息哦。*<br>*你可以帮忙[扩充或修正它](#主观效应)呢。* |
+| ![Metacogghjgjvghnition.png](/文件/Metacogghjgjvghnition.png) | **本主观效应章节仍为[未完成条目](/文档/index.md)**。<br>*因此，它仍在编写中，可能包含不完整或错误的信息哦。*<br>*你可以帮忙扩充或修正它呢。* |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 
 与其他兴奋剂-共情剂相比，报告普遍认为 MDNEP 的兴奋作用强于共情作用。其共情感据说比起[MDMA](/药物/MDMA.md)、[6-APB](/药物/6-APB.md)或 methylone 这类物质要弱一些。MDNEP 也被描述为比传统共情剂更不令人欣快、满足感更低。有报告提示，其躯体副作用增加的幅度与理想效应并不成比例，这可能会促进强迫性补量哦。
@@ -113,7 +113,7 @@ _**免责声明：**下方列出的效应引用了[***主观效应索引***](/�
 
   * **[体温升高](/药效/体温升高.md)**
 * **[心律异常](/药效/心律异常.md)**
-* **[恶心](/药效/恶心.md)** - 恶心可能会在体验的[药效上升](/文档/药效时长.md#药效上升)阶段短暂出现，或在严重剂量下出现呢。
+* **[恶心](/药效/恶心.md)** - 恶心可能会在体验的[药效上升](/文档/药效时长.md)阶段短暂出现，或在严重剂量下出现呢。
 
 ### **视觉效应** ![Eye.svg](/文件/Eye.png)
 
@@ -170,7 +170,7 @@ _**免责声明：**下方列出的效应引用了[***主观效应索引***](/�
 | ![Ambulance2.png](/文件/Ambulance2.png) | **本毒性与伤害潜力章节仍为未完成条目。**因此，它可能包含不完整，甚至**具有危险性错误**的信息！你可以帮忙扩充或修正它呢。<br><br>*注意：若要使用本物质，请始终独立开展研究，并采取**[伤害减少措施](/文档/负责任的用药索引页.md)**。* |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 
-更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 MDNEP 是一种[研究用化学品](/文档/研究用化学品.md)，其人体使用历史非常短暂。关于其长期健康影响，目前所知极少，而确切的中毒剂量也尚不明确。
 
@@ -244,18 +244,18 @@ MDNEP 目前在世界大多数地区尚未被单独列管。
 
 ## 参考文献
 
-1. ↑     Wood, M. R., Bernal, I., Lalancette, R. A. (1 October 2017). ["The hydrochloride hydrates of pentylone and dibutylone and the hydrochloride salt of ephylone: the structures of three novel designer cathinones"](https://doi.org/10.1007/s11224-017-0951-x). *Structural Chemistry*. **28** (5): 1369–1376. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s11224-017-0951-x](//doi.org/10.1007%2Fs11224-017-0951-x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1572-9001](//www.worldcat.org/issn/1572-9001).
-2. ↑    Krotulski, A. J., Papsun, D. M., De Martinis, B. S., Mohr, A. L. A., Logan, B. K. (1 September 2018). ["N-Ethyl Pentylone (Ephylone) Intoxications: Quantitative Confirmation and Metabolite Identification in Authentic Human Biological Specimens"](https://academic.oup.com/jat/article/42/7/467/4957061). *Journal of Analytical Toxicology*. **42** (7): 467–475. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/jat/bky025](//doi.org/10.1093%2Fjat%2Fbky025). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0146-4760](//www.worldcat.org/issn/0146-4760).
-3. [↑](#cite_ref-3) Coppola, M., Mondola, R. (June 2012). ["Synthetic cathinones: Chemistry, pharmacology and toxicology of a new class of designer drugs of abuse marketed as "bath salts" or "plant food""](https://linkinghub.elsevier.com/retrieve/pii/S0378427412001117). *Toxicology Letters*. **211** (2): 144–149. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.toxlet.2012.03.009](//doi.org/10.1016%2Fj.toxlet.2012.03.009). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0378-4274](//www.worldcat.org/issn/0378-4274).
-4. [↑](#cite_ref-4) DoctorX, [*Ecstasy and MDMA aldulterated with N-Ethyl-Pentylone. A brief report*](https://energycontrol-international.org/ecstasy-mdma-aldulterated-with-n-ethyl-pentylone-report/), International Energy Control
-5. [↑](#cite_ref-5) Cozzi, N. V., Sievert, M. K., Shulgin, A. T., Jacob, P., Ruoho, A. E. (September 1999). ["Inhibition of plasma membrane monoamine transporters by β-ketoamphetamines"](https://linkinghub.elsevier.com/retrieve/pii/S0014299999005385). *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/S0014-2999(99)00538-5](//doi.org/10.1016%2FS0014-2999%2899%2900538-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-6. [↑](#cite_ref-6) Meyer, M. R., Maurer, H. H. ["Metabolism of Designer Drugs of Abuse: An Updated Review"](https://www.eurekaselect.com/article/16867). *Current Drug Metabolism*. **11** (5): 468–482.
-7. [↑](#cite_ref-7) Thirakul, P., S Hair, L., L Bergen, K., M Pearson, J. (1 May 2017). "Clinical Presentation, Autopsy Results and Toxicology Findings in an Acute N-Ethylpentylone Fatality". *Journal of Analytical Toxicology*. **41** (4): 342–346. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/jat/bkx004](//doi.org/10.1093%2Fjat%2Fbkx004). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1945-2403](//www.worldcat.org/issn/1945-2403).
+1. ↑     Wood, M. R., Bernal, I., Lalancette, R. A. (1 October 2017). ["The hydrochloride hydrates of pentylone and dibutylone and the hydrochloride salt of ephylone: the structures of three novel designer cathinones"](https://doi.org/10.1007/s11224-017-0951-x). *Structural Chemistry*. **28** (5): 1369–1376. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s11224-017-0951-x](//doi.org/10.1007%2Fs11224-017-0951-x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1572-9001](//www.worldcat.org/issn/1572-9001).
+2. ↑    Krotulski, A. J., Papsun, D. M., De Martinis, B. S., Mohr, A. L. A., Logan, B. K. (1 September 2018). ["N-Ethyl Pentylone (Ephylone) Intoxications: Quantitative Confirmation and Metabolite Identification in Authentic Human Biological Specimens"](https://academic.oup.com/jat/article/42/7/467/4957061). *Journal of Analytical Toxicology*. **42** (7): 467–475. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bky025](//doi.org/10.1093%2Fjat%2Fbky025). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0146-4760](//www.worldcat.org/issn/0146-4760).
+3. ↑ Coppola, M., Mondola, R. (June 2012). ["Synthetic cathinones: Chemistry, pharmacology and toxicology of a new class of designer drugs of abuse marketed as "bath salts" or "plant food""](https://linkinghub.elsevier.com/retrieve/pii/S0378427412001117). *Toxicology Letters*. **211** (2): 144–149. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.toxlet.2012.03.009](//doi.org/10.1016%2Fj.toxlet.2012.03.009). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0378-4274](//www.worldcat.org/issn/0378-4274).
+4. ↑ DoctorX, [*Ecstasy and MDMA aldulterated with N-Ethyl-Pentylone. A brief report*](https://energycontrol-international.org/ecstasy-mdma-aldulterated-with-n-ethyl-pentylone-report/), International Energy Control
+5. ↑ Cozzi, N. V., Sievert, M. K., Shulgin, A. T., Jacob, P., Ruoho, A. E. (September 1999). ["Inhibition of plasma membrane monoamine transporters by β-ketoamphetamines"](https://linkinghub.elsevier.com/retrieve/pii/S0014299999005385). *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/S0014-2999(99)00538-5](//doi.org/10.1016%2FS0014-2999%2899%2900538-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999).
+6. ↑ Meyer, M. R., Maurer, H. H. ["Metabolism of Designer Drugs of Abuse: An Updated Review"](https://www.eurekaselect.com/article/16867). *Current Drug Metabolism*. **11** (5): 468–482.
+7. ↑ Thirakul, P., S Hair, L., L Bergen, K., M Pearson, J. (1 May 2017). "Clinical Presentation, Autopsy Results and Toxicology Findings in an Acute N-Ethylpentylone Fatality". *Journal of Analytical Toxicology*. **41** (4): 342–346. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bkx004](//doi.org/10.1093%2Fjat%2Fbkx004). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1945-2403](//www.worldcat.org/issn/1945-2403).
 8. ↑   [*Schedules of Controlled Substances: Temporary Placement of N-Ethylpentylone in Schedule I*](https://www.federalregister.gov/documents/2018/06/13/2018-12669/schedules-of-controlled-substances-temporary-placement-of-n-ethylpentylone-in-schedule-i), 2018
-9. [↑](#cite_ref-9) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-10. [↑](#cite_ref-10) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-11. [↑](#cite_ref-11) New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
-12. [↑](#cite_ref-12) ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
-13. [↑](#cite_ref-13) ["Neunzehnte Verordnung zur Änderung von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s2850.pdf) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 25, 2019.
-14. [↑](#cite_ref-14) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
-15. [↑](#cite_ref-15) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+9. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+10. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+11. ↑ New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
+12. ↑ ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
+13. ↑ ["Neunzehnte Verordnung zur Änderung von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s2850.pdf) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 25, 2019.
+14. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
+15. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.

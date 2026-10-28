@@ -16,24 +16,24 @@
 
 | [给药途径](/文档/给药途径.md)                                                         |                        |
 | --------------------------------------------------------------------------- | ---------------------- |
-| - **警告：**由于个体体重、耐受、代谢和个人敏感性存在差异，务必从更低剂量开始哦。详见[负责任的用药索引页](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **警告：**由于个体体重、耐受、代谢和个人敏感性存在差异，务必从更低剂量开始哦。详见[负责任的用药索引页](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |            |
 | ---------------------- | ---------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 50 mg      |
-| [轻微](/文档/药物剂量分类.md#轻微) | 60-80 mg   |
-| [中等](/文档/药物剂量分类.md#中等) | 80-100 mg  |
-| [强烈](/文档/药物剂量分类.md#强烈) | 100-150 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 150 mg以上   |
+| [阈值](/文档/药物剂量分类.md) | 50 mg      |
+| [轻微](/文档/药物剂量分类.md) | 60-80 mg   |
+| [中等](/文档/药物剂量分类.md) | 80-100 mg  |
+| [强烈](/文档/药物剂量分类.md) | 100-150 mg |
+| [严重](/文档/药物剂量分类.md) | 150 mg以上   |
 
 | [药效时长](/文档/药效时长.md)      |         |
 | ------------------------ | ------- |
-| [总时长](/文档/药效时长.md#总时长)   | 8-12小时  |
-| [药效发作](/文档/药效时长.md#药效发作) | 20-70分钟 |
+| [总时长](/文档/药效时长.md)   | 8-12小时  |
+| [药效发作](/文档/药效时长.md) | 20-70分钟 |
 
 > **免责声明：**本站的[给药剂量](/文档/给药剂量.md)信息仅基于用户与资料整理而成，仅供教育用途，并不构成推荐，准确性还需结合其他来源进一步核实。
 
-[相互作用](#危险的相互作用)
+相互作用
 
 **βk-2C-B**（也称**Bk-2C-B**或**β-酮-2C-B**）是一种新型[迷幻剂](/文档/药物分类/迷幻剂.md)物质，属于[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)。它是[2C-B](/药物/2C-B.md)的结构类似物。
 
@@ -45,28 +45,28 @@
 
 ## 目录
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
 
-  * [4.1 **躯体效应**](#躯体效应)
-  * [4.2 **视觉效应**](#视觉效应)
+  * 4.1 **躯体效应**
+  * 4.2 **视觉效应**
 
-    * [4.2.1 增强](#增强)
-    * [4.2.2 扭曲](#扭曲)
-    * [4.2.3 几何](#几何)
-    * [4.2.4 幻觉状态](#幻觉状态)
-  * [4.3 **认知效应**](#认知效应)
-  * [4.4 **听觉效应**](#听觉效应)
-  * [4.5 体验报告](#体验报告)
-* [5 毒性与伤害可能](#毒性与伤害可能)
+    * 4.2.1 增强
+    * 4.2.2 扭曲
+    * 4.2.3 几何
+    * 4.2.4 幻觉状态
+  * 4.3 **认知效应**
+  * 4.4 **听觉效应**
+  * 4.5 体验报告
+* 5 毒性与伤害可能
 
-  * [5.1 耐受性与成瘾可能](#耐受性与成瘾可能)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-* [9 参考文献](#参考文献)
+  * 5.1 耐受性与成瘾可能
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+* 9 参考文献
 
 ## 历史与文化
 
@@ -86,7 +86,7 @@
 
 更多信息：[5-羟色胺能迷幻剂](/文档/药物分类/5-羟色胺能迷幻剂.md)
 
-βk-2C-B很可能作为一种[5-HT](/文档/血清素.md#5-ht系统)受体[部分激动剂](/文档/受体激动剂.md#部分激动剂)发挥作用。其[迷幻剂](/文档/药物分类/迷幻剂.md)效应一般被认为来自它在5-HT受体上的活性。然而，这些相互作用具体扮演怎样的角色，以及它们如何导致迷幻体验，目前仍不明确。
+βk-2C-B很可能作为一种[5-HT](/文档/血清素.md)受体[部分激动剂](/文档/受体激动剂.md)发挥作用。其[迷幻剂](/文档/药物分类/迷幻剂.md)效应一般被认为来自它在5-HT受体上的活性。然而，这些相互作用具体扮演怎样的角色，以及它们如何导致迷幻体验，目前仍不明确。
 
 ## 主观效应
 
@@ -116,7 +116,7 @@
 
 #### 扭曲
 
-* **[漂移](/药效/漂移.md)**（[液化](/药效/漂移.md#液化)、[呼吸](/药效/漂移.md#呼吸)、[形变](/药效/漂移.md#形变)和[流动](/药效/漂移.md#流动)）
+* **[漂移](/药效/漂移.md)**（[液化](/药效/漂移.md)、[呼吸](/药效/漂移.md)、[形变](/药效/漂移.md)和[流动](/药效/漂移.md)）
 * **[颜色偏移](/药效/颜色偏移.md)**
 * **[深度感知扭曲](/药效/深度感知扭曲.md)**
 * **[透视扭曲](/药效/透视扭曲.md)**
@@ -170,7 +170,7 @@
 
 ## 毒性与伤害可能
 
-更多信息：[研究用化学品 § 毒性与伤害可能](/文档/研究用化学品.md#毒性与伤害可能)以及[负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息：[研究用化学品 § 毒性与伤害可能](/文档/研究用化学品.md)以及[负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md)
 
 关于娱乐性使用βk-2C-B的毒性与长期健康影响，目前似乎尚未在任何科学语境下得到研究，确切中毒剂量也不清楚。这是因为Bk-2C-B是一种[研究用化学品](/文档/研究用化学品.md)，几乎没有人类使用史。来自精神探索社群的轶事性证据显示，单独尝试这种物质、剂量处于低至中等范围且使用频率很低时，似乎没有可明确归因于它本身的负面健康影响，不过任何结论都无法被完全保证。在摄入前，始终应进行[独立研究](https://www.google.com/)，以确认两种或更多物质的联用是否安全。
 
@@ -215,18 +215,18 @@
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Power, J. D., Kavanagh, P., O’Brien, J., Barry, M., Twamley, B., Talbot, B., Dowling, G., Brandt, S. D. (June 2015). ["Test purchase, identification and synthesis of 2‐amino‐1‐(4‐bromo‐2, 5‐dimethoxyphenyl)ethan‐1‐one (bk‐2C‐B)"](https://onlinelibrary.wiley.com/doi/10.1002/dta.1699). *Drug Testing and Analysis*. **7** (6): 512–518. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/dta.1699](//doi.org/10.1002%2Fdta.1699). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1942-7603](//www.worldcat.org/issn/1942-7603).
-2. [↑](#cite_ref-2) Frison, G., Odoardi, S., Frasson, S., Sciarrone, R., Ortar, G., Romolo, F. S., Strano Rossi, S. (15 July 2015). "Characterization of the designer drug bk-2C-B (2-amino-1-(bromo-dimethoxyphenyl)ethan-1-one) by gas chromatography/mass spectrometry without and with derivatization with 2,2,2-trichloroethyl chloroformate, liquid chromatography/high-resolution mass spectrometry, and nuclear magnetic resonance". *Rapid communications in mass spectrometry: RCM*. **29** (13): 1196–1204. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/rcm.7211](//doi.org/10.1002%2Frcm.7211). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1097-0231](//www.worldcat.org/issn/1097-0231).
-3. [↑](#cite_ref-3) Glennon, R. A., Bondarev, M. L., Khorana, N., Young, R., May, J. A., Hellberg, M. R., McLaughlin, M. A., Sharif, N. A. (18 November 2004). "Beta-oxygenated analogues of the 5-HT2A serotonin receptor agonist 1-(4-bromo-2,5-dimethoxyphenyl)-2-aminopropane". *Journal of Medicinal Chemistry*. **47** (24): 6034–6041. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/jm040082s](//doi.org/10.1021%2Fjm040082s). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-2623](//www.worldcat.org/issn/0022-2623).
-4. [↑](#cite_ref-4) Bluelight.ru - The Big & Dandy βK-2C-B Thread - Part 1 | [https://www.bluelight.org/xf/threads/the-big-dandy-%CE%B2k-2c-b-thread-part-1.694585](https://www.bluelight.org/xf/threads/the-big-dandy-%CE%B2k-2c-b-thread-part-1.694585)
-5. ↑   Beharry, S., Gibbons, S. (1 October 2016). ["An overview of emerging and new psychoactive substances in the United Kingdom"](https://www.sciencedirect.com/science/article/pii/S0379073816303437). *Forensic Science International*. **267**: 25–34. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.forsciint.2016.08.013](//doi.org/10.1016%2Fj.forsciint.2016.08.013). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0379-0738](//www.worldcat.org/issn/0379-0738).
-6. [↑](#cite_ref-6) Last checked in 09/20 via Google Scholar |[https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=%22bk-2c-b%22&btnG=&oq=%22bk-2c-%22](https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=%22bk-2c-b%22&btnG=&oq=%22bk-2c-%22)
-7. [↑](#cite_ref-7) Last checked in 09/20 via Google Trends | [https://trends.google.com/trends/explore?date=all&q=%CE%B2k-2C-B,%22bk-2C-B%22,%222C-B%22](https://trends.google.com/trends/explore?date=all&q=%CE%B2k-2C-B,%22bk-2C-B%22,%222C-B%22)
-8. [↑](#cite_ref-8) [*#20 2C-B PiHKAL*](http://isomerdesign.com/PiHKAL/read.php?id=20)
-9. [↑](#cite_ref-9) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
-10. [↑](#cite_ref-10) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-11. [↑](#cite_ref-11) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-12. [↑](#cite_ref-12) ["危険ドラッグの成分１６物質を新たに指定薬物に指定"](https://www.mhlw.go.jp/stf/houdou/0000078803.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved May 2, 2022.
-13. [↑](#cite_ref-13) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-14. [↑](#cite_ref-14) ["Åtta nya ämnen klassas som narkotika"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2019/april/atta-nya-amnen-klassas-som-narkotika/) (in Northern Sami). Folkhälsomyndigheten[The Swedish Public Health Agency]. Retrieved January 4, 2021.
-15. [↑](#cite_ref-15) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+1. ↑ Power, J. D., Kavanagh, P., O’Brien, J., Barry, M., Twamley, B., Talbot, B., Dowling, G., Brandt, S. D. (June 2015). ["Test purchase, identification and synthesis of 2‐amino‐1‐(4‐bromo‐2, 5‐dimethoxyphenyl)ethan‐1‐one (bk‐2C‐B)"](https://onlinelibrary.wiley.com/doi/10.1002/dta.1699). *Drug Testing and Analysis*. **7** (6): 512–518. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1699](//doi.org/10.1002%2Fdta.1699). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603).
+2. ↑ Frison, G., Odoardi, S., Frasson, S., Sciarrone, R., Ortar, G., Romolo, F. S., Strano Rossi, S. (15 July 2015). "Characterization of the designer drug bk-2C-B (2-amino-1-(bromo-dimethoxyphenyl)ethan-1-one) by gas chromatography/mass spectrometry without and with derivatization with 2,2,2-trichloroethyl chloroformate, liquid chromatography/high-resolution mass spectrometry, and nuclear magnetic resonance". *Rapid communications in mass spectrometry: RCM*. **29** (13): 1196–1204. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/rcm.7211](//doi.org/10.1002%2Frcm.7211). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1097-0231](//www.worldcat.org/issn/1097-0231).
+3. ↑ Glennon, R. A., Bondarev, M. L., Khorana, N., Young, R., May, J. A., Hellberg, M. R., McLaughlin, M. A., Sharif, N. A. (18 November 2004). "Beta-oxygenated analogues of the 5-HT2A serotonin receptor agonist 1-(4-bromo-2,5-dimethoxyphenyl)-2-aminopropane". *Journal of Medicinal Chemistry*. **47** (24): 6034–6041. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm040082s](//doi.org/10.1021%2Fjm040082s). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623).
+4. ↑ Bluelight.ru - The Big & Dandy βK-2C-B Thread - Part 1 | [https://www.bluelight.org/xf/threads/the-big-dandy-%CE%B2k-2c-b-thread-part-1.694585](https://www.bluelight.org/xf/threads/the-big-dandy-%CE%B2k-2c-b-thread-part-1.694585)
+5. ↑   Beharry, S., Gibbons, S. (1 October 2016). ["An overview of emerging and new psychoactive substances in the United Kingdom"](https://www.sciencedirect.com/science/article/pii/S0379073816303437). *Forensic Science International*. **267**: 25–34. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2016.08.013](//doi.org/10.1016%2Fj.forsciint.2016.08.013). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738).
+6. ↑ Last checked in 09/20 via Google Scholar |[https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=%22bk-2c-b%22&btnG=&oq=%22bk-2c-%22](https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=%22bk-2c-b%22&btnG=&oq=%22bk-2c-%22)
+7. ↑ Last checked in 09/20 via Google Trends | [https://trends.google.com/trends/explore?date=all&q=%CE%B2k-2C-B,%22bk-2C-B%22,%222C-B%22](https://trends.google.com/trends/explore?date=all&q=%CE%B2k-2C-B,%22bk-2C-B%22,%222C-B%22)
+8. ↑ [*#20 2C-B PiHKAL*](http://isomerdesign.com/PiHKAL/read.php?id=20)
+9. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
+10. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+11. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+12. ↑ ["危険ドラッグの成分１６物質を新たに指定薬物に指定"](https://www.mhlw.go.jp/stf/houdou/0000078803.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved May 2, 2022.
+13. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+14. ↑ ["Åtta nya ämnen klassas som narkotika"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2019/april/atta-nya-amnen-klassas-som-narkotika/) (in Northern Sami). Folkhälsomyndigheten[The Swedish Public Health Agency]. Retrieved January 4, 2021.
+15. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

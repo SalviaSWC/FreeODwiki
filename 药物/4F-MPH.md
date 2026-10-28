@@ -20,34 +20,34 @@ description:
 | 化学分类                                                                         | *[苄基哌啶类物质](/文档/药物分类/苄基哌啶类物质.md)* |
 | [给药途径](/文档/给药途径.md)                                                          |                                  |
 | **警告：**由于个体体重、耐受、代谢与个人敏感性的差异，请始终从较低剂量开始哦。参见[负责任的用药章节](/文档/负责任的用药索引页.md)。     |                                  |
-| ⇣ [口服](/文档/给药途径.md#口服)                                                       |                                  |
+| ⇣ [口服](/文档/给药途径.md)                                                       |                                  |
 | [给药剂量](/文档/给药剂量.md)                                                          |                                  |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                       | < 5 mg                           |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                       | 5-10 mg                          |
-| [中等](/文档/药物剂量分类.md#中等)                                                       | 10-15 mg                         |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                       | 15-20 mg                         |
-| [严重](/文档/药物剂量分类.md#严重)                                                       | 20 mg+                           |
+| [阈值](/文档/药物剂量分类.md)                                                       | < 5 mg                           |
+| [轻微](/文档/药物剂量分类.md)                                                       | 5-10 mg                          |
+| [中等](/文档/药物剂量分类.md)                                                       | 10-15 mg                         |
+| [强烈](/文档/药物剂量分类.md)                                                       | 15-20 mg                         |
+| [严重](/文档/药物剂量分类.md)                                                       | 20 mg+                           |
 | [药效时长](/文档/药效时长.md)                                                          |                                  |
-| [总时长](/文档/药效时长.md#总时长)                                                       | 4-8小时                            |
-| [药效发作](/文档/药效时长.md#药效发作)                                                     | 30-60分钟                          |
-| [药效达峰](/文档/药效时长.md#药效达峰)                                                     | 2-4小时                            |
-| [药效褪去](/文档/药效时长.md#药效褪去)                                                     | 1-2小时                            |
-| [药效残余](/文档/药效时长.md#药效残余)                                                     | 5-10小时                           |
-| ⇣ [鼻吸](/文档/给药途径.md#鼻吸)                                                       |                                  |
+| [总时长](/文档/药效时长.md)                                                       | 4-8小时                            |
+| [药效发作](/文档/药效时长.md)                                                     | 30-60分钟                          |
+| [药效达峰](/文档/药效时长.md)                                                     | 2-4小时                            |
+| [药效褪去](/文档/药效时长.md)                                                     | 1-2小时                            |
+| [药效残余](/文档/药效时长.md)                                                     | 5-10小时                           |
+| ⇣ [鼻吸](/文档/给药途径.md)                                                       |                                  |
 | [给药剂量](/文档/给药剂量.md)                                                          |                                  |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                       | 5 mg                             |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                       | 5-8 mg                           |
-| [中等](/文档/药物剂量分类.md#中等)                                                       | 8-14 mg                          |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                       | 14-20 mg                         |
-| [严重](/文档/药物剂量分类.md#严重)                                                       | 20 mg+                           |
+| [阈值](/文档/药物剂量分类.md)                                                       | 5 mg                             |
+| [轻微](/文档/药物剂量分类.md)                                                       | 5-8 mg                           |
+| [中等](/文档/药物剂量分类.md)                                                       | 8-14 mg                          |
+| [强烈](/文档/药物剂量分类.md)                                                       | 14-20 mg                         |
+| [严重](/文档/药物剂量分类.md)                                                       | 20 mg+                           |
 | [药效时长](/文档/药效时长.md)                                                          |                                  |
-| [总时长](/文档/药效时长.md#总时长)                                                       | 3-6小时                            |
-| [药效发作](/文档/药效时长.md#药效发作)                                                     | 10-30分钟                          |
-| [药效达峰](/文档/药效时长.md#药效达峰)                                                     | 1-2小时                            |
-| [药效褪去](/文档/药效时长.md#药效褪去)                                                     | 1-2小时                            |
-| [药效残余](/文档/药效时长.md#药效残余)                                                     | 4-8小时                            |
+| [总时长](/文档/药效时长.md)                                                       | 3-6小时                            |
+| [药效发作](/文档/药效时长.md)                                                     | 10-30分钟                          |
+| [药效达峰](/文档/药效时长.md)                                                     | 1-2小时                            |
+| [药效褪去](/文档/药效时长.md)                                                     | 1-2小时                            |
+| [药效残余](/文档/药效时长.md)                                                     | 4-8小时                            |
 | **免责声明：**本网站的[给药剂量](/文档/给药剂量.md)信息来自用户与资料来源，仅用于教育目的哦。它不是推荐用量，并且应通过其他来源核实准确性。 |                                  |
-| [药物联用](#危险药物联用)                                                              |                                  |
+| 药物联用                                                              |                                  |
 | 酒精                                                                           |                                  |
 | MXE                                                                          |                                  |
 | 解离剂                                                                          |                                  |
@@ -69,21 +69,21 @@ description:
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **药效残余**](#药效残余)
-  * [3.3 **认知效应**](#认知效应)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **药效残余**
+  * 3.3 **认知效应**
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受与成瘾潜力](#耐受与成瘾潜力)
-  * [4.2 危险药物联用](#危险药物联用)
-* [5 法律状态](#法律状态)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+  * 4.1 耐受与成瘾潜力
+  * 4.2 危险药物联用
+* 5 法律状态
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -126,7 +126,7 @@ _**免责声明：**下列效应引用自[***主观效应索引***](/文档/药�
 
 ### **药效残余** ![Aftereffects%20(3).png](/文件/Aftereffects%20\(3\).png)
 
-在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)期间出现的效应，相较于[药效达峰](/文档/药效时长.md#药效达峰)期间出现的效应，通常感觉更负面、更不舒服。这通常被称为“comedown”，其发生原因是[神经递质](/文档/神经递质.md)耗竭。其效应通常包括：
+在[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)期间出现的效应，相较于[药效达峰](/文档/药效时长.md)期间出现的效应，通常感觉更负面、更不舒服。这通常被称为“comedown”，其发生原因是[神经递质](/文档/神经递质.md)耗竭。其效应通常包括：
 
   * **[焦虑](/文档/药效/焦虑.md)**
   * **[认知疲劳](/文档/药效/认知疲劳.md)** —— 这一组成部分可能在该化合物药效褪去期间作为反弹效应发生，其强度通常与此前出现的增强效应相当。
@@ -158,10 +158,10 @@ _**免责声明：**下列效应引用自[***主观效应索引***](/文档/药�
 
 ## 毒性与伤害潜力
 
-| ![Ambulance2.png](/文件/Ambulance2.png) | **这个毒性与伤害潜力章节是一个草稿哦。**因此，它可能包含不完整、甚至**危险地错误**的信息！你可以帮助扩展或修正它呢。<br>*注：如果使用这种物质，请始终进行独立研究并采用**[伤害减少措施](/文档/负责任的用药索引页.md#一般原则)**。* |
+| ![Ambulance2.png](/文件/Ambulance2.png) | **这个毒性与伤害潜力章节是一个草稿哦。**因此，它可能包含不完整、甚至**危险地错误**的信息！你可以帮助扩展或修正它呢。<br>*注：如果使用这种物质，请始终进行独立研究并采用**[伤害减少措施](/文档/负责任的用药索引页.md)**。* |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 娱乐性使用4F-MPH的毒性与长期健康效应似乎尚未在任何科学语境中得到研究，确切的毒性剂量也未知。这是因为4F-MPH是一种[研究用化学品](/文档/研究用化学品.md)，人类使用历史非常短。来自尝试过4F-MPH者的轶事证据表明，单独以低至中等剂量、并且非常偶尔地尝试该药物，并没有可归因的负面健康效应（但没有什么可以被完全保证嘛）。在摄入前，应始终进行[独立研究](https://www.google.com)，以确保两种或更多物质的联用是安全的。
 
@@ -219,19 +219,19 @@ _**免责声明：**下列效应引用自[***主观效应索引***](/文档/药�
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) [http://www.bluelight.org/vb/threads/770658-4-Fluoromethylphenidate-(4F-MPH)](http://www.bluelight.org/vb/threads/770658-4-Fluoromethylphenidate-%284F-MPH%29)
-2. [↑](#cite_ref-2) Deutsch, H. M., Shi, Q., Gruszecka-Kowalik, E., Schweri, M. M. (15 March 1996). ["Synthesis and Pharmacology of Potential Cocaine Antagonists. 2. Structure−Activity Relationship Studies of Aromatic Ring-Substituted Methylphenidate Analogs"](https://pubs.acs.org/doi/10.1021/jm950697c). *Journal of Medicinal Chemistry*. **39** (6): 1201–1209. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/jm950697c](//doi.org/10.1021%2Fjm950697c). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-2623](//www.worldcat.org/issn/0022-2623).
-3. [↑](#cite_ref-3) Schweri, M. M., Deutsch, H. M., Massey, A. T., Holtzman, S. G. (May 2002). "Biochemical and behavioral characterization of novel methylphenidate analogs". *The Journal of Pharmacology and Experimental Therapeutics*. **301** (2): 527–535. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1124/jpet.301.2.527](//doi.org/10.1124%2Fjpet.301.2.527). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-3565](//www.worldcat.org/issn/0022-3565).
-4. [↑](#cite_ref-4) Davies, H. M. L., Hopper, D. W., Hansen, T., Liu, Q., Childers, S. R. (5 April 2004). "Synthesis of methylphenidate analogues and their binding affinities at dopamine and serotonin transport sites". *Bioorganic & Medicinal Chemistry Letters*. **14** (7): 1799–1802. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.bmcl.2003.12.097](//doi.org/10.1016%2Fj.bmcl.2003.12.097). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0960-894X](//www.worldcat.org/issn/0960-894X).
-5. [↑](#cite_ref-5) Misra, M., Shi, Q., Ye, X., Gruszecka-Kowalik, E., Bu, W., Liu, Z., Schweri, M. M., Deutsch, H. M., Venanzi, C. A. (15 October 2010). "Quantitative structure-activity relationship studies of threo-methylphenidate analogs". *Bioorganic & Medicinal Chemistry*. **18** (20): 7221–7238. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.bmc.2010.08.034](//doi.org/10.1016%2Fj.bmc.2010.08.034). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1464-3391](//www.worldcat.org/issn/1464-3391).
-6. [↑](#cite_ref-6) Singh, S. (1 March 2000). ["Chemistry, Design, and Structure−Activity Relationship of Cocaine Antagonists"](https://pubs.acs.org/doi/10.1021/cr9700538). *Chemical Reviews*. **100** (3): 925–1024. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/cr9700538](//doi.org/10.1021%2Fcr9700538). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0009-2665](//www.worldcat.org/issn/0009-2665).
-7. [↑](#cite_ref-7) McLaughlin, G., Morris, N., Kavanagh, P. V., Power, J. D., Dowling, G., Twamley, B., O’Brien, J., Hessman, G., Murphy, B., Walther, D., Partilla, J. S., Baumann, M. H., Brandt, S. D. (March 2017). ["Analytical characterization and pharmacological evaluation of the new psychoactive substance 4-fluoromethylphenidate (4F-MPH) and differentiation between the (±)- threo and (±)- erythro diastereomers: Analytical characterization and pharmacological evaluation of 4-fluoromethylphenidate"](https://onlinelibrary.wiley.com/doi/10.1002/dta.2167). *Drug Testing and Analysis*. **9** (3): 347–357. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/dta.2167](//doi.org/10.1002%2Fdta.2167). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1942-7603](//www.worldcat.org/issn/1942-7603).
-8. [↑](#cite_ref-8) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-9. [↑](#cite_ref-9) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-10. [↑](#cite_ref-10) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 23, 2019.
-11. [↑](#cite_ref-11) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 23, 2019.
-12. [↑](#cite_ref-12) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-13. [↑](#cite_ref-13) [*Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden. Deze stoffen zijn schadelijk. Gebruikers kunnen er gezondheidsproblemen van krijgen en er zelfs door overlijden.*](https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs), 2025
-14. [↑](#cite_ref-14) Cumhurbaşkanı Kararı Karar Sayısı : 1335 | [https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf](https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf)
-15. [↑](#cite_ref-15) [*The Misuse of Drugs Act 1971 (Amendment) Order 2017*](https://www.legislation.gov.uk/uksi/2017/634/made)
-16. [↑](#cite_ref-16) [*Alabama SB333, 2014, Regular Session*](https://legiscan.com/AL/text/SB333/id/988417)
+1. ↑ [http://www.bluelight.org/vb/threads/770658-4-Fluoromethylphenidate-(4F-MPH)](http://www.bluelight.org/vb/threads/770658-4-Fluoromethylphenidate-%284F-MPH%29)
+2. ↑ Deutsch, H. M., Shi, Q., Gruszecka-Kowalik, E., Schweri, M. M. (15 March 1996). ["Synthesis and Pharmacology of Potential Cocaine Antagonists. 2. Structure−Activity Relationship Studies of Aromatic Ring-Substituted Methylphenidate Analogs"](https://pubs.acs.org/doi/10.1021/jm950697c). *Journal of Medicinal Chemistry*. **39** (6): 1201–1209. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm950697c](//doi.org/10.1021%2Fjm950697c). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623).
+3. ↑ Schweri, M. M., Deutsch, H. M., Massey, A. T., Holtzman, S. G. (May 2002). "Biochemical and behavioral characterization of novel methylphenidate analogs". *The Journal of Pharmacology and Experimental Therapeutics*. **301** (2): 527–535. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.301.2.527](//doi.org/10.1124%2Fjpet.301.2.527). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565).
+4. ↑ Davies, H. M. L., Hopper, D. W., Hansen, T., Liu, Q., Childers, S. R. (5 April 2004). "Synthesis of methylphenidate analogues and their binding affinities at dopamine and serotonin transport sites". *Bioorganic & Medicinal Chemistry Letters*. **14** (7): 1799–1802. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.bmcl.2003.12.097](//doi.org/10.1016%2Fj.bmcl.2003.12.097). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0960-894X](//www.worldcat.org/issn/0960-894X).
+5. ↑ Misra, M., Shi, Q., Ye, X., Gruszecka-Kowalik, E., Bu, W., Liu, Z., Schweri, M. M., Deutsch, H. M., Venanzi, C. A. (15 October 2010). "Quantitative structure-activity relationship studies of threo-methylphenidate analogs". *Bioorganic & Medicinal Chemistry*. **18** (20): 7221–7238. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.bmc.2010.08.034](//doi.org/10.1016%2Fj.bmc.2010.08.034). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1464-3391](//www.worldcat.org/issn/1464-3391).
+6. ↑ Singh, S. (1 March 2000). ["Chemistry, Design, and Structure−Activity Relationship of Cocaine Antagonists"](https://pubs.acs.org/doi/10.1021/cr9700538). *Chemical Reviews*. **100** (3): 925–1024. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/cr9700538](//doi.org/10.1021%2Fcr9700538). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0009-2665](//www.worldcat.org/issn/0009-2665).
+7. ↑ McLaughlin, G., Morris, N., Kavanagh, P. V., Power, J. D., Dowling, G., Twamley, B., O’Brien, J., Hessman, G., Murphy, B., Walther, D., Partilla, J. S., Baumann, M. H., Brandt, S. D. (March 2017). ["Analytical characterization and pharmacological evaluation of the new psychoactive substance 4-fluoromethylphenidate (4F-MPH) and differentiation between the (±)- threo and (±)- erythro diastereomers: Analytical characterization and pharmacological evaluation of 4-fluoromethylphenidate"](https://onlinelibrary.wiley.com/doi/10.1002/dta.2167). *Drug Testing and Analysis*. **9** (3): 347–357. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.2167](//doi.org/10.1002%2Fdta.2167). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603).
+8. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+9. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+10. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 23, 2019.
+11. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 23, 2019.
+12. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+13. ↑ [*Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden. Deze stoffen zijn schadelijk. Gebruikers kunnen er gezondheidsproblemen van krijgen en er zelfs door overlijden.*](https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs), 2025
+14. ↑ Cumhurbaşkanı Kararı Karar Sayısı : 1335 | [https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf](https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf)
+15. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2017*](https://www.legislation.gov.uk/uksi/2017/634/made)
+16. ↑ [*Alabama SB333, 2014, Regular Session*](https://legiscan.com/AL/text/SB333/id/988417)

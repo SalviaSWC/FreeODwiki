@@ -17,29 +17,29 @@
 
 | [给药途径](/文档/给药途径.md)                                                           |                        |
 | ----------------------------------------------------------------------------- | ---------------------- |
-| - **警告：**由于个体体重、耐受性、代谢和个人敏感度都可能不同，请务必从更低剂量开始哦。参见[负责任的用药部分](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **警告：**由于个体体重、耐受性、代谢和个人敏感度都可能不同，请务必从更低剂量开始哦。参见[负责任的用药部分](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |              |
 | ---------------------- | ------------ |
-| [阈值](/文档/药物剂量分类.md#阈值) | 20 mg        |
-| [轻微](/文档/药物剂量分类.md#轻微) | 40 - 80 mg   |
-| [中等](/文档/药物剂量分类.md#中等) | 80 - 125 mg  |
-| [强烈](/文档/药物剂量分类.md#强烈) | 125 - 225 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 225 mg +     |
+| [阈值](/文档/药物剂量分类.md) | 20 mg        |
+| [轻微](/文档/药物剂量分类.md) | 40 - 80 mg   |
+| [中等](/文档/药物剂量分类.md) | 80 - 125 mg  |
+| [强烈](/文档/药物剂量分类.md) | 125 - 225 mg |
+| [严重](/文档/药物剂量分类.md) | 225 mg +     |
 
 | [药效时长](/文档/药效时长.md)      |            |
 | ------------------------ | ---------- |
-| [总时长](/文档/药效时长.md#总时长)   | 3 - 5小时    |
-| [药效发作](/文档/药效时长.md#药效发作) | 15 - 60分钟  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 60 - 120分钟 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 60 - 120分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 4 - 12小时   |
+| [总时长](/文档/药效时长.md)   | 3 - 5小时    |
+| [药效发作](/文档/药效时长.md) | 15 - 60分钟  |
+| [药效达峰](/文档/药效时长.md) | 60 - 120分钟 |
+| [药效褪去](/文档/药效时长.md) | 60 - 120分钟 |
+| [药效残余](/文档/药效时长.md) | 4 - 12小时   |
 
 | 免责声明                                                                                                                     |   |
 | ------------------------------------------------------------------------------------------------------------------------ | - |
 | - **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为基于用户与其他[资料来源](/文档/科学信息索引页.md)整理的教育用途内容，并不构成推荐呢。请务必结合其他来源进一步核实其准确性。 |   |
 
-| [危险的相互作用](#危险的相互作用) |   |
+| 危险的相互作用 |   |
 | ------------------- | - |
 | 酒精                  |   |
 | MXE                 |   |
@@ -66,25 +66,25 @@ MDNMB在人类中的使用历史很短，关于其药理性质、代谢过程和
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **认知效应**](#认知效应)
-  * [3.3 **药效残余**](#药效残余)
-  * [3.4 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **认知效应**
+  * 3.3 **药效残余**
+  * 3.4 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [4.2 精神病发作](#精神病发作)
-  * [4.3 危险的相互作用](#危险的相互作用)
+  * 4.1 耐受性与成瘾潜力
+  * 4.2 精神病发作
+  * 4.3 危险的相互作用
 
-    * [4.3.1 血清素综合征风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+    * 4.3.1 血清素综合征风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -131,9 +131,9 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
   * **[性欲增强](/药效/性欲增强.md)**
   * **[音乐欣赏能力增强](/药效/音乐欣赏能力增强.md)**
 
-### **药效残余** ![Aftereffects(3).svg](/文件/Aftereffects (3).svg)
+### **药效残余** ![Aftereffects(3).svg](/文件/Aftereffects)
 
-* 在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验进入[药效褪去](/文档/药效时长.md#药效褪去)阶段时，出现的效应通常会比[药效达峰](/文档/药效时长.md#药效达峰)期间的效应更加负面且令人不适。这通常被称为“下滑期”，其产生原因多与[神经递质](/文档/神经递质.md)耗竭有关。其常见表现包括：
+* 在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验进入[药效褪去](/文档/药效时长.md)阶段时，出现的效应通常会比[药效达峰](/文档/药效时长.md)期间的效应更加负面且令人不适。这通常被称为“下滑期”，其产生原因多与[神经递质](/文档/神经递质.md)耗竭有关。其常见表现包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[认知疲劳](/药效/认知疲劳.md)**
@@ -151,7 +151,7 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 
 ## 毒性与伤害潜力
 
-更多信息：[[研究用化学品]§毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息：[[研究用化学品]§毒性与伤害潜力](/文档/研究用化学品.md)
 
 娱乐性使用MDNMB的毒性和长期健康影响似乎尚未在任何科学语境下得到研究，其确切的中毒剂量也未知。这主要是因为MDNMB在人类中的使用历史非常短。来自社区内尝试过MDNMB的人所提供的轶事证据表明，在低到中等剂量且不频繁使用的情况下，这种物质似乎并不会带来特别显著的不良效应。
 
@@ -234,21 +234,21 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 
 ## 参考文献
 
-1. [↑](#cite_ref-urlCathinone_.7C_Ask_Dr._Shulgin_Online_1-0) ["Cathinone | Ask Dr. Shulgin Online"](http://www.cognitiveliberty.org/shulgin/adsarchive/cathinone.htm).
-2. [↑](#cite_ref-2) Cozzi, N. V., Sievert, M. K., Shulgin, A. T., Jacob, P., Ruoho, A. E. (17 September 1999). "Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines". *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/s0014-2999(99)00538-5](//doi.org/10.1016%2Fs0014-2999%2899%2900538-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-3. ↑   Nagai, F., Nonaka, R., Satoh Hisashi Kamimura, K. (22 March 2007). ["The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain"](https://www.sciencedirect.com/science/article/pii/S0014299906013811). *European Journal of Pharmacology*. **559** (2): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-2999](//www.worldcat.org/issn/0014-2999).
-4. ↑   Simmler, L., Buser, T., Donzelli, M., Schramm, Y., Dieu, L.-H., Huwyler, J., Chaboz, S., Hoener, M., Liechti, M. (January 2013). ["Pharmacological characterization of designer cathinones in vitro: Pharmacology of cathinones"](https://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x). *British Journal of Pharmacology*. **168** (2): 458–470. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1476-5381.2012.02145.x](//doi.org/10.1111%2Fj.1476-5381.2012.02145.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1188](//www.worldcat.org/issn/0007-1188).
-5. ↑    Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1465-1858](//www.worldcat.org/issn/1465-1858).
-6. [↑](#cite_ref-6) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563 "wikipedia:Special:BookSources/9780195030563"). CS1 maint: Extra text (link)
-7. [↑](#cite_ref-7) [http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf](http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf)
-8. [↑](#cite_ref-8) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-9. [↑](#cite_ref-9) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-10. [↑](#cite_ref-10) New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
-11. [↑](#cite_ref-11) ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). China Food and Drug Administration. 27 September 2015. Retrieved 1 October 2015.
-12. [↑](#cite_ref-12) [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/)
-13. [↑](#cite_ref-13) ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
-14. [↑](#cite_ref-14) ["Sechsundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl112s1639.pdf%27%5D) (in German). Bundesanzeiger Verlag. Retrieved December 25, 2019.
-15. [↑](#cite_ref-15) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
-16. [↑](#cite_ref-16) ["Föreskrifter om ändring i Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika"](https://lakemedelsverket.se/upload/lvfs/LVFS_2010-1.pdf) (PDF) (in Swedish). Läkemedelsverkets författningssamling. Retrieved December 25, 2019.
-17. [↑](#cite_ref-17) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-18. [↑](#cite_ref-18) [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)
+1. ↑ ["Cathinone | Ask Dr. Shulgin Online"](http://www.cognitiveliberty.org/shulgin/adsarchive/cathinone.htm).
+2. ↑ Cozzi, N. V., Sievert, M. K., Shulgin, A. T., Jacob, P., Ruoho, A. E. (17 September 1999). "Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines". *European Journal of Pharmacology*. **381** (1): 63–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/s0014-2999(99)00538-5](//doi.org/10.1016%2Fs0014-2999%2899%2900538-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999).
+3. ↑   Nagai, F., Nonaka, R., Satoh Hisashi Kamimura, K. (22 March 2007). ["The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain"](https://www.sciencedirect.com/science/article/pii/S0014299906013811). *European Journal of Pharmacology*. **559** (2): 132–137. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.ejphar.2006.11.075](//doi.org/10.1016%2Fj.ejphar.2006.11.075). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-2999](//www.worldcat.org/issn/0014-2999).
+4. ↑   Simmler, L., Buser, T., Donzelli, M., Schramm, Y., Dieu, L.-H., Huwyler, J., Chaboz, S., Hoener, M., Liechti, M. (January 2013). ["Pharmacological characterization of designer cathinones in vitro: Pharmacology of cathinones"](https://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2012.02145.x). *British Journal of Pharmacology*. **168** (2): 458–470. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1476-5381.2012.02145.x](//doi.org/10.1111%2Fj.1476-5381.2012.02145.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188).
+5. ↑    Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858).
+6. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text (link)
+7. ↑ [http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf](http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf)
+8. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+9. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+10. ↑ New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
+11. ↑ ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). China Food and Drug Administration. 27 September 2015. Retrieved 1 October 2015.
+12. ↑ [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/)
+13. ↑ ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
+14. ↑ ["Sechsundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl112s1639.pdf%27%5D) (in German). Bundesanzeiger Verlag. Retrieved December 25, 2019.
+15. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 25, 2019.
+16. ↑ ["Föreskrifter om ändring i Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika"](https://lakemedelsverket.se/upload/lvfs/LVFS_2010-1.pdf) (PDF) (in Swedish). Läkemedelsverkets författningssamling. Retrieved December 25, 2019.
+17. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+18. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)

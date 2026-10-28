@@ -16,15 +16,15 @@
 | 精神活性类别 | *[兴奋剂](/文档/药物分类/兴奋剂.md) / [促醒剂](/文档/药物分类/促醒剂.md)* |
 | 化学类别 | *二苯甲基类* |
 | **[给药途径](/文档/给药途径.md)** | |
-| - **⚠️ 警告：** 由于个人体重、耐受性、代谢和敏感性的差异，请务必从低剂量开始尝试。请参阅[伤害减少措施](/文档/负责任的用药索引页.md)喵。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **⚠️ 警告：** 由于个人体重、耐受性、代谢和敏感性的差异，请务必从低剂量开始尝试。请参阅[伤害减少措施](/文档/负责任的用药索引页.md)喵。 | ⇣ [口服](/文档/给药途径.md) |
 | **[给药剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 25 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 50 - 100 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 100 - 150 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 150 - 200 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 200 mg + |
+| [阈值](/文档/药物剂量分类.md) | 25 mg |
+| [轻微](/文档/药物剂量分类.md) | 50 - 100 mg |
+| [中等](/文档/药物剂量分类.md) | 100 - 150 mg |
+| [强烈](/文档/药物剂量分类.md) | 150 - 200 mg |
+| [严重](/文档/药物剂量分类.md) | 200 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 5 - 8 小时 |
+| [总时长](/文档/药效时长.md) | 5 - 8 小时 |
 | - **免责声明：** 这里的剂量信息仅出于教育目的，收集自用户报告和各类资源。这并不是用药建议，请务必参考其他来源以确保准确性呢。 | |
 | **药物联用** | |
 | 酒精 | 💔 联用危险 |
@@ -81,7 +81,7 @@ _**免责声明：** 下面列出的效应引用了[主观效应索引](/药效/
 
 ## 毒性与伤害潜力
 
-更多信息请参阅：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息请参阅：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 目前似乎还没有在任何科学背景下研究过娱乐性使用 N-甲基双氟莫达非尼的毒性和长期健康影响，确切的致毒剂量也是未知的喵。这是因为 N-甲基双氟莫达非尼的人类使用历史非常短。来自社区中尝试过该物质的人们的轶事证据表明，仅仅尝试中低剂量的这种物质并谨慎使用，似乎没有发现任何负面的健康影响（但谁也不能完全保证哦）。
 强烈建议在使用该物质时采取[伤害减少措施](/文档/负责任的用药索引页.md)。
@@ -131,8 +131,8 @@ N-甲基双氟莫达非尼目前在世界大部分地区（如果不是全部的
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) [*CRL-40,941 - C15H13F2NO3S*](http://www.chemspider.com/Chemical-Structure.29785194.html#synonymsTab), ChemSpider
+1. ↑ [*CRL-40,941 - C15H13F2NO3S*](http://www.chemspider.com/Chemical-Structure.29785194.html#synonymsTab), ChemSpider
 2. [↑] Dowling, G., 等 (2017年3月). ["Outsmarted by nootropics? ..."](https://onlinelibrary.wiley.com/doi/10.1002/dta.2142). *Drug Testing and Analysis*.
-3. [↑](#cite_ref-3) Talaie, H., 等 (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*.
-4. [↑](#cite_ref-4) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*.
-5. [↑](#cite_ref-5) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+3. ↑ Talaie, H., 等 (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*.
+4. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*.
+5. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

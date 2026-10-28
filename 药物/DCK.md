@@ -88,7 +88,7 @@ DCK现在可以通过网络上的[研究用化学品](/文档/研究用化学品
 
 **⚠️ [免责声明](/文档/关于本站/关于FreeODwiki.md)：** 这里的[给药剂量](/文档/给药剂量.md)信息是收集自用户和[网络资源](/文档/科学信息索引页.md)的，仅供教育用途哦。它不是专业建议，大家要通过其他渠道核实准确性呢。
 
-**[药物联用](#Dangerous_interactions)：**
+**药物联用：**
 
 *   [兴奋剂](/文档/药物分类/兴奋剂.md)
 *   [抑制剂](/文档/药物分类/抑制剂.md)
@@ -97,31 +97,31 @@ DCK现在可以通过网络上的[研究用化学品](/文档/研究用化学品
 
 ## 目录
 
-*   [1 化学](#Chemistry)
-*   [2 药理学](#Pharmacology)
-*   [3 主观效应](#Subjective_effects)
-    *   [3.1 **躯体效应**](#Physical_effects)
-    *   [3.2 **分离效应**](#Disconnective_effects)
-    *   [3.3 **听觉效应**](#Auditory_effects)
-    *   [3.4 **多感官效应**](#Multi-sensory_effects)
-    *   [3.5 **超个人效应**](#Transpersonal_effects)
-    *   [3.6 **认知效应**](#Cognitive_effects)
-    *   [3.7 **视觉效应**](#Visual_effects)
-        *   [3.7.1 抑制](#Suppression)
-        *   [3.7.2 扭曲](#Distortions)
-        *   [3.7.3 几何图形](#Geometry)
-        *   [3.7.4 幻觉状态](#Hallucinatory_states)
-    *   [3.8 体验报告](#Experience_reports)
-*   [4 毒性与危害潜力](#Toxicity_and_harm_potential)
-    *   [4.1 耐受性与成瘾潜力](#Tolerance_and_addiction_potential)
-    *   [4.2 尿路影响](#Urinary_tract_effects)
-    *   [4.3 危险的药物联用](#Dangerous_interactions)
-*   [5 法律地位](#Legal_status)
-*   [6 另见](#See_also)
-*   [7 外部链接](#External_links)
-    *   [7.1 讨论](#Discussion)
-    *   [7.2 文献](#Literature)
-    *   [7.3 参考文献](#References)
+*   1 化学
+*   2 药理学
+*   3 主观效应
+    *   3.1 **躯体效应**
+    *   3.2 **分离效应**
+    *   3.3 **听觉效应**
+    *   3.4 **多感官效应**
+    *   3.5 **超个人效应**
+    *   3.6 **认知效应**
+    *   3.7 **视觉效应**
+        *   3.7.1 抑制
+        *   3.7.2 扭曲
+        *   3.7.3 几何图形
+        *   3.7.4 幻觉状态
+    *   3.8 体验报告
+*   4 毒性与危害潜力
+    *   4.1 耐受性与成瘾潜力
+    *   4.2 尿路影响
+    *   4.3 危险的药物联用
+*   5 法律地位
+*   6 另见
+*   7 外部链接
+    *   7.1 讨论
+    *   7.2 文献
+    *   7.3 参考文献
 
 ## 化学
 
@@ -239,7 +239,7 @@ _**免责声明：** 下面列出的效应引用了[***主观效应索引***](/�
 
 在任何科学背景下，娱乐性使用DCK的毒性和长期健康影响似乎都没有被研究过，确切的毒性剂量也是未知的。这是因为DCK在人类身上的使用历史非常短。来自社区内尝试过DCK的人的轶事证据表明，如果只是偶尔单独使用低到中等剂量，似乎并没有什么负面的健康影响（但什么事情都不能完全保证哦）。在服用之前，应该始终进行[独立研究](https://www.google.com/)，以确保两种或多种物质的[联用](/文档/危险药物联用.md)是安全的。
 
-由于推测DCK具有抗菌特性，[\[2\]](#cite_note-patent-2) 长期使用可能会对大家的健康和免疫系统造成严重威胁呢。
+由于推测DCK具有抗菌特性，\[2\] 长期使用可能会对大家的健康和免疫系统造成严重威胁呢。
 
 墙裂建议大家在使用这种物质时采取[伤害减少措施](/文档/负责任的用药索引页.md)哦。
 
@@ -276,14 +276,14 @@ _**免责声明：** 下面列出的效应引用了[***主观效应索引***](/�
 | ![Handcuffs-300px.png](/文件/Handcuffs-300px.png) | **这一部分法律信息还是个[小草稿](/文档/关于本站/关于FreeODwiki.md)呢。**<br>*因此，它可能包含不完整甚至错误的信息。你可以通过[编辑它](https://psychonautwiki.org/w/index.php?title=Deschloroketamine&action=edit)来帮忙呀（链接到原网站哦）。* |
 | --- | --- |
 
-*   **意大利：** 去氯氯胺酮在意大利是非法的。[\[8\]](#cite_note-8)
-*   **拉脱维亚：** 去氯氯胺酮在拉脱维亚是非法的。[\[9\]](#cite_note-9)
-*   **德国：** 截至2019年7月18日，去氯氯胺酮受 NpSG（*新精神活性物质法*）管制。[\[10\]](#cite_note-10)[\[11\]](#cite_note-11) 生产和进口以投放市场为目的、给予他人以及交易都是受惩罚的。持有虽然非法但不予处罚。[\[12\]](#cite_note-12)
-*   **瑞士：** 去氯氯胺酮是 Verzeichnis E 中明确列出的受控物质。[\[13\]](#cite_note-13)
-*   **英国：** 去氯氯胺酮在英国是B类药物，持有、生产、供应或进口都是非法的。作为 2-Amino-2-phenylcyclohexanone 的 N-烷基衍生物，它受到 S.I. 2013/239 添加到《滥用药物法》中的芳基环己胺通用条款的覆盖，该条款于2013年2月26日生效。[\[14\]](#cite_note-14)
-*   **捷克共和国：** 去氯氯胺酮在捷克共和国是合法的。[\[15\]](#cite_note-15)
-*   **奥地利：** 根据 NPSV (Neue-Psychoaktive-Substanzen-Verordnung)，去氯氯胺酮在奥地利是非法的。[\[16\]](#cite_note-16)
-*   **荷兰：** 至少在2025年1月21日举行的全体听证会之前，去氯氯胺酮是合法的。[\[17\]](#cite_note-17)
+*   **意大利：** 去氯氯胺酮在意大利是非法的。\[8\]
+*   **拉脱维亚：** 去氯氯胺酮在拉脱维亚是非法的。\[9\]
+*   **德国：** 截至2019年7月18日，去氯氯胺酮受 NpSG（*新精神活性物质法*）管制。\[10\]\[11\] 生产和进口以投放市场为目的、给予他人以及交易都是受惩罚的。持有虽然非法但不予处罚。\[12\]
+*   **瑞士：** 去氯氯胺酮是 Verzeichnis E 中明确列出的受控物质。\[13\]
+*   **英国：** 去氯氯胺酮在英国是B类药物，持有、生产、供应或进口都是非法的。作为 2-Amino-2-phenylcyclohexanone 的 N-烷基衍生物，它受到 S.I. 2013/239 添加到《滥用药物法》中的芳基环己胺通用条款的覆盖，该条款于2013年2月26日生效。\[14\]
+*   **捷克共和国：** 去氯氯胺酮在捷克共和国是合法的。\[15\]
+*   **奥地利：** 根据 NPSV (Neue-Psychoaktive-Substanzen-Verordnung)，去氯氯胺酮在奥地利是非法的。\[16\]
+*   **荷兰：** 至少在2025年1月21日举行的全体听证会之前，去氯氯胺酮是合法的。\[17\]
 
 ## 另见
 
@@ -309,20 +309,20 @@ _**免责声明：** 下面列出的效应引用了[***主观效应索引***](/�
 
 ## 参考文献
 
-1.  ↑ [1.0](#cite_ref-name_1-0) [1.1](#cite_ref-name_1-1) Robins, E. G., Zhao, Y., Khan, I., Wilson, A., Luthra, S. K., Rstad, E. (1 March 2010). "Synthesis and in vitro evaluation of (18)F-labelled S-fluoroalkyl diarylguanidines: Novel high-affinity NMDA receptor antagonists for imaging with PET". *Bioorganic & Medicinal Chemistry Letters*. **20** (5): 1749–1751. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.bmcl.2010.01.052](//doi.org/10.1016%2Fj.bmcl.2010.01.052). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1464-3405](//www.worldcat.org/issn/1464-3405).
-2.  ↑ [2.0](#cite_ref-patent_2-0) [2.1](#cite_ref-patent_2-1) Stevens, C. L., [*Aminoketones and methods for their production*](https://patents.google.com/patent/US3254124/en)
-3.  [↑](#cite_ref-DCKAntibacterial_3-0) Preiss, D., Tatar, A., [*Use of 2-methylamino-2-phenylcyclohexanone for the treatment of bacterial, fungal, virus or protozoan infections as well as for immunomodulation*](https://patents.google.com/patent/US5811464/en)
-4.  [↑](#cite_ref-4) Gocmen, S., Buyukkocak, U., Caglayan, O. (2008). "In vitro investigation of the antibacterial effect of ketamine". *Upsala Journal of Medical Sciences*. **113** (1): 39–46. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.3109/2000-1967-211](//doi.org/10.3109%2F2000-1967-211). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [2000-1967](//www.worldcat.org/issn/2000-1967).
-5.  [↑](#cite_ref-5) Frison, G., Zamengo, L., Zancanaro, F., Tisato, F., Traldi, P. (15 January 2016). "Characterization of the designer drug deschloroketamine (2-methylamino-2-phenylcyclohexanone) by gas chromatography/mass spectrometry, liquid chromatography/high-resolution mass spectrometry, multistage mass spectrometry, and nuclear magnetic resonance". *Rapid communications in mass spectrometry: RCM*. **30** (1): 151–160. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/rcm.7425](//doi.org/10.1002%2Frcm.7425). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1097-0231](//www.worldcat.org/issn/1097-0231).
-6.  [↑](#cite_ref-6) Alert: descloroketamina sold as ketamine in Barcelona | http://energycontrol.org/analisis-de-sustancias/resultados/alertas/560-alerta-descloroketamina-vendida-como-ketamina-en-barcelona.html
-7.  [↑](#cite_ref-7) Villalba, J. (2015), [*Los efectos desconocidos de la sequía de ketamina*](https://www.vice.com/es/article/9b7yvp/los-efectos-desconocidos-de-la-sequia-de-ketamina-719)
-8.  [↑](#cite_ref-8) http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf
-9.  [↑](#cite_ref-9) Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem | http://www.vm.gov.lv/images/userfiles/metodiskas_vadlinijas_080914.doc
-10. [↑](#cite_ref-10) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-11. [↑](#cite_ref-11) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-12. [↑](#cite_ref-12) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-13. [↑](#cite_ref-13) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-14. [↑](#cite_ref-14) [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)
-15. [↑](#cite_ref-15) info@aion.cz, A. C.-, [*463/2013 Sb. Nařízení vlády o seznamech návykových látek*](https://www.zakonyprolidi.cz/cs/2013-463)
-16. [↑](#cite_ref-16) [*RIS - Neue-Psychoaktive-Substanzen-Verordnung - Bundesrecht konsolidiert, Fassung vom 21.07.2022*](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642)
-17. [↑](#cite_ref-17) [*36.159 Tegengaan productie en handel in nieuwe psychoactieve stoffen*](https://www.eerstekamer.nl/infodossier/tegengaan_productie_en_handel_in)
+1.  ↑ 1.0 1.1 Robins, E. G., Zhao, Y., Khan, I., Wilson, A., Luthra, S. K., Rstad, E. (1 March 2010). "Synthesis and in vitro evaluation of (18)F-labelled S-fluoroalkyl diarylguanidines: Novel high-affinity NMDA receptor antagonists for imaging with PET". *Bioorganic & Medicinal Chemistry Letters*. **20** (5): 1749–1751. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.bmcl.2010.01.052](//doi.org/10.1016%2Fj.bmcl.2010.01.052). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1464-3405](//www.worldcat.org/issn/1464-3405).
+2.  ↑ 2.0 2.1 Stevens, C. L., [*Aminoketones and methods for their production*](https://patents.google.com/patent/US3254124/en)
+3.  ↑ Preiss, D., Tatar, A., [*Use of 2-methylamino-2-phenylcyclohexanone for the treatment of bacterial, fungal, virus or protozoan infections as well as for immunomodulation*](https://patents.google.com/patent/US5811464/en)
+4.  ↑ Gocmen, S., Buyukkocak, U., Caglayan, O. (2008). "In vitro investigation of the antibacterial effect of ketamine". *Upsala Journal of Medical Sciences*. **113** (1): 39–46. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3109/2000-1967-211](//doi.org/10.3109%2F2000-1967-211). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2000-1967](//www.worldcat.org/issn/2000-1967).
+5.  ↑ Frison, G., Zamengo, L., Zancanaro, F., Tisato, F., Traldi, P. (15 January 2016). "Characterization of the designer drug deschloroketamine (2-methylamino-2-phenylcyclohexanone) by gas chromatography/mass spectrometry, liquid chromatography/high-resolution mass spectrometry, multistage mass spectrometry, and nuclear magnetic resonance". *Rapid communications in mass spectrometry: RCM*. **30** (1): 151–160. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/rcm.7425](//doi.org/10.1002%2Frcm.7425). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1097-0231](//www.worldcat.org/issn/1097-0231).
+6.  ↑ Alert: descloroketamina sold as ketamine in Barcelona | http://energycontrol.org/analisis-de-sustancias/resultados/alertas/560-alerta-descloroketamina-vendida-como-ketamina-en-barcelona.html
+7.  ↑ Villalba, J. (2015), [*Los efectos desconocidos de la sequía de ketamina*](https://www.vice.com/es/article/9b7yvp/los-efectos-desconocidos-de-la-sequia-de-ketamina-719)
+8.  ↑ http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf
+9.  ↑ Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem | http://www.vm.gov.lv/images/userfiles/metodiskas_vadlinijas_080914.doc
+10. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+11. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+12. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+13. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+14. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)
+15. ↑ info@aion.cz, A. C.-, [*463/2013 Sb. Nařízení vlády o seznamech návykových látek*](https://www.zakonyprolidi.cz/cs/2013-463)
+16. ↑ [*RIS - Neue-Psychoaktive-Substanzen-Verordnung - Bundesrecht konsolidiert, Fassung vom 21.07.2022*](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642)
+17. ↑ [*36.159 Tegengaan productie en handel in nieuwe psychoactieve stoffen*](https://www.eerstekamer.nl/infodossier/tegengaan_productie_en_handel_in)

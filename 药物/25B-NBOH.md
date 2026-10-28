@@ -11,7 +11,7 @@ description:
 
 **25B-NBOH 可能导致严重的伤害甚至死亡喵！**
 
-虽然还没有具体的死亡报告，但这个小家伙很可能和 [25B-NBOMe](/药物/25B-NBOMe.md)（已经导致了好几起死亡事故）有着相似的毒性特征呢。[\[1\]](#cite_note-25Cfatal-1) 所以，我们强烈不建议服用高剂量的这种物质，也不要[鼻吸](/文档/给药途径.md)（snort）它哦。详情请看[这里](/药物/25C-NBOH.md)喵。
+虽然还没有具体的死亡报告，但这个小家伙很可能和 [25B-NBOMe](/药物/25B-NBOMe.md)（已经导致了好几起死亡事故）有着相似的毒性特征呢。\[1\] 所以，我们强烈不建议服用高剂量的这种物质，也不要[鼻吸](/文档/给药途径.md)（snort）它哦。详情请看[这里](/药物/25C-NBOH.md)喵。
 
 | 25B-NBOH | 25B-NBOH |
 | --- | --- |
@@ -27,37 +27,37 @@ description:
 
 **25B-NBOH**（也叫 **2C-B-NBOH** 或 **NBOH-2C-B**）是一种新型合成[致幻剂](/文档/药物分类/致幻剂.md)，属于[苯乙胺](/文档/药物分类/苯乙胺类物质.md)化学家族。当使用时，它会产生一系列以视觉为主且具有[兴奋](/药效/兴奋.md)性的[致幻](/文档/药物分类/致幻剂.md)效果喵。它是 [25B-NBOMe](/药物/25B-NBOMe.md) 的近亲，据报道除了药效稍微弱一点点、持续时间短一点点之外，它们的大部分特性都是一样的呢。
 
-25B-NBOH 这个名字是 2C-B-NBOH 的缩写，它是苯乙胺类致幻剂 [2C-B](/药物/2C-B.md) 的衍生物。它最早是由哥本哈根大学的 Martin Hansen 在 2011 年合成并记录下来的哦。[\[2\]](#cite_note-2)
+25B-NBOH 这个名字是 2C-B-NBOH 的缩写，它是苯乙胺类致幻剂 [2C-B](/药物/2C-B.md) 的衍生物。它最早是由哥本哈根大学的 Martin Hansen 在 2011 年合成并记录下来的哦。\[2\]
 
 要注意的是，NBOH 家族的化合物是不能[口服](/文档/给药途径.md)起效的，应该[舌下](/文档/给药途径.md)给药，也就是把它含在嘴里 15-25 分钟让它吸收喵。
 
-关于 25B-NBOH 在人体内的药理特性、代谢和毒性，我们知道的超级少呢。在 2011 年作为[策划药](/文档/研究用化学品.md)在网上出售之前，它没有任何人类使用的历史。它和 [25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md) 系列关系非常密切，而那个系列已经和很多住院和死亡案例有关了。[\[3\]](#cite_note-25Ifatal-3)[\[1\]](#cite_note-25Cfatal-1)[\[4\]](#cite_note-25Xfatal-4) 轶事报告表明，由于它非常敏感的剂量反应和不可预测的效果，安全使用这种物质可能很难呢。
+关于 25B-NBOH 在人体内的药理特性、代谢和毒性，我们知道的超级少呢。在 2011 年作为[策划药](/文档/研究用化学品.md)在网上出售之前，它没有任何人类使用的历史。它和 [25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md) 系列关系非常密切，而那个系列已经和很多住院和死亡案例有关了。\[3\]\[1\]\[4\] 轶事报告表明，由于它非常敏感的剂量反应和不可预测的效果，安全使用这种物质可能很难呢。
 
 目录
 --------
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **躯体效应**](#躯体效应)
-    + [3.2 **视觉效应**](#视觉效应)
-        - [3.2.1 增强](#增强)
-        - [3.2.2 抑制](#抑制)
-        - [3.2.3 扭曲](#扭曲)
-        - [3.2.4 几何图形](#几何图形)
-        - [3.2.5 幻觉状态](#幻觉状态)
-    + [3.3 **认知效应**](#认知效应)
-    + [3.4 **听觉效应**](#听觉效应)
-    + [3.5 **多重感官效应**](#多重感官效应)
-    + [3.6 **超个人效应**](#超个人效应)
-    + [3.7 体验报告](#体验报告)
-* [4 毒性和伤害潜力](#毒性和伤害潜力)
-    + [4.1 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    + [4.2 危险药物联用](#危险药物联用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 **躯体效应**
+    + 3.2 **视觉效应**
+        - 3.2.1 增强
+        - 3.2.2 抑制
+        - 3.2.3 扭曲
+        - 3.2.4 几何图形
+        - 3.2.5 幻觉状态
+    + 3.3 **认知效应**
+    + 3.4 **听觉效应**
+    + 3.5 **多重感官效应**
+    + 3.6 **超个人效应**
+    + 3.7 体验报告
+* 4 毒性和伤害潜力
+    + 4.1 耐受性和成瘾潜力
+    + 4.2 危险药物联用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 化学
 ---------
@@ -71,7 +71,7 @@ description:
 
 25B-NBOH 在 [5-HT2A 受体](/文档/神经递质.md)上有功效，它在那里充当强效[激动剂](/文档/受体激动剂.md)呢。
 
-与其他致幻剂相比，这种化合物在药理学上很独特，因为它对各种[血清素](/文档/血清素.md)受体显示出异常高的选择性。值得注意的是，它是 5-HT2A 受体最具选择性的激动剂配体之一，pEC50 值为 9.87 nM。[\[5\]](#cite_note-5) 它在人 5HT2A 受体处的 pKi 为 0.061 nM，类似于更知名的化合物 25B-NBOMe。[\[6\]](#cite_note-6)
+与其他致幻剂相比，这种化合物在药理学上很独特，因为它对各种[血清素](/文档/血清素.md)受体显示出异常高的选择性。值得注意的是，它是 5-HT2A 受体最具选择性的激动剂配体之一，pEC50 值为 9.87 nM。\[5\] 它在人 5HT2A 受体处的 pKi 为 0.061 nM，类似于更知名的化合物 25B-NBOMe。\[6\]
 
 然而，这些相互作用的作用以及它们如何导致[致幻](/文档/药物分类/致幻剂.md)体验仍然是个谜哦。
 
@@ -215,7 +215,7 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 
 25B-NBOH 是一种相对较新的物质，关于其毒性或与其他物质的相互作用知之甚少。据推测，它具有与 25B-NBOMe 和 25x-NBOMe 系列其他成员相似的急性健康风险。[LD50](/文档/药物过量.md) 尚未确定，尽管在重剂量下可能致命。
 
-25B-NBOH 的极端效力意味着不应该[鼻吸](/文档/给药途径.md)（snort），因为这种给药方式已与 [25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md) 系列的密切相关成员的许多死亡和住院案例有关。[\[3\]](#cite_note-25Ifatal-3)[\[1\]](#cite_note-25Cfatal-1)[\[4\]](#cite_note-25Xfatal-4)
+25B-NBOH 的极端效力意味着不应该[鼻吸](/文档/给药途径.md)（snort），因为这种给药方式已与 [25x-NBOMe](/文档/药物分类/N-苄基苯乙胺类物质.md) 系列的密切相关成员的许多死亡和住院案例有关。\[3\]\[1\]\[4\]
 
 ### 耐受性和成瘾潜力
 
@@ -232,7 +232,7 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 * **[锂盐](http://en.wikipedia.org/wiki/Lithium_(medication))** - 锂盐通常用于治疗双相情感障碍。大量的轶事证据表明，将其与[致幻剂](/文档/药物分类/致幻剂.md)一起服用会显着增加[精神病](/药效/精神病发作.md)和[癫痫发作](/药效/癫痫发作.md)的风险。因此，严禁这种组合喵。
 * **[大麻](/药物/大麻.md)** - 大麻可能与 25B-NBOH 的效果产生出乎意料的强烈且不可预测的协同作用。这种组合建议谨慎，因为它可以显著增加不良心理反应的风险，如[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[惊恐发作](/药效/认知效应.md)和[精神病](/药效/精神病发作.md)。建议使用者从正常大麻剂量的一小部分开始，并在两次吸食之间长时间休息，以避免意外过量哦。
 * **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像[苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md)或[哌甲酯](/药物/哌甲酯.md)这样的兴奋剂会影响大脑的许多部分并改变[多巴胺](/文档/多巴胺.md)能功能。这种组合会增加[焦虑](/药效/认知效应.md)、[偏执](/药效/认知效应.md)、[惊恐发作](/药效/认知效应.md)和[思维循环](/药效/认知效应.md)的风险。这种相互作用也可能导致[躁狂](/药效/躁狂.md)和[精神病](/药效/精神病发作.md)的风险增加。[\[来源请求\]](/文档/关于本站/关于FreeODwiki.md)
-* **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值[\[7\]](#cite_note-7)，而[致幻剂](/文档/药物分类/致幻剂.md)可能会在易感人群中引发癫痫发作。[\[来源请求\]](/文档/关于本站/关于FreeODwiki.md)
+* **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值\[7\]，而[致幻剂](/文档/药物分类/致幻剂.md)可能会在易感人群中引发癫痫发作。[\[来源请求\]](/文档/关于本站/关于FreeODwiki.md)
 
 
 法律地位
@@ -241,12 +241,12 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 | ![Handcuffs-300px.png](/文件/Handcuffs-300px.png) | **法律地位章节还是个[小坑](/文档/关于本站/关于FreeODwiki.md)。**<br>*因此，它可能包含不完整或错误的信息。你可以通过[扩展它](https://psychonautwiki.org/w/index.php?title=25B-NBOH&action=edit)来提供帮助喵。* |
 | --- | --- |
 
-* **巴西**：截至 2018 年 12 月 10 日，25B-NBOH 已被添加到 Portaria SVS/MS nº 344 中。拥有、分销和使用这种物质现在被认为是非法的。[\[8\]](#cite_note-8)
-* **德国**：截至 2016 年 11 月 26 日，25B-NBOH 受 NpSG（新精神活性物质法）管制。[\[9\]](#cite_note-9)[\[10\]](#cite_note-10) 旨在投放市场的生产和进口、对他人的管理和交易均受到惩罚。拥有是非法的，但不会受到惩罚。[\[11\]](#cite_note-11)
-* **瑞典**：瑞典议会于 2015 年 8 月 18 日将 25B-NBOH 添加到《麻醉药品惩罚法》的瑞典附表 I（“通常没有医疗用途的物质、植物材料和真菌”）中，由医疗产品管理局 (MPA) 在法规 HSLF-FS 2015:12 中发布。[\[12\]](#cite_note-12)
-* **瑞士**：根据 Verzeichnis E 第 131 点，25B-NBOH 可以被视为 N-苄基苯乙胺的定义衍生物，属于受控物质。用于科学或工业用途时是合法的。[\[13\]](#cite_note-13)
-* **英国**：由于 N-苄基苯乙胺的兜底条款，25B-NBOH 在英国是一类 (Class A) 药物。[\[14\]](#cite_note-14)
-* **美国**：25B-NBOH 在美国不是受控物质，但由于其与 [25B-NBOMe](/药物/25B-NBOMe.md) 的结构和药理相似性，根据《联邦类似物法》，拥有或分销用于人类使用的可能会被起诉。[\[15\]](#cite_note-15)[\[16\]](#cite_note-16)
+* **巴西**：截至 2018 年 12 月 10 日，25B-NBOH 已被添加到 Portaria SVS/MS nº 344 中。拥有、分销和使用这种物质现在被认为是非法的。\[8\]
+* **德国**：截至 2016 年 11 月 26 日，25B-NBOH 受 NpSG（新精神活性物质法）管制。\[9\]\[10\] 旨在投放市场的生产和进口、对他人的管理和交易均受到惩罚。拥有是非法的，但不会受到惩罚。\[11\]
+* **瑞典**：瑞典议会于 2015 年 8 月 18 日将 25B-NBOH 添加到《麻醉药品惩罚法》的瑞典附表 I（“通常没有医疗用途的物质、植物材料和真菌”）中，由医疗产品管理局 (MPA) 在法规 HSLF-FS 2015:12 中发布。\[12\]
+* **瑞士**：根据 Verzeichnis E 第 131 点，25B-NBOH 可以被视为 N-苄基苯乙胺的定义衍生物，属于受控物质。用于科学或工业用途时是合法的。\[13\]
+* **英国**：由于 N-苄基苯乙胺的兜底条款，25B-NBOH 在英国是一类 (Class A) 药物。\[14\]
+* **美国**：25B-NBOH 在美国不是受控物质，但由于其与 [25B-NBOMe](/药物/25B-NBOMe.md) 的结构和药理相似性，根据《联邦类似物法》，拥有或分销用于人类使用的可能会被起诉。\[15\]\[16\]
 
 
 另见
@@ -270,19 +270,19 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 参考文献
 ----------
 
-1. ↑ [1.0](#cite_ref-25Cfatal_1-0) [1.1](#cite_ref-25Cfatal_1-1) [1.2](#cite_ref-25Cfatal_1-2) [*Erowid 2C-C-NBOMe (25C-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_death.shtml) 
-2. [↑](#cite_ref-2) Hansen, M. (2010). *Design and synthesis of selective serotonin receptor agonists for positron emission tomography imaging of the brain: PhD thesis*. Faculty of Pharmaceutical Sciences, University of Copenhagen. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9788792719003](http://en.wikipedia.org/wiki/Special:BookSources/9788792719003). 
-3. ↑ [3.0](#cite_ref-25Ifatal_3-0) [3.1](#cite_ref-25Ifatal_3-1) [*Erowid 25I-NBOMe (2C-I-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_death.shtml) 
-4. ↑ [4.0](#cite_ref-25Xfatal_4-0) [4.1](#cite_ref-25Xfatal_4-1) [*Erowid NBOMe (Other or Unknown NBOMe-Compound) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/nbome/nbome_death.shtml) 
-5. [↑](#cite_ref-5) Silva, M. E., Heim, R., Strasser, A., Elz, S., Dove, S. (January 2011). ["Theoretical studies on the interaction of partial agonists with the 5-HT2A receptor"](http://link.springer.com/10.1007/s10822-010-9400-2). *Journal of Computer-Aided Molecular Design*. **25** (1): 51–66. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s10822-010-9400-2](//doi.org/10.1007%2Fs10822-010-9400-2). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0920-654X](//www.worldcat.org/issn/0920-654X). 
-6. [↑](#cite_ref-6) Hansen, M., Phonekeo, K., Paine, J. S., Leth-Petersen, S., Begtrup, M., Bräuner-Osborne, H., Kristensen, J. L. (19 March 2014). ["Synthesis and Structure–Activity Relationships of N -Benzyl Phenethylamines as 5-HT 2A/2C Agonists"](https://pubs.acs.org/doi/10.1021/cn400216u). *ACS Chemical Neuroscience*. **5** (3): 243–249. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/cn400216u](//doi.org/10.1021%2Fcn400216u). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1948-7193](//www.worldcat.org/issn/1948-7193). 
-7. [↑](#cite_ref-7) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). 
-8. [↑](#cite_ref-8) List of controlled substances: Portaria SVS/MS nº 344 (Portuguese) | <http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial>
-9. [↑](#cite_ref-9) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019. 
-10. [↑](#cite_ref-10) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
-11. [↑](#cite_ref-11) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
-12. [↑](#cite_ref-12) <https://lakemedelsverket.se/upload/lvfs/HSLF_FS_2015_12.pdf>
-13. [↑](#cite_ref-13) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
-14. [↑](#cite_ref-14) United Kingdom. (2014). Misuse of Drugs Act 1971 (S.I. 2014/1106). London: The Stationery Office Limited. Retrieved July 5, 2017, from <http://www.legislation.gov.uk/uksi/2014/1106/made>
-15. [↑](#cite_ref-15) "Controlled Substances: by CSA Schedule" (PDF). U.S. Department of Justice. November 18, 2021. p. 1.
-16. [↑](#cite_ref-16) Drug control: Highlights of P.L. 99-570, Anti Drug Abuse Act of 1986: (drug-related provisions only) (1986). bill.
+1. ↑ 1.0 1.1 1.2 [*Erowid 2C-C-NBOMe (25C-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_death.shtml) 
+2. ↑ Hansen, M. (2010). *Design and synthesis of selective serotonin receptor agonists for positron emission tomography imaging of the brain: PhD thesis*. Faculty of Pharmaceutical Sciences, University of Copenhagen. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9788792719003](http://en.wikipedia.org/wiki/Special:BookSources/9788792719003). 
+3. ↑ 3.0 3.1 [*Erowid 25I-NBOMe (2C-I-NBOMe) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_death.shtml) 
+4. ↑ 4.0 4.1 [*Erowid NBOMe (Other or Unknown NBOMe-Compound) Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/nbome/nbome_death.shtml) 
+5. ↑ Silva, M. E., Heim, R., Strasser, A., Elz, S., Dove, S. (January 2011). ["Theoretical studies on the interaction of partial agonists with the 5-HT2A receptor"](http://link.springer.com/10.1007/s10822-010-9400-2). *Journal of Computer-Aided Molecular Design*. **25** (1): 51–66. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s10822-010-9400-2](//doi.org/10.1007%2Fs10822-010-9400-2). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0920-654X](//www.worldcat.org/issn/0920-654X). 
+6. ↑ Hansen, M., Phonekeo, K., Paine, J. S., Leth-Petersen, S., Begtrup, M., Bräuner-Osborne, H., Kristensen, J. L. (19 March 2014). ["Synthesis and Structure–Activity Relationships of N -Benzyl Phenethylamines as 5-HT 2A/2C Agonists"](https://pubs.acs.org/doi/10.1021/cn400216u). *ACS Chemical Neuroscience*. **5** (3): 243–249. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/cn400216u](//doi.org/10.1021%2Fcn400216u). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1948-7193](//www.worldcat.org/issn/1948-7193). 
+7. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). 
+8. ↑ List of controlled substances: Portaria SVS/MS nº 344 (Portuguese) | <http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial>
+9. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019. 
+10. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
+11. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019. 
+12. ↑ <https://lakemedelsverket.se/upload/lvfs/HSLF_FS_2015_12.pdf>
+13. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
+14. ↑ United Kingdom. (2014). Misuse of Drugs Act 1971 (S.I. 2014/1106). London: The Stationery Office Limited. Retrieved July 5, 2017, from <http://www.legislation.gov.uk/uksi/2014/1106/made>
+15. ↑ "Controlled Substances: by CSA Schedule" (PDF). U.S. Department of Justice. November 18, 2021. p. 1.
+16. ↑ Drug control: Highlights of P.L. 99-570, Anti Drug Abuse Act of 1986: (drug-related provisions only) (1986). bill.

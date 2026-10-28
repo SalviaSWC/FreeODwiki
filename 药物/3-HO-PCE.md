@@ -20,17 +20,17 @@
 | 化学分类 | *[芳基环己胺类物质](/文档/药物分类/芳基环己胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
 | ⚠️ **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见负责任的用药部分](/文档/负责任的用药索引页.md)。 | |
-| **⇣ [口服](/文档/给药途径.md#口服)** | |
+| **⇣ [口服](/文档/给药途径.md)** | |
 | **[剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 5 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 5 - 10 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 10 - 15 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 15 - 25 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 25 mg + **补药可能会导致危险的累积效应喵。** |
+| [阈值](/文档/药物剂量分类.md) | 5 mg |
+| [轻微](/文档/药物剂量分类.md) | 5 - 10 mg |
+| [中等](/文档/药物剂量分类.md) | 10 - 15 mg |
+| [强烈](/文档/药物剂量分类.md) | 15 - 25 mg |
+| [严重](/文档/药物剂量分类.md) | 25 mg + **补药可能会导致危险的累积效应喵。** |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 4 - 6 小时 |
+| [总时长](/文档/药效时长.md) | 4 - 6 小时 |
 | **[免责声明](/文档/免责声明.md)：** 本站的[剂量](/文档/给药剂量.md)信息仅汇集自用户和[资源](/文档/科学信息索引页.md)用于教育目的。它不是推荐，应与其他来源核实准确性哦。 | |
-| **[相互作用](#危险的相互作用)** | |
+| **相互作用** | |
 | [兴奋剂](/文档/药物分类/兴奋剂.md) | ⚠️ **谨慎联用** |
 | [抑制剂](/文档/药物分类/抑制剂.md) | ⛔ **严禁联用** |
 
@@ -45,28 +45,28 @@
 目录
 --------
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
-    + [4.1 **身体效应**](#身体效应)
-    + [4.2 **解离效应**](#解离效应)
-    + [4.3 **认知效应**](#认知效应)
-    + [4.4 **听觉效应**](#听觉效应)
-    + [4.5 **视觉效应**](#视觉效应)
-        - [4.5.1 扭曲](#扭曲)
-        - [4.5.2 幻觉状态](#幻觉状态)
-    + [4.6 体验报告](#体验报告)
-* [5 毒性与伤害潜力](#毒性与伤害潜力)
-    + [5.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-    + [5.2 泌尿道效应](#泌尿道效应)
-    + [5.3 危险的相互作用](#危险的相互作用)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-    + [8.1 讨论](#讨论)
-* [9 文献](#文献)
-* [10 参考文献](#参考文献)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
+    + 4.1 **身体效应**
+    + 4.2 **解离效应**
+    + 4.3 **认知效应**
+    + 4.4 **听觉效应**
+    + 4.5 **视觉效应**
+        - 4.5.1 扭曲
+        - 4.5.2 幻觉状态
+    + 4.6 体验报告
+* 5 毒性与伤害潜力
+    + 5.1 耐受性与成瘾潜力
+    + 5.2 泌尿道效应
+    + 5.3 危险的相互作用
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+    + 8.1 讨论
+* 9 文献
+* 10 参考文献
 
 历史与文化
 -------------------
@@ -281,11 +281,11 @@ _**免责声明：** 以下列出的效应引用了 [***主观效应索引***](/
 
 1. ↑   Morris, H., Wallach, J. (July 2014). ["From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs: PCP to MXE"](https://onlinelibrary.wiley.com/doi/10.1002/dta.1620). *Drug Testing and Analysis*. **6** (7–8): 614–632. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1620](//doi.org/10.1002%2Fdta.1620). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603). 
 2. ↑    Kalir, A., Maayani, S., Rehavi, M., Elkavets, R., Pri-Bar, I., Buchman, O., Sokolovsky, M. (20 June 1978). ["ChemInform Abstract: STRUCTURE-ACTIVITY RELATIONSHIP OF SOME PHENCYCLIDINE DERIVATIVES- IN VIVO STUDIES IN MICE"](https://onlinelibrary.wiley.com/doi/10.1002/chin.197825192). *Chemischer Informationsdienst*. **9** (25). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/chin.197825192](//doi.org/10.1002%2Fchin.197825192). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0009-2975](//www.worldcat.org/issn/0009-2975). 
-3. [↑](#cite_ref-3) "[(ACMD) Methoxetamine Report (2012)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/119087/methoxetamine2012.pdf)" (PDF). UK Home Office. 2012-10-18. p. 14. Retrieved 2015-06-24.
-4. [↑](#cite_ref-4) 3-HO-PCE (Tripsit) | <https://wiki.tripsit.me/wiki/3-HO-PCE>
-5. [↑](#cite_ref-5) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019. 
-6. [↑](#cite_ref-6) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020. 
-7. [↑](#cite_ref-7) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019. 
-8. [↑](#cite_ref-8) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
-9. [↑](#cite_ref-9) Cumhurbaşkanı Kararı CK Karar Sayısı : 1335 | <https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf>
-10. [↑](#cite_ref-10) [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)
+3. ↑ "[(ACMD) Methoxetamine Report (2012)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/119087/methoxetamine2012.pdf)" (PDF). UK Home Office. 2012-10-18. p. 14. Retrieved 2015-06-24.
+4. ↑ 3-HO-PCE (Tripsit) | <https://wiki.tripsit.me/wiki/3-HO-PCE>
+5. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019. 
+6. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020. 
+7. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019. 
+8. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
+9. ↑ Cumhurbaşkanı Kararı CK Karar Sayısı : 1335 | <https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf>
+10. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)

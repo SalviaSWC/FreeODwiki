@@ -7,7 +7,7 @@
 
 **2C-P 很难精准控制剂量哦。**
 
-因为它起效特别慢，持续时间又超级长，而且剂量反应曲线很陡峭（就是多一点点就会强很多），所以强烈建议大家不要在3小时内补服，而且补服的量不要超过之前评估剂量的 2mg 呢。还有呀，就算是老司机，第一次尝试的时候每 70kg 体重也不要超过 *中等* 剂量（看下面的剂量表嘛），因为它的药效时长是大多数致幻剂的好几倍呢。请一定要看看 [毒性与危害](/药物/2C-P.md#毒性与危害) 这一节哦。
+因为它起效特别慢，持续时间又超级长，而且剂量反应曲线很陡峭（就是多一点点就会强很多），所以强烈建议大家不要在3小时内补服，而且补服的量不要超过之前评估剂量的 2mg 呢。还有呀，就算是老司机，第一次尝试的时候每 70kg 体重也不要超过 *中等* 剂量（看下面的剂量表嘛），因为它的药效时长是大多数致幻剂的好几倍呢。请一定要看看 [毒性与危害](/药物/2C-P.md) 这一节哦。
 
 
 
@@ -23,22 +23,22 @@
 | 化学分类 | *[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
 | **警告：** 因为每个人的体重、耐受度、代谢和敏感度都不一样，一定要从低剂量开始尝试哦。[参见负责任的用药章节](/文档/负责任的用药索引页.md)。 | |
-| **⇣ [口服](/文档/给药途径.md#口服)** | |
+| **⇣ [口服](/文档/给药途径.md)** | |
 | **[剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 1 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 2 - 6 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 6 - 10 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 10 - 16 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 16 mg + |
+| [阈值](/文档/药物剂量分类.md) | 1 mg |
+| [轻微](/文档/药物剂量分类.md) | 2 - 6 mg |
+| [中等](/文档/药物剂量分类.md) | 6 - 10 mg |
+| [强烈](/文档/药物剂量分类.md) | 10 - 16 mg |
+| [严重](/文档/药物剂量分类.md) | 16 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 10 - 20 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 1 - 3 小时 |
-| [药效上升](/文档/药效时长.md#药效上升) | 2 - 4 小时 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 4 - 8 小时 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 3 - 6 小时 |
-| [药效残余](/文档/药效时长.md#药效残余) | 8 - 48 小时 |
+| [总时长](/文档/药效时长.md) | 10 - 20 小时 |
+| [药效发作](/文档/药效时长.md) | 1 - 3 小时 |
+| [药效上升](/文档/药效时长.md) | 2 - 4 小时 |
+| [药效达峰](/文档/药效时长.md) | 4 - 8 小时 |
+| [药效褪去](/文档/药效时长.md) | 3 - 6 小时 |
+| [药效残余](/文档/药效时长.md) | 8 - 48 小时 |
 | **[免责声明](/文档/免责声明.md)：** 本站的 [剂量](/文档/给药剂量.md) 信息是收集自用户和 [资源](/文档/网络.md) 仅供教育用途的喵。这不是推荐，使用前要和其他来源核对准确性哦。 | |
-| **[相互作用](#危险药物联用)** | |
+| **相互作用** | |
 | 大麻 | ⚠️ 谨慎联用 |
 | 兴奋剂 | ⚠️ 谨慎联用 |
 | 曲马多 | 💔 联用危险 |
@@ -46,7 +46,7 @@
 
 **2,5-二甲氧基-4-丙基苯乙胺**（也叫 **2C-P**）是一种比较冷门的 [苯乙胺类](/文档/药物分类/苯乙胺类物质.md) 新型 [致幻剂](/文档/药物分类/致幻剂.md) 呢。2C-P 是 [2C-x](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md) 家族中相对默默无闻的一员，这个家族和经典的致幻剂 [麦斯卡林](/药物/麦斯卡林.md) 关系很近哦。它可是这个系列里药效最强、对剂量最敏感、持续时间最长的成员之一呢。虽然具体的机制还不是很清楚，但大家认为它是通过激活大脑部分的 [血清素](/文档/血清素.md) [受体](/文档/受体激动剂.md) 来产生精神活性效果的。
 
-2C-P 最早是由美国化学家 [亚历山大·舒尔金](/文档/亚历山大·舒尔金.md) 合成并进行了人体测试，并在他 1991 年的书《[PiHKAL](/文档/PiHKAL.md)》（"我所知和喜爱的苯乙胺们"）中记录了发现过程。[\[1\]](#cite_note-PiHKAL-1) PiHKAL 中关于 2C-P 的报告提到了它的深度、漫长的起效时间和持续时间，评论部分还把 16 mg 描述为明显的过量，并伴有“身体后果”呢。评论还指出，合适剂量和过量剂量之间的窗口很小，说明它很容易过量哦。
+2C-P 最早是由美国化学家 [亚历山大·舒尔金](/文档/亚历山大·舒尔金.md) 合成并进行了人体测试，并在他 1991 年的书《[PiHKAL](/文档/PiHKAL.md)》（"我所知和喜爱的苯乙胺们"）中记录了发现过程。\[1\] PiHKAL 中关于 2C-P 的报告提到了它的深度、漫长的起效时间和持续时间，评论部分还把 16 mg 描述为明显的过量，并伴有“身体后果”呢。评论还指出，合适剂量和过量剂量之间的窗口很小，说明它很容易过量哦。
 
 [主观效应](/药效/index.md) 包括 [睁眼和闭眼视觉幻象](/药效/几何.md)、[时间扭曲](/药效/时间扭曲.md)、[概念性思维](/药效/概念性思维.md)、[欣快感](/药效/认知欣快.md) 和 [自我迷失](/药效/自我迷失.md)。用户报告通常会强调 2C-P 异常长的持续时间、强烈且有时令人不知所措的视觉效果，以及强烈的“身体负荷”，包括 [恶心](/药效/恶心.md)、[肌肉紧张](/药效/肌肉紧张.md) 和全身不适。一些报告表明，相比其他的 2C 类药物，在 2C-P 上更容易感到躁动和 [谵妄](/药效/谵妄.md)，这可能是因为它太容易剂量失误了嘛。因此，在致幻剂中，它的安全性评价不太好呢。
 
@@ -54,32 +54,32 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 **身体效应**](#身体效应)
-    * [3.2 **视觉效应**](#视觉效应)
-        * [3.2.1 增强](#增强)
-        * [3.2.2 扭曲](#扭曲)
-        * [3.2.3 几何](#几何)
-        * [3.2.4 幻觉状态](#幻觉状态)
-    * [3.3 **认知效应**](#认知效应)
-    * [3.4 **听觉效应**](#听觉效应)
-    * [3.5 **超个人效应**](#超个人效应)
-    * [3.6 体验报告](#体验报告)
-* [4 毒性与危害](#毒性与危害)
-    * [4.1 药物过量](#药物过量)
-    * [4.2 依赖性和滥用潜力](#依赖性和滥用潜力)
-    * [4.3 危险药物联用](#危险药物联用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-    * [7.1 讨论](#讨论)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 **身体效应**
+    * 3.2 **视觉效应**
+        * 3.2.1 增强
+        * 3.2.2 扭曲
+        * 3.2.3 几何
+        * 3.2.4 幻觉状态
+    * 3.3 **认知效应**
+    * 3.4 **听觉效应**
+    * 3.5 **超个人效应**
+    * 3.6 体验报告
+* 4 毒性与危害
+    * 4.1 药物过量
+    * 4.2 依赖性和滥用潜力
+    * 4.3 危险药物联用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+    * 7.1 讨论
+* 8 参考文献
 
 ## 化学
 
-2C-P 或 2,5-二甲氧基-4-丙基苯乙胺是一种 [取代苯乙胺](/文档/药物分类/苯乙胺类物质.md)，其特征是一个苯环通过乙基链与氨基 (NH2) 结合。2C-P 在苯环的 R2 和 R5 碳上连有甲氧基官能团 CH3O-，在 R4 碳上连有一个丙基链。2C-P 属于苯乙胺的 2C 家族，这类物质在苯环的 2 和 5 位置都含有甲氧基。[\[1\]](#cite_note-PiHKAL-1)
+2C-P 或 2,5-二甲氧基-4-丙基苯乙胺是一种 [取代苯乙胺](/文档/药物分类/苯乙胺类物质.md)，其特征是一个苯环通过乙基链与氨基 (NH2) 结合。2C-P 在苯环的 R2 和 R5 碳上连有甲氧基官能团 CH3O-，在 R4 碳上连有一个丙基链。2C-P 属于苯乙胺的 2C 家族，这类物质在苯环的 2 和 5 位置都含有甲氧基。\[1\]
 
 ## 药理学
 
@@ -122,7 +122,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 *   **[视觉锐度增强](/药效/视觉锐度增强.md)**
 
 #### 扭曲
-*   **[漂移](/药效/漂移.md)** *([融化](/药效/漂移.md#融化)、[流动](/药效/漂移.md#流动)、[呼吸](/药效/漂移.md#呼吸) 和 [变形](/药效/漂移.md#变形))* - 与其他致幻剂相比，这种效果可以描述为高度详细、运动缓慢流畅、外观静态且风格不切实际/像卡通一样。
+*   **[漂移](/药效/漂移.md)** *([融化](/药效/漂移.md)、[流动](/药效/漂移.md)、[呼吸](/药效/漂移.md) 和 [变形](/药效/漂移.md))* - 与其他致幻剂相比，这种效果可以描述为高度详细、运动缓慢流畅、外观静态且风格不切实际/像卡通一样。
 *   **[视觉拖尾](/药效/视觉拖尾.md)**
 *   **[残影](/药效/残影.md)**
 *   **[对称纹理重复](/药效/对称纹理重复.md)**
@@ -131,7 +131,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 *   **[深度感知扭曲](/药效/深度感知扭曲.md)**
 
 #### [几何](/药效/几何.md)
-这里的视觉几何结构可以描述为比起 [LSD](/药物/LSD.md)、[2C-B](/药物/2C-B.md) 或 [2C-I](/药物/2C-I.md)，外观上更像 [4-AcO-DMT](/药物/4-AcO-DMT.md) 或 [死藤水](/药物/死藤水.md)。它们可以被综合描述为组织结构化、几何风格有机、复杂性错综复杂、尺寸巨大、运动快速流畅、色彩丰富、颜色有光泽、边缘锋利，角落既圆润又有棱角。它给人一种矛盾的自然和合成的感觉，在高剂量下，相比 [8A级](/药效/几何.md#8A级)，明显更有可能导致 [8B级](/药效/几何.md#8B级) 的视觉几何状态。似乎存在一种不同于 [2C-E](/药物/2C-E.md)、[赛洛西宾](/药物/赛洛西宾蘑菇.md) 和 [死藤水](/药物/死藤水.md) 的视觉几何，可以描述为比 [2C-E](/药物/2C-E.md) 移动得更快，且与认知和身体效应的比例相比更强烈。
+这里的视觉几何结构可以描述为比起 [LSD](/药物/LSD.md)、[2C-B](/药物/2C-B.md) 或 [2C-I](/药物/2C-I.md)，外观上更像 [4-AcO-DMT](/药物/4-AcO-DMT.md) 或 [死藤水](/药物/死藤水.md)。它们可以被综合描述为组织结构化、几何风格有机、复杂性错综复杂、尺寸巨大、运动快速流畅、色彩丰富、颜色有光泽、边缘锋利，角落既圆润又有棱角。它给人一种矛盾的自然和合成的感觉，在高剂量下，相比 [8A级](/药效/几何.md)，明显更有可能导致 [8B级](/药效/几何.md) 的视觉几何状态。似乎存在一种不同于 [2C-E](/药物/2C-E.md)、[赛洛西宾](/药物/赛洛西宾蘑菇.md) 和 [死藤水](/药物/死藤水.md) 的视觉几何，可以描述为比 [2C-E](/药物/2C-E.md) 移动得更快，且与认知和身体效应的比例相比更强烈。
 
 #### 幻觉状态
 2C-P 产生全方位的高级幻觉状态，其方式比许多其他常用致幻剂更一致和可复现。与 [2C-B](/药物/2C-B.md) 或 [2C-I](/药物/2C-I.md) 等其他 2C-x [苯乙胺](/文档/药物分类/苯乙胺类物质.md) 相比，这一点尤其真实。这些效果包括：
@@ -202,15 +202,15 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 **2C-P 很难控制剂量，需要耐心。请注意，冲动的过量服用会导致药物过量。请制定一个计算好的剂量方案并坚持下去哦。**
 
-* 2C-P 有一个 **陡峭的剂量反应曲线**：可控剂量和过量之间可能只差几毫克。[\[2\]](#cite_note-Erowid-2) 希望服用高剂量这种化合物的用户建议缓慢增加剂量，使用可靠的毫克秤来测量剂量，并避免非口服给药途径，如鼻吸或注射。
+* 2C-P 有一个 **陡峭的剂量反应曲线**：可控剂量和过量之间可能只差几毫克。\[2\] 希望服用高剂量这种化合物的用户建议缓慢增加剂量，使用可靠的毫克秤来测量剂量，并避免非口服给药途径，如鼻吸或注射。
 
-* 2C-P 的 **起效非常慢**：据报道，峰值效应在 1 到 3 小时内不会出现。[\[2\]](#cite_note-Erowid-2) 因此，建议在考虑补服之前 *至少* 等待 3 小时，如果胃里有东西的话要等更久呢。
+* 2C-P 的 **起效非常慢**：据报道，峰值效应在 1 到 3 小时内不会出现。\[2\] 因此，建议在考虑补服之前 *至少* 等待 3 小时，如果胃里有东西的话要等更久呢。
 
-* 2C-P 的 **半衰期非常长**：轶事估计的消除半衰期是 19 小时。[\[3\]](#cite_note-3)
+* 2C-P 的 **半衰期非常长**：轶事估计的消除半衰期是 19 小时。\[3\]
 
 2C-P 的 LD50 尚未确定。然而，据信 2C-P 与其他 2C 相比可能具有更小的治疗窗口，这意味着可能更容易达到致死剂量。
 
-2017年，一名25岁的英国女性在一个音乐节上服用了大剂量的 2C-P 后死亡。[\[4\]](#cite_note-4) 没有来源报告明确证据表明 2C-P 本身直接导致了该女性的死亡。
+2017年，一名25岁的英国女性在一个音乐节上服用了大剂量的 2C-P 后死亡。\[4\] 没有来源报告明确证据表明 2C-P 本身直接导致了该女性的死亡。
 
 ### 依赖性和滥用潜力
 
@@ -227,24 +227,24 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 *   **[锂盐](http://en.wikipedia.org/wiki/Lithium_(medication))** - 锂盐通常用于治疗双相情感障碍。有大量的轶事证据表明，将其与 [致幻剂](/文档/药物分类/致幻剂.md) 一起服用会显著增加 [精神病发作](/药效/精神病发作.md) 和 [癫痫发作](/药效/癫痫发作.md) 的风险。因此，严禁这种组合。
 *   **[大麻](/药物/大麻.md)** - 大麻可能与 2C-P 的效果产生意想不到的强烈且不可预测的协同作用。这种组合建议谨慎，因为它会显著增加不良心理反应的风险，如 [焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md)、[惊恐发作](/药效/惊恐发作.md) 和 [精神病发作](/药效/精神病发作.md)。建议用户从正常大麻剂量的一小部分开始，并在两口之间休息很长时间，以避免无意的过量。
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像 [苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md) 或 [哌甲酯](/药物/哌甲酯.md) 这样的兴奋剂会影响大脑的许多部分并改变 [多巴胺](/文档/多巴胺.md) 功能。这种组合会增加 [焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md)、[惊恐发作](/药效/惊恐发作.md) 和 [思维循环](/药效/思维循环.md) 的风险。这种相互作用也可能导致 [躁狂](/药效/躁狂.md) 和 [精神病发作](/药效/精神病发作.md) 的风险升高。\[*[来源请求](/文档/关于本站/index.md)*\]
-*   **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值[\[5\]](#cite_note-5)，而 [致幻剂](/文档/药物分类/致幻剂.md) 可能会触发易感个体的癫痫发作。\[*[来源请求](/文档/关于本站/index.md)*\]
+*   **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值\[5\]，而 [致幻剂](/文档/药物分类/致幻剂.md) 可能会触发易感个体的癫痫发作。\[*[来源请求](/文档/关于本站/index.md)*\]
 
 ## 法律地位
 
 2C-P 未被列入联合国精神药物公约。它在许多国家被认为处于法律灰色地带，这意味着虽然它没有被明确列为非法，但在某些情况下（例如根据类似物法以及意图出售或消费），个人仍可能因持有它而被指控。
 
-*   **奥地利**：根据 NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich)，2C-P 的持有、生产和销售是非法的。在其附表 II 中，进一步规定的 NPSV (Neue-Psychoaktive-Substanzen-Verordnung Österreich) 明确禁止所有取代苯乙胺。[\[6\]](#cite_note-6)
-*   **加拿大**：2C-P 将被视为附表 III，因为它是 2,5-二甲氧基苯乙胺的衍生物。[\[7\]](#cite_note-7)
-*   **中国**：截至 2015 年 10 月，2C-P 在中国是受管制物质。[\[8\]](#cite_note-8)
-*   **丹麦**：2C-P 在附表 B 受管制物质名单上。[\[9\]](#cite_note-9)
-*   **德国**：截至 2014 年 12 月 13 日，2C-P 根据 Anlage I BtMG（*麻醉品法，附表 I*）受管制。[\[10\]](#cite_note-10)[\[11\]](#cite_note-11) 未经许可制造、持有、进口、出口、购买、销售、采购或分发它是非法的。[\[12\]](#cite_note-12)
-*   **日本**：自 2015 年 3 月 25 日起，2C-P 在日本是受管制物质。[\[13\]](#cite_note-13)
-*   **拉脱维亚**：2C-P 是附表 I 受管制物质。[\[14\]](#cite_note-14)
-*   **瑞士**：2C-P 是 Verzeichnis E 下特别命名的受管制物质。[\[15\]](#cite_note-15)
-*   **土耳其**：2C-P 被归类为毒品，持有、生产、供应或进口均属非法。[\[16\]](#cite_note-16)
-*   **荷兰**：2C-P 目前是合法的，但它是作为最近通过的新精神活性物质 (NPS) 法律的一部分，可能很快会被禁止的物质组的一部分。[\[17\]](#cite_note-17)
-*   **英国**：由于苯乙胺的一揽子条款，2C-P 在英国是 A 类药物。[\[18\]](#cite_note-18)
-*   **美国**：2C-P 是附表 I 受管制物质。[\[19\]](#cite_note-19) 这意味着未经缉毒局 (DEA) 许可，制造、购买、持有、加工或分发 2C-P 都是非法的。
+*   **奥地利**：根据 NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich)，2C-P 的持有、生产和销售是非法的。在其附表 II 中，进一步规定的 NPSV (Neue-Psychoaktive-Substanzen-Verordnung Österreich) 明确禁止所有取代苯乙胺。\[6\]
+*   **加拿大**：2C-P 将被视为附表 III，因为它是 2,5-二甲氧基苯乙胺的衍生物。\[7\]
+*   **中国**：截至 2015 年 10 月，2C-P 在中国是受管制物质。\[8\]
+*   **丹麦**：2C-P 在附表 B 受管制物质名单上。\[9\]
+*   **德国**：截至 2014 年 12 月 13 日，2C-P 根据 Anlage I BtMG（*麻醉品法，附表 I*）受管制。\[10\]\[11\] 未经许可制造、持有、进口、出口、购买、销售、采购或分发它是非法的。\[12\]
+*   **日本**：自 2015 年 3 月 25 日起，2C-P 在日本是受管制物质。\[13\]
+*   **拉脱维亚**：2C-P 是附表 I 受管制物质。\[14\]
+*   **瑞士**：2C-P 是 Verzeichnis E 下特别命名的受管制物质。\[15\]
+*   **土耳其**：2C-P 被归类为毒品，持有、生产、供应或进口均属非法。\[16\]
+*   **荷兰**：2C-P 目前是合法的，但它是作为最近通过的新精神活性物质 (NPS) 法律的一部分，可能很快会被禁止的物质组的一部分。\[17\]
+*   **英国**：由于苯乙胺的一揽子条款，2C-P 在英国是 A 类药物。\[18\]
+*   **美国**：2C-P 是附表 I 受管制物质。\[19\] 这意味着未经缉毒局 (DEA) 许可，制造、购买、持有、加工或分发 2C-P 都是非法的。
 
 ## 另见
 
@@ -268,22 +268,22 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 ## 参考文献
 
-1.  ↑ [1.0](#cite_ref-PiHKAL_1-0) [1.1](#cite_ref-PiHKAL_1-1) [亚历山大·舒尔金](/文档/亚历山大·舒尔金.md); Ann Shulgin (1991). ["#36. 2C-P"](https://erowid.org/library/books_online/pihkal/pihkal036.shtml). *[PiHKAL: A Chemical Love Story](/文档/PiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
-2.  ↑ [2.0](#cite_ref-Erowid_2-0) [2.1](#cite_ref-Erowid_2-1) [*Erowid Online Books : “PIHKAL” - #36 2C-P*](https://www.erowid.org/library/books_online/pihkal/pihkal036.shtml)
-3.  [↑](#cite_ref-3) <https://pubmed.ncbi.nlm.nih.gov/28130544/>
-4.  [↑](#cite_ref-4) Steven Morris (February 13, 2019). ["Bestival death may be world's first 2C-P fatality, court hears"](https://www.theguardian.com/uk-news/2019/feb/13/bestival-death-may-be-worlds-first-2-cp-fatality-court-hears). The Guardian. Retrieved October 12, 2020.
-5.  [↑](#cite_ref-5) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
-6.  [↑](#cite_ref-6) ["Bundesrecht konsolidiert: Gesamte Rechtsvorschrift für Neue-Psychoaktive-Substanzen-Verordnung"](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642) (in German). June 26, 2019. Retrieved January 10, 2021.
-7.  [↑](#cite_ref-7) ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
-8.  [↑](#cite_ref-8) ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170906191704/http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). 国家食品药品监督管理总局 [China Food and Drug Administration (CFDA)]. September 27, 2015. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on September 6, 2017.
-9.  [↑](#cite_ref-9) ["Bekendtgørelse om euforiserende stoffer"](https://www.retsinformation.dk/Forms/R0710.aspx?id=137169) (in Danish). Civilstyrelsen [Civil Agency]. May 31, 2011. BEK Nr. 557. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-11. [↑](#cite_ref-11) ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57* (in German). Bundesanzeiger Verlag (published December 12, 2014). December 5, 2014. p. 1999-2002. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC) [231871244](//www.worldcat.org/oclc/231871244).
-12. [↑](#cite_ref-12) ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-13. [↑](#cite_ref-13) ["危険ドラッグの成分１６物質を新たに指定薬物に指定"](https://www.mhlw.go.jp/stf/houdou/0000078803.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved May 2, 2022.
-14. [↑](#cite_ref-14) ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
-15. [↑](#cite_ref-15) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-16. [↑](#cite_ref-16) ["Bakanlar Kurulu Kararı - Karar Sayısı : 2011/1310"](https://resmigazete.gov.tr/eskiler/2011/02/20110213-4.htm). *Resmî Gazete, Sayı: 27845* (in Turkish). Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü [General Directorate of Legislation Development and Publication] (published February 13, 2011). January 7, 2011.
-17. [↑](#cite_ref-17) [*Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen (Dutch)*](https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2022Z14042&dossier=36159), 2024
-18. [↑](#cite_ref-18) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
-19. [↑](#cite_ref-19) Ronald Weich (Assistant Attorney General) (September 30, 2011). ["Additional Synthetic Drugs for Inclusion in section 202(c) of the Controlled Substances Act"](http://www.justice.gov/ola/views-letters/112/093011-ltr-re-hr1254-synthetic-drug-control-act-2011.pdf) (PDF). Letter to F. James Sensenbrenner Jr. (Subcommittee on Crime, Terrorism, and Homeland Security). Office of Legislative Affairs.
+1.  ↑ 1.0 1.1 [亚历山大·舒尔金](/文档/亚历山大·舒尔金.md); Ann Shulgin (1991). ["#36. 2C-P"](https://erowid.org/library/books_online/pihkal/pihkal036.shtml). *[PiHKAL: A Chemical Love Story](/文档/PiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
+2.  ↑ 2.0 2.1 [*Erowid Online Books : “PIHKAL” - #36 2C-P*](https://www.erowid.org/library/books_online/pihkal/pihkal036.shtml)
+3.  ↑ <https://pubmed.ncbi.nlm.nih.gov/28130544/>
+4.  ↑ Steven Morris (February 13, 2019). ["Bestival death may be world's first 2C-P fatality, court hears"](https://www.theguardian.com/uk-news/2019/feb/13/bestival-death-may-be-worlds-first-2-cp-fatality-court-hears). The Guardian. Retrieved October 12, 2020.
+5.  ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+6.  ↑ ["Bundesrecht konsolidiert: Gesamte Rechtsvorschrift für Neue-Psychoaktive-Substanzen-Verordnung"](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642) (in German). June 26, 2019. Retrieved January 10, 2021.
+7.  ↑ ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
+8.  ↑ ["关于印发《非药用类麻醉药品和精神药品列管办法》的通知"](https://web.archive.org/web/20170906191704/http://www.sfda.gov.cn/WS01/CL0056/130753.html) (in Chinese). 国家食品药品监督管理总局 [China Food and Drug Administration (CFDA)]. September 27, 2015. Archived from [the original](http://www.sfda.gov.cn/WS01/CL0056/130753.html) on September 6, 2017.
+9.  ↑ ["Bekendtgørelse om euforiserende stoffer"](https://www.retsinformation.dk/Forms/R0710.aspx?id=137169) (in Danish). Civilstyrelsen [Civil Agency]. May 31, 2011. BEK Nr. 557. Retrieved December 10, 2019.
+10. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: Anlage I"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+11. ↑ ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57* (in German). Bundesanzeiger Verlag (published December 12, 2014). December 5, 2014. p. 1999-2002. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC) [231871244](//www.worldcat.org/oclc/231871244).
+12. ↑ ["Gesetz über den Verkehr mit Betäubungsmitteln: § 29"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+13. ↑ ["危険ドラッグの成分１６物質を新たに指定薬物に指定"](https://www.mhlw.go.jp/stf/houdou/0000078803.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved May 2, 2022.
+14. ↑ ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
+15. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+16. ↑ ["Bakanlar Kurulu Kararı - Karar Sayısı : 2011/1310"](https://resmigazete.gov.tr/eskiler/2011/02/20110213-4.htm). *Resmî Gazete, Sayı: 27845* (in Turkish). Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü [General Directorate of Legislation Development and Publication] (published February 13, 2011). January 7, 2011.
+17. ↑ [*Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen (Dutch)*](https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2022Z14042&dossier=36159), 2024
+18. ↑ ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
+19. ↑ Ronald Weich (Assistant Attorney General) (September 30, 2011). ["Additional Synthetic Drugs for Inclusion in section 202(c) of the Controlled Substances Act"](http://www.justice.gov/ola/views-letters/112/093011-ltr-re-hr1254-synthetic-drug-control-act-2011.pdf) (PDF). Letter to F. James Sensenbrenner Jr. (Subcommittee on Crime, Terrorism, and Homeland Security). Office of Legislative Affairs.

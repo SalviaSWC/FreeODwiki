@@ -68,11 +68,11 @@ description:
 | [药效达峰](/文档/药效时长.md) | 30 - 45 分钟 |
 | [药效残余](/文档/药效时长.md) | 2 - 4 小时 |
 | **免责声明：** 这里的[剂量](/文档/给药剂量.md)信息是从用户和[资源](/文档/科学信息索引页.md)中收集的，仅供教育用途。它不是建议，为了准确性，请务必与其他来源核实呢。 | |
-| **[相互作用](#危险的相互作用)** | |
+| **相互作用** | |
 
 **N,N-二丙基色胺**（也就是大家常说的 **DPT**，或者叫 **"The Light"**）是一种[色胺类](/文档/药物分类/色胺类物质.md)中比较冷门的[致幻剂](/文档/药物分类/致幻剂.md)哦。它和[DMT](/药物/DMT.md)的关系非常亲密，据报道它们在致幻强度上有着独特的相似之处，不过 DPT 的持续时间稍微长一点点，而且比起 DMT 和其他色胺类致幻剂，它的不可预测性更高呢。
 
-DPT 最早在 1950 年被合成出来。[\[1\]](#参考文献) 人类使用的记录最早出现在 1973 年，当时它是作为一种辅助治疗酗酒的药物进行低剂量研究的。[\[2\]](#参考文献) 也有研究在晚期癌症患者身上使用高剂量来诱导高峰体验。[\[3\]](#参考文献) 它因为被美国一个叫“真内在之光圣殿”（Temple of the True Inner Light）的组织奉为主要圣礼而变得有些名气，这是一个从基督教分支出来的组织，他们相信仪式性地使用[致幻剂](/文档/药物分类/致幻剂.md)，并称之为“上帝的真身”。[\[4\]](#参考文献)
+DPT 最早在 1950 年被合成出来。\[1\] 人类使用的记录最早出现在 1973 年，当时它是作为一种辅助治疗酗酒的药物进行低剂量研究的。\[2\] 也有研究在晚期癌症患者身上使用高剂量来诱导高峰体验。\[3\] 它因为被美国一个叫“真内在之光圣殿”（Temple of the True Inner Light）的组织奉为主要圣礼而变得有些名气，这是一个从基督教分支出来的组织，他们相信仪式性地使用[致幻剂](/文档/药物分类/致幻剂.md)，并称之为“上帝的真身”。\[4\]
 
 DPT 通常通过[鼻吸](/文档/给药途径.md)或[口服](/文档/给药途径.md)来使用。许多小伙伴报告说鼻吸的感觉非常堵塞和痛苦，而且因为起效太快，用户没有太多时间去适应它那强烈的效果呢。它也可以通过[肌肉注射](/文档/给药途径.md)或转化为游离碱形式后进行[雾化](/文档/给药途径.md)使用。“真内在之光圣殿”更喜欢抽吸游离碱的形式，而更有经验的成员会饮用 DPT 茶。\[*需要引用*\]
 
@@ -80,27 +80,27 @@ DPT 通常通过[鼻吸](/文档/给药途径.md)或[口服](/文档/给药途�
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 身体效应](#身体效应)
-    * [3.2 视觉效应](#视觉效应)
-        * [3.2.1 增强](#增强)
-        * [3.2.2 扭曲](#扭曲)
-        * [3.2.3 几何](#几何)
-        * [3.2.4 幻觉状态](#幻觉状态)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 多感官效应](#多感官效应)
-    * [3.5 超个人效应](#超个人效应)
-    * [3.6 体验报告](#体验报告)
-* [4 毒性和伤害潜能](#毒性和伤害潜能)
-    * [4.1 耐受性和成瘾潜能](#耐受性和成瘾潜能)
-    * [4.2 危险的相互作用](#危险的相互作用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 文献](#文献)
-* [9 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 身体效应
+    * 3.2 视觉效应
+        * 3.2.1 增强
+        * 3.2.2 扭曲
+        * 3.2.3 几何
+        * 3.2.4 幻觉状态
+    * 3.3 认知效应
+    * 3.4 多感官效应
+    * 3.5 超个人效应
+    * 3.6 体验报告
+* 4 毒性和伤害潜能
+    * 4.1 耐受性和成瘾潜能
+    * 4.2 危险的相互作用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 文献
+* 9 参考文献
 
 ## 化学
 
@@ -115,7 +115,7 @@ DPT 有许多取代衍生物，比如 [4-HO-DPT](/药物/4-HO-DPT.md) 或 [4-AcO
 
 更多信息：[血清素能致幻剂](/文档/药物分类/致幻剂.md)
 
-对啮齿动物的研究发现，选择性 5-HT2A 受体拮抗剂能有效阻断该化合物的行为作用，这强烈暗示 5-HT2A 受体是 DPT 的重要作用位点，但 5-HT1A 受体拮抗剂的调节作用也意味着 DPT 的作用中有 5-HT1A 介导的成分。[\[5\]](#参考文献) 这些相互作用的角色以及它们如何导致[致幻](/文档/药物分类/致幻剂.md)体验，仍然是正在进行的科学研究的主题呢。
+对啮齿动物的研究发现，选择性 5-HT2A 受体拮抗剂能有效阻断该化合物的行为作用，这强烈暗示 5-HT2A 受体是 DPT 的重要作用位点，但 5-HT1A 受体拮抗剂的调节作用也意味着 DPT 的作用中有 5-HT1A 介导的成分。\[5\] 这些相互作用的角色以及它们如何导致[致幻](/文档/药物分类/致幻剂.md)体验，仍然是正在进行的科学研究的主题呢。
 
 ## 主观效应
 
@@ -242,7 +242,7 @@ DPT 能够产生全方位的高级幻觉状态，其方式比除 [DMT](/药物/D
 
 更多信息：[研究用化学品 § 毒性和伤害潜能](/文档/研究用化学品.md)，以及 [负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
-娱乐性使用 DPT 的毒性和长期健康影响似乎还没有在任何科学背景下进行过研究，确切的中毒剂量也是未知的。这是因为 DPT 是一种[研究用化学品](/文档/研究用化学品.md)，人类使用历史非常少。有一例死亡与使用 DPT 和癫痫发作有关，但剂量未知。[\[6\]](#参考文献)
+娱乐性使用 DPT 的毒性和长期健康影响似乎还没有在任何科学背景下进行过研究，确切的中毒剂量也是未知的。这是因为 DPT 是一种[研究用化学品](/文档/研究用化学品.md)，人类使用历史非常少。有一例死亡与使用 DPT 和癫痫发作有关，但剂量未知。\[6\]
 
 来自服用过 DPT 的人的轶事报告表明，如果在低到中等剂量下单独尝试并少量使用，不太可能发生负面健康影响（尽管没有任何事情是可以保证的）。在服用之前，应始终进行[独立研究](https://www.google.com/)以确保两种或多种物质的组合是安全的。
 
@@ -252,7 +252,7 @@ DPT 能够产生全方位的高级幻觉状态，其方式比除 [DMT](/药物/D
 
 DPT 不会形成习惯，使用的欲望实际上可能会随着使用而减少。与大多数致幻剂一样，据报道它是自我限制的。
 
-在动物模型中显示，DPT 的耐受性不会建立。[\[7\]](#参考文献) 然而，据报道相对于 [DMT](/药物/DMT.md)，它可能会建立轻微的耐受性，尽管与大多数致幻剂相比仍然微不足道。
+在动物模型中显示，DPT 的耐受性不会建立。\[7\] 然而，据报道相对于 [DMT](/药物/DMT.md)，它可能会建立轻微的耐受性，尽管与大多数致幻剂相比仍然微不足道。
 
 ### 危险的相互作用
 
@@ -260,22 +260,22 @@ DPT 不会形成习惯，使用的欲望实际上可能会随着使用而减少�
 
 *在使用两种或多种物质之前，请务必进行独立研究（例如 [Google](https://www.google.com)、[DuckDuckGo](https://www.duckduckgo.com)、[PubMed](https://pubmed.ncbi.nlm.nih.gov/)）以确保安全。下列相互作用部分来自 [TripSit](https://combo.tripsit.me)。*
 
-*   **[曲马多](/药物/曲马多.md)** - 曲马多会降低癫痫发作阈值[\[8\]](#参考文献)，LSD 也有可能在易感个体中诱发癫痫发作。而[致幻剂](/文档/药物分类/致幻剂.md)可能会作为癫痫发作的诱因，特别是对于那些有易感体质的人。\[*需要引用*\]
+*   **[曲马多](/药物/曲马多.md)** - 曲马多会降低癫痫发作阈值\[8\]，LSD 也有可能在易感个体中诱发癫痫发作。而[致幻剂](/文档/药物分类/致幻剂.md)可能会作为癫痫发作的诱因，特别是对于那些有易感体质的人。\[*需要引用*\]
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 兴奋剂影响大脑的许多部分。与致幻剂结合使用时，刺激可能会转化为无法控制的[焦虑](/药效/焦虑.md)、[恐慌](/药效/惊恐发作.md)、[思维循环](/药效/思维循环.md)和[偏执](/药效/偏执.md)。这种相互作用可能会增加精神病的风险。\[*需要引用*\]
 *   **[锂](https://en.wikipedia.org/wiki/Lithium_(medication))** - 锂常用于治疗双相情感障碍。由于其[谷氨酸能](/文档/谷氨酸.md)和[GABA能](/文档/GABA.md)效应，它可能会增加癫痫发作和精神病的风险。\[*需要引用*\]
 
 ## 法律地位
 
-*   **德国**：截至 2019 年 7 月 18 日，DPT 受 NpSG（*新精神活性物质法*）管制。[\[9\]](#参考文献)[\[10\]](#参考文献) 以投放市场为目的的生产和进口、对他人的管理和交易均受惩罚。持有是非法的，但不予处罚。[\[11\]](#参考文献)
-*   **拉脱维亚**：DPT 是附表 I 管制物质。[\[12\]](#参考文献)
-*   **新西兰**：DPT 是 DMT 的类似物，因此在新西兰是 C 类管制物质。[\[13\]](#参考文献)
-*   **瑞典**：继作为[策划药](/文档/研究用化学品.md)销售后，DPT 于 2016 年 1 月 26 日在瑞典被定为非法。[\[14\]](#参考文献)
-*   **瑞士**：DPT 是 Verzeichnis E 下特别列出的管制物质。[\[15\]](#参考文献)
-*   **英国**：由于色胺类兜底条款，DPT 在英国是 A 类管制物质。[\[16\]](#参考文献)
+*   **德国**：截至 2019 年 7 月 18 日，DPT 受 NpSG（*新精神活性物质法*）管制。\[9\]\[10\] 以投放市场为目的的生产和进口、对他人的管理和交易均受惩罚。持有是非法的，但不予处罚。\[11\]
+*   **拉脱维亚**：DPT 是附表 I 管制物质。\[12\]
+*   **新西兰**：DPT 是 DMT 的类似物，因此在新西兰是 C 类管制物质。\[13\]
+*   **瑞典**：继作为[策划药](/文档/研究用化学品.md)销售后，DPT 于 2016 年 1 月 26 日在瑞典被定为非法。\[14\]
+*   **瑞士**：DPT 是 Verzeichnis E 下特别列出的管制物质。\[15\]
+*   **英国**：由于色胺类兜底条款，DPT 在英国是 A 类管制物质。\[16\]
 *   **美国**：DPT 在美国大部分地区未列入管制。然而，一些州禁止了 DPT，使其购买、销售或持有成为非法：
-    *   **佛罗里达州**：DPT 是附表 I 管制物质。[\[17\]](#参考文献)
-    *   **缅因州**：DPT 是附表 X 管制物质。[\[18\]](#参考文献)
-    *   **俄克拉荷马州**：DPT 是附表 I 管制物质。[\[19\]](#参考文献)
+    *   **佛罗里达州**：DPT 是附表 I 管制物质。\[17\]
+    *   **缅因州**：DPT 是附表 X 管制物质。\[18\]
+    *   **俄克拉荷马州**：DPT 是附表 I 管制物质。\[19\]
 
 ## 另见
 
@@ -301,24 +301,24 @@ DPT 不会形成习惯，使用的欲望实际上可能会随着使用而减少�
 
 ## 参考文献
 
-1.  [↑](#cite_ref-1) Li, J. X.; Rice, K.; France, C. P. (2007). "Behavioral effects of dipropyltryptamine in rats: evidence for 5-HT1A and 5-HT2A agonist activity". *Behavioural Pharmacology*. **18** (4): 283–288. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/FBP.0b013e3281f19ca0](//doi.org/10.1097%2FFBP.0b013e3281f19ca0). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1473-5849](//www.worldcat.org/issn/1473-5849). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0955-8810](//www.worldcat.org/issn/0955-8810). [OCLC](http://en.wikipedia.org/wiki/OCLC) [22170289](//www.worldcat.org/oclc/22170289). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17551320](//www.ncbi.nlm.nih.gov/pubmed/17551320).
-2.  [↑](#cite_ref-2) Grof, S.; Soskin, R. A.; Richards, W. A.; Kurland, A. A. (1973). "DPT as an Adjunct in Psychotherapy of Alcoholics". *International Pharmacopsychiatry*. **8** (1): 104–115. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1159/000467979](//doi.org/10.1159%2F000467979). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0020-8272](//www.worldcat.org/issn/0020-8272). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1753673](//www.worldcat.org/oclc/1753673). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [4150711](//www.ncbi.nlm.nih.gov/pubmed/4150711).
-3.  [↑](#cite_ref-3) Richards, W. A.; Rhead, J. C.; Dileo, F. B.; Yensen, R.; Kurland, A. A. (1977). "The Peak Experience Variable in DPT-Assisted Psychotherapy with Cancer Patients". *Journal of Psychedelic Drugs*. **9** (1): 1–10. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1080/02791072.1977.10472020](//doi.org/10.1080%2F02791072.1977.10472020). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-393X](//www.worldcat.org/issn/0022-393X). [OCLC](http://en.wikipedia.org/wiki/OCLC) [7565359](//www.worldcat.org/oclc/7565359).
-4.  [↑](#cite_ref-4) ["Temple of the True Inner Light"](http://psychede.tripod.com/). Retrieved January 9, 2020.
-5.  [↑](#cite_ref-5) Fantegrossi, W., Reissig, C., Katz, E., Yarosh, H., Rice, K., Winter, J. (January 2008). ["Hallucinogen-like effects of N,N-dipropyltryptamine (DPT): Possible mediation by serotonin 5-HT1A and 5-HT2A receptors in rodents"](https://linkinghub.elsevier.com/retrieve/pii/S0091305707002894). *Pharmacology Biochemistry and Behavior*. **88** (3): 358–365. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.pbb.2007.09.007](//doi.org/10.1016%2Fj.pbb.2007.09.007). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0091-3057](//www.worldcat.org/issn/0091-3057).
-6.  [↑](#cite_ref-6) Tribune, B. D. S., [*Carver County teen’s death puts spotlight on ease of purchasing synthetic drugs online*](https://www.startribune.com/carver-county-teen-s-death-puts-spotlight-on-ease-of-purchasing-synthetic-drugs-online/330344661/)
-7.  [↑](#cite_ref-7) Smith, D. A.; Bailey, J. M.; Williams, D.; Fantegrossi, W. E. (2014). ["Tolerance and Cross-Tolerance to Head Twitch Behavior Elicited by Phenethylamine- and Tryptamine-Derived Hallucinogens in Mice"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4309922). *Journal of Pharmacology and Experimental Therapeutics*. **351** (2): 485–491. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.114.219337](//doi.org/10.1124%2Fjpet.114.219337). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0103](//www.worldcat.org/issn/1521-0103). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1606914](//www.worldcat.org/oclc/1606914). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [4309922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4309922). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [25271256](//www.ncbi.nlm.nih.gov/pubmed/25271256).
-8.  [↑](#cite_ref-8) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). ["Dose-independent occurrence of seizure with tramadol"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [3550327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [19415589](//www.ncbi.nlm.nih.gov/pubmed/19415589).
-9.  [↑](#cite_ref-9) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-11. [↑](#cite_ref-11) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-12. [↑](#cite_ref-12) ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
-13. [↑](#cite_ref-13) ["Schedule 1 Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *"Reprint as at 13 August 2019: Misuse of Drugs Act 1975"*. Parliamentary Counsel Office. Retrieved January 7, 2020.
-14. [↑](#cite_ref-14) ["31 nya substanser klassas som narkotika eller hälsofarlig vara"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2016/januari/31-nya-substanser-klassas-som-narkotika-eller-halsofarlig-vara) (in Swedish). Folkhälsomyndigheten [Public Health Agency of Sweden]. January 26, 2016. Retrieved January 1, 2020.
-15. [↑](#cite_ref-15) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-16. [↑](#cite_ref-16) ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
-17. [↑](#cite_ref-17) ["Title XLVI: Chapter 893: Drug Abuse Prevention And Control"](http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html). *The 2019 Florida Statutes*. The Florida Legislature. Retrieved January 10, 2020.
-18. [↑](#cite_ref-18) <http://legislature.maine.gov/statutes/17-a/title17-Asec1102.html>
-19. [↑](#cite_ref-19) ["Section 2-204 - Schedule I"](https://web.archive.org/web/20190709113340/http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=98866). *Oklahoma Statutes Citationized*. Oklahoma Judicial Center. January 11, 2019. Archived from [the original](http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=98866) on July 9, 2019. Retrieved January 10, 2020.
+1.  ↑ Li, J. X.; Rice, K.; France, C. P. (2007). "Behavioral effects of dipropyltryptamine in rats: evidence for 5-HT1A and 5-HT2A agonist activity". *Behavioural Pharmacology*. **18** (4): 283–288. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/FBP.0b013e3281f19ca0](//doi.org/10.1097%2FFBP.0b013e3281f19ca0). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1473-5849](//www.worldcat.org/issn/1473-5849). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0955-8810](//www.worldcat.org/issn/0955-8810). [OCLC](http://en.wikipedia.org/wiki/OCLC) [22170289](//www.worldcat.org/oclc/22170289). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17551320](//www.ncbi.nlm.nih.gov/pubmed/17551320).
+2.  ↑ Grof, S.; Soskin, R. A.; Richards, W. A.; Kurland, A. A. (1973). "DPT as an Adjunct in Psychotherapy of Alcoholics". *International Pharmacopsychiatry*. **8** (1): 104–115. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1159/000467979](//doi.org/10.1159%2F000467979). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0020-8272](//www.worldcat.org/issn/0020-8272). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1753673](//www.worldcat.org/oclc/1753673). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [4150711](//www.ncbi.nlm.nih.gov/pubmed/4150711).
+3.  ↑ Richards, W. A.; Rhead, J. C.; Dileo, F. B.; Yensen, R.; Kurland, A. A. (1977). "The Peak Experience Variable in DPT-Assisted Psychotherapy with Cancer Patients". *Journal of Psychedelic Drugs*. **9** (1): 1–10. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1080/02791072.1977.10472020](//doi.org/10.1080%2F02791072.1977.10472020). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-393X](//www.worldcat.org/issn/0022-393X). [OCLC](http://en.wikipedia.org/wiki/OCLC) [7565359](//www.worldcat.org/oclc/7565359).
+4.  ↑ ["Temple of the True Inner Light"](http://psychede.tripod.com/). Retrieved January 9, 2020.
+5.  ↑ Fantegrossi, W., Reissig, C., Katz, E., Yarosh, H., Rice, K., Winter, J. (January 2008). ["Hallucinogen-like effects of N,N-dipropyltryptamine (DPT): Possible mediation by serotonin 5-HT1A and 5-HT2A receptors in rodents"](https://linkinghub.elsevier.com/retrieve/pii/S0091305707002894). *Pharmacology Biochemistry and Behavior*. **88** (3): 358–365. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.pbb.2007.09.007](//doi.org/10.1016%2Fj.pbb.2007.09.007). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0091-3057](//www.worldcat.org/issn/0091-3057).
+6.  ↑ Tribune, B. D. S., [*Carver County teen’s death puts spotlight on ease of purchasing synthetic drugs online*](https://www.startribune.com/carver-county-teen-s-death-puts-spotlight-on-ease-of-purchasing-synthetic-drugs-online/330344661/)
+7.  ↑ Smith, D. A.; Bailey, J. M.; Williams, D.; Fantegrossi, W. E. (2014). ["Tolerance and Cross-Tolerance to Head Twitch Behavior Elicited by Phenethylamine- and Tryptamine-Derived Hallucinogens in Mice"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4309922). *Journal of Pharmacology and Experimental Therapeutics*. **351** (2): 485–491. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/jpet.114.219337](//doi.org/10.1124%2Fjpet.114.219337). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0103](//www.worldcat.org/issn/1521-0103). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1606914](//www.worldcat.org/oclc/1606914). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [4309922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4309922). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [25271256](//www.ncbi.nlm.nih.gov/pubmed/25271256).
+8.  ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). ["Dose-independent occurrence of seizure with tramadol"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [3550327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [19415589](//www.ncbi.nlm.nih.gov/pubmed/19415589).
+9.  ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+10. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+11. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+12. ↑ ["Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem"](http://likumi.lv/doc.php?id=121086) (in Latvian). VSIA Latvijas Vēstnesis. November 10, 2005. Retrieved January 1, 2020.
+13. ↑ ["Schedule 1 Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *"Reprint as at 13 August 2019: Misuse of Drugs Act 1975"*. Parliamentary Counsel Office. Retrieved January 7, 2020.
+14. ↑ ["31 nya substanser klassas som narkotika eller hälsofarlig vara"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2016/januari/31-nya-substanser-klassas-som-narkotika-eller-halsofarlig-vara) (in Swedish). Folkhälsomyndigheten [Public Health Agency of Sweden]. January 26, 2016. Retrieved January 1, 2020.
+15. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+16. ↑ ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
+17. ↑ ["Title XLVI: Chapter 893: Drug Abuse Prevention And Control"](http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html). *The 2019 Florida Statutes*. The Florida Legislature. Retrieved January 10, 2020.
+18. ↑ <http://legislature.maine.gov/statutes/17-a/title17-Asec1102.html>
+19. ↑ ["Section 2-204 - Schedule I"](https://web.archive.org/web/20190709113340/http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=98866). *Oklahoma Statutes Citationized*. Oklahoma Judicial Center. January 11, 2019. Archived from [the original](http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=98866) on July 9, 2019. Retrieved January 10, 2020.
 
 ---

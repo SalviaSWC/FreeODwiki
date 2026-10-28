@@ -15,21 +15,21 @@
 | 精神活性分类                                                                                    | *[大麻类](/文档/药物分类/大麻类.md)*                              |
 | 化学分类                                                                                      | *[吲唑甲酰胺类物质](/文档/药物分类/吲唑甲酰胺类物质.md)*                    |
 | [给药途径](/文档/给药途径.md)                                                                       |                                                       |
-| - **警告：**由于个体体重、耐受、代谢和个人敏感性都不一样嘛，请务必从更低剂量开始。[参见负责任用药章节](/文档/负责任的用药索引页.md)。                | ⇣ [抽吸](/文档/给药途径.md#抽吸)                                |
+| - **警告：**由于个体体重、耐受、代谢和个人敏感性都不一样嘛，请务必从更低剂量开始。[参见负责任用药章节](/文档/负责任的用药索引页.md)。                | ⇣ [抽吸](/文档/给药途径.md)                                |
 | [给药剂量](/文档/给药剂量.md)                                                                       |                                                       |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                    | <1mg                                                  |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                    | 1-2mg                                                 |
-| [中等](/文档/药物剂量分类.md#中等)                                                                    | 2-3mg                                                 |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                    | 3-5mg                                                 |
-| [严重](/文档/药物剂量分类.md#严重)                                                                    | 5mg+                                                  |
+| [阈值](/文档/药物剂量分类.md)                                                                    | <1mg                                                  |
+| [轻微](/文档/药物剂量分类.md)                                                                    | 1-2mg                                                 |
+| [中等](/文档/药物剂量分类.md)                                                                    | 2-3mg                                                 |
+| [强烈](/文档/药物剂量分类.md)                                                                    | 3-5mg                                                 |
+| [严重](/文档/药物剂量分类.md)                                                                    | 5mg+                                                  |
 | [药效时长](/文档/药效时长.md)                                                                       |                                                       |
-| [总时长](/文档/药效时长.md#总时长)                                                                    | 1-2小时                                                 |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                  | 0-20分钟                                                |
-| [药效达峰](/文档/药效时长.md#药效达峰)                                                                  | 30-60分钟                                               |
-| [药效褪去](/文档/药效时长.md#药效褪去)                                                                  | 10-20分钟                                               |
-| [药效残余](/文档/药效时长.md#药效残余)                                                                  | 15-30分钟                                               |
+| [总时长](/文档/药效时长.md)                                                                    | 1-2小时                                                 |
+| [药效发作](/文档/药效时长.md)                                                                  | 0-20分钟                                                |
+| [药效达峰](/文档/药效时长.md)                                                                  | 30-60分钟                                               |
+| [药效褪去](/文档/药效时长.md)                                                                  | 10-20分钟                                               |
+| [药效残余](/文档/药效时长.md)                                                                  | 15-30分钟                                               |
 | **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为教育用途，整理自用户与资源，并不构成推荐，准确性还请结合其他来源再核实哦。 |                                                       |
-| [相互作用](#危险的相互作用)                                                                          |                                                       |
+| 相互作用                                                                          |                                                       |
 | [2C-T-x](/文档/药物分类/2C-T-x类物质.md)                                                           |                                                       |
 | [2C-x](/文档/药物分类/2C-x类物质.md)                                                               |                                                       |
 | [5-MeO-xxT](/文档/药物分类/5-MeO-xxT类物质.md)                                                     |                                                       |
@@ -48,31 +48,31 @@
 
 AB-FUBINACA最早由辉瑞于2009年开发，原本是作为一种镇痛药物，但后来并未继续推进到人体使用。之后在2012年，它在日本的合成大麻混合物中被发现，同时还伴随发现了一种此前未曾报道过的相关化合物[AB-PINACA](/药物/AB-PINACA.md)。
 
-大麻类通常会通过抽吸或雾化来获得更快的[药效发作](/文档/药效时长.md#药效发作)与迅速的[药效褪去](/文档/药效时长.md#药效褪去)。AB-FUBINACA在溶于脂质后也具有[口服](/文档/给药途径.md#口服)活性，这会显著延长其持续时间。和其他[大麻类](/文档/药物分类/大麻类.md)一样，它不溶于水，但可溶于[酒精](/药物/酒精.md)和脂质。
+大麻类通常会通过抽吸或雾化来获得更快的[药效发作](/文档/药效时长.md)与迅速的[药效褪去](/文档/药效时长.md)。AB-FUBINACA在溶于脂质后也具有[口服](/文档/给药途径.md)活性，这会显著延长其持续时间。和其他[大麻类](/文档/药物分类/大麻类.md)一样，它不溶于水，但可溶于[酒精](/药物/酒精.md)和脂质。
 
 与[大麻](/药物/大麻.md)不同，长期滥用[合成大麻素类物质](/文档/药物分类/合成大麻素类物质.md)已被认为与多起死亡事件、更危险的副作用以及更高毒性有关。因此，非常不建议长时间或大剂量使用这种物质哦。
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 躯体效应](#躯体效应)
-  * [3.2 视觉效应](#视觉效应)
-  * [3.3 认知效应](#认知效应)
-  * [3.4 听觉效应](#听觉效应)
-  * [3.5 体验报告](#体验报告)
-* [4 毒性与伤害可能性](#毒性与伤害可能性)
+  * 3.1 躯体效应
+  * 3.2 视觉效应
+  * 3.3 认知效应
+  * 3.4 听觉效应
+  * 3.5 体验报告
+* 4 毒性与伤害可能性
 
-  * [4.1 耐受性与成瘾可能性](#耐受性与成瘾可能性)
-  * [4.2 危险的相互作用](#危险的相互作用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
+  * 4.1 耐受性与成瘾可能性
+  * 4.2 危险的相互作用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
 
-  * [7.1 讨论](#讨论)
-* [8 参考文献](#参考文献)
+  * 7.1 讨论
+* 8 参考文献
 
 ## 化学
 
@@ -133,7 +133,7 @@ _**免责声明：**以下列出的效应引用自[***主观效应索引***](/�
 
 ## 毒性与伤害可能性
 
-更多信息：[合成大麻素类物质§毒性与伤害可能性](/文档/药物分类/合成大麻素类物质.md#毒性与伤害可能性)与[研究用化学品§毒性与伤害可能性](/文档/研究用化学品.md#毒性与伤害可能性)
+更多信息：[合成大麻素类物质§毒性与伤害可能性](/文档/药物分类/合成大麻素类物质.md)与[研究用化学品§毒性与伤害可能性](/文档/研究用化学品.md)
 
 娱乐性使用AB-FUBINACA的毒性与长期健康影响，似乎尚未在任何科学语境下被研究过，而其确切中毒剂量也未知。这是因为AB-FUBINACA几乎没有什么人类使用史。社区中尝试过AB-FUBINACA的人所提供的轶事证据表明，单独以低到中等剂量偶尔使用时，似乎并不会带来明显的负面健康影响，不过嘛，这一点当然也没法被完全保证。
 
@@ -203,25 +203,25 @@ _**免责声明：**以下列出的效应引用自[***主观效应索引***](/�
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Howlett, A. C. (August 2002). "The cannabinoid receptors". *Prostaglandins & Other Lipid Mediators*. 68–69: 619–631. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/s0090-6980(02)00060-6](//doi.org/10.1016%2Fs0090-6980%2802%2900060-6). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1098-8823](//www.worldcat.org/issn/1098-8823).
-2. [↑](#cite_ref-2) Uchiyama, N., Matsuda, S., Wakana, D., Kikura-Hanajiri, R., Goda, Y. (January 2013). ["New cannabimimetic indazole derivatives, N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) and N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA) identified as designer drugs in illegal products"](http://link.springer.com/10.1007/s11419-012-0171-4). *Forensic Toxicology*. **31** (1): 93–100. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s11419-012-0171-4](//doi.org/10.1007%2Fs11419-012-0171-4). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1860-8965](//www.worldcat.org/issn/1860-8965).
-3. [↑](#cite_ref-3) Mechoulam, R., ed. (1986). *Cannabinoids as therapeutic agents*. CRC Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780849357725](http://en.wikipedia.org/wiki/Special:BookSources/9780849357725 "wikipedia:Special:BookSources/9780849357725").
+1. ↑ Howlett, A. C. (August 2002). "The cannabinoid receptors". *Prostaglandins & Other Lipid Mediators*. 68–69: 619–631. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/s0090-6980(02)00060-6](//doi.org/10.1016%2Fs0090-6980%2802%2900060-6). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1098-8823](//www.worldcat.org/issn/1098-8823).
+2. ↑ Uchiyama, N., Matsuda, S., Wakana, D., Kikura-Hanajiri, R., Goda, Y. (January 2013). ["New cannabimimetic indazole derivatives, N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) and N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA) identified as designer drugs in illegal products"](http://link.springer.com/10.1007/s11419-012-0171-4). *Forensic Toxicology*. **31** (1): 93–100. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s11419-012-0171-4](//doi.org/10.1007%2Fs11419-012-0171-4). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1860-8965](//www.worldcat.org/issn/1860-8965).
+3. ↑ Mechoulam, R., ed. (1986). *Cannabinoids as therapeutic agents*. CRC Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780849357725](http://en.wikipedia.org/wiki/Special:BookSources/9780849357725).
 4. ↑   [*How Marijuana Works*](https://science.howstuffworks.com/marijuana.htm), 2001
-5. ↑   Arseneault, L., Cannon, M., Witton, J., Murray, R. M. (February 2004). ["Causal association between cannabis and psychosis: examination of the evidence"](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4). *The British Journal of Psychiatry*. **184** (2): 110–117. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1192/bjp.184.2.110](//doi.org/10.1192%2Fbjp.184.2.110). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1250](//www.worldcat.org/issn/0007-1250).
-6. ↑   Every-Palmer, S. (September 2011). ["Synthetic cannabinoid JWH-018 and psychosis: An explorative study"](https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639). *Drug and Alcohol Dependence*. **117** (2–3): 152–157. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.drugalcdep.2011.01.012](//doi.org/10.1016%2Fj.drugalcdep.2011.01.012). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0376-8716](//www.worldcat.org/issn/0376-8716).
-7. ↑   Schneir, A. B., Cullen, J., Ly, B. T. (1 March 2011). [""Spice" Girls: Synthetic Cannabinoid Intoxication"](https://www.sciencedirect.com/science/article/pii/S0736467910008802). *The Journal of Emergency Medicine*. **40** (3): 296–299. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.jemermed.2010.10.014](//doi.org/10.1016%2Fj.jemermed.2010.10.014). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0736-4679](//www.worldcat.org/issn/0736-4679).
-8. ↑   Vearrier, D., Osterhoudt, K. C. (June 2010). ["A Teenager With Agitation: Higher Than She Should Have Climbed"](http://journals.lww.com/00006565-201006000-00016). *Pediatric Emergency Care*. **26** (6): 462–465. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1097/PEC.0b013e3181e4f416](//doi.org/10.1097%2FPEC.0b013e3181e4f416). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0749-5161](//www.worldcat.org/issn/0749-5161).
-9. [↑](#cite_ref-9) Trecki, J., Gerona, R. R., Schwartz, M. D. (9 July 2015). ["Synthetic Cannabinoid–Related Illnesses and Deaths"](https://doi.org/10.1056/NEJMp1505328). *New England Journal of Medicine*. **373** (2): 103–107. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1056/NEJMp1505328](//doi.org/10.1056%2FNEJMp1505328). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0028-4793](//www.worldcat.org/issn/0028-4793).
-10. [↑](#cite_ref-10) Klavž, J., Gorenjak, M., Marinšek, M. (August 2016). ["Suicide attempt with a mix of synthetic cannabinoids and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC"](https://linkinghub.elsevier.com/retrieve/pii/S0379073816000372). *Forensic Science International*. **265**: 121–124. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.forsciint.2016.01.018](//doi.org/10.1016%2Fj.forsciint.2016.01.018). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0379-0738](//www.worldcat.org/issn/0379-0738).
-11. [↑](#cite_ref-11) ["WHO: World Health Organization recommends 12 NPS for scheduling"](https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3). December 2019. Retrieved October 16, 2020.
-12. [↑](#cite_ref-12) ["CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting"](https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d). World Health Organization (WHO). March 18, 2020. Retrieved October 16, 2020.
-13. [↑](#cite_ref-13) 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | [http://www.sfda.gov.cn/WS01/CL0056/130753.html](http://www.sfda.gov.cn/WS01/CL0056/130753.html)
-14. [↑](#cite_ref-14) ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 30, 2019.
-15. [↑](#cite_ref-15) ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57* (in German). Bundesanzeiger Verlag. December 12, 2014. pp. 1999–2002. Retrieved December 19, 2019.
-16. [↑](#cite_ref-16) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
-17. [↑](#cite_ref-17) [*Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem*](https://likumi.lv/doc.php?id=121086)
-18. [↑](#cite_ref-18) ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/DU/rok/2021/pozycja/518). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
-19. [↑](#cite_ref-19) ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/D2021000051801.pdf) (PDF). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
-20. [↑](#cite_ref-20) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-21. [↑](#cite_ref-21) [*The Misuse of Drugs Act 1971 (Amendment) Order 2016*](https://www.legislation.gov.uk/uksi/2016/1109/made)
-22. [↑](#cite_ref-22) Behonick, G., Shanks, K. G., Firchau, D. J., Mathur, G., Lynch, C. F., Nashelsky, M., Jaskierny, D. J., Meroueh, C. (October 2014). "Four postmortem case reports with quantitative detection of the synthetic cannabinoid, 5F-PB-22". *Journal of Analytical Toxicology*. **38** (8): 559–562. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/jat/bku048](//doi.org/10.1093%2Fjat%2Fbku048). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1945-2403](//www.worldcat.org/issn/1945-2403).
+5. ↑   Arseneault, L., Cannon, M., Witton, J., Murray, R. M. (February 2004). ["Causal association between cannabis and psychosis: examination of the evidence"](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4). *The British Journal of Psychiatry*. **184** (2): 110–117. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1192/bjp.184.2.110](//doi.org/10.1192%2Fbjp.184.2.110). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1250](//www.worldcat.org/issn/0007-1250).
+6. ↑   Every-Palmer, S. (September 2011). ["Synthetic cannabinoid JWH-018 and psychosis: An explorative study"](https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639). *Drug and Alcohol Dependence*. **117** (2–3): 152–157. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.drugalcdep.2011.01.012](//doi.org/10.1016%2Fj.drugalcdep.2011.01.012). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0376-8716](//www.worldcat.org/issn/0376-8716).
+7. ↑   Schneir, A. B., Cullen, J., Ly, B. T. (1 March 2011). [""Spice" Girls: Synthetic Cannabinoid Intoxication"](https://www.sciencedirect.com/science/article/pii/S0736467910008802). *The Journal of Emergency Medicine*. **40** (3): 296–299. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.jemermed.2010.10.014](//doi.org/10.1016%2Fj.jemermed.2010.10.014). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0736-4679](//www.worldcat.org/issn/0736-4679).
+8. ↑   Vearrier, D., Osterhoudt, K. C. (June 2010). ["A Teenager With Agitation: Higher Than She Should Have Climbed"](http://journals.lww.com/00006565-201006000-00016). *Pediatric Emergency Care*. **26** (6): 462–465. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/PEC.0b013e3181e4f416](//doi.org/10.1097%2FPEC.0b013e3181e4f416). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0749-5161](//www.worldcat.org/issn/0749-5161).
+9. ↑ Trecki, J., Gerona, R. R., Schwartz, M. D. (9 July 2015). ["Synthetic Cannabinoid–Related Illnesses and Deaths"](https://doi.org/10.1056/NEJMp1505328). *New England Journal of Medicine*. **373** (2): 103–107. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1056/NEJMp1505328](//doi.org/10.1056%2FNEJMp1505328). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0028-4793](//www.worldcat.org/issn/0028-4793).
+10. ↑ Klavž, J., Gorenjak, M., Marinšek, M. (August 2016). ["Suicide attempt with a mix of synthetic cannabinoids and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC"](https://linkinghub.elsevier.com/retrieve/pii/S0379073816000372). *Forensic Science International*. **265**: 121–124. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2016.01.018](//doi.org/10.1016%2Fj.forsciint.2016.01.018). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738).
+11. ↑ ["WHO: World Health Organization recommends 12 NPS for scheduling"](https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3). December 2019. Retrieved October 16, 2020.
+12. ↑ ["CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting"](https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d). World Health Organization (WHO). March 18, 2020. Retrieved October 16, 2020.
+13. ↑ 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | [http://www.sfda.gov.cn/WS01/CL0056/130753.html](http://www.sfda.gov.cn/WS01/CL0056/130753.html)
+14. ↑ ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 30, 2019.
+15. ↑ ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57* (in German). Bundesanzeiger Verlag. December 12, 2014. pp. 1999–2002. Retrieved December 19, 2019.
+16. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
+17. ↑ [*Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem*](https://likumi.lv/doc.php?id=121086)
+18. ↑ ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/DU/rok/2021/pozycja/518). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
+19. ↑ ["Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych"](https://dziennikustaw.gov.pl/D2021000051801.pdf) (PDF). *DZIENNIK USTAW 2021 R. POZ. 518* (in Polish). 2021-03-22.
+20. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+21. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2016*](https://www.legislation.gov.uk/uksi/2016/1109/made)
+22. ↑ Behonick, G., Shanks, K. G., Firchau, D. J., Mathur, G., Lynch, C. F., Nashelsky, M., Jaskierny, D. J., Meroueh, C. (October 2014). "Four postmortem case reports with quantitative detection of the synthetic cannabinoid, 5F-PB-22". *Journal of Analytical Toxicology*. **38** (8): 559–562. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bku048](//doi.org/10.1093%2Fjat%2Fbku048). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1945-2403](//www.worldcat.org/issn/1945-2403).

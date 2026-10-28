@@ -35,7 +35,7 @@ Erowid 注：这份 FAQ 不是 Erowid 写的。它可能包含过时或不正确
 
 ![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)![---](/文档/右美沙芬FAQ/smalldrixcap.gif)
 
-如果你发现自己在心理上依赖上了右美沙芬，不妨看看关于戒除右美沙芬的新章节（[第 6.8 节](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.8)）哦。记住哦，人家可不是医生，也不会在网上假装医生，所以首先也是最重要的是要去咨询医生，询问她/他关于我列出的那些前右美沙芬成瘾者的建议是否可行。
+如果你发现自己在心理上依赖上了右美沙芬，不妨看看关于戒除右美沙芬的新章节（[第 6.8 节](/文档/右美沙芬FAQ/dxm_side_effects.md)）哦。记住哦，人家可不是医生，也不会在网上假装医生，所以首先也是最重要的是要去咨询医生，询问她/他关于我列出的那些前右美沙芬成瘾者的建议是否可行。
 
 ![](/文档/右美沙芬FAQ/contents_s.gif)
 
@@ -118,352 +118,352 @@ FAQ v3.0 引言
 
  | | | |
 | --- | --- | --- |
-| **1** | **[致谢](/文档/右美沙芬FAQ/dxm_ack.md#toc.1)** | |
+| **1** | **[致谢](/文档/右美沙芬FAQ/dxm_ack.md)** | |
 | | | |
-| **2** | **[预备信息](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2)** | |
-| 2.1 | [限制和免责声明](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2.1) | |
-| | [分发限制](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2.1.1) |
-| | [一般免责声明](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2.1.2) |
-| | [如何联系作者](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2.1.3) |
-| 2.2 | [为什么要写右美沙芬 FAQ？](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2.2) | |
-| 2.3 | [保持右美沙芬合法](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2.3) | |
-| 2.4 | [如何使用本文档](/文档/右美沙芬FAQ/dxm_preliminary.md#toc.2.4) | |
+| **2** | **[预备信息](/文档/右美沙芬FAQ/dxm_preliminary.md)** | |
+| 2.1 | [限制和免责声明](/文档/右美沙芬FAQ/dxm_preliminary.md) | |
+| | [分发限制](/文档/右美沙芬FAQ/dxm_preliminary.md) |
+| | [一般免责声明](/文档/右美沙芬FAQ/dxm_preliminary.md) |
+| | [如何联系作者](/文档/右美沙芬FAQ/dxm_preliminary.md) |
+| 2.2 | [为什么要写右美沙芬 FAQ？](/文档/右美沙芬FAQ/dxm_preliminary.md) | |
+| 2.3 | [保持右美沙芬合法](/文档/右美沙芬FAQ/dxm_preliminary.md) | |
+| 2.4 | [如何使用本文档](/文档/右美沙芬FAQ/dxm_preliminary.md) | |
 | | | |
-| **3** | **[右美沙芬快速问答](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3)** | |
-| 3.1 | [什么是右美沙芬？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.1) | |
-| 3.2 | [你是说喝止咳糖浆能让人嗨起来？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.2) | |
-| 3.3 | [哪种止咳药是安全的？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.3) | |
-| 3.4 | [如果我喝了错误的止咳糖浆会发生什么？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.4) | |
-| 3.5 | [我在服用其他药物——我可以服用右美沙芬吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.5) | |
-| 3.6 | [右美沙芬的致幻体验是什么样的？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.6) | |
-| 3.7 | [我该服用多少右美沙芬？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.7) | |
-| 3.8 | [右美沙芬像LSD吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.8) | |
-| 3.9 | [右美沙芬好玩吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.9) | |
-| 3.10 | [右美沙芬危险吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.10) | |
-| 3.11 | [如果右美沙芬危险，为什么要用它？](/文档/右美沙芬FAQ/dxm_quickfaq.md#toc.3.11) | |
+| **3** | **[右美沙芬快速问答](/文档/右美沙芬FAQ/dxm_quickfaq.md)** | |
+| 3.1 | [什么是右美沙芬？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.2 | [你是说喝止咳糖浆能让人嗨起来？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.3 | [哪种止咳药是安全的？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.4 | [如果我喝了错误的止咳糖浆会发生什么？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.5 | [我在服用其他药物——我可以服用右美沙芬吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.6 | [右美沙芬的致幻体验是什么样的？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.7 | [我该服用多少右美沙芬？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.8 | [右美沙芬像LSD吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.9 | [右美沙芬好玩吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.10 | [右美沙芬危险吗？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
+| 3.11 | [如果右美沙芬危险，为什么要用它？](/文档/右美沙芬FAQ/dxm_quickfaq.md) | |
 | | | |
-| **4** | **[关于右美沙芬的常规信息](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4)** | |
-| 4.1 | [右美沙芬快速参考页](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.1) | |
-| 4.2 | [什么是氢溴酸右美沙芬？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.2) | |
-| 4.3 | [什么是聚苯乙烯磺酸右美沙芬？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.3) | |
-| 4.4 | [什么是右羟吗喃 (DXO)？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.4) | |
-| 4.5 | [右美沙芬作为一种娱乐药物令人愉快吗？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.5) | |
-| 4.6 | [右美沙芬是一种阿片类药物吗？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.6) | |
-| 4.7 | [每个人都喜欢右美沙芬吗？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.7) | |
-| 4.8 | [如何获得和使用右美沙芬？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8) | |
-| | [止咳糖浆](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8.1) |
-| | [胶囊](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8.2) |
-| | [片剂和胶囊（包括含氯苯那敏的右美沙芬片）](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8.3) |
-| | [喉糖](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8.4) |
-| | [药物和化学供应商](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8.5) |
-| | [提取出的右美沙芬](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8.6) |
-| | [注射和其他途径](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.8.7) |
-| 4.9 | [有哪些典型的含右美沙芬制剂？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.9) | |
-| 4.10 | [我该怎么喝止咳糖浆？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.10) | |
-| 4.11 | [关于其他药物成分我应该知道些什么？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11) | |
-| | [减充血剂](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.1) |
-| | [抗组胺药](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.2) |
-| | [愈创甘油醚](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.3) |
-| | [镇痛药，对乙酰氨基酚](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.4) |
-| | [酒精](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.5) |
-| | [食用色素和染料](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.6) |
-| | [溴离子](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.7) |
-| | [其他“非活性”成分](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.11.8) |
-| 4.12 | [为什么这么多右美沙芬制剂是液体形式？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.12) | |
-| 4.13 | [娱乐性使用右美沙芬违法吗？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.13) | |
-| 4.14 | [如果右美沙芬是合法的，为什么不是每个人都在用？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.14) | |
-| 4.15 | [右美沙芬的新医疗用途](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.15) | |
-| | [诊断用途](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.15.1) |
-| | [神经保护用途](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.15.2) |
-| | [右美沙芬用于慢性疼痛](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.15.3) |
-| | [右美沙芬用于药物成瘾](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.15.4) |
-| | [右美沙芬用于疾病和其他病症](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.15.5) |
-| 4.16 | [药物相互作用](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.16) | |
-| | [致命或危险的相互作用](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.16.1) |
-| | [有益的药物相互作用](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.16.2) |
-| | [娱乐药物相互作用](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.16.3) |
-| 4.17 | [一般警告](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.17) | |
-| 4.18 | [其他止咳药怎么样？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.18) | |
-| | [那可汀](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.18.1) |
-| | [阿片类药物](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.18.2) |
-| | [局部麻醉剂](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.18.3) |
-| | [药检能检测出右美沙芬吗？](/文档/右美沙芬FAQ/dxm_general_info.md#toc.4.18.4) |
+| **4** | **[关于右美沙芬的常规信息](/文档/右美沙芬FAQ/dxm_general_info.md)** | |
+| 4.1 | [右美沙芬快速参考页](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.2 | [什么是氢溴酸右美沙芬？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.3 | [什么是聚苯乙烯磺酸右美沙芬？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.4 | [什么是右羟吗喃 (DXO)？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.5 | [右美沙芬作为一种娱乐药物令人愉快吗？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.6 | [右美沙芬是一种阿片类药物吗？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.7 | [每个人都喜欢右美沙芬吗？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.8 | [如何获得和使用右美沙芬？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| | [止咳糖浆](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [胶囊](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [片剂和胶囊（包括含氯苯那敏的右美沙芬片）](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [喉糖](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [药物和化学供应商](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [提取出的右美沙芬](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [注射和其他途径](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| 4.9 | [有哪些典型的含右美沙芬制剂？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.10 | [我该怎么喝止咳糖浆？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.11 | [关于其他药物成分我应该知道些什么？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| | [减充血剂](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [抗组胺药](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [愈创甘油醚](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [镇痛药，对乙酰氨基酚](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [酒精](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [食用色素和染料](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [溴离子](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [其他“非活性”成分](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| 4.12 | [为什么这么多右美沙芬制剂是液体形式？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.13 | [娱乐性使用右美沙芬违法吗？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.14 | [如果右美沙芬是合法的，为什么不是每个人都在用？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.15 | [右美沙芬的新医疗用途](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| | [诊断用途](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [神经保护用途](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [右美沙芬用于慢性疼痛](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [右美沙芬用于药物成瘾](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [右美沙芬用于疾病和其他病症](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| 4.16 | [药物相互作用](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| | [致命或危险的相互作用](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [有益的药物相互作用](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [娱乐药物相互作用](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| 4.17 | [一般警告](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| 4.18 | [其他止咳药怎么样？](/文档/右美沙芬FAQ/dxm_general_info.md) | |
+| | [那可汀](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [阿片类药物](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [局部麻醉剂](/文档/右美沙芬FAQ/dxm_general_info.md) |
+| | [药检能检测出右美沙芬吗？](/文档/右美沙芬FAQ/dxm_general_info.md) |
 | | | |
-| **5** | **[右美沙芬体验](/文档/右美沙芬FAQ/dxm_experience.md#toc.5)** | |
-| 5.1 | [右美沙芬体验的总体特征是什么？](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.1) | |
-| 5.2 | [低层高原概述](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.2) | |
-| 5.3 | [第一高原](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.3) | |
-| | [感官影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.3.1) |
-| | [认知/情感影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.3.2) |
-| | [运动影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.3.3) |
-| | [记忆影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.3.4) |
-| 5.4 | [第二高原](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.4) | |
-| | [感官影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.4.1) |
-| | [认知/情感影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.4.2) |
-| | [运动影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.4.3) |
-| | [记忆影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.4.4) |
-| 5.5 | [过渡阶段](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.5) | |
-| 5.6 | [高层高原](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.6) | |
-| 5.7 | [第三高原](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.7) | |
-| | [感官影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.7.1) |
-| | [认知/情感影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.7.2) |
-| | [运动影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.7.3) |
-| | [记忆影响](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.7.4) |
-| 5.8 | [第四高原](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.8) | |
-| 5.9 | [西格玛 (Sigma) 高原](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.9) | |
-| 5.10 | [第四高原之外还有什么吗？](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.10) | |
-| 5.11 | [什么是“右美沙芬第三眼相机”？](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.11) | |
-| 5.12 | [右美空间，右美意识](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.12) | |
-| 5.13 | [什么是“右美欣快感”，是什么让它如此独特？](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.13) | |
-| 5.14 | [长期或经常使用会发生什么？](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.14) | |
-| 5.15 | [为什么右美沙芬对不同人的影响如此不同？](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.15) | |
-| 5.16 | [右美沙芬与其他解离剂相比如何？](/文档/右美沙芬FAQ/dxm_experience.md#toc.5.16) | |
+| **5** | **[右美沙芬体验](/文档/右美沙芬FAQ/dxm_experience.md)** | |
+| 5.1 | [右美沙芬体验的总体特征是什么？](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.2 | [低层高原概述](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.3 | [第一高原](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| | [感官影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [认知/情感影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [运动影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [记忆影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| 5.4 | [第二高原](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| | [感官影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [认知/情感影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [运动影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [记忆影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| 5.5 | [过渡阶段](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.6 | [高层高原](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.7 | [第三高原](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| | [感官影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [认知/情感影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [运动影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| | [记忆影响](/文档/右美沙芬FAQ/dxm_experience.md) |
+| 5.8 | [第四高原](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.9 | [西格玛 (Sigma) 高原](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.10 | [第四高原之外还有什么吗？](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.11 | [什么是“右美沙芬第三眼相机”？](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.12 | [右美空间，右美意识](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.13 | [什么是“右美欣快感”，是什么让它如此独特？](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.14 | [长期或经常使用会发生什么？](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.15 | [为什么右美沙芬对不同人的影响如此不同？](/文档/右美沙芬FAQ/dxm_experience.md) | |
+| 5.16 | [右美沙芬与其他解离剂相比如何？](/文档/右美沙芬FAQ/dxm_experience.md) | |
 | | | |
-| **6** | **[右美沙芬副作用和其他应避免的事项](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6)** | |
-| 6.1 | [偶尔使用有哪些轻微风险？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1) | |
-| | [恶心和其他胃部不适](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.1) |
-| | [头晕](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.2) |
-| | [轻微过敏反应和组胺释放](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.3) |
-| | [性功能障碍](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.4) |
-| | [发汗](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.5) |
-| | [判断力和心理表现受损](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.6) |
-| | [宿醉](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.7) |
-| | [心动过速](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.8) |
-| | [瞳孔放大或收缩](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.9) |
-| | [冷热潮红](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.10) |
-| | [面部水肿](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.11) |
-| | [轻度高血压](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.12) |
-| | [轻度高热](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.13) |
-| | [过度劳累](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.14) |
-| | [荨麻疹](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.15) |
-| | [胆汁分泌增加](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.16) |
-| | [不当行为](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.17) |
-| | [杂项](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.1.18) |
-| 6.2 | [偶尔使用有哪些主要风险？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2) | |
-| | [恐慌发作](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.1) |
-| | [精神崩溃](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.2) |
-| | [危急情况下判断力受损](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.3) |
-| | [抑郁](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.4) |
-| | [严重高热](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.5) |
-| | [严重高血压](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.6) |
-| | [横纹肌溶解症](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.7) |
-| | [呼吸抑制](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.8) |
-| | [血清素综合征](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.9) |
-| | [主要过敏反应和组胺释放](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.10) |
-| | [杂项](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.2.11) |
-| 6.3 | [经常使用和暴食使用的风险是什么？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3) | |
-| | [NMDA 拮抗剂神经毒性 (Olney 病变)](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.1) |
-| | [脑出血和中风](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.2) |
-| | [其他神经毒性机制](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.3) |
-| | [躁狂](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.4) |
-| | [抑郁](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.5) |
-| | [暴力意念、反社会行为和偏执](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.6) |
-| | [记忆受损](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.7) |
-| | [语言受损](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.8) |
-| | [体重减轻](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.9) |
-| | [肌肉控制丧失](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.10) |
-| | [习惯化和心理成瘾](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.11) |
-| | [耐受性和生理成瘾](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.12) |
-| | [精神病](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.13) |
-| | [肝、肾和胰腺损伤](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.14) |
-| | [溴中毒](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.15) |
-| | [杂项](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.16) |
-| | [总结：关于经常使用的考量](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.3.17) |
-| 6.4 | [右美沙芬与怀孕](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.4) | |
-| 6.5 | [什么是 NMDA 拮抗剂神经毒性以及如何预防？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.5) | |
-| | [Olney 病变的概述和机制](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.5.1) |
-| | [发生 NAN 的剂量](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.5.2) |
-| | [权衡风险：Olney 的研究与右美沙芬使用有关吗？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.5.3) |
-| | [查看涉及的区域](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.5.4) |
-| | [预防和限制 NMDA 拮抗剂神经毒性](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.5.5) |
-| 6.6 | [右美沙芬会上瘾吗？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.6) | |
-| 6.7 | [右美沙芬戒断危险吗？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.7) | |
-| 6.8 | [戒除右美沙芬习惯：如果你上瘾了该怎么办](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.8) | |
-| | [准备戒烟](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.8.1) |
-| | [突然完全停止式戒断](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.8.2) |
-| | [逐渐减量](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.8.3) |
-| | [戒断后：什么时候可以再次使用右美沙芬？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.8.4) |
-| 6.9 | [右美沙芬宿醉 —— 避免和缓解](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.9) | |
-| 6.10 | [右美沙芬的毒性有多大，致死剂量是多少？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.10) | |
-| 6.11 | [你推荐右美沙芬作为娱乐用途吗？](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.11) | |
-| 6.12 | [救命！如果......我该怎么办](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12) | |
-| | [瘙痒（“Robo Itch”）](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.1) |
-| | [心跳过快](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.2) |
-| | [恐慌发作](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.3) |
-| | [心跳不规则或漏拍](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.4) |
-| | [恶心、呕吐、胀气和腹泻](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.5) |
-| | [失去知觉](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.6) |
-| | [药物过量](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.7) |
-| | [高体温/发烧](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.8) |
-| | [呼吸短促/呼吸问题](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.9) |
-| | [被自己的舌头噎住](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.10) |
-| | [流鼻血](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.11) |
-| | [感觉“死了”/失去身体](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.12) |
-| | [宿醉（嗜睡和感觉“不在状态”）](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.13) |
-| | [长时间与现实世界解离](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.14) |
-| | [血清素综合征](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.15) |
-| | [糟糕的旅程](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.16) |
-| | [精神崩溃](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.12.17) |
-| 6.13 | [如何知道你磕右美沙芬磕过头了](/文档/右美沙芬FAQ/dxm_side_effects.md#toc.6.13) | |
+| **6** | **[右美沙芬副作用和其他应避免的事项](/文档/右美沙芬FAQ/dxm_side_effects.md)** | |
+| 6.1 | [偶尔使用有哪些轻微风险？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| | [恶心和其他胃部不适](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [头晕](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [轻微过敏反应和组胺释放](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [性功能障碍](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [发汗](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [判断力和心理表现受损](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [宿醉](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [心动过速](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [瞳孔放大或收缩](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [冷热潮红](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [面部水肿](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [轻度高血压](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [轻度高热](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [过度劳累](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [荨麻疹](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [胆汁分泌增加](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [不当行为](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [杂项](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| 6.2 | [偶尔使用有哪些主要风险？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| | [恐慌发作](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [精神崩溃](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [危急情况下判断力受损](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [抑郁](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [严重高热](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [严重高血压](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [横纹肌溶解症](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [呼吸抑制](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [血清素综合征](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [主要过敏反应和组胺释放](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [杂项](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| 6.3 | [经常使用和暴食使用的风险是什么？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| | [NMDA 拮抗剂神经毒性 (Olney 病变)](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [脑出血和中风](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [其他神经毒性机制](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [躁狂](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [抑郁](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [暴力意念、反社会行为和偏执](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [记忆受损](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [语言受损](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [体重减轻](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [肌肉控制丧失](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [习惯化和心理成瘾](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [耐受性和生理成瘾](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [精神病](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [肝、肾和胰腺损伤](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [溴中毒](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [杂项](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [总结：关于经常使用的考量](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| 6.4 | [右美沙芬与怀孕](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| 6.5 | [什么是 NMDA 拮抗剂神经毒性以及如何预防？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| | [Olney 病变的概述和机制](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [发生 NAN 的剂量](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [权衡风险：Olney 的研究与右美沙芬使用有关吗？](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [查看涉及的区域](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [预防和限制 NMDA 拮抗剂神经毒性](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| 6.6 | [右美沙芬会上瘾吗？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| 6.7 | [右美沙芬戒断危险吗？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| 6.8 | [戒除右美沙芬习惯：如果你上瘾了该怎么办](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| | [准备戒烟](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [突然完全停止式戒断](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [逐渐减量](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [戒断后：什么时候可以再次使用右美沙芬？](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| 6.9 | [右美沙芬宿醉 —— 避免和缓解](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| 6.10 | [右美沙芬的毒性有多大，致死剂量是多少？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| 6.11 | [你推荐右美沙芬作为娱乐用途吗？](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| 6.12 | [救命！如果......我该怎么办](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
+| | [瘙痒（“Robo Itch”）](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [心跳过快](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [恐慌发作](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [心跳不规则或漏拍](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [恶心、呕吐、胀气和腹泻](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [失去知觉](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [药物过量](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [高体温/发烧](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [呼吸短促/呼吸问题](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [被自己的舌头噎住](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [流鼻血](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [感觉“死了”/失去身体](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [宿醉（嗜睡和感觉“不在状态”）](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [长时间与现实世界解离](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [血清素综合征](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [糟糕的旅程](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| | [精神崩溃](/文档/右美沙芬FAQ/dxm_side_effects.md) |
+| 6.13 | [如何知道你磕右美沙芬磕过头了](/文档/右美沙芬FAQ/dxm_side_effects.md) | |
 | | | |
-| **7** | **[充分利用右美沙芬](/文档/右美沙芬FAQ/dxm_most.md#toc.7)** | |
-| 7.1 | [享受右美沙芬体验的一般提示](/文档/右美沙芬FAQ/dxm_most.md#toc.7.1) | |
-| 7.2 | [在右美沙芬作用下有哪些有趣的事情可以做？](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2) | |
-| | [听音乐](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.1) | |
-| | [看电影](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.2) | |
-| | [制作音乐](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.3) | |
-| | [跳舞](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.4) | |
-| | [游泳（仅限第一高原！）](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.5.3) | |
-| | [团体致幻体验](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.4) | |
-| | [超自然/灵性探索](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.5) | |
-| | [观察人类](/文档/右美沙芬FAQ/dxm_most.md#toc.7.2.6) | |
-| 7.3 | [哪些工具可以增强右美沙芬体验？](/文档/右美沙芬FAQ/dxm_most.md#toc.7.3) | |
-| | [感官剥夺](/文档/右美沙芬FAQ/dxm_most.md#toc.7.3.1) | |
-| | [全域感知](/文档/右美沙芬FAQ/dxm_most.md#toc.7.3.2) | |
-| | [光和声（脑波）机器](/文档/右美沙芬FAQ/dxm_most.md#toc.7.3.3) | |
-| | [双脑同步音频磁带](/文档/右美沙芬FAQ/dxm_most.md#toc.7.3.4) | |
-| | [致幻程序](/文档/右美沙芬FAQ/dxm_most.md#toc.7.3.5) | |
-| | [致幻玩具](/文档/右美沙芬FAQ/dxm_most.md#toc.7.3.6) | |
-| 7.4 | [在右美沙芬的药效下应避免哪些事情？](/文档/右美沙芬FAQ/dxm_most.md#toc.7.4) | |
-| | [剧烈运动](/文档/右美沙芬FAQ/dxm_most.md#toc.7.4.1) | |
-| | [驾驶](/文档/右美沙芬FAQ/dxm_most.md#toc.7.4.2) | |
-| | [服用右美沙芬去上课、上学或工作](/文档/右美沙芬FAQ/dxm_most.md#toc.7.4.3) | |
-| | [“追加”剂量和重新服药](/文档/右美沙芬FAQ/dxm_most.md#toc.7.4.4) | |
-| | [高压力的环境](/文档/右美沙芬FAQ/dxm_most.md#toc.7.4.5) | |
-| 7.5 | [什么是“50 次旅程限制”以及如何避免它？](/文档/右美沙芬FAQ/dxm_most.md#toc.7.5) | |
-| 7.6 | [为什么我在右美沙芬药效下无法产生幻觉？](/文档/右美沙芬FAQ/dxm_most.md#toc.7.6) | |
+| **7** | **[充分利用右美沙芬](/文档/右美沙芬FAQ/dxm_most.md)** | |
+| 7.1 | [享受右美沙芬体验的一般提示](/文档/右美沙芬FAQ/dxm_most.md) | |
+| 7.2 | [在右美沙芬作用下有哪些有趣的事情可以做？](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [听音乐](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [看电影](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [制作音乐](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [跳舞](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [游泳（仅限第一高原！）](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [团体致幻体验](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [超自然/灵性探索](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [观察人类](/文档/右美沙芬FAQ/dxm_most.md) | |
+| 7.3 | [哪些工具可以增强右美沙芬体验？](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [感官剥夺](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [全域感知](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [光和声（脑波）机器](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [双脑同步音频磁带](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [致幻程序](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [致幻玩具](/文档/右美沙芬FAQ/dxm_most.md) | |
+| 7.4 | [在右美沙芬的药效下应避免哪些事情？](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [剧烈运动](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [驾驶](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [服用右美沙芬去上课、上学或工作](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [“追加”剂量和重新服药](/文档/右美沙芬FAQ/dxm_most.md) | |
+| | [高压力的环境](/文档/右美沙芬FAQ/dxm_most.md) | |
+| 7.5 | [什么是“50 次旅程限制”以及如何避免它？](/文档/右美沙芬FAQ/dxm_most.md) | |
+| 7.6 | [为什么我在右美沙芬药效下无法产生幻觉？](/文档/右美沙芬FAQ/dxm_most.md) | |
 | | | |
-| **8** | **[意识改变状态和超自然体验](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8)** | |
-| 8.1 | [预备信息和讨论](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.1) | |
-| 8.2 | [右美沙芬作用下会出现哪些超自然和意识改变状态体验？](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2) | |
-| | [解离螺旋](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.1) |
-| | [既视感和其他记忆失误](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.2) |
-| | [出体体验](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.3) |
-| | [濒死和重生体验](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.4) |
-| | [与外星人和灵体接触](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.5) |
-| | [透视、超感官知觉和其他灵能现象](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.6) |
-| | [记忆循环和预知感](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.7) |
-| | [解离思维模式](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.2.8) |
-| 8.3 | [宇宙巧合中心和外星人阴谋](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.3) | |
-| 8.4 | [这些体验危险吗？](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.4) | |
-| 8.5 | [如何解释这些现象](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.5) | |
-| | [时间异常](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.5.1) |
-| | [复杂部分性癫痫发作](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.5.2) |
-| | [不可见环境的影响](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.5.3) |
-| | [灵性解释](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.5.4) |
-| 8.6 | [如何最大化意识改变状态和超自然体验？](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.6) | |
-| | [Theta 波刺激](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.6.1) |
-| | [双脑同步磁带](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.6.2) |
-| | [磁刺激](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.6.3) |
-| | [感官剥夺和全域感知](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.6.4) |
-| | [预给药](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.6.5) |
-| | [冥想](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.6.6) |
-| 8.7 | [影响对超自然体验易感性的因素](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.7) | |
-| 8.8 | [关于“灵性捷径”的警告](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.8) | |
-| 8.9 | [关于颞叶癫痫的警告](/文档/右美沙芬FAQ/dxm_paranormal.md#toc.8.9) | |
+| **8** | **[意识改变状态和超自然体验](/文档/右美沙芬FAQ/dxm_paranormal.md)** | |
+| 8.1 | [预备信息和讨论](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| 8.2 | [右美沙芬作用下会出现哪些超自然和意识改变状态体验？](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| | [解离螺旋](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [既视感和其他记忆失误](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [出体体验](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [濒死和重生体验](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [与外星人和灵体接触](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [透视、超感官知觉和其他灵能现象](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [记忆循环和预知感](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [解离思维模式](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| 8.3 | [宇宙巧合中心和外星人阴谋](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| 8.4 | [这些体验危险吗？](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| 8.5 | [如何解释这些现象](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| | [时间异常](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [复杂部分性癫痫发作](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [不可见环境的影响](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [灵性解释](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| 8.6 | [如何最大化意识改变状态和超自然体验？](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| | [Theta 波刺激](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [双脑同步磁带](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [磁刺激](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [感官剥夺和全域感知](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [预给药](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| | [冥想](/文档/右美沙芬FAQ/dxm_paranormal.md) |
+| 8.7 | [影响对超自然体验易感性的因素](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| 8.8 | [关于“灵性捷径”的警告](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
+| 8.9 | [关于颞叶癫痫的警告](/文档/右美沙芬FAQ/dxm_paranormal.md) | |
 | | | |
-| **9** | **[右美沙芬的生理效应](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9)** | |
-| 9.1 | [右美沙芬如何抑制咳嗽反射？](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.1) | |
-| 9.2 | [右美沙芬如何引起其精神活性作用？](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2) | |
-| | [常规信息](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.1) |
-| | [PCP2 结合位点的作用](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.2) |
-| | [Sigma 结合位点的作用](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.3) |
-| | [NMDA 受体的作用](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.4) |
-| | [颞叶的参与](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.5) |
-| | [间接活动的贡献](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.6) |
-| | [镶边效应](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.7) |
-| | [超抽象](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.8) |
-| | [妄想和记忆问题](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.2.9) |
-| 9.3 | [为什么右美沙芬表现出高原现象？](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.3) | |
-| | [高原 1-3：多重受体](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.3.1) |
-| | [第四高原：感官关闭](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.3.2) |
-| 9.4 | [为什么这这么复杂？](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.4) | |
-| 9.5 | [药代动力学：右美沙芬是如何代谢的](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.5) | |
-| | [影响右美沙芬代谢的因素](/文档/右美沙芬FAQ/dxm_physiological.md#toc.9.5.1) |
+| **9** | **[右美沙芬的生理效应](/文档/右美沙芬FAQ/dxm_physiological.md)** | |
+| 9.1 | [右美沙芬如何抑制咳嗽反射？](/文档/右美沙芬FAQ/dxm_physiological.md) | |
+| 9.2 | [右美沙芬如何引起其精神活性作用？](/文档/右美沙芬FAQ/dxm_physiological.md) | |
+| | [常规信息](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [PCP2 结合位点的作用](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [Sigma 结合位点的作用](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [NMDA 受体的作用](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [颞叶的参与](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [间接活动的贡献](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [镶边效应](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [超抽象](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [妄想和记忆问题](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| 9.3 | [为什么右美沙芬表现出高原现象？](/文档/右美沙芬FAQ/dxm_physiological.md) | |
+| | [高原 1-3：多重受体](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| | [第四高原：感官关闭](/文档/右美沙芬FAQ/dxm_physiological.md) |
+| 9.4 | [为什么这这么复杂？](/文档/右美沙芬FAQ/dxm_physiological.md) | |
+| 9.5 | [药代动力学：右美沙芬是如何代谢的](/文档/右美沙芬FAQ/dxm_physiological.md) | |
+| | [影响右美沙芬代谢的因素](/文档/右美沙芬FAQ/dxm_physiological.md) |
 | | | |
-| **10** | **[右美沙芬的神经药理学](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10)** | |
-| 10.1 | [到底什么是受体？（基础神经药理学）](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.1) | |
-| | [神经细胞的结构](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.1.1) |
-| | [神经传递](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.1.2) |
-| 10.2 | [什么是 Sigma 受体？](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.2) | |
-| | [Sigma 1 受体和一般 Sigma 信息](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.2.1) |
-| | [Sigma 2 受体](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.2.2) |
-| | [Sigma 3 受体](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.2.3) |
-| 10.3 | [什么是 NMDA 受体？](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.3) | |
-| | [NMDA 和其他谷氨酸受体](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.3.1) |
-| | [NMDA 受体结构和功能](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.3.2) |
-| | [NMDA 受体和兴奋性毒性](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.3.3) |
-| 10.4 | [什么是 PCP2 受体？](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.4) | |
-| 10.5 | [什么是 Na+ 和 Ca2+ 通道？](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.5) | |
-| 10.6 | [在这些受体上，右美沙芬与其他解离剂相比如何？](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.6) | |
-| 10.7 | [内源性精神素和宏观图景](/文档/右美沙芬FAQ/dxm_neuropharm.md#toc.10.7) | |
+| **10** | **[右美沙芬的神经药理学](/文档/右美沙芬FAQ/dxm_neuropharm.md)** | |
+| 10.1 | [到底什么是受体？（基础神经药理学）](/文档/右美沙芬FAQ/dxm_neuropharm.md) | |
+| | [神经细胞的结构](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| | [神经传递](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| 10.2 | [什么是 Sigma 受体？](/文档/右美沙芬FAQ/dxm_neuropharm.md) | |
+| | [Sigma 1 受体和一般 Sigma 信息](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| | [Sigma 2 受体](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| | [Sigma 3 受体](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| 10.3 | [什么是 NMDA 受体？](/文档/右美沙芬FAQ/dxm_neuropharm.md) | |
+| | [NMDA 和其他谷氨酸受体](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| | [NMDA 受体结构和功能](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| | [NMDA 受体和兴奋性毒性](/文档/右美沙芬FAQ/dxm_neuropharm.md) |
+| 10.4 | [什么是 PCP2 受体？](/文档/右美沙芬FAQ/dxm_neuropharm.md) | |
+| 10.5 | [什么是 Na+ 和 Ca2+ 通道？](/文档/右美沙芬FAQ/dxm_neuropharm.md) | |
+| 10.6 | [在这些受体上，右美沙芬与其他解离剂相比如何？](/文档/右美沙芬FAQ/dxm_neuropharm.md) | |
+| 10.7 | [内源性精神素和宏观图景](/文档/右美沙芬FAQ/dxm_neuropharm.md) | |
 | | | |
-| **11** | **[右美沙芬化学和提取](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11)** | |
-| 11.1 | [如何从止咳糖浆和胶囊中提取右美沙芬？](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.1) | |
-| | [酸碱提取理论](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.1.1) |
-| | [右美沙芬的单相酸碱提取](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.1.2) |
-| | [柠檬特工 ：右美沙芬的双相酸碱提取](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.1.3) |
-| | [沉淀法](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.1.4) |
-| 11.2 | [如何去除其他药物成分？](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.2) | |
-| | [对乙酰氨基酚](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.2.1) |
-| | [愈创甘油醚](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.2.2) |
-| | [抗组胺药和减充血剂](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.2.3) |
-| 11.3 | [如何测试对乙酰氨基酚？](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.3) | |
-| 11.4 | [如何使用游离碱右美沙芬？](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.4) | |
-| 11.5 | [我可以合成右美沙芬吗？](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.5) | |
-| 11.6 | [我可以用右美沙芬合成什么？](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.6) | |
-| | [右羟吗喃](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.6.1) |
-| | [左啡诺 / 左旋美沙芬](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.6.2) |
-| | [3-取代类似物](/文档/右美沙芬FAQ/dxm_chemistry.md#toc.11.6.3) |
+| **11** | **[右美沙芬化学和提取](/文档/右美沙芬FAQ/dxm_chemistry.md)** | |
+| 11.1 | [如何从止咳糖浆和胶囊中提取右美沙芬？](/文档/右美沙芬FAQ/dxm_chemistry.md) | |
+| | [酸碱提取理论](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| | [右美沙芬的单相酸碱提取](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| | [柠檬特工 ：右美沙芬的双相酸碱提取](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| | [沉淀法](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| 11.2 | [如何去除其他药物成分？](/文档/右美沙芬FAQ/dxm_chemistry.md) | |
+| | [对乙酰氨基酚](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| | [愈创甘油醚](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| | [抗组胺药和减充血剂](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| 11.3 | [如何测试对乙酰氨基酚？](/文档/右美沙芬FAQ/dxm_chemistry.md) | |
+| 11.4 | [如何使用游离碱右美沙芬？](/文档/右美沙芬FAQ/dxm_chemistry.md) | |
+| 11.5 | [我可以合成右美沙芬吗？](/文档/右美沙芬FAQ/dxm_chemistry.md) | |
+| 11.6 | [我可以用右美沙芬合成什么？](/文档/右美沙芬FAQ/dxm_chemistry.md) | |
+| | [右羟吗喃](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| | [左啡诺 / 左旋美沙芬](/文档/右美沙芬FAQ/dxm_chemistry.md) |
+| | [3-取代类似物](/文档/右美沙芬FAQ/dxm_chemistry.md) |
 | | | |
-| **12** | **[右美沙芬药物文化](/文档/右美沙芬FAQ/dxm_culture.md#toc.12)** | |
-| 12.1 | [存在或曾经存在右美沙芬药物文化吗？](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.1) | |
-| | [1960 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.1.1) |
-| | [1970 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.1.2) |
-| | [1980 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.1.3) |
-| | [1990 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.1.4) |
-| | [右美沙芬使用的未来](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.1.5) |
-| 12.2 | [为什么我没听说过右美沙芬药物文化？](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.2) | |
-| 12.3 | [右美沙芬“药物黑话”](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.3) | |
-| | [非美国右美沙芬药物黑话](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.3.1) |
-| 12.4 | [我该怎么告诉朋友我靠喝止咳糖浆嗨？](/文档/右美沙芬FAQ/dxm_culture.md#toc.12.4) | |
+| **12** | **[右美沙芬药物文化](/文档/右美沙芬FAQ/dxm_culture.md)** | |
+| 12.1 | [存在或曾经存在右美沙芬药物文化吗？](/文档/右美沙芬FAQ/dxm_culture.md) | |
+| | [1960 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md) |
+| | [1970 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md) |
+| | [1980 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md) |
+| | [1990 年代的右美沙芬](/文档/右美沙芬FAQ/dxm_culture.md) |
+| | [右美沙芬使用的未来](/文档/右美沙芬FAQ/dxm_culture.md) |
+| 12.2 | [为什么我没听说过右美沙芬药物文化？](/文档/右美沙芬FAQ/dxm_culture.md) | |
+| 12.3 | [右美沙芬“药物黑话”](/文档/右美沙芬FAQ/dxm_culture.md) | |
+| | [非美国右美沙芬药物黑话](/文档/右美沙芬FAQ/dxm_culture.md) |
+| 12.4 | [我该怎么告诉朋友我靠喝止咳糖浆嗨？](/文档/右美沙芬FAQ/dxm_culture.md) | |
 | | | |
-| **13** | **[联用右美沙芬和其他药物](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13)** | |
-| 13.1 | [酒精](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.1) | |
-| 13.2 | [巴比妥类和苯二氮䓬类药物](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.2) | |
-| 13.3 | [苯丙胺和其他精神兴奋剂](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.3) | |
-| 13.4 | [大麻](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.4) | |
-| 13.5 | [LSD、裸盖菇素（蘑菇）和其他血清素致幻剂](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.5) | |
-| 13.6 | [阿片类药物](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.6) | |
-| 13.7 | [PCP 和氯胺酮](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.7) | |
-| 13.8 | [尼古丁](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.8) | |
-| 13.9 | [苯乙胺类（MDMA、MDA、2CB 等）](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.9) | |
-| 13.10 | [益智药 (Smart Drugs)](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.10) | |
-| 13.11 | [杂项其他药物](/文档/右美沙芬FAQ/dxm_mixing.md#toc.13.11) | |
+| **13** | **[联用右美沙芬和其他药物](/文档/右美沙芬FAQ/dxm_mixing.md)** | |
+| 13.1 | [酒精](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.2 | [巴比妥类和苯二氮䓬类药物](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.3 | [苯丙胺和其他精神兴奋剂](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.4 | [大麻](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.5 | [LSD、裸盖菇素（蘑菇）和其他血清素致幻剂](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.6 | [阿片类药物](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.7 | [PCP 和氯胺酮](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.8 | [尼古丁](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.9 | [苯乙胺类（MDMA、MDA、2CB 等）](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.10 | [益智药 (Smart Drugs)](/文档/右美沙芬FAQ/dxm_mixing.md) | |
+| 13.11 | [杂项其他药物](/文档/右美沙芬FAQ/dxm_mixing.md) | |
 | | | |
-| **14** | **[右美沙芬体验和个人报告](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14)** | |
-| 14.1 | [第一和第二高原体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.1) | |
-| | [积极体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.1.1) |
-| | [消极体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.1.2) |
-| 14.2 | [第三和第四高原体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.2) | |
-| | [积极体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.2.1) |
-| | [消极体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.2.2) |
-| 14.3 | [长期使用体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.3) | |
-| | [积极体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.3.1) |
-| | [消极体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.3.2) |
-| 14.4 | [多重药物体验](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.4) | |
-| | [右美沙芬 + 大麻 + 酒精 + 鸦片](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.4.1) |
-| | [右美沙芬 + 环嗪 (Cyclazine)](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.4.2) |
-| | [右美沙芬 + 蘑菇 + LSD + 大麻 + 氧化亚氮](/文档/右美沙芬FAQ/dxm_experiences.md#toc.14.4.3) |
+| **14** | **[右美沙芬体验和个人报告](/文档/右美沙芬FAQ/dxm_experiences.md)** | |
+| 14.1 | [第一和第二高原体验](/文档/右美沙芬FAQ/dxm_experiences.md) | |
+| | [积极体验](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| | [消极体验](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| 14.2 | [第三和第四高原体验](/文档/右美沙芬FAQ/dxm_experiences.md) | |
+| | [积极体验](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| | [消极体验](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| 14.3 | [长期使用体验](/文档/右美沙芬FAQ/dxm_experiences.md) | |
+| | [积极体验](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| | [消极体验](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| 14.4 | [多重药物体验](/文档/右美沙芬FAQ/dxm_experiences.md) | |
+| | [右美沙芬 + 大麻 + 酒精 + 鸦片](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| | [右美沙芬 + 环嗪 (Cyclazine)](/文档/右美沙芬FAQ/dxm_experiences.md) |
+| | [右美沙芬 + 蘑菇 + LSD + 大麻 + 氧化亚氮](/文档/右美沙芬FAQ/dxm_experiences.md) |
 | | | |
-| **15** | **[附录](/文档/右美沙芬FAQ/dxm_appendices.md#toc.15)** | |
-| 15.1 | [附录 1：P450 抑制药物](/文档/右美沙芬FAQ/dxm_appendices.md#toc.15.1) | |
-| 15.2 | [附录 2：娱乐药物的神经药理学](/文档/右美沙芬FAQ/dxm_appendices.md#toc.15.2) | |
-| 15.3 | [附录 3：其他 Sigma 和 NMDA 配体](/文档/右美沙芬FAQ/dxm_appendices.md#toc.15.3) | |
+| **15** | **[附录](/文档/右美沙芬FAQ/dxm_appendices.md)** | |
+| 15.1 | [附录 1：P450 抑制药物](/文档/右美沙芬FAQ/dxm_appendices.md) | |
+| 15.2 | [附录 2：娱乐药物的神经药理学](/文档/右美沙芬FAQ/dxm_appendices.md) | |
+| 15.3 | [附录 3：其他 Sigma 和 NMDA 配体](/文档/右美沙芬FAQ/dxm_appendices.md) | |
 | | | |
-| **16** | **[术语表](/文档/右美沙芬FAQ/dxm_glossary.md#toc.16)** | |
+| **16** | **[术语表](/文档/右美沙芬FAQ/dxm_glossary.md)** | |
 | | | |
-| **17** | **[参考文献](/文档/右美沙芬FAQ/dxm_refs.md#toc.17)** | |
+| **17** | **[参考文献](/文档/右美沙芬FAQ/dxm_refs.md)** | |
 
 ![](/文档/右美沙芬FAQ/contents_s.gif)
 

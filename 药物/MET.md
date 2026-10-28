@@ -20,56 +20,56 @@ description:
 | [给药途径](/文档/给药途径.md)                                                        |                              |
 | **警告：**由于个体体重、耐受性、代谢和个人敏感度都可能不同，请务必从较低剂量开始哦。参见[负责任用药章节](/文档/负责任的用药索引页.md)。 |                              |
 
-| 给药途径                     | [抽吸](/文档/给药途径.md#抽吸) |
+| 给药途径                     | [抽吸](/文档/给药途径.md) |
 | ------------------------ | -------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                      |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 10 mg                |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 20 - 40 mg           |
-| [中等](/文档/药物剂量分类.md#中等)   | 40 - 60 mg           |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 60 - 90 mg           |
-| [严重](/文档/药物剂量分类.md#严重)   | 90 mg +              |
+| [阈值](/文档/药物剂量分类.md)   | 10 mg                |
+| [轻微](/文档/药物剂量分类.md)   | 20 - 40 mg           |
+| [中等](/文档/药物剂量分类.md)   | 40 - 60 mg           |
+| [强烈](/文档/药物剂量分类.md)   | 60 - 90 mg           |
+| [严重](/文档/药物剂量分类.md)   | 90 mg +              |
 | [药效时长](/文档/药效时长.md)      |                      |
-| [总时长](/文档/药效时长.md#总时长)   | 30 - 75分钟            |
-| [药效发作](/文档/药效时长.md#药效发作) | 30 - 60秒             |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 10 - 20分钟            |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 20 - 40分钟            |
-| [药效残余](/文档/药效时长.md#药效残余) | 20 - 60分钟            |
+| [总时长](/文档/药效时长.md)   | 30 - 75分钟            |
+| [药效发作](/文档/药效时长.md) | 30 - 60秒             |
+| [药效达峰](/文档/药效时长.md) | 10 - 20分钟            |
+| [药效褪去](/文档/药效时长.md) | 20 - 40分钟            |
+| [药效残余](/文档/药效时长.md) | 20 - 60分钟            |
 
-| 给药途径                     | [口服](/文档/给药途径.md#口服) |
+| 给药途径                     | [口服](/文档/给药途径.md) |
 | ------------------------ | -------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                      |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 40 mg                |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 60 - 120 mg          |
-| [中等](/文档/药物剂量分类.md#中等)   | 120 - 150 mg         |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 150 - 200 mg         |
-| [严重](/文档/药物剂量分类.md#严重)   | 200 mg +             |
+| [阈值](/文档/药物剂量分类.md)   | 40 mg                |
+| [轻微](/文档/药物剂量分类.md)   | 60 - 120 mg          |
+| [中等](/文档/药物剂量分类.md)   | 120 - 150 mg         |
+| [强烈](/文档/药物剂量分类.md)   | 150 - 200 mg         |
+| [严重](/文档/药物剂量分类.md)   | 200 mg +             |
 | [药效时长](/文档/药效时长.md)      |                      |
-| [总时长](/文档/药效时长.md#总时长)   | 4 - 6小时              |
-| [药效发作](/文档/药效时长.md#药效发作) | 1 - 2小时              |
-| [药效上升](/文档/药效时长.md#药效上升) | 30 - 60分钟            |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 1.5 - 2.5小时          |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1 - 3小时              |
-| [药效残余](/文档/药效时长.md#药效残余) | 6 - 24小时             |
+| [总时长](/文档/药效时长.md)   | 4 - 6小时              |
+| [药效发作](/文档/药效时长.md) | 1 - 2小时              |
+| [药效上升](/文档/药效时长.md) | 30 - 60分钟            |
+| [药效达峰](/文档/药效时长.md) | 1.5 - 2.5小时          |
+| [药效褪去](/文档/药效时长.md) | 1 - 3小时              |
+| [药效残余](/文档/药效时长.md) | 6 - 24小时             |
 
-| 给药途径                     | [鼻吸](/文档/给药途径.md#鼻吸) |
+| 给药途径                     | [鼻吸](/文档/给药途径.md) |
 | ------------------------ | -------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                      |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 5 mg                 |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 10 - 20 mg           |
-| [中等](/文档/药物剂量分类.md#中等)   | 20 - 25 mg           |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 25 - 35 mg           |
-| [严重](/文档/药物剂量分类.md#严重)   | 35 mg +              |
+| [阈值](/文档/药物剂量分类.md)   | 5 mg                 |
+| [轻微](/文档/药物剂量分类.md)   | 10 - 20 mg           |
+| [中等](/文档/药物剂量分类.md)   | 20 - 25 mg           |
+| [强烈](/文档/药物剂量分类.md)   | 25 - 35 mg           |
+| [严重](/文档/药物剂量分类.md)   | 35 mg +              |
 | [药效时长](/文档/药效时长.md)      |                      |
-| [总时长](/文档/药效时长.md#总时长)   | 2 - 4小时              |
-| [药效发作](/文档/药效时长.md#药效发作) | 2 - 5分钟              |
-| [药效上升](/文档/药效时长.md#药效上升) | 20 - 40分钟            |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 1 - 1.5小时            |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1 - 2.5小时            |
-| [药效残余](/文档/药效时长.md#药效残余) | 4 - 12小时             |
+| [总时长](/文档/药效时长.md)   | 2 - 4小时              |
+| [药效发作](/文档/药效时长.md) | 2 - 5分钟              |
+| [药效上升](/文档/药效时长.md) | 20 - 40分钟            |
+| [药效达峰](/文档/药效时长.md) | 1 - 1.5小时            |
+| [药效褪去](/文档/药效时长.md) | 1 - 2.5小时            |
+| [药效残余](/文档/药效时长.md) | 4 - 12小时             |
 
 | 免责声明              | 本网站的[给药剂量](/文档/给药剂量.md)信息收集自用户与相关[资源](/文档/实用链接.md)，仅用于教育目的哦。它不是推荐用量，应当用其他来源核验其准确性。 |
 | ----------------- | ---------------------------------------------------------------------------------- |
-| [药物相互作用](#危险药物联用) |                                                                                    |
+| 药物相互作用 |                                                                                    |
 
 **N-乙基-N-甲基色胺**（又称**甲基乙基色胺**、**MET**）是一种较不常见的新型[迷幻剂](/文档/药物分类/迷幻剂.md)物质，属于[色胺类物质](/文档/药物分类/色胺类物质.md)。在[给药](/文档/给药途径.md)后，它会产生强烈且短暂的[迷幻剂](/文档/药物分类/迷幻剂.md)效应。它在结构上与[DMT](/药物/DMT.md)有关，并且和DMT类似，在迷幻剂中也因短暂效应、快速起效和逐步展开的阶段而显得比较特别呢。
 
@@ -89,7 +89,7 @@ MET，即N-乙基-N-甲基色胺，是一种属于色胺类物质的合成吲哚
 
 更多信息：[血清素能迷幻剂](/文档/药物分类/迷幻剂.md)
 
-与大多数[迷幻剂](/文档/药物分类/迷幻剂.md)色胺类物质一样，MET被认为主要作为[5-HT](/文档/血清素.md#5-HT系统)[部分激动剂](/文档/受体激动剂.md)发挥作用。其迷幻效应据信来自MET在5-HT受体上的结合效能。不过，这些相互作用在其中扮演的角色，以及它们究竟如何导致迷幻体验，目前仍然比较难以捉摸呢。
+与大多数[迷幻剂](/文档/药物分类/迷幻剂.md)色胺类物质一样，MET被认为主要作为[5-HT](/文档/血清素.md)[部分激动剂](/文档/受体激动剂.md)发挥作用。其迷幻效应据信来自MET在5-HT受体上的结合效能。不过，这些相互作用在其中扮演的角色，以及它们究竟如何导致迷幻体验，目前仍然比较难以捉摸呢。
 
 关于MET的人体药理学或毒性，目前信息非常少。游离碱形式据信在汽化摄入时15 mg即可产生效应，口服时80 - 100 mg即可产生效应。
 
@@ -139,7 +139,7 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 
 #### Distortions
 
-* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md#熔化)、[呼吸](/药效/漂移.md#呼吸)、[变形](/药效/漂移.md#变形)和[流动](/药效/漂移.md#流动)）*
+* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md)、[呼吸](/药效/漂移.md)、[变形](/药效/漂移.md)和[流动](/药效/漂移.md)）*
 * **[颜色偏移](/药效/颜色偏移.md)**
 * **[深度感知扭曲](/药效/深度感知扭曲.md)**
 * **[环境图案化](/药效/环境图案化.md)**
@@ -213,7 +213,7 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 
 ## Toxicity and harm potential
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)，以及[负责任用药 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)，以及[负责任用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
 娱乐性使用MET的毒性与长期健康影响似乎尚未在任何科学语境下得到研究，确切的毒性剂量也未知。这是因为MET是一种[研究用化学品](/文档/研究用化学品.md)，人类使用历史非常短。来自社区中尝试过MET者的轶事证据提示，单独、低到中等剂量、非常偶尔地尝试该物质，并没有被归因于负面健康影响（不过没有任何事情能被完全保证哦）。在摄入前，应当始终进行[独立研究](https://www.google.com/)，以确保两种或更多物质的药物联用是安全的。
 
@@ -265,11 +265,11 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 | ![Question book-new.svg](/文件/Question_book-new.png) | **本文没有引用足够的参考文献。**<br>*你可以帮忙添加一些哦。* |
 | --------------------------------------------------- | ----------------------------------- |
 
-1. [↑](#cite_ref-1) [*“That’s okay, you’re good” MET trip report*](https://www.erowid.org/experiences/exp_info7.shtml), The Vaults of Erowid
-2. [↑](#cite_ref-2) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-3. [↑](#cite_ref-3) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-4. [↑](#cite_ref-4) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-5. [↑](#cite_ref-5) *[危険ドラッグの成分７物質を新たに指定薬物に指定](https://www.mhlw.go.jp/stf/houdou/0000212475_00037.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved March 11, 2023.*
-6. [↑](#cite_ref-6) ["Schedule 1 Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *"Reprint as at 13 August 2019: Misuse of Drugs Act 1975"*. Parliamentary Counsel Office. Retrieved January 7, 2020.
-7. [↑](#cite_ref-7) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-8. [↑](#cite_ref-8) ["The Misuse of Drugs Act 1971 (Modification) Order 1977"](http://www.legislation.gov.uk/uksi/1977/1243/made). The National Archives. July 26, 1977. Retrieved January 10, 2020.
+1. ↑ [*“That’s okay, you’re good” MET trip report*](https://www.erowid.org/experiences/exp_info7.shtml), The Vaults of Erowid
+2. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+3. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+4. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+5. ↑ *[危険ドラッグの成分７物質を新たに指定薬物に指定](https://www.mhlw.go.jp/stf/houdou/0000212475_00037.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved March 11, 2023.*
+6. ↑ ["Schedule 1 Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *"Reprint as at 13 August 2019: Misuse of Drugs Act 1975"*. Parliamentary Counsel Office. Retrieved January 7, 2020.
+7. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+8. ↑ ["The Misuse of Drugs Act 1971 (Modification) Order 1977"](http://www.legislation.gov.uk/uksi/1977/1243/made). The National Archives. July 26, 1977. Retrieved January 10, 2020.

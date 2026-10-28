@@ -6,11 +6,11 @@
 
 以下植物已被采样并研究，纳入本节内容：
 
-* [Catuaba](./catuaba.md "Catuaba")
+* [Catuaba](./catuaba.md)
 
-* [Celastrus Paniculatus](./celastrus_paniculatus.md "Celastrus Paniculatus")
+* [Celastrus Paniculatus](./celastrus_paniculatus.md)
 
-* [Ginkgo](./ginkgo.md "Ginkgo")
+* [Ginkgo](./ginkgo.md)
 
 我以前对益智药一直挺怀疑的呢，总觉得它们当中没几个是真正有效的。
 

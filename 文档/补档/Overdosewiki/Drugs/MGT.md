@@ -6,20 +6,20 @@ description:
 # 苏糖酸镁^*反解离、认知增强*^
 
 
-[¶](#苏糖酸镁) 苏糖酸镁
+¶ 苏糖酸镁
 ================================
-> 请留心，该物质被发掘具有药理作用于2010年，文献稀缺，请谨慎对待[\[1\]](#fn1)
+> 请留心，该物质被发掘具有药理作用于2010年，文献稀缺，请谨慎对待\[1\]
 
 **苏糖酸镁(Magnesium L\-threonate, MgT)** 是食品添加剂，属于反解离剂、认知增强剂、兴奋剂。一般多讨论左旋体苏糖酸镁即L\-苏糖酸镁，故未标明手性的情况下，默认苏糖酸镁指代L\-苏糖酸镁。笔者提议，作为反解离剂的L\-苏糖酸镁可以简称为左苏，正好与解离剂的[右美](DXM.md)对应
 
-化学上，苏糖酸镁是一种有机盐，由二单位苏糖酸离子与一单位镁离子结合而成。苏糖酸的系统命名为2,3,4\-三羟丁酸，CAS: 7306\-96\-9 [\[2\]](#fn2)。据信苏糖酸的羧基中的羟基与羰基络合了镁离子 [\[3\]](#fn3)。白色不透明结晶粉末，相似面粉。于水中粘稠成麦芽糖状，能拉丝。气味与味道接近于墙壁的腻子粉或者面粉，但并不苦涩，尚可接受。茶水可以掩盖住苏糖酸镁的味道
+化学上，苏糖酸镁是一种有机盐，由二单位苏糖酸离子与一单位镁离子结合而成。苏糖酸的系统命名为2,3,4\-三羟丁酸，CAS: 7306\-96\-9 \[2\]。据信苏糖酸的羧基中的羟基与羰基络合了镁离子 \[3\]。白色不透明结晶粉末，相似面粉。于水中粘稠成麦芽糖状，能拉丝。气味与味道接近于墙壁的腻子粉或者面粉，但并不苦涩，尚可接受。茶水可以掩盖住苏糖酸镁的味道
 
 关于杂项与报告，请看[苏糖酸镁\-杂项与报告](MGT/OAR.md)
 
-[¶](#药理作用) 药理作用
+¶ 药理作用
 --------------------------------
 
-#### [¶](#作用机理缺少数据) 作用机理【缺少数据】
+#### ¶ 作用机理【缺少数据】
 
 * 补充营养：Mg2\+（苏糖酸盐更能有效穿过血脑屏障）
 * 协助合成：GABA、血清素、多巴胺
@@ -29,28 +29,28 @@ description:
 * 上调表达：海马神经元中NMDA受体的NR2B亚基
 
 
-#### [¶](#药物作用) 药物作用
+#### ¶ 药物作用
 
-* 主要的副作用：窜稀、在长期使用的情况下的阿兹海默症（详见[反解离](../Effects/Antidissociation.md)）[\[4\]](#fn4)
+* 主要的副作用：窜稀、在长期使用的情况下的阿兹海默症（详见[反解离](../Effects/Antidissociation.md)）\[4\]
 * 主要的主作用：稀肠、认知强化、[反解离](../Effects/Antidissociation.md)、抗抑郁、助眠
 * 急性的副作用：嗅觉味觉强化
 
 
-#### [¶](#药代动力学) 药代动力学
+#### ¶ 药代动力学
 
 没有数据  
 反正笔者个人觉得肝肾负担不大
 
-[¶](#药物使用) 药物使用
+¶ 药物使用
 --------------------------------
 
-#### [¶](#药物品牌) 药物品牌
+#### ¶ 药物品牌
 
-虽然目前Magtein公司研发出了保健品级别的苏糖酸镁胶囊[\[5\]](#fn5)，但笔者建议去淘宝上直接购买苏糖酸镁纯粉
+虽然目前Magtein公司研发出了保健品级别的苏糖酸镁胶囊\[5\]，但笔者建议去淘宝上直接购买苏糖酸镁纯粉
 
 作为引荐，笔者所使用的苏糖酸镁是从[这里](https://main.m.taobao.com/security-h5-detail/home?fromNormal=true&app=chrome&bxsign=scdID1x7WmuzT7_zVKdv-A9s2qCopRrvtNMwx1D3Sbkb6n1V0q9K-FzOiI3t3fy9E_kpEHfq-iwlFaEf3ldAzg9uyCkCvl1oDiacTq6RGVcA5eOTD8HeXqFF_oI6bFRZpTS8CKBqpdf_zyVKPAfxzbaug&cpp=1&id=675885431193&share_crt_v=1&shareurl=true&short_name=h.5G9fqsZyjbg2Xuz&sp_abtk=gray_1_code_simpleAndroid2&sp_tk=bFhpeFdQMTkxelY%3D&spm=a2159r.13376460.0.0&tbSocialPopKey=shareItem&tk=lXixWP191zV&un=5034e7d3b2673883e8b9cf07fe2b69e3&un_site=0&ut_sk=1.ZdB5m5FCcLcDANVxk8s00J3P_21646297_1708529364591.TaoPassword-WeiXin.1)购买的。其附赠的药勺的规格为1g/每勺
 
-#### [¶](#剂量-以60kg平均地无耐药性为标准稀缺数据) 剂量 【以60kg，平均地无耐药性为标准】【稀缺数据】
+#### ¶ 剂量 【以60kg，平均地无耐药性为标准】【稀缺数据】
 
 * 轻\-起效剂量：0\.5g
 * 轻\-正常剂量：0\.5g\~1\.5g
@@ -69,11 +69,11 @@ description:
 
 > 需注意，体重不同剂量不同，上述剂量是针对60kg的人的。你的体重除以60，再乘以上述之中的剂量，即为适应你的剂量。
 
-#### [¶](#期间) 期间
+#### ¶ 期间
 
 **苏糖酸镁的药效延迟性非常大**，且延续较久。**初次服药的药效很小，需要累积使用以达到药效**
 
-[¶](#一些事项) 一些事项
+¶ 一些事项
 --------------------------------
 
 苏糖酸镁可以消除[解离剂](../Effects/Dissociation.md)例如[右美沙芬](DXM.md)的耐药性。实际上反解离剂们都可以
@@ -97,12 +97,12 @@ description:
 ---
 
 
-1. [知乎](https://zhuanlan.zhihu.com/p/375335101) [↩︎](#fnref1)
+1. [知乎](https://zhuanlan.zhihu.com/p/375335101) ↩︎
 
-2. [ccb](https://www.chemicalbook.com/ProductChemicalPropertiesCB12517918.htm) [↩︎](#fnref2)
+2. [ccb](https://www.chemicalbook.com/ProductChemicalPropertiesCB12517918.htm) ↩︎
 
-3. [ccb](https://www.chemicalbook.com/ProductChemicalPropertiesCB12489934.htm) [↩︎](#fnref3)
+3. [ccb](https://www.chemicalbook.com/ProductChemicalPropertiesCB12489934.htm) ↩︎
 
-4. [知乎](https://zhuanlan.zhihu.com/p/476311221?utm_id=0) [↩︎](#fnref4)
+4. [知乎](https://zhuanlan.zhihu.com/p/476311221?utm_id=0) ↩︎
 
-5. [Magtein公司官网](https://magtein.cn/technology.md)l [↩︎](#fnref5)
+5. [Magtein公司官网](https://magtein.cn/technology.md)l ↩︎

@@ -6,17 +6,17 @@ description:
 # 利培酮^*抗精神分裂/无法滥用*^
 
 
-[¶](#利培酮) 利培酮
+¶ 利培酮
 ==========================
 
 **利培酮(Risperidone)** 是一种非典型抗精神病药、抗精神分裂药，属于多种神经递质受体拮抗剂、抑制剂。一般以富马酸配合物，即**富马酸利培酮**，尽管在**利培酮片**中省去了。**无法滥用**
 
 **如果你打算od利培酮，请先看：[报告8\-过量利培酮的噩梦](../Report/RP-8.md)**
 
-[¶](#药理作用) 药理作用
+¶ 药理作用
 --------------------------------
 
-#### [¶](#作用机理1) 作用机理[\[1\]](#fn1)
+#### ¶ 作用机理\[1\]
 
 * 拮抗受体：α1A, α1B, α2A, α2B, α2C
 * 拮抗受体：多巴胺/DA1, DA2, DA2L, DA2S, DA3, DA4, DA5
@@ -25,18 +25,18 @@ description:
 * 抑制通道：Na\+（电压门控）
 
 
-#### [¶](#药物作用) 药物作用
+#### ¶ 药物作用
 
 * **主要的副作用：抑郁、认知衰退**
 * **急性的副作用：嗜睡、僵直、抽搐、肌松**
 * 主要的主作用：抗精神分裂、反幻觉、镇静
 
 
-#### [¶](#药代动力学2) 药代动力学[\[2\]](#fn2)
+#### ¶ 药代动力学\[2\]
 
 利培酮经过肝脏代谢和肾脏排泄。对于患有严重肝肾疾病的患者，建议使用较低剂量
 
-[¶](#药物使用3) 药物使用[\[3\]](#fn3)
+¶ 药物使用\[3\]
 ----------------------------------------------
 
 医学剂量：
@@ -52,8 +52,8 @@ description:
 ---
 
 
-1. [Wikipedia](https://en.wikipedia.org/wiki/Risperidone) [↩︎](#fnref1)
+1. [Wikipedia](https://en.wikipedia.org/wiki/Risperidone) ↩︎
 
-2. [Wikipedia](https://en.wikipedia.org/wiki/Risperidone) [↩︎](#fnref2)
+2. [Wikipedia](https://en.wikipedia.org/wiki/Risperidone) ↩︎
 
-3. [百度](https://www.baidu.com/bh/dict/ydyp_12245558013265915031?contentid=ydyp_12245558013265915031&query=%E5%88%A9%E5%9F%B9%E9%85%AE%E5%8C%BB%E7%94%A8%E5%89%82%E9%87%8F&sf_ch=ch_search_5713&sf_ref=search&subTab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&tab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&from=dicta&isPageHome=1) [↩︎](#fnref3)
+3. [百度](https://www.baidu.com/bh/dict/ydyp_12245558013265915031?contentid=ydyp_12245558013265915031&query=%E5%88%A9%E5%9F%B9%E9%85%AE%E5%8C%BB%E7%94%A8%E5%89%82%E9%87%8F&sf_ch=ch_search_5713&sf_ref=search&subTab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&tab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&from=dicta&isPageHome=1) ↩︎

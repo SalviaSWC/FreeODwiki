@@ -14,23 +14,23 @@
 
 | [给药途径](/文档/给药途径.md)                                                      |                      |
 | ------------------------------------------------------------------------ | -------------------- |
-| **警告：**由于个体体重、耐受、代谢和个人敏感性存在差异，务必总是从更低剂量开始哦。参见[负责任的用药](/文档/负责任的用药索引页.md)。 | [口服](/文档/给药途径.md#口服) |
+| **警告：**由于个体体重、耐受、代谢和个人敏感性存在差异，务必总是从更低剂量开始哦。参见[负责任的用药](/文档/负责任的用药索引页.md)。 | [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    | 口服           |
 | ---------------------- | ------------ |
-| [阈值](/文档/药物剂量分类.md#阈值) | 50 mg        |
-| [轻微](/文档/药物剂量分类.md#轻微) | 100 - 150 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 150 - 250 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 250 - 350 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 350 mg+      |
+| [阈值](/文档/药物剂量分类.md) | 50 mg        |
+| [轻微](/文档/药物剂量分类.md) | 100 - 150 mg |
+| [中等](/文档/药物剂量分类.md) | 150 - 250 mg |
+| [强烈](/文档/药物剂量分类.md) | 250 - 350 mg |
+| [严重](/文档/药物剂量分类.md) | 350 mg+      |
 
 | [药效时长](/文档/药效时长.md)    | 口服      |
 | ---------------------- | ------- |
-| [总时长](/文档/药效时长.md#总时长) | 4 - 6小时 |
+| [总时长](/文档/药效时长.md) | 4 - 6小时 |
 
 * **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅出于教育目的，整理自用户反馈与其他资料来源，并不构成推荐，准确性也应结合其他来源进一步核实哦。
 
-| [相互作用](#危险的相互作用) |
+| 相互作用 |
 | ---------------- |
 | 酒精               |
 | MXE              |
@@ -76,7 +76,7 @@
 * **[躯体欣快感](/药效/躯体欣快感.md)**
 * **[触觉增强](/药效/触觉增强.md)**
 * **[镇静](/药效/镇静.md)** - 4-MMC-MeO与[4-MMC](/药物/4-MMC.md)之间最大的区别，在于它主要带来中等程度的镇静，而不是[兴奋](/药效/兴奋.md)，因此可能会让跑步、跳舞或攀爬之类的身体活动变得不那么有吸引力呢。
-* **[自发性躯体感觉](/药效/自发性躯体感觉.md)** - 4-MMC-MeO的“体感”可以描述为一种轻微、柔和而温暖的刺麻感，遍布全身。这种感觉会持续而稳定地存在，并随着[药效发作](/文档/药效时长.md#药效发作)逐步增强，在达到[药效达峰](/文档/药效时长.md#药效达峰)后触及上限。
+* **[自发性躯体感觉](/药效/自发性躯体感觉.md)** - 4-MMC-MeO的“体感”可以描述为一种轻微、柔和而温暖的刺麻感，遍布全身。这种感觉会持续而稳定地存在，并随着[药效发作](/文档/药效时长.md)逐步增强，在达到[药效达峰](/文档/药效时长.md)后触及上限。
 * **[脱水](/药效/脱水.md)**
 * **[视物振动](/药效/视物振动.md)** - 在高剂量下，使用者的眼球可能会开始不由自主地快速来回摆动，导致视觉变得模糊并暂时失焦。这种情况被称为[眼震](http://en.wikipedia.org/wiki/Nystagmus)。
 * **[出汗增加](/药效/出汗增加.md)**
@@ -95,7 +95,7 @@
 
 ### **药效残余** ![Aftereffects (3).svg](/文件/Aftereffects.png)
 
-在[兴奋剂](/文档/药物分类/兴奋剂.md)体验进入[药效褪去](/文档/药效时长.md#药效褪去)阶段时，所出现的效应通常会比[药效达峰](/文档/药效时长.md#药效达峰)期间的效应更加负面且令人不适。这通常被称为“comedown”，其发生与[神经递质](/文档/神经递质.md)耗竭有关。其常见表现包括：
+在[兴奋剂](/文档/药物分类/兴奋剂.md)体验进入[药效褪去](/文档/药效时长.md)阶段时，所出现的效应通常会比[药效达峰](/文档/药效时长.md)期间的效应更加负面且令人不适。这通常被称为“comedown”，其发生与[神经递质](/文档/神经递质.md)耗竭有关。其常见表现包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[认知疲劳](/药效/认知疲劳.md)**
@@ -107,7 +107,7 @@
 
 ## 毒性与伤害潜力
 
-更多信息：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md#毒性和伤害潜力)
+更多信息：[研究用化学品 § 毒性和伤害潜力](/文档/研究用化学品.md)
 
 娱乐性使用4-MMC-MeO的毒性与长期健康影响，似乎尚未在任何科学语境下得到研究，而其确切中毒剂量也仍然未知。这主要是因为4-MMC-MeO几乎没有什么人类使用史呢。
 
@@ -177,13 +177,13 @@
 
 ## References
 
-1. [↑](#cite_ref-1) Welsh Emerging Drugs & Identification of Novel Substances Project | [http://www.wedinos.org/db/materials/view/00716](http://www.wedinos.org/db/materials/view/00716)
-2. [↑](#cite_ref-2) Sommerlad, N., Bagot, M. (2015), [*Dangerous untested legal high - dubbed new Meow Meow - is flooding UK streets*](http://www.mirror.co.uk/news/uk-news/dangerously-untested-legal-high-dubbed-6622118)
-3. [↑](#cite_ref-3) New Legal High Similar To Banned Mephedrone Set To Sweep Britain | [http://www.unilad.co.uk/drugs/new-legal-high-similar-to-banned-mephedrone-set-to-sweep-britain/](http://www.unilad.co.uk/drugs/new-legal-high-similar-to-banned-mephedrone-set-to-sweep-britain/)
-4. [↑](#cite_ref-4) McLaughlin, G., Morris, N., Kavanagh, P. V., Power, J. D., Dowling, G., Twamley, B., O’Brien, J., Talbot, B., Walther, D., Partilla, J. S., Baumann, M. H., Brandt, S. D. (March 2017). ["Synthesis, characterization and monoamine transporter activity of the new psychoactive substance mexedrone and its N-methoxy positional isomer, N-methoxymephedrone"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5336524/). *Drug testing and analysis*. **9** (3): 358–368. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/dta.2053](//doi.org/10.1002%2Fdta.2053). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1942-7603](//www.worldcat.org/issn/1942-7603).
-5. [↑](#cite_ref-5) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-6. [↑](#cite_ref-6) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-7. [↑](#cite_ref-7) New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
-8. [↑](#cite_ref-8) [*Regeringskansliets rättsdatabaser*](https://rkrattsbaser.gov.se/sfst?fritext=mexedron&upph=false&sort=desc)
-9. [↑](#cite_ref-9) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-10. [↑](#cite_ref-10) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+1. ↑ Welsh Emerging Drugs & Identification of Novel Substances Project | [http://www.wedinos.org/db/materials/view/00716](http://www.wedinos.org/db/materials/view/00716)
+2. ↑ Sommerlad, N., Bagot, M. (2015), [*Dangerous untested legal high - dubbed new Meow Meow - is flooding UK streets*](http://www.mirror.co.uk/news/uk-news/dangerously-untested-legal-high-dubbed-6622118)
+3. ↑ New Legal High Similar To Banned Mephedrone Set To Sweep Britain | [http://www.unilad.co.uk/drugs/new-legal-high-similar-to-banned-mephedrone-set-to-sweep-britain/](http://www.unilad.co.uk/drugs/new-legal-high-similar-to-banned-mephedrone-set-to-sweep-britain/)
+4. ↑ McLaughlin, G., Morris, N., Kavanagh, P. V., Power, J. D., Dowling, G., Twamley, B., O’Brien, J., Talbot, B., Walther, D., Partilla, J. S., Baumann, M. H., Brandt, S. D. (March 2017). ["Synthesis, characterization and monoamine transporter activity of the new psychoactive substance mexedrone and its N-methoxy positional isomer, N-methoxymephedrone"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5336524/). *Drug testing and analysis*. **9** (3): 358–368. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.2053](//doi.org/10.1002%2Fdta.2053). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7603](//www.worldcat.org/issn/1942-7603).
+5. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+6. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](/文件/Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+7. ↑ New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
+8. ↑ [*Regeringskansliets rättsdatabaser*](https://rkrattsbaser.gov.se/sfst?fritext=mexedron&upph=false&sort=desc)
+9. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+10. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

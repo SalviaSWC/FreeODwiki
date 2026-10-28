@@ -49,26 +49,26 @@
 目录
 --------
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **身体效应**](#身体效应)
-    + [3.2 **视觉效应**](#视觉效应)
-        - [3.2.1 增强](#增强)
-        - [3.2.2 扭曲](#扭曲)
-        - [3.2.3 几何](#几何)
-        - [3.2.4 幻觉状态](#幻觉状态)
-    + [3.3 **认知效应**](#认知效应)
-    + [3.4 **听觉效应**](#听觉效应)
-    + [3.5 **超个人效应**](#超个人效应)
-    + [3.6 体验报告](#体验报告)
-* [4 毒性和伤害潜能](#毒性和伤害潜能)
-    + [4.1 耐药性和成瘾潜能](#耐药性和成瘾潜能)
-    + [4.2 危险药物联用](#危险药物联用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 **身体效应**
+    + 3.2 **视觉效应**
+        - 3.2.1 增强
+        - 3.2.2 扭曲
+        - 3.2.3 几何
+        - 3.2.4 幻觉状态
+    + 3.3 **认知效应**
+    + 3.4 **听觉效应**
+    + 3.5 **超个人效应**
+    + 3.6 体验报告
+* 4 毒性和伤害潜能
+    + 4.1 耐药性和成瘾潜能
+    + 4.2 危险药物联用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 化学
 ---------
@@ -225,13 +225,13 @@ _**免责声明：** 下列效应参考了[***主观效应索引***](/药效/ind
 ----------
 
 <!-- 参考文献保持原文格式，不进行过度翻译，仅保留链接 -->
-1. [↑](#cite_ref-TiHKAL_1-0) [Shulgin, Alexander](/wiki/Alexander_Shulgin); Shulgin, Ann (1997). ["#23. 4-HO-MPT"](https://erowid.org/library/books_online/tihkal/tihkal23.shtml). *[TiHKAL: The Continuation](/wiki/TiHKAL)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
-2. [↑](#cite_ref-2) <https://www.erowid.org/library/books_online/tihkal/tihkal23.shtml>
-3. [↑](#cite_ref-3) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
-4. [↑](#cite_ref-4) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-5. [↑](#cite_ref-5) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095).
-6. [↑](#cite_ref-6) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-7. [↑](#cite_ref-7) ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-8. [↑](#cite_ref-8) ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
-9. [↑](#cite_ref-9) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-10. [↑](#cite_ref-10) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
+1. ↑ [Shulgin, Alexander](/wiki/Alexander_Shulgin); Shulgin, Ann (1997). ["#23. 4-HO-MPT"](https://erowid.org/library/books_online/tihkal/tihkal23.shtml). *[TiHKAL: The Continuation](/wiki/TiHKAL)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
+2. ↑ <https://www.erowid.org/library/books_online/tihkal/tihkal23.shtml>
+3. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+4. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+5. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095).
+6. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+7. ↑ ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+8. ↑ ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
+9. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+10. ↑ ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.

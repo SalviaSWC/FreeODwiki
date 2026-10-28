@@ -44,7 +44,7 @@ description:
 | [药效达峰](/文档/药效时长.md) | 2 - 5 分钟 |
 | [药效褪去](/文档/药效时长.md) | 10 - 20 分钟 |
 | **免责声明：** 这里的[剂量](/文档/给药剂量.md)信息是从用户和[资源](/文档/科学信息索引页.md)中收集的，仅供教育用途。它不是建议，为了准确性，请务必与其他来源核实呢。 | |
-| **[相互作用](#危险的相互作用)** | |
+| **相互作用** | |
 | [大麻](/药物/大麻.md) | ⚠️ 谨慎联用 |
 | [兴奋剂](/文档/药物分类/兴奋剂.md) | ⚠️ 谨慎联用 |
 | [曲马多](/药物/曲马多.md) | 💔 联用危险 |
@@ -53,70 +53,70 @@ description:
 | ![Yellow-warning-sign1.png](/文件/Yellow-warning-sign1.png) | **对于这种经常以高剂量抽吸的物质，建议有[旅程保姆](/文档/旅程保姆.md)陪同哦。短效而强烈的旅程可能会在吸入后几天内引起精神和身体的副作用。**<br>压倒性的效果通常需要后期处理。可能需要 2 天时间身体副作用才会变得明显，比如听力变化。如果不休息（2 天 + 如果你注意到任何副作用则需要几天恢复）就使用其他物质，会增加获得糟糕的后期旅程的风险呢。 |
 | --- | --- |
 
-**N,N-二甲基色胺**（也就是大家常说的 **DMT**、**N,N-DMT**、**Dmitri**，以及 **"精神分子"**）是[色胺类](/文档/药物分类/色胺类物质.md)中一种经典的[致幻剂](/文档/药物分类/致幻剂.md)哦。[\[1\]](#参考文献) 在致幻剂中，它以产生短暂但强烈的[幻觉状态](/药效/幻觉状态.md)和完全幻觉的独特能力而闻名。人们认为它是通过与大脑中的[血清素](/文档/血清素.md)[受体](/文档/神经递质.md)结合来产生效果的，尽管确切的机制还没有完全被理解呢。
+**N,N-二甲基色胺**（也就是大家常说的 **DMT**、**N,N-DMT**、**Dmitri**，以及 **"精神分子"**）是[色胺类](/文档/药物分类/色胺类物质.md)中一种经典的[致幻剂](/文档/药物分类/致幻剂.md)哦。\[1\] 在致幻剂中，它以产生短暂但强烈的[幻觉状态](/药效/幻觉状态.md)和完全幻觉的独特能力而闻名。人们认为它是通过与大脑中的[血清素](/文档/血清素.md)[受体](/文档/神经递质.md)结合来产生效果的，尽管确切的机制还没有完全被理解呢。
 
 DMT 存在于超过 65 种植物中，并且已被确定为人类代谢的正常成分，也是某些啮齿动物的内源性[神经递质](/文档/神经递质.md)。
-众所周知，它在植物界中也广泛存在。[\[2\]](#参考文献)[\[3\]](#参考文献) 尽管有各种理论假设，但其神经生物学功能尚未确定。\[*需要引用*\]
+众所周知，它在植物界中也广泛存在。\[2\]\[3\] 尽管有各种理论假设，但其神经生物学功能尚未确定。\[*需要引用*\]
 
 当被[雾化](/文档/给药途径.md)或[抽吸](/文档/给药途径.md)时，DMT 会产生短暂的效果，起效非常快，有时被描述为“快得不可思议的过山车之旅”。
 当与 [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md) 或 [可逆性MAOA抑制剂](/文档/可逆性MAOA抑制剂.md) 结合[口服](/文档/给药途径.md)时，它会变得具有活性，持续时间明显更长，且具有沉浸感和互动性：这种组合被称为 [pharmahuasca](/药物/死藤水.md)。另见 [死藤水](/药物/死藤水.md)。
 
-与大多数被高度禁止的物质不同，DMT 尚未被证明具有成瘾性或生理毒性。[\[1\]](#参考文献)[\[4\]](#参考文献) 然而，即使是经验丰富的用户，也总是有可能发生严重[焦虑](/药效/焦虑.md)、[妄想](/药效/妄想.md)和[精神病发作](/药效/精神病发作.md)等不良反应，特别是对于那些有精神障碍倾向的人。[\[5\]](#参考文献)
+与大多数被高度禁止的物质不同，DMT 尚未被证明具有成瘾性或生理毒性。\[1\]\[4\] 然而，即使是经验丰富的用户，也总是有可能发生严重[焦虑](/药效/焦虑.md)、[妄想](/药效/妄想.md)和[精神病发作](/药效/精神病发作.md)等不良反应，特别是对于那些有精神障碍倾向的人。\[5\]
 
 如果使用这种物质，强烈建议采取[伤害减少措施](/文档/负责任的用药索引页.md)哦。
 
 | [![DMT-crystals-shot.jpg](/文件/DMT-crystals-shot.jpg)](/文件/DMT-crystals-shot.jpg) |
 | :---: |
-| DMT 晶体[\[6\]](#参考文献) |
+| DMT 晶体\[6\] |
 
 ## 目录
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-    * [3.1 关于 MAO 酶和 MAO 抑制剂的限制](#关于_MAO_酶和_MAO_抑制剂的限制)
-    * [3.2 DMT 方法和给药途径的多样性](#DMT_方法和给药途径的多样性)
-* [4 主观效应](#主观效应)
-    * [4.1 身体效应](#身体效应)
-    * [4.2 视觉效应](#视觉效应)
-        * [4.2.1 增强](#增强)
-        * [4.2.2 扭曲](#扭曲)
-        * [4.2.3 几何](#几何)
-        * [4.2.4 幻觉状态](#幻觉状态)
-    * [4.3 听觉效应](#听觉效应)
-    * [4.4 多感官效应](#多感官效应)
-    * [4.5 认知效应](#认知效应)
-    * [4.6 超个人效应](#超个人效应)
-    * [4.7 短效 DMT 体验的渐进阶段](#短效_DMT_体验的渐进阶段)
-    * [4.8 长效 DMT 体验的渐进阶段](#长效_DMT_体验的渐进阶段)
-    * [4.9 体验报告](#体验报告)
-* [5 天然植物来源](#天然植物来源)
-    * [5.1 含羞草根皮](#含羞草根皮)
-    * [5.2 台湾相思树根皮](#台湾相思树根皮)
-* [6 制备方法](#制备方法)
-* [7 研究](#研究)
-    * [7.1 濒死体验](#濒死体验)
-    * [7.2 神经发生](#神经发生)
-    * [7.3 神经可塑性](#神经可塑性)
-* [8 试剂结果](#试剂结果)
-* [9 毒性和伤害潜能](#毒性和伤害潜能)
-    * [9.1 致死剂量](#致死剂量)
-    * [9.2 依赖性和滥用潜能](#依赖性和滥用潜能)
-    * [9.3 危险的相互作用](#危险的相互作用)
-* [10 法律地位](#法律地位)
-* [11 另见](#另见)
-* [12 外部链接](#外部链接)
-    * [12.1 讨论](#讨论)
-* [13 文献](#文献)
-* [14 参考文献](#参考文献)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+    * 3.1 关于 MAO 酶和 MAO 抑制剂的限制
+    * 3.2 DMT 方法和给药途径的多样性
+* 4 主观效应
+    * 4.1 身体效应
+    * 4.2 视觉效应
+        * 4.2.1 增强
+        * 4.2.2 扭曲
+        * 4.2.3 几何
+        * 4.2.4 幻觉状态
+    * 4.3 听觉效应
+    * 4.4 多感官效应
+    * 4.5 认知效应
+    * 4.6 超个人效应
+    * 4.7 短效 DMT 体验的渐进阶段
+    * 4.8 长效 DMT 体验的渐进阶段
+    * 4.9 体验报告
+* 5 天然植物来源
+    * 5.1 含羞草根皮
+    * 5.2 台湾相思树根皮
+* 6 制备方法
+* 7 研究
+    * 7.1 濒死体验
+    * 7.2 神经发生
+    * 7.3 神经可塑性
+* 8 试剂结果
+* 9 毒性和伤害潜能
+    * 9.1 致死剂量
+    * 9.2 依赖性和滥用潜能
+    * 9.3 危险的相互作用
+* 10 法律地位
+* 11 另见
+* 12 外部链接
+    * 12.1 讨论
+* 13 文献
+* 14 参考文献
 
 ## 历史与文化
 
-DMT 最早由德国化学家 Richard Helmuth Fredrick Manske 于 1931 年合成。[\[7\]](#参考文献)[\[8\]](#参考文献) 它作为天然产物的发现通常归功于巴西化学家和微生物学家 Oswaldo Gonçalves de Lima，他在 1946 年从 *jurema preta*（*[含羞草](/药物/含羞草.md)*）的根皮中分离出一种生物碱，并将其命名为 *nigerina*（尼日利亚碱）。[\[8\]](#参考文献)[\[9\]](#参考文献)[\[10\]](#参考文献)
+DMT 最早由德国化学家 Richard Helmuth Fredrick Manske 于 1931 年合成。\[7\]\[8\] 它作为天然产物的发现通常归功于巴西化学家和微生物学家 Oswaldo Gonçalves de Lima，他在 1946 年从 *jurema preta*（*[含羞草](/药物/含羞草.md)*）的根皮中分离出一种生物碱，并将其命名为 *nigerina*（尼日利亚碱）。\[8\]\[9\]\[10\]
 
-1959 年，当美国化学家获得 *含羞草* 样本时，它被明确鉴定出来。[\[10\]](#参考文献)[\[11\]](#参考文献) 1955 年，由 Evan Horning 领导的一组美国化学家从 *[Anadenanthera peregrina](/药物/Anadenanthera_peregrina.md)* 的种子和豆荚中分离并正式鉴定了 DMT。[\[10\]](#参考文献)[\[12\]](#参考文献)
+1959 年，当美国化学家获得 *含羞草* 样本时，它被明确鉴定出来。\[10\]\[11\] 1955 年，由 Evan Horning 领导的一组美国化学家从 *[Anadenanthera peregrina](/药物/Anadenanthera_peregrina.md)* 的种子和豆荚中分离并正式鉴定了 DMT。\[10\]\[12\]
 
-自 1955 年以来，这种物质已在许多生物中被发现：至少属于 10 个科的 50 种植物中，[\[2\]](#参考文献) 以及至少 4 种动物中，包括一种柳珊瑚[\[13\]](#参考文献)和三种哺乳动物。
+自 1955 年以来，这种物质已在许多生物中被发现：至少属于 10 个科的 50 种植物中，\[2\] 以及至少 4 种动物中，包括一种柳珊瑚\[13\]和三种哺乳动物。
 
 ## 化学
 
@@ -128,7 +128,7 @@ DMT，即 N,N-二甲基色胺，是被称为[色胺类](/文档/药物分类/色
 
 它有许多同系物和类似物，从基础色胺类如 [MET](/药物/MET.md) 和 [DPT](/药物/DPT.md)，到四位和五位取代变体，如 [4-PO-DMT](/药物/赛洛西宾蘑菇.md)（赛洛西宾）、[4-AcO-DMT](/药物/4-AcO-DMT.md)（乙酰赛洛西宾）、[5-HO-DMT](/药物/蟾毒色胺.md)（蟾毒色胺）和 [5-MeO-DMT](/药物/5-MeO-DMT.md)。
 
-纯 DMT 是一种白色结晶固体，通常被描述为闻起来像橡胶。它微溶于水，但溶于有机溶剂和酸性水溶液。[\[14\]](#参考文献)
+纯 DMT 是一种白色结晶固体，通常被描述为闻起来像橡胶。它微溶于水，但溶于有机溶剂和酸性水溶液。\[14\]
 
 ## 药理学
 
@@ -136,19 +136,19 @@ DMT，即 N,N-二甲基色胺，是被称为[色胺类](/文档/药物分类/色
 
 DMT 的[致幻](/文档/药物分类/致幻剂.md)作用被认为来自于它作为[部分激动剂](/文档/受体激动剂.md)对 [5-HT2A 受体](/文档/血清素.md)的功效。然而，这些相互作用的角色以及它们如何导致[致幻](/文档/药物分类/致幻剂.md)体验，仍然难以捉摸。
 
-除此之外，N,N-二甲基色胺被认为是 sigma 受体的内源性配体。然而，sigma-1 受体的重要性仍然是正在进行的科学研究的主题。[\[15\]](#参考文献)
+除此之外，N,N-二甲基色胺被认为是 sigma 受体的内源性配体。然而，sigma-1 受体的重要性仍然是正在进行的科学研究的主题。\[15\]
 
 ### 关于 MAO 酶和 MAO 抑制剂的限制
 
-与赛洛西宾等其他色胺类不同，口服 DMT 是无效的，因为单胺氧化酶（MAO）会分解它。为了体验口服效果，DMT 经常与[MAO 抑制剂](/文档/单胺氧化酶抑制剂.md)（MAOIs）结合使用，以防止这种分解。当这种组合使用纯形式的 DMT 和 MAOI 时，被称为 pharmahuasca；当通过植物材料（无论是煮造还是整服）进行时，传统上称为 [死藤水](/药物/死藤水.md)[\[16\]](#参考文献)。
+与赛洛西宾等其他色胺类不同，口服 DMT 是无效的，因为单胺氧化酶（MAO）会分解它。为了体验口服效果，DMT 经常与[MAO 抑制剂](/文档/单胺氧化酶抑制剂.md)（MAOIs）结合使用，以防止这种分解。当这种组合使用纯形式的 DMT 和 MAOI 时，被称为 pharmahuasca；当通过植物材料（无论是煮造还是整服）进行时，传统上称为 [死藤水](/药物/死藤水.md)\[16\]。
 
 虽然鼻吸 DMT 具有足够快的起效和上升速度，可以像抽吸 DMT 一样提供扎实的体验，但这样做可能会刺激液体分泌物的产生，这些分泌物可能会与药物混合，顺着喉咙流下并被吞咽，这意味着它将在胃中分解，不会对体验产生贡献。
 
-饮用死藤水意味着同时摄入 DMT 和骆驼蓬碱生物碱。尽管这是制作死藤水的传统方式，但在最大化致幻药物吸收方面并不是最有效的方法。DMT 和骆驼蓬碱生物碱具有非常相似的药代动力学[\[17\]](#参考文献)，但现代用户在结合这两种药物时倾向于使用较低剂量的骆驼蓬碱生物碱和较高剂量的 DMT；这样，DMT 往往比所用的 MAOI 更快达到峰值。在这种情况下，优化 MAO 抑制剂使用的一种方法是在服用致幻药物前约 30 分钟摄入它们。MAOI 的服用时间窗口是在摄入致幻药物前 10 到 50 分钟。
+饮用死藤水意味着同时摄入 DMT 和骆驼蓬碱生物碱。尽管这是制作死藤水的传统方式，但在最大化致幻药物吸收方面并不是最有效的方法。DMT 和骆驼蓬碱生物碱具有非常相似的药代动力学\[17\]，但现代用户在结合这两种药物时倾向于使用较低剂量的骆驼蓬碱生物碱和较高剂量的 DMT；这样，DMT 往往比所用的 MAOI 更快达到峰值。在这种情况下，优化 MAO 抑制剂使用的一种方法是在服用致幻药物前约 30 分钟摄入它们。MAOI 的服用时间窗口是在摄入致幻药物前 10 到 50 分钟。
 
 ### DMT 方法和给药途径的多样性
 
-DMT 是一种在给药方法和途径方面呈现出最广泛和多样化方法的药物之一。DMT 体验可以是静脉注射 DMT 那种短暂而激进的超越性旅程，也可以是广泛、平滑且互动的死藤水体验。最好根据持续时间将这些不同类型的体验分类为短效和长效 DMT 旅程（以下分别称为“短 DMT 旅程”和“长 DMT 旅程”），长 DMT 旅程是指那些通过抑制 MAO 酶诱导的旅程。以下是消费 DMT 的所有不同方式：[\[18\]](#参考文献)[\[19\]](#参考文献)[\[20\]](#参考文献)
+DMT 是一种在给药方法和途径方面呈现出最广泛和多样化方法的药物之一。DMT 体验可以是静脉注射 DMT 那种短暂而激进的超越性旅程，也可以是广泛、平滑且互动的死藤水体验。最好根据持续时间将这些不同类型的体验分类为短效和长效 DMT 旅程（以下分别称为“短 DMT 旅程”和“长 DMT 旅程”），长 DMT 旅程是指那些通过抑制 MAO 酶诱导的旅程。以下是消费 DMT 的所有不同方式：\[18\]\[19\]\[20\]
 
 *   **短效 DMT 旅程消费：**
     *   抽吸/雾化 DMT（10 至 60 mg；5 至 20 分钟）
@@ -157,15 +157,15 @@ DMT 是一种在给药方法和途径方面呈现出最广泛和多样化方法�
     *   肌肉注射 DMT（最高 80 mg；最长 45 分钟）
     *   鼻腔给药 DMT（剂量范围未知，推测类似于抽吸/雾化 DMT，持续时间未知）
 *   **死藤水及等效制剂消费：**
-    *   口服 MHRB（*含羞草*根皮）汤剂或植物材料（最高 50 g 约 1.2% MHRB；最长 2.5 小时）[\[21\]](#参考文献)
+    *   口服 MHRB（*含羞草*根皮）汤剂或植物材料（最高 50 g 约 1.2% MHRB；最长 2.5 小时）\[21\]
     *   口服死藤水或等效制剂，无论是液体汤剂还是固体植物材料：
         *   含有骆驼蓬碱生物碱的植物，通常是 *baniseriopsis caapi* 或 *[骆驼蓬](/药物/骆驼蓬.md)*（植物材料量相当于 140 至 240 mg 总生物碱；在摄入含 DMT 的汤剂或植物材料前最多 50 分钟，或与其同时服用）
         *   含 DMT 的植物，通常是 *[含羞草](/药物/含羞草.md)*、*台湾相思树* 或 *[九节](/药物/九节.md)*（植物材料量相当于 35 至 85 mg；5 至 10 小时）
     *   口服 pharmahuasca：
         *   MAOI 或 RIMA（140 至 240 mg 总骆驼蓬碱生物碱，或等量的含骆驼蓬碱植物，或等效剂量的药物 MAOI 或 RIMA；在摄入 DMT 前最多 50 分钟或与其同时服用）
         *   DMT（35 至 85 mg；5 至 10 小时）
-*   **长效 DMT 旅程消费**（对于每种情况：通过相同给药途径共同给药 70 至 150 mg 总骆驼蓬碱生物碱[\[22\]](#参考文献)，或口服 140 至 240 mg 总生物碱，或等量的含骆驼蓬碱植物材料，或等效剂量的药物 MAOI 或 RIMA；在给药 DMT 晶体前 70 至 30 分钟）：
-    *   直肠给药 DMT 晶体（最高 70 mg；5 至 8 小时）[\[23\]](#参考文献)
+*   **长效 DMT 旅程消费**（对于每种情况：通过相同给药途径共同给药 70 至 150 mg 总骆驼蓬碱生物碱\[22\]，或口服 140 至 240 mg 总生物碱，或等量的含骆驼蓬碱植物材料，或等效剂量的药物 MAOI 或 RIMA；在给药 DMT 晶体前 70 至 30 分钟）：
+    *   直肠给药 DMT 晶体（最高 70 mg；5 至 8 小时）\[23\]
     *   舌下给药 DMT 晶体（剂量范围未知，推测类似于直肠 DMT；持续时间未知）
     *   鼻腔给药 DMT 晶体（剂量范围未知，推测类似于抽吸/雾化 DMT；持续时间未知）
 *   **假设的“长 DMT 旅程”消费**（对于每种情况：口服 140 至 240 mg 总骆驼蓬碱生物碱，或等量的含骆驼蓬碱植物材料，或等效剂量的药物 MAOI 或 RIMA）：
@@ -175,7 +175,7 @@ DMT 是一种在给药方法和途径方面呈现出最广泛和多样化方法�
 
 ## 主观效应
 
-根据剂量和[给药途径](/文档/给药途径.md)的不同，DMT 的效果范围可以从温和的[致幻](/文档/药物分类/致幻剂.md)状态到强烈的沉浸式、改变生活的体验，这些体验通常被描述为从普通意识中彻底抽离，用户报告经历了不可言喻的精神领域或交替维度。在服用高剂量的 [DMT](/药物/DMT.md) 后，遇到来源不明的“存在”也是常见的报告。Terrence Mckenna 和 Rick Strassman 博士都研究并普及了这一现象。[\[24\]](#参考文献)
+根据剂量和[给药途径](/文档/给药途径.md)的不同，DMT 的效果范围可以从温和的[致幻](/文档/药物分类/致幻剂.md)状态到强烈的沉浸式、改变生活的体验，这些体验通常被描述为从普通意识中彻底抽离，用户报告经历了不可言喻的精神领域或交替维度。在服用高剂量的 [DMT](/药物/DMT.md) 后，遇到来源不明的“存在”也是常见的报告。Terrence Mckenna 和 Rick Strassman 博士都研究并普及了这一现象。\[24\]
 
 据报道，可抽吸形式的 DMT 是精神麻醉感最小的[致幻剂](/文档/药物分类/致幻剂.md)。正是由于缺乏感知的麻醉感，许多人将 DMT 描述为一种真实发生在他们身上的体验。
 
@@ -188,17 +188,17 @@ _**免责声明：** 以下列出的效应引用自[***主观效应索引***](/�
 *值得注意的是，这些效应不一定会以可预测或可靠的方式发生，尽管高剂量更可能诱发全方位的效应。同样，**不良反应**随着剂量的增加可能性也会增加，可能包括**成瘾、严重伤害或死亡** ☠。*
 
 ### **[躯体效应](/药效/躯体效应.md)** ![Child.png](/文件/Child.png)
-*   **[躯体形态感改变](/药效/躯体形态感改变.md)**[\[9\]](#参考文献)
-*   **[心率增快](/药效/心率增快.md)**[\[9\]](#参考文献)
-*   **[血压升高](/药效/血压升高.md)**[\[25\]](#参考文献)
-*   **[神经发生](/文档/神经发生.md)**[\[26\]](#参考文献) 和 **[神经可塑性](/文档/神经可塑性.md)**[\[27\]](#参考文献) - 最近的研究表明，在治疗环境并遵循伤害减少措施的情况下，致幻剂可以通过促进神经元产生和增加可塑性来改善大脑健康。
-*   **[瞳孔扩大](/药效/瞳孔扩大.md)**[\[9\]](#参考文献)
+*   **[躯体形态感改变](/药效/躯体形态感改变.md)**\[9\]
+*   **[心率增快](/药效/心率增快.md)**\[9\]
+*   **[血压升高](/药效/血压升高.md)**\[25\]
+*   **[神经发生](/文档/神经发生.md)**\[26\] 和 **[神经可塑性](/文档/神经可塑性.md)**\[27\] - 最近的研究表明，在治疗环境并遵循伤害减少措施的情况下，致幻剂可以通过促进神经元产生和增加可塑性来改善大脑健康。
+*   **[瞳孔扩大](/药效/瞳孔扩大.md)**\[9\]
 *   **[躯体自主](/药效/躯体自主.md)**
-*   **[空间定向障碍](/药效/空间定向障碍.md)**[\[9\]](#参考文献)
+*   **[空间定向障碍](/药效/空间定向障碍.md)**\[9\]
 *   **[体温调节抑制](/药效/体温调节抑制.md)**
 *   **[自发性躯体感觉](/药效/自发性躯体感觉.md)** - DMT 的“身体高潮”可以描述为一种令人愉悦的全方位光辉。它保持着持续的存在感，随着起效迅速上升，并在达到峰值时达到极限。在高剂量下它可能变得非常强大，并且在体验本身结束后，其残留时间可能与整个旅程的持续时间一样长。
 *   **[躯体欣快感](/药效/躯体欣快感.md)** - 值得注意的是，抽吸 DMT 时，这种效果不像[兴奋剂](/文档/药物分类/兴奋剂.md)或[共情剂](/文档/药物分类/共情剂.md)那样可靠地产生，很容易表现为不明原因的身体不适。然而，即使这种不适在“长 DMT 旅程”中表现出来，当药效消退期临近时，它往往最终会消退为独特的身体欣快感。这种欣快感被描述为全方位的内在温暖，偶尔会变得非常强大，以至于被描述为“比像[海洛因](/药物/海洛因.md)或[羟考酮](/药物/羟考酮.md)这样的阿片类药物更幸福”。
-*   **[重力感改变](/药效/重力感改变.md)** - 当抽吸较高剂量的 DMT 突破剂量时，通常会报告身体感觉以极高的速度被发射过巨大的距离。[\[9\]](#参考文献)
+*   **[重力感改变](/药效/重力感改变.md)** - 当抽吸较高剂量的 DMT 突破剂量时，通常会报告身体感觉以极高的速度被发射过巨大的距离。\[9\]
 *   **[恶心](/药效/恶心.md)** - 这种效果比[5-MeO-DMT](/药物/5-MeO-DMT.md)以及[赛洛西宾蘑菇](/药物/赛洛西宾蘑菇.md)或[麦斯卡林](/药物/麦斯卡林.md)等长效致幻剂要少见得多。然而，它仍然可以自发表现出来，有时会导致突然的呕吐，特别是当使用 MAO 抑制剂诱导“长 DMT 旅程”时。在体验前几小时禁食或吃少量食物（最好是清淡食物）可以预防这种效果。
 *   **[性欲增强](/药效/性欲增强.md)**
 *   **[癫痫发作](/文档/癫痫发作.md)** - 这是一种非常罕见的效果，但据信发生在那些有易感体质的人身上，特别是在脱水、疲劳或营养不良等身体负担重的情况下。
@@ -240,8 +240,8 @@ DMT 能够产生全方位的高级幻觉状态，其方式比任何其他常用�
 
 ### **[听觉效应](/药效/听觉效应.md)** ![Volume-up.png](/文件/Volume-up.png)
 
-*   **[听觉锐度增强](/药效/听觉锐度增强.md)** - 听觉敏锐度的增强，通常在体验结束后，已在静脉注射 DMT 的临床研究中被报道。[\[9\]](#参考文献)
-*   **[听觉扭曲](/药效/听觉扭曲.md)**[\[9\]](#参考文献)
+*   **[听觉锐度增强](/药效/听觉锐度增强.md)** - 听觉敏锐度的增强，通常在体验结束后，已在静脉注射 DMT 的临床研究中被报道。\[9\]
+*   **[听觉扭曲](/药效/听觉扭曲.md)**\[9\]
 *   **[听觉幻觉](/药效/听觉幻觉.md)**
 
 ### **[多感官效应](/药效/多感官效应.md)** ![Gears](/文件/Gears.png)
@@ -251,7 +251,7 @@ DMT 能够产生全方位的高级幻觉状态，其方式比任何其他常用�
 ### **[认知效应](/药效/认知效应.md)** ![User.png](/文件/User.png)
 
 *   **[焦虑](/药效/焦虑.md)** - 与 [LSD](/药物/LSD.md) 或 [赛洛西宾](/药物/赛洛西宾蘑菇.md) 等其他致幻剂相比，焦虑似乎在 DMT 中表现得更一致，并且通常在药效上升阶段出现，当用户进入峰值时消退。这种效应可能与药物产生高水平记忆抑制的能力有关，因为这种感觉本身通常被描述为意识与现实失去联系或思维被撕裂。在非常高的剂量下，用户可能会遭受这种感知：违背自己的意愿被逼疯、被瓦解，甚至陷入并不罕见的死亡妄想。练习接地练习（grounding exercises）可以帮助用户应对这种效应。
-*   **[濒死感](/药效/濒死感.md)**[\[9\]](#参考文献)
+*   **[濒死感](/药效/濒死感.md)**\[9\]
     *   旅程前焦虑 - 虽然这种效应可以在体验本身中表现出来——特别是在上升期——但在体验前几分钟、几小时甚至几天感到紧张、焦虑或恐惧是极其常见的。这种效应被描述为用户即将独自面对迫在眉睫的危险，取决于场景和心境、经验水平以及用户“旅行”的频率，这种效应可以从轻微到压倒性不等，这可能导致用户决定推迟或拒绝服用药物。不鼓励用户使用抗焦虑药物来抑制这种效应，因为体验可能会明显“麻木”，使用户后悔做出这样的决定。
 *   **[既视感](/药效/既视感.md)**
 *   **[妄想](/药效/妄想.md)** - 妄想可以与 [个人意义强化](/药效/个人意义强化.md) 一起出现，并且在缺乏经验的用户中很常见，他们可能并不完全意识到这本身就是一种效应，并不一定意味着感觉到的联系或暗示实际上存在。
@@ -276,7 +276,7 @@ DMT 能够产生全方位的高级幻觉状态，其方式比任何其他常用�
 *   **[自主声音交流](/药效/自主声音交流.md)**
 *   **[概念性思维](/药效/概念性思维.md)** - 在“突破”剂量期间，由于可能表现出强烈的 [记忆抑制](/药效/记忆抑制.md)，这种效应很突出，导致用户拥有“无法言说的思想”。
 *   **[思维加速](/药效/思维加速.md)**、**[思维连通性](/药效/思维连通性.md)** 和 **[思维组织](/药效/思维组织.md)**
-*   **[时间扭曲](/药效/时间扭曲.md)** - 抽吸时，这种特定效应在[“突破”体验](/药物/DMT.md)中最为普遍和显著。[\[9\]](#参考文献)，并且往往只持续不到十五分钟，但通常被报道为主观感觉持续了更长时间，在某些情况下是“几辈子”甚至“永恒”。另一方面，在“长 DMT 旅程”中，虽然用户仍然可以体验到“永恒”的突破体验，但在峰值结束且用户进入消退期后，他们仍然会感觉时间过得比平时慢；这种效应与 [分析能力增强](/药效/分析能力增强.md) 和 [沉浸感强化](/药效/沉浸感强化.md) 等其他效应有关。
+*   **[时间扭曲](/药效/时间扭曲.md)** - 抽吸时，这种特定效应在[“突破”体验](/药物/DMT.md)中最为普遍和显著。\[9\]，并且往往只持续不到十五分钟，但通常被报道为主观感觉持续了更长时间，在某些情况下是“几辈子”甚至“永恒”。另一方面，在“长 DMT 旅程”中，虽然用户仍然可以体验到“永恒”的突破体验，但在峰值结束且用户进入消退期后，他们仍然会感觉时间过得比平时慢；这种效应与 [分析能力增强](/药效/分析能力增强.md) 和 [沉浸感强化](/药效/沉浸感强化.md) 等其他效应有关。
 *   **[清醒](/药效/清醒.md)** - 与 MAOI 一起使用 DMT 可以延长效果足够长的时间，以抑制用户的睡眠冲动。
 
 ### **[超个人效应](/药效/超个人效应.md)** ![](/文件/Infinity4.png)
@@ -285,7 +285,7 @@ DMT 能够产生全方位的高级幻觉状态，其方式比任何其他常用�
 
 * **[灵性增强](/药效/灵性增强.md)**
 * **[存在主义自我实现](/药效/存在主义自我实现.md)** - 这种效应使得诸如活着或有亲人在身边等日常即时假设被重新处理，使用户更加意识到自己的处境并产生感激之情。
-* **[濒死体验](/文档/濒死体验.md)**[\[28\]](#参考文献)[\[29\]](#参考文献)
+* **[濒死体验](/文档/濒死体验.md)**\[28\]\[29\]
 * **[永恒主义感知](/药效/永恒主义感知.md)**
 * **[自我设计感知](/药效/自我设计感知.md)**
 * **[感知到接触意识的内在机制](/药效/感知到接触意识的内在机制.md)**
@@ -407,21 +407,21 @@ DMT 旅程的第一步是上升期，通向通常被称为“突破”的体验�
 
 ## 研究
 
-Rick Strassman 博士假设松果体负责 DMT 的产生和释放，他认为 DMT 可能在出生和死亡时刻大量排泄。[\[30\]](#参考文献) 然而，这一观点在 2018 年受到 [David E. Nichols](/文档/关于本站/index.md) 的质疑，他认为松果体分泌的 DMT 量不足以产生精神活性效应。[\[31\]](#参考文献)
+Rick Strassman 博士假设松果体负责 DMT 的产生和释放，他认为 DMT 可能在出生和死亡时刻大量排泄。\[30\] 然而，这一观点在 2018 年受到 [David E. Nichols](/文档/关于本站/index.md) 的质疑，他认为松果体分泌的 DMT 量不足以产生精神活性效应。\[31\]
 
-2019 年，Jimo Borjigin 的一项研究表明，在大鼠大脑中，制造 DMT 所需的两种酶不仅存在于松果体中，还存在于新皮层和海马体中。[\[32\]](#参考文献)
+2019 年，Jimo Borjigin 的一项研究表明，在大鼠大脑中，制造 DMT 所需的两种酶不仅存在于松果体中，还存在于新皮层和海马体中。\[32\]
 
 ### 濒死体验
 
-2018 年的一项研究发现 DMT 体验与[濒死体验](/文档/濒死体验.md)之间存在显著关系。[\[28\]](#参考文献) 2019 年的一项大规模研究发现，[氯胺酮](/药物/氯胺酮.md)、*[鼠尾草](/药物/鼠尾草素甲.md)* 和 DMT（以及其他经典致幻物质）与濒死体验有关。[\[29\]](#参考文献)
+2018 年的一项研究发现 DMT 体验与[濒死体验](/文档/濒死体验.md)之间存在显著关系。\[28\] 2019 年的一项大规模研究发现，[氯胺酮](/药物/氯胺酮.md)、*[鼠尾草](/药物/鼠尾草素甲.md)* 和 DMT（以及其他经典致幻物质）与濒死体验有关。\[29\]
 
 ### 神经发生
 
-2020 年 9 月，一项体外和体内研究表明，死藤水输液中存在的 DMT 促进神经发生。[\[26\]](#参考文献)
+2020 年 9 月，一项体外和体内研究表明，死藤水输液中存在的 DMT 促进神经发生。\[26\]
 
 ### 神经可塑性
 
-2018 年，一项研究证明了 DMT 和其他致幻剂通过 TrkB、mTOR 和 [5-HT2A](/文档/受体激动剂.md) 信号传导诱导的神经可塑性。[\[33\]](#参考文献)
+2018 年，一项研究证明了 DMT 和其他致幻剂通过 TrkB、mTOR 和 [5-HT2A](/文档/受体激动剂.md) 信号传导诱导的神经可塑性。\[33\]
 
 ## 试剂结果
 
@@ -440,7 +440,7 @@ Rick Strassman 博士假设松果体负责 DMT 的产生和释放，他认为 DM
 
 更多信息：[负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
-DMT 被认为不具成瘾性，不与任何形式的神经毒性相关，并且相对于剂量具有极低的毒性。与其他[致幻](/文档/药物分类/致幻剂.md)物质一样，急性 DMT 暴露相关的身体副作用相对较少。各种研究表明，在谨慎的背景下以合理的剂量使用，它几乎没有负面的认知、精神或身体后果。[\[9\]](#参考文献)
+DMT 被认为不具成瘾性，不与任何形式的神经毒性相关，并且相对于剂量具有极低的毒性。与其他[致幻](/文档/药物分类/致幻剂.md)物质一样，急性 DMT 暴露相关的身体副作用相对较少。各种研究表明，在谨慎的背景下以合理的剂量使用，它几乎没有负面的认知、精神或身体后果。\[9\]
 
 然而，与一般的致幻剂一样，DMT 被认为可能作为潜在诱因，触发那些有潜在精神疾病的人的发作。建议有精神疾病个人或家族史的人不要使用这种物质，除非在医疗监督下。
 
@@ -452,7 +452,7 @@ DMT 被认为不具成瘾性，不与任何形式的神经毒性相关，并且�
 
 ### 依赖性和滥用潜能
 
-与其他[血清素能致幻剂](/文档/药物分类/致幻剂.md)一样，DMT 被认为不具成瘾性，滥用潜能低。[\[9\]](#参考文献) 没有文献报道成功训练动物自我给药 DMT——这是一个预测滥用责任的动物模型——表明它不具备启动或维持依赖性所需的药理学。同样，当停止长期使用 DMT 时，实际上没有戒断综合征。\[*需要引用*\]
+与其他[血清素能致幻剂](/文档/药物分类/致幻剂.md)一样，DMT 被认为不具成瘾性，滥用潜能低。\[9\] 没有文献报道成功训练动物自我给药 DMT——这是一个预测滥用责任的动物模型——表明它不具备启动或维持依赖性所需的药理学。同样，当停止长期使用 DMT 时，实际上没有戒断综合征。\[*需要引用*\]
 
 值得注意的是，对 DMT 效果的耐受性似乎不会发生。原因尚不清楚。同样，DMT 不会与其他[致幻剂](/文档/药物分类/致幻剂.md)产生交叉耐受性，这意味着在服用 DMT 后，致幻剂的效果不会降低。
 
@@ -465,39 +465,39 @@ DMT 被认为不具成瘾性，不与任何形式的神经毒性相关，并且�
 *   **[锂](http://en.wikipedia.org/wiki/Lithium_(medication))** - 锂通常用于治疗双相情感障碍。大量轶事证据表明，将其与[致幻剂](/文档/药物分类/致幻剂.md)一起服用会显著增加[精神病](/药效/精神病发作.md)和[癫痫发作](/文档/癫痫发作.md)的风险。因此，严格不鼓励这种组合。
 *   **[大麻](/药物/大麻.md)** - 大麻可能与 DMT 的效果产生意想不到的强烈且不可预测的协同作用。这种组合建议谨慎，因为它可能显著增加不良心理反应的风险，如[焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md)、[惊恐发作](/药效/惊恐发作.md)和[精神病](/药效/精神病发作.md)。建议用户从正常大麻剂量的一小部分开始，并在抽吸之间休息很长时间，以避免无意中过量。
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像[苯丙胺](/药物/苯丙胺.md)、[可卡因](/药物/可卡因.md)或[哌甲酯](/药物/哌甲酯.md)这样的兴奋剂会影响大脑的许多部分并改变[多巴胺能](/文档/多巴胺.md)功能。这种组合可能会增加[焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md)、[惊恐发作](/药效/惊恐发作.md)和[思维循环](/药效/思维循环.md)的风险。这种相互作用也可能导致[躁狂](/药效/躁狂.md)和[精神病](/药效/精神病发作.md)的风险升高。\[*需要引用*\]
-*   **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值[\[34\]](#参考文献)，而[致幻剂](/文档/药物分类/致幻剂.md)可能会在易感个体中触发癫痫发作。\[*需要引用*\]
+*   **[曲马多](/药物/曲马多.md)** - 众所周知，曲马多会降低癫痫发作阈值\[34\]，而[致幻剂](/文档/药物分类/致幻剂.md)可能会在易感个体中触发癫痫发作。\[*需要引用*\]
 
 ## 法律地位
 
 另见：[死藤水 § 法律地位](/药物/死藤水.md)，和 [含羞草 § 法律地位](/药物/含羞草.md)
 
-在国际上，DMT 根据联合国 1971 年《精神药物公约》被归类为附表 I 管制物质，这意味着 DMT 的国际贸易应该受到严密监控，其使用应仅限于科学研究和医疗用途。含有 DMT 的天然材料，包括死藤水，不受 1971 年《精神药物公约》的监管。[\[35\]](#参考文献)[\[36\]](#参考文献)
+在国际上，DMT 根据联合国 1971 年《精神药物公约》被归类为附表 I 管制物质，这意味着 DMT 的国际贸易应该受到严密监控，其使用应仅限于科学研究和医疗用途。含有 DMT 的天然材料，包括死藤水，不受 1971 年《精神药物公约》的监管。\[35\]\[36\]
 
-*   **澳大利亚**：DMT 受毒物标准附表 9 管制。[\[37\]](#参考文献) 附表 9 药物在 1964 年《毒物法》中概述为“*可能被滥用或误用的物质，除经 CEO 批准用于医学或科学研究，或用于分析、教学或培训目的外，法律应禁止其制造、持有、销售或使用。*”[\[38\]](#参考文献) 根据 1981 年《滥用药物法》，6.0 g DMT 被认为足以确定审判法庭，2.0 g 被认为有意销售和供应。[\[39\]](#参考文献) 在 2011 年至 2012 年间，澳大利亚联邦政府曾考虑修改《澳大利亚刑法典》，将任何含有任何量 DMT 的植物归类为“受控植物”。[\[40\]](#参考文献) 根据现行法律，DMT 本身已受到管制。提议的变更包括对其他类似物质的全面禁令，例如禁止任何和所有含有麦斯卡林或麻黄碱的植物。由于意识到这将使澳大利亚的官方花卉标志金合欢（Golden Wattle）变为非法，该提议在政治尴尬后未被追究。治疗用品管理局和联邦当局曾考虑一项禁止该植物的动议，但这在 2012 年 5 月被撤回（因为 DMT 可能对土著和/或宗教人士仍具有潜在的致幻价值）。[\[41\]](#参考文献)
+*   **澳大利亚**：DMT 受毒物标准附表 9 管制。\[37\] 附表 9 药物在 1964 年《毒物法》中概述为“*可能被滥用或误用的物质，除经 CEO 批准用于医学或科学研究，或用于分析、教学或培训目的外，法律应禁止其制造、持有、销售或使用。*”\[38\] 根据 1981 年《滥用药物法》，6.0 g DMT 被认为足以确定审判法庭，2.0 g 被认为有意销售和供应。\[39\] 在 2011 年至 2012 年间，澳大利亚联邦政府曾考虑修改《澳大利亚刑法典》，将任何含有任何量 DMT 的植物归类为“受控植物”。\[40\] 根据现行法律，DMT 本身已受到管制。提议的变更包括对其他类似物质的全面禁令，例如禁止任何和所有含有麦斯卡林或麻黄碱的植物。由于意识到这将使澳大利亚的官方花卉标志金合欢（Golden Wattle）变为非法，该提议在政治尴尬后未被追究。治疗用品管理局和联邦当局曾考虑一项禁止该植物的动议，但这在 2012 年 5 月被撤回（因为 DMT 可能对土著和/或宗教人士仍具有潜在的致幻价值）。\[41\]
 *   **奥地利**：根据 SMG，持有、生产和销售 DMT 是非法的。\[*需要引用*\]
-*   **比利时**：持有、销售、购买和进口 DMT 是非法的。[\[42\]](#参考文献)
-*   **巴西**：根据 Portaria SVS/MS nº 344，持有、生产和销售 DMT 是非法的。[\[43\]](#参考文献) 关于宗教使用的规定有所放宽。\[*需要引用*\]
-*   **加拿大**：DMT 被列入《管制药物和物质法》附表 III。[\[44\]](#参考文献)
-*   **丹麦**：DMT 是 B 类管制物质。[\[45\]](#参考文献)
+*   **比利时**：持有、销售、购买和进口 DMT 是非法的。\[42\]
+*   **巴西**：根据 Portaria SVS/MS nº 344，持有、生产和销售 DMT 是非法的。\[43\] 关于宗教使用的规定有所放宽。\[*需要引用*\]
+*   **加拿大**：DMT 被列入《管制药物和物质法》附表 III。\[44\]
+*   **丹麦**：DMT 是 B 类管制物质。\[45\]
 *   **爱沙尼亚**：DMT 是附表 I 管制物质。\[*需要引用*\]
 *   **法国**：DMT 被归类为麻醉品。\[*需要引用*\]
 *   **匈牙利**：持有、生产和销售 DMT 是非法的。\[*需要引用*\]
-*   **德国**：截至 1974 年 1 月 24 日，DMT 受 Anlage I BtMG（*麻醉品法，附表 I*）[\[46\]](#参考文献)管制。[\[47\]](#参考文献) 未经许可制造、持有、进口、出口、购买、销售、采购或分发是非法的。[\[48\]](#参考文献)
-*   **爱尔兰**：根据《滥用药物法》，DMT 是附表 1 管制物质。[\[49\]](#参考文献)
-*   **以色列**：DMT 是一种非法物质。生产、贸易和持有被作为犯罪起诉。[\[50\]](#参考文献)
-*   **印度**：生产、运输、贸易或持有 DMT 是非法的。[\[51\]](#参考文献)
-*   **意大利**：DMT 是附表 I 管制物质。[\[52\]](#参考文献)
-*   **拉脱维亚**：DMT 是附表 I 管制物质。[\[53\]](#参考文献)
-*   **荷兰**：根据《鸦片法》，DMT 被归类为 Lijst 1（*清单 I*）管制物质。[\[54\]](#参考文献)
-*   **新西兰**：在新西兰，DMT 根据 1975 年《滥用药物法》被归类为 A 类管制物质。[\[55\]](#参考文献)
+*   **德国**：截至 1974 年 1 月 24 日，DMT 受 Anlage I BtMG（*麻醉品法，附表 I*）\[46\]管制。\[47\] 未经许可制造、持有、进口、出口、购买、销售、采购或分发是非法的。\[48\]
+*   **爱尔兰**：根据《滥用药物法》，DMT 是附表 1 管制物质。\[49\]
+*   **以色列**：DMT 是一种非法物质。生产、贸易和持有被作为犯罪起诉。\[50\]
+*   **印度**：生产、运输、贸易或持有 DMT 是非法的。\[51\]
+*   **意大利**：DMT 是附表 I 管制物质。\[52\]
+*   **拉脱维亚**：DMT 是附表 I 管制物质。\[53\]
+*   **荷兰**：根据《鸦片法》，DMT 被归类为 Lijst 1（*清单 I*）管制物质。\[54\]
+*   **新西兰**：在新西兰，DMT 根据 1975 年《滥用药物法》被归类为 A 类管制物质。\[55\]
 *   **挪威**：DMT 是附表 I 管制物质。\[*需要引用*\]
-*   **俄罗斯**：DMT 是 список I（*清单 I*）管制物质。持有、生产和销售是非法的。[\[56\]](#参考文献)
+*   **俄罗斯**：DMT 是 список I（*清单 I*）管制物质。持有、生产和销售是非法的。\[56\]
 *   **塞尔维亚**：DMT 是清单 4 管制物质。\[*需要引用*\]
-*   **瑞典**：DMT 受 Förteckning I（*附表 1*）管制。[\[57\]](#参考文献) 瑞典最高法院在 2018 年得出结论，持有含有大量 DMT 的加工植物材料是非法的。然而，持有未加工的此类植物材料被裁定为合法。\[*需要引用*\]
-*   **瑞士**：DMT 是 Verzeichnis D 下特别列出的管制物质。[\[58\]](#参考文献)
-*   **英国**：DMT 是 A 类管制物质。[\[59\]](#参考文献)
-*   **美国**：DMT 是附表 I 管制物质。[\[60\]](#参考文献) 然而，关于宗教使用的规定有所放宽。在美国，*含羞草*的干燥根皮长期以来一直被认为是“灰色地带”物品。然而，DEA 最近的努力似乎集中在消除树皮的互联网销售上，引用 21 USC § 841，该条款规定“（IV）任何含有任何数量的（I）至（III）分条款中提及的物质的化合物、混合物或制剂”也被视为非法物质。许多美国供应商因此开始库存 *台湾相思树* 树皮，因为它具有非常相似的生物碱含量。\[*需要引用*\]
-*   **捷克共和国**：DMT 是附表 I 管制物质。[\[61\]](#参考文献)
+*   **瑞典**：DMT 受 Förteckning I（*附表 1*）管制。\[57\] 瑞典最高法院在 2018 年得出结论，持有含有大量 DMT 的加工植物材料是非法的。然而，持有未加工的此类植物材料被裁定为合法。\[*需要引用*\]
+*   **瑞士**：DMT 是 Verzeichnis D 下特别列出的管制物质。\[58\]
+*   **英国**：DMT 是 A 类管制物质。\[59\]
+*   **美国**：DMT 是附表 I 管制物质。\[60\] 然而，关于宗教使用的规定有所放宽。在美国，*含羞草*的干燥根皮长期以来一直被认为是“灰色地带”物品。然而，DEA 最近的努力似乎集中在消除树皮的互联网销售上，引用 21 USC § 841，该条款规定“（IV）任何含有任何数量的（I）至（III）分条款中提及的物质的化合物、混合物或制剂”也被视为非法物质。许多美国供应商因此开始库存 *台湾相思树* 树皮，因为它具有非常相似的生物碱含量。\[*需要引用*\]
+*   **捷克共和国**：DMT 是附表 I 管制物质。\[61\]
 
 ## 另见
 
@@ -526,42 +526,42 @@ DMT 被认为不具成瘾性，不与任何形式的神经毒性相关，并且�
 
 ## 参考文献
 
-1.  [↑](#cite_ref-1) [Nichols, David E.](/文档/关于本站/index.md) (2016). Barker, Eric L., ed. "Psychedelics". *Pharmacological Reviews*. **68** (2): 264–355. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/pr.115.011478](//doi.org/10.1124%2Fpr.115.011478). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0081](//www.worldcat.org/issn/1521-0081). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0031-6997](//www.worldcat.org/issn/0031-6997).
-2.  [↑](#cite_ref-2) Ott, Jonathan (1994). *Ayahuasca Analogues: Pangæan Entheogens* (1st ed.). Kennewick, WA, USA: Natural Products. pp. 81–83. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-9614234-5-2](http://en.wikipedia.org/wiki/Special:BookSources/978-0-9614234-5-2). [OCLC](http://en.wikipedia.org/wiki/OCLC) [32895480](//www.worldcat.org/oclc/32895480).
-3.  [↑](#cite_ref-3) [Shulgin, Alexander](/文档/关于本站/index.md); Shulgin, Ann (1997). "DMT is Everywhere". *[TiHKAL: The Continuation](/文档/关于本站/index.md)*. United States: Transform Press. p. 277. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
-4.  [↑](#cite_ref-4) Lüscher, Christian; Ungless, Mark A. (2006). "The Mechanistic Classification of Addictive Drugs". *PLOS Medicine*. **3** (11). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1371/journal.pmed.0030437](//doi.org/10.1371%2Fjournal.pmed.0030437). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1549-1277](//www.worldcat.org/issn/1549-1277). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17105338](//www.ncbi.nlm.nih.gov/pubmed/17105338).
-5.  [↑](#cite_ref-5) Strassmann, Rick (1984). "Adverse reactions to psychedelic drugs. A review of the literature". *Journal of Nervous and Mental Disease*. **172** (10): 577–595. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/00005053-198410000-00001](//doi.org/10.1097%2F00005053-198410000-00001). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3018](//www.worldcat.org/issn/0022-3018). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1754691](//www.worldcat.org/oclc/1754691). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [6384428](//www.ncbi.nlm.nih.gov/pubmed/6384428).
-6.  [↑](#cite_ref-6) "q21q21" (September 19, 2014). ["Q21Q21 tek (and other limeteks) NOT recommended for shredded bark!"](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=563688). DMT Nexus. Retrieved January 8, 2020.
-7.  [↑](#cite_ref-7) Manske R. H. F. (1931). "A synthesis of the methyltryptamines and some derivatives". *Canadian Journal of Research*. **5** (5): 592–600. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1139/cjr31-097](//doi.org/10.1139%2Fcjr31-097). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0366-6581](//www.worldcat.org/issn/0366-6581).
-8.  [↑](#cite_ref-8) Bigwood J.; Ott J. (1977). ["DMT: the fifteen minute trip"](https://web.archive.org/web/20060127003553/http://jeremybigwood.net/JBsPUBS/DMT/). *Head*. **2** (4): 56–61. Archived from [the original](http://jeremybigwood.net/JBsPUBS/DMT/) on January 27, 2006. Retrieved November 28, 2010.
-9.  [↑](#cite_ref-9) Strassman, R. J.; Qualls, C. R.; Uhlenhuth, E. H.; Kellner, R. (1994). ["Dose-response study of N,N-dimethyltryptamine in humans. II. Subjective effects and preliminary results of a new rating scale"](http://www.maps.org/research-archive/w3pb/1994/1994_Strassman_22714_1.pdf) (PDF). *Archives of General Psychiatry*. **51** (2): 98–108. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1001/archpsyc.1994.03950020022002](//doi.org/10.1001%2Farchpsyc.1994.03950020022002). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1538-3636](//www.worldcat.org/issn/1538-3636). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2168-622X](//www.worldcat.org/issn/2168-622X). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [8297217](//www.ncbi.nlm.nih.gov/pubmed/8297217).
-10. [↑](#cite_ref-10) Ott, Jonathan (1996). *Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History* (2nd, densified ed.). Kennewick, WA: Natural Products. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-9614234-9-0](http://en.wikipedia.org/wiki/Special:BookSources/978-0-9614234-9-0).
-11. [↑](#cite_ref-11) Pachter I. J.; Zacharias D. E.; Ribeiro O. (1959). "Indole alkaloids of *Acer saccharinum* (the silver maple), *Dictyoloma incanescens*, *Piptadenia colubrina*, and *Mimosa hostilis*". *The Journal of Organic Chemistry*. **24** (9): 1285–87. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jo01091a032](//doi.org/10.1021%2Fjo01091a032). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-6904](//www.worldcat.org/issn/1520-6904). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3263](//www.worldcat.org/issn/0022-3263).
-12. [↑](#cite_ref-12) Fish M. S.; Johnson N. M.; Horning E. C. (1955). "Piptadenia alkaloids. Indole bases of *P. peregrina* (L.) Benth. and related species". *Journal of the American Chemical Society*. **72** (22): 5892–95. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/ja01627a034](//doi.org/10.1021%2Fja01627a034). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-5126](//www.worldcat.org/issn/1520-5126). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0002-7863](//www.worldcat.org/issn/0002-7863).
-13. [↑](#cite_ref-13) Cimino G.; De Stefano S. (1978). "Chemistry of Mediterranean gorgonians: simple indole derivatives from *Paramuricea chamaeleon*". *Comparative Biochemistry and Physiology C*. **61** (2): 361–2. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0306-4492(78)90070-9](//doi.org/10.1016%2F0306-4492%2878%2990070-9).
-14. [↑](#cite_ref-14) [*Erowid DMT Vault : Profiles of Psychedelic Drugs - DMT*](https://www.erowid.org/chemicals/dmt/dmt_journal1.shtml)
-15. [↑](#cite_ref-15) Fontanilla, D.; Johannessen, M.; Hajipour, A. R.; Cozzi, N. V.; Jackson, M. B.; Ruoho, A. E. (2009). ["The Hallucinogen *N*,*N*-Dimethyltryptamine (DMT) Is an Endogenous Sigma-1 Receptor Regulator"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2947205). *Science*. **323** (5916): 934–937. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1126/science.1166127](//doi.org/10.1126%2Fscience.1166127). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1095-9203](//www.worldcat.org/issn/1095-9203). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0036-8075](//www.worldcat.org/issn/0036-8075). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1644869](//www.worldcat.org/oclc/1644869). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [2947205](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2947205). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [19213917](//www.ncbi.nlm.nih.gov/pubmed/19213917).
-16. [↑](#cite_ref-16) Strassman, Rick J. (1995). "Human psychopharmacology of N,N-dimethyltryptamine". *Behavioural Brain Research*. **73** (1-2): 121–124. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0166-4328(96)00081-2](//doi.org/10.1016%2F0166-4328%2896%2900081-2). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1872-7549](//www.worldcat.org/issn/1872-7549). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0166-4328](//www.worldcat.org/issn/0166-4328). [OCLC](http://en.wikipedia.org/wiki/OCLC) [06183451](//www.worldcat.org/oclc/06183451).
-17. [↑](#cite_ref-17) <https://www.researchgate.net/figure/Representative-pharmacokinetic-profiles-of-plasma-alkaloids-over-time-from-the-same_fig7_12895750>
-18. [↑](#cite_ref-18) <https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=11514&#post11514>
-19. [↑](#cite_ref-19) <https://www.erowid.org/library/books_online/tihkal/tihkal06.shtml>
-20. [↑](#cite_ref-20) <https://wiki.dmt-nexus.me/Ingestion_Methods>
-21. [↑](#cite_ref-21) <https://www.erowid.org/plants/mimosa/mimosa_info2.shtml>
-22. [↑](#cite_ref-22) <https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=10624&p=1>
-23. [↑](#cite_ref-23) <https://www.reddit.com/r/DMT/comments/1726ldy/did_anyone_tried_dmt_boof/kol2qu0/?context=3>
-24. [↑](#cite_ref-24) Gallimore, Andrew R.; Strassman, Rick J. (2016). ["A Model for the Application of Target-Controlled Intravenous Infusion for a Prolonged Immersive DMT Psychedelic Experience"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4944667). *Frontiers in Pharmacology*. **7** (211). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fphar.2016.00211](//doi.org/10.3389%2Ffphar.2016.00211). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1663-9812](//www.worldcat.org/issn/1663-9812). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [4944667](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4944667). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [27471468](//www.ncbi.nlm.nih.gov/pubmed/27471468).
-25. [↑](#cite_ref-25) Cite error: Invalid `<ref>` tag; no text was provided for refs named `<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4773875/>`
-26. [↑](#cite_ref-26) Morales-Garcia, JA; Calleja-Conde, J; Lopez-Moreno, JA; Alonso-Gil, S; Sanz-SanCristobal, M; Riba, J; Perez-Castillo, A (28 September 2020). "N,N-dimethyltryptamine compound found in the hallucinogenic tea ayahuasca, regulates adult neurogenesis in vitro and in vivo". *Translational psychiatry*. **10** (1): 331. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/s41398-020-01011-0](//doi.org/10.1038%2Fs41398-020-01011-0). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [32989216](//www.ncbi.nlm.nih.gov/pubmed/32989216).
-27. [↑](#cite_ref-27) Cite error: Invalid `<ref>` tag; no text was provided for refs named `pmid=29898390`
-28. [↑](#cite_ref-28) Timmermann, C., Roseman, L., Williams, L., Erritzoe, D., Martial, C., Cassol, H., Laureys, S., Nutt, D., Carhart-Harris, R. (15 August 2018). ["DMT Models the Near-Death Experience"](https://www.frontiersin.org/article/10.3389/fpsyg.2018.01424/full). *Frontiers in Psychology*. **9**: 1424. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fpsyg.2018.01424](//doi.org/10.3389%2Ffpsyg.2018.01424). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1664-1078](//www.worldcat.org/issn/1664-1078).
-29. [↑](#cite_ref-29) Martial, C; Cassol, H; Charland-Verville, V; Pallavicini, C; Sanz, C; Zamberlan, F; Vivot, RM; Erowid, F; Erowid, E; Laureys, S; Greyson, B; Tagliazucchi, E (March 2019). "Neurochemical models of near-death experiences: A large-scale study based on the semantic similarity of written reports". *Consciousness and cognition*. **69**: 52–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.concog.2019.01.011](//doi.org/10.1016%2Fj.concog.2019.01.011). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [30711788](//www.ncbi.nlm.nih.gov/pubmed/30711788).
-30. [↑](#cite_ref-30) Strassman, Rick J. (2001). *DMT: The Spirit Molecule. A Doctor's Revolutionary Research into the Biology of Near-Death and Mystical Experiences*. Rochester, Vt: Park Street. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-89281-927-0](http://en.wikipedia.org/wiki/Special:BookSources/978-0-89281-927-0). [OCLC](http://en.wikipedia.org/wiki/OCLC) [45195642](//www.worldcat.org/oclc/45195642). (["Chapter summaries"](http://rickstrassman.com/index.php?option=com_content&view=article&id=61&Itemid=60). Retrieved 27 February 2012.)
-31. [↑](#cite_ref-31) [Nichols, David E.](/文档/关于本站/index.md) (2018). "*N*,*N*-dimethyltryptamine and the pineal gland: Separating fact from myth". *Journal of Psychopharmacology*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1177/0269881117736919](//doi.org/10.1177%2F0269881117736919). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1461-7285](//www.worldcat.org/issn/1461-7285). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0269-8811](//www.worldcat.org/issn/0269-8811). [OCLC](http://en.wikipedia.org/wiki/OCLC) [19962867](//www.worldcat.org/oclc/19962867). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29095071](//www.ncbi.nlm.nih.gov/pubmed/29095071).
-32. [↑](#cite_ref-32) ["'Mystical' psychedelic compound found in normal brains"](https://neurosciencenews.com/dmt-psychedelic-brain-14346/). Neuroscience News. June 27, 2019. Retrieved January 8, 2020.
-33. [↑](#cite_ref-33) Ly, Calvin; Greb, Alexandra C.; Cameron, Lindsay P.; Wong, Jonathan M.; Barragan, Eden V.; Wilson, Paige C.; Burbach, Kyle F.; Soltanzadeh Zarandi, Sina; Sood, Alexander; Paddy, Michael R.; Duim, Whitney C.; Dennis, Megan Y.; McAllister, A. Kimberley; Ori-McKenney, Kassandra M.; Gray, John A.; Olson, David E. (2018). ["Psychedelics Promote Structural and Functional Neural Plasticity"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082376/). *Cell Reports*. **23** (11): 3170–3182. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.celrep.2018.05.022](//doi.org/10.1016%2Fj.celrep.2018.05.022). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2211-1247](//www.worldcat.org/issn/2211-1247). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29898390](//www.ncbi.nlm.nih.gov/pubmed/29898390). PMC [6082376](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082376/).
-34. [↑](#cite_ref-34) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
-35. [↑](#cite_ref-35) ["Convention On Psychotropic Substances, 1971"](https://www.unodc.org/pdf/convention_1971_en.pdf) (PDF). United Nations Office on Drugs and Crime. Retrieved January 3, 2020.
-36. [↑](#cite_ref-36) Herbert Schaepe (International Narcotics Control Board) (January 17, 2001). ["International control of the preparation "ayahuasca""](https://www.erowid.org/chemicals/ayahuasca/images/archive/ayahuasca_law_undcp_fax1.jpg). Erowid. Retrieved January 8, 2020.
-37. [↑](#cite_ref-37) ["Poisons Standard December 2019"](https://www.legislation.gov.au/Details/F2019L01471). *Federal Register of Legislation*. Office of Parliamentary Counsel. November 14, 2019. Retrieved January 8, 2020.
-38. [↑](#cite_ref-38) ["Poisons Act 1964"](https://web.archive.org/web/20151222191725/http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument%3A26063P/%24FILE/Poisons%20Act%201964%20-%20%5B09-f0-04%5D.pdf?OpenElement) (PDF). State Law Publisher. July 2, 2014. Archived from [the original](http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument:26063P/$FILE/Poisons%20Act%201964%20-%20%5B09-f0-04%5D.pdf?OpenElement) (PDF) on December 22, 2015.
-39. [↑](#cite_ref-39) ["Misuse of Drugs Act 1981"](https://web.archive.org/web/20151222180141/http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument%3A28280P/%24FILE/Misuse%20Of%20Drugs%20Act%201981%20-%20%5B06-e0-00%5D.pdf?OpenElement) (PDF). State Law Publisher. Archived from [the original](http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument:28280P/$FILE/Misuse%2)
+1.  ↑ [Nichols, David E.](/文档/关于本站/index.md) (2016). Barker, Eric L., ed. "Psychedelics". *Pharmacological Reviews*. **68** (2): 264–355. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1124/pr.115.011478](//doi.org/10.1124%2Fpr.115.011478). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1521-0081](//www.worldcat.org/issn/1521-0081). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0031-6997](//www.worldcat.org/issn/0031-6997).
+2.  ↑ Ott, Jonathan (1994). *Ayahuasca Analogues: Pangæan Entheogens* (1st ed.). Kennewick, WA, USA: Natural Products. pp. 81–83. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-9614234-5-2](http://en.wikipedia.org/wiki/Special:BookSources/978-0-9614234-5-2). [OCLC](http://en.wikipedia.org/wiki/OCLC) [32895480](//www.worldcat.org/oclc/32895480).
+3.  ↑ [Shulgin, Alexander](/文档/关于本站/index.md); Shulgin, Ann (1997). "DMT is Everywhere". *[TiHKAL: The Continuation](/文档/关于本站/index.md)*. United States: Transform Press. p. 277. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
+4.  ↑ Lüscher, Christian; Ungless, Mark A. (2006). "The Mechanistic Classification of Addictive Drugs". *PLOS Medicine*. **3** (11). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1371/journal.pmed.0030437](//doi.org/10.1371%2Fjournal.pmed.0030437). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1549-1277](//www.worldcat.org/issn/1549-1277). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [17105338](//www.ncbi.nlm.nih.gov/pubmed/17105338).
+5.  ↑ Strassmann, Rick (1984). "Adverse reactions to psychedelic drugs. A review of the literature". *Journal of Nervous and Mental Disease*. **172** (10): 577–595. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/00005053-198410000-00001](//doi.org/10.1097%2F00005053-198410000-00001). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3018](//www.worldcat.org/issn/0022-3018). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1754691](//www.worldcat.org/oclc/1754691). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [6384428](//www.ncbi.nlm.nih.gov/pubmed/6384428).
+6.  ↑ "q21q21" (September 19, 2014). ["Q21Q21 tek (and other limeteks) NOT recommended for shredded bark!"](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=563688). DMT Nexus. Retrieved January 8, 2020.
+7.  ↑ Manske R. H. F. (1931). "A synthesis of the methyltryptamines and some derivatives". *Canadian Journal of Research*. **5** (5): 592–600. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1139/cjr31-097](//doi.org/10.1139%2Fcjr31-097). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0366-6581](//www.worldcat.org/issn/0366-6581).
+8.  ↑ Bigwood J.; Ott J. (1977). ["DMT: the fifteen minute trip"](https://web.archive.org/web/20060127003553/http://jeremybigwood.net/JBsPUBS/DMT/). *Head*. **2** (4): 56–61. Archived from [the original](http://jeremybigwood.net/JBsPUBS/DMT/) on January 27, 2006. Retrieved November 28, 2010.
+9.  ↑ Strassman, R. J.; Qualls, C. R.; Uhlenhuth, E. H.; Kellner, R. (1994). ["Dose-response study of N,N-dimethyltryptamine in humans. II. Subjective effects and preliminary results of a new rating scale"](http://www.maps.org/research-archive/w3pb/1994/1994_Strassman_22714_1.pdf) (PDF). *Archives of General Psychiatry*. **51** (2): 98–108. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1001/archpsyc.1994.03950020022002](//doi.org/10.1001%2Farchpsyc.1994.03950020022002). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1538-3636](//www.worldcat.org/issn/1538-3636). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2168-622X](//www.worldcat.org/issn/2168-622X). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [8297217](//www.ncbi.nlm.nih.gov/pubmed/8297217).
+10. ↑ Ott, Jonathan (1996). *Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History* (2nd, densified ed.). Kennewick, WA: Natural Products. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-9614234-9-0](http://en.wikipedia.org/wiki/Special:BookSources/978-0-9614234-9-0).
+11. ↑ Pachter I. J.; Zacharias D. E.; Ribeiro O. (1959). "Indole alkaloids of *Acer saccharinum* (the silver maple), *Dictyoloma incanescens*, *Piptadenia colubrina*, and *Mimosa hostilis*". *The Journal of Organic Chemistry*. **24** (9): 1285–87. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jo01091a032](//doi.org/10.1021%2Fjo01091a032). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-6904](//www.worldcat.org/issn/1520-6904). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3263](//www.worldcat.org/issn/0022-3263).
+12. ↑ Fish M. S.; Johnson N. M.; Horning E. C. (1955). "Piptadenia alkaloids. Indole bases of *P. peregrina* (L.) Benth. and related species". *Journal of the American Chemical Society*. **72** (22): 5892–95. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/ja01627a034](//doi.org/10.1021%2Fja01627a034). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-5126](//www.worldcat.org/issn/1520-5126). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0002-7863](//www.worldcat.org/issn/0002-7863).
+13. ↑ Cimino G.; De Stefano S. (1978). "Chemistry of Mediterranean gorgonians: simple indole derivatives from *Paramuricea chamaeleon*". *Comparative Biochemistry and Physiology C*. **61** (2): 361–2. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0306-4492(78)90070-9](//doi.org/10.1016%2F0306-4492%2878%2990070-9).
+14. ↑ [*Erowid DMT Vault : Profiles of Psychedelic Drugs - DMT*](https://www.erowid.org/chemicals/dmt/dmt_journal1.shtml)
+15. ↑ Fontanilla, D.; Johannessen, M.; Hajipour, A. R.; Cozzi, N. V.; Jackson, M. B.; Ruoho, A. E. (2009). ["The Hallucinogen *N*,*N*-Dimethyltryptamine (DMT) Is an Endogenous Sigma-1 Receptor Regulator"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2947205). *Science*. **323** (5916): 934–937. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1126/science.1166127](//doi.org/10.1126%2Fscience.1166127). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1095-9203](//www.worldcat.org/issn/1095-9203). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0036-8075](//www.worldcat.org/issn/0036-8075). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1644869](//www.worldcat.org/oclc/1644869). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [2947205](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2947205). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [19213917](//www.ncbi.nlm.nih.gov/pubmed/19213917).
+16. ↑ Strassman, Rick J. (1995). "Human psychopharmacology of N,N-dimethyltryptamine". *Behavioural Brain Research*. **73** (1-2): 121–124. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0166-4328(96)00081-2](//doi.org/10.1016%2F0166-4328%2896%2900081-2). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1872-7549](//www.worldcat.org/issn/1872-7549). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0166-4328](//www.worldcat.org/issn/0166-4328). [OCLC](http://en.wikipedia.org/wiki/OCLC) [06183451](//www.worldcat.org/oclc/06183451).
+17. ↑ <https://www.researchgate.net/figure/Representative-pharmacokinetic-profiles-of-plasma-alkaloids-over-time-from-the-same_fig7_12895750>
+18. ↑ <https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=11514&#post11514>
+19. ↑ <https://www.erowid.org/library/books_online/tihkal/tihkal06.shtml>
+20. ↑ <https://wiki.dmt-nexus.me/Ingestion_Methods>
+21. ↑ <https://www.erowid.org/plants/mimosa/mimosa_info2.shtml>
+22. ↑ <https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=10624&p=1>
+23. ↑ <https://www.reddit.com/r/DMT/comments/1726ldy/did_anyone_tried_dmt_boof/kol2qu0/?context=3>
+24. ↑ Gallimore, Andrew R.; Strassman, Rick J. (2016). ["A Model for the Application of Target-Controlled Intravenous Infusion for a Prolonged Immersive DMT Psychedelic Experience"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4944667). *Frontiers in Pharmacology*. **7** (211). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fphar.2016.00211](//doi.org/10.3389%2Ffphar.2016.00211). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1663-9812](//www.worldcat.org/issn/1663-9812). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [4944667](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4944667). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [27471468](//www.ncbi.nlm.nih.gov/pubmed/27471468).
+25. ↑ Cite error: Invalid `<ref>` tag; no text was provided for refs named `<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4773875/>`
+26. ↑ Morales-Garcia, JA; Calleja-Conde, J; Lopez-Moreno, JA; Alonso-Gil, S; Sanz-SanCristobal, M; Riba, J; Perez-Castillo, A (28 September 2020). "N,N-dimethyltryptamine compound found in the hallucinogenic tea ayahuasca, regulates adult neurogenesis in vitro and in vivo". *Translational psychiatry*. **10** (1): 331. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/s41398-020-01011-0](//doi.org/10.1038%2Fs41398-020-01011-0). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [32989216](//www.ncbi.nlm.nih.gov/pubmed/32989216).
+27. ↑ Cite error: Invalid `<ref>` tag; no text was provided for refs named `pmid=29898390`
+28. ↑ Timmermann, C., Roseman, L., Williams, L., Erritzoe, D., Martial, C., Cassol, H., Laureys, S., Nutt, D., Carhart-Harris, R. (15 August 2018). ["DMT Models the Near-Death Experience"](https://www.frontiersin.org/article/10.3389/fpsyg.2018.01424/full). *Frontiers in Psychology*. **9**: 1424. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.3389/fpsyg.2018.01424](//doi.org/10.3389%2Ffpsyg.2018.01424). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1664-1078](//www.worldcat.org/issn/1664-1078).
+29. ↑ Martial, C; Cassol, H; Charland-Verville, V; Pallavicini, C; Sanz, C; Zamberlan, F; Vivot, RM; Erowid, F; Erowid, E; Laureys, S; Greyson, B; Tagliazucchi, E (March 2019). "Neurochemical models of near-death experiences: A large-scale study based on the semantic similarity of written reports". *Consciousness and cognition*. **69**: 52–69. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.concog.2019.01.011](//doi.org/10.1016%2Fj.concog.2019.01.011). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [30711788](//www.ncbi.nlm.nih.gov/pubmed/30711788).
+30. ↑ Strassman, Rick J. (2001). *DMT: The Spirit Molecule. A Doctor's Revolutionary Research into the Biology of Near-Death and Mystical Experiences*. Rochester, Vt: Park Street. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0-89281-927-0](http://en.wikipedia.org/wiki/Special:BookSources/978-0-89281-927-0). [OCLC](http://en.wikipedia.org/wiki/OCLC) [45195642](//www.worldcat.org/oclc/45195642). (["Chapter summaries"](http://rickstrassman.com/index.php?option=com_content&view=article&id=61&Itemid=60). Retrieved 27 February 2012.)
+31. ↑ [Nichols, David E.](/文档/关于本站/index.md) (2018). "*N*,*N*-dimethyltryptamine and the pineal gland: Separating fact from myth". *Journal of Psychopharmacology*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1177/0269881117736919](//doi.org/10.1177%2F0269881117736919). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1461-7285](//www.worldcat.org/issn/1461-7285). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0269-8811](//www.worldcat.org/issn/0269-8811). [OCLC](http://en.wikipedia.org/wiki/OCLC) [19962867](//www.worldcat.org/oclc/19962867). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29095071](//www.ncbi.nlm.nih.gov/pubmed/29095071).
+32. ↑ ["'Mystical' psychedelic compound found in normal brains"](https://neurosciencenews.com/dmt-psychedelic-brain-14346/). Neuroscience News. June 27, 2019. Retrieved January 8, 2020.
+33. ↑ Ly, Calvin; Greb, Alexandra C.; Cameron, Lindsay P.; Wong, Jonathan M.; Barragan, Eden V.; Wilson, Paige C.; Burbach, Kyle F.; Soltanzadeh Zarandi, Sina; Sood, Alexander; Paddy, Michael R.; Duim, Whitney C.; Dennis, Megan Y.; McAllister, A. Kimberley; Ori-McKenney, Kassandra M.; Gray, John A.; Olson, David E. (2018). ["Psychedelics Promote Structural and Functional Neural Plasticity"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082376/). *Cell Reports*. **23** (11): 3170–3182. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.celrep.2018.05.022](//doi.org/10.1016%2Fj.celrep.2018.05.022). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2211-1247](//www.worldcat.org/issn/2211-1247). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [29898390](//www.ncbi.nlm.nih.gov/pubmed/29898390). PMC [6082376](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082376/).
+34. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+35. ↑ ["Convention On Psychotropic Substances, 1971"](https://www.unodc.org/pdf/convention_1971_en.pdf) (PDF). United Nations Office on Drugs and Crime. Retrieved January 3, 2020.
+36. ↑ Herbert Schaepe (International Narcotics Control Board) (January 17, 2001). ["International control of the preparation "ayahuasca""](https://www.erowid.org/chemicals/ayahuasca/images/archive/ayahuasca_law_undcp_fax1.jpg). Erowid. Retrieved January 8, 2020.
+37. ↑ ["Poisons Standard December 2019"](https://www.legislation.gov.au/Details/F2019L01471). *Federal Register of Legislation*. Office of Parliamentary Counsel. November 14, 2019. Retrieved January 8, 2020.
+38. ↑ ["Poisons Act 1964"](https://web.archive.org/web/20151222191725/http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument%3A26063P/%24FILE/Poisons%20Act%201964%20-%20%5B09-f0-04%5D.pdf?OpenElement) (PDF). State Law Publisher. July 2, 2014. Archived from [the original](http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument:26063P/$FILE/Poisons%20Act%201964%20-%20%5B09-f0-04%5D.pdf?OpenElement) (PDF) on December 22, 2015.
+39. ↑ ["Misuse of Drugs Act 1981"](https://web.archive.org/web/20151222180141/http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument%3A28280P/%24FILE/Misuse%20Of%20Drugs%20Act%201981%20-%20%5B06-e0-00%5D.pdf?OpenElement) (PDF). State Law Publisher. Archived from [the original](http://www.slp.wa.gov.au/pco/prod/FileStore.nsf/Documents/MRDocument:28280P/$FILE/Misuse%2)

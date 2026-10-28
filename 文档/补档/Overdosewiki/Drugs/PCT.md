@@ -6,15 +6,15 @@ description:
 # 吡拉西坦^*脑改善、反解离*^
 
 
-[¶](#吡拉西坦) 吡拉西坦
+¶ 吡拉西坦
 ================================
 
 **吡拉西坦(piracetam)** 俗称脑复康，是脑功能改善药、抗脑血管病药、抗中毒性脑病药、抗机械脑损伤药、抗镰状细胞性贫血药。
 
-[¶](#药理作用) 药理作用
+¶ 药理作用
 --------------------------------
 
-#### [¶](#作用机理尚不完全清楚1) 作用机理（尚不完全清楚）[\[1\]](#fn1)
+#### ¶ 作用机理（尚不完全清楚）\[1\]
 
 * 正变构受体：AMPA
 * 提升功能：NMDA
@@ -24,28 +24,28 @@ description:
 * 增加大脑部分的血流量、耗氧量
 
 
-#### [¶](#药物作用2有凑字数嫌疑) 药物作用[\[2\]](#fn2)【有凑字数嫌疑】
+#### ¶ 药物作用\[2\]【有凑字数嫌疑】
 
 * **主要的副作用：睡眠障碍**
 * **急性的副作用：肌肉痉挛、震颤**
 * 主要的主作用：运动机能亢进、认知感知强化、记忆力强化、梦境强化、性欲强化、[反解离](../Effects/Antidissociation.md)、反[谵妄](../Effects/Delirium.md)、焦虑抑制、抗ADHD、抗镰状细胞性贫血
 
 
-#### [¶](#药代动力学) 药代动力学
+#### ¶ 药代动力学
 
-[¶](#药物使用) 药物使用
+¶ 药物使用
 --------------------------------
 
-#### [¶](#药物品牌) 药物品牌
+#### ¶ 药物品牌
 
 吡拉西坦片【单方制剂】——  
 华意：瓶装0\.4g×1瓶×每瓶100片，价格约为18元  
 人福医药：瓶装0\.4g×1瓶×每瓶100片，价格约为19元  
 东北制药：瓶装0\.4g×1瓶×每瓶100片，价格约为19元
 
-#### [¶](#剂量-~以60kg无耐药性为标准3) 剂量 \~【以60kg，无耐药性为标准】[\[3\]](#fn3)
+#### ¶ 剂量 \~【以60kg，无耐药性为标准】\[3\]
 
-* 医学剂量：口服每次2t \~ 4t，每日3次，4 \~ 8周为一疗程。儿童量减半[\[4\]](#fn4)
+* 医学剂量：口服每次2t \~ 4t，每日3次，4 \~ 8周为一疗程。儿童量减半\[4\]
 * 起效剂量：0\.5t\~1t
 * 轻度剂量：1t\~5t
 * 中度剂量：5t\~7t
@@ -62,16 +62,16 @@ description:
 总效时：2d
 > 需注意，体重不同剂量不同，上述剂量是针对60kg的人的。你的体重除以60，再乘以上述之中的剂量，即为适应你的剂量
 
-[¶](#一些事项) 一些事项
+¶ 一些事项
 --------------------------------
 
-吡拉西坦对缺氧的逆行性遗忘有改善，例如亚硝酸钠导致的缺氧[\[5\]](#fn5)
+吡拉西坦对缺氧的逆行性遗忘有改善，例如亚硝酸钠导致的缺氧\[5\]
 
 吡拉西坦的作用机理尚不清楚，但可见的是，吡拉西坦算作一种脏药
 
-关于半数致死量。大鼠为5\.6g/kg，小鼠为20g/kg，可见急性毒性极低。作为对比，在大鼠中，维生素C为12g/kg，食盐为3g/kg[\[6\]](#fn6)
+关于半数致死量。大鼠为5\.6g/kg，小鼠为20g/kg，可见急性毒性极低。作为对比，在大鼠中，维生素C为12g/kg，食盐为3g/kg\[6\]
 
-吡拉西坦可以造成头痛，然而这病因应该是合成乙酰胆碱时缺少原料造成的。于此，你应该使用胞磷胆碱钠等可以补充胆碱的药物[\[7\]](#fn7)，来反制这种头痛
+吡拉西坦可以造成头痛，然而这病因应该是合成乙酰胆碱时缺少原料造成的。于此，你应该使用胞磷胆碱钠等可以补充胆碱的药物\[7\]，来反制这种头痛
 
 吡拉西坦的药片较大，味道较苦，但没有右美沙芬苦
 
@@ -80,16 +80,16 @@ description:
 ---
 
 
-1. [wikipeida](https://en.wikipedia.org/wiki/Piracetam) [↩︎](#fnref1)
+1. [wikipeida](https://en.wikipedia.org/wiki/Piracetam) ↩︎
 
-2. [psywiki](https://m.psychonautwiki.org/wiki/Piracetam) [↩︎](#fnref2)
+2. [psywiki](https://m.psychonautwiki.org/wiki/Piracetam) ↩︎
 
-3. [psywiki](https://m.psychonautwiki.org/wiki/Piracetam) [↩︎](#fnref3)
+3. [psywiki](https://m.psychonautwiki.org/wiki/Piracetam) ↩︎
 
-4. [baidu](https://www.baidu.com/bh/dict/ydyp_15096168322018690993?contentid=ydyp_15096168322018690993&query=%E5%90%A1%E6%8B%89%E8%A5%BF%E5%9D%A6%E5%8C%BB%E7%94%A8%E5%89%82%E9%87%8F&sf_ch=ch_search_5713&sf_ref=search&subTab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&tab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&from=dicta&isPageHome=1) [↩︎](#fnref4)
+4. [baidu](https://www.baidu.com/bh/dict/ydyp_15096168322018690993?contentid=ydyp_15096168322018690993&query=%E5%90%A1%E6%8B%89%E8%A5%BF%E5%9D%A6%E5%8C%BB%E7%94%A8%E5%89%82%E9%87%8F&sf_ch=ch_search_5713&sf_ref=search&subTab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&tab=%E7%94%A8%E6%B3%95%E7%94%A8%E9%87%8F&from=dicta&isPageHome=1) ↩︎
 
-5. [wikipeida](https://en.wikipedia.org/wiki/Piracetam) [↩︎](#fnref5)
+5. [wikipeida](https://en.wikipedia.org/wiki/Piracetam) ↩︎
 
-6. [wikipeida](https://en.wikipedia.org/wiki/Piracetam) [↩︎](#fnref6)
+6. [wikipeida](https://en.wikipedia.org/wiki/Piracetam) ↩︎
 
-7. [psywiki](https://m.psychonautwiki.org/wiki/Piracetam) [↩︎](#fnref7)
+7. [psywiki](https://m.psychonautwiki.org/wiki/Piracetam) ↩︎

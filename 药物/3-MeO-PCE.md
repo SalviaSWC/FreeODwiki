@@ -18,7 +18,7 @@ description:
 
 **3-MeO-PCE 可能比其他[解离剂](/文档/药物分类/解离剂.md)具有更高的引发[躁狂](/药效/躁狂.md)、[妄想](/药效/妄想.md)和[精神病](/药效/精神病发作.md)的风险。**
 
-强烈不建议高剂量服用该物质，也不建议连续多日服用，或与已知会增加精神病风险的其他物质[联用](/药物应对措施/药物反制_中心页.md)。详情请参阅[此部分](#毒性和伤害潜力)。
+强烈不建议高剂量服用该物质，也不建议连续多日服用，或与已知会增加精神病风险的其他物质[联用](/药物应对措施/药物反制_中心页.md)。详情请参阅此部分。
 
 | **3-MeO-PCE** |  |
 | --- | --- |
@@ -56,7 +56,7 @@ description:
 
 > **免责声明：** 这里的[剂量](/药物应对措施/准备工作.md)信息仅供教育用途，收集自用户和[网络](/关于本站/index.md)资源。这不是推荐，应与其他来源核实准确性。
 
-### [药物联用](#危险的相互作用)
+### 药物联用
 
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)**
 *   **[抑制剂](/文档/药物分类/抑制剂.md)**
@@ -71,32 +71,32 @@ description:
 
 ## 目录
 
-*   [1 化学](#化学)
-*   [2 药理学](#药理学)
-*   [3 主观效应](#主观效应)
-    *   [3.1 **躯体效应**](#躯体效应)
-    *   [3.2 **分离效应**](#分离效应)
-    *   [3.3 **听觉效应**](#听觉效应)
-    *   [3.4 **多感官效应**](#多感官效应)
-    *   [3.5 **超个人效应**](#超个人效应)
-    *   [3.6 **认知效应**](#认知效应)
-    *   [3.7 **视觉效应**](#视觉效应)
-        *   [3.7.1 增强](#增强)
-        *   [3.7.2 抑制](#抑制)
-        *   [3.7.3 扭曲](#扭曲)
-        *   [3.7.4 几何学](#几何学)
-        *   [3.7.5 幻觉状态](#幻觉状态)
-    *   [3.8 体验报告](#体验报告)
-*   [4 毒性和伤害潜力](#毒性和伤害潜力)
-    *   [4.1 精神病](#精神病)
-    *   [4.2 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    *   [4.3 泌尿道效应](#泌尿道效应)
-    *   [4.4 危险的相互作用](#危险的相互作用)
-*   [5 法律地位](#法律地位)
-*   [6 另见](#另见)
-*   [7 外部链接](#外部链接)
-*   [8 文献](#文献)
-*   [9 参考资料](#参考资料)
+*   1 化学
+*   2 药理学
+*   3 主观效应
+    *   3.1 **躯体效应**
+    *   3.2 **分离效应**
+    *   3.3 **听觉效应**
+    *   3.4 **多感官效应**
+    *   3.5 **超个人效应**
+    *   3.6 **认知效应**
+    *   3.7 **视觉效应**
+        *   3.7.1 增强
+        *   3.7.2 抑制
+        *   3.7.3 扭曲
+        *   3.7.4 几何学
+        *   3.7.5 幻觉状态
+    *   3.8 体验报告
+*   4 毒性和伤害潜力
+    *   4.1 精神病
+    *   4.2 耐受性和成瘾潜力
+    *   4.3 泌尿道效应
+    *   4.4 危险的相互作用
+*   5 法律地位
+*   6 另见
+*   7 外部链接
+*   8 文献
+*   9 参考资料
 
 ## 化学
 
@@ -309,18 +309,18 @@ description:
 
 ## 参考资料
 
-1.  ↑ [1.0](#cite_ref-psychosis2_1-0) [1.1](#cite_ref-psychosis2_1-1) 3-MeO-PCE Psychosis (PsychonautWiki)
-2.  [↑](#cite_ref-2) 3-MeO-PCE - Explore - Google Trends | <https://www.google.com/trends/explore?date=all&q=3-MeO-PCE>
-3.  [↑](#cite_ref-3) Wallach, J., Colestock, T., Cicali, B., Elliott, S. P., Kavanagh, P. V., Adejare, A., Dempster, N. M., Brandt, S. D. (August 2016). "Syntheses and analytical characterizations of N-alkyl-arylcyclohexylamines". *Drug Testing and Analysis*. **8** (8): 801–815. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/dta.1861](//doi.org/10.1002%2Fdta.1861). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1942-7611](//www.worldcat.org/issn/1942-7611).
-4.  [↑](#cite_ref-4) De Paoli, G., Brandt, S. D., Wallach, J., Archer, R. P., Pounder, D. J. (1 June 2013). ["From the Street to the Laboratory: Analytical Profiles of Methoxetamine, 3-Methoxyeticyclidine and 3-Methoxyphencyclidine and their Determination in Three Biological Matrices"](https://academic.oup.com/jat/article-lookup/doi/10.1093/jat/bkt023). *Journal of Analytical Toxicology*. **37** (5): 277–283. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/jat/bkt023](//doi.org/10.1093%2Fjat%2Fbkt023). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0146-4760](//www.worldcat.org/issn/0146-4760).
-5.  [↑](#cite_ref-5) [*nsddb.eu*](http://nsddb.eu/substance/296/)
-6.  [↑](#cite_ref-6) Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., Iversen, L. (22 March 2018). ["Correction: The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194984). *PLOS ONE*. **13** (3): e0194984. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1371/journal.pone.0194984](//doi.org/10.1371%2Fjournal.pone.0194984). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1932-6203](//www.worldcat.org/issn/1932-6203).
-7.  [↑](#cite_ref-7) 3-MeO-PCE (TripSit) | <https://wiki.tripsit.me/wiki/3-MeO-PCE>
-8.  [↑](#cite_ref-8) <https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch>
-9.  [↑](#cite_ref-9) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-11. [↑](#cite_ref-11) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-12. [↑](#cite_ref-12) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-13. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_13-0) [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
-14. [↑](#cite_ref-List_of_illegal_substances_for_law_14-0) <https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf>
-15. [↑](#cite_ref-15) [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)
+1.  ↑ 1.0 1.1 3-MeO-PCE Psychosis (PsychonautWiki)
+2.  ↑ 3-MeO-PCE - Explore - Google Trends | <https://www.google.com/trends/explore?date=all&q=3-MeO-PCE>
+3.  ↑ Wallach, J., Colestock, T., Cicali, B., Elliott, S. P., Kavanagh, P. V., Adejare, A., Dempster, N. M., Brandt, S. D. (August 2016). "Syntheses and analytical characterizations of N-alkyl-arylcyclohexylamines". *Drug Testing and Analysis*. **8** (8): 801–815. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/dta.1861](//doi.org/10.1002%2Fdta.1861). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1942-7611](//www.worldcat.org/issn/1942-7611).
+4.  ↑ De Paoli, G., Brandt, S. D., Wallach, J., Archer, R. P., Pounder, D. J. (1 June 2013). ["From the Street to the Laboratory: Analytical Profiles of Methoxetamine, 3-Methoxyeticyclidine and 3-Methoxyphencyclidine and their Determination in Three Biological Matrices"](https://academic.oup.com/jat/article-lookup/doi/10.1093/jat/bkt023). *Journal of Analytical Toxicology*. **37** (5): 277–283. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bkt023](//doi.org/10.1093%2Fjat%2Fbkt023). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0146-4760](//www.worldcat.org/issn/0146-4760).
+5.  ↑ [*nsddb.eu*](http://nsddb.eu/substance/296/)
+6.  ↑ Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., Iversen, L. (22 March 2018). ["Correction: The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194984). *PLOS ONE*. **13** (3): e0194984. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1371/journal.pone.0194984](//doi.org/10.1371%2Fjournal.pone.0194984). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1932-6203](//www.worldcat.org/issn/1932-6203).
+7.  ↑ 3-MeO-PCE (TripSit) | <https://wiki.tripsit.me/wiki/3-MeO-PCE>
+8.  ↑ <https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch>
+9.  ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+10. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+11. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+12. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+13. ↑ [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
+14. ↑ <https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf>
+15. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)

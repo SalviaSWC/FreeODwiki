@@ -19,43 +19,43 @@
 | 精神活性分类                                                                                    | *[大麻类](/文档/药物分类/大麻类.md)*                             |
 | 化学分类                                                                                      | *[吲唑甲酰胺类物质](/文档/药物分类/吲唑甲酰胺类物质.md)*                   |
 | [给药途径](/文档/给药途径.md)                                                                       |                                                      |
-| - **警告：**由于个体体重、耐受、代谢和个人敏感性都不一样嘛，请务必从更低剂量开始。[参见负责任用药章节](/文档/负责任的用药索引页.md)。                | ⇣ [抽吸](/文档/给药途径.md#抽吸)                               |
+| - **警告：**由于个体体重、耐受、代谢和个人敏感性都不一样嘛，请务必从更低剂量开始。[参见负责任用药章节](/文档/负责任的用药索引页.md)。                | ⇣ [抽吸](/文档/给药途径.md)                               |
 | [给药剂量](/文档/给药剂量.md)                                                                       |                                                      |
-| [阈值](/文档/药物剂量分类.md#阈值)                                                                    | <0.2mg                                               |
-| [轻微](/文档/药物剂量分类.md#轻微)                                                                    | 0.2-0.4mg                                            |
-| [中等](/文档/药物剂量分类.md#中等)                                                                    | 0.4-0.6mg                                            |
-| [强烈](/文档/药物剂量分类.md#强烈)                                                                    | 0.6-0.8mg                                            |
-| [严重](/文档/药物剂量分类.md#严重)                                                                    | 0.8mg+                                               |
+| [阈值](/文档/药物剂量分类.md)                                                                    | <0.2mg                                               |
+| [轻微](/文档/药物剂量分类.md)                                                                    | 0.2-0.4mg                                            |
+| [中等](/文档/药物剂量分类.md)                                                                    | 0.4-0.6mg                                            |
+| [强烈](/文档/药物剂量分类.md)                                                                    | 0.6-0.8mg                                            |
+| [严重](/文档/药物剂量分类.md)                                                                    | 0.8mg+                                               |
 | [药效时长](/文档/药效时长.md)                                                                       |                                                      |
-| [总时长](/文档/药效时长.md#总时长)                                                                    | 1-2小时                                                |
-| [药效发作](/文档/药效时长.md#药效发作)                                                                  | 0-5分钟                                                |
-| [药效残余](/文档/药效时长.md#药效残余)                                                                  | 2-4小时                                                |
+| [总时长](/文档/药效时长.md)                                                                    | 1-2小时                                                |
+| [药效发作](/文档/药效时长.md)                                                                  | 0-5分钟                                                |
+| [药效残余](/文档/药效时长.md)                                                                  | 2-4小时                                                |
 | **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为教育用途，整理自用户与资源，并不构成推荐，准确性还请结合其他来源再核实哦。 |                                                      |
 
 **AB-CHMINACA**（**N-[(2S)-1-氨基-3-甲基-1-氧代丁-2-基]-1-(环己基甲基)吲唑-3-甲酰胺**）是一种对[大麻素受体](/文档/受体.md)具有强效激动作用的药物，会产生某种程度上类似于[大麻](/药物/大麻.md)的主观效应。它由辉瑞开发，并在2009年的一项专利中被公开为一种潜在的镇痛药物，不过后来并没有继续推进到人体使用。它最早于2014年2月在美国海关的查获中被发现，当时是一批来自中国、重量达一公斤的化学品；之后又在2014年3月的草本混合物中被检出呢。
 
-大麻类通常会通过抽吸或雾化来获得更快的[药效发作](/文档/药效时长.md#药效发作)与迅速的[药效褪去](/文档/药效时长.md#药效褪去)。和其他[大麻类](/文档/药物分类/大麻类.md)一样，AB-CHMINACA不溶于水，但可溶于[酒精](/药物/酒精.md)和脂质。
+大麻类通常会通过抽吸或雾化来获得更快的[药效发作](/文档/药效时长.md)与迅速的[药效褪去](/文档/药效时长.md)。和其他[大麻类](/文档/药物分类/大麻类.md)一样，AB-CHMINACA不溶于水，但可溶于[酒精](/药物/酒精.md)和脂质。
 
 与[大麻](/药物/大麻.md)不同，长期滥用[合成大麻素类物质](/文档/药物分类/合成大麻素类物质.md)通常与多起死亡事件以及更危险的副作用和毒性有关。因此呢，非常不建议长时间或大剂量使用这种物质哦。
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 躯体效应](#躯体效应)
-  * [3.2 视觉效应](#视觉效应)
-  * [3.3 认知效应](#认知效应)
-  * [3.4 听觉效应](#听觉效应)
-  * [3.5 体验报告](#体验报告)
-* [4 毒性与伤害可能性](#毒性与伤害可能性)
+  * 3.1 躯体效应
+  * 3.2 视觉效应
+  * 3.3 认知效应
+  * 3.4 听觉效应
+  * 3.5 体验报告
+* 4 毒性与伤害可能性
 
-  * [4.1 依赖性与滥用潜力](#依赖性与滥用潜力)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+  * 4.1 依赖性与滥用潜力
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 <a id="化学"></a>
 化学
@@ -136,7 +136,7 @@ _**免责声明：**以下列出的效应引用自[***主观效应索引***](/�
 毒性与伤害可能性
 --------
 
-更多信息：[合成大麻素类物质§毒性与伤害可能性](/文档/药物分类/合成大麻素类物质.md#毒性与伤害可能性)与[研究用化学品§毒性与伤害可能性](/文档/研究用化学品.md#毒性与伤害可能性)
+更多信息：[合成大麻素类物质§毒性与伤害可能性](/文档/药物分类/合成大麻素类物质.md)与[研究用化学品§毒性与伤害可能性](/文档/研究用化学品.md)
 
 娱乐性使用AB-CHMINACA的毒性与长期健康影响，似乎尚未在任何科学语境下被研究过，而其确切中毒剂量也未知。这是因为AB-CHMINACA几乎没有什么人类使用史。社区中尝试过AB-CHMINACA的人所提供的轶事证据表明，单独以低到中等剂量偶尔使用时，似乎并不会带来明显的负面健康影响，不过嘛，这一点当然也没法被完全保证。非正式实验表明，过量使用会在远低于真正危险剂量的水平下就引发身体不适，包括心悸、眩晕和镇静，通常还会让使用者承受大量[焦虑](/药效/焦虑.md)，或者直接睡着。
 
@@ -188,22 +188,22 @@ _**免责声明：**以下列出的效应引用自[***主观效应索引***](/�
 参考文献
 ----
 
-1. [↑](#cite_ref-1) (WO2009106980) INDAZOLE DERIVATIVES (Patentscope) | [https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2009106980](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2009106980)
-2. [↑](#cite_ref-2) Drug and Chemical Evaluation Section, Office of Diversion Control, Drug Enforcement Administration (December 2014). "N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (AB-CHMINACA), N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) and\[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone(THJ-2201) - Background Information and Evaluation of 'Three Factor Analysis' (Factors 4, 5, and 6) for Temporary Scheduling". | [https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf](https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf)
-3. [↑](#cite_ref-3) Wiley JL, Marusich JA, Lefever TW, et al. AB-CHMINACA, AB-PINACA, and FUBIMINA: Affinity and Potency of Novel Synthetic Cannabinoids in Producing Δ9-Tetrahydrocannabinol–Like Effects in Mice. The Journal of Pharmacology and Experimental Therapeutics. 2015;354(3):328-339. doi:10.1124/jpet.115.225326. | [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538877/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538877/)
-4. [↑](#cite_ref-4) Mechoulam, R. (1984). Cannabinoids as therapeutic agents. Boca Raton, FL: CRC Press. ISBN 0-8493-5772-1.
+1. ↑ (WO2009106980) INDAZOLE DERIVATIVES (Patentscope) | [https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2009106980](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2009106980)
+2. ↑ Drug and Chemical Evaluation Section, Office of Diversion Control, Drug Enforcement Administration (December 2014). "N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (AB-CHMINACA), N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) and\[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone(THJ-2201) - Background Information and Evaluation of 'Three Factor Analysis' (Factors 4, 5, and 6) for Temporary Scheduling". | [https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf](https://www.grassley.senate.gov/sites/default/files/news/upload/3-factor%20analysis%20AB-CHMINACA%20AB-PINACA%20THJ2201%2012172014.pdf)
+3. ↑ Wiley JL, Marusich JA, Lefever TW, et al. AB-CHMINACA, AB-PINACA, and FUBIMINA: Affinity and Potency of Novel Synthetic Cannabinoids in Producing Δ9-Tetrahydrocannabinol–Like Effects in Mice. The Journal of Pharmacology and Experimental Therapeutics. 2015;354(3):328-339. doi:10.1124/jpet.115.225326. | [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538877/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538877/)
+4. ↑ Mechoulam, R. (1984). Cannabinoids as therapeutic agents. Boca Raton, FL: CRC Press. ISBN 0-8493-5772-1.
 5. ↑   How Marijuana Works | [http://science.howstuffworks.com/marijuana4.htm](http://science.howstuffworks.com/marijuana4.htm)
 6. ↑   Causal association between cannabis and psychosis: examination of the evidence - The British Journal of Psychiatry Jan 2004, 184 (2) 110-117 | [http://bjp.rcpsych.org/content/184/2/110.short](http://bjp.rcpsych.org/content/184/2/110.short)
 7. ↑   Every-Palmer, S. [Synthetic cannabinoid](/文档/药物分类/合成大麻素类物质.md) use and psychosis: an explorative study. Journal of Drug and Alcohol Dependence 2011.
 8. ↑   “Spice” Girls: Synthetic Cannabinoid Intoxication - The Journal of Emergency Medicine Volume 40, Issue 3, March 2011, Pages 296–299 (ScienceDirect) | [http://www.sciencedirect.com/science/article/pii/S0736467910008802](http://www.sciencedirect.com/science/article/pii/S0736467910008802)
 9. ↑   A Teenager With Agitation: Higher Than She Should Have Climbed - Pediatric Emergency Care: June 2010 - Volume 26 - Issue 6 - pp 462-465 | [http://journals.lww.com/pec-online/Abstract/2010/06000/A_Teenager_With_Agitation__Higher_Than_She_Should.16.aspx](http://journals.lww.com/pec-online/Abstract/2010/06000/A_Teenager_With_Agitation__Higher_Than_She_Should.16.aspx)
-10. [↑](#cite_ref-10) Synthetic Cannabinoid–Related Illnesses and Deaths | [http://www.nejm.org/doi/full/10.1056/NEJMp1505328](http://www.nejm.org/doi/full/10.1056/NEJMp1505328)
-11. [↑](#cite_ref-11) Suicide attempt with a mix of [synthetic cannabinoids](/文档/药物分类/合成大麻素类物质.md) and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC | [http://www.fsijournal.org/article/S0379-0738(16)00037-2/abstract](http://www.fsijournal.org/article/S0379-0738%2816%2900037-2/abstract)
-12. [↑](#cite_ref-12) List of controlled substances: Portaria SVS/MS nº 344 (Portuguese) | [http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial](http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial)
-13. [↑](#cite_ref-13) 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | [http://www.sfda.gov.cn/WS01/CL0056/130753.html](http://www.sfda.gov.cn/WS01/CL0056/130753.html)
-14. [↑](#cite_ref-14) ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 30, 2019.
-15. [↑](#cite_ref-15) ["Neunundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl115s0723.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2015 Teil I Nr. 19* (in German). Bundesanzeiger Verlag. May 22, 2015. pp. 723–724. Retrieved December 19, 2019.
-16. [↑](#cite_ref-16) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
-17. [↑](#cite_ref-17) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Der Bundesrat. Retrieved December 29, 2019.
-18. [↑](#cite_ref-18) The Misuse of Drugs Act 1971 (Amendment) Order 2016 (Legislation.gov.uk) | [http://www.legislation.gov.uk/uksi/2016/1109/made](http://www.legislation.gov.uk/uksi/2016/1109/made)
-19. [↑](#cite_ref-19) Federal Register Vol. 80 No. 20, Friday January 30, 2015. "Schedules of Controlled Substances: Temporary Placement of Three Synthetic Cannabinoids Into Schedule I" (GPO.gov) | [https://www.gpo.gov/fdsys/pkg/FR-2015-01-30/pdf/2015-01776.pdf](https://www.gpo.gov/fdsys/pkg/FR-2015-01-30/pdf/2015-01776.pdf)
+10. ↑ Synthetic Cannabinoid–Related Illnesses and Deaths | [http://www.nejm.org/doi/full/10.1056/NEJMp1505328](http://www.nejm.org/doi/full/10.1056/NEJMp1505328)
+11. ↑ Suicide attempt with a mix of [synthetic cannabinoids](/文档/药物分类/合成大麻素类物质.md) and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC | [http://www.fsijournal.org/article/S0379-0738(16)00037-2/abstract](http://www.fsijournal.org/article/S0379-0738%2816%2900037-2/abstract)
+12. ↑ List of controlled substances: Portaria SVS/MS nº 344 (Portuguese) | [http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial](http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial)
+13. ↑ 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | [http://www.sfda.gov.cn/WS01/CL0056/130753.html](http://www.sfda.gov.cn/WS01/CL0056/130753.html)
+14. ↑ ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 30, 2019.
+15. ↑ ["Neunundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl115s0723.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2015 Teil I Nr. 19* (in German). Bundesanzeiger Verlag. May 22, 2015. pp. 723–724. Retrieved December 19, 2019.
+16. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
+17. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Der Bundesrat. Retrieved December 29, 2019.
+18. ↑ The Misuse of Drugs Act 1971 (Amendment) Order 2016 (Legislation.gov.uk) | [http://www.legislation.gov.uk/uksi/2016/1109/made](http://www.legislation.gov.uk/uksi/2016/1109/made)
+19. ↑ Federal Register Vol. 80 No. 20, Friday January 30, 2015. "Schedules of Controlled Substances: Temporary Placement of Three Synthetic Cannabinoids Into Schedule I" (GPO.gov) | [https://www.gpo.gov/fdsys/pkg/FR-2015-01-30/pdf/2015-01776.pdf](https://www.gpo.gov/fdsys/pkg/FR-2015-01-30/pdf/2015-01776.pdf)

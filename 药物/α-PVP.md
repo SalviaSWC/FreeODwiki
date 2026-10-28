@@ -68,26 +68,26 @@ description:
 关于 α-PVP 的药理特性、代谢和毒性的数据非常少。鉴于其强效的心理刺激作用和未知的毒性特征，如果非要使用这种物质，**非常建议**采取 [伤害减少措施](/文档/负责任的用药索引页.md) 哦。
 
 ## 目录
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 生理效应](#生理效应)
-    * [3.2 视觉效应](#视觉效应)
-        * [3.2.1 幻觉状态](#幻觉状态)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 听觉效应](#听觉效应)
-    * [3.5 药效残余](#药效残余)
-    * [3.6 体验报告](#体验报告)
-* [4 毒性和危害](#毒性和危害)
-    * [4.1 依赖性和滥用潜力](#依赖性和滥用潜力)
-    * [4.2 精神病](#精神病)
-    * [4.3 ⚠️ 危险的相互作用](#⚠️_危险的相互作用)
-        * [4.3.1 血清素综合征风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 文献](#文献)
-* [9 参考资料](#参考资料)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 生理效应
+    * 3.2 视觉效应
+        * 3.2.1 幻觉状态
+    * 3.3 认知效应
+    * 3.4 听觉效应
+    * 3.5 药效残余
+    * 3.6 体验报告
+* 4 毒性和危害
+    * 4.1 依赖性和滥用潜力
+    * 4.2 精神病
+    * 4.3 ⚠️ 危险的相互作用
+        * 4.3.1 血清素综合征风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 文献
+* 9 参考资料
 
 ## 化学
 
@@ -301,28 +301,28 @@ _**免责声明：** 下面列出的效应引用了 [**主观效应索引**](/�
 
 ## 参考资料
 
-1. [↑](#cite_ref-1) Wander, A. (1963), ‘α-Pyrrolidino valerophenones’, patent specification 9274
-2. ↑ [2.00](#cite_ref-EMCDDA_2-0) [2.01](#cite_ref-EMCDDA_2-1) [2.02](#cite_ref-EMCDDA_2-2) [2.03](#cite_ref-EMCDDA_2-3) [2.04](#cite_ref-EMCDDA_2-4) [2.05](#cite_ref-EMCDDA_2-5) [2.06](#cite_ref-EMCDDA_2-6) [2.07](#cite_ref-EMCDDA_2-7) [2.08](#cite_ref-EMCDDA_2-8) [2.09](#cite_ref-EMCDDA_2-9) [2.10](#cite_ref-EMCDDA_2-10) [2.11](#cite_ref-EMCDDA_2-11) [2.12](#cite_ref-EMCDDA_2-12) [2.13](#cite_ref-EMCDDA_2-13) [2.14](#cite_ref-EMCDDA_2-14) [2.15](#cite_ref-EMCDDA_2-15) [2.16](#cite_ref-EMCDDA_2-16) [2.17](#cite_ref-EMCDDA_2-17) [2.18](#cite_ref-EMCDDA_2-18) [2.19](#cite_ref-EMCDDA_2-19) [2.20](#cite_ref-EMCDDA_2-20) ["α-PVP: EMCDDA–Europol Joint Report on a new psychoactive substance: 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone (α-PVP)"](http://www.emcdda.europa.eu/system/files/publications/1814/TDAS15001ENN.pdf) (PDF). European Monitoring Centre for Drugs and Drug Addiction. Retrieved December 25, 2019.
-3. [↑](#cite_ref-MarusichAntonazzo2014_3-0) Marusich, Julie A.; Antonazzo, Kateland R.; Wiley, Jenny L.; Blough, Bruce E.; Partilla, John S.; Baumann, Michael H. (2014). "Pharmacology of novel synthetic stimulants structurally related to the "bath salts" constituent 3,4-methylenedioxypyrovalerone (MDPV)". *Neuropharmacology*. **87**: 206–213. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.neuropharm.2014.02.016](//doi.org/10.1016%2Fj.neuropharm.2014.02.016). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0028-3908](//www.worldcat.org/issn/0028-3908).
-4. [↑](#cite_ref-4) Marinetti, L. J., Antonides, H. M. (April 2013). "Analysis of synthetic cathinones commonly found in bath salts in human performance and postmortem toxicology: method development, drug distribution and interpretation of results". *Journal of Analytical Toxicology*. **37** (3): 135–146. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bks136](//doi.org/10.1093%2Fjat%2Fbks136). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1945-2403](//www.worldcat.org/issn/1945-2403).
-5. [↑](#cite_ref-5) <http://www.aafs.org/sites/default/files/pdf/ProceedingsWashingtonDC2013.pdf>
-6. [↑](#cite_ref-6) [*Cheap, synthetic “flakka” dethroning cocaine on Florida drug scene*](http://news.yahoo.com/cheap-synthetic-flakka-dethroning-cocaine-florida-drug-scene-140910992.html)
-7. [↑](#cite_ref-7) Klavž, J., Gorenjak, M., Marinšek, M. (1 August 2016). ["Suicide attempt with a mix of synthetic cannabinoids and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC"](https://www.sciencedirect.com/science/article/pii/S0379073816000372). *Forensic Science International*. **265**: 121–124. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2016.01.018](//doi.org/10.1016%2Fj.forsciint.2016.01.018). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738).
-8. [↑](#cite_ref-8) Sykutera, M., Cychowska, M., Bloch-Boguslawska, E. (May 2015). "A Fatal Case of Pentedrone and α-Pyrrolidinovalerophenone Poisoning". *Journal of Analytical Toxicology*. **39** (4): 324–329. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bkv011](//doi.org/10.1093%2Fjat%2Fbkv011). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1945-2403](//www.worldcat.org/issn/1945-2403).
-9. [↑](#cite_ref-9) National Institute on Drug Abuse, [*Emerging Trends*](https://nida.nih.gov/research-topics/emerging-trends-alerts)
-10. ↑ [10.0](#cite_ref-amppsychosis_10-0) [10.1](#cite_ref-amppsychosis_10-1) [10.2](#cite_ref-amppsychosis_10-2) Shoptaw, S. J., Kao, U., Ling, W. W. (8 October 2008). "The Cochrane Database of Systematic Reviews (Complete Reviews)". In The Cochrane Collaboration. [*Treatment for amphetamine psychosis*](https://doi.wiley.com/10.1002/14651858.CD003026.pub2). John Wiley & Sons, Ltd. pp. CD003026.pub2. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub2](//doi.org/10.1002%2F14651858.CD003026.pub2).
-11. [↑](#cite_ref-11) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1 "Category:CS1 maint: Extra text (page does not exist)"))
-12. [↑](#cite_ref-12) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
-13. [↑](#cite_ref-13) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-14. [↑](#cite_ref-14) ["Council Implementing (EU) 2016/1070"](https://op.europa.eu/o/opportal-service/download-handler?identifier=2f352aaa-3fdb-11e6-af30-01aa75ed71a1&format=pdfa1a&language=en&productionSystem=cellar&part=). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published July 2, 2016). June 27, 2016. pp. 18–20. [OCLC](http://en.wikipedia.org/wiki/OCLC) [52224955](//www.worldcat.org/oclc/52224955). L 178.
-15. [↑](#cite_ref-15) <https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2019_II_167/BGBLA_2019_II_167.pdfsig>
-16. [↑](#cite_ref-16) <http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=N&cn=1998012251&table_name=wet>
-17. [↑](#cite_ref-17) <http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7>
-18. [↑](#cite_ref-18) 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | <http://www.sfda.gov.cn/WS01/CL0056/130753.html>
-19. [↑](#cite_ref-19) Látky, o které byl doplněn seznam č. 4 psychotropních látek (příloha č. 4 k nařízení vlády č. 463/2013 Sb.) | <http://www.mzcr.cz/Admin/_upload/files/3/Nov%C3%A9%20PL.pdf>
-20. [↑](#cite_ref-20) ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-21. [↑](#cite_ref-21) ["Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl113s2274.pdf%27%5D) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
-22. [↑](#cite_ref-22) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
-23. [↑](#cite_ref-23) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-24. [↑](#cite_ref-24) [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)
-25. [↑](#cite_ref-25) <http://www.deadiversion.usdoj.gov/fed_regs/rules/2014/fr0128.htm>
+1. ↑ Wander, A. (1963), ‘α-Pyrrolidino valerophenones’, patent specification 9274
+2. ↑ 2.00 2.01 2.02 2.03 2.04 2.05 2.06 2.07 2.08 2.09 2.10 2.11 2.12 2.13 2.14 2.15 2.16 2.17 2.18 2.19 2.20 ["α-PVP: EMCDDA–Europol Joint Report on a new psychoactive substance: 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone (α-PVP)"](http://www.emcdda.europa.eu/system/files/publications/1814/TDAS15001ENN.pdf) (PDF). European Monitoring Centre for Drugs and Drug Addiction. Retrieved December 25, 2019.
+3. ↑ Marusich, Julie A.; Antonazzo, Kateland R.; Wiley, Jenny L.; Blough, Bruce E.; Partilla, John S.; Baumann, Michael H. (2014). "Pharmacology of novel synthetic stimulants structurally related to the "bath salts" constituent 3,4-methylenedioxypyrovalerone (MDPV)". *Neuropharmacology*. **87**: 206–213. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.neuropharm.2014.02.016](//doi.org/10.1016%2Fj.neuropharm.2014.02.016). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0028-3908](//www.worldcat.org/issn/0028-3908).
+4. ↑ Marinetti, L. J., Antonides, H. M. (April 2013). "Analysis of synthetic cathinones commonly found in bath salts in human performance and postmortem toxicology: method development, drug distribution and interpretation of results". *Journal of Analytical Toxicology*. **37** (3): 135–146. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bks136](//doi.org/10.1093%2Fjat%2Fbks136). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1945-2403](//www.worldcat.org/issn/1945-2403).
+5. ↑ <http://www.aafs.org/sites/default/files/pdf/ProceedingsWashingtonDC2013.pdf>
+6. ↑ [*Cheap, synthetic “flakka” dethroning cocaine on Florida drug scene*](http://news.yahoo.com/cheap-synthetic-flakka-dethroning-cocaine-florida-drug-scene-140910992.html)
+7. ↑ Klavž, J., Gorenjak, M., Marinšek, M. (1 August 2016). ["Suicide attempt with a mix of synthetic cannabinoids and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC"](https://www.sciencedirect.com/science/article/pii/S0379073816000372). *Forensic Science International*. **265**: 121–124. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2016.01.018](//doi.org/10.1016%2Fj.forsciint.2016.01.018). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738).
+8. ↑ Sykutera, M., Cychowska, M., Bloch-Boguslawska, E. (May 2015). "A Fatal Case of Pentedrone and α-Pyrrolidinovalerophenone Poisoning". *Journal of Analytical Toxicology*. **39** (4): 324–329. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/jat/bkv011](//doi.org/10.1093%2Fjat%2Fbkv011). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1945-2403](//www.worldcat.org/issn/1945-2403).
+9. ↑ National Institute on Drug Abuse, [*Emerging Trends*](https://nida.nih.gov/research-topics/emerging-trends-alerts)
+10. ↑ 10.0 10.1 10.2 Shoptaw, S. J., Kao, U., Ling, W. W. (8 October 2008). "The Cochrane Database of Systematic Reviews (Complete Reviews)". In The Cochrane Collaboration. [*Treatment for amphetamine psychosis*](https://doi.wiley.com/10.1002/14651858.CD003026.pub2). John Wiley & Sons, Ltd. pp. CD003026.pub2. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub2](//doi.org/10.1002%2F14651858.CD003026.pub2).
+11. ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+12. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+13. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912(17)34956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.png/langen-gb-20px-Lock-green.png.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+14. ↑ ["Council Implementing (EU) 2016/1070"](https://op.europa.eu/o/opportal-service/download-handler?identifier=2f352aaa-3fdb-11e6-af30-01aa75ed71a1&format=pdfa1a&language=en&productionSystem=cellar&part=). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published July 2, 2016). June 27, 2016. pp. 18–20. [OCLC](http://en.wikipedia.org/wiki/OCLC) [52224955](//www.worldcat.org/oclc/52224955). L 178.
+15. ↑ <https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2019_II_167/BGBLA_2019_II_167.pdfsig>
+16. ↑ <http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=N&cn=1998012251&table_name=wet>
+17. ↑ <http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7>
+18. ↑ 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | <http://www.sfda.gov.cn/WS01/CL0056/130753.html>
+19. ↑ Látky, o které byl doplněn seznam č. 4 psychotropních látek (příloha č. 4 k nařízení vlády č. 463/2013 Sb.) | <http://www.mzcr.cz/Admin/_upload/files/3/Nov%C3%A9%20PL.pdf>
+20. ↑ ["Anlage II BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+21. ↑ ["Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl113s2274.pdf%27%5D) (in German). Bundesanzeiger Verlag. Retrieved December 18, 2019.
+22. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 18, 2019.
+23. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+24. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)
+25. ↑ <http://www.deadiversion.usdoj.gov/fed_regs/rules/2014/fr0128.htm>

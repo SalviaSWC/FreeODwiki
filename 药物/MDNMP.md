@@ -20,21 +20,21 @@
 
 | [给药途径](/文档/给药途径.md)                                                          |                        |
 | ---------------------------------------------------------------------------- | ---------------------- |
-| - **警告：**由于个体体重、耐受、代谢与个人敏感性都存在差异，务必要从更低剂量开始哦。可参见[负责任用药章节](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **警告：**由于个体体重、耐受、代谢与个人敏感性都存在差异，务必要从更低剂量开始哦。可参见[负责任用药章节](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |            |
 | ---------------------- | ---------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 5 mg       |
-| [轻微](/文档/药物剂量分类.md#轻微) | 10 - 20 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 20 - 40 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 40 - 80 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 80 mg +    |
+| [阈值](/文档/药物剂量分类.md) | 5 mg       |
+| [轻微](/文档/药物剂量分类.md) | 10 - 20 mg |
+| [中等](/文档/药物剂量分类.md) | 20 - 40 mg |
+| [强烈](/文档/药物剂量分类.md) | 40 - 80 mg |
+| [严重](/文档/药物剂量分类.md) | 80 mg +    |
 
 | [药效时长](/文档/药效时长.md)      |            |
 | ------------------------ | ---------- |
-| [总时长](/文档/药效时长.md#总时长)   | 3 - 4 小时   |
-| [药效发作](/文档/药效时长.md#药效发作) | 20 - 40 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 1 - 6 小时   |
+| [总时长](/文档/药效时长.md)   | 3 - 4 小时   |
+| [药效发作](/文档/药效时长.md) | 20 - 40 分钟 |
+| [药效残余](/文档/药效时长.md) | 1 - 6 小时   |
 
 | **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为基于用户与资料来源整理的教育用途内容，并不是推荐用量，使用前应结合其他来源进一步核实其准确性。 |
 | --------------------------------------------------------------------------------------------------- |
@@ -49,35 +49,35 @@ MDNMP 会在网上作为[研究用化学品](/文档/研究用化学品.md)出�
 
 ## 目录
 
-* [1 历史与文化](#历史与文化)
-* [2 化学](#化学)
-* [3 药理学](#药理学)
-* [4 主观效应](#主观效应)
+* 1 历史与文化
+* 2 化学
+* 3 药理学
+* 4 主观效应
 
-  * [4.1 **躯体效应**](#躯体效应)
-  * [4.2 **视觉效应**](#视觉效应)
+  * 4.1 **躯体效应**
+  * 4.2 **视觉效应**
 
-    * [4.2.1 抑制](#抑制)
-    * [4.2.2 幻觉状态](#幻觉状态)
-  * [4.3 **认知效应**](#认知效应)
-  * [4.4 **药效残余**](#药效残余)
-  * [4.5 体验报告](#体验报告)
-* [5 毒性与伤害潜力](#毒性与伤害潜力)
+    * 4.2.1 抑制
+    * 4.2.2 幻觉状态
+  * 4.3 **认知效应**
+  * 4.4 **药效残余**
+  * 4.5 体验报告
+* 5 毒性与伤害潜力
 
-  * [5.1 致死剂量](#致死剂量)
-  * [5.2 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [5.3 危险的相互作用](#危险的相互作用)
+  * 5.1 致死剂量
+  * 5.2 耐受性与成瘾潜力
+  * 5.3 危险的相互作用
 
-    * [5.3.1 血清素综合征风险](#血清素综合征风险)
-* [6 法律地位](#法律地位)
-* [7 另见](#另见)
-* [8 外部链接](#外部链接)
-* [9 文献](#文献)
-* [10 参考文献](#参考文献)
+    * 5.3.1 血清素综合征风险
+* 6 法律地位
+* 7 另见
+* 8 外部链接
+* 9 文献
+* 10 参考文献
 
 ## 历史与文化
 
-更多信息：[研究用化学品 § 历史与文化](/文档/研究用化学品.md#历史与文化)
+更多信息：[研究用化学品 § 历史与文化](/文档/研究用化学品.md)
 
 MDNMP 是一种合成卡西酮。合成卡西酮最早于 1920 年代后期被合成出来，起点包括[甲卡西酮](/药物/甲卡西酮.md)与[4-MMC](/药物/4-MMC.md)。不过，由于副作用问题，它们当时并没有进入医疗用途。到了 2000 年代早期，合成卡西酮开始在“烟具店”和网络上以[策划药](/文档/研究用化学品.md)的形式销售，也被称为[研究用化学品](/文档/研究用化学品.md)和“合法致效品”。它们的准合法性，以及能够替代[可卡因](/药物/可卡因.md)或[苯丙胺](/药物/苯丙胺.md)等传统兴奋剂的特点，使其在某些人群中变得流行。由于这类物质曾长期被虚假宣传为“浴盐”产品，媒体中也常把它们称作“浴盐”。
 
@@ -124,7 +124,7 @@ _**免责声明：**下方列出的效应引自[***主观效应索引***](/药�
 
   * **[体温升高](/药效/体温升高.md)**
 * **[心律异常](/药效/心律异常.md)**
-* **[恶心](/药效/恶心.md)** - 恶心可能会在体验的[药效上升](/文档/药效时长.md#药效上升)阶段短暂出现，或者出现在高剂量下。
+* **[恶心](/药效/恶心.md)** - 恶心可能会在体验的[药效上升](/文档/药效时长.md)阶段短暂出现，或者出现在高剂量下。
 
 ### **视觉效应** ![](/文件/Eye.png)
 
@@ -181,7 +181,7 @@ _**免责声明：**下方列出的效应引自[***主观效应索引***](/药�
 | ![](/文件/Ambulance2.png) | **本毒性与伤害潜力章节仍是一个占位条目。**因此，它可能包含不完整，甚至**危险地错误**的信息！你也可以帮助扩充或修正它。<br><br>*注意：如果要使用这种物质，请务必独立开展研究，并采取**[伤害减少措施](/文档/负责任的用药索引页.md)**。* |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 MDNMP 是一种[研究用化学品](/文档/研究用化学品.md)，其人类使用史非常短。关于它的长期健康影响，目前所知极少，而确切的中毒剂量也未知。
 
@@ -222,7 +222,7 @@ MDNMP 的致死剂量目前仍未知。
 * **[单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)** - 例如死藤、叙利亚芸香、phenelzine、selegiline 与 moclobemide。
 * **血清素释放剂** - 例如 [MDMA](/药物/MDMA.md)、[4-FA](/药物/4-FA.md)、[甲基苯丙胺](/药物/甲基苯丙胺.md)、[甲酮隆](/药物/甲酮隆.md) 与 [αMT](/药物/αMT.md)。
 * **[SSRI](/文档/SSRI.md)** - 例如 citalopram 与 sertraline
-* **[SNRI](http://en.wikipedia.org/wiki/SNRIs "wikipedia:SNRIs")** - 例如 [曲马多](/药物/曲马多.md) 与 venlafaxine
+* **[SNRI](http://en.wikipedia.org/wiki/SNRIs)** - 例如 [曲马多](/药物/曲马多.md) 与 venlafaxine
 * **[5-HTP](/药物/5-HTP.md)**
 
 ## 法律地位
@@ -261,16 +261,16 @@ MDNMP 的致死剂量目前仍未知。
 ## 参考文献
 
 1. ↑     Wood, M. R., Bernal, I., & Lalancette, R. A. (2017). The hydrochloride hydrates of pentylone and dibutylone and the hydrochloride salt of ephylone: the structures of three novel designer cathinones. Structural Chemistry, 28(5), 1369-1376. [http://dx.doi.org/10.1007/s11224-017-0951-x](http://dx.doi.org/10.1007/s11224-017-0951-x)
-2. [↑](#cite_ref-2) Coppola, M., & Mondola, R. (2012). Synthetic cathinones: chemistry, pharmacology and toxicology of a new class of designer drugs of abuse marketed as “bath salts” or “plant food”. Toxicology letters, 211(2), 144-149. [https://doi.org/10.1016/j.toxlet.2012.03.009](https://doi.org/10.1016/j.toxlet.2012.03.009)
-3. [↑](#cite_ref-3) Cozzi, N.V., Sievert, M.K., Shulgin, A.T., Jaco 3rd., P., Ruoho, A.E., 1999. Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines. Eur. J. Pharmacol. 381, 63–69.
-4. [↑](#cite_ref-4) Meyer, M.R., Maurer, H.H., 2010. Metabolism of designer drugs of abuse: an updated review. Curr. Drug Metab. 11, 468–482
-5. [↑](#cite_ref-5) Clinical Presentation, Autopsy Results and Toxicology Findings in an Acute Ephylone Fatality. (PubMed.gov / NCBI) | [https://www.ncbi.nlm.nih.gov/pubmed/28137731](https://www.ncbi.nlm.nih.gov/pubmed/28137731)
-6. [↑](#cite_ref-6) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183).
-7. [↑](#cite_ref-7) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![](/文件/Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-8. [↑](#cite_ref-8) New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
-9. [↑](#cite_ref-9) ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
-10. [↑](#cite_ref-10) ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 19, 2019.
-11. [↑](#cite_ref-11) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
-12. [↑](#cite_ref-12) Regulation prohibiting certain narcotics. [http://rkrattsbaser.gov.se/sfst?fritext=pentylon&upph=false&sort=desc](http://rkrattsbaser.gov.se/sfst?fritext=pentylon&upph=false&sort=desc)
-13. [↑](#cite_ref-13) Bakanlar Kurulu Kararı Karar Sayısı : 2013/4827 | [https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf](https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf)
-14. [↑](#cite_ref-14) Placement of 10 Synthetic Cathinones Into Schedule I | [https://www.federalregister.gov/documents/2014/03/07/2014-04997/schedules-of-controlled-substances-temporary-placement-of-10-synthetic-cathinones-into-schedule-i](https://www.federalregister.gov/documents/2014/03/07/2014-04997/schedules-of-controlled-substances-temporary-placement-of-10-synthetic-cathinones-into-schedule-i)
+2. ↑ Coppola, M., & Mondola, R. (2012). Synthetic cathinones: chemistry, pharmacology and toxicology of a new class of designer drugs of abuse marketed as “bath salts” or “plant food”. Toxicology letters, 211(2), 144-149. [https://doi.org/10.1016/j.toxlet.2012.03.009](https://doi.org/10.1016/j.toxlet.2012.03.009)
+3. ↑ Cozzi, N.V., Sievert, M.K., Shulgin, A.T., Jaco 3rd., P., Ruoho, A.E., 1999. Inhibition of plasma membrane monoamine transporters by beta-ketoamphetamines. Eur. J. Pharmacol. 381, 63–69.
+4. ↑ Meyer, M.R., Maurer, H.H., 2010. Metabolism of designer drugs of abuse: an updated review. Curr. Drug Metab. 11, 468–482
+5. ↑ Clinical Presentation, Autopsy Results and Toxicology Findings in an Acute Ephylone Fatality. (PubMed.gov / NCBI) | [https://www.ncbi.nlm.nih.gov/pubmed/28137731](https://www.ncbi.nlm.nih.gov/pubmed/28137731)
+6. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183).
+7. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![](/文件/Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+8. ↑ New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR)
+9. ↑ ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
+10. ↑ ["Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 19, 2019.
+11. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 19, 2019.
+12. ↑ Regulation prohibiting certain narcotics. [http://rkrattsbaser.gov.se/sfst?fritext=pentylon&upph=false&sort=desc](http://rkrattsbaser.gov.se/sfst?fritext=pentylon&upph=false&sort=desc)
+13. ↑ Bakanlar Kurulu Kararı Karar Sayısı : 2013/4827 | [https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf](https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf)
+14. ↑ Placement of 10 Synthetic Cathinones Into Schedule I | [https://www.federalregister.gov/documents/2014/03/07/2014-04997/schedules-of-controlled-substances-temporary-placement-of-10-synthetic-cathinones-into-schedule-i](https://www.federalregister.gov/documents/2014/03/07/2014-04997/schedules-of-controlled-substances-temporary-placement-of-10-synthetic-cathinones-into-schedule-i)

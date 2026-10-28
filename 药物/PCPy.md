@@ -2,7 +2,7 @@
 
 [◀返回](index.md)
 
-| ![Ambulance2.png](/文件/Ambulance2.png) | **PCPy 可能以明显高于其他解离剂的概率引发[精神病发作](/药效/精神病发作.md)和[躁狂](/药效/躁狂.md)。**<br><br>强烈不建议以高剂量使用本物质，或连续多日使用哦。更多细节请参见[这一节](/药物/PCP.md#毒性与伤害潜力)。 |
+| ![Ambulance2.png](/文件/Ambulance2.png) | **PCPy 可能以明显高于其他解离剂的概率引发[精神病发作](/药效/精神病发作.md)和[躁狂](/药效/躁狂.md)。**<br><br>强烈不建议以高剂量使用本物质，或连续多日使用哦。更多细节请参见[这一节](/药物/PCP.md)。 |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -18,61 +18,61 @@
 | 化学分类                                                                    | *[芳基环己胺类物质](/文档/药物分类/芳基环己胺类物质.md)*                                                                          |
 | [给药途径](/文档/给药途径.md)                                                     |                                                                                                             |
 | **警告：**由于个体体重、耐受性、代谢和个人敏感性差异，务必从较低剂量开始。请参见[负责任的用药部分](/文档/负责任的用药索引页.md)。 |                                                                                                             |
-| [相互作用](#危险药物联用)                                                         | MXE、咖啡因、2,5-二甲氧基苯丙胺类物质、苯丙胺类物质、MDMA、可卡因、酒精、苯二氮䓬类物质、SSRI、右美沙芬、2C-T-x、αMT、5-MeO-xxT、GHB、GBL、曲马多、单胺氧化酶抑制剂、阿片类药物 |
+| 相互作用                                                         | MXE、咖啡因、2,5-二甲氧基苯丙胺类物质、苯丙胺类物质、MDMA、可卡因、酒精、苯二氮䓬类物质、SSRI、右美沙芬、2C-T-x、αMT、5-MeO-xxT、GHB、GBL、曲马多、单胺氧化酶抑制剂、阿片类药物 |
 
 **抽吸**
 
 | 项目                       | 数值                           |
 | ------------------------ | ---------------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                              |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 1 mg                         |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 2-4 mg                       |
-| [中等](/文档/药物剂量分类.md#中等)   | 4-8 mg                       |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 8-12 mg                      |
-| [严重](/文档/药物剂量分类.md#严重)   | 12 mg+ **严重剂量可能导致精神病发作和躁狂。** |
+| [阈值](/文档/药物剂量分类.md)   | 1 mg                         |
+| [轻微](/文档/药物剂量分类.md)   | 2-4 mg                       |
+| [中等](/文档/药物剂量分类.md)   | 4-8 mg                       |
+| [强烈](/文档/药物剂量分类.md)   | 8-12 mg                      |
+| [严重](/文档/药物剂量分类.md)   | 12 mg+ **严重剂量可能导致精神病发作和躁狂。** |
 | [药效时长](/文档/药效时长.md)      |                              |
-| [总时长](/文档/药效时长.md#总时长)   | 4-6 小时                       |
-| [药效发作](/文档/药效时长.md#药效发作) | 2-20 分钟                      |
-| [药效上升](/文档/药效时长.md#药效上升) | 20-40 分钟                     |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 2-3 小时                       |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1-2 小时                       |
-| [药效残余](/文档/药效时长.md#药效残余) | 4-48 小时                      |
+| [总时长](/文档/药效时长.md)   | 4-6 小时                       |
+| [药效发作](/文档/药效时长.md) | 2-20 分钟                      |
+| [药效上升](/文档/药效时长.md) | 20-40 分钟                     |
+| [药效达峰](/文档/药效时长.md) | 2-3 小时                       |
+| [药效褪去](/文档/药效时长.md) | 1-2 小时                       |
+| [药效残余](/文档/药效时长.md) | 4-48 小时                      |
 
 **口服**
 
 | 项目                       | 数值                           |
 | ------------------------ | ---------------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                              |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 1 mg                         |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 3-5 mg                       |
-| [中等](/文档/药物剂量分类.md#中等)   | 5-9 mg                       |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 9-13 mg                      |
-| [严重](/文档/药物剂量分类.md#严重)   | 13 mg+ **严重剂量可能导致精神病发作和躁狂。** |
+| [阈值](/文档/药物剂量分类.md)   | 1 mg                         |
+| [轻微](/文档/药物剂量分类.md)   | 3-5 mg                       |
+| [中等](/文档/药物剂量分类.md)   | 5-9 mg                       |
+| [强烈](/文档/药物剂量分类.md)   | 9-13 mg                      |
+| [严重](/文档/药物剂量分类.md)   | 13 mg+ **严重剂量可能导致精神病发作和躁狂。** |
 | [药效时长](/文档/药效时长.md)      |                              |
-| [总时长](/文档/药效时长.md#总时长)   | 6-12 小时                      |
-| [药效发作](/文档/药效时长.md#药效发作) | 20-90 分钟                     |
-| [药效上升](/文档/药效时长.md#药效上升) | 30-120 分钟                    |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 2-3 小时                       |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 3-4 小时                       |
-| [药效残余](/文档/药效时长.md#药效残余) | 12-48 小时                     |
+| [总时长](/文档/药效时长.md)   | 6-12 小时                      |
+| [药效发作](/文档/药效时长.md) | 20-90 分钟                     |
+| [药效上升](/文档/药效时长.md) | 30-120 分钟                    |
+| [药效达峰](/文档/药效时长.md) | 2-3 小时                       |
+| [药效褪去](/文档/药效时长.md) | 3-4 小时                       |
+| [药效残余](/文档/药效时长.md) | 12-48 小时                     |
 
 **鼻吸**
 
 | 项目                       | 数值                           |
 | ------------------------ | ---------------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                              |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 1 mg                         |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 2-4 mg                       |
-| [中等](/文档/药物剂量分类.md#中等)   | 4-8 mg                       |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 8-15 mg                      |
-| [严重](/文档/药物剂量分类.md#严重)   | 15 mg+ **严重剂量可能导致精神病发作和躁狂。** |
+| [阈值](/文档/药物剂量分类.md)   | 1 mg                         |
+| [轻微](/文档/药物剂量分类.md)   | 2-4 mg                       |
+| [中等](/文档/药物剂量分类.md)   | 4-8 mg                       |
+| [强烈](/文档/药物剂量分类.md)   | 8-15 mg                      |
+| [严重](/文档/药物剂量分类.md)   | 15 mg+ **严重剂量可能导致精神病发作和躁狂。** |
 | [药效时长](/文档/药效时长.md)      |                              |
-| [总时长](/文档/药效时长.md#总时长)   | 4-6 小时                       |
-| [药效发作](/文档/药效时长.md#药效发作) | 3-30 分钟                      |
-| [药效上升](/文档/药效时长.md#药效上升) | 30-90 分钟                     |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 2-3 小时                       |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1-2 小时                       |
-| [药效残余](/文档/药效时长.md#药效残余) | 4-48 小时                      |
+| [总时长](/文档/药效时长.md)   | 4-6 小时                       |
+| [药效发作](/文档/药效时长.md) | 3-30 分钟                      |
+| [药效上升](/文档/药效时长.md) | 30-90 分钟                     |
+| [药效达峰](/文档/药效时长.md) | 2-3 小时                       |
+| [药效褪去](/文档/药效时长.md) | 1-2 小时                       |
+| [药效残余](/文档/药效时长.md) | 4-48 小时                      |
 
 **[免责声明](/关于本站/免责声明.md)：**本网站的[给药剂量](/文档/给药剂量.md)信息来自用户和资料，仅用于教育目的呢。它不是建议，准确性也应通过其他来源核实。
 
@@ -80,9 +80,9 @@
 
 它从未被上市销售，但曾在街头短暂流行过一段时间，推测可能被误标为 PCP。它最早出现在 1958 年的一项英国专利中，但从未被开发为医用药物。一些在吡咯烷环或苯环上发生取代的高级类似物已被发现；在这一类中，后者的 [3-Me](/药物/3-Me-PCPy.md) 被发现是一种强效三重再摄取抑制剂。
 
-[主观效应](/药效/主观效应索引.md)包括[运动控制丧失](/药效/运动控制丧失.md)、[镇痛](/药效/镇痛.md)、[内部幻觉](/药效/内部幻觉.md)、[记忆抑制](/药效/记忆抑制.md)、[概念性思维](/药效/概念性思维.md)、[认知欣快](/药效/认知欣快.md)，以及[人格解体](/药效/人格解体.md) / [分离效应](/药效/分离效应.md)。给药途径包括[口服](/文档/给药途径.md#口服)、[抽吸](/文档/给药途径.md#抽吸)、[鼻吸](/文档/给药途径.md#鼻吸)或[注射](/文档/给药途径.md#注射)。咯环利定的兴奋效应比 PCP 弱，因此通常在心理层面上更容易耐受，并带来更“干净”的分离感。
+[主观效应](/药效/主观效应索引.md)包括[运动控制丧失](/药效/运动控制丧失.md)、[镇痛](/药效/镇痛.md)、[内部幻觉](/药效/内部幻觉.md)、[记忆抑制](/药效/记忆抑制.md)、[概念性思维](/药效/概念性思维.md)、[认知欣快](/药效/认知欣快.md)，以及[人格解体](/药效/人格解体.md) / [分离效应](/药效/分离效应.md)。给药途径包括[口服](/文档/给药途径.md)、[抽吸](/文档/给药途径.md)、[鼻吸](/文档/给药途径.md)或[注射](/文档/给药途径.md)。咯环利定的兴奋效应比 PCP 弱，因此通常在心理层面上更容易耐受，并带来更“干净”的分离感。
 
-PCPy 具有较高的滥用潜力。已有[强迫性补量](/药效/强迫性补量.md)报告，也有长期使用后发生心理依赖的报告，也就是高剂量、重复给药。除此之外，长期使用很可能产生行为毒性，其中可能包括自伤或严重身体损伤。更多信息请见[这一节](/药物/PCP.md#毒性与伤害潜力)。如果使用这种物质，非常建议采取[伤害减少措施](/文档/负责任的用药索引页.md)哦。
+PCPy 具有较高的滥用潜力。已有[强迫性补量](/药效/强迫性补量.md)报告，也有长期使用后发生心理依赖的报告，也就是高剂量、重复给药。除此之外，长期使用很可能产生行为毒性，其中可能包括自伤或严重身体损伤。更多信息请见[这一节](/药物/PCP.md)。如果使用这种物质，非常建议采取[伤害减少措施](/文档/负责任的用药索引页.md)哦。
 
 ## 历史与文化
 
@@ -161,7 +161,7 @@ _**免责声明：**下列效应引用自[***主观效应索引***](/药效/主�
 
 * **[认知分离](/药效/认知分离.md)**
 * **[躯体分离](/药效/躯体分离.md)**
-* **[视觉分离](/药效/视觉分离.md)** - 这最终会产生 PCPy 版本的“k-hole”，更具体地说，是*[洞穴、空间与虚空](/药效/视觉分离.md#洞穴空间与虚空)*，以及*[结构](/药效/视觉分离.md#结构)*。
+* **[视觉分离](/药效/视觉分离.md)** - 这最终会产生 PCPy 版本的“k-hole”，更具体地说，是*[洞穴、空间与虚空](/药效/视觉分离.md)*，以及*[结构](/药效/视觉分离.md)*。
 
 ### **认知效应** ![User.svg](/文件/User.png)
 
@@ -202,7 +202,7 @@ PCPy 的整体头部空间在性质上非常躁狂，但并不特别具有刺激
 
 ## 毒性与伤害潜力
 
-更多信息：[负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息：[负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
 长期使用 PCP 类物质可能导致类似精神分裂症的精神病性发作、严重且持久的记忆丧失、思维紊乱、抑郁、体重下降、肝脏异常和横纹肌溶解，也就是骨骼肌分解。
 
@@ -305,25 +305,25 @@ PCPy 的长期使用可被视为高度成瘾，并具有较高的不良副作用
 ## 参考文献
 
 1. ↑   Luisada, P. V., M. D. (1978), [*“The Phencyclidine Psychosis: Phenomenology and Treatment.” Phencyclidine (PCP) Abuse: An Appraisal.*](https://www.ojp.gov/ncjrs/virtual-library/abstracts/phencyclidine-psychosis-phenomenology-and-treatment-phencyclidine), National Institute on Drug Abuse
-2. ↑   Tasman, A., Kay, J., Lieberman, J. A., First, M. B., Riba, M. (5 February 2015). *Psychiatry*. John Wiley & Sons. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9781118753361](http://en.wikipedia.org/wiki/Special:BookSources/9781118753361 "wikipedia:Special:BookSources/9781118753361").
-3. [↑](#cite_ref-3) PCP Psychosis (本网站) | </药物/3-MeO-PCP.md#毒性与伤害潜力>
-4. [↑](#cite_ref-4) PCP Psychosis (本网站) | </药物/3-MeO-PCP.md#毒性与伤害潜力>
-5. [↑](#cite_ref-psychosis_5-0) 3-MeO-PCP Psychosis (本网站) | </药物/3-MeO-PCP.md#毒性与伤害潜力>
-6. [↑](#cite_ref-6) PCP Fast Facts | [http://www.justice.gov/archive/ndic/pubs4/4440/](http://www.justice.gov/archive/ndic/pubs4/4440/)
-7. [↑](#cite_ref-7) Kapur, S., Seeman, P. (September 2002). ["NMDA receptor antagonists ketamine and PCP have direct effects on the dopamine D2 and serotonin 5-HT2 receptors—implications for models of schizophrenia"](https://www.nature.com/articles/4001093). *Molecular Psychiatry*. **7** (8): 837–844. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1038/sj.mp.4001093](//doi.org/10.1038%2Fsj.mp.4001093). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1476-5578](//www.worldcat.org/issn/1476-5578).
-8. [↑](#cite_ref-8) "Peace Pill". Microgram. Bureau of Drug Abuse Control. Jan 1968. 1(3):p1 (Erowid.org) | [https://erowid.org/library/periodicals/microgram/microgram_1968_01_v01n03.pdf](https://erowid.org/library/periodicals/microgram/microgram_1968_01_v01n03.pdf)
-9. [↑](#cite_ref-9) "Sweet Streetfact's Lowdown on Low Dope Highs!". Berkeley Tribe, September 10-16, 1971. p12 (Independent Voices) | [https://www.jstor.org/stable/community.28033860?seq=12](https://www.jstor.org/stable/community.28033860?seq=12)
-10. [↑](#cite_ref-GB836083A_10-0) [https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083](https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083) | title= Heterocyclic amine compounds}}
-11. [↑](#cite_ref-Drug_Testingand_Analysis_11-0) doi: 10.1002/dta.1468 | title=Preparation and analytical characterization of 1-(1-phenylcyclohexyl)piperidine (PCP) and 1-(1 phenylcyclohexyl)pyrrolidine (PCPy)analogues}}
-12. [↑](#cite_ref-12) Abuse, N. I. on D. (2019), [*Hallucinogens DrugFacts*](https://nida.nih.gov/publications/drugfacts/hallucinogens)
-13. [↑](#cite_ref-CLINICAL_TOXICOLOGY_13-0) doi: 10.3109/15563657909010600 | title=Determination of 1-(1-Phenylcyclohexyl) Pyrrolidine (PHP) in Postmortem Specimens: A Case Report}}
-14. [↑](#cite_ref-14) [https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083](https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083) | title= Heterocyclic amine compounds}}
-15. [↑](#cite_ref-15) Rothman, R. (1 July 1994). ["PCP site 2: A high affinity MK-801-insensitive phencyclidine binding site"](https://zenodo.org/record/1258623). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/0892-0362(94)90022-1](//doi.org/10.1016%2F0892-0362%2894%2990022-1).
-16. [↑](#cite_ref-16) [PCP (Phencyclidine) : historical and current perspectives, p. 373, NPP Books](https://archive.org/details/pcpphencyclidine0000unse)
-17. [↑](#cite_ref-erowid_17-0) [*Erowid PCP (Phencyclidine) Vault : Effects*](https://www.erowid.org/chemicals/pcp/pcp_effects.shtml)
-18. [↑](#cite_ref-18) Olney, J. W., Labruyere, J., Price, M. T. (16 June 1989). "Pathological changes induced in cerebrocortical neurons by phencyclidine and related drugs". *Science (New York, N.Y.)*. **244** (4910): 1360–1362. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object_identifier"):[10.1126/science.2660263](//doi.org/10.1126%2Fscience.2660263). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0036-8075](//www.worldcat.org/issn/0036-8075).
-19. [↑](#cite_ref-19) Hargreaves, R. J., Hill, R. G., Iversen, L. L. (1994). "Neuroprotective NMDA antagonists: the controversy over their potential for adverse effects on cortical neuronal morphology". *Acta Neurochirurgica. Supplementum*. **60**: 15–19. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/978-3-7091-9334-1_4](//doi.org/10.1007%2F978-3-7091-9334-1_4).
-20. [↑](#cite_ref-20) Grof, S. (2010). *The ultimate journey: consciousness and the mystery of death* (2. ed ed.). MAPS. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9780966001976](http://en.wikipedia.org/wiki/Special:BookSources/9780966001976 "wikipedia:Special:BookSources/9780966001976"). CS1 maint: Extra text (link)
-21. [↑](#cite_ref-21) Reynolds, L. M., Cochran, S. M., Morris, B. J., Pratt, J. A., Reynolds, G. P. (1 March 2005). "Chronic phencyclidine administration induces schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate in rat brain". *Schizophrenia Research*. **73** (2–3): 147–152. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.schres.2004.02.003](//doi.org/10.1016%2Fj.schres.2004.02.003). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0920-9964](//www.worldcat.org/issn/0920-9964).
-22. [↑](#cite_ref-22) Murray, J. B. (May 2002). "Phencyclidine (PCP): a dangerous drug, but useful in schizophrenia research". *The Journal of Psychology*. **136** (3): 319–327. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1080/00223980209604159](//doi.org/10.1080%2F00223980209604159). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-3980](//www.worldcat.org/issn/0022-3980).
-23. [↑](#cite_ref-23) ["List of psychotropic substances under international control (Green List)"](http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf) (PDF) (23rd ed.). International Narcotics Control Board (INCB). August 2003. Archived from [the original](http://www.incb.org/pdf/e/list/green.pdf) (PDF) on March 2, 2007.
+2. ↑   Tasman, A., Kay, J., Lieberman, J. A., First, M. B., Riba, M. (5 February 2015). *Psychiatry*. John Wiley & Sons. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9781118753361](http://en.wikipedia.org/wiki/Special:BookSources/9781118753361).
+3. ↑ PCP Psychosis (本网站) | </药物/3-MeO-PCP.md#毒性与伤害潜力>
+4. ↑ PCP Psychosis (本网站) | </药物/3-MeO-PCP.md#毒性与伤害潜力>
+5. ↑ 3-MeO-PCP Psychosis (本网站) | </药物/3-MeO-PCP.md#毒性与伤害潜力>
+6. ↑ PCP Fast Facts | [http://www.justice.gov/archive/ndic/pubs4/4440/](http://www.justice.gov/archive/ndic/pubs4/4440/)
+7. ↑ Kapur, S., Seeman, P. (September 2002). ["NMDA receptor antagonists ketamine and PCP have direct effects on the dopamine D2 and serotonin 5-HT2 receptors—implications for models of schizophrenia"](https://www.nature.com/articles/4001093). *Molecular Psychiatry*. **7** (8): 837–844. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/sj.mp.4001093](//doi.org/10.1038%2Fsj.mp.4001093). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1476-5578](//www.worldcat.org/issn/1476-5578).
+8. ↑ "Peace Pill". Microgram. Bureau of Drug Abuse Control. Jan 1968. 1(3):p1 (Erowid.org) | [https://erowid.org/library/periodicals/microgram/microgram_1968_01_v01n03.pdf](https://erowid.org/library/periodicals/microgram/microgram_1968_01_v01n03.pdf)
+9. ↑ "Sweet Streetfact's Lowdown on Low Dope Highs!". Berkeley Tribe, September 10-16, 1971. p12 (Independent Voices) | [https://www.jstor.org/stable/community.28033860?seq=12](https://www.jstor.org/stable/community.28033860?seq=12)
+10. ↑ [https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083](https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083) | title= Heterocyclic amine compounds}}
+11. ↑ doi: 10.1002/dta.1468 | title=Preparation and analytical characterization of 1-(1-phenylcyclohexyl)piperidine (PCP) and 1-(1 phenylcyclohexyl)pyrrolidine (PCPy)analogues}}
+12. ↑ Abuse, N. I. on D. (2019), [*Hallucinogens DrugFacts*](https://nida.nih.gov/publications/drugfacts/hallucinogens)
+13. ↑ doi: 10.3109/15563657909010600 | title=Determination of 1-(1-Phenylcyclohexyl) Pyrrolidine (PHP) in Postmortem Specimens: A Case Report}}
+14. ↑ [https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083](https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083) | title= Heterocyclic amine compounds}}
+15. ↑ Rothman, R. (1 July 1994). ["PCP site 2: A high affinity MK-801-insensitive phencyclidine binding site"](https://zenodo.org/record/1258623). [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0892-0362(94)90022-1](//doi.org/10.1016%2F0892-0362%2894%2990022-1).
+16. ↑ [PCP (Phencyclidine) : historical and current perspectives, p. 373, NPP Books](https://archive.org/details/pcpphencyclidine0000unse)
+17. ↑ [*Erowid PCP (Phencyclidine) Vault : Effects*](https://www.erowid.org/chemicals/pcp/pcp_effects.shtml)
+18. ↑ Olney, J. W., Labruyere, J., Price, M. T. (16 June 1989). "Pathological changes induced in cerebrocortical neurons by phencyclidine and related drugs". *Science (New York, N.Y.)*. **244** (4910): 1360–1362. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1126/science.2660263](//doi.org/10.1126%2Fscience.2660263). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0036-8075](//www.worldcat.org/issn/0036-8075).
+19. ↑ Hargreaves, R. J., Hill, R. G., Iversen, L. L. (1994). "Neuroprotective NMDA antagonists: the controversy over their potential for adverse effects on cortical neuronal morphology". *Acta Neurochirurgica. Supplementum*. **60**: 15–19. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/978-3-7091-9334-1_4](//doi.org/10.1007%2F978-3-7091-9334-1_4).
+20. ↑ Grof, S. (2010). *The ultimate journey: consciousness and the mystery of death* (2. ed ed.). MAPS. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780966001976](http://en.wikipedia.org/wiki/Special:BookSources/9780966001976). CS1 maint: Extra text (link)
+21. ↑ Reynolds, L. M., Cochran, S. M., Morris, B. J., Pratt, J. A., Reynolds, G. P. (1 March 2005). "Chronic phencyclidine administration induces schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate in rat brain". *Schizophrenia Research*. **73** (2–3): 147–152. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.schres.2004.02.003](//doi.org/10.1016%2Fj.schres.2004.02.003). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0920-9964](//www.worldcat.org/issn/0920-9964).
+22. ↑ Murray, J. B. (May 2002). "Phencyclidine (PCP): a dangerous drug, but useful in schizophrenia research". *The Journal of Psychology*. **136** (3): 319–327. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1080/00223980209604159](//doi.org/10.1080%2F00223980209604159). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3980](//www.worldcat.org/issn/0022-3980).
+23. ↑ ["List of psychotropic substances under international control (Green List)"](http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf) (PDF) (23rd ed.). International Narcotics Control Board (INCB). August 2003. Archived from [the original](http://www.incb.org/pdf/e/list/green.pdf) (PDF) on March 2, 2007.

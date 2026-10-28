@@ -14,43 +14,43 @@
 | **精神活性分类** | *[致幻剂](/文档/药物分类/致幻剂.md)* |
 | **化学分类** | *[色胺类物质](/文档/药物分类/色胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
-| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 | **[给药剂量](/文档/给药剂量.md)** | |
-| [中等](/文档/药物剂量分类.md#中等) | 10 - 25 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 25 - 75 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 75 - 200 mg |
+| [中等](/文档/药物剂量分类.md) | 10 - 25 mg |
+| [强烈](/文档/药物剂量分类.md) | 25 - 75 mg |
+| [严重](/文档/药物剂量分类.md) | 75 - 200 mg |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 3 - 8 小时 |
+| [总时长](/文档/药效时长.md) | 3 - 8 小时 |
 | **免责声明哦：** 本站的[给药剂量](/文档/给药剂量.md)信息是从用户和[资源](/关于本站/index.md)中收集的，仅用于教育目的呢。这不是推荐，应该与其他来源核实准确性喵。 | |
-| **[药物联用](#危险的药物联用)** | |
+| **药物联用** | |
 
 **N-甲基-N-异丙基色胺**（也称为 **MiPT**）是一种鲜为人知的[致幻](/文档/药物分类/致幻剂.md)[色胺类物质](/文档/药物分类/色胺类物质.md)。它在结构上与 [DMT](/药物/DMT.md) 相关，还有其他类似物如 [DiPT](/药物/DiPT.md)、[MPT](/药物/MPT.md) 和 [MET](/药物/MET.md)。
 
 MiPT 最早由 [亚历山大·舒尔金](/文档/TiHKAL.md) 合成并研究，并在他的书 [TiHKAL](/文档/TiHKAL.md)（“我所知道和喜爱的色胺”）中进行了描述。在评论中，舒尔金指出“几乎完全没有视觉现象……没有波形、颜色扭曲或物体形状变化，也没有闭眼图像，这与大多数 N,N-二取代色胺不同。”[1]
 
-主观效应包括幻觉状态、[时间扭曲](/药效/时间扭曲.md)、[概念性思维](/药效/概念性思维.md)、[欣快](/药效/认知欣快.md)和[自我迷失](/药效/自我死亡.md)。其效果通常被描述为温和、模糊，并且在用户之间差异很大。与许多相关的色胺相比，它可以[口服](/文档/给药途径.md#口服)摄入哦。
+主观效应包括幻觉状态、[时间扭曲](/药效/时间扭曲.md)、[概念性思维](/药效/概念性思维.md)、[欣快](/药效/认知欣快.md)和[自我迷失](/药效/自我死亡.md)。其效果通常被描述为温和、模糊，并且在用户之间差异很大。与许多相关的色胺相比，它可以[口服](/文档/给药途径.md)摄入哦。
 
 如今，MiPT 仍然相对罕见，主要作为娱乐性或[致幻](/文档/药物分类/致幻剂.md)物质使用。它已作为[研究用化学品](/文档/研究用化学品.md)在网上分发。关于 MiPT 在人体中的药理特性、代谢和毒性的数据非常少，人类使用的历史也很少呢。
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 身体效应](#身体效应)
-    * [3.2 视觉效应](#视觉效应)
-        * [3.2.1 视觉增强](#视觉增强)
-        * [3.2.2 视觉扭曲](#视觉扭曲)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 听觉效应](#听觉效应)
-    * [3.5 体验报告](#体验报告)
-* [4 毒性和伤害潜能](#毒性和伤害潜能)
-    * [4.1 耐受性和成瘾潜能](#耐受性和成瘾潜能)
-* [5 法律地位](#法律地位)
-    * [6 另见](#另见)
-    * [7 外部链接](#外部链接)
-        * [7.1 讨论](#讨论)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 身体效应
+    * 3.2 视觉效应
+        * 3.2.1 视觉增强
+        * 3.2.2 视觉扭曲
+    * 3.3 认知效应
+    * 3.4 听觉效应
+    * 3.5 体验报告
+* 4 毒性和伤害潜能
+    * 4.1 耐受性和成瘾潜能
+* 5 法律地位
+    * 6 另见
+    * 7 外部链接
+        * 7.1 讨论
+* 8 参考文献
 
 ## 化学
 
@@ -182,11 +182,11 @@ MiPT 不会形成习惯，而且使用的欲望实际上可能会随着经常消
 | [![Question_book-new.svg](/文件/Question_book-new.png)](/文件/Question_book-new.png) | **这篇文章没有引用足够的参考文献。**<br>*大家可以帮忙[添加一些](https://psychonautwiki.org/w/index.php?title=MiPT&action=edit)哦。* |
 | --- | --- |
 
-1. [↑](#cite_ref-TiHKAL_1-0) [Shulgin, Alexander](/文档/TiHKAL.md); Shulgin, Ann (1997). ["#47. MIPT"](https://erowid.org/library/books_online/tihkal/tihkal47.shtml). *[TiHKAL: The Continuation](/文档/TiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9 "wikipedia:Special:BookSources/0-9630096-9-9"). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [38503252](//www.worldcat.org/oclc/38503252).
-2. [↑](#cite_ref-2) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-3. [↑](#cite_ref-3) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-4. [↑](#cite_ref-4) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-5. [↑](#cite_ref-5) ["Folkhälsomyndigheten föreslår att 20 ämnen klassas som narkotika eller hälsofarlig vara"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2019/maj/folkhalsomyndigheten-foreslar-att-20-amnen-klassas-som-narkotika-eller-halsofarlig-vara/) (in Swedish). Folkhälsomyndigheten [Public Health Agency]. May 15, 2019.
-6. [↑](#cite_ref-6) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-7. [↑](#cite_ref-7) ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
-8. [↑](#cite_ref-8) ["Orange Book - List of Controlled Substances and Regulated Chemicals"](https://www.deadiversion.usdoj.gov/schedules/orangebook/orangebook.pdf) (PDF). Drug Enforcement Adminitration. Retrieved September 17, 2023.
+1. ↑ [Shulgin, Alexander](/文档/TiHKAL.md); Shulgin, Ann (1997). ["#47. MIPT"](https://erowid.org/library/books_online/tihkal/tihkal47.shtml). *[TiHKAL: The Continuation](/文档/TiHKAL.md)*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-9630096-9-9](http://en.wikipedia.org/wiki/Special:BookSources/0-9630096-9-9). [OCLC](http://en.wikipedia.org/wiki/OCLC) [38503252](//www.worldcat.org/oclc/38503252).
+2. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+3. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+4. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+5. ↑ ["Folkhälsomyndigheten föreslår att 20 ämnen klassas som narkotika eller hälsofarlig vara"](https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2019/maj/folkhalsomyndigheten-foreslar-att-20-amnen-klassas-som-narkotika-eller-halsofarlig-vara/) (in Swedish). Folkhälsomyndigheten [Public Health Agency]. May 15, 2019.
+6. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+7. ↑ ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
+8. ↑ ["Orange Book - List of Controlled Substances and Regulated Chemicals"](https://www.deadiversion.usdoj.gov/schedules/orangebook/orangebook.pdf) (PDF). Drug Enforcement Adminitration. Retrieved September 17, 2023.

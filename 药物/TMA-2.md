@@ -15,24 +15,24 @@
 
 | [给药途径](/文档/给药途径.md)                                                            |                        |
 | ------------------------------------------------------------------------------ | ---------------------- |
-| - **警告：** 由于个体体重、耐受性、代谢以及个人敏感性存在差异，请始终从较低剂量开始。[参见负责任的用药章节](/文档/负责任的用药索引页.md)哦。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **警告：** 由于个体体重、耐受性、代谢以及个人敏感性存在差异，请始终从较低剂量开始。[参见负责任的用药章节](/文档/负责任的用药索引页.md)哦。 | ⇣ [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |            |
 | ---------------------- | ---------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 5 mg       |
-| [轻微](/文档/药物剂量分类.md#轻微) | 10 - 20 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 20 - 40 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 40 - 60 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 60 mg +    |
+| [阈值](/文档/药物剂量分类.md) | 5 mg       |
+| [轻微](/文档/药物剂量分类.md) | 10 - 20 mg |
+| [中等](/文档/药物剂量分类.md) | 20 - 40 mg |
+| [强烈](/文档/药物剂量分类.md) | 40 - 60 mg |
+| [严重](/文档/药物剂量分类.md) | 60 mg +    |
 
 | [药效时长](/文档/药效时长.md)      |            |
 | ------------------------ | ---------- |
-| [总时长](/文档/药效时长.md#总时长)   | 8 - 12小时   |
-| [药效发作](/文档/药效时长.md#药效发作) | 20 - 120分钟 |
-| [药效上升](/文档/药效时长.md#药效上升) | 1.5 - 3小时  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 4 - 6小时    |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 2 - 4小时    |
-| [药效残余](/文档/药效时长.md#药效残余) | 4 - 24小时   |
+| [总时长](/文档/药效时长.md)   | 8 - 12小时   |
+| [药效发作](/文档/药效时长.md) | 20 - 120分钟 |
+| [药效上升](/文档/药效时长.md) | 1.5 - 3小时  |
+| [药效达峰](/文档/药效时长.md) | 4 - 6小时    |
+| [药效褪去](/文档/药效时长.md) | 2 - 4小时    |
+| [药效残余](/文档/药效时长.md) | 4 - 24小时   |
 
 |                                                                                                                   |   |
 | ----------------------------------------------------------------------------------------------------------------- | - |
@@ -59,7 +59,7 @@ TMA-2，即2,4,5-三甲氧基苯丙胺，是一种属于[取代苯丙胺类物�
 
 更多信息：[血清素能迷幻剂](/文档/药物分类/血清素能迷幻剂.md)
 
-一般认为，TMA-2的[迷幻剂](/文档/药物分类/迷幻剂.md)效应来自它作为[部分激动剂](/文档/受体激动剂.md#部分激动剂)对[5-HT受体](/文档/血清素.md#5-ht系统)的作用。然而，这些相互作用究竟扮演怎样的角色，以及它们是如何进一步形成[迷幻剂](/文档/药物分类/迷幻剂.md)体验的，目前仍然没有被完全阐明呢。
+一般认为，TMA-2的[迷幻剂](/文档/药物分类/迷幻剂.md)效应来自它作为[部分激动剂](/文档/受体激动剂.md)对[5-HT受体](/文档/血清素.md)的作用。然而，这些相互作用究竟扮演怎样的角色，以及它们是如何进一步形成[迷幻剂](/文档/药物分类/迷幻剂.md)体验的，目前仍然没有被完全阐明呢。
 
 ## 主观效应
 
@@ -93,7 +93,7 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 #### 扭曲
 
-* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md#熔化)、[流动](/药效/漂移.md#流动)、[呼吸](/药效/漂移.md#呼吸)与[变形](/药效/漂移.md#变形)）* - 与其他迷幻剂相比，这种效应可以描述为细节丰富、运动缓慢而平滑、外观相对静态，并带有不真实或卡通化的风格。
+* **[漂移](/药效/漂移.md)** *（[熔化](/药效/漂移.md)、[流动](/药效/漂移.md)、[呼吸](/药效/漂移.md)与[变形](/药效/漂移.md)）* - 与其他迷幻剂相比，这种效应可以描述为细节丰富、运动缓慢而平滑、外观相对静态，并带有不真实或卡通化的风格。
 * **[视觉拖尾](/药效/视觉拖尾.md)**
 * **[残影](/药效/残影.md)**
 * **[对称纹理重复](/药效/对称纹理重复.md)**
@@ -139,7 +139,7 @@ _**免责声明：** 下方列出的效应引用了[***主观效应索引***](/�
 
 ## 毒性与伤害潜力
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)，以及[负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)，以及[负责任的用药索引页 § 致幻剂](/文档/负责任的用药索引页.md)
 
 在大鼠中的毒性研究显示，TMA-2达到80 mg/kg时会诱发频繁的阵挛性惊厥；120 mg/kg则与致命毒性效应相关。研究还估计，其对小鼠的LD50约为180 mg/kg。
 
@@ -187,17 +187,17 @@ TMA-2并不具有习惯形成性，实际上，随着使用次数增加，对它
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Bruckner, V. (24 October 1933). ["Über das Pseudonitrosit des Asarons"](https://onlinelibrary.wiley.com/doi/10.1002/prac.19331380907). *Journal für Praktische Chemie*. **138** (9–10): 268–274. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/prac.19331380907](//doi.org/10.1002%2Fprac.19331380907). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0021-8383](//www.worldcat.org/issn/0021-8383).
-2. [↑](#cite_ref-2) Shulgin, Alexander. "Pharmacology Lab Notes #1". Lafayette, CA. (1960-1976). p54 (Erowid.org) | [https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf)
-3. [↑](#cite_ref-3) Shulgin, A. T. (July 1964). ["Psychotomimetic amphetamines: Methoxy 3,4-dialkoxyamphetamines"](http://link.springer.com/10.1007/BF02147960). *Experientia*. **20** (7): 366–367. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF02147960](//doi.org/10.1007%2FBF02147960). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0014-4754](//www.worldcat.org/issn/0014-4754).
-4. [↑](#cite_ref-4) 'Acidman'. "Straight Dope". Berkeley Tribe, December 18-25, 1970 p23 (Independent Voices) | [http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23](http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23)
-5. [↑](#cite_ref-5) Lampe, Matt. "Dope-O-Scope". Ann Arbor Sun, November 12-25, 1971, p16 (Independent Voices) | [http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23](http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23)
-6. [↑](#cite_ref-6) [*Erowid Online Books : “PIHKAL” - #162 TMA-6*](https://www.erowid.org/library/books_online/pihkal/pihkal162.shtml)
-7. [↑](#cite_ref-7) European Monitoring Centre for Drugs and Drug Addiction, ed. (2004). *Report on the risk assessment of TMA-2 in the framework of the joint action on new synthetic drugs*. EMCDDA risk assessments. Office for Official Publications of the European Communities. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [9789291681822](http://en.wikipedia.org/wiki/Special:BookSources/9789291681822 "wikipedia:Special:BookSources/9789291681822").
-8. [↑](#cite_ref-8) ["COUNCIL DECISION 2003/847/JHA"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:321:0064:0065:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published December 6, 2003). November 27, 2003. pp. 64–65. [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [52224955](//www.worldcat.org/oclc/52224955). L 321.
-9. [↑](#cite_ref-9) ["Dreizehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5b%40attr_id%3D%27bgbl109s0049.pdf%27%5d#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl199s1935.pdf%27%5D__1576114019111) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
-10. [↑](#cite_ref-10) ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-11. [↑](#cite_ref-11) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
-12. [↑](#cite_ref-12) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-13. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_13-0) [https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
-14. [↑](#cite_ref-List_of_illegal_substances_for_law_14-0)  [https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf)
+1. ↑ Bruckner, V. (24 October 1933). ["Über das Pseudonitrosit des Asarons"](https://onlinelibrary.wiley.com/doi/10.1002/prac.19331380907). *Journal für Praktische Chemie*. **138** (9–10): 268–274. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/prac.19331380907](//doi.org/10.1002%2Fprac.19331380907). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0021-8383](//www.worldcat.org/issn/0021-8383).
+2. ↑ Shulgin, Alexander. "Pharmacology Lab Notes #1". Lafayette, CA. (1960-1976). p54 (Erowid.org) | [https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf](https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook1_searchable.pdf)
+3. ↑ Shulgin, A. T. (July 1964). ["Psychotomimetic amphetamines: Methoxy 3,4-dialkoxyamphetamines"](http://link.springer.com/10.1007/BF02147960). *Experientia*. **20** (7): 366–367. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF02147960](//doi.org/10.1007%2FBF02147960). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0014-4754](//www.worldcat.org/issn/0014-4754).
+4. ↑ 'Acidman'. "Straight Dope". Berkeley Tribe, December 18-25, 1970 p23 (Independent Voices) | [http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23](http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23)
+5. ↑ Lampe, Matt. "Dope-O-Scope". Ann Arbor Sun, November 12-25, 1971, p16 (Independent Voices) | [http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23](http://voices.revealdigital.com/cgi-bin/independentvoices?a=d&d=BFBJFGJ19701218.1.23)
+6. ↑ [*Erowid Online Books : “PIHKAL” - #162 TMA-6*](https://www.erowid.org/library/books_online/pihkal/pihkal162.shtml)
+7. ↑ European Monitoring Centre for Drugs and Drug Addiction, ed. (2004). *Report on the risk assessment of TMA-2 in the framework of the joint action on new synthetic drugs*. EMCDDA risk assessments. Office for Official Publications of the European Communities. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9789291681822](http://en.wikipedia.org/wiki/Special:BookSources/9789291681822).
+8. ↑ ["COUNCIL DECISION 2003/847/JHA"](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:321:0064:0065:EN:PDF). *Official Journal of the European Union*. Office for Official Publications of the European Communites (published December 6, 2003). November 27, 2003. pp. 64–65. [OCLC](http://en.wikipedia.org/wiki/OCLC) [52224955](//www.worldcat.org/oclc/52224955). L 321.
+9. ↑ ["Dreizehnte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften"](https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5b%40attr_id%3D%27bgbl109s0049.pdf%27%5d#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl199s1935.pdf%27%5D__1576114019111) (in German). Bundesanzeiger Verlag. Retrieved December 11, 2019.
+10. ↑ ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+11. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 11, 2019.
+12. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+13. ↑ [https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm)
+14. ↑  [https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf)

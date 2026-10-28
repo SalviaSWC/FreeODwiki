@@ -14,19 +14,19 @@
 | **精神活性分类** | *[致幻剂](/文档/药物分类/致幻剂.md)* |
 | **化学分类** | *[色胺类物质](/文档/药物分类/色胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
-| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 | **[给药剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 10 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 20 - 40 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 40 - 70 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 70 - 100 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 100 mg + |
+| [阈值](/文档/药物剂量分类.md) | 10 mg |
+| [轻微](/文档/药物剂量分类.md) | 20 - 40 mg |
+| [中等](/文档/药物剂量分类.md) | 40 - 70 mg |
+| [强烈](/文档/药物剂量分类.md) | 70 - 100 mg |
+| [严重](/文档/药物剂量分类.md) | 100 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [药效发作](/文档/药效时长.md#药效发作) | 30 - 90 分钟 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 2 - 4 小时 |
-| [药效残余](/文档/药效时长.md#药效残余) | 2 - 8 小时 |
+| [药效发作](/文档/药效时长.md) | 30 - 90 分钟 |
+| [药效达峰](/文档/药效时长.md) | 2 - 4 小时 |
+| [药效残余](/文档/药效时长.md) | 2 - 8 小时 |
 | **免责声明哦：** 本站的[给药剂量](/文档/给药剂量.md)信息是从用户和[资源](/关于本站/index.md)中收集的，仅用于教育目的呢。这不是推荐，应该与其他来源核实准确性喵。 | |
-| **[药物联用](#危险的药物联用)** | |
+| **药物联用** | |
 
 **二乙基色胺**（也称为 **N,N-DET** 或 **DET**）是一种合成的[致幻](/文档/药物分类/致幻剂.md)[色胺类物质](/文档/药物分类/色胺类物质.md)，也是 [DMT](/药物/DMT.md)（二甲基色胺）的近亲结构类似物。它非常罕见，人类使用的历史也很少呢。
 
@@ -36,27 +36,27 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 身体效应](#身体效应)
-    * [3.2 视觉效应](#视觉效应)
-        * [3.2.1 视觉增强](#视觉增强)
-        * [3.2.2 视觉扭曲](#视觉扭曲)
-        * [3.2.3 几何图形](#几何图形)
-        * [3.2.4 幻觉状态](#幻觉状态)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 听觉效应](#听觉效应)
-    * [3.5 超个人效应](#超个人效应)
-    * [3.6 体验报告](#体验报告)
-* [4 毒性和伤害潜能](#毒性和伤害潜能)
-    * [4.1 耐受性和成瘾潜能](#耐受性和成瘾潜能)
-    * [4.2 危险的药物联用](#危险的药物联用)
-* [5 法律地位](#法律地位)
-    * [6 另见](#另见)
-    * [7 外部链接](#外部链接)
-        * [7.1 讨论](#讨论)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 身体效应
+    * 3.2 视觉效应
+        * 3.2.1 视觉增强
+        * 3.2.2 视觉扭曲
+        * 3.2.3 几何图形
+        * 3.2.4 幻觉状态
+    * 3.3 认知效应
+    * 3.4 听觉效应
+    * 3.5 超个人效应
+    * 3.6 体验报告
+* 4 毒性和伤害潜能
+    * 4.1 耐受性和成瘾潜能
+    * 4.2 危险的药物联用
+* 5 法律地位
+    * 6 另见
+    * 7 外部链接
+        * 7.1 讨论
+* 8 参考文献
 
 ## 化学
 
@@ -211,17 +211,17 @@ DET 与所有[致幻剂](/文档/药物分类/致幻剂.md)均存在交叉耐受
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Hoffer, A., Osmond, H., Smythies, J. (January 1954). ["Schizophrenia: A New Approach. II. Result of a Year's Research"](https://www.cambridge.org/core/product/identifier/S0368315X00044236/type/journal_article). *Journal of Mental Science*. **100** (418): 29–45. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1192/bjp.100.418.29](//doi.org/10.1192%2Fbjp.100.418.29). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0368-315X](//www.worldcat.org/issn/0368-315X).
-2. [↑](#cite_ref-2) Khazan, N., McCash, D. (April 1965). "Effects of LSD-25, n,n-dimethyltryptamine (DMT), and N,N-diethyltryptamine (DET) on the photic evoked responses in the unanesthetized rabbit". *Archives Internationales De Pharmacodynamie Et De Therapie*. **154** (2): 474–483. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0003-9780](//www.worldcat.org/issn/0003-9780).
-3. [↑](#cite_ref-3) Gartz, J. (1989). ["Biotransformation of tryptamine derivatives in mycelial cultures ofPsilocybe"](https://onlinelibrary.wiley.com/doi/10.1002/jobm.3620290608). *Journal of Basic Microbiology*. **29** (6): 347–352. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/jobm.3620290608](//doi.org/10.1002%2Fjobm.3620290608). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0233-111X](//www.worldcat.org/issn/0233-111X).
-4. [↑](#cite_ref-4) Talaie, H., Panahandeh, R., Fayaznouri, M. R., Asadi, Z., Abdollahi, M. (June 2009). ["Dose-independent occurrence of seizure with tramadol"](http://link.springer.com/10.1007/BF03161089). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039).
-5. [↑](#cite_ref-5) ["List of psychotropic substances under international control (Green List)"](http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf) (PDF) (23rd ed.). International Narcotics Control Board (INCB). August 2003. Archived from [the original](http://www.incb.org/pdf/e/list/green.pdf) (PDF) on March 2, 2007.
-6. [↑](#cite_ref-Poisons_Standard_6-0) ["Poisons Standard"](https://www.legislation.gov.au/Details/F2020L01255). *Federal Register of Legislation*. Australian Government. October 2020. Retrieved October 23, 2020.
-7. [↑](#cite_ref-7) ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-8. [↑](#cite_ref-8) ["Sechste Verordnung über die den Betäubungsmitteln gleichgestellten Stoffe"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl174s0097.pdf) (PDF). *Bundesgesetzblatt Jahrgang 1974 Teil I Nr. 6* (in German). Bundesanzeiger Verlag. January 23, 1974. pp. 97–98. Retrieved January 7, 2020.
-9. [↑](#cite_ref-9) ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) ["Tabella I"](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf) (PDF) (in Italian). Ministero della Salute [Ministry of Health]. p. 8. Retrieved January 7, 2020.
-11. [↑](#cite_ref-11) ["Schedule 1 Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *"Reprint as at 13 August 2019: Misuse of Drugs Act 1975"*. Parliamentary Counsel Office. Retrieved January 7, 2020.
-12. [↑](#cite_ref-12) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-13. [↑](#cite_ref-13) ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
-14. [↑](#cite_ref-14) ["Controlled Substances: by CSA Schedule"](https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf) (PDF). U.S. Department of Justice. August 21, 2019. p. 4. Retrieved January 7, 2020.
+1. ↑ Hoffer, A., Osmond, H., Smythies, J. (January 1954). ["Schizophrenia: A New Approach. II. Result of a Year's Research"](https://www.cambridge.org/core/product/identifier/S0368315X00044236/type/journal_article). *Journal of Mental Science*. **100** (418): 29–45. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1192/bjp.100.418.29](//doi.org/10.1192%2Fbjp.100.418.29). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0368-315X](//www.worldcat.org/issn/0368-315X).
+2. ↑ Khazan, N., McCash, D. (April 1965). "Effects of LSD-25, n,n-dimethyltryptamine (DMT), and N,N-diethyltryptamine (DET) on the photic evoked responses in the unanesthetized rabbit". *Archives Internationales De Pharmacodynamie Et De Therapie*. **154** (2): 474–483. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0003-9780](//www.worldcat.org/issn/0003-9780).
+3. ↑ Gartz, J. (1989). ["Biotransformation of tryptamine derivatives in mycelial cultures ofPsilocybe"](https://onlinelibrary.wiley.com/doi/10.1002/jobm.3620290608). *Journal of Basic Microbiology*. **29** (6): 347–352. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/jobm.3620290608](//doi.org/10.1002%2Fjobm.3620290608). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0233-111X](//www.worldcat.org/issn/0233-111X).
+4. ↑ Talaie, H., Panahandeh, R., Fayaznouri, M. R., Asadi, Z., Abdollahi, M. (June 2009). ["Dose-independent occurrence of seizure with tramadol"](http://link.springer.com/10.1007/BF03161089). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039).
+5. ↑ ["List of psychotropic substances under international control (Green List)"](http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf) (PDF) (23rd ed.). International Narcotics Control Board (INCB). August 2003. Archived from [the original](http://www.incb.org/pdf/e/list/green.pdf) (PDF) on March 2, 2007.
+6. ↑ ["Poisons Standard"](https://www.legislation.gov.au/Details/F2020L01255). *Federal Register of Legislation*. Australian Government. October 2020. Retrieved October 23, 2020.
+7. ↑ ["Anlage I BtMG"](https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+8. ↑ ["Sechste Verordnung über die den Betäubungsmitteln gleichgestellten Stoffe"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl174s0097.pdf) (PDF). *Bundesgesetzblatt Jahrgang 1974 Teil I Nr. 6* (in German). Bundesanzeiger Verlag. January 23, 1974. pp. 97–98. Retrieved January 7, 2020.
+9. ↑ ["§ 29 BtMG"](https://www.gesetze-im-internet.de/btmg_1981/__29.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+10. ↑ ["Tabella I"](http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf) (PDF) (in Italian). Ministero della Salute [Ministry of Health]. p. 8. Retrieved January 7, 2020.
+11. ↑ ["Schedule 1 Class A controlled drugs"](http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576). *"Reprint as at 13 August 2019: Misuse of Drugs Act 1975"*. Parliamentary Counsel Office. Retrieved January 7, 2020.
+12. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+13. ↑ ["Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved January 7, 2020.
+14. ↑ ["Controlled Substances: by CSA Schedule"](https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf) (PDF). U.S. Department of Justice. August 21, 2019. p. 4. Retrieved January 7, 2020.

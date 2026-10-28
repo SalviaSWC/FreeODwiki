@@ -39,7 +39,7 @@ description: 什么是OD？OD圈又是什么？希望这一篇有关OD圈的罄�
 
 > 我没玩过，只看过视频，所以我只是在乱猜 --Salvia
 
-2022 年 1 月，一款名为[《<ruby>主播女孩重度依赖<rt><strong>N</strong>eedy <strong>G</strong>irl <strong>O</strong>ver<strong>d</strong>ose</ruby>》](https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/ 'Steam链接')简称 NGOD 的养成游戏在 Steam 平台上发布。这款游戏的核心玩法是玩家需要规划一名艺名叫“超天酱”，真实名字是“糖糖”的所谓“地雷系”的主播的每日行程。在游戏中，玩家需要平衡糖糖的四项属性：粉丝数、压力值、好感度和阴暗度，以达成各种结局。
+2022 年 1 月，一款名为[《<ruby>主播女孩重度依赖<rt><strong>N</strong>eedy <strong>G</strong>irl <strong>O</strong>ver<strong>d</strong>ose</ruby>》](https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/)简称 NGOD 的养成游戏在 Steam 平台上发布。这款游戏的核心玩法是玩家需要规划一名艺名叫“超天酱”，真实名字是“糖糖”的所谓“地雷系”的主播的每日行程。在游戏中，玩家需要平衡糖糖的四项属性：粉丝数、压力值、好感度和阴暗度，以达成各种结局。
 
 在游戏中，大量事件与行动会增加糖糖的压力值。为了缓解这些压力，玩家可以指示糖糖过量服用各种药物来有效地缓解压力。游戏中，一共有5种药物，这5种药物按糖糖的阴暗度属性的提高依次解锁。它们，分别对应现实中的[唑吡坦](../药物/唑吡坦.md)，[二氢可待因](../药物/二氢可待因.md)（在美国版中是[右美沙芬](../药物/右美沙芬.md)，因为美国没有那种二氢可待因制剂），[依替唑仑](../药物/依替唑仑.md)（在美国版中是[阿普唑仑](../药物/阿普唑仑.md)，因为美国没有依替唑仑制剂），[大麻](../药物/大麻.md)和 [LSD](../药物/LSD.md)。
 

@@ -24,7 +24,7 @@
 | ---------------------------------------------------------------------------- | - |
 | **警告：**由于个体体重、耐受、代谢和个人敏感性之间存在差异，请务必从较低剂量开始哦。参见[负责任的用药索引页](/文档/负责任的用药索引页.md)。 |   |
 
-#### [口服](/文档/给药途径.md#口服)
+#### [口服](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md) |             |
 | ------------------- | ----------- |
@@ -61,7 +61,7 @@
 | [药效褪去](/文档/药效时长.md) | 2 - 4 小时   |
 | [药效残余](/文档/药效时长.md) | 1 - 3 小时   |
 
-#### [静脉注射](/文档/给药途径.md#静脉注射)
+#### [静脉注射](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md) |              |
 | ------------------- | ------------ |
@@ -81,7 +81,7 @@
 
 * **免责声明：**本网站的[给药剂量](/文档/给药剂量.md)信息仅为教育目的，整理自使用者与其他资料，并不构成推荐呢；其准确性还应以其他来源进一步核实。
 
-| [相互作用](#危险的相互作用)               |
+| 相互作用               |
 | ------------------------------ |
 | [单胺氧化酶抑制剂](/文档/单胺氧化酶抑制剂.md)    |
 | [氧化亚氮](/药物/氧化亚氮.md)            |
@@ -106,29 +106,29 @@
 
 在 2010 年代作为[研究用化学品](/文档/研究用化学品.md)进入市场销售之前，O-DSMT 并没有有记录可查的人体使用史呢。
 
-[主观效应](#主观效应)包括[镇静](/药效/镇静.md)、[镇痛](/药效/镇痛.md)、[焦虑抑制](/药效/焦虑抑制.md)、[肌肉松弛](/药效/肌肉松弛.md)和欣快感。与[曲马多](/药物/曲马多.md)相比，O-DSMT 据报告具有更少的[兴奋](/药效/兴奋.md)性，整体感觉也明显更接近传统的[阿片类药物](/文档/药物分类/阿片类药物.md)。作为主要负责曲马多镇痛作用的代谢产物，O-DSMT 按重量计算明显比其母体化合物更强效。
+主观效应包括[镇静](/药效/镇静.md)、[镇痛](/药效/镇痛.md)、[焦虑抑制](/药效/焦虑抑制.md)、[肌肉松弛](/药效/肌肉松弛.md)和欣快感。与[曲马多](/药物/曲马多.md)相比，O-DSMT 据报告具有更少的[兴奋](/药效/兴奋.md)性，整体感觉也明显更接近传统的[阿片类药物](/文档/药物分类/阿片类药物.md)。作为主要负责曲马多镇痛作用的代谢产物，O-DSMT 按重量计算明显比其母体化合物更强效。
 
 O-DSMT 的人体使用历史很短，目前对其毒性和滥用潜力仍知之甚少。如果要使用这种物质，强烈建议采取[伤害减少措施](/文档/负责任的用药索引页.md)哦。
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **认知效应**](#认知效应)
-  * [3.3 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **认知效应**
+  * 3.3 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-  * [4.2 危险的相互作用](#危险的相互作用)
+  * 4.1 耐受性与成瘾潜力
+  * 4.2 危险的相互作用
 
-    * [4.2.1 血清素综合征风险](#血清素综合征风险)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 References](#references)
+    * 4.2.1 血清素综合征风险
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 References
 
 ## 化学
 
@@ -183,7 +183,7 @@ _**免责声明：**以下列出的效应援引自[***主观效应索引***](/�
 
 ## 毒性与伤害潜力
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 由于效力较强，O-DSMT 相对于其剂量而言具有中等程度的毒性潜力。与所有阿片类药物一样，长期效应可能有所不同，但也可能包括性欲降低、冷漠和记忆丧失。它在与[酒精](/药物/酒精.md)或[苯二氮䓬类物质](/文档/药物分类/苯二氮䓬类物质.md)等[抑制剂](/文档/药物分类/抑制剂.md)混用时，也可能具有致命性。
 
@@ -251,19 +251,19 @@ O-DSMT 的许多效应在长期和反复使用后都会产生耐受。不同效�
 
 ## References
 
-1. [↑](#cite_ref-tripsit_1-0) [*Risks of Combining Depressants - TripSit*](https://tripsit.me/combining-depressants/)
-2. [↑](#cite_ref-Sevcik1993_2-0) Sevcik, J., Nieber, K., Driessen, B., Illes, P. (September 1993). "Effects of the central analgesic tramadol and its main metabolite, O-desmethyltramadol, on rat locus coeruleus neurones". *British Journal of Pharmacology*. **110** (1): 169–176. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1476-5381.1993.tb13788.x](//doi.org/10.1111%2Fj.1476-5381.1993.tb13788.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1188](//www.worldcat.org/issn/0007-1188).
-3. [↑](#cite_ref-3) Dayer, P., Desmeules, J., Collart, L. (1997). "[Pharmacology of tramadol]". *Drugs*. 53 Suppl 2: 18–24. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.2165/00003495-199700532-00006](//doi.org/10.2165%2F00003495-199700532-00006). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0012-6667](//www.worldcat.org/issn/0012-6667).
-4. [↑](#cite_ref-4) Potschka, H., Friderichs, E., Löscher, W. (September 2000). "Anticonvulsant and proconvulsant effects of tramadol, its enantiomers and its M1 metabolite in the rat kindling model of epilepsy". *British Journal of Pharmacology*. **131** (2): 203–212. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1038/sj.bjp.0703562](//doi.org/10.1038%2Fsj.bjp.0703562). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1188](//www.worldcat.org/issn/0007-1188).
-5. [↑](#cite_ref-5) Bamigbade, T. A., Davidson, C., Langford, R. M., Stamford, J. A. (September 1997). "Actions of tramadol, its enantiomers and principal metabolite, O-desmethyltramadol, on serotonin (5-HT) efflux and uptake in the rat dorsal raphe nucleus". *British Journal of Anaesthesia*. **79** (3): 352–356. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/79.3.352](//doi.org/10.1093%2Fbja%2F79.3.352). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912).
-6. ↑   Driessen, B., Reimann, W., Giertz, H. (March 1993). "Effects of the central analgesic tramadol on the uptake and release of noradrenaline and dopamine in vitro". *British Journal of Pharmacology*. **108** (3): 806–811. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1111/j.1476-5381.1993.tb12882.x](//doi.org/10.1111%2Fj.1476-5381.1993.tb12882.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-1188](//www.worldcat.org/issn/0007-1188).
-7. [↑](#cite_ref-7) Arndt, T., Claussen, U., Güssregen, B., Schröfel, S., Stürzer, B., Werle, A., Wolf, G. (20 May 2011). "Kratom alkaloids and O-desmethyltramadol in urine of a "Krypton" herbal mixture consumer". *Forensic Science International*. **208** (1–3): 47–52. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.forsciint.2010.10.025](//doi.org/10.1016%2Fj.forsciint.2010.10.025). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1872-6283](//www.worldcat.org/issn/1872-6283).
-8. [↑](#cite_ref-8) Bäckstrom, B. G., Classon, G., Löwenhielm, P., Thelander, G. (15 December 2010). "[Krypton--new, deadly Internet drug. Since October 2009 have nine young persons died in Sweden]". *Lakartidningen*. **107** (50): 3196–3197. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0023-7205](//www.worldcat.org/issn/0023-7205).
-9. [↑](#cite_ref-9) Kronstrand, R., Roman, M., Thelander, G., Eriksson, A. (1 May 2011). ["Unintentional Fatal Intoxications with Mitragynine and O-Desmethyltramadol from the Herbal Blend Krypton"](https://academic.oup.com/jat/article-lookup/doi/10.1093/anatox/35.4.242). *Journal of Analytical Toxicology*. **35** (4): 242–247. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/anatox/35.4.242](//doi.org/10.1093%2Fanatox%2F35.4.242). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0146-4760](//www.worldcat.org/issn/0146-4760).
-10. ↑   Ershad, M., Cruz, M. D., Mostafa, A., Mckeever, R., Vearrier, D., Greenberg, M. I. (March 2020). ["Opioid Toxidrome Following Grapefruit Juice Consumption in the Setting of Methadone Maintenance"](https://journals.lww.com/10.1097/ADM.0000000000000535). *Journal of Addiction Medicine*. **14** (2): 172–174. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1097/ADM.0000000000000535](//doi.org/10.1097%2FADM.0000000000000535). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1932-0620](//www.worldcat.org/issn/1932-0620).
-11. [↑](#cite_ref-11) Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
-12. [↑](#cite_ref-12) [http://www.legislation.gov.uk/ukdsi/2013/9780111532980/pdfs/ukdsi_9780111532980_en.pdf](http://www.legislation.gov.uk/ukdsi/2013/9780111532980/pdfs/ukdsi_9780111532980_en.pdf)
-13. [↑](#cite_ref-13) [*Anlage I BtMG - Einzelnorm*](http://www.gesetze-im-internet.de/btmg_1981/anlage_i.html)
-14. [↑](#cite_ref-14) [*§ 2 AMG - Einzelnorm*](https://www.gesetze-im-internet.de/amg_1976/__2.html)
-15. [↑](#cite_ref-15) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-16. [↑](#cite_ref-16) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+1. ↑ [*Risks of Combining Depressants - TripSit*](https://tripsit.me/combining-depressants/)
+2. ↑ Sevcik, J., Nieber, K., Driessen, B., Illes, P. (September 1993). "Effects of the central analgesic tramadol and its main metabolite, O-desmethyltramadol, on rat locus coeruleus neurones". *British Journal of Pharmacology*. **110** (1): 169–176. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1476-5381.1993.tb13788.x](//doi.org/10.1111%2Fj.1476-5381.1993.tb13788.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188).
+3. ↑ Dayer, P., Desmeules, J., Collart, L. (1997). "[Pharmacology of tramadol]". *Drugs*. 53 Suppl 2: 18–24. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2165/00003495-199700532-00006](//doi.org/10.2165%2F00003495-199700532-00006). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0012-6667](//www.worldcat.org/issn/0012-6667).
+4. ↑ Potschka, H., Friderichs, E., Löscher, W. (September 2000). "Anticonvulsant and proconvulsant effects of tramadol, its enantiomers and its M1 metabolite in the rat kindling model of epilepsy". *British Journal of Pharmacology*. **131** (2): 203–212. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/sj.bjp.0703562](//doi.org/10.1038%2Fsj.bjp.0703562). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188).
+5. ↑ Bamigbade, T. A., Davidson, C., Langford, R. M., Stamford, J. A. (September 1997). "Actions of tramadol, its enantiomers and principal metabolite, O-desmethyltramadol, on serotonin (5-HT) efflux and uptake in the rat dorsal raphe nucleus". *British Journal of Anaesthesia*. **79** (3): 352–356. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/79.3.352](//doi.org/10.1093%2Fbja%2F79.3.352). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912).
+6. ↑   Driessen, B., Reimann, W., Giertz, H. (March 1993). "Effects of the central analgesic tramadol on the uptake and release of noradrenaline and dopamine in vitro". *British Journal of Pharmacology*. **108** (3): 806–811. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1111/j.1476-5381.1993.tb12882.x](//doi.org/10.1111%2Fj.1476-5381.1993.tb12882.x). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-1188](//www.worldcat.org/issn/0007-1188).
+7. ↑ Arndt, T., Claussen, U., Güssregen, B., Schröfel, S., Stürzer, B., Werle, A., Wolf, G. (20 May 2011). "Kratom alkaloids and O-desmethyltramadol in urine of a "Krypton" herbal mixture consumer". *Forensic Science International*. **208** (1–3): 47–52. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2010.10.025](//doi.org/10.1016%2Fj.forsciint.2010.10.025). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1872-6283](//www.worldcat.org/issn/1872-6283).
+8. ↑ Bäckstrom, B. G., Classon, G., Löwenhielm, P., Thelander, G. (15 December 2010). "[Krypton--new, deadly Internet drug. Since October 2009 have nine young persons died in Sweden]". *Lakartidningen*. **107** (50): 3196–3197. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0023-7205](//www.worldcat.org/issn/0023-7205).
+9. ↑ Kronstrand, R., Roman, M., Thelander, G., Eriksson, A. (1 May 2011). ["Unintentional Fatal Intoxications with Mitragynine and O-Desmethyltramadol from the Herbal Blend Krypton"](https://academic.oup.com/jat/article-lookup/doi/10.1093/anatox/35.4.242). *Journal of Analytical Toxicology*. **35** (4): 242–247. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/anatox/35.4.242](//doi.org/10.1093%2Fanatox%2F35.4.242). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0146-4760](//www.worldcat.org/issn/0146-4760).
+10. ↑   Ershad, M., Cruz, M. D., Mostafa, A., Mckeever, R., Vearrier, D., Greenberg, M. I. (March 2020). ["Opioid Toxidrome Following Grapefruit Juice Consumption in the Setting of Methadone Maintenance"](https://journals.lww.com/10.1097/ADM.0000000000000535). *Journal of Addiction Medicine*. **14** (2): 172–174. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1097/ADM.0000000000000535](//doi.org/10.1097%2FADM.0000000000000535). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1932-0620](//www.worldcat.org/issn/1932-0620).
+11. ↑ Gillman, P. K. (2005). ["Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity"](https://bjanaesthesia.org/article/S0007-0912%2817%2934956-5/fulltext). *British Journal of Anaesthesia*. **95** (4): 434–441. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/bja/aei210](//doi.org/10.1093%2Fbja%2Faei210) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1471-6771](//www.worldcat.org/issn/1471-6771). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0007-0912](//www.worldcat.org/issn/0007-0912). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01537271](//www.worldcat.org/oclc/01537271). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [16051647](//www.ncbi.nlm.nih.gov/pubmed/16051647).
+12. ↑ [http://www.legislation.gov.uk/ukdsi/2013/9780111532980/pdfs/ukdsi_9780111532980_en.pdf](http://www.legislation.gov.uk/ukdsi/2013/9780111532980/pdfs/ukdsi_9780111532980_en.pdf)
+13. ↑ [*Anlage I BtMG - Einzelnorm*](http://www.gesetze-im-internet.de/btmg_1981/anlage_i.html)
+14. ↑ [*§ 2 AMG - Einzelnorm*](https://www.gesetze-im-internet.de/amg_1976/__2.html)
+15. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+16. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

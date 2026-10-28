@@ -16,36 +16,36 @@
 | 化学分类 | *[苯丙胺类物质](/文档/药物分类/苯丙胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
 | **警告：** 因为每个人的体重、耐受度、代谢和敏感度都不一样，一定要从低剂量开始尝试哦。[参见负责任的用药章节](/文档/负责任的用药索引页.md)。 | |
-| **⇣ [口服](/文档/给药途径.md#口服)** | |
+| **⇣ [口服](/文档/给药途径.md)** | |
 | **[剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 5 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 5 - 15 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 15 - 30 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 30 - 50 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 50 mg + |
+| [阈值](/文档/药物剂量分类.md) | 5 mg |
+| [轻微](/文档/药物剂量分类.md) | 5 - 15 mg |
+| [中等](/文档/药物剂量分类.md) | 15 - 30 mg |
+| [强烈](/文档/药物剂量分类.md) | 30 - 50 mg |
+| [严重](/文档/药物剂量分类.md) | 50 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 7 - 9 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 30 - 60 分钟 |
-| [药效上升](/文档/药效时长.md#药效上升) | 15 - 40 分钟 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 2.5 - 4 小时 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 2 - 3 小时 |
-| [药效残余](/文档/药效时长.md#药效残余) | 4 - 12 小时 |
-| **⇣ [鼻吸](/文档/给药途径.md#鼻吸)** | |
+| [总时长](/文档/药效时长.md) | 7 - 9 小时 |
+| [药效发作](/文档/药效时长.md) | 30 - 60 分钟 |
+| [药效上升](/文档/药效时长.md) | 15 - 40 分钟 |
+| [药效达峰](/文档/药效时长.md) | 2.5 - 4 小时 |
+| [药效褪去](/文档/药效时长.md) | 2 - 3 小时 |
+| [药效残余](/文档/药效时长.md) | 4 - 12 小时 |
+| **⇣ [鼻吸](/文档/给药途径.md)** | |
 | **[剂量](/文档/给药剂量.md)** | |
-| [阈值](/文档/药物剂量分类.md#阈值) | 5 mg |
-| [轻微](/文档/药物剂量分类.md#轻微) | 5 - 15 mg |
-| [中等](/文档/药物剂量分类.md#中等) | 15 - 30 mg |
-| [强烈](/文档/药物剂量分类.md#强烈) | 30 - 50 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 50 mg + |
+| [阈值](/文档/药物剂量分类.md) | 5 mg |
+| [轻微](/文档/药物剂量分类.md) | 5 - 15 mg |
+| [中等](/文档/药物剂量分类.md) | 15 - 30 mg |
+| [强烈](/文档/药物剂量分类.md) | 30 - 50 mg |
+| [严重](/文档/药物剂量分类.md) | 50 mg + |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | 4 - 6 小时 |
-| [药效发作](/文档/药效时长.md#药效发作) | 20 - 40 分钟 |
-| [药效上升](/文档/药效时长.md#药效上升) | 10 - 20 分钟 |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 1 - 3 小时 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1.5 - 3 小时 |
-| [药效残余](/文档/药效时长.md#药效残余) | 2 - 4 小时 |
+| [总时长](/文档/药效时长.md) | 4 - 6 小时 |
+| [药效发作](/文档/药效时长.md) | 20 - 40 分钟 |
+| [药效上升](/文档/药效时长.md) | 10 - 20 分钟 |
+| [药效达峰](/文档/药效时长.md) | 1 - 3 小时 |
+| [药效褪去](/文档/药效时长.md) | 1.5 - 3 小时 |
+| [药效残余](/文档/药效时长.md) | 2 - 4 小时 |
 | **[免责声明](/文档/免责声明.md)：** 本站的 [剂量](/文档/给药剂量.md) 信息是收集自用户和 [资源](/文档/网络.md) 仅供教育用途的喵。这不是推荐，使用前要和其他来源核对准确性哦。 | |
-| **[相互作用](#危险药物联用)** | |
+| **相互作用** | |
 | 酒精 | ⚠️ 谨慎联用 |
 | GHB | 💔 联用危险 |
 | GBL | 💔 联用危险 |
@@ -68,7 +68,7 @@
 
 **2-氟甲基苯丙胺**（也叫 **2-FMA**）是 [苯丙胺](/药物/苯丙胺.md) 类的一种新型 [兴奋剂](/文档/药物分类/兴奋剂.md) 哦。它是 [甲基苯丙胺](/药物/甲基苯丙胺.md) 的结构类似物，和 [2-FA](/药物/2-FA.md)、[3-FA](/药物/3-FA.md) 和 [4-FMA](/药物/4-FMA.md) 是亲戚呢。2-FMA 通过作用于大脑中的 [多巴胺](/文档/多巴胺.md) 和 [去甲肾上腺素](/文档/去甲肾上腺素.md) 受体来产生兴奋效果。
 
-2007年8月，网上首次报道了 2-FMA 在在线 [研究用化学品](/文档/研究用化学品.md) 市场上的销售。[\[1\]](#cite_note-1) 它和 [2-FA](/药物/2-FA.md) 和 [4-FA](/药物/4-FA.md) 等其他氟化苯丙胺一起出现了。但在临床和研究文献中似乎还找不到它的身影呢。
+2007年8月，网上首次报道了 2-FMA 在在线 [研究用化学品](/文档/研究用化学品.md) 市场上的销售。\[1\] 它和 [2-FA](/药物/2-FA.md) 和 [4-FA](/药物/4-FA.md) 等其他氟化苯丙胺一起出现了。但在临床和研究文献中似乎还找不到它的身影呢。
 
 [主观效应](/药效/index.md) 包括 [兴奋](/药效/兴奋.md)、[专注力强化](/药效/专注力强化.md)、[动机增强](/药效/动机增强.md)、[性欲增强](/药效/性欲增强.md)、[食欲抑制](/药效/食欲抑制.md) 和 [欣快感](/药效/认知欣快.md)。通常是口服或鼻吸的，据报道如果雾化吸入会非常不舒服且危险，因为热量会破坏碳-氟键，这可是很有毒的哦。2-FMA 在持续时间、效力和作为学习或生产力辅助工具的功效方面，经常被拿来和 [利右苯丙胺](/药物/利右苯丙胺.md) (Vyvanse) 比较呢。在超过严重剂量范围时，经常有报道称会出现 [血压升高](/药效/血压升高.md) 和 [心率增快](/药效/心率增快.md) 等不良反应的大幅增加。
 
@@ -76,24 +76,24 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 **身体效应**](#身体效应)
-    * [3.2 **视觉效应**](#视觉效应)
-        * [3.2.1 扭曲](#扭曲)
-        * [3.2.2 幻觉状态](#幻觉状态)
-    * [3.3 **认知效应**](#认知效应)
-    * [3.4 **药效残余**](#药效残余)
-    * [3.5 体验报告](#体验报告)
-* [4 毒性与危害](#毒性与危害)
-    * [4.1 依赖性和滥用潜力](#依赖性和滥用潜力)
-    * [4.2 精神病](#精神病)
-    * [4.3 危险药物联用](#危险药物联用)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 **身体效应**
+    * 3.2 **视觉效应**
+        * 3.2.1 扭曲
+        * 3.2.2 幻觉状态
+    * 3.3 **认知效应**
+    * 3.4 **药效残余**
+    * 3.5 体验报告
+* 4 毒性与危害
+    * 4.1 依赖性和滥用潜力
+    * 4.2 精神病
+    * 4.3 危险药物联用
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -110,7 +110,7 @@
 
 ## 主观效应
 
-与其他取代苯丙胺相比，据报道 2-FMA 相对没有 [恶心](/药效/恶心.md)、[高血压](/药效/血压升高.md)、[焦虑](/药效/焦虑.md) 和不舒服的 [药效褪去](/文档/药效时长.md#药效褪去)（“下头”）等副作用。它被认为是执行一般生产力任务的功能性兴奋剂，方式类似于 [苯丙胺](/药物/苯丙胺.md) 或 [利右苯丙胺](/药物/利右苯丙胺.md) (Vyvanse)。然而，在较高剂量下，它通常会失去生产力和专注力增强的效果，并开始具有娱乐性质，因为它会产生令人分心的欣快感。大多数用户的轶事报告表明，在高剂量（严重+）范围内有天花板效应，许多人报告说当进入强烈-严重剂量范围时会出现兴奋剂的不舒服效果。
+与其他取代苯丙胺相比，据报道 2-FMA 相对没有 [恶心](/药效/恶心.md)、[高血压](/药效/血压升高.md)、[焦虑](/药效/焦虑.md) 和不舒服的 [药效褪去](/文档/药效时长.md)（“下头”）等副作用。它被认为是执行一般生产力任务的功能性兴奋剂，方式类似于 [苯丙胺](/药物/苯丙胺.md) 或 [利右苯丙胺](/药物/利右苯丙胺.md) (Vyvanse)。然而，在较高剂量下，它通常会失去生产力和专注力增强的效果，并开始具有娱乐性质，因为它会产生令人分心的欣快感。大多数用户的轶事报告表明，在高剂量（严重+）范围内有天花板效应，许多人报告说当进入强烈-严重剂量范围时会出现兴奋剂的不舒服效果。
 
 _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/药效/index.md) (**SEI**)，这是基于轶事用户报告和 [PsychonautWiki](/文档/关于本站/index.md) [贡献者](/文档/关于本站/index.md) 的个人分析的开放研究文献。因此，应带着健康的怀疑态度来看待它们哦。_
 
@@ -144,7 +144,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 * 2-FMA 的视觉效果通常不太一致，只有在较高剂量下才稍微明显一点。它们在某种程度上类似于 [谵妄剂](/文档/药物分类/谵妄剂.md)，并且在黑暗区域更容易发生。
 
     #### 扭曲
-    *   **[漂移](/药效/漂移.md)** *([呼吸](/药效/漂移.md#呼吸) 和 [变形](/药效/漂移.md#变形))* - 这种效果通常很微妙，几乎不明显，只有在较高剂量下或与 [大麻](/药物/大麻.md) 结合使用时才会发生。
+    *   **[漂移](/药效/漂移.md)** *([呼吸](/药效/漂移.md) 和 [变形](/药效/漂移.md))* - 这种效果通常很微妙，几乎不明显，只有在较高剂量下或与 [大麻](/药物/大麻.md) 结合使用时才会发生。
     *   **[亮度改变](/药效/亮度改变.md)** - 由于其瞳孔扩张作用，2-FMA 可以使空间看起来更亮。
     #### 幻觉状态
     *   **[变形](/药效/视觉变形.md)** - 这种效果非常罕见，通常只有在用户服用了高剂量、正在下头或已经醒了异常长的时间时才会发生。发生时通常非常轻微。
@@ -171,7 +171,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 ### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects.png)
 
-* 在 [兴奋剂](/文档/药物分类/兴奋剂.md) 体验的 [药效褪去](/文档/药效时长.md#药效褪去) 期间发生的效果通常感觉比在 [药效达峰](/文档/药效时长.md#药效达峰) 期间发生的效果更消极和不舒服。这通常被称为“下头”，是因为 [神经递质](/文档/神经递质.md) 耗尽造成的。其效果通常包括：
+* 在 [兴奋剂](/文档/药物分类/兴奋剂.md) 体验的 [药效褪去](/文档/药效时长.md) 期间发生的效果通常感觉比在 [药效达峰](/文档/药效时长.md) 期间发生的效果更消极和不舒服。这通常被称为“下头”，是因为 [神经递质](/文档/神经递质.md) 耗尽造成的。其效果通常包括：
     *   **[焦虑](/药效/焦虑.md)**
     *   **[认知疲劳](/药效/认知疲劳.md)**
     *   **[妄想](/药效/妄想.md)**
@@ -219,7 +219,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 主条目：[兴奋剂精神病](/文档/兴奋剂精神病.md)
 
-长时间高剂量使用苯丙胺类化合物可能会导致兴奋剂精神病，可能表现为各种症状（例如 [偏执](/药效/偏执.md)、[幻觉](/药效/外部幻觉.md) 或 [妄想](/药效/妄想.md)）。[\[2\]](#cite_note-2)[\[3\]](#cite_note-amppsychosis-3) 一篇关于苯丙胺、[右旋苯丙胺](/药物/苯丙胺.md) 和 [甲基苯丙胺](/药物/甲基苯丙胺.md) 滥用引起的精神病的治疗综述指出，大约 5–15% 的用户无法完全康复。[\[3\]](#cite_note-amppsychosis-3)[\[4\]](#cite_note-4) 同一篇综述断言，基于至少一项试验，[抗精神病药](/文档/抗精神病药.md) 可以有效解决急性苯丙胺精神病的症状。[\[3\]](#cite_note-amppsychosis-3)
+长时间高剂量使用苯丙胺类化合物可能会导致兴奋剂精神病，可能表现为各种症状（例如 [偏执](/药效/偏执.md)、[幻觉](/药效/外部幻觉.md) 或 [妄想](/药效/妄想.md)）。\[2\]\[3\] 一篇关于苯丙胺、[右旋苯丙胺](/药物/苯丙胺.md) 和 [甲基苯丙胺](/药物/甲基苯丙胺.md) 滥用引起的精神病的治疗综述指出，大约 5–15% 的用户无法完全康复。\[3\]\[4\] 同一篇综述断言，基于至少一项试验，[抗精神病药](/文档/抗精神病药.md) 可以有效解决急性苯丙胺精神病的症状。\[3\]
 
 ### 危险药物联用
 
@@ -230,12 +230,12 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 *   **酒精** - 在服用兴奋剂时饮酒被认为是有风险的，因为它会降低身体用来衡量醉酒程度的酒精镇静作用。这通常导致过度饮酒，抑制力大大降低，增加肝损伤和脱水的风险。兴奋剂的作用也会让人喝过量，超过通常会醉倒的点，从而增加风险。如果你决定这样做，你应该设定每小时喝多少的限制并坚持下去，记住你会感觉酒精和兴奋剂的作用都变小了。
 *   **GHB**/**GBL** - 兴奋剂会增加呼吸频率，允许服用更高剂量的镇静剂。如果兴奋剂先失效，GHB/GBL 的抑制作用可能会压倒用户并导致呼吸停止。
 *   **阿片类药物** - 兴奋剂会增加呼吸频率，允许服用更高剂量的阿片类药物。如果兴奋剂先失效，阿片类药物可能会压倒患者并导致呼吸停止。
-*   **可卡因** - 可卡因的奖赏效应是由 DAT 抑制和通过细胞膜的多巴胺胞吐作用增加介导的。苯丙胺通过 pH 介导的置换机制逆转 DAT 的方向和细胞内囊泡转运的方向，从而排除了通过胞吐作用释放多巴胺的常规机制，因为 Na+/K+ ATPase 的作用被抑制了。你会发现可卡因和苯丙胺的组合会对心脏产生影响，这是由于 SERT 介导的机制导致的随后的 5-HT2B 激活，这是一种血清素相关瓣膜病的影响。苯丙胺在滥用模型中通常会导致高血压，这种组合可能会增加由于瓣膜操作期间血流湍流而导致晕厥的机会。可卡因的奖赏机制会被苯丙胺的给药逆转。[\[5\]](#cite_note-Greenwald2010-5)[\[6\]](#cite_note-Siciliano2018-6)
+*   **可卡因** - 可卡因的奖赏效应是由 DAT 抑制和通过细胞膜的多巴胺胞吐作用增加介导的。苯丙胺通过 pH 介导的置换机制逆转 DAT 的方向和细胞内囊泡转运的方向，从而排除了通过胞吐作用释放多巴胺的常规机制，因为 Na+/K+ ATPase 的作用被抑制了。你会发现可卡因和苯丙胺的组合会对心脏产生影响，这是由于 SERT 介导的机制导致的随后的 5-HT2B 激活，这是一种血清素相关瓣膜病的影响。苯丙胺在滥用模型中通常会导致高血压，这种组合可能会增加由于瓣膜操作期间血流湍流而导致晕厥的机会。可卡因的奖赏机制会被苯丙胺的给药逆转。\[5\]\[6\]
 *   **大麻** - 兴奋剂会增加 [焦虑](/药效/焦虑.md) 水平和 [思维循环](/药效/思维循环.md) 以及 [偏执](/药效/偏执.md) 的风险，这可能导致负面体验。
 *   **咖啡因** - 这种兴奋剂组合通常被认为是不必要的，可能会增加心脏负担，以及可能引起焦虑和身体不适。
 *   **曲马多** - 曲马多和兴奋剂都会增加癫痫发作的风险。
 *   **右美沙芬** - 两种物质都会提高心率，在极端情况下，由这些物质引起的惊恐发作曾导致更严重的心脏问题。
-*   **氯胺酮** - 结合苯丙胺和氯胺酮可能会导致类似于精神分裂症的精神病，但不比任何一种物质单独产生的精神病更严重，但这还有争议。这是因为苯丙胺能够减轻氯胺酮引起的工作记忆破坏。单独使用苯丙胺可能会导致夸大、偏执或躯体妄想，而对阴性症状几乎没有影响。然而，氯胺酮会导致思维障碍、执行功能破坏和由于概念修改引起的妄想。这些机制是由于苯丙胺通过其影响多巴胺的药理学导致中脑边缘通路中多巴胺能活性的增加，以及由于氯胺酮的 NMDA 拮抗作用导致中脑皮层通路中多巴胺能功能的破坏。结合这两者，你可能会预期主要是思维障碍以及阳性症状。[\[7\]](#cite_note-Krystal2005-7)
+*   **氯胺酮** - 结合苯丙胺和氯胺酮可能会导致类似于精神分裂症的精神病，但不比任何一种物质单独产生的精神病更严重，但这还有争议。这是因为苯丙胺能够减轻氯胺酮引起的工作记忆破坏。单独使用苯丙胺可能会导致夸大、偏执或躯体妄想，而对阴性症状几乎没有影响。然而，氯胺酮会导致思维障碍、执行功能破坏和由于概念修改引起的妄想。这些机制是由于苯丙胺通过其影响多巴胺的药理学导致中脑边缘通路中多巴胺能活性的增加，以及由于氯胺酮的 NMDA 拮抗作用导致中脑皮层通路中多巴胺能功能的破坏。结合这两者，你可能会预期主要是思维障碍以及阳性症状。\[7\]
 *   **PCP** - 增加心动过速、高血压和躁狂状态的风险。
 *   **MXE** - 增加心动过速、高血压和躁狂状态的风险。
 *   **致幻剂** (例如 ***[LSD](/药物/LSD.md), [麦斯卡林](/药物/麦斯卡林.md), [赛洛西宾](/药物/赛洛西宾蘑菇.md)***) - 增加 [焦虑](/药效/焦虑.md)、[偏执](/药效/偏执.md) 和 [思维循环](/药效/思维循环.md) 的风险。
@@ -253,16 +253,16 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 2-FMA 目前在世界各地都处于灰色地带，这意味着它的监管处于法律灰色地带，并且不知道在任何国家被明确列为非法（“管制”）。然而，人们仍可能因持有它而被指控，例如根据类似物法以及意图出售或消费。
 
-*   **加拿大**：2-FMA 将被视为附表 I，因为它是苯丙胺的类似物。[\[8\]](#cite_note-8)
-*   **中国**：截至 2015 年 10 月，2-FMA 在中国是受管制物质。[\[9\]](#cite_note-9)
-*   **法国**：截至 2024 年 12 月，2-FMA 未被明确列入管制。因此持有是合法的，尽管处于灰色地带。[\[10\]](#cite_note-10)
-*   **德国**：截至 2014 年 12 月 13 日，2-FMA 根据 Anlage I BtMG（*麻醉品法，附表 I*）受管制。[\[11\]](#cite_note-11)[\[12\]](#cite_note-12) 未经许可制造、持有、进口、出口、购买、销售、采购或分发它是非法的。[\[13\]](#cite_note-13)
-*   **新西兰**：2-FMA 是苯丙胺类似物，因此在新西兰是附表 3 受管制物质。[\[14\]](#cite_note-14)
-*   **瑞士**：2-FMA 是 Verzeichnis E 下特别命名的受管制物质。[\[15\]](#cite_note-15)
-*   **土耳其**：2-FMA 被归类为毒品，持有、生产、供应或进口均属非法。[\[16\]](#cite_note-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742-16) [\[17\]](#cite_note-List_of_illegal_substances_for_law-17)
-*   **荷兰**：自 2025 年 7 月 1 日起，2-FMA 是受管制物质。[\[18\]](#cite_note-18)
-*   **英国**：根据 1971 年滥用药物法的苯丙胺类似物条款，2-FMA 被视为 A 类药物。[\[19\]](#cite_note-19)
-*   **乌克兰**：2-FMA 被视为麻醉品且非法。[\[20\]](#cite_note-20)
+*   **加拿大**：2-FMA 将被视为附表 I，因为它是苯丙胺的类似物。\[8\]
+*   **中国**：截至 2015 年 10 月，2-FMA 在中国是受管制物质。\[9\]
+*   **法国**：截至 2024 年 12 月，2-FMA 未被明确列入管制。因此持有是合法的，尽管处于灰色地带。\[10\]
+*   **德国**：截至 2014 年 12 月 13 日，2-FMA 根据 Anlage I BtMG（*麻醉品法，附表 I*）受管制。\[11\]\[12\] 未经许可制造、持有、进口、出口、购买、销售、采购或分发它是非法的。\[13\]
+*   **新西兰**：2-FMA 是苯丙胺类似物，因此在新西兰是附表 3 受管制物质。\[14\]
+*   **瑞士**：2-FMA 是 Verzeichnis E 下特别命名的受管制物质。\[15\]
+*   **土耳其**：2-FMA 被归类为毒品，持有、生产、供应或进口均属非法。\[16\] \[17\]
+*   **荷兰**：自 2025 年 7 月 1 日起，2-FMA 是受管制物质。\[18\]
+*   **英国**：根据 1971 年滥用药物法的苯丙胺类似物条款，2-FMA 被视为 A 类药物。\[19\]
+*   **乌克兰**：2-FMA 被视为麻醉品且非法。\[20\]
 
 ## 另见
 
@@ -281,10 +281,10 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 ## 参考文献
 
-1.  [↑](#cite_ref-1) Camilleri, A., Johnston, M. R., Brennan, M., Davis, S., Caldicott, D. G. E. (April 2010). ["Chemical analysis of four capsules containing the controlled substance analogues 4-methylmethcathinone, 2-fluoromethamphetamine, α-phthalimidopropiophenone and N-ethylcathinone"](https://linkinghub.elsevier.com/retrieve/pii/S0379073809005490). *Forensic Science International*. **197** (1–3): 59–66. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2009.12.048](//doi.org/10.1016%2Fj.forsciint.2009.12.048). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738).
-2.  [↑](#cite_ref-2) [*Emerging Trends*](https://nida.nih.gov/research-topics/emerging-trends-alerts), National Institute on Drug Abuse
-3.  ↑ [3.0](#cite_ref-amppsychosis_3-0) [3.1](#cite_ref-amppsychosis_3-1) [3.2](#cite_ref-amppsychosis_3-2) Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858).
-4.  [↑](#cite_ref-4) Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1 "Category:CS1 maint: Extra text (page does not exist)"))
-5.  [↑](#cite_ref-Greenwald2010_5-0) Greenwald, M. K., Lundahl, L. H., Steinmiller, C. L. (December 2010). ["Sustained Release d-Amphetamine Reduces Cocaine but not 'Speedball'-Seeking in Buprenorphine-Maintained Volunteers: A Test of Dual-Agonist Pharmacotherapy for Cocaine/Heroin Polydrug Abusers"](http://www.nature.com/articles/npp2010175). *Neuropsychopharmacology*. **35** (13): 2624–2637. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/npp.2010.175](//doi.org/10.1038%2Fnpp.2010.175). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0893-133X](//www.worldcat.org/issn/0893-133X).
-6.  [↑](#cite_ref-Siciliano2018_6-0) Siciliano, C. A., Saha, K., Calipari, E. S., Fordahl, S. C., Chen, R., Khoshbouei, H., Jones, S. R. (10 January 2018). ["Amphetamine Reverses Escalated Cocaine Intake via Restoration of Dopamine Transporter Conformation"](https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.2604-17.2017). *The Journal of Neuroscience*. **38** (2): 484–497. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1523/JNEUROSCI.2604-17.2017](//doi.org/10.1523%2FJNEUROSCI.2604-17.2017). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0270-6474](//www.worldcat.org/issn/0270-6474).
-7.  [↑](#cite_ref-Krystal2005_7-0) Krystal, J. H., Perry, E. B., Gueorguieva, R., Belger, A., Madonick, S. H., Abi-Dargham, A., Cooper, T. B., MacDougall, L., Abi-Saab, W., D’Souza, D. C. (1 September 
+1.  ↑ Camilleri, A., Johnston, M. R., Brennan, M., Davis, S., Caldicott, D. G. E. (April 2010). ["Chemical analysis of four capsules containing the controlled substance analogues 4-methylmethcathinone, 2-fluoromethamphetamine, α-phthalimidopropiophenone and N-ethylcathinone"](https://linkinghub.elsevier.com/retrieve/pii/S0379073809005490). *Forensic Science International*. **197** (1–3): 59–66. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2009.12.048](//doi.org/10.1016%2Fj.forsciint.2009.12.048). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0379-0738](//www.worldcat.org/issn/0379-0738).
+2.  ↑ [*Emerging Trends*](https://nida.nih.gov/research-topics/emerging-trends-alerts), National Institute on Drug Abuse
+3.  ↑ 3.0 3.1 3.2 Shoptaw, S. J., Kao, U., Ling, W. (21 January 2009). Cochrane Drugs and Alcohol Group, ed. ["Treatment for amphetamine psychosis"](https://doi.wiley.com/10.1002/14651858.CD003026.pub3). *Cochrane Database of Systematic Reviews*. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/14651858.CD003026.pub3](//doi.org/10.1002%2F14651858.CD003026.pub3). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1465-1858](//www.worldcat.org/issn/1465-1858).
+4.  ↑ Hofmann, F. G. (1983). *A handbook on drug and alcohol abuse: the biomedical aspects* (2nd ed ed.). Oxford University Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780195030563](http://en.wikipedia.org/wiki/Special:BookSources/9780195030563). CS1 maint: Extra text ([link](/w/index.php?title=Category:CS1_maint:_Extra_text&action=edit&redlink=1))
+5.  ↑ Greenwald, M. K., Lundahl, L. H., Steinmiller, C. L. (December 2010). ["Sustained Release d-Amphetamine Reduces Cocaine but not 'Speedball'-Seeking in Buprenorphine-Maintained Volunteers: A Test of Dual-Agonist Pharmacotherapy for Cocaine/Heroin Polydrug Abusers"](http://www.nature.com/articles/npp2010175). *Neuropsychopharmacology*. **35** (13): 2624–2637. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1038/npp.2010.175](//doi.org/10.1038%2Fnpp.2010.175). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0893-133X](//www.worldcat.org/issn/0893-133X).
+6.  ↑ Siciliano, C. A., Saha, K., Calipari, E. S., Fordahl, S. C., Chen, R., Khoshbouei, H., Jones, S. R. (10 January 2018). ["Amphetamine Reverses Escalated Cocaine Intake via Restoration of Dopamine Transporter Conformation"](https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.2604-17.2017). *The Journal of Neuroscience*. **38** (2): 484–497. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1523/JNEUROSCI.2604-17.2017](//doi.org/10.1523%2FJNEUROSCI.2604-17.2017). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0270-6474](//www.worldcat.org/issn/0270-6474).
+7.  ↑ Krystal, J. H., Perry, E. B., Gueorguieva, R., Belger, A., Madonick, S. H., Abi-Dargham, A., Cooper, T. B., MacDougall, L., Abi-Saab, W., D’Souza, D. C. (1 September 

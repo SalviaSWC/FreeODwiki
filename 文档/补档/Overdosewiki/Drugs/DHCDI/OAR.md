@@ -6,16 +6,16 @@ description:
 # 二氢可待因-杂项与报告
 
 
-[¶](#ngod错误的药效表达) NGOD错误的药效表达
+¶ NGOD错误的药效表达
 ----------------------------------------------------------
 
-### [¶](#原版的错误表达) 原版的错误表达
+### ¶ 原版的错误表达
 
 ![amechan_overdose_ssbron_at_morning_in_ngod.jpg](../../ngod/amechan_overdose_ssbron_at_morning_in_ngod.jpg)  
 ![amechan_overdose_ssbron_at_night_in_ngod.jpg](../../ngod/amechan_overdose_ssbron_at_night_in_ngod.jpg)
 > 上述部分是原版的药效表达，是有偏差的。二氢可待因并不是很能造成如图所示的视觉幻觉，但确实可以造成视觉模糊
 
-### [¶](#正确表达) 正确表达
+### ¶ 正确表达
 
 ![the_original_of_that_may_be_amechan_to_overdose_ssbron.jpg](../../ngod/the_original_of_that_may_be_amechan_to_overdose_ssbron.jpg)  
 上图是原始图像

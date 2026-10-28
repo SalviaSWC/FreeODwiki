@@ -18,7 +18,7 @@
 | ---------------------------------------------------------------------------- | - |
 | **警告：**由于个体体重、耐受、代谢和个人敏感性之间存在差异，请务必从较低剂量开始哦。参见[负责任的用药索引页](/文档/负责任的用药索引页.md)。 |   |
 
-#### [口服](/文档/给药途径.md#口服)
+#### [口服](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md) |                |
 | ------------------- | -------------- |
@@ -36,7 +36,7 @@
 
 * **免责声明：**本网站的[给药剂量](/文档/给药剂量.md)信息仅为教育目的，整理自使用者与其他资料，并不构成推荐呢；其准确性还应以其他来源进一步核实。
 
-| [相互作用](#危险的相互作用) |
+| 相互作用 |
 | ---------------- |
 
 **S-腺苷-L-蛋氨酸**（也称 **S-腺苷蛋氨酸**、**腺苷蛋氨酸**，常简称为 **SAMe** 或 **SAM-e**）是一种常见的共底物，参与生物体内的甲基转移、转硫作用和氨丙基化过程。SAMe 是一种与 ATP 分子结合的氨基酸蛋氨酸，在血液中天然循环，并充当“甲基供体”。化学中的甲基本质上只是一个碳基团（连着若干氢原子），而将甲基转移给其他分子，可以作为一种代谢“维护”形式来加速或维持体内反应。
@@ -50,20 +50,20 @@ SAM-e 可在非处方渠道购买，也可通过处方用于治疗抑郁症和�
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **认知效应**](#认知效应)
-  * [3.3 体验报告](#体验报告)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **认知效应**
+  * 3.3 体验报告
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受性与成瘾潜力](#耐受性与成瘾潜力)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 References](#references)
+  * 4.1 耐受性与成瘾潜力
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 References
 
 ## 化学
 
@@ -161,14 +161,14 @@ S-腺苷蛋氨酸的许多效应会在持续且反复使用数周后形成耐受
 
 ## References
 
-1. [↑](#cite_ref-1) Finkelstein, J. D., Martin, J. J. (April 2000). "Homocysteine". *The International Journal of Biochemistry & Cell Biology*. **32** (4): 385–389. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/s1357-2725(99)00138-7](//doi.org/10.1016%2Fs1357-2725%2899%2900138-7). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1357-2725](//www.worldcat.org/issn/1357-2725).
-2. [↑](#cite_ref-2) Mischoulon, D., Alpert, J. E., Arning, E., Bottiglieri, T., Fava, M., Papakostas, G. I. (June 2012). ["Bioavailability of S-Adenosyl Methionine and Impact on Response in a Randomized Controlled Trial in Major Depressive Disorder"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156851/). *The Journal of clinical psychiatry*. **73** (6): 843–848. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.4088/JCP.11m07139](//doi.org/10.4088%2FJCP.11m07139). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0160-6689](//www.worldcat.org/issn/0160-6689).
-3. [↑](#cite_ref-3) Chan, A., Remington, R., Kotyla, E., Lepore, A., Zemianek, J., Shea, T. B. (March 2010). "A vitamin/nutriceutical formulation improves memory and cognitive performance in community-dwelling adults without dementia". *The Journal of Nutrition, Health & Aging*. **14** (3): 224–230. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s12603-010-0054-5](//doi.org/10.1007%2Fs12603-010-0054-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1760-4788](//www.worldcat.org/issn/1760-4788).
-4. ↑   Mischoulon, D., Fava, M. (November 2002). "Role of S-adenosyl-L-methionine in the treatment of depression: a review of the evidence". *The American Journal of Clinical Nutrition*. **76** (5): 1158S–61S. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1093/ajcn/76/5.1158S](//doi.org/10.1093%2Fajcn%2F76%2F5.1158S). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0002-9165](//www.worldcat.org/issn/0002-9165).
-5. [↑](#cite_ref-5) Williams, A. C., Ramsden, D. B. (2005). "Nicotinamide homeostasis: a xenobiotic pathway that is key to development and degenerative diseases". *Medical Hypotheses*. **65** (2): 353–362. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.mehy.2005.01.042](//doi.org/10.1016%2Fj.mehy.2005.01.042). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0306-9877](//www.worldcat.org/issn/0306-9877).
-6. [↑](#cite_ref-6) Witte, S., Lasek, R., Victor, N. (November 2002). "[Meta-analysis of the efficacy of adenosylmethionine and oxaceprol in the treatment of osteoarthritis]". *Der Orthopade*. **31** (11): 1058–1065. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s00132-002-0366-1](//doi.org/10.1007%2Fs00132-002-0366-1). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0085-4530](//www.worldcat.org/issn/0085-4530).
-7. [↑](#cite_ref-7) Caruso, I., Pietrogrande, V. (20 November 1987). "Italian double-blind multicenter study comparing S-adenosylmethionine, naproxen, and placebo in the treatment of degenerative joint disease". *The American Journal of Medicine*. **83** (5A): 66–71. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/0002-9343(87)90854-0](//doi.org/10.1016%2F0002-9343%2887%2990854-0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0002-9343](//www.worldcat.org/issn/0002-9343).
-8. [↑](#cite_ref-8) Berigan, T. R. (2002). ["A Case Report of a Manic Episode Triggered by S-Adenosylmethionine (SAMe)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC315487/). *Primary Care Companion to The Journal of Clinical Psychiatry*. **4** (4): 159. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1523-5998](//www.worldcat.org/issn/1523-5998).
-9. [↑](#cite_ref-9) Shippy, R. A., Mendez, D., Jones, K., Cergnul, I., Karpiak, S. E. (11 November 2004). ["S-adenosylmethionine (SAM-e) for the treatment of depression in people living with HIV/AIDS"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC535560/). *BMC Psychiatry*. **4**: 38. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1186/1471-244X-4-38](//doi.org/10.1186%2F1471-244X-4-38). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1471-244X](//www.worldcat.org/issn/1471-244X).
-10. [↑](#cite_ref-10) Loehrer, F. M., Schwab, R., Angst, C. P., Haefeli, W. E., Fowler, B. (August 1997). "Influence of oral S-adenosylmethionine on plasma 5-methyltetrahydrofolate, S-adenosylhomocysteine, homocysteine and methionine in healthy humans". *The Journal of Pharmacology and Experimental Therapeutics*. **282** (2): 845–850. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-3565](//www.worldcat.org/issn/0022-3565).
-11. [↑](#cite_ref-11) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+1. ↑ Finkelstein, J. D., Martin, J. J. (April 2000). "Homocysteine". *The International Journal of Biochemistry & Cell Biology*. **32** (4): 385–389. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/s1357-2725(99)00138-7](//doi.org/10.1016%2Fs1357-2725%2899%2900138-7). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1357-2725](//www.worldcat.org/issn/1357-2725).
+2. ↑ Mischoulon, D., Alpert, J. E., Arning, E., Bottiglieri, T., Fava, M., Papakostas, G. I. (June 2012). ["Bioavailability of S-Adenosyl Methionine and Impact on Response in a Randomized Controlled Trial in Major Depressive Disorder"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156851/). *The Journal of clinical psychiatry*. **73** (6): 843–848. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.4088/JCP.11m07139](//doi.org/10.4088%2FJCP.11m07139). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0160-6689](//www.worldcat.org/issn/0160-6689).
+3. ↑ Chan, A., Remington, R., Kotyla, E., Lepore, A., Zemianek, J., Shea, T. B. (March 2010). "A vitamin/nutriceutical formulation improves memory and cognitive performance in community-dwelling adults without dementia". *The Journal of Nutrition, Health & Aging*. **14** (3): 224–230. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s12603-010-0054-5](//doi.org/10.1007%2Fs12603-010-0054-5). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1760-4788](//www.worldcat.org/issn/1760-4788).
+4. ↑   Mischoulon, D., Fava, M. (November 2002). "Role of S-adenosyl-L-methionine in the treatment of depression: a review of the evidence". *The American Journal of Clinical Nutrition*. **76** (5): 1158S–61S. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1093/ajcn/76/5.1158S](//doi.org/10.1093%2Fajcn%2F76%2F5.1158S). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0002-9165](//www.worldcat.org/issn/0002-9165).
+5. ↑ Williams, A. C., Ramsden, D. B. (2005). "Nicotinamide homeostasis: a xenobiotic pathway that is key to development and degenerative diseases". *Medical Hypotheses*. **65** (2): 353–362. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.mehy.2005.01.042](//doi.org/10.1016%2Fj.mehy.2005.01.042). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0306-9877](//www.worldcat.org/issn/0306-9877).
+6. ↑ Witte, S., Lasek, R., Victor, N. (November 2002). "[Meta-analysis of the efficacy of adenosylmethionine and oxaceprol in the treatment of osteoarthritis]". *Der Orthopade*. **31** (11): 1058–1065. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00132-002-0366-1](//doi.org/10.1007%2Fs00132-002-0366-1). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0085-4530](//www.worldcat.org/issn/0085-4530).
+7. ↑ Caruso, I., Pietrogrande, V. (20 November 1987). "Italian double-blind multicenter study comparing S-adenosylmethionine, naproxen, and placebo in the treatment of degenerative joint disease". *The American Journal of Medicine*. **83** (5A): 66–71. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/0002-9343(87)90854-0](//doi.org/10.1016%2F0002-9343%2887%2990854-0). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0002-9343](//www.worldcat.org/issn/0002-9343).
+8. ↑ Berigan, T. R. (2002). ["A Case Report of a Manic Episode Triggered by S-Adenosylmethionine (SAMe)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC315487/). *Primary Care Companion to The Journal of Clinical Psychiatry*. **4** (4): 159. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1523-5998](//www.worldcat.org/issn/1523-5998).
+9. ↑ Shippy, R. A., Mendez, D., Jones, K., Cergnul, I., Karpiak, S. E. (11 November 2004). ["S-adenosylmethionine (SAM-e) for the treatment of depression in people living with HIV/AIDS"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC535560/). *BMC Psychiatry*. **4**: 38. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1186/1471-244X-4-38](//doi.org/10.1186%2F1471-244X-4-38). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1471-244X](//www.worldcat.org/issn/1471-244X).
+10. ↑ Loehrer, F. M., Schwab, R., Angst, C. P., Haefeli, W. E., Fowler, B. (August 1997). "Influence of oral S-adenosylmethionine on plasma 5-methyltetrahydrofolate, S-adenosylhomocysteine, homocysteine and methionine in healthy humans". *The Journal of Pharmacology and Experimental Therapeutics*. **282** (2): 845–850. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-3565](//www.worldcat.org/issn/0022-3565).
+11. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

@@ -98,18 +98,18 @@
 目录
 --------
 
-* [1 历史与文化](#历史与文化)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **躯体效应**](#躯体效应)
-    + [3.2 **认知效应**](#认知效应)
-    + [3.3 **药效残余**](#药效残余)
-    + [3.4 体验报告](#体验报告)
-* [4 毒性与伤害潜能](#毒性与伤害潜能)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 历史与文化
+* 2 药理学
+* 3 主观效应
+    + 3.1 **躯体效应**
+    + 3.2 **认知效应**
+    + 3.3 **药效残余**
+    + 3.4 体验报告
+* 4 毒性与伤害潜能
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 历史与文化
 
@@ -214,12 +214,12 @@
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Christie, R., Duque, P., Evans-Brown, M., Gallegos, A., Jorge, R., De Morais, J., Planchuelo, G., Sedefov, R. (26 August 2022). ["EMCDDA initial report on the new psychoactive substance 1-(3-chlorophenyl)-2-(methylamino) propan-1-one (3-chloromethcathinone, 3-CMC)"](https://www.emcdda.europa.eu/system/files/publications/14342/EMCDDA-initial-report-3-CMC-advance-release.pdf) (PDF). *European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)*. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [2600-0954](//www.worldcat.org/issn/2600-0954). 
-2. [↑](#cite_ref-2) WRZESIEŃ, W., STANASZEK, R., ZUBA, D., BYRSKA, B. (2018). Clandestine laboratory producing mephedrone (4-MMC) and Clephedrone (4-CMC) – substance, identification and hazard analysis, 40, 287-309. http://www.forensicscience.pl/pfs/115_Wrzesien_m.pdf.
-3. [↑](#cite_ref-3) Odoardi S, Romolo FS, Strano-Rossi S (August 2016). "A snapshot on NPS in Italy: Distribution of drugs in seized materials analyzed in an Italian forensic laboratory in the period 2013-2015". *Forensic Science International*. **265**: 116–20. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.forsciint.2016.01.037](//doi.org/10.1016%2Fj.forsciint.2016.01.037). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [26874736](//www.ncbi.nlm.nih.gov/pubmed/26874736). 
-4. [↑](#cite_ref-4) [*Tactus Verslavingszorg is bezorgd, want de verboden partydrug 3-MMC heeft al een legale opvolger: 3-CMC*](https://www.tubantia.nl/enschede/tactus-verslavingszorg-is-bezorgd-want-de-verboden-partydrug-3-mmc-heeft-al-een-legale-opvolger-3-cmc~a3acd662/)
-5. [↑](#cite_ref-5) National Center for Biotechnology Information (2022). PubChem Bioassay Record for AID 1224711, Source: ChEMBL. Retrieved January 16, 2022 from https://pubchem.ncbi.nlm.nih.gov/bioassay/1224711.
-6. [↑](#cite_ref-6) National Center for Biotechnology Information (2022). PubChem Bioassay Record for AID 1224713, Source: ChEMBL. Retrieved January 16, 2022 from https://pubchem.ncbi.nlm.nih.gov/bioassay/1224713.
-7. [↑](#cite_ref-7) Wojcieszak, Jakub & Kuczyńska, Katarzyna & Zawilska, Jolanta. (2020). Four Synthetic Cathinones: 3-Chloromethcathinone, 4-Chloromethcathinone, 4-Fluoro-α-Pyrrolidinopentiophenone, and 4-Methoxy-α-Pyrrolidinopentiophenone Produce Changes in the Spontaneous Locomotor Activity and Motor Performance in Mice with Varied Profiles. Neurotoxicity Research. 38. 10.1007/s12640-020-00227-8.
-8. [↑](#cite_ref-8) [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/) 
-9. [↑](#cite_ref-9) <https://www.officielebekendmakingen.nl/stb-2023-289.html>
+1. ↑ Christie, R., Duque, P., Evans-Brown, M., Gallegos, A., Jorge, R., De Morais, J., Planchuelo, G., Sedefov, R. (26 August 2022). ["EMCDDA initial report on the new psychoactive substance 1-(3-chlorophenyl)-2-(methylamino) propan-1-one (3-chloromethcathinone, 3-CMC)"](https://www.emcdda.europa.eu/system/files/publications/14342/EMCDDA-initial-report-3-CMC-advance-release.pdf) (PDF). *European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)*. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2600-0954](//www.worldcat.org/issn/2600-0954). 
+2. ↑ WRZESIEŃ, W., STANASZEK, R., ZUBA, D., BYRSKA, B. (2018). Clandestine laboratory producing mephedrone (4-MMC) and Clephedrone (4-CMC) – substance, identification and hazard analysis, 40, 287-309. http://www.forensicscience.pl/pfs/115_Wrzesien_m.pdf.
+3. ↑ Odoardi S, Romolo FS, Strano-Rossi S (August 2016). "A snapshot on NPS in Italy: Distribution of drugs in seized materials analyzed in an Italian forensic laboratory in the period 2013-2015". *Forensic Science International*. **265**: 116–20. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.forsciint.2016.01.037](//doi.org/10.1016%2Fj.forsciint.2016.01.037). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [26874736](//www.ncbi.nlm.nih.gov/pubmed/26874736). 
+4. ↑ [*Tactus Verslavingszorg is bezorgd, want de verboden partydrug 3-MMC heeft al een legale opvolger: 3-CMC*](https://www.tubantia.nl/enschede/tactus-verslavingszorg-is-bezorgd-want-de-verboden-partydrug-3-mmc-heeft-al-een-legale-opvolger-3-cmc~a3acd662/)
+5. ↑ National Center for Biotechnology Information (2022). PubChem Bioassay Record for AID 1224711, Source: ChEMBL. Retrieved January 16, 2022 from https://pubchem.ncbi.nlm.nih.gov/bioassay/1224711.
+6. ↑ National Center for Biotechnology Information (2022). PubChem Bioassay Record for AID 1224713, Source: ChEMBL. Retrieved January 16, 2022 from https://pubchem.ncbi.nlm.nih.gov/bioassay/1224713.
+7. ↑ Wojcieszak, Jakub & Kuczyńska, Katarzyna & Zawilska, Jolanta. (2020). Four Synthetic Cathinones: 3-Chloromethcathinone, 4-Chloromethcathinone, 4-Fluoro-α-Pyrrolidinopentiophenone, and 4-Methoxy-α-Pyrrolidinopentiophenone Produce Changes in the Spontaneous Locomotor Activity and Motor Performance in Mice with Varied Profiles. Neurotoxicity Research. 38. 10.1007/s12640-020-00227-8.
+8. ↑ [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/) 
+9. ↑ <https://www.officielebekendmakingen.nl/stb-2023-289.html>

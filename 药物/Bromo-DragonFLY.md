@@ -9,9 +9,9 @@ description:
 
 
 
-**Bromo-DragonFLY 与异常大量的住院治疗和死亡案例有关哦。[\[1\]](#cite_note-one-1)**
+**Bromo-DragonFLY 与异常大量的住院治疗和死亡案例有关哦。\[1\]**
 
-因为它的药效超级强，而且效应还没被完全研究透彻，所以强烈建议大家，如果没有采取最严格的 [伤害减少措施](/文档/负责任的用药索引页.md)（比如 [液体容量给药法](/文档/液体容量给药法.md)），不限制只用 [口服](/文档/给药途径.md#口服) 方式，还没有 [旅程保姆](/文档/旅程保姆.md) 陪同的话，千万不要尝试这种物质呢。详情请看 [这里](#毒性和危害潜力) 喵。
+因为它的药效超级强，而且效应还没被完全研究透彻，所以强烈建议大家，如果没有采取最严格的 [伤害减少措施](/文档/负责任的用药索引页.md)（比如 [液体容量给药法](/文档/液体容量给药法.md)），不限制只用 [口服](/文档/给药途径.md) 方式，还没有 [旅程保姆](/文档/旅程保姆.md) 陪同的话，千万不要尝试这种物质呢。详情请看 这里 喵。
 
 | | [总结面板: Bromo-DragonFLY](/药物/Bromo-DragonFLY/Summary.md) | |
 | --- | --- | --- |
@@ -25,22 +25,22 @@ description:
 | | 精神药效类 | *[致幻剂](/文档/药物分类/致幻剂.md)* |
 | | 化学分类 | *[苯丙胺](/文档/药物分类/苯丙胺类物质.md) / [苯并二呋喃](/文档/药物分类/苯并二呋喃类物质.md)* |
 | | **[给药途径](/文档/给药途径.md)** | |
-| | **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从较低剂量开始哦。[参见负责任的用药章节](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| | **警告：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从较低剂量开始哦。[参见负责任的用药章节](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 | | **[给药剂量](/文档/给药剂量.md)** | |
-| | [阈值](/文档/药物剂量分类.md#阈值) | 75 µg |
-| | [轻微](/文档/药物剂量分类.md#轻微) | 100 - 300 µg |
-| | [中等](/文档/药物剂量分类.md#中等) | 300 - 500 µg |
-| | [强烈](/文档/药物剂量分类.md#强烈) | 500 - 750 µg |
-| | [严重](/文档/药物剂量分类.md#严重) | 750 µg + |
+| | [阈值](/文档/药物剂量分类.md) | 75 µg |
+| | [轻微](/文档/药物剂量分类.md) | 100 - 300 µg |
+| | [中等](/文档/药物剂量分类.md) | 300 - 500 µg |
+| | [强烈](/文档/药物剂量分类.md) | 500 - 750 µg |
+| | [严重](/文档/药物剂量分类.md) | 750 µg + |
 | | **[药效时长](/文档/药效时长.md)** | |
-| | [总时长](/文档/药效时长.md#总时长) | 1 - 4 天 |
-| | [药效发作](/文档/药效时长.md#药效发作) | 2 - 7 小时 |
-| | [药效上升](/文档/药效时长.md#药效上升) | 3 - 6 小时 |
-| | [药效达峰](/文档/药效时长.md#药效达峰) | 6 - 12 小时 |
-| | [药效褪去](/文档/药效时长.md#药效褪去) | 3 - 8 小时 |
-| | [药效残余](/文档/药效时长.md#药效残余) | 12 - 36 小时 |
+| | [总时长](/文档/药效时长.md) | 1 - 4 天 |
+| | [药效发作](/文档/药效时长.md) | 2 - 7 小时 |
+| | [药效上升](/文档/药效时长.md) | 3 - 6 小时 |
+| | [药效达峰](/文档/药效时长.md) | 6 - 12 小时 |
+| | [药效褪去](/文档/药效时长.md) | 3 - 8 小时 |
+| | [药效残余](/文档/药效时长.md) | 12 - 36 小时 |
 | | **[免责声明](/文档/关于本站/观前提醒.md)：** 本站的 [给药剂量](/文档/给药剂量.md) 信息仅供教育参考，收集自用户和 [相关资源](/文档/科学信息索引页.md)。这可不是推荐建议哦，使用前请务必通过其他来源核实准确性呢。 | |
-| | **[药物联用](#危险的药物联用)** | |
+| | **药物联用** | |
 | | [大麻](/药物/大麻.md) | ⚠️ 谨慎联用 |
 | | [兴奋剂](/文档/药物分类/兴奋剂.md) | ⚠️ 谨慎联用 |
 | | [曲马多](/药物/曲马多.md) | 💔 联用危险 |
@@ -52,35 +52,35 @@ Bromo-DragonFLY 的药效超级强，而且持续时间异乎寻常地长，据�
 
 因为它效力很高，而且剂量反应很难预测，很多报告都说，对于那些没有 [致幻剂](/文档/药物分类/致幻剂.md) 经验的人来说，要安全地使用这种物质可能会变得太困难了。特别是考虑到这种物质的剂量和持续时间还没有完全确定，建议大家一定要从尽可能低的剂量开始，只通过口服 [给药途径](/文档/给药途径.md) 摄入，并且在整个体验过程中千万不要补服（re-dose）哦。
 
-关于 Bromo-DragonFLY 在人体内的药理学、代谢和毒性，我们知道的还非常少呢。大约在2010年左右，它在 [研究用化学品](/文档/研究用化学品.md) 圈子里短暂地流行过一阵子，直到因为这种物质被意外地贴错标签当作 [2C-B-FLY](/药物/2C-B-FLY.md) 出售而导致了几起死亡事件后，它就被禁止了。[\[1\]](#cite_note-one-1)
+关于 Bromo-DragonFLY 在人体内的药理学、代谢和毒性，我们知道的还非常少呢。大约在2010年左右，它在 [研究用化学品](/文档/研究用化学品.md) 圈子里短暂地流行过一阵子，直到因为这种物质被意外地贴错标签当作 [2C-B-FLY](/药物/2C-B-FLY.md) 出售而导致了几起死亡事件后，它就被禁止了。\[1\]
 
 Bromo-DragonFLY 从未被记录为在街头出售，而且似乎已经停止在 [研究用化学品](/文档/研究用化学品.md) 的灰色市场上生产了。由于它的新颖性以及人类使用历史极短，所有关于使用这种化合物的信息都应该极其谨慎地对待哦。如果你选择服用这种物质，强烈建议你采取最严格的 [伤害减少措施](/文档/负责任的用药索引页.md) 喵。
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    + [3.1 **躯体效应**](#躯体效应)
-    + [3.2 **视觉效应**](#视觉效应)
-        - [3.2.1 增强](#增强)
-        - [3.2.2 扭曲](#扭曲)
-        - [3.2.3 几何](#几何)
-        - [3.2.4 幻觉状态](#幻觉状态)
-    + [3.3 **认知效应**](#认知效应)
-    + [3.4 **听觉效应**](#听觉效应)
-    + [3.5 **超个人效应**](#超个人效应)
-    + [3.6 **药效残余**](#药效残余)
-    + [3.7 体验报告](#体验报告)
-* [4 毒性和危害潜力](#毒性和危害潜力)
-    + [4.1 著名的死亡案例](#著名的死亡案例)
-    + [4.2 耐受性和成瘾潜力](#耐受性和成瘾潜力)
-    + [4.3 危险的药物联用](#危险的药物联用)
-    + [4.4 药物过量](#药物过量)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    + 3.1 **躯体效应**
+    + 3.2 **视觉效应**
+        - 3.2.1 增强
+        - 3.2.2 扭曲
+        - 3.2.3 几何
+        - 3.2.4 幻觉状态
+    + 3.3 **认知效应**
+    + 3.4 **听觉效应**
+    + 3.5 **超个人效应**
+    + 3.6 **药效残余**
+    + 3.7 体验报告
+* 4 毒性和危害潜力
+    + 4.1 著名的死亡案例
+    + 4.2 耐受性和成瘾潜力
+    + 4.3 危险的药物联用
+    + 4.4 药物过量
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -94,9 +94,9 @@ Bromo-DragonFLY 属于一组被称为 DragonFLY 化合物的苯乙胺衍生物�
 
 另见：[血清素类致幻剂](/文档/药物分类/致幻剂.md)
 
-Bromo-DragonFLY 的 [致幻](/文档/药物分类/致幻剂.md) 作用是由其在 5-HT2A 血清素受体上的 [激动剂](/文档/受体激动剂.md) 活性介导的。Bromo-DragonFLY 对 5-HT2B 和 5-HT2C 血清素受体也具有很高的结合亲和力，并且最准确地被描述为非亚型选择性 5-HT2 激动剂，因为它实际上作为 5-HT2C 受体的激动剂效力是 5-HT2A 的两倍，并且对 5-HT2A 的选择性不到 5-HT2B 的 5 倍呢。[\[2\]](#cite_note-2)[\[3\]](#cite_note-3)
+Bromo-DragonFLY 的 [致幻](/文档/药物分类/致幻剂.md) 作用是由其在 5-HT2A 血清素受体上的 [激动剂](/文档/受体激动剂.md) 活性介导的。Bromo-DragonFLY 对 5-HT2B 和 5-HT2C 血清素受体也具有很高的结合亲和力，并且最准确地被描述为非亚型选择性 5-HT2 激动剂，因为它实际上作为 5-HT2C 受体的激动剂效力是 5-HT2A 的两倍，并且对 5-HT2A 的选择性不到 5-HT2B 的 5 倍呢。\[2\]\[3\]
 
-进一步的研究表明，Bromo-DragonFLY 几乎完全抑制 [MAO-A](/文档/单胺氧化酶抑制剂.md) 的活性，这使得它自身无法被代谢。这可能就是导致它作用时间异常长的原因啦。[\[4\]](#cite_note-Noble2018-4)
+进一步的研究表明，Bromo-DragonFLY 几乎完全抑制 [MAO-A](/文档/单胺氧化酶抑制剂.md) 的活性，这使得它自身无法被代谢。这可能就是导致它作用时间异常长的原因啦。\[4\]
 
 然而，这些相互作用的作用机制以及它们如何导致 [迷幻](/文档/药物分类/迷幻剂.md) 体验，仍然是一个谜团呢。
 
@@ -114,8 +114,8 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 ### **[躯体效应](/药效/躯体效应.md)** ![Child.png](/文件/Child.png)
 *   Bromo-DragonFLY 的躯体效应与传统的 [苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md) 相当，如 [2C-B](/药物/2C-B.md)、[麦斯卡林](/药物/麦斯卡林.md) 和 [2C-E](/药物/2C-E.md)。
 
-* **[兴奋](/药效/兴奋.md)** & **[镇静](/药效/镇静.md)** - 在 [轻微](/文档/药物剂量分类.md#轻微) [剂量](/文档/给药剂量.md) 下，这种化合物通常是具有刺激性的，但是以一种温和、不强迫的方式，类似于 [2C-B](/药物/2C-B.md) 或 [麦斯卡林](/药物/麦斯卡林.md)。然而，在严重剂量下，人们可能会发现这种刺激上升到令人不舒服的程度。不过，也可能会发生明显的镇静作用。据报道，镇静水平类似于 [2C-C](/药物/2C-C.md) (相关链接缺失) 或 [2C-T-7](/药物/2C-T-7.md) (相关链接缺失)。
-* **坏死**[\[4\]](#cite_note-Noble2018-4) - 药物过量时可能发生。
+* **[兴奋](/药效/兴奋.md)** & **[镇静](/药效/镇静.md)** - 在 [轻微](/文档/药物剂量分类.md) [剂量](/文档/给药剂量.md) 下，这种化合物通常是具有刺激性的，但是以一种温和、不强迫的方式，类似于 [2C-B](/药物/2C-B.md) 或 [麦斯卡林](/药物/麦斯卡林.md)。然而，在严重剂量下，人们可能会发现这种刺激上升到令人不舒服的程度。不过，也可能会发生明显的镇静作用。据报道，镇静水平类似于 [2C-C](/药物/2C-C.md) (相关链接缺失) 或 [2C-T-7](/药物/2C-T-7.md) (相关链接缺失)。
+* **坏死**\[4\] - 药物过量时可能发生。
 * **[自发性躯体感觉](/药效/躯体欣快感.md)** - Bromo-DragonFLY 的“躯体药效”可以被描述为一种令人愉悦的、温暖的、柔软的、包罗万象的和轻微的刺痛感。这与较温和的 [麦斯卡林](/药物/麦斯卡林.md)、[2C-B](/药物/2C-B.md) 或 [2C-E](/药物/2C-E.md) 体验相当。
 * **[触觉增强](/药效/触觉效应.md)**
 * **[躯体控制增强](/药效/躯体控制增强.md)**
@@ -136,7 +136,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 * **[腹泻](/药效/腹泻.md)**
 * **[瞳孔扩大](/药效/瞳孔扩大.md)**
 * **[磨牙](/药效/磨牙.md)**
-* **血管收缩** - Bromo-DragonFLY 是一种强效的血管收缩剂，在药物过量时可能会变得非常危险哦。[\[5\]](#cite_note-5)
+* **血管收缩** - Bromo-DragonFLY 是一种强效的血管收缩剂，在药物过量时可能会变得非常危险哦。\[5\]
 
 ### **[视觉效应](/药效/视觉效应.md)** ![Eye](/文件/Eye.png)
 
@@ -195,7 +195,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 ### **药效残余** ![Aftereffects_(3).png](/文件/Aftereffects.png)
 
-*   在 [药效褪去](/文档/药效时长.md#药效褪去) 期间发生的效应与轻微的 [兴奋剂](/文档/药物分类/兴奋剂.md) 相当。与 [药效达峰](/文档/药效时长.md#药效达峰) 期间发生的效应相比，体验通常感觉消极和不舒服。这通常被称为“下头（comedown）”，可能是因为这种物质的持续时间和物理压力导致的身体和认知疲劳。其效应通常包括：
+*   在 [药效褪去](/文档/药效时长.md) 期间发生的效应与轻微的 [兴奋剂](/文档/药物分类/兴奋剂.md) 相当。与 [药效达峰](/文档/药效时长.md) 期间发生的效应相比，体验通常感觉消极和不舒服。这通常被称为“下头（comedown）”，可能是因为这种物质的持续时间和物理压力导致的身体和认知疲劳。其效应通常包括：
 * **[头痛](/药效/头痛.md)**
 * **[躯体疲劳](/药效/躯体疲劳.md)**
 * **动力抑制**
@@ -213,7 +213,7 @@ _**免责声明：** 以下列出的效应引用自 [***主观效应索引***](/
 
 另见：[研究用化学品 § 毒性和危害潜力](/文档/研究用化学品.md)，以及 [负责任的用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
-Bromo-DragonFLY 在非常高的剂量下被认为具有极高的毒性，已有数起死亡和大量住院治疗的报告。[\[6\]](#cite_note-6)[\[7\]](#cite_note-7) 它还可能具有极端的 [血管收缩](/药效/心血管效应.md) 作用，这可能导致严重的组织损伤甚至肢体截肢。由于其高效力，如果这种物质没有被正确测量（“目测”）或被错误地标记为其他物质，很容易导致药物过量哦。
+Bromo-DragonFLY 在非常高的剂量下被认为具有极高的毒性，已有数起死亡和大量住院治疗的报告。\[6\]\[7\] 它还可能具有极端的 [血管收缩](/药效/心血管效应.md) 作用，这可能导致严重的组织损伤甚至肢体截肢。由于其高效力，如果这种物质没有被正确测量（“目测”）或被错误地标记为其他物质，很容易导致药物过量哦。
 
 关于娱乐性使用 Bromo-DragonFLY 的毒性和长期健康影响，似乎还没有在任何科学背景下进行过研究，确切的毒性剂量也是未知的。这是因为 Bromo-DragonFLY 是一种 [研究用化学品](/文档/研究用化学品.md)，人类使用历史非常短。
 
@@ -221,7 +221,7 @@ Bromo-DragonFLY 在非常高的剂量下被认为具有极高的毒性，已有�
 
 ### 著名的死亡案例
 
-2011年5月7日，在美国，两名年轻人因过量服用 Bromo-DragonFLY 而死亡，还有几人住院治疗，他们当时以为自己服用的是 [2C-E](/药物/2C-E.md)。[\[8\]](#cite_note-8)
+2011年5月7日，在美国，两名年轻人因过量服用 Bromo-DragonFLY 而死亡，还有几人住院治疗，他们当时以为自己服用的是 [2C-E](/药物/2C-E.md)。\[8\]
 
 ### 耐受性和成瘾潜力
 
@@ -238,7 +238,7 @@ Bromo-DragonFLY 不会形成习惯，使用欲望实际上会随着使用而减�
 *   **[锂](/药物/锂.md)** - 锂通常用于治疗双相情感障碍。有大量的轶事证据表明，将其与 [致幻剂](/文档/药物分类/致幻剂.md) 联用会显著增加 [精神病](/药效/精神病发作.md) 和 [癫痫发作](/药效/癫痫发作.md) 的风险。因此，严禁这种联用哦。
 *   **[大麻](/药物/大麻.md)** - 大麻可能会与 Bromo-DragonFLY 的效应产生出乎意料的强烈且不可预测的协同作用。建议在进行此组合时务必小心，因为它会显著增加不良心理反应的风险，如 [焦虑](/药效/认知效应.md)、偏执、恐慌发作和 [精神病](/药效/精神病发作.md)。建议使用者从正常大麻剂量的一小部分开始，并在吸入之间休息很长时间，以避免意外的药物过量。
 *   **[兴奋剂](/文档/药物分类/兴奋剂.md)** - 像 [苯丙胺](/文档/药物分类/苯丙胺类物质.md)、[可卡因](/药物/可卡因.md) 或 [哌甲酯](/药物/哌甲酯.md) 这样的兴奋剂会影响大脑的许多部分并改变多巴胺能功能。这种组合可能会增加焦虑、偏执、恐慌发作和思维循环的风险。这种相互作用也可能导致躁狂和精神病的风险增加。\[*[来源请求]*\]
-*   **[曲马多](/药物/曲马多.md)** - 曲马多被充分证明会降低癫痫发作阈值[\[9\]](#cite_note-9)，而 [致幻剂](/文档/药物分类/致幻剂.md) 可能会引发易感人群的癫痫发作。\[*[来源请求]*\]
+*   **[曲马多](/药物/曲马多.md)** - 曲马多被充分证明会降低癫痫发作阈值\[9\]，而 [致幻剂](/文档/药物分类/致幻剂.md) 可能会引发易感人群的癫痫发作。\[*[来源请求]*\]
 
 ### 药物过量
 
@@ -250,18 +250,18 @@ Bromo-DragonFLY 异常长的持续时间构成了巨大的风险，因为它会�
 
 ## 法律地位
 
-*   **澳大利亚：** Bromo-DragonFLY 在全国范围内属于附表9物质，拥有、生产和销售都是违法的哦。[\[10\]](#cite_note-10)
+*   **澳大利亚：** Bromo-DragonFLY 在全国范围内属于附表9物质，拥有、生产和销售都是违法的哦。\[10\]
 *   **加拿大：** 截至2016年10月12日，Bromo-DragonFLY 与其他几种 [研究用化学品](/文档/研究用化学品.md) 一起被列为附表III物质。\[*[来源请求]*\]
 *   **丹麦：** 拥有、生产和销售是非法的。\[*[来源请求]*\]
 *   **芬兰：** 拥有、生产和销售是非法的。\[*[来源请求]*\]
-*   **德国：** Bromo-DragonFLY 受 NpSG 管制，因为它是 2-苯乙胺的衍生物。[\[11\]](#cite_note-11) 生产和销售是非法的。拥有和进口虽然非法，但如果用于自我消费则不受惩罚。[\[12\]](#cite_note-12)
-*   **日本**：自2015年8月19日起，Bromo-DragonFLY 在日本成为受控物质。[\[13\]](#cite_note-13)
+*   **德国：** Bromo-DragonFLY 受 NpSG 管制，因为它是 2-苯乙胺的衍生物。\[11\] 生产和销售是非法的。拥有和进口虽然非法，但如果用于自我消费则不受惩罚。\[12\]
+*   **日本**：自2015年8月19日起，Bromo-DragonFLY 在日本成为受控物质。\[13\]
 *   **挪威：** Bromo-DragonFLY 在挪威被视为麻醉品。\[*[来源请求]*\]
 *   **罗马尼亚：** 拥有、生产和销售是非法的。\[*[来源请求]*\]
 *   **瑞典：** Bromo-DragonFLY 被列为附表IV物质，拥有、生产和销售都是违法的。\[*[来源请求]*\]
-*   **瑞士**：Bromo-DragonFLY 在瑞士可能是非法的。目前尚不清楚 Bromo-DragonFLY 是否属于 Verzeichnis E 第130点下的取代 a-甲基苯乙胺的范围，因为它不是“苯乙胺的烷基、烷氧基、亚烷基二氧基或卤化物衍生物”，同时根据范围含有进一步的单价取代基。也不清楚它是否可以被认为是 DOB 的醚类似物的醚类似物，这将使其受 Buchstabe C 管制。它可以被认为是帕拉-溴苯丙胺的醚类似物的醚类似物，这也会使其根据 Buchstabe C 非法，但所有这些定义的范围都是未知的。[\[14\]](#cite_note-14)
-*   **土耳其：** Bromo-DragonFLY 被归类为毒品，拥有、生产、供应或进口是非法的。[\[15\]](#cite_note-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742-15) [\[16\]](#cite_note-List_of_illegal_substances_for_law-16)
-*   **英国** - 根据2016年5月26日生效的精神活性物质法案，生产、供应或进口这种物质是非法的。[\[17\]](#cite_note-17)
+*   **瑞士**：Bromo-DragonFLY 在瑞士可能是非法的。目前尚不清楚 Bromo-DragonFLY 是否属于 Verzeichnis E 第130点下的取代 a-甲基苯乙胺的范围，因为它不是“苯乙胺的烷基、烷氧基、亚烷基二氧基或卤化物衍生物”，同时根据范围含有进一步的单价取代基。也不清楚它是否可以被认为是 DOB 的醚类似物的醚类似物，这将使其受 Buchstabe C 管制。它可以被认为是帕拉-溴苯丙胺的醚类似物的醚类似物，这也会使其根据 Buchstabe C 非法，但所有这些定义的范围都是未知的。\[14\]
+*   **土耳其：** Bromo-DragonFLY 被归类为毒品，拥有、生产、供应或进口是非法的。\[15\] \[16\]
+*   **英国** - 根据2016年5月26日生效的精神活性物质法案，生产、供应或进口这种物质是非法的。\[17\]
 *   **美国：** Bromo-DragonFLY 在俄克拉荷马州被列为附表I物质。\[*[来源请求]*\]
 
 ## 另见
@@ -282,20 +282,20 @@ Bromo-DragonFLY 异常长的持续时间构成了巨大的风险，因为它会�
 
 ## 参考文献
 
-1. ↑ [1.0](#cite_ref-one_1-0) [1.1](#cite_ref-one_1-1) [*Erowid Bromo-Dragonfly Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly_death.shtml) 
-2. [↑](#cite_ref-2) Parker, M. A., Marona-Lewicka, D., Lucaites, V. L., Nelson, D. L., Nichols, D. E. (17 December 1998). "A novel (benzodifuranyl)aminoalkane with extremely potent activity at the 5-HT2A receptor". *Journal of Medicinal Chemistry*. **41** (26): 5148–5149. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/jm9803525](//doi.org/10.1021%2Fjm9803525). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-2623](//www.worldcat.org/issn/0022-2623). 
-3. [↑](#cite_ref-3) Corazza, O., Schifano, F., Farre, M., Deluca, P., Davey, Z., Torrens, M., Demetrovics, Z., Di Furia, L., Flesland, L., Siemann, H., Skutle, A., Van Der Kreeft, P., Scherbaum, N. (May 2011). "Designer drugs on the internet: a phenomenon out-of-control? the emergence of hallucinogenic drug Bromo-Dragonfly". *Current Clinical Pharmacology*. **6** (2): 125–129. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.2174/157488411796151129](//doi.org/10.2174%2F157488411796151129). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [2212-3938](//www.worldcat.org/issn/2212-3938). 
-4. ↑ [4.0](#cite_ref-Noble2018_4-0) [4.1](#cite_ref-Noble2018_4-1) Noble, C; Holm, NB; Mardal, M; Linnet, K (1 October 2018). "Bromo-dragonfly, a psychoactive benzodifuran, is resistant to hepatic metabolism and potently inhibits monoamine oxidase A". *Toxicology letters*. **295**: 397–407. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1016/j.toxlet.2018.07.018](//doi.org/10.1016%2Fj.toxlet.2018.07.018). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [30036687](//www.ncbi.nlm.nih.gov/pubmed/30036687). 
-5. [↑](#cite_ref-5) Thorlacius, K., Borna, C., Personne, M. (16 April 2008). "[Bromo-dragon fly--life-threatening drug. Can cause tissue necrosis as demonstrated by the first described case]". *Lakartidningen*. **105** (16): 1199–1200. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0023-7205](//www.worldcat.org/issn/0023-7205). 
-6. [↑](#cite_ref-6) ["| Danish man died after trip on Chinese drug"](http://jp.dk/indland/kbh/article1884968.ece). Jp.dk. Retrieved 2010-02-08. 
-7. [↑](#cite_ref-7) ["Narkodød skyldtes ikke GHB"](http://jp.dk/indland/kbh/article1884968.ece). RB.no. Retrieved 2018-05-16. 
-8. [↑](#cite_ref-8) Griffin, D., [*Second Victim Dies After Taking Designer Drug In Konawa*](https://www.newson6.com/story/5e35b1a383eff40362bece8e/second-victim-dies-after-taking-designer-drug-in-konawa) 
-9. [↑](#cite_ref-9) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). 
-10. [↑](#cite_ref-10) "[\[1\]](https://www.legislation.gov.au/F2024L01228/asmade/2024-09-30/text/original/epub/OEBPS/document_1/document_1.html)"Therapeutic Goods (Poisons Standard—October 2024), Schedule 9
-11. [↑](#cite_ref-11) [*Anlage NpSG - Einzelnorm*](https://www.gesetze-im-internet.de/npsg/anlage.html) 
-12. [↑](#cite_ref-12) [*§ 4 NpSG - Einzelnorm*](https://www.gesetze-im-internet.de/npsg/__4.html) 
-13. [↑](#cite_ref-13) ["危険ドラッグの成分６物質を新たに指定薬物に指定"](https://www.mhlw.go.jp/stf/houdou/0000094513.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved May 2, 2022. 
-14. [↑](#cite_ref-14) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
-15. [↑](#cite_ref-Bakanlar_Kurulu_Karar.C4.B1_-_Karar_Say.C4.B1s.C4.B1_:_2013.2F5742_15-0) [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm) 
-16. [↑](#cite_ref-List_of_illegal_substances_for_law_16-0) <https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf>
-17. [↑](#cite_ref-17) [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)
+1. ↑ 1.0 1.1 [*Erowid Bromo-Dragonfly Vault : Fatalities / Deaths*](https://www.erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly_death.shtml) 
+2. ↑ Parker, M. A., Marona-Lewicka, D., Lucaites, V. L., Nelson, D. L., Nichols, D. E. (17 December 1998). "A novel (benzodifuranyl)aminoalkane with extremely potent activity at the 5-HT2A receptor". *Journal of Medicinal Chemistry*. **41** (26): 5148–5149. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm9803525](//doi.org/10.1021%2Fjm9803525). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). 
+3. ↑ Corazza, O., Schifano, F., Farre, M., Deluca, P., Davey, Z., Torrens, M., Demetrovics, Z., Di Furia, L., Flesland, L., Siemann, H., Skutle, A., Van Der Kreeft, P., Scherbaum, N. (May 2011). "Designer drugs on the internet: a phenomenon out-of-control? the emergence of hallucinogenic drug Bromo-Dragonfly". *Current Clinical Pharmacology*. **6** (2): 125–129. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.2174/157488411796151129](//doi.org/10.2174%2F157488411796151129). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2212-3938](//www.worldcat.org/issn/2212-3938). 
+4. ↑ 4.0 4.1 Noble, C; Holm, NB; Mardal, M; Linnet, K (1 October 2018). "Bromo-dragonfly, a psychoactive benzodifuran, is resistant to hepatic metabolism and potently inhibits monoamine oxidase A". *Toxicology letters*. **295**: 397–407. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1016/j.toxlet.2018.07.018](//doi.org/10.1016%2Fj.toxlet.2018.07.018). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [30036687](//www.ncbi.nlm.nih.gov/pubmed/30036687). 
+5. ↑ Thorlacius, K., Borna, C., Personne, M. (16 April 2008). "[Bromo-dragon fly--life-threatening drug. Can cause tissue necrosis as demonstrated by the first described case]". *Lakartidningen*. **105** (16): 1199–1200. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0023-7205](//www.worldcat.org/issn/0023-7205). 
+6. ↑ ["| Danish man died after trip on Chinese drug"](http://jp.dk/indland/kbh/article1884968.ece). Jp.dk. Retrieved 2010-02-08. 
+7. ↑ ["Narkodød skyldtes ikke GHB"](http://jp.dk/indland/kbh/article1884968.ece). RB.no. Retrieved 2018-05-16. 
+8. ↑ Griffin, D., [*Second Victim Dies After Taking Designer Drug In Konawa*](https://www.newson6.com/story/5e35b1a383eff40362bece8e/second-victim-dies-after-taking-designer-drug-in-konawa) 
+9. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). "Dose-independent occurrence of seizure with tramadol". *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). 
+10. ↑ "[\[1\]](https://www.legislation.gov.au/F2024L01228/asmade/2024-09-30/text/original/epub/OEBPS/document_1/document_1.html)"Therapeutic Goods (Poisons Standard—October 2024), Schedule 9
+11. ↑ [*Anlage NpSG - Einzelnorm*](https://www.gesetze-im-internet.de/npsg/anlage.html) 
+12. ↑ [*§ 4 NpSG - Einzelnorm*](https://www.gesetze-im-internet.de/npsg/__4.html) 
+13. ↑ ["危険ドラッグの成分６物質を新たに指定薬物に指定"](https://www.mhlw.go.jp/stf/houdou/0000094513.html) (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved May 2, 2022. 
+14. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020. 
+15. ↑ [*Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü*](https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm) 
+16. ↑ <https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf>
+17. ↑ [*Psychoactive Substances Act 2016*](https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted)

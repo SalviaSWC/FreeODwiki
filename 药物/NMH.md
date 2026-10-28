@@ -18,27 +18,27 @@
 
 | [给药途径](/文档/给药途径.md)                                                          |                        |
 | ---------------------------------------------------------------------------- | ---------------------- |
-| - **警告：**由于个体体重、耐受、代谢以及个人敏感性存在差异，请务必从较低剂量开始呢。参见[负责任的用药部分](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| - **警告：**由于个体体重、耐受、代谢以及个人敏感性存在差异，请务必从较低剂量开始呢。参见[负责任的用药部分](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 
 | [给药剂量](/文档/给药剂量.md)    |              |
 | ---------------------- | ------------ |
-| [阈值](/文档/药物剂量分类.md#阈值) | 30 mg        |
-| [轻微](/文档/药物剂量分类.md#轻微) | 50 - 70 mg   |
-| [中等](/文档/药物剂量分类.md#中等) | 70 - 100 mg  |
-| [强烈](/文档/药物剂量分类.md#强烈) | 100 - 125 mg |
-| [严重](/文档/药物剂量分类.md#严重) | 125 mg +     |
+| [阈值](/文档/药物剂量分类.md) | 30 mg        |
+| [轻微](/文档/药物剂量分类.md) | 50 - 70 mg   |
+| [中等](/文档/药物剂量分类.md) | 70 - 100 mg  |
+| [强烈](/文档/药物剂量分类.md) | 100 - 125 mg |
+| [严重](/文档/药物剂量分类.md) | 125 mg +     |
 
 | [药效时长](/文档/药效时长.md)      |            |
 | ------------------------ | ---------- |
-| [总时长](/文档/药效时长.md#总时长)   | 1 - 4 小时   |
-| [药效发作](/文档/药效时长.md#药效发作) | 15 - 30 分钟 |
-| [药效残余](/文档/药效时长.md#药效残余) | 1 - 12 小时  |
+| [总时长](/文档/药效时长.md)   | 1 - 4 小时   |
+| [药效发作](/文档/药效时长.md) | 15 - 30 分钟 |
+| [药效残余](/文档/药效时长.md) | 1 - 12 小时  |
 
 |                                                                                                    |   |
 | -------------------------------------------------------------------------------------------------- | - |
 | - **[免责声明](/关于本站/免责声明.md)：**本站的[给药剂量](/文档/给药剂量.md)信息仅为基于使用者与相关资源整理出的教育用途资料，并非建议哦；其准确性还应以其他来源进一步核实。 |   |
 
-| [相互作用](#危险的相互作用) |   |
+| 相互作用 |   |
 | ---------------- | - |
 |                  |   |
 |                  |   |
@@ -52,20 +52,20 @@
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
+* 1 化学
+* 2 药理学
+* 3 主观效应
 
-  * [3.1 **躯体效应**](#躯体效应)
-  * [3.2 **认知效应**](#认知效应)
-  * [3.3 **药效残余**](#药效残余)
-* [4 毒性与伤害潜力](#毒性与伤害潜力)
+  * 3.1 **躯体效应**
+  * 3.2 **认知效应**
+  * 3.3 **药效残余**
+* 4 毒性与伤害潜力
 
-  * [4.1 耐受与成瘾潜力](#耐受与成瘾潜力)
-* [5 法律地位](#法律地位)
-* [6 另见](#另见)
-* [7 外部链接](#外部链接)
-* [8 参考文献](#参考文献)
+  * 4.1 耐受与成瘾潜力
+* 5 法律地位
+* 6 另见
+* 7 外部链接
+* 8 参考文献
 
 ## 化学
 
@@ -113,7 +113,7 @@ _**免责声明：**以下列出的效应引自[***主观效应索引***](/药�
 
 ### **药效残余** ![Aftereffects.svg](/文件/Aftereffects.png)
 
-* 在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md#药效褪去)阶段所出现的效应，通常相较于其[药效达峰](/文档/药效时长.md#药效达峰)期间的效应，会更偏向负面且令人不适。这通常被称作“comedown”，其出现是由于[神经递质](/文档/神经递质.md)耗竭所致。其常见表现包括：
+* 在一次[兴奋剂](/文档/药物分类/兴奋剂.md)体验的[药效褪去](/文档/药效时长.md)阶段所出现的效应，通常相较于其[药效达峰](/文档/药效时长.md)期间的效应，会更偏向负面且令人不适。这通常被称作“comedown”，其出现是由于[神经递质](/文档/神经递质.md)耗竭所致。其常见表现包括：
 
   * **[焦虑](/药效/焦虑.md)**
   * **[认知疲劳](/药效/认知疲劳.md)**
@@ -125,7 +125,7 @@ _**免责声明：**以下列出的效应引自[***主观效应索引***](/药�
 
 ## 毒性与伤害潜力
 
-更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)
+更多信息： [研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)
 
 由于 NMH 尚未得到充分研究，而且现有数据大多由推测与使用者经验构成，因此对于这种物质可能带来的风险与伤害应尤其谨慎看待，特别是在严重长期健康危害方面呢。
 
@@ -164,9 +164,9 @@ _**免责声明：**以下列出的效应引自[***主观效应索引***](/药�
 | ![Question book-new.svg](/文件/Question_book-new.png) | **This article does not cite enough references.**<br>*You can help by adding some.* |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------- |
 
-1. [↑](#cite_ref-1) New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil)
-2. [↑](#cite_ref-2) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 23, 2019.
-3. [↑](#cite_ref-3) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 23, 2019.
-4. [↑](#cite_ref-4) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 23, 2019.
-5. [↑](#cite_ref-5) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-6. [↑](#cite_ref-6) [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)
+1. ↑ New blanket ban on synthetic illegal drugs is approved (Portuguese) | [http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil](http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil)
+2. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 23, 2019.
+3. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518) (PDF) (in German). Bundesanzeiger Verlag. Retrieved December 23, 2019.
+4. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz. Retrieved December 23, 2019.
+5. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+6. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2010*](https://www.legislation.gov.uk/uksi/2010/1207/made)

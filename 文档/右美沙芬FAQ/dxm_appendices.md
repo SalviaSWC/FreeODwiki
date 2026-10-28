@@ -19,55 +19,55 @@
 
 | 药物 (通用名) | 用途 | P450-2D 酶 | 效力 | 参考 |
 | --- | --- | --- | --- | --- |
-| 阿马碱 (ajmalicine) | | 2D6 | 最强 | ([164](dxm_refs.md#r164)) |
-| 一氧化碳 | 毒药 | 2D6 | | ([160](dxm_refs.md#r160)) |
-| 氯喹 (chloroquine) | 抗寄生虫 | 2D6 | 中-低 | ([172](dxm_refs.md#r172)) |
-| 氯苯那敏 (chlorpheniramine) | 抗组胺药 | 2D | 中-高 | ([151](dxm_refs.md#r151)) |
-| 西酞普兰 (citalopram) | 抗抑郁药 | 2D6 | 中-低 | ([166](dxm_refs.md#r166)) |
-| 氯氮平 (clozapine) | 抗精神病药 | 2D6 | 低 | ([171](dxm_refs.md#r171)) |
-| 地昔帕明 (desipramine) | 抗抑郁药 | 2D6 | 低 | ([152](dxm_refs.md#r152)) |
-| 苯海拉明 (diphenhydramine) | 抗组胺药 | 2D | 中-高 | ([151](dxm_refs.md#r151)) |
-| 多柔比星 (doxorubicin) | 抗癌药 | 2D6 | 中-低 | ([165](dxm_refs.md#r165)) |
-| 氟西汀 (fluoxetine) | 抗抑郁药 | 2D6 | 中-高 | ([152](dxm_refs.md#r152)) |
-| 氟伏沙明 (fluvoxamine) | 抗抑郁药 | 2D6 | 中-高 | ([152](dxm_refs.md#r152)) |
-| 丙咪嗪 (imipramine) | 抗抑郁药 | 2D6 | 中 | ([152](dxm_refs.md#r152)) |
-| 洛莫司汀 (lomustine) | 抗癌药 | 2D6 | 中 | ([165](dxm_refs.md#r165)) |
-| 美吡拉敏 (mepyramine) | 抗组胺药 | 2D6 | 高 | ([151](dxm_refs.md#r151)) |
-| 美沙酮 (methadone) | 成瘾治疗 | 2D6 | 中 | ([162](dxm_refs.md#r162)) |
-| 吗氯贝胺 (moclobemide) | MAO-A 抑制剂 (可逆) | 2D6, 还有 2C19, 1A2 | | ([147](dxm_refs.md#r147)) |
-| 诺替林 (nortryptiline) | 抗抑郁药 | 2D6 | 中-低 | ([155](dxm_refs.md#r155)) |
-| 奥沙尼喹 (oxamniquine) | 抗寄生虫 | 2D6 | 中-低 | ([172](dxm_refs.md#r172)) |
-| 帕罗西汀 (paroxetine) | 抗抑郁药 | 2D6 | 高 | ([152](dxm_refs.md#r152)) |
-| 苯环利定 (PCP) | 娱乐用 | 2D | | ([150](dxm_refs.md#r150)) |
-| 伯氨喹 (primaquine) | 抗寄生虫 | 2D6 | 中-低 | ([172](dxm_refs.md#r172)) |
-| 普萘洛尔 (propranolol) | β-受体阻滞剂 | 2D6 | 低 | ([156](dxm_refs.md#r156)) |
-| 奎尼丁 (quinidine) | | 2D6 | | ([148](dxm_refs.md#r148)) |
-| 奎宁 (quinine) | 抗寄生虫 | 2D | | ([151](dxm_refs.md#r151)) |
-| 舍曲林 (sertraline) | 抗抑郁药 | 2D6 | 中-高 | ([167](dxm_refs.md#r167)) |
-| 曲普利啶 (triprolidine) | 抗组胺药 | 2D | 中-高 | ([151](dxm_refs.md#r151)) |
-| 长春碱 (vinblastine) | 抗癌药 | 2D6 | 中-低 | ([165](dxm_refs.md#r165)) |
-| 长春瑞滨 (vinorelbine) | 抗癌药 | 2D6 | 中-低 | ([165](dxm_refs.md#r165)) |
+| 阿马碱 (ajmalicine) | | 2D6 | 最强 | ([164](dxm_refs.md)) |
+| 一氧化碳 | 毒药 | 2D6 | | ([160](dxm_refs.md)) |
+| 氯喹 (chloroquine) | 抗寄生虫 | 2D6 | 中-低 | ([172](dxm_refs.md)) |
+| 氯苯那敏 (chlorpheniramine) | 抗组胺药 | 2D | 中-高 | ([151](dxm_refs.md)) |
+| 西酞普兰 (citalopram) | 抗抑郁药 | 2D6 | 中-低 | ([166](dxm_refs.md)) |
+| 氯氮平 (clozapine) | 抗精神病药 | 2D6 | 低 | ([171](dxm_refs.md)) |
+| 地昔帕明 (desipramine) | 抗抑郁药 | 2D6 | 低 | ([152](dxm_refs.md)) |
+| 苯海拉明 (diphenhydramine) | 抗组胺药 | 2D | 中-高 | ([151](dxm_refs.md)) |
+| 多柔比星 (doxorubicin) | 抗癌药 | 2D6 | 中-低 | ([165](dxm_refs.md)) |
+| 氟西汀 (fluoxetine) | 抗抑郁药 | 2D6 | 中-高 | ([152](dxm_refs.md)) |
+| 氟伏沙明 (fluvoxamine) | 抗抑郁药 | 2D6 | 中-高 | ([152](dxm_refs.md)) |
+| 丙咪嗪 (imipramine) | 抗抑郁药 | 2D6 | 中 | ([152](dxm_refs.md)) |
+| 洛莫司汀 (lomustine) | 抗癌药 | 2D6 | 中 | ([165](dxm_refs.md)) |
+| 美吡拉敏 (mepyramine) | 抗组胺药 | 2D6 | 高 | ([151](dxm_refs.md)) |
+| 美沙酮 (methadone) | 成瘾治疗 | 2D6 | 中 | ([162](dxm_refs.md)) |
+| 吗氯贝胺 (moclobemide) | MAO-A 抑制剂 (可逆) | 2D6, 还有 2C19, 1A2 | | ([147](dxm_refs.md)) |
+| 诺替林 (nortryptiline) | 抗抑郁药 | 2D6 | 中-低 | ([155](dxm_refs.md)) |
+| 奥沙尼喹 (oxamniquine) | 抗寄生虫 | 2D6 | 中-低 | ([172](dxm_refs.md)) |
+| 帕罗西汀 (paroxetine) | 抗抑郁药 | 2D6 | 高 | ([152](dxm_refs.md)) |
+| 苯环利定 (PCP) | 娱乐用 | 2D | | ([150](dxm_refs.md)) |
+| 伯氨喹 (primaquine) | 抗寄生虫 | 2D6 | 中-低 | ([172](dxm_refs.md)) |
+| 普萘洛尔 (propranolol) | β-受体阻滞剂 | 2D6 | 低 | ([156](dxm_refs.md)) |
+| 奎尼丁 (quinidine) | | 2D6 | | ([148](dxm_refs.md)) |
+| 奎宁 (quinine) | 抗寄生虫 | 2D | | ([151](dxm_refs.md)) |
+| 舍曲林 (sertraline) | 抗抑郁药 | 2D6 | 中-高 | ([167](dxm_refs.md)) |
+| 曲普利啶 (triprolidine) | 抗组胺药 | 2D | 中-高 | ([151](dxm_refs.md)) |
+| 长春碱 (vinblastine) | 抗癌药 | 2D6 | 中-低 | ([165](dxm_refs.md)) |
+| 长春瑞滨 (vinorelbine) | 抗癌药 | 2D6 | 中-低 | ([165](dxm_refs.md)) |
 
 | 药物 (通用名) | 用途 | P450-3A 酶 | 效力 | 参考 |
 | --- | --- | --- | --- | --- |
-| 7,8-苯并黄酮 (7,8-benzoflavone) | | 3A4 (激活剂) | | ([153](dxm_refs.md#r153)) |
-| 大麻二酚 (cannabidiol) | 大麻成分 | 3A | 中 | ([161](dxm_refs.md#r161)) |
-| 可卡因 (cocaine) | 娱乐用 | 3A | 低 | ([157](dxm_refs.md#r157)) |
-| 克霉唑 (clotrimazole) | 农用杀菌剂 | 3A (激活剂) | 极高 | ([154](dxm_refs.md#r154)) |
-| 环磷酰胺 (cyclophosphamide) | | 3A | 低? | ([158](dxm_refs.md#r158)) |
-| 异环磷酰胺 (ifosfamide) | | 3A | 低? | ([158](dxm_refs.md#r158)) |
-| 酮康唑 (ketoconazole) | | 3A | | ([145](dxm_refs.md#r145)) |
-| 毛果芸香碱 (pilocarpine) | 拟胆碱药 | 3A | 低 | ([149](dxm_refs.md#r149)) |
+| 7,8-苯并黄酮 (7,8-benzoflavone) | | 3A4 (激活剂) | | ([153](dxm_refs.md)) |
+| 大麻二酚 (cannabidiol) | 大麻成分 | 3A | 中 | ([161](dxm_refs.md)) |
+| 可卡因 (cocaine) | 娱乐用 | 3A | 低 | ([157](dxm_refs.md)) |
+| 克霉唑 (clotrimazole) | 农用杀菌剂 | 3A (激活剂) | 极高 | ([154](dxm_refs.md)) |
+| 环磷酰胺 (cyclophosphamide) | | 3A | 低? | ([158](dxm_refs.md)) |
+| 异环磷酰胺 (ifosfamide) | | 3A | 低? | ([158](dxm_refs.md)) |
+| 酮康唑 (ketoconazole) | | 3A | | ([145](dxm_refs.md)) |
+| 毛果芸香碱 (pilocarpine) | 拟胆碱药 | 3A | 低 | ([149](dxm_refs.md)) |
 
 | 药物 (通用名) | 用途 | P450-3A 酶 | 效力 | 参考 |
 | --- | --- | --- | --- | --- |
-| 1-氨基苯并三唑 (1-aminobenzotriazole) | | 非特异性 | 中-高 | ([159](dxm_refs.md#r159)) |
-| 叶绿酸 (chlorophyllin) | 老年用药 | 非特异性 | | ([146](dxm_refs.md#r146)) |
-| 全身麻醉剂 (general anaesthetics) | | 非特异性 | | ([163](dxm_refs.md#r163)) |
+| 1-氨基苯并三唑 (1-aminobenzotriazole) | | 非特异性 | 中-高 | ([159](dxm_refs.md)) |
+| 叶绿酸 (chlorophyllin) | 老年用药 | 非特异性 | | ([146](dxm_refs.md)) |
+| 全身麻醉剂 (general anaesthetics) | | 非特异性 | | ([163](dxm_refs.md)) |
 
-有一篇参考文献（([164](dxm_refs.md#r164))）给出了 P450-2D6 抑制剂的一般特征，听起来有点硬核哦：
+有一篇参考文献（([164](dxm_refs.md))）给出了 P450-2D6 抑制剂的一般特征，听起来有点硬核哦：
 一个氮原子上带有正电荷，以及一个平坦的疏水区域，该区域的平面几乎垂直于 N-H 轴，并且最大延伸至距离氮原子 7.5 埃（A）的地方。具有高抑制效力的化合物在氮原子的对面，分别在 4.8-5.5 埃和 6.6-7.5 埃的距离处，具有额外的带有负分子静电势和氢键受体性质的官能团。
-此外，P450-2D6 细胞色素的计算机模型也已经被构建出来啦（([170](dxm_refs.md#r170))）。
+此外，P450-2D6 细胞色素的计算机模型也已经被构建出来啦（([170](dxm_refs.md))）。
 
 ---
 

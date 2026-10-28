@@ -17,27 +17,27 @@
 
 > **警告：**由于个体体重、耐受、代谢和个人敏感性都有差异，务必从更低剂量开始哦。可参见[负责任的用药](/文档/负责任的用药索引页.md)。
 
-#### ⇣ [口服](/文档/给药途径.md#口服)
+#### ⇣ [口服](/文档/给药途径.md)
 
 | [给药剂量](/文档/给药剂量.md)    |           |
 | ---------------------- | --------- |
-| [阈值](/文档/药物剂量分类.md#阈值) | 20mg      |
-| [轻微](/文档/药物剂量分类.md#轻微) | 40-60mg   |
-| [中等](/文档/药物剂量分类.md#中等) | 60-100mg  |
-| [强烈](/文档/药物剂量分类.md#强烈) | 100-120mg |
-| [严重](/文档/药物剂量分类.md#严重) | 125mg+    |
+| [阈值](/文档/药物剂量分类.md) | 20mg      |
+| [轻微](/文档/药物剂量分类.md) | 40-60mg   |
+| [中等](/文档/药物剂量分类.md) | 60-100mg  |
+| [强烈](/文档/药物剂量分类.md) | 100-120mg |
+| [严重](/文档/药物剂量分类.md) | 125mg+    |
 
 | [药效时长](/文档/药效时长.md)      |          |
 | ------------------------ | -------- |
-| [总时长](/文档/药效时长.md#总时长)   | 3-6小时    |
-| [药效发作](/文档/药效时长.md#药效发作) | 30-45分钟  |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 30-115分钟 |
-| [药效褪去](/文档/药效时长.md#药效褪去) | 1-2小时    |
-| [药效残余](/文档/药效时长.md#药效残余) | 1-2小时    |
+| [总时长](/文档/药效时长.md)   | 3-6小时    |
+| [药效发作](/文档/药效时长.md) | 30-45分钟  |
+| [药效达峰](/文档/药效时长.md) | 30-115分钟 |
+| [药效褪去](/文档/药效时长.md) | 1-2小时    |
+| [药效残余](/文档/药效时长.md) | 1-2小时    |
 
 > **免责声明：**本网站的[给药剂量](/文档/给药剂量.md)信息仅基于用户经验与资料整理，供教育用途参考，并不构成推荐呢；请务必结合其他来源核实准确性。
 
-[相互作用](#危险的相互作用)
+相互作用
 
 **2,5-二甲氧基-4-甲硫基苯乙胺**（也称**2C-T**）是一种较少为人所知的[迷幻剂](/文档/药物分类/迷幻剂.md)，属于[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)。它是[2C-x家族](/文档/药物分类/2,5-二甲氧基苯乙胺类物质.md)中的一员，而这一系列迷幻性苯乙胺类物质都与[麦斯卡林](/药物/麦斯卡林.md)关系相近。一般认为，它可能是通过与脑内血清素受体结合而产生效应的，不过其确切机制仍未被完全弄清楚呢。
 
@@ -103,7 +103,7 @@ _**免责声明：**下列效应引述了[***主观效应索引***](/药效/主�
 
 #### 扭曲
 
-* **[漂移](/药效/漂移.md)**（[融化](/药效/漂移.md#融化)、[流动](/药效/漂移.md#流动)、[呼吸](/药效/漂移.md#呼吸)和[形变](/药效/漂移.md#形变)）——与其他迷幻剂相比，这种效应可描述为细节丰富、运动缓慢而平滑、外观静止、风格极为写实，但又带着一点点数字化/卡通般的形式。
+* **[漂移](/药效/漂移.md)**（[融化](/药效/漂移.md)、[流动](/药效/漂移.md)、[呼吸](/药效/漂移.md)和[形变](/药效/漂移.md)）——与其他迷幻剂相比，这种效应可描述为细节丰富、运动缓慢而平滑、外观静止、风格极为写实，但又带着一点点数字化/卡通般的形式。
 * **[视觉拖尾](/药效/视觉拖尾.md)**
 * **[残影](/药效/残影.md)**
 * **[对称纹理重复](/药效/对称纹理重复.md)**
@@ -258,14 +258,14 @@ _**免责声明：**下列效应引述了[***主观效应索引***](/药效/主�
 
 ## 参考文献
 
-1. [↑](#cite_ref-1) Nichols, D. E.; Shulgin, A. T. (1976). "Sulfur Analogs of Psychotomimetic Amines". *Journal of Pharmaceutical Sciences*. **65** (10): 1554–1556. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1002/jps.2600651040](//doi.org/10.1002%2Fjps.2600651040). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [0022-3549](//www.worldcat.org/issn/0022-3549). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1520-6017](//www.worldcat.org/issn/1520-6017). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [01754726](//www.worldcat.org/oclc/01754726). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [978423](//www.ncbi.nlm.nih.gov/pubmed/978423).
-2. [↑](#cite_ref-PiHKAL_2-0) Alexander Shulgin; Ann Shulgin (1991). ["#39. 2C-T"](https://erowid.org/library/books_online/pihkal/pihkal039.shtml). *PiHKAL: A Chemical Love Story*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "wikipedia:International Standard Book Number") [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605 "wikipedia:Special:BookSources/0963009605"). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [1166889264](//www.worldcat.org/oclc/1166889264).
-3. [↑](#cite_ref-3) Nichols DE, Shulgin AT (October 1976). "Sulfur analogs of psychotomimetic amines". *J Pharm Sci*. **65** (10): 1554–6. CiteSeerX 10.1.1.687.8486. doi:10.1002/jps.2600651040. PMID 978423.
-4. [↑](#cite_ref-4) Gallardo-Godoy, A.; Fierro, A.; McLean, T. H.; Castillo, M.; Cassels, B. K.; Reyes-Parada, M.; Nichols, D. E. (2005). ["Sulfur-Substituted α-Alkyl Phenethylamines as Selective and Reversible MAO-A Inhibitors: Biological Activities, CoMFA Analysis, and Active Site Modeling"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.689.281&rep=rep1&type=pdf). *Journal of Medicinal Chemistry*. **48** (7): 2407–2419. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1021/jm0493109](//doi.org/10.1021%2Fjm0493109). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1520-4804](//www.worldcat.org/issn/1520-4804). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0022-2623](//www.worldcat.org/issn/0022-2623). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [39480771](//www.worldcat.org/oclc/39480771). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [15801832](//www.ncbi.nlm.nih.gov/pubmed/15801832).
-5. [↑](#cite_ref-5) ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
-6. [↑](#cite_ref-6) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-7. [↑](#cite_ref-7) ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2016 Teil I Nr. 55* (in German). Bundesanzeiger Verlag (published November 25, 2016). November 21, 2016. pp. 2615–2622. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [1004462279](//www.worldcat.org/oclc/1004462279).
-8. [↑](#cite_ref-8) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-9. [↑](#cite_ref-9) ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
-11. [↑](#cite_ref-11) ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.
+1. ↑ Nichols, D. E.; Shulgin, A. T. (1976). "Sulfur Analogs of Psychotomimetic Amines". *Journal of Pharmaceutical Sciences*. **65** (10): 1554–1556. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1002/jps.2600651040](//doi.org/10.1002%2Fjps.2600651040). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [0022-3549](//www.worldcat.org/issn/0022-3549). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1520-6017](//www.worldcat.org/issn/1520-6017). [OCLC](http://en.wikipedia.org/wiki/OCLC) [01754726](//www.worldcat.org/oclc/01754726). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [978423](//www.ncbi.nlm.nih.gov/pubmed/978423).
+2. ↑ Alexander Shulgin; Ann Shulgin (1991). ["#39. 2C-T"](https://erowid.org/library/books_online/pihkal/pihkal039.shtml). *PiHKAL: A Chemical Love Story*. United States: Transform Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0963009605](http://en.wikipedia.org/wiki/Special:BookSources/0963009605). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1166889264](//www.worldcat.org/oclc/1166889264).
+3. ↑ Nichols DE, Shulgin AT (October 1976). "Sulfur analogs of psychotomimetic amines". *J Pharm Sci*. **65** (10): 1554–6. CiteSeerX 10.1.1.687.8486. doi:10.1002/jps.2600651040. PMID 978423.
+4. ↑ Gallardo-Godoy, A.; Fierro, A.; McLean, T. H.; Castillo, M.; Cassels, B. K.; Reyes-Parada, M.; Nichols, D. E. (2005). ["Sulfur-Substituted α-Alkyl Phenethylamines as Selective and Reversible MAO-A Inhibitors: Biological Activities, CoMFA Analysis, and Active Site Modeling"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.689.281&rep=rep1&type=pdf). *Journal of Medicinal Chemistry*. **48** (7): 2407–2419. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1021/jm0493109](//doi.org/10.1021%2Fjm0493109). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1520-4804](//www.worldcat.org/issn/1520-4804). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0022-2623](//www.worldcat.org/issn/0022-2623). [OCLC](http://en.wikipedia.org/wiki/OCLC) [39480771](//www.worldcat.org/oclc/39480771). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [15801832](//www.ncbi.nlm.nih.gov/pubmed/15801832).
+5. ↑ ["Schedule III"](http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C). *Controlled Drugs and Substances Act (CDSA)*. Isomer Design. Retrieved October 10, 2020.
+6. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+7. ↑ ["Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2016 Teil I Nr. 55* (in German). Bundesanzeiger Verlag (published November 25, 2016). November 21, 2016. pp. 2615–2622. [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0341-1095](//www.worldcat.org/issn/0341-1095). [OCLC](http://en.wikipedia.org/wiki/OCLC) [1004462279](//www.worldcat.org/oclc/1004462279).
+8. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+9. ↑ ["§ 3 NpSG"](https://www.gesetze-im-internet.de/npsg/__3.html) (in German). Bundesamt für Justiz [Federal Office of Justice]. Retrieved December 10, 2019.
+10. ↑ ["Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe"](http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf) (PDF) (in German). Deutscher Bundestag. May 30, 2016. p. 20. Drucksache 18/8579.
+11. ↑ ["Schedule 2: Part I: Class A Drugs"](http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I). *"Misuse of Drugs Act 1971"*. UK Government. Retrieved August 20, 2020.

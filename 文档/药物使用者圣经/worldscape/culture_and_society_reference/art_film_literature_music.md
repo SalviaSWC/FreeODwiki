@@ -4,7 +4,7 @@
 
 我们现在呢，已经深入到主观领域啦～所以我不打算直接说自己的个人看法，而是给大家准备一些知名艺术家和作品的精选列表哦，希望能激发大家的兴趣或者思考呢。
 
-**电影** [\#](#movies)
+**电影** \#
 --------------------
 
 有些电影是关于药物的；有些是受药物启发创作的；有些主题呢，和药物有着 undeniable 的联系；还有一些呢，大家都说在体验药物的时候看最棒：
@@ -33,7 +33,7 @@
 * 《Blow》（2001）
 * 《The Beatles: Yellow Submarine》（1968）
 
-**宣传片** [\#](#propaganda-movies)
+**宣传片** \#
 ------------------------------------------
 
 这些片子现在看起来可能有点荒诞呢，但更精巧形式的宣传至今还在全力进行哦。
@@ -49,7 +49,7 @@
 
 ![](/文件/image627.jpeg)![](/文件/image628.jpeg)
 
-**音乐作品** [\#](#music-compositions)
+**音乐作品** \#
 --------------------------------------------
 
 其中有些呢，具有迷幻性质（在 trip 的时候听特别有意思），还有一些（有时被认为）是关于药物或者药物效果的。在整理这份列表时，我遇到的最大困难呢，就是可选的作品实在太多了。如果你最爱的艺术家或录音我没收录进来，我先说声抱歉啦～
@@ -116,7 +116,7 @@
 * Savoy Brown（Needle and Spoon）
 * Cheech and Chong（Up in Smoke）
 
-**迷幻艺术家** [\#](#psychedelic-artists)
+**迷幻艺术家** \#
 ----------------------------------------------
 
 如果你是艺术爱好者呢，一定已经有自己心仪的名单啦。所以我呢，就直接列出一些相关艺术家的名字，这些是我从维基百科和其他来源收集来的，其中可能有一些你还没听说过哦。
@@ -125,7 +125,7 @@
 | --- | --- | --- |
 | Pablo Amaringo   Chris Dyer   David Barnes   Doug Binder   Brummbaer   Mark Boyle & Joan Hills   Laurence Caruana   James Clifford   Lee Conklin   Robert Crumb   Roger Dean   Warren Dayton   Scott Draves   Donald Dunbar   M. C. Escher   Karl Ferris   Giorgio de Chirico   Andrew (Android) Jones   Justin Guse | William Finn   The Fool (collective)   Ernst Fuchs   Bob Gibson   H. R. Giger   Terry Gilliam   Alex Grey   Rick Griffin   Gary Grimshaw   Leif Podhajsky   John Hurford   Alton Kelley   Mati Klarwein   Oleg A. Korolev   Abby Martin   Bob Masse   George Atherton   Mario Martinez   Fabián Jiménez | Peter Max   Stanley “Mouse” Miller   Victor Moscoso   Vali Myers   Michael Saunders   Martin Sharp   Gilbert Shelton   Grace Slick   Harold Thornton   Vernon Treweeke   John Van Hamersveld   David Vaughan   Louis Wain   Robert Williams   Wes Wilson   Andy Warhol   David Normal   Amanda Sage   Cameron Gray |
 
-**诗歌与文学** [\#](#poetry--literature)
+**诗歌与文学** \#
 ----------------------------------------------
 
 这是我在搜索迷幻和药物相关诗歌与文学时遇到的入门名单。对于其中几位来说，这方面的创作只占他们作品的一小部分，而且有些人在其他领域更出名哦。请注意，我在这个领域呢，并没有特别的专业知识啦～
@@ -134,12 +134,12 @@
 | --- | --- |
 | Allen Ginsberg   Samuel Taylor Coleridge   William Blake   Timothy Leary   William S Burroughs   Aldous Huxley   Hunter S Thompson   Thomas De Quincey   Charles Baudelaire   Jack Kerouac | Howard Marks   Fitz Hugh Ludlow   Rudolph Wurlitzer   Kaveh Akbar   Aleister Crowley   Thomas Pynchon   Tao Lin   Philip K. Dick   Henri Michaux   Thaddeus Golas |
 
-**服饰** [\#](#costume)
+**服饰** \#
 ----------------------
 
 根据维基百科的说法，“服饰是一个人或群体特有的着装风格，反映了他们的阶级、性别、职业、民族、国籍、活动或时代”。那么，药物使用者有什么特别的服饰风格呢？因为药物使用者呢，分布在每个社会群体里，这就有点难说了。不过如果要说的话，或许迷幻风和/或嬉皮士风格的服装，比其他任何风格都更常和药物使用联系在一起哦。
 
-**街头艺术** [\#](#street-art)
+**街头艺术** \#
 ----------------------------
 
 这种形式呢，是我个人的最爱之一。它免费，而且在每个大城市都能看到。下面是我旅行中拍到的一些随机例子～
@@ -162,7 +162,7 @@
 
 ![](/文件/image634.jpeg)
 
-**名言** [\#](#quotation)
+**名言** \#
 --------------------------
 
 名人和文化偶像呢，很早就开始对药物和药物使用发表评论啦。下面收集了一些最广为人知的名言哦。关于迷幻剂的特定名言，请参见[2.2 节](../chemscape/psychedelics/index.md) 的引言部分。

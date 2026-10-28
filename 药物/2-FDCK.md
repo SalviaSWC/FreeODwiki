@@ -21,37 +21,37 @@ title : 2-FDCK
 | [给药途径](/文档/给药途径.md)                                                        |                                    |
 | **警告：**由于个体体重、耐受性、代谢和个人敏感度都可能不同，请务必从较低剂量开始哦。参见[负责任用药章节](/文档/负责任的用药索引页.md)。 |                                    |
 
-| 给药途径                     | [口服](/文档/给药途径.md#口服) |
+| 给药途径                     | [口服](/文档/给药途径.md) |
 | ------------------------ | -------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                      |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 5 mg                 |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 10 - 25 mg           |
-| [中等](/文档/药物剂量分类.md#中等)   | 25 - 70 mg           |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 70 - 140 mg          |
-| [严重](/文档/药物剂量分类.md#严重)   | 140 mg+              |
+| [阈值](/文档/药物剂量分类.md)   | 5 mg                 |
+| [轻微](/文档/药物剂量分类.md)   | 10 - 25 mg           |
+| [中等](/文档/药物剂量分类.md)   | 25 - 70 mg           |
+| [强烈](/文档/药物剂量分类.md)   | 70 - 140 mg          |
+| [严重](/文档/药物剂量分类.md)   | 140 mg+              |
 | [药效时长](/文档/药效时长.md)      |                      |
-| [总时长](/文档/药效时长.md#总时长)   | 2.5 - 5.0小时          |
-| [药效发作](/文档/药效时长.md#药效发作) | 15 - 50分钟            |
-| [药效达峰](/文档/药效时长.md#药效达峰) | 50 - 100分钟           |
-| [药效残余](/文档/药效时长.md#药效残余) | 3 - 8小时              |
+| [总时长](/文档/药效时长.md)   | 2.5 - 5.0小时          |
+| [药效发作](/文档/药效时长.md) | 15 - 50分钟            |
+| [药效达峰](/文档/药效时长.md) | 50 - 100分钟           |
+| [药效残余](/文档/药效时长.md) | 3 - 8小时              |
 
-| 给药途径                     | [鼻吸](/文档/给药途径.md#鼻吸) |
+| 给药途径                     | [鼻吸](/文档/给药途径.md) |
 | ------------------------ | -------------------- |
 | [给药剂量](/文档/给药剂量.md)      |                      |
-| [阈值](/文档/药物剂量分类.md#阈值)   | 5 mg                 |
-| [轻微](/文档/药物剂量分类.md#轻微)   | 10 - 45 mg           |
-| [中等](/文档/药物剂量分类.md#中等)   | 45 - 100 mg          |
-| [强烈](/文档/药物剂量分类.md#强烈)   | 100 - 175 mg         |
-| [严重](/文档/药物剂量分类.md#严重)   | 175 mg+              |
+| [阈值](/文档/药物剂量分类.md)   | 5 mg                 |
+| [轻微](/文档/药物剂量分类.md)   | 10 - 45 mg           |
+| [中等](/文档/药物剂量分类.md)   | 45 - 100 mg          |
+| [强烈](/文档/药物剂量分类.md)   | 100 - 175 mg         |
+| [严重](/文档/药物剂量分类.md)   | 175 mg+              |
 | [药效时长](/文档/药效时长.md)      |                      |
-| [总时长](/文档/药效时长.md#总时长)   | 1.5 - 3小时            |
-| [药效发作](/文档/药效时长.md#药效发作) | 1 - 3分钟              |
-| [药效上升](/文档/药效时长.md#药效上升) | 5 - 10分钟             |
-| [药效残余](/文档/药效时长.md#药效残余) | 1 - 4小时              |
+| [总时长](/文档/药效时长.md)   | 1.5 - 3小时            |
+| [药效发作](/文档/药效时长.md) | 1 - 3分钟              |
+| [药效上升](/文档/药效时长.md) | 5 - 10分钟             |
+| [药效残余](/文档/药效时长.md) | 1 - 4小时              |
 
 | 免责声明              | 本网站的[给药剂量](/文档/给药剂量.md)信息收集自用户与相关[资源](/文档/实用链接.md)，仅用于教育目的哦。它不是推荐用量，应当用其他来源核验其准确性。 |
 | ----------------- | ---------------------------------------------------------------------------------- |
-| [药物相互作用](#危险药物联用) |                                                                                    |
+| 药物相互作用 |                                                                                    |
 | 苯二氮䓬类物质           |                                                                                    |
 | 单胺氧化酶抑制剂          |                                                                                    |
 | 酒精                |                                                                                    |
@@ -80,7 +80,7 @@ title : 2-FDCK
 
 由于缺乏关于该物质的研究，所有关于其药理学的讨论都纯粹基于它的结构，以及它与其他[芳基环己胺类物质](/文档/药物分类/芳基环己胺类物质.md)[解离剂](/文档/药物分类/解离剂.md)，例如[DCK](/药物/DCK.md)和[氯胺酮](/药物/氯胺酮.md)之间的主观效应相似性。考虑到这一点，2-氟去氯氯胺酮被认为可作为[NMDA受体拮抗剂类药物](/文档/药物分类/NMDA受体拮抗剂类药物.md)发挥作用。
 
-NMDA受体允许电信号在脑和脊髓中的神经元之间传递；要让信号通过，受体必须处于开放状态。解离剂会通过阻断NMDA受体来关闭它们。神经元之间的这种断连会导致感觉丧失、运动困难，并最终导致这种物质相当于“[K洞](/药效/视觉分离.md#孔洞空间和虚空)”的状态。
+NMDA受体允许电信号在脑和脊髓中的神经元之间传递；要让信号通过，受体必须处于开放状态。解离剂会通过阻断NMDA受体来关闭它们。神经元之间的这种断连会导致感觉丧失、运动困难，并最终导致这种物质相当于“[K洞](/药效/视觉分离.md)”的状态。
 
 ## 主观效应
 
@@ -108,7 +108,7 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 ### **[分离效应](/药效/分离效应.md)** ![Chain-broken.svg](/文件/Chain-broken.png)
 
 * **[躯体分离](/药效/躯体分离.md)**
-* **[视觉分离](/药效/视觉分离.md)** - 这最终会导致2-氟去氯氯胺酮相当于“[K洞](https://en.wikipedia.org/wiki/K-hole)”的状态；更具体地说，会出现*[孔洞、空间和虚空](/药效/视觉分离.md#孔洞空间和虚空)*，并伴随*[结构](/药效/视觉分离.md#结构)*。
+* **[视觉分离](/药效/视觉分离.md)** - 这最终会导致2-氟去氯氯胺酮相当于“[K洞](https://en.wikipedia.org/wiki/K-hole)”的状态；更具体地说，会出现*[孔洞、空间和虚空](/药效/视觉分离.md)*，并伴随*[结构](/药效/视觉分离.md)*。
 * **[意识分离](/药效/分离效应.md)**
 
 ### **视觉效应** ![Eye.svg](/文件/Eye.png)
@@ -166,10 +166,10 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 
 ## 毒性与伤害潜力
 
-| ![Ambulance2.png](/文件/Ambulance2.png) | **本毒性与伤害潜力章节是一个小条目。**因此，它可能包含不完整甚至**危险错误**的信息！你可以帮忙扩充或纠正它哦。<br>*注意：使用这种物质时，请始终进行独立研究，并采用**[伤害减少措施](/文档/负责任的用药索引页.md#一般原则)**。* |
+| ![Ambulance2.png](/文件/Ambulance2.png) | **本毒性与伤害潜力章节是一个小条目。**因此，它可能包含不完整甚至**危险错误**的信息！你可以帮忙扩充或纠正它哦。<br>*注意：使用这种物质时，请始终进行独立研究，并采用**[伤害减少措施](/文档/负责任的用药索引页.md)**。* |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 
-更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md#毒性与伤害潜力)，以及[负责任用药 § 致幻剂](/文档/负责任的用药索引页.md#致幻剂)
+更多信息：[研究用化学品 § 毒性与伤害潜力](/文档/研究用化学品.md)，以及[负责任用药 § 致幻剂](/文档/负责任的用药索引页.md)
 
 娱乐性使用2-氟去氯氯胺酮的毒性与长期健康影响似乎尚未在任何科学语境下得到研究，确切的毒性剂量也未知。这是因为2-氟去氯氯胺酮的人类使用历史非常短。来自社区中尝试过2-氟去氯氯胺酮者的轶事证据提示，单独、低到中等剂量、偶尔地尝试这种药物，似乎并没有被归因于任何负面健康影响（不过没有任何事情能被完全保证哦）。
 
@@ -238,17 +238,17 @@ _**免责声明：**下方列出的效应引用自[***主观效应索引***](/�
 
 ## References
 
-1. [↑](#cite_ref-1) Moghimi, A., Rahmani, S., Zare, R., Sadeghzadeh, M. (18 July 2014). ["Synthesis of 2-(2-Fluorophenyl)-2-methylamino-Cyclohexanone as a New Ketamine Derivative"](https://doi.org/10.1080/00397911.2014.885053). *Synthetic Communications*. **44** (14): 2021–2028. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1080/00397911.2014.885053](//doi.org/10.1080%2F00397911.2014.885053). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [0039-7911](//www.worldcat.org/issn/0039-7911).
-2. [↑](#cite_ref-one_2-0) The Big & Dandy 2-Fluoroketamine Thread | [http://www.bluelight.org/vb/threads/776753-The-Big-amp-Dandy-2-Fluoroketamine-Thread](http://www.bluelight.org/vb/threads/776753-The-Big-amp-Dandy-2-Fluoroketamine-Thread)
-3. [↑](#cite_ref-3) Peltoniemi, M. A., Saari, T. I., Hagelberg, N. M., Laine, K., Neuvonen, P. J., Olkkola, K. T. (June 2012). "S-ketamine concentrations are greatly increased by grapefruit juice". *European Journal of Clinical Pharmacology*. **68** (6): 979–986. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/s00228-012-1214-9](//doi.org/10.1007%2Fs00228-012-1214-9). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1432-1041](//www.worldcat.org/issn/1432-1041).
-4. [↑](#cite_ref-4) [*RIS - Neue-Psychoaktive-Substanzen-Verordnung - Bundesrecht konsolidiert, Fassung vom 21.07.2022*](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642)
-5. [↑](#cite_ref-5) Controlled Drugs and Substances Act (S.C. 1996, c. 19) | [http://laws-lois.justice.gc.ca/PDF/C-38.8.pdf](http://laws-lois.justice.gc.ca/PDF/C-38.8.pdf)
-6. [↑](#cite_ref-6) [https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch](https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch)
-7. [↑](#cite_ref-7) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-8. [↑](#cite_ref-8) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-9. [↑](#cite_ref-9) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-10. [↑](#cite_ref-10) MINISTERO DELLA SALUTE, DECRETO 13 marzo 2020 [https://www.gazzettaufficiale.it/eli/id/2020/03/30/20A01820/sg](https://www.gazzettaufficiale.it/eli/id/2020/03/30/20A01820/sg)
-11. [↑](#cite_ref-11) [http://www.vm.gov.lv/images/userfiles/metodiskas_vadlinijas_080914.doc](http://www.vm.gov.lv/images/userfiles/metodiskas_vadlinijas_080914.doc)
-12. [↑](#cite_ref-12) ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
-13. [↑](#cite_ref-13) ["Cumhurbaşkanı Kararı: Karar Sayısı: 1335"](https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf) (PDF). *Resmî Gazete, Sayı: 30837* (in Turkish). Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü [General Directorate of Legislation Development and Publication] (published July 20, 2019). July 19, 2020.
-14. [↑](#cite_ref-14) [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)
+1. ↑ Moghimi, A., Rahmani, S., Zare, R., Sadeghzadeh, M. (18 July 2014). ["Synthesis of 2-(2-Fluorophenyl)-2-methylamino-Cyclohexanone as a New Ketamine Derivative"](https://doi.org/10.1080/00397911.2014.885053). *Synthetic Communications*. **44** (14): 2021–2028. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1080/00397911.2014.885053](//doi.org/10.1080%2F00397911.2014.885053). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [0039-7911](//www.worldcat.org/issn/0039-7911).
+2. ↑ The Big & Dandy 2-Fluoroketamine Thread | [http://www.bluelight.org/vb/threads/776753-The-Big-amp-Dandy-2-Fluoroketamine-Thread](http://www.bluelight.org/vb/threads/776753-The-Big-amp-Dandy-2-Fluoroketamine-Thread)
+3. ↑ Peltoniemi, M. A., Saari, T. I., Hagelberg, N. M., Laine, K., Neuvonen, P. J., Olkkola, K. T. (June 2012). "S-ketamine concentrations are greatly increased by grapefruit juice". *European Journal of Clinical Pharmacology*. **68** (6): 979–986. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/s00228-012-1214-9](//doi.org/10.1007%2Fs00228-012-1214-9). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1432-1041](//www.worldcat.org/issn/1432-1041).
+4. ↑ [*RIS - Neue-Psychoaktive-Substanzen-Verordnung - Bundesrecht konsolidiert, Fassung vom 21.07.2022*](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642)
+5. ↑ Controlled Drugs and Substances Act (S.C. 1996, c. 19) | [http://laws-lois.justice.gc.ca/PDF/C-38.8.pdf](http://laws-lois.justice.gc.ca/PDF/C-38.8.pdf)
+6. ↑ [https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch](https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch)
+7. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+8. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+9. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+10. ↑ MINISTERO DELLA SALUTE, DECRETO 13 marzo 2020 [https://www.gazzettaufficiale.it/eli/id/2020/03/30/20A01820/sg](https://www.gazzettaufficiale.it/eli/id/2020/03/30/20A01820/sg)
+11. ↑ [http://www.vm.gov.lv/images/userfiles/metodiskas_vadlinijas_080914.doc](http://www.vm.gov.lv/images/userfiles/metodiskas_vadlinijas_080914.doc)
+12. ↑ ["Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"](https://www.admin.ch/opc/de/classified-compilation/20101220/index.html) (in German). Bundeskanzlei [Federal Chancellery of Switzerland]. Retrieved January 1, 2020.
+13. ↑ ["Cumhurbaşkanı Kararı: Karar Sayısı: 1335"](https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf) (PDF). *Resmî Gazete, Sayı: 30837* (in Turkish). Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü [General Directorate of Legislation Development and Publication] (published July 20, 2019). July 19, 2020.
+14. ↑ [*The Misuse of Drugs Act 1971 (Amendment) Order 2013*](https://www.legislation.gov.uk/uksi/2013/239/introduction/made)

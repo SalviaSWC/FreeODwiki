@@ -13,13 +13,13 @@
 | **精神活性分类** | *[致幻剂](/文档/药物分类/致幻剂.md)* |
 | **化学分类** | *[色胺类物质](/文档/药物分类/色胺类物质.md)* |
 | **[给药途径](/文档/给药途径.md)** | |
-| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md#口服) |
+| **⚠️ 警告喵：** 由于个体体重、耐受性、新陈代谢和个人敏感度的差异，请务必从低剂量开始哦。[参见伤害减少措施](/文档/负责任的用药索引页.md)。 | ⇣ [口服](/文档/给药途径.md) |
 | **[给药剂量](/文档/给药剂量.md)** | |
-| [中等](/文档/药物剂量分类.md#中等) | ??? - ??? mg |
+| [中等](/文档/药物剂量分类.md) | ??? - ??? mg |
 | **[药效时长](/文档/药效时长.md)** | |
-| [总时长](/文档/药效时长.md#总时长) | ??? - ??? |
+| [总时长](/文档/药效时长.md) | ??? - ??? |
 | **免责声明哦：** 本站的[给药剂量](/文档/给药剂量.md)信息是从用户和[资源](/关于本站/index.md)中收集的，仅用于教育目的呢。这不是推荐，应该与其他来源核实准确性喵。 | |
-| **[药物联用](#危险的药物联用)** | |
+| **药物联用** | |
 
 **N-甲基-N-丙基色胺**（缩写为 **MPT**；也称为 **Methylpropyltryptamine**）是一种[色胺](/文档/药物分类/色胺类物质.md)类的合成[致幻剂](/文档/药物分类/致幻剂.md)，据报道显示出强效的[致幻](/文档/药物分类/致幻剂.md)和有时[共情](/文档/药物分类/共情剂.md)的效果。它在结构上类似于 N,N-二甲基色胺 (**[DMT](/药物/DMT.md)**) 和各种基础致幻色胺，通过这些色胺人们可以获得“突破性”体验，例如 [MET](/药物/MET.md)、[EPT](/药物/EPT.md) 和 [DPT](/药物/DPT.md)。
 
@@ -29,26 +29,26 @@ MPT 非常罕见，人类使用的历史也很少见呢。从未有记录显示�
 
 ## 目录
 
-* [1 化学](#化学)
-* [2 药理学](#药理学)
-* [3 主观效应](#主观效应)
-    * [3.1 身体效应](#身体效应)
-    * [3.2 视觉效应](#视觉效应)
-        * [3.2.1 视觉增强](#视觉增强)
-        * [3.2.2 视觉扭曲](#视觉扭曲)
-        * [3.2.3 几何图形](#几何图形)
-        * [3.2.4 幻觉状态](#幻觉状态)
-    * [3.3 认知效应](#认知效应)
-    * [3.4 听觉效应](#听觉效应)
-    * [3.5 体验报告](#体验报告)
-* [4 毒性和伤害潜能](#毒性和伤害潜能)
-    * [4.1 耐受性和成瘾潜能](#耐受性和成瘾潜能)
-    * [4.2 危险的药物联用](#危险的药物联用)
-* [5 法律地位](#法律地位)
-    * [6 另见](#另见)
-    * [7 外部链接](#外部链接)
-        * [7.1 讨论](#讨论)
-* [8 参考文献](#参考文献)
+* 1 化学
+* 2 药理学
+* 3 主观效应
+    * 3.1 身体效应
+    * 3.2 视觉效应
+        * 3.2.1 视觉增强
+        * 3.2.2 视觉扭曲
+        * 3.2.3 几何图形
+        * 3.2.4 幻觉状态
+    * 3.3 认知效应
+    * 3.4 听觉效应
+    * 3.5 体验报告
+* 4 毒性和伤害潜能
+    * 4.1 耐受性和成瘾潜能
+    * 4.2 危险的药物联用
+* 5 法律地位
+    * 6 另见
+    * 7 外部链接
+        * 7.1 讨论
+* 8 参考文献
 
 ## 化学
 
@@ -191,8 +191,8 @@ MPT 不会形成习惯，而且使用的欲望实际上可能会随着使用而�
 | [![Question_book-new.svg](/文件/Question_book-new.png)](/文件/Question_book-new.png) | **这篇文章没有引用足够的参考文献。**<br>*大家可以帮忙[添加一些](https://psychonautwiki.org/w/index.php?title=MPT&action=edit)哦。* |
 | --- | --- |
 
-1. [↑](#cite_ref-1) Chadeayne, A. R., Golen, J. A., Manke, D. R. (28 July 2019). ["N -Methyl- N -propyltryptamine (MPT)"](http://scripts.iucr.org/cgi-bin/paper?S2414314619009623). *IUCrData*. **4** (7): x190962. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1107/S2414314619009623](//doi.org/10.1107%2FS2414314619009623). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [2414-3146](//www.worldcat.org/issn/2414-3146).
-2. [↑](#cite_ref-2) Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). ["Dose-independent occurrence of seizure with tramadol"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "wikipedia:Digital object identifier"):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN "wikipedia:International Standard Serial Number") [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number "wikipedia:International Standard Serial Number") [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC "wikipedia:OCLC") [163567183](//www.worldcat.org/oclc/163567183). [PMC](http://en.wikipedia.org/wiki/PubMed_Central "wikipedia:PubMed Central") [3550327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png "Freely accessible"). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier "wikipedia:PubMed Identifier") [19415589](//www.ncbi.nlm.nih.gov/pubmed/19415589).
-3. [↑](#cite_ref-3) ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
-4. [↑](#cite_ref-4) ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
-5. [↑](#cite_ref-5) ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+1. ↑ Chadeayne, A. R., Golen, J. A., Manke, D. R. (28 July 2019). ["N -Methyl- N -propyltryptamine (MPT)"](http://scripts.iucr.org/cgi-bin/paper?S2414314619009623). *IUCrData*. **4** (7): x190962. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1107/S2414314619009623](//doi.org/10.1107%2FS2414314619009623). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [2414-3146](//www.worldcat.org/issn/2414-3146).
+2. ↑ Talaie, H.; Panahandeh, R.; Fayaznouri, M. R.; Asadi, Z.; Abdollahi, M. (2009). ["Dose-independent occurrence of seizure with tramadol"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327). *Journal of Medical Toxicology*. **5** (2): 63–67. [doi](http://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/BF03161089](//doi.org/10.1007%2FBF03161089). [eISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number#Electronic_ISSN) [1937-6995](//www.worldcat.org/issn/1937-6995). [ISSN](http://en.wikipedia.org/wiki/International_Standard_Serial_Number) [1556-9039](//www.worldcat.org/issn/1556-9039). [OCLC](http://en.wikipedia.org/wiki/OCLC) [163567183](//www.worldcat.org/oclc/163567183). [PMC](http://en.wikipedia.org/wiki/PubMed_Central) [3550327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3550327) ![Freely accessible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/langen-gb-20px-Lock-green.svg.png). [PMID](http://en.wikipedia.org/wiki/PubMed_Identifier) [19415589](//www.ncbi.nlm.nih.gov/pubmed/19415589).
+3. ↑ ["Anlage NpSG"](https://www.gesetze-im-internet.de/npsg/anlage.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
+4. ↑ ["Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes"](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf) (PDF). *Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27* (in German). Bundesanzeiger Verlag. July 17, 2019. pp. 1083–1094. Retrieved January 1, 2020.
+5. ↑ ["§ 4 NpSG"](https://www.gesetze-im-internet.de/npsg/__4.html) (in German). Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]. Retrieved December 10, 2019.
